@@ -1,0 +1,587 @@
+{
+  "restaurant": "Runza",
+  "total_items": 82,
+  "pages_extracted": 2,
+  "total_search_results": 82,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:26:52.008Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/runza.json",
+  "items": [
+    {
+      "food_id": "783054",
+      "food_name": "Homemade Chili (Bowl)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/homemade-chili-(bowl)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "776020",
+      "food_name": "Tossed Salad with Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/tossed-salad-with-grilled-chicken",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "775561",
+      "food_name": "1/4 lb. Swiss Cheese Mushroom Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/1-4-lb-swiss-cheese-mushroom-burger",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "776027",
+      "food_name": "Asian Grilled Chicken Salad (includes Asian Dressing)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/asian-grilled-chicken-salad-(includes-asian-dressing)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783363",
+      "food_name": "Banana Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/banana-smoothie",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "775553",
+      "food_name": "1/2 lb. Double Cheeseburger (The Runza Way)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/1-2-lb-double-cheeseburger-(the-runza-way)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "560807",
+      "food_name": "French Fries (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/french-fries-(medium)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "772967",
+      "food_name": "Original Runza Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/original-runza-sandwich",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "775573",
+      "food_name": "1/4 lb. Bacon Cheeseburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/1-4-lb-bacon-cheeseburger",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783107",
+      "food_name": "French Fries (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/french-fries-(small)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "775544",
+      "food_name": "1/4 lb. Cheeseburger (The Runza Way)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/1-4-lb-cheeseburger-(the-runza-way)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783334",
+      "food_name": "Blue Raspberry Runza Slushie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/blue-raspberry-runza-slushie-(medium)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783329",
+      "food_name": "Cherry Runza Slushie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/cherry-runza-slushie-(medium)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86385",
+      "food_name": "Side Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/side-salad",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783140",
+      "food_name": "Frings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/frings",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783396",
+      "food_name": "Mayo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/mayo",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "776041",
+      "food_name": "Southwest Chicken Salad with Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/southwest-chicken-salad-with-salsa",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783370",
+      "food_name": "Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/coffee",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "775820",
+      "food_name": "Deluxe Chicken Sandwich - Grilled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/deluxe-chicken-sandwich---grilled",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783126",
+      "food_name": "Onion Rings (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/onion-rings-(medium)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783381",
+      "food_name": "Milk 2%",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/milk-2%25",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "775823",
+      "food_name": "BBQ Chicken Sandwich - Grilled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/bbq-chicken-sandwich---grilled",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783072",
+      "food_name": "Chicken Strips (4 Piece)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/chicken-strips-(4-piece)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "772972",
+      "food_name": "Swiss Cheese Mushroom Runza Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/swiss-cheese-mushroom-runza-sandwich",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "776018",
+      "food_name": "Tossed Salad with Croutons",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/tossed-salad-with-croutons",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783357",
+      "food_name": "Mango Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/mango-smoothie",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "775832",
+      "food_name": "Buffalo Chicken Sandwich - Grilled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/buffalo-chicken-sandwich---grilled",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783068",
+      "food_name": "Chicken Strips (2 Piece)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/chicken-strips-(2-piece)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "776031",
+      "food_name": "Chicken Caesar Salad with Croutons",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/chicken-caesar-salad-with-croutons",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "776043",
+      "food_name": "Sweet Berry Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/sweet-berry-chicken-salad",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "775584",
+      "food_name": "1/4 lb. Jalapeno Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/1-4-lb-jalapeno-burger",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "775812",
+      "food_name": "Junior Swiss Mushroom Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/junior-swiss-mushroom-burger",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783117",
+      "food_name": "French Fries (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/french-fries-(large)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "772969",
+      "food_name": "Cheese Runza Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/cheese-runza-sandwich",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "782774",
+      "food_name": "Fat Free Hidden Valley Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/fat-free-hidden-valley-ranch-dressing",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783155",
+      "food_name": "Cake Cone with Vanilla Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/cake-cone-with-vanilla-ice-cream",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "776047",
+      "food_name": "Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/ranch-dressing",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783101",
+      "food_name": "Small Hamburger (Plain)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/small-hamburger-(plain)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783415",
+      "food_name": "Raspberry Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/raspberry-smoothie",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783341",
+      "food_name": "Pepsi Runza Slushie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/pepsi-runza-slushie-(medium)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "782897",
+      "food_name": "Cauliflower Cheese Soup (Bowl)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/cauliflower-cheese-soup-(bowl)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783196",
+      "food_name": "Cookie Dough Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/cookie-dough-sundae",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783173",
+      "food_name": "Kid-size Cake Cone with Vanilla Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/kid-size-cake-cone-with-vanilla-ice-cream",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783198",
+      "food_name": "Turtle Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/turtle-sundae",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "775806",
+      "food_name": "Junior Cheeseburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/junior-cheeseburger",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783185",
+      "food_name": "Swirl Ice Cream Dish (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/swirl-ice-cream-dish-(medium)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783168",
+      "food_name": "Cake Cone with Swirl Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/cake-cone-with-swirl-ice-cream",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783057",
+      "food_name": "Fish Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/fish-sandwich",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783074",
+      "food_name": "Buffalo Mini Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/buffalo-mini-chicken-wrap",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783081",
+      "food_name": "Ranch Mini Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/ranch-mini-chicken-wrap",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783224",
+      "food_name": "Strawberry Shake (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/strawberry-shake-(regular)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783393",
+      "food_name": "Mushrooms",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/mushrooms",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "775566",
+      "food_name": "1/4 lb. French Onion Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/1-4-lb-french-onion-burger",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "775827",
+      "food_name": "Smothered Chicken Sandwich - Grilled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/smothered-chicken-sandwich---grilled",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "776014",
+      "food_name": "Buffalo Chicken Sandwich - Crispy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/buffalo-chicken-sandwich---crispy",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "782779",
+      "food_name": "Dorothy Lynch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/dorothy-lynch-dressing",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783188",
+      "food_name": "Chocolate Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/chocolate-sundae",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783348",
+      "food_name": "Pepsi (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/pepsi-(medium)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783421",
+      "food_name": "BBQ, Bacon & Swiss Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/bbq-bacon-and-swiss-burger",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783094",
+      "food_name": "Chicken Strips (Kids)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/chicken-strips-(kids)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783339",
+      "food_name": "Grape Runza Slushie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/grape-runza-slushie-(medium)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "782883",
+      "food_name": "Boston Clam Chowder (Bowl)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/boston-clam-chowder-(bowl)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783213",
+      "food_name": "Chocolate Shake (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/chocolate-shake-(regular)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783362",
+      "food_name": "Strawberry Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/strawberry-smoothie",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8538943",
+      "food_name": "Spicy Jack Runza Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/spicy-jack-runza-sandwich",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783132",
+      "food_name": "Onion Rings (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/onion-rings-(large)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "782848",
+      "food_name": "Poppyseed Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/poppyseed-dressing",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "782900",
+      "food_name": "Vegetable Cheese Soup (Bowl)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/vegetable-cheese-soup-(bowl)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "782911",
+      "food_name": "Broccoli Cheese Soup (Bowl)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/broccoli-cheese-soup-(bowl)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783147",
+      "food_name": "Onion Ring Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/onion-ring-dip",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783150",
+      "food_name": "Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/chocolate-chip-cookie",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "775843",
+      "food_name": "BBQ Chicken Sandwich - Crispy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/bbq-chicken-sandwich---crispy",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "782874",
+      "food_name": "Wisconsin Cheese Soup (Bowl)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/wisconsin-cheese-soup-(bowl)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783061",
+      "food_name": "Polish Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/polish-dog",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "775815",
+      "food_name": "Junior Cheeseburger (The Runza Way)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/junior-cheeseburger-(the-runza-way)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783097",
+      "food_name": "Kids Runza Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/kids-runza-sandwich",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "776022",
+      "food_name": "Tossed Salad with Crispy Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/tossed-salad-with-crispy-chicken",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783406",
+      "food_name": "Aztec Grilled Chicken Salad (Includes Hidden Valley Fat Free Original Ranch Dressing)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/aztec-grilled-chicken-salad-(includes-hidden-valley-fat-free-original-ranch-dressing)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "782905",
+      "food_name": "Potato with Bacon Soup (Bowl)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/potato-with-bacon-soup-(bowl)",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783161",
+      "food_name": "Cake Cone with Chocolate Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/cake-cone-with-chocolate-ice-cream",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783386",
+      "food_name": "Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/bacon",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82013006",
+      "food_name": "Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/runza/ice-cream-sandwich",
+      "brand_name": "Runza",
+      "food_type": "Brand"
+    }
+  ]
+}

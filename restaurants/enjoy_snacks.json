@@ -1,0 +1,27 @@
+{
+  "restaurant": "Enjoy Snacks",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 341,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:49:57.623Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/enjoy_snacks.json",
+  "items": [
+    {
+      "food_id": "1560713",
+      "food_name": "Premium Mixed Arare",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/enjoy-snacks/premium-mixed-arare",
+      "brand_name": "Enjoy Snacks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2511710",
+      "food_name": "Red Iso Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/enjoy-snacks/red-iso-peanuts",
+      "brand_name": "Enjoy Snacks",
+      "food_type": "Brand"
+    }
+  ]
+}

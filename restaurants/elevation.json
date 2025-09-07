@@ -1,0 +1,594 @@
+{
+  "restaurant": "Elevation",
+  "total_items": 83,
+  "pages_extracted": 2,
+  "total_search_results": 83,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:40:07.022Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/elevation.json",
+  "items": [
+    {
+      "food_id": "15279779",
+      "food_name": "Vanilla Whey Protein Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/vanilla-whey-protein-powder",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14471954",
+      "food_name": "Chocolate Protein Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/chocolate-protein-powder",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47354633",
+      "food_name": "Protein Shake Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/protein-shake-vanilla",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46954203",
+      "food_name": "High Performance Protein Shake Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/high-performance-protein-shake-chocolate",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12761367",
+      "food_name": "Chocolate Mint High Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/chocolate-mint-high-protein-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12132955",
+      "food_name": "Chocolate Peanut Butter High Protein Bar (68g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/chocolate-peanut-butter-high-protein-bar-(68g)",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45898778",
+      "food_name": "Functional Protein Bar Cookies N Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/functional-protein-bar-cookies-n-cream",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78253615",
+      "food_name": "Functional Protein Bar Golden Vanilla Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/functional-protein-bar-golden-vanilla-cream",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18379746",
+      "food_name": "Cookie Dough Protein Nutrition Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/cookie-dough-protein-nutrition-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14315636",
+      "food_name": "Whey Protein Powder Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/whey-protein-powder-blend",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76697842",
+      "food_name": "Protein Puffs Nacho Cheese Flavored",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/protein-puffs-nacho-cheese-flavored",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40355779",
+      "food_name": "Protein Meal Advance Bar - Chocolate Chip Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/protein-meal-advance-bar-chocolate-chip-granola",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39021492",
+      "food_name": "Protein Meal Advance Bar - Chocolate Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/protein-meal-advance-bar-chocolate-peanut-butter",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14482522",
+      "food_name": "Chocolate Coconut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/chocolate-coconut-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14438767",
+      "food_name": "Caramel Double Chocolate Crunch Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/caramel-double-chocolate-crunch-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41568827",
+      "food_name": "Chocolate Peanut Butter High Protein Bar (45g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/chocolate-peanut-butter-high-protein-bar-(45g)",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46200061",
+      "food_name": "Chocolate Sea Salt Maxx Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/chocolate-sea-salt-maxx-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56163599",
+      "food_name": "Whey Protein Blend Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/whey-protein-blend-chocolate",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18117125",
+      "food_name": "Yogurt Honey Peanut Protein Nutrition Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/yogurt-honey-peanut-protein-nutrition-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27782568",
+      "food_name": "Double Chocolate Protein Meal Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/double-chocolate-protein-meal-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20785694",
+      "food_name": "Strawberry Protein Meal Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/strawberry-protein-meal-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14121950",
+      "food_name": "Protein Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/protein-powder",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79122543",
+      "food_name": "Protein Puffs (Jalapeño Cheddar)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/protein-puffs-(jalape%C3%B1o-cheddar)",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15178256",
+      "food_name": "Caramel Nut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/caramel-nut-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28791504",
+      "food_name": "Meal Replacement Chocolate Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/meal-replacement-chocolate-shake",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76872374",
+      "food_name": "Whey Protein Blend Chocolate Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/whey-protein-blend-chocolate-peanut-butter",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14710251",
+      "food_name": "Caramel Chocolate Peanut Nougat Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/caramel-chocolate-peanut-nougat-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94894816",
+      "food_name": "Blueberry Greek Yogurt Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/blueberry-greek-yogurt-protein-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23837273",
+      "food_name": "Chocolatey Chip Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/chocolatey-chip-protein-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68981573",
+      "food_name": "Snack Advance Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/snack-advance-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46323499",
+      "food_name": "Maxx Bar Blueberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/maxx-bar-blueberry",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75902546",
+      "food_name": "Protein Puffs Nacho Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/protein-puffs-nacho-cheese",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18117558",
+      "food_name": "Crunchy Peanut Butter Energy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/crunchy-peanut-butter-energy-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14025120",
+      "food_name": "Chocolate Chip Energy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/chocolate-chip-energy-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77249059",
+      "food_name": "Protein Meal Bars Chocolate Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/protein-meal-bars-chocolate-peanut-butter",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48630702",
+      "food_name": "Maxx Peanut Butter Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/maxx-peanut-butter-chocolate-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25023292",
+      "food_name": "Dark Chocolate Cashew Cherry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/dark-chocolate-cashew-cherry",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70129762",
+      "food_name": "Caramel Chocolate Nut Roll Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/caramel-chocolate-nut-roll-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68704658",
+      "food_name": "Protein Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/protein-puffs",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85509609",
+      "food_name": "Only Peanut Butter Dark Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/only-peanut-butter-dark-chocolate",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13472455",
+      "food_name": "Apple Pie Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/apple-pie-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78458593",
+      "food_name": "Functional Protein Bar Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/functional-protein-bar-peanut-butter",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51055342",
+      "food_name": "Pure & Simple Peanut Butter Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/pure-simple-peanut-butter-cookie",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15299445",
+      "food_name": "Peanut Butter Cookie Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/peanut-butter-cookie-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20974858",
+      "food_name": "White Chocolate Macadamia Nut Energy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/white-chocolate-macadamia-nut-energy-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81336500",
+      "food_name": "Mini High Protein Bars Lemon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/mini-high-protein-bars-lemon",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78454815",
+      "food_name": "Functional Protein Bar Chocolate Mint",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/functional-protein-bar-chocolate-mint",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32633223",
+      "food_name": "Dark Chocolate Peanut Butter Nut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/dark-chocolate-peanut-butter-nut-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91136945",
+      "food_name": "Nuts & Sea Salt with Dark Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/nuts-sea-salt-with-dark-chocolate",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65870524",
+      "food_name": "High Performance Protein Shake Cafe Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/high-performance-protein-shake-cafe-latte",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40030050",
+      "food_name": "Dark Chocolate Nuts & Sea Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/dark-chocolate-nuts-sea-salt",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43704540",
+      "food_name": "Chocolate Coconut Macaroon Keto Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/chocolate-coconut-macaroon-keto-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45158889",
+      "food_name": "Chocolate Almond Brownie Keto Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/chocolate-almond-brownie-keto-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25640073",
+      "food_name": "Dark Chocolate Chunk Multigrain Squares",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/dark-chocolate-chunk-multigrain-squares",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41380178",
+      "food_name": "Caramel Almond & Sea Salt Nut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/caramel-almond-sea-salt-nut-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59021216",
+      "food_name": "Whey Protein Blend Cookies & Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/whey-protein-blend-cookies-cream",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14934551",
+      "food_name": "Peanut Butter Fudge Crisp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/peanut-butter-fudge-crisp",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33619576",
+      "food_name": "Dark Chocolate Mocha Almond Nut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/dark-chocolate-mocha-almond-nut-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30440832",
+      "food_name": "Triple Chocolate High Protein Wafer Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/triple-chocolate-high-protein-wafer-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14166646",
+      "food_name": "Coconut Almond Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/coconut-almond-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46070322",
+      "food_name": "Salted Caramel Pecan Keto Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/salted-caramel-pecan-keto-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18383380",
+      "food_name": "Double Chocolate Chunk Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/double-chocolate-chunk-protein-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54196323",
+      "food_name": "Coconut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/coconut-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103393121",
+      "food_name": "Meal Replacement Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/meal-replacement-shake",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17659029",
+      "food_name": "Lemon Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/lemon-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47156963",
+      "food_name": "Macadamia Nut Keto Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/macadamia-nut-keto-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30662101",
+      "food_name": "Cranberry Almond Carb Conscious Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/cranberry-almond-carb-conscious-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50825378",
+      "food_name": "Raspberry Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/raspberry-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45474567",
+      "food_name": "Functional Protein Bar Caramel Chocolate Nut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/functional-protein-bar-caramel-chocolate-nut",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14207577",
+      "food_name": "Cranberry Almond Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/cranberry-almond-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59608713",
+      "food_name": "Base 20 Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/base-20-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47275000",
+      "food_name": "Strawberry Nut Keto Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/strawberry-nut-keto-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47989729",
+      "food_name": "Only Minis Chocolate Almond Coconut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/only-minis-chocolate-almond-coconut",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84929994",
+      "food_name": "Strawberry Cheesecake Endulgent Dessert Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/strawberry-cheesecake-endulgent-dessert-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44687231",
+      "food_name": "Nuts & Chocolate Wellness Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/nuts-chocolate-wellness-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20903940",
+      "food_name": "Maple Pumpkin Seed Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/maple-pumpkin-seed-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59166806",
+      "food_name": "Dark Chocolate Cinnamon Pecan Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/dark-chocolate-cinnamon-pecan-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46021840",
+      "food_name": "Only Minis Chocolate Salted Caramel Nut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/only-minis-chocolate-salted-caramel-nut-bar",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38952698",
+      "food_name": "Protein & Probiotic Mini Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation/protein-probiotic-mini-cookies",
+      "brand_name": "Elevation",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4532003",
+      "food_name": "Elevation Burger (Wrapped in Lettuce)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation-burger/elevation-burger-(wrapped-in-lettuce)",
+      "brand_name": "Elevation Burger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19558803",
+      "food_name": "Elevation Caramel Nut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/millville/elevation-caramel-nut-bar",
+      "brand_name": "Millville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25229377",
+      "food_name": "Elevation Caramel Nut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/aldi/elevation-caramel-nut",
+      "brand_name": "Aldi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4897101",
+      "food_name": "Elevation Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation-burger/elevation-burger",
+      "brand_name": "Elevation Burger",
+      "food_type": "Brand"
+    }
+  ]
+}

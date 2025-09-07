@@ -1,0 +1,62 @@
+{
+  "restaurant": "Milford Valley Farms",
+  "total_items": 7,
+  "pages_extracted": 2,
+  "total_search_results": 78,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:35:45.296Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/milford_valley_farms.json",
+  "items": [
+    {
+      "food_id": "69965",
+      "food_name": "Crunchy Chicken Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/milford-valley-farms/crunchy-chicken-nuggets",
+      "brand_name": "Milford Valley Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76332",
+      "food_name": "Chicken Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/milford-valley-farms/chicken-strips",
+      "brand_name": "Milford Valley Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74976",
+      "food_name": "Chicken Breast with Broccoli & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/milford-valley-farms/chicken-breast-with-broccoli-and-cheese",
+      "brand_name": "Milford Valley Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57567",
+      "food_name": "Chicken Kiev",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/milford-valley-farms/chicken-kiev",
+      "brand_name": "Milford Valley Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57568",
+      "food_name": "Chicken Cordon Bleu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/milford-valley-farms/chicken-cordon-bleu",
+      "brand_name": "Milford Valley Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3905250",
+      "food_name": "Chicken Cordon Bleu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/milford-valley-farms/chicken-cordon-bleu/1-portion",
+      "brand_name": "Milford Valley Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65329560",
+      "food_name": "Chicken Breast with Broccoli & Cheese (142g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/milford-valley-farms/chicken-breast-with-broccoli-cheese-(142g)",
+      "brand_name": "Milford Valley Farms",
+      "food_type": "Brand"
+    }
+  ]
+}

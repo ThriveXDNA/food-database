@@ -1,0 +1,69 @@
+{
+  "restaurant": "Extraordinary Bites",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 1297,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:01:54.875Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/extraordinary_bites.json",
+  "items": [
+    {
+      "food_id": "44027536",
+      "food_name": "Keto Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extraordinary-bites/keto-bread",
+      "brand_name": "Extraordinary Bites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60768268",
+      "food_name": "Tortilla Wraps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extraordinary-bites/tortilla-wraps",
+      "brand_name": "Extraordinary Bites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69432395",
+      "food_name": "Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extraordinary-bites/bagels",
+      "brand_name": "Extraordinary Bites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42098433",
+      "food_name": "New York Style Chocolate Cheesecake Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extraordinary-bites/new-york-style-chocolate-cheesecake-bites",
+      "brand_name": "Extraordinary Bites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47149620",
+      "food_name": "Pork Tamales",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extraordinary-bites/pork-tamales",
+      "brand_name": "Extraordinary Bites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44178411",
+      "food_name": "Fat Bombs Snicker Doodle Cookie Dough Keto Snack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extraordinary-bites/fat-bombs-snicker-doodle-cookie-dough-keto-snack",
+      "brand_name": "Extraordinary Bites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57204646",
+      "food_name": "Hawaiian Sweet Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extraordinary-bites/hawaiian-sweet-rolls",
+      "brand_name": "Extraordinary Bites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50306551",
+      "food_name": "Hamburger Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extraordinary-bites/hamburger-buns",
+      "brand_name": "Extraordinary Bites",
+      "food_type": "Brand"
+    }
+  ]
+}

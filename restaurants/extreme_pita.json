@@ -1,0 +1,62 @@
+{
+  "restaurant": "Extreme Pita",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 515,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:34:40.318Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/extreme_pita.json",
+  "items": [
+    {
+      "food_id": "543726",
+      "food_name": "Grilled Chicken Pita (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extreme-pita/grilled-chicken-pita-(regular)",
+      "brand_name": "Extreme Pita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3946569",
+      "food_name": "Gyro (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extreme-pita/gyro-(regular)",
+      "brand_name": "Extreme Pita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2988000",
+      "food_name": "Buffalo Chicken Pita (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extreme-pita/buffalo-chicken-pita-(regular)",
+      "brand_name": "Extreme Pita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3737707",
+      "food_name": "Philly Cheese Steak Pita (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extreme-pita/philly-cheese-steak-pita-(small)",
+      "brand_name": "Extreme Pita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "926037",
+      "food_name": "Grilled Chicken Pita (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extreme-pita/grilled-chicken-pita-(small)",
+      "brand_name": "Extreme Pita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1010484",
+      "food_name": "Hummus Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extreme-pita/hummus-dip",
+      "brand_name": "Extreme Pita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "909831",
+      "food_name": "Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extreme-pita/cheddar-cheese",
+      "brand_name": "Extreme Pita",
+      "food_type": "Brand"
+    }
+  ]
+}

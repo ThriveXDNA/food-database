@@ -1,0 +1,24 @@
+{
+  "name": "food-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extract-fatsecret.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThriveXDNA/food-database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThriveXDNA/food-database/issues"
+  },
+  "homepage": "https://github.com/ThriveXDNA/food-database#readme",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "node-fetch": "^2.7.0"
+  }
+}

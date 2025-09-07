@@ -1,0 +1,27 @@
+{
+  "restaurant": "Pierce Chicken",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 15826,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:11:20.814Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pierce_chicken.json",
+  "items": [
+    {
+      "food_id": "1896854",
+      "food_name": "Wing Dings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pierce-chicken/wing-dings",
+      "brand_name": "Pierce Chicken",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1202953",
+      "food_name": "Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pierce-chicken/chicken-salad",
+      "brand_name": "Pierce Chicken",
+      "food_type": "Brand"
+    }
+  ]
+}

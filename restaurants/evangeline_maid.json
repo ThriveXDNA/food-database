@@ -1,0 +1,48 @@
+{
+  "restaurant": "Evangeline Maid",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 275,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:57:56.751Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/evangeline_maid.json",
+  "items": [
+    {
+      "food_id": "203394",
+      "food_name": "Thin Sandwich Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/evangeline-maid/thin-sandwich-bread",
+      "brand_name": "Evangeline Maid",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "203393",
+      "food_name": "Small Old Fashioned Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/evangeline-maid/small-old-fashioned-bread",
+      "brand_name": "Evangeline Maid",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4669435",
+      "food_name": "Hamburger Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/evangeline-maid/hamburger-buns",
+      "brand_name": "Evangeline Maid",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "203392",
+      "food_name": "Giant Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/evangeline-maid/giant-bread",
+      "brand_name": "Evangeline Maid",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "210175",
+      "food_name": "Jumbo Enriched Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/evangeline-maid/jumbo-enriched-buns",
+      "brand_name": "Evangeline Maid",
+      "food_type": "Brand"
+    }
+  ]
+}

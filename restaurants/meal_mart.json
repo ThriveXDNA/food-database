@@ -1,0 +1,90 @@
+{
+  "restaurant": "Meal Mart",
+  "total_items": 11,
+  "pages_extracted": 6,
+  "total_search_results": 777,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:07:28.162Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/meal_mart.json",
+  "items": [
+    {
+      "food_id": "1012954",
+      "food_name": "Deli Style Sliced Pastrami",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meal-mart/deli-style-sliced-pastrami",
+      "brand_name": "Meal Mart",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1071393",
+      "food_name": "Beef Stuffed Cabbage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meal-mart/beef-stuffed-cabbage",
+      "brand_name": "Meal Mart",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10086791",
+      "food_name": "Chicken Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meal-mart/chicken-nuggets",
+      "brand_name": "Meal Mart",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3625483",
+      "food_name": "Vegan Falafel Balls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meal-mart/vegan-falafel-balls",
+      "brand_name": "Meal Mart",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15298449",
+      "food_name": "Oven Roasted Beef Brisket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meal-mart/oven-roasted-beef-brisket",
+      "brand_name": "Meal Mart",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4281975",
+      "food_name": "Oven Roasted Turkey Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meal-mart/oven-roasted-turkey-breast",
+      "brand_name": "Meal Mart",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4786069",
+      "food_name": "Turkey Stuffed Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meal-mart/turkey-stuffed-peppers",
+      "brand_name": "Meal Mart",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16694713",
+      "food_name": "Beef Pot Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meal-mart/beef-pot-pie",
+      "brand_name": "Meal Mart",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3071203",
+      "food_name": "Cooked Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meal-mart/cooked-pot-roast",
+      "brand_name": "Meal Mart",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66006650",
+      "food_name": "Corned Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meal-mart/corned-beef",
+      "brand_name": "Meal Mart",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20670644",
+      "food_name": "Beef Meatballs (Gluten Free)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meal-mart/beef-meatballs-(gluten-free)",
+      "brand_name": "Meal Mart",
+      "food_type": "Brand"
+    }
+  ]
+}

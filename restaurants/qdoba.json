@@ -1,0 +1,977 @@
+{
+  "restaurant": "Qdoba",
+  "total_items": 138,
+  "pages_extracted": 15,
+  "last_updated": "2025-09-06T06:47:49.943Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Restaurant search with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/qdoba.json",
+  "items": [
+    {
+      "food_id": "57029563",
+      "food_name": "Grilled Adobo Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/grilled-adobo-chicken",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2482051",
+      "food_name": "Shredded Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/shredded-cheese",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996500",
+      "food_name": "Cilantro Lime Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/cilantro-lime-rice",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "885357",
+      "food_name": "Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/black-beans",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2340709",
+      "food_name": "Pico de Gallo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/pico-de-gallo",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996542",
+      "food_name": "Fajita Veggies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/fajita-veggies",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026147",
+      "food_name": "Hand Crafted Guacamole (2 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/hand-crafted-guacamole-(2-oz)",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996669",
+      "food_name": "Romaine Lettuce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/romaine-lettuce",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2876515",
+      "food_name": "Sour Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/sour-cream",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996472",
+      "food_name": "Chile Corn Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/chile-corn-salsa",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996605",
+      "food_name": "Grilled Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/grilled-steak",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996676",
+      "food_name": "Seasoned Brown Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/seasoned-brown-rice",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996717",
+      "food_name": "Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/tortilla-chips",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996651",
+      "food_name": "Pickled Red Onion",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/pickled-red-onion",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19931307",
+      "food_name": "Queso Diablo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/queso-diablo",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61714099",
+      "food_name": "Chicken Queso Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/chicken-queso-bowl",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2717031",
+      "food_name": "Pinto Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/pinto-beans/1-serving",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996777",
+      "food_name": "Quesabirria Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/quesabirria-quesadilla",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69089992",
+      "food_name": "Tortilla Chips - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/tortilla-chips-kids",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2876825",
+      "food_name": "Salsa Roja",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/salsa-roja",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996465",
+      "food_name": "Brisket Birria",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/brisket-birria",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1112991",
+      "food_name": "Chicken Queso Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/chicken-queso-burrito",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996561",
+      "food_name": "Flour Tortilla (10-Inch)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/flour-tortilla-(10-inch)",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996483",
+      "food_name": "Chopped Cilantro",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/chopped-cilantro",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996649",
+      "food_name": "Pickled Jalapenos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/pickled-jalapenos",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026161",
+      "food_name": "Salsa Verde",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/salsa-verde",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996479",
+      "food_name": "Cholula Hot & Sweet Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/cholula-hot-sweet-chicken",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026175",
+      "food_name": "Double Protein Bowl - Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/double-protein-bowl-chicken",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996774",
+      "food_name": "Quesabirria Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/quesabirria-burrito",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996521",
+      "food_name": "Cotija Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/cotija-cheese",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026186",
+      "food_name": "Double Protein Bowl - Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/double-protein-bowl-steak",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43745653",
+      "food_name": "Tortilla Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/tortilla-strips",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026154",
+      "food_name": "Hand Crafted Guacamole (4 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/hand-crafted-guacamole-(4-oz)",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996609",
+      "food_name": "Ground Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/ground-beef",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996612",
+      "food_name": "Habanero Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/habanero-salsa",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996474",
+      "food_name": "Chile Crema",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/chile-crema",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996782",
+      "food_name": "Southwest Steak Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/southwest-steak-burrito",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026195",
+      "food_name": "Keto Bowl - Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/keto-bowl-chicken",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996742",
+      "food_name": "Fajita Vegan Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/fajita-vegan-bowl",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996529",
+      "food_name": "Crispy Taco Shell",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/crispy-taco-shell",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62700225",
+      "food_name": "Citrus Lime Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/citrus-lime-chicken-salad",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996883",
+      "food_name": "Grilled Chicken - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/grilled-chicken-kids",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69090186",
+      "food_name": "Jarritos Pineapple",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/jarritos-pineapple",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026225",
+      "food_name": "Three Cheese Queso - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/three-cheese-queso-kids",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026197",
+      "food_name": "Keto Bowl - Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/keto-bowl-steak",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69089958",
+      "food_name": "Hand Smashed Guac - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/hand-smashed-guac-kids",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996566",
+      "food_name": "Flour Tortilla (12.5-Inch)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/flour-tortilla-(125-inch)",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996671",
+      "food_name": "Romaine Lettuce for Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/romaine-lettuce-for-salad",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996558",
+      "food_name": "Flour Tortilla (5.5-Inch)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/flour-tortilla-(55-inch)",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996723",
+      "food_name": "Cholula Hot & Sweet Chicken Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/cholula-hot-sweet-chicken-bowl",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026191",
+      "food_name": "Keto Bowl - Brisket Birria",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/keto-bowl-brisket-birria",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523219",
+      "food_name": "Three Cheese Queso (2 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/three-cheese-queso-(2-oz)",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18599817",
+      "food_name": "Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/eggs",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996739",
+      "food_name": "Cholula Hot & Sweet Chicken Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/cholula-hot-sweet-chicken-burrito",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996666",
+      "food_name": "Roasted Tomato Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/roasted-tomato-salsa",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026219",
+      "food_name": "Flour Tortilla - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/flour-tortilla-kids",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996870",
+      "food_name": "Black Beans - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/black-beans-kids",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69089979",
+      "food_name": "Shredded Cheese - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/shredded-cheese-kids",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026275",
+      "food_name": "Chocolate Chunk Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/chocolate-chunk-cookie",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996632",
+      "food_name": "Picante Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/picante-ranch-dressing",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996682",
+      "food_name": "Seasoned Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/seasoned-potatoes",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69089814",
+      "food_name": "Grilled Steak - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/grilled-steak-kids",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996877",
+      "food_name": "Cilantro Lime Rice - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/cilantro-lime-rice-kids",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69090183",
+      "food_name": "Jarritos Mandarin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/jarritos-mandarin",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69090230",
+      "food_name": "Double Chocolate Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/double-chocolate-brownie",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026140",
+      "food_name": "Citrus Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/citrus-vinaigrette",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523239",
+      "food_name": "Three Cheese Queso (4 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/three-cheese-queso-(4-oz)",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69090169",
+      "food_name": "Coca Cola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/coca-cola",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69090178",
+      "food_name": "Jarritos Lime",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/jarritos-lime",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523491",
+      "food_name": "Habanero Lime Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/habanero-lime-steak",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69090172",
+      "food_name": "Diet Coke",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/diet-coke",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69089987",
+      "food_name": "Sour Cream - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/sour-cream-kids",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996461",
+      "food_name": "Bacon (1 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/bacon-(1-oz)",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996533",
+      "food_name": "Crunchy Tortilla Shell",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/crunchy-tortilla-shell",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523359",
+      "food_name": "Street Style Pork Carnitas Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/street-style-pork-carnitas-tacos",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523371",
+      "food_name": "Mango Salsa (2 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/mango-salsa-(2-oz)",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69090189",
+      "food_name": "Jarritos Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/jarritos-strawberry",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996752",
+      "food_name": "Impossible Taco Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/impossible-taco-salad",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69089961",
+      "food_name": "Pinto Beans - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/pinto-beans-kids",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523325",
+      "food_name": "Street Style Chicken Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/street-style-chicken-tacos",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523426",
+      "food_name": "Mexican Coke",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/mexican-coke",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026124",
+      "food_name": "Chorizo (1.5 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/chorizo-(15-oz)",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026450",
+      "food_name": "Coca-Cola Zero - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/coca-cola-zero-large",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69089971",
+      "food_name": "Seasoned Brown Rice - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/seasoned-brown-rice-kids",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69090213",
+      "food_name": "Vitamin Water XXX",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/vitamin-water-xxx",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69090175",
+      "food_name": "Gold Peak Raspberry Ice Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/gold-peak-raspberry-ice-tea",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69090211",
+      "food_name": "Vitamin Water Power C",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/vitamin-water-power-c",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026239",
+      "food_name": "Barq's Root Beer - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/barqs-root-beer-regular",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523201",
+      "food_name": "Pork Carnitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/pork-carnitas",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69090192",
+      "food_name": "Minute Maid Kid's Apple Juice Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/minute-maid-kids-apple-juice-box",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026284",
+      "food_name": "Gold Peak Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/gold-peak-green-tea",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026448",
+      "food_name": "Coca-Cola - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/coca-cola-regular",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026299",
+      "food_name": "Gold Peak Classic Sweet Tea - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/gold-peak-classic-sweet-tea-large",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026349",
+      "food_name": "Minute Maid Light Lemonade - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/minute-maid-light-lemonade-large",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026392",
+      "food_name": "Cherry Coca-Cola - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/cherry-coca-cola-regular",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026442",
+      "food_name": "Diet Coke - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/diet-coke-regular",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523180",
+      "food_name": "Chorizo (3.0 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/chorizo-(30-oz)",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996463",
+      "food_name": "Bacon (2 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/bacon-(2-oz)",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69090195",
+      "food_name": "Simply Orange Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/simply-orange-juice",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026293",
+      "food_name": "Sprite - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/sprite-regular",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996865",
+      "food_name": "Apple Sauce, Natural - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/apple-sauce-natural-kids",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69090163",
+      "food_name": "Dasani Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/dasani-water",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026283",
+      "food_name": "Gold Peak Peach Ice Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/gold-peak-peach-ice-tea",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026289",
+      "food_name": "Sprite - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/sprite-large",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026309",
+      "food_name": "Gold Peak Classic Sweet Tea - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/gold-peak-classic-sweet-tea-regular",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026318",
+      "food_name": "Gold Peak Southern Tea - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/gold-peak-southern-tea-large",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026322",
+      "food_name": "Gold Peak Southern Tea - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/gold-peak-southern-tea-regular",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026324",
+      "food_name": "Gold Peak Classic Blend Tea - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/gold-peak-classic-blend-tea-large",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026336",
+      "food_name": "POWERade Mountain Berry Blast - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/powerade-mountain-berry-blast-large",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026341",
+      "food_name": "POWERade Mountain Berry Blast - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/powerade-mountain-berry-blast-regular",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026351",
+      "food_name": "Minute Maid Light Lemonade - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/minute-maid-light-lemonade-regular",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026360",
+      "food_name": "Minute Maid Lemonade - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/minute-maid-lemonade-large",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026363",
+      "food_name": "Minute Maid Lemonade - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/minute-maid-lemonade-regular",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026367",
+      "food_name": "Mello Yello - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/mello-yello-large",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026377",
+      "food_name": "Barq's Root Beer - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/barqs-root-beer-large",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026384",
+      "food_name": "Caffeine Free Diet Coke - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/caffeine-free-diet-coke-regular",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026388",
+      "food_name": "Caffeine Free Diet Coke - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/caffeine-free-diet-coke-large",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026403",
+      "food_name": "Cherry Coca-Cola - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/cherry-coca-cola-large",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026416",
+      "food_name": "Hi-C Flashin Fruit Punch - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/hi-c-flashin-fruit-punch-large",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026420",
+      "food_name": "Hi-C Flashin Fruit Punch - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/hi-c-flashin-fruit-punch-regular",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026424",
+      "food_name": "Fanta Orange - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/fanta-orange-large",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026430",
+      "food_name": "Fanta Orange - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/fanta-orange-regular",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026435",
+      "food_name": "Diet Coke - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/diet-coke-large",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026445",
+      "food_name": "Coca-Cola - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/coca-cola-large",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523372",
+      "food_name": "Mango Salsa (4 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/mango-salsa-(4-oz)",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523375",
+      "food_name": "Mango Salsa (8 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/mango-salsa-(8-oz)",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523441",
+      "food_name": "Milk, White Low Fat 1%",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/milk-white-low-fat-1",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68996663",
+      "food_name": "Plant-Based Impossible",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/plant-based-impossible",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69090217",
+      "food_name": "Vitamin Water Zero Squeezed Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/vitamin-water-zero-squeezed-lemonade",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026329",
+      "food_name": "Gold Peak Classic Blend Tea - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/gold-peak-classic-blend-tea-regular",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026371",
+      "food_name": "Mello Yello - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/mello-yello-regular",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84026411",
+      "food_name": "Coca-Cola Zero - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/coca-cola-zero-regular",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523380",
+      "food_name": "Pork Carnitas - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/pork-carnitas-kids",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523387",
+      "food_name": "Black Beans w/ Cheese - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/black-beans-w-cheese-kids",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523395",
+      "food_name": "Diet Dr. Pepper - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/diet-dr-pepper-regular",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523397",
+      "food_name": "Diet Dr. Pepper - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/diet-dr-pepper-large",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523403",
+      "food_name": "Gold Peak Black Ice Tea, Unsweetened",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/gold-peak-black-ice-tea-unsweetened",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104523430",
+      "food_name": "Milk, Chocolate Low Fat 1%",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/qdoba-mexican-grill/milk-chocolate-low-fat-1",
+      "brand_name": "Qdoba Mexican Grill",
+      "food_type": "Brand"
+    }
+  ]
+}

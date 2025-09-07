@@ -1,0 +1,503 @@
+{
+  "restaurant": "Fresh Direct",
+  "total_items": 70,
+  "pages_extracted": 6,
+  "total_search_results": 1200,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:24:27.678Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fresh_direct.json",
+  "items": [
+    {
+      "food_id": "1921129",
+      "food_name": "Grilled Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/grilled-chicken-salad",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11425100",
+      "food_name": "Corn & Black Bean Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/corn-and-black-bean-salad",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1261432",
+      "food_name": "Corn Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/corn-chowder",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "630289",
+      "food_name": "Raw Branzino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/raw-branzino",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2026752",
+      "food_name": "Spinach Salad with Goat Cheese & Beets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/spinach-salad-with-goat-cheese-and-beets",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5474964",
+      "food_name": "Breaded Chicken Cutlet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/breaded-chicken-cutlet",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3312665",
+      "food_name": "Chili-Garlic Tofu & Asian Veggies Stir-Fry Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/chili-garlic-tofu-and-asian-veggies-stir-fry-kit",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12664600",
+      "food_name": "Green Vegetable Couscous Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/green-vegetable-couscous-salad",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4697648",
+      "food_name": "Garden Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/garden-salad",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46141",
+      "food_name": "Rosa Mexicano Chicken Breasts with Yucatan Spices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/rosa-mexicano-chicken-breasts-with-yucatan-spices",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1224246",
+      "food_name": "Crab Stuffed Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/crab-stuffed-salmon",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3398773",
+      "food_name": "Tuna Nicoise Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/tuna-nicoise-salad",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3286855",
+      "food_name": "Ginger Teriyaki Marinated Beef Skirt Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/ginger-teriyaki-marinated-beef-skirt-steak",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2042951",
+      "food_name": "Turkey Chili with Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/turkey-chili-with-beans",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4053066",
+      "food_name": "Chicken Fingers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/chicken-fingers",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7108042",
+      "food_name": "Bison Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/bison-burger",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5287172",
+      "food_name": "Southwest Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/southwest-chicken-salad",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80081300",
+      "food_name": "Chipotle Chicken and Rice Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/chipotle-chicken-and-rice-bowl",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11667341",
+      "food_name": "Thai-Style Chicken & Vegetable Curry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/thai-style-chicken-vegetable-curry",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18335353",
+      "food_name": "Ginger Teriyaki Marinated Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/ginger-teriyaki-marinated-chicken-breast",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4087104",
+      "food_name": "Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/chicken-salad",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18864505",
+      "food_name": "Chicken Mole Enchilada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/chicken-mole-enchilada",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7370051",
+      "food_name": "Greek Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/greek-salad",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45422775",
+      "food_name": "Curried Lentil, Quinoa, Chickpea and Kale Super Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/curried-lentil-quinoa-chickpea-and-kale-super-salad",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1940695",
+      "food_name": "Asian Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/asian-salad",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1839487",
+      "food_name": "Vegetarian Pasta Primavera",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/vegetarian-pasta-primavera",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1983650",
+      "food_name": "Turkey Salad with Cranberries and Walnuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/turkey-salad-with-cranberries-and-walnuts",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89661073",
+      "food_name": "Spaghetti Casio E Pepe",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/spaghetti-casio-e-pepe",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1647324",
+      "food_name": "Multigrain Pullman Loaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/multigrain-pullman-loaf",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "831281",
+      "food_name": "Salmon Kabobs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/salmon-kabobs",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5515503",
+      "food_name": "Chicken Teriyaki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/chicken-teriyaki",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12902137",
+      "food_name": "Cauliflower Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/cauliflower-rice",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9846245",
+      "food_name": "Cooked off The Bone Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/cooked-off-the-bone-ham",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88310236",
+      "food_name": "Salmon with Sweet Potatoes and Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/salmon-with-sweet-potatoes-and-broccoli",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "750295",
+      "food_name": "Table Shrimp, Vegetable & Brown Rice Biryani",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/table-shrimp-vegetable-and-brown-rice-biryani",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2197002",
+      "food_name": "Yellow American Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/yellow-american-cheese",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25160946",
+      "food_name": "Rosemary Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/rosemary-ham",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49458003",
+      "food_name": "Turkey Bolognese Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/turkey-bolognese-sauce",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1674074",
+      "food_name": "Vegetarian Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/vegetarian-chili",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3155545",
+      "food_name": "Bay Scallop & Vegetable Risotto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/bay-scallop-and-vegetable-risotto",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7931669",
+      "food_name": "Grilled Sustainable Salmon Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/grilled-sustainable-salmon-salad",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48094",
+      "food_name": "Seared Cajun Blackened Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/seared-cajun-blackened-salmon",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55471251",
+      "food_name": "Roasted Vegetable Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/roasted-vegetable-grain-bowl",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1790134",
+      "food_name": "Southwest Steak Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/southwest-steak-salad",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2190748",
+      "food_name": "Moroccan Chicken with Herbed Couscous",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/moroccan-chicken-with-herbed-couscous",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2584819",
+      "food_name": "Crab Stuffed Sole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/crab-stuffed-sole",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4706440",
+      "food_name": "Sweet Potato Shepherd's Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/sweet-potato-shepherds-pie",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "561091",
+      "food_name": "Chicken Pot Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/chicken-pot-pie",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "886734",
+      "food_name": "Pistachio & Blue Cheese Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/pistachio-and-blue-cheese-salad",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3260511",
+      "food_name": "Chili Garlic Halibut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/chili-garlic-halibut",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20046745",
+      "food_name": "Spinach & Mushroom Lasagna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/spinach-mushroom-lasagna",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5012030",
+      "food_name": "Raw Almonds Snack Packs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/raw-almonds-snack-packs",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7871278",
+      "food_name": "Shrimp with Thai Peanut Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/shrimp-with-thai-peanut-sauce",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2841816",
+      "food_name": "Butternut Squash & Apple Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/butternut-squash-and-apple-soup",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17222515",
+      "food_name": "Steamed Tuscan Kale with Garlic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/steamed-tuscan-kale-with-garlic",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3157400",
+      "food_name": "Seafood Scampi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/seafood-scampi",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4314891",
+      "food_name": "Veggie Lo Mein Stir-Fry Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/veggie-lo-mein-stir-fry-kit",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12654120",
+      "food_name": "Vegan Taco Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/vegan-taco-salad",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7982508",
+      "food_name": "Chicken Salad with Feta & Artichokes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/chicken-salad-with-feta-and-artichokes",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66686459",
+      "food_name": "Chicken Tikka Masala",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/chicken-tikka-masala",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2435566",
+      "food_name": "Mixed Green Salad with Brown Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/mixed-green-salad-with-brown-rice",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6812579",
+      "food_name": "Chicken Wontons with Szechuan-Style Peanut Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/chicken-wontons-with-szechuan-style-peanut-sauce",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16733098",
+      "food_name": "Chopped Super Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/chopped-super-salad",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35273197",
+      "food_name": "Wild-Caught Tuna Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/wild-caught-tuna-salad",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3431302",
+      "food_name": "Smart & Simple Chicken & Goat Cheese Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/smart-and-simple-chicken-and-goat-cheese-pasta",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1159349",
+      "food_name": "Chipotle Sweet Potato Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/chipotle-sweet-potato-soup",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6244971",
+      "food_name": "New England Clam Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/new-england-clam-chowder",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2109638",
+      "food_name": "Maple Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/maple-ham",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11125445",
+      "food_name": "Spaghetti & Vegetarian Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/spaghetti-and-vegetarian-meatballs",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45198101",
+      "food_name": "Garlic and Herb Chicken Wings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/garlic-and-herb-chicken-wings",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    }
+  ]
+}

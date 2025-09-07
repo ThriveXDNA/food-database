@@ -1,0 +1,55 @@
+{
+  "restaurant": "Holiday Inn Express",
+  "total_items": 6,
+  "pages_extracted": 5,
+  "total_search_results": 235,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:46:47.430Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/holiday_inn_express.json",
+  "items": [
+    {
+      "food_id": "11354376",
+      "food_name": "Scrambled Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/holiday-inn-express/scrambled-eggs",
+      "brand_name": "Holiday Inn Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16062476",
+      "food_name": "Cheese Omelette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/holiday-inn-express/cheese-omelette",
+      "brand_name": "Holiday Inn Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76543526",
+      "food_name": "Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/holiday-inn-express/pancakes",
+      "brand_name": "Holiday Inn Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11083390",
+      "food_name": "Turkey Sausage Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/holiday-inn-express/turkey-sausage-patty",
+      "brand_name": "Holiday Inn Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3613980",
+      "food_name": "Cinnamon Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/holiday-inn-express/cinnamon-roll",
+      "brand_name": "Holiday Inn Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16062486",
+      "food_name": "Sausage Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/holiday-inn-express/sausage-patty",
+      "brand_name": "Holiday Inn Express",
+      "food_type": "Brand"
+    }
+  ]
+}

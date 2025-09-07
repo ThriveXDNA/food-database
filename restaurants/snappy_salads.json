@@ -1,0 +1,41 @@
+{
+  "restaurant": "Snappy Salads",
+  "total_items": 4,
+  "pages_extracted": 3,
+  "total_search_results": 102,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:17:40.012Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/snappy_salads.json",
+  "items": [
+    {
+      "food_id": "60453687",
+      "food_name": "Steakhouse Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snappy-salads/steakhouse-salad",
+      "brand_name": "Snappy Salads",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32732366",
+      "food_name": "Chipotle Chicken Piadina Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snappy-salads/chipotle-chicken-piadina-wrap",
+      "brand_name": "Snappy Salads",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32732377",
+      "food_name": "Sweet Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snappy-salads/sweet-potato-chips",
+      "brand_name": "Snappy Salads",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72232207",
+      "food_name": "Southwest Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snappy-salads/southwest-grain-bowl",
+      "brand_name": "Snappy Salads",
+      "food_type": "Brand"
+    }
+  ]
+}

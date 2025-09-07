@@ -1,0 +1,34 @@
+{
+  "restaurant": "Mistica Ranch Meats",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 1783,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:16:29.354Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mistica_ranch_meats.json",
+  "items": [
+    {
+      "food_id": "14364462",
+      "food_name": "Country Fried Beef Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mistica-ranch-meats/country-fried-beef-steak",
+      "brand_name": "Mistica Ranch Meats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15316389",
+      "food_name": "Breaded Boneless Chicken Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mistica-ranch-meats/breaded-boneless-chicken-bites",
+      "brand_name": "Mistica Ranch Meats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15040631",
+      "food_name": "Braised Pork Carnitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mistica-ranch-meats/braised-pork-carnitas",
+      "brand_name": "Mistica Ranch Meats",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "restaurant": "Certified Angus Beef",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 4724,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:18:00.112Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/certified_angus_beef.json",
+  "items": [
+    {
+      "food_id": "50858762",
+      "food_name": "Carne Asada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/certified-angus-beef/carne-asada",
+      "brand_name": "Certified Angus Beef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29373871",
+      "food_name": "Steakhouse Beef Tri-Tip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/certified-angus-beef/steakhouse-beef-tri-tip",
+      "brand_name": "Certified Angus Beef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81673600",
+      "food_name": "Santa Maria Recipe Beef Tri-Tip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/certified-angus-beef/santa-maria-recipe-beef-tri-tip",
+      "brand_name": "Certified Angus Beef",
+      "food_type": "Brand"
+    }
+  ]
+}

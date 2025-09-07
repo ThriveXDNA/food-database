@@ -1,0 +1,76 @@
+{
+  "restaurant": "Bakerly",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:27:14.931Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bakerly.json",
+  "items": [
+    {
+      "food_id": "37457971",
+      "food_name": "Brioche Burger Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakerly/brioche-burger-buns",
+      "brand_name": "Bakerly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32039791",
+      "food_name": "Sliced Brioche",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakerly/sliced-brioche",
+      "brand_name": "Bakerly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31369703",
+      "food_name": "Chocolate Hazelnut Filled Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakerly/chocolate-hazelnut-filled-crepes",
+      "brand_name": "Bakerly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15844111",
+      "food_name": "Strawberry Filled Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakerly/strawberry-filled-crepes",
+      "brand_name": "Bakerly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16787675",
+      "food_name": "Chocolate Filled Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakerly/chocolate-filled-crepes",
+      "brand_name": "Bakerly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21630838",
+      "food_name": "Brioche Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakerly/brioche-rolls",
+      "brand_name": "Bakerly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60092611",
+      "food_name": "Chocolate Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakerly/chocolate-croissant",
+      "brand_name": "Bakerly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52185631",
+      "food_name": "French Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakerly/french-pancakes",
+      "brand_name": "Bakerly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58904194",
+      "food_name": "All Butter Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakerly/all-butter-crepes",
+      "brand_name": "Bakerly",
+      "food_type": "Brand"
+    }
+  ]
+}

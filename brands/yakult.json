@@ -1,0 +1,33 @@
+{
+  "brand_name": "Yakult",
+  "brand_id": 595,
+  "total_items": 3,
+  "pages_extracted": 1,
+  "last_updated": "2025-09-06T20:54:36.189Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Brand-specific search with filtering",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/yakult.json",
+  "items": [
+    {
+      "food_id": "349899",
+      "food_name": "Yakult",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yakult/yakult",
+      "brand_name": "Yakult",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32646",
+      "food_name": "Yakult Light",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yakult/yakult-light",
+      "brand_name": "Yakult",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53591389",
+      "food_name": "Taff Man Ex",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yakult/taff-man-ex",
+      "brand_name": "Yakult",
+      "food_type": "Brand"
+    }
+  ]
+}

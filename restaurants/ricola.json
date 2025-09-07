@@ -1,0 +1,27 @@
+{
+  "restaurant": "Ricola",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:59:23.622Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ricola.json",
+  "items": [
+    {
+      "food_id": "15314129",
+      "food_name": "Original Herb Cough Drop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ricola/original-herb-cough-drop",
+      "brand_name": "Ricola",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5670294",
+      "food_name": "Sugar Free Cough Drop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ricola/sugar-free-cough-drop",
+      "brand_name": "Ricola",
+      "food_type": "Brand"
+    }
+  ]
+}

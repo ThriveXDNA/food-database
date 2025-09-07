@@ -1,0 +1,27 @@
+{
+  "restaurant": "Amazon Go",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 361,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:17:01.006Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/amazon_go.json",
+  "items": [
+    {
+      "food_id": "32501657",
+      "food_name": "Flat Iron Beef Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/amazon-go/flat-iron-beef-steak",
+      "brand_name": "Amazon Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30681958",
+      "food_name": "Chicken Teriyaki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/amazon-go/chicken-teriyaki",
+      "brand_name": "Amazon Go",
+      "food_type": "Brand"
+    }
+  ]
+}

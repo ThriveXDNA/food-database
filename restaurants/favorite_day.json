@@ -1,0 +1,741 @@
+{
+  "restaurant": "Favorite Day",
+  "total_items": 104,
+  "pages_extracted": 5,
+  "total_search_results": 221,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:00:38.585Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/favorite_day.json",
+  "items": [
+    {
+      "food_id": "81005908",
+      "food_name": "Vanilla Sweet Cream Cold Foam",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/vanilla-sweet-cream-cold-foam",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49458762",
+      "food_name": "Chocolate Peanut Butter Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/chocolate-peanut-butter-ice-cream",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52505381",
+      "food_name": "Gummi Sharks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/gummi-sharks",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52062111",
+      "food_name": "Mocha Cold Brew Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/mocha-cold-brew-ice-cream",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71711359",
+      "food_name": "S’Mores Reduced Fat Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/s%E2%80%99mores-reduced-fat-ice-cream",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50252299",
+      "food_name": "Cookie Dough Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/cookie-dough-ice-cream",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55788248",
+      "food_name": "Dark Chocolate Sea Salt Caramels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/dark-chocolate-sea-salt-caramels",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59326802",
+      "food_name": "Monster Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/monster-trail-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53789072",
+      "food_name": "Peanut Butter Monster Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/peanut-butter-monster-trail-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86549611",
+      "food_name": "Dark Chocolate Covered Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/dark-chocolate-covered-pretzels",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53789989",
+      "food_name": "S'mores Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/smores-trail-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49033086",
+      "food_name": "Mint Cookies & Cream Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/mint-cookies-cream-ice-cream",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86444323",
+      "food_name": "Dark Chocolate Peanut Butter Cups",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/dark-chocolate-peanut-butter-cups",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76972941",
+      "food_name": "Vanilla Bean Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/vanilla-bean-ice-cream",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88358914",
+      "food_name": "Milk Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/milk-chocolate-bar",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86918299",
+      "food_name": "Molten Chocolate Lava Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/molten-chocolate-lava-cake",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75619686",
+      "food_name": "Blueberry Cheesecake Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/blueberry-cheesecake-ice-cream",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66122722",
+      "food_name": "Dark Chocolate Covered Mini Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/dark-chocolate-covered-mini-pretzels",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58909517",
+      "food_name": "Gummi Worms",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/gummi-worms",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66349881",
+      "food_name": "Caramel Maple Bourbon Pecan Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/caramel-maple-bourbon-pecan-pie",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63809563",
+      "food_name": "Macarons",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/macarons",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58739172",
+      "food_name": "Cookies and Cream Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/cookies-and-cream-ice-cream-sandwich",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68921839",
+      "food_name": "Caramel Brownie Moose Tracks Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/caramel-brownie-moose-tracks-ice-cream",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87512354",
+      "food_name": "Mint Ice Cream Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/mint-ice-cream-bites",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71052608",
+      "food_name": "Neapolitan Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/neapolitan-ice-cream-sandwich",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64637943",
+      "food_name": "Milk Chocolate, Caramel, Pretzel Crunchy Clusters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/milk-chocolate-caramel-pretzel-crunchy-clusters",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84454662",
+      "food_name": "Tropical Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/tropical-trail-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49449530",
+      "food_name": "Chocolate Chip Cookie Dough Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/chocolate-chip-cookie-dough-bites",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72231893",
+      "food_name": "Strawberry Whipped Dairy Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/strawberry-whipped-dairy-topping",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56919623",
+      "food_name": "Vanilla Wafer Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/vanilla-wafer-cookies",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51308534",
+      "food_name": "Peanut Butter Chocolate Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/peanut-butter-chocolate-trail-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74165763",
+      "food_name": "S’Mores Snack Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/s%E2%80%99mores-snack-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53784312",
+      "food_name": "Birthday Cake Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/birthday-cake-ice-cream",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64641362",
+      "food_name": "Crème Brûlée",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/cr%C3%A8me-br%C3%BBl%C3%A9e",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68150874",
+      "food_name": "Chocolate Chip Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/chocolate-chip-cookies",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48690826",
+      "food_name": "Chocolate Pecan Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/chocolate-pecan-pie",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55195010",
+      "food_name": "S'mores Bark Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/smores-bark-crisps",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49361503",
+      "food_name": "Milk Chocolate Covered Mini Grahams",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/milk-chocolate-covered-mini-grahams",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60117977",
+      "food_name": "Strawberry Cheesecake Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/strawberry-cheesecake-ice-cream",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60613107",
+      "food_name": "Dark Chocolate & Almond Toffee Wafers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/dark-chocolate-almond-toffee-wafers",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88178017",
+      "food_name": "Dark Chocolate Almond with Sea Salt Bark Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/dark-chocolate-almond-with-sea-salt-bark-crisps",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53294753",
+      "food_name": "Chewy Chocolate Chip Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/chewy-chocolate-chip-cookies",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87423548",
+      "food_name": "Orange Frosted Sugar Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/orange-frosted-sugar-cookies",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68642825",
+      "food_name": "Chocolate Fudge Brownie Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/chocolate-fudge-brownie-ice-cream",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55503640",
+      "food_name": "Caramel Cashew Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/caramel-cashew-trail-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75685097",
+      "food_name": "Rainbow Chip Crispy Rice Treats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/rainbow-chip-crispy-rice-treats",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103067183",
+      "food_name": "Milk Chocolate Covered Mini Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/milk-chocolate-covered-mini-pretzels",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67368920",
+      "food_name": "Nutty Chocolate Cherry Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/nutty-chocolate-cherry-trail-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81013370",
+      "food_name": "Keto Friendly Nutty Chocolate Cherry Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/keto-friendly-nutty-chocolate-cherry-trail-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103451359",
+      "food_name": "Strawberry Mini Waffle Cones",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/strawberry-mini-waffle-cones",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81574413",
+      "food_name": "Double Chocolate Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/double-chocolate-cookie",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72381980",
+      "food_name": "Fudge Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/fudge-bar",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71410775",
+      "food_name": "Multigrain Sliced Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/multigrain-sliced-bread",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54293644",
+      "food_name": "Handful of Everything Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/handful-of-everything-trail-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66963552",
+      "food_name": "Lemon White Chocolate Chip Cookie Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/lemon-white-chocolate-chip-cookie-bites",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52293465",
+      "food_name": "Coco-Nuts Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/coco-nuts-trail-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66856572",
+      "food_name": "Caramel Macchiato Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/caramel-macchiato-trail-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89347951",
+      "food_name": "Milk Chocolate, Caramel, Peanut Butter & Pretzel Crunchy Clusters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/milk-chocolate-caramel-peanut-butter-pretzel-crunchy-clusters",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61408375",
+      "food_name": "Gummi Bears",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/gummi-bears",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53789952",
+      "food_name": "Dark Chocolate Espresso Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/dark-chocolate-espresso-trail-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61649972",
+      "food_name": "Speculoos Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/speculoos-cookies",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95473529",
+      "food_name": "Honey Flavored Graham Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/honey-flavored-graham-crackers",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61112078",
+      "food_name": "Milk Chocolate Pecan Caramel Crunchy Clusters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/milk-chocolate-pecan-caramel-crunchy-clusters",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62415928",
+      "food_name": "Dark Chocolate with Sea Salt Truffles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/dark-chocolate-with-sea-salt-truffles",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52220956",
+      "food_name": "Caramel Brownie Cake Batter Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/caramel-brownie-cake-batter-ice-cream",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74389631",
+      "food_name": "Pizza Party Snack Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/pizza-party-snack-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73747129",
+      "food_name": "Apple Pie Filled Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/apple-pie-filled-cookies",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89302435",
+      "food_name": "Peanut Butter S’Mores Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/peanut-butter-s%E2%80%99mores-trail-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67051568",
+      "food_name": "Birthday Cake Balls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/birthday-cake-balls",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77587031",
+      "food_name": "Orange Splash Soda",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/orange-splash-soda",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103924817",
+      "food_name": "Sugar Free Reduced Calorie Original Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/sugar-free-reduced-calorie-original-syrup",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93866149",
+      "food_name": "Conversation Hearts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/conversation-hearts",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53845111",
+      "food_name": "Black & White Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/black-white-trail-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52250720",
+      "food_name": "Chocolate Caramel Brownie Soft-Baked Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/chocolate-caramel-brownie-soft-baked-cookies",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63373521",
+      "food_name": "Candy Apple Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/candy-apple-pretzels",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65128124",
+      "food_name": "Tiramisu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/tiramisu",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81799265",
+      "food_name": "Chocolate Dipped Sandwich Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/chocolate-dipped-sandwich-cookies",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59465500",
+      "food_name": "Milk Chocolate-Covered Peanut Butter Pretzel Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/milk-chocolate-covered-peanut-butter-pretzel-nuggets",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76025541",
+      "food_name": "Candy Cane Crunch Mini Sandwich Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/candy-cane-crunch-mini-sandwich-cookies",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91972518",
+      "food_name": "Butter Toffee Caramel Corn Clusters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/butter-toffee-caramel-corn-clusters",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54443597",
+      "food_name": "Maple Cookie Thins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/maple-cookie-thins",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51937630",
+      "food_name": "Cinnamon Churro Cookie Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/cinnamon-churro-cookie-bites",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62842888",
+      "food_name": "Mini Donut Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/mini-donut-ice-cream",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82052715",
+      "food_name": "Mini Peach Rings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/mini-peach-rings",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75749701",
+      "food_name": "Pumpkin Cheesecake Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/pumpkin-cheesecake-ice-cream",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65510900",
+      "food_name": "Scarecrow Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/scarecrow-crunch",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49899651",
+      "food_name": "Salted Caramel Chocolate Chip Cookie Thins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/salted-caramel-chocolate-chip-cookie-thins",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63370039",
+      "food_name": "Butter Shortbread Cookie Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/butter-shortbread-cookie-bites",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97368909",
+      "food_name": "Monster Crunchy Clusters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/monster-crunchy-clusters",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53844912",
+      "food_name": "Pumpkin Cheesecake Sandwich Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/pumpkin-cheesecake-sandwich-cookies",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64970984",
+      "food_name": "Iced Coffee-Flavored Dark Chocolate Cordials",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/iced-coffee-flavored-dark-chocolate-cordials",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66245408",
+      "food_name": "Red Velvet Sandwich Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/red-velvet-sandwich-cookies",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74584736",
+      "food_name": "Pumpkin Spice Crisp Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/pumpkin-spice-crisp-cookies",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77381467",
+      "food_name": "Hot Cocoa Spoons",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/hot-cocoa-spoons",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92072272",
+      "food_name": "Non-Dairy Strawberry & Fudge",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/non-dairy-strawberry-fudge",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53040862",
+      "food_name": "Rustic Pumpkin Spice Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/rustic-pumpkin-spice-trail-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53296410",
+      "food_name": "Caramel Apple Crisp Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/caramel-apple-crisp-cookies",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50281848",
+      "food_name": "Non-Dairy Peanut Butter Oat Based Frozen Dessert Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/non-dairy-peanut-butter-oat-based-frozen-dessert-bar",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64141468",
+      "food_name": "Original Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/original-flatbread",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81786399",
+      "food_name": "Country White Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/country-white-rolls",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85842349",
+      "food_name": "Cinnamon & Sugar White Fudge Covered Mini Grahams",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/cinnamon-sugar-white-fudge-covered-mini-grahams",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90715414",
+      "food_name": "Blueberry Flavored Pancake & Waffle Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/blueberry-flavored-pancake-waffle-mix",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92021676",
+      "food_name": "Jingle Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/jingle-blend",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106637574",
+      "food_name": "Sourdough Sliced Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/favorite-day/sourdough-sliced-bread",
+      "brand_name": "Favorite Day",
+      "food_type": "Brand"
+    }
+  ]
+}

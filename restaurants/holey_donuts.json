@@ -1,0 +1,41 @@
+{
+  "restaurant": "Holey Donuts",
+  "total_items": 4,
+  "pages_extracted": 4,
+  "total_search_results": 196,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:06:15.860Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/holey_donuts.json",
+  "items": [
+    {
+      "food_id": "1495230",
+      "food_name": "Chocolate Coconut Cream Pie Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/holey-donuts/chocolate-coconut-cream-pie-donut",
+      "brand_name": "Holey Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152706",
+      "food_name": "Low Fat Caramel Crumb Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/holey-donuts/low-fat-caramel-crumb-donut",
+      "brand_name": "Holey Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1206580",
+      "food_name": "Cinnamon Bun Middles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/holey-donuts/cinnamon-bun-middles",
+      "brand_name": "Holey Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1079445",
+      "food_name": "Low Fat Classic Vanilla Frosted Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/holey-donuts/low-fat-classic-vanilla-frosted-donut",
+      "brand_name": "Holey Donuts",
+      "food_type": "Brand"
+    }
+  ]
+}

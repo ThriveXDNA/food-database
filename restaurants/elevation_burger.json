@@ -1,0 +1,62 @@
+{
+  "restaurant": "Elevation Burger",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 1097,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:36:32.472Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/elevation_burger.json",
+  "items": [
+    {
+      "food_id": "4897101",
+      "food_name": "Elevation Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation-burger/elevation-burger",
+      "brand_name": "Elevation Burger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4532003",
+      "food_name": "Elevation Burger (Wrapped in Lettuce)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation-burger/elevation-burger-(wrapped-in-lettuce)",
+      "brand_name": "Elevation Burger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4875844",
+      "food_name": "Kid's Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation-burger/kids-burger",
+      "brand_name": "Elevation Burger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12656317",
+      "food_name": "Grilled Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation-burger/grilled-chicken-sandwich",
+      "brand_name": "Elevation Burger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7762350",
+      "food_name": "Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation-burger/cheddar-cheese",
+      "brand_name": "Elevation Burger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9819449",
+      "food_name": "Kid's Burger Wrapped in Lettuce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation-burger/kids-burger-wrapped-in-lettuce",
+      "brand_name": "Elevation Burger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3079407",
+      "food_name": "French Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevation-burger/french-fries",
+      "brand_name": "Elevation Burger",
+      "food_type": "Brand"
+    }
+  ]
+}

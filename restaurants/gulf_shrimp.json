@@ -1,0 +1,34 @@
+{
+  "restaurant": "Gulf Shrimp",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 1981,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:38:16.570Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/gulf_shrimp.json",
+  "items": [
+    {
+      "food_id": "691039",
+      "food_name": "Raw Peeled & Deveined Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gulf-shrimp/raw-peeled-and-deveined-shrimp",
+      "brand_name": "Gulf Shrimp",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6762104",
+      "food_name": "Gulf Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-easy-foods/gulf-shrimp",
+      "brand_name": "Big Easy Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77205904",
+      "food_name": "Raw Peeled & Deveined Shrimp (113g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gulf-shrimp/raw-peeled-deveined-shrimp-(113g)",
+      "brand_name": "Gulf Shrimp",
+      "food_type": "Brand"
+    }
+  ]
+}

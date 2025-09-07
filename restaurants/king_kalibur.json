@@ -1,0 +1,27 @@
+{
+  "restaurant": "King Kalibur",
+  "total_items": 2,
+  "pages_extracted": 3,
+  "total_search_results": 118,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:04:39.854Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/king_kalibur.json",
+  "items": [
+    {
+      "food_id": "2284311",
+      "food_name": "Spicy Black Angus Beef Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-kalibur/spicy-black-angus-beef-sticks",
+      "brand_name": "King Kalibur",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2776058",
+      "food_name": "Original Black Angus Beef Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-kalibur/original-black-angus-beef-sticks",
+      "brand_name": "King Kalibur",
+      "food_type": "Brand"
+    }
+  ]
+}

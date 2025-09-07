@@ -1,0 +1,55 @@
+{
+  "restaurant": "California Lavash",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 489,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:52:48.822Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/california_lavash.json",
+  "items": [
+    {
+      "food_id": "14408027",
+      "food_name": "Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-lavash/flatbread",
+      "brand_name": "California Lavash",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48488260",
+      "food_name": "Whole Grain Pita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-lavash/whole-grain-pita",
+      "brand_name": "California Lavash",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2231535",
+      "food_name": "Lavash Whole Grain Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-lavash/lavash-whole-grain-wrap",
+      "brand_name": "California Lavash",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5462012",
+      "food_name": "Original Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-lavash/original-wrap",
+      "brand_name": "California Lavash",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2854831",
+      "food_name": "Pizza Lavash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-lavash/pizza-lavash",
+      "brand_name": "California Lavash",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2246242",
+      "food_name": "Lavash Spinach Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-lavash/lavash-spinach-wrap",
+      "brand_name": "California Lavash",
+      "food_type": "Brand"
+    }
+  ]
+}

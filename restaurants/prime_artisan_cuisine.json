@@ -1,0 +1,20 @@
+{
+  "restaurant": "Prime Artisan Cuisine",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 268,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:35:07.977Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/prime_artisan_cuisine.json",
+  "items": [
+    {
+      "food_id": "22273201",
+      "food_name": "Chicken Thai Potstickers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/prime-artisan-cuisine/chicken-thai-potstickers",
+      "brand_name": "Prime Artisan Cuisine",
+      "food_type": "Brand"
+    }
+  ]
+}

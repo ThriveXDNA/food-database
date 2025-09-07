@@ -1,0 +1,2391 @@
+{
+  "restaurant": "Quiznos",
+  "total_items": 340,
+  "pages_extracted": 7,
+  "last_updated": "2025-09-06T06:53:52.627Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Restaurant search with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/quiznos.json",
+  "items": [
+    {
+      "food_id": "69471232",
+      "food_name": "Cucumber",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/cucumber",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471300",
+      "food_name": "Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/tomatoes",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84111474",
+      "food_name": "Italian Salad - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/italian-salad-half",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471246",
+      "food_name": "Fresh Mushroom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/fresh-mushroom",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470983",
+      "food_name": "Yellow Mustard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/yellow-mustard",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470807",
+      "food_name": "Classic Tater Tots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/classic-tater-tots",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471202",
+      "food_name": "Black Olives",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/black-olives",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173106",
+      "food_name": "Black Angus Queso Philly - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/black-angus-queso-philly-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173124",
+      "food_name": "Black Angus Queso Philly - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/black-angus-queso-philly-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173200",
+      "food_name": "Mushroom Philly - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mushroom-philly-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173194",
+      "food_name": "Mushroom Philly - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mushroom-philly-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173961",
+      "food_name": "Honey Bacon Club - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-bacon-club-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173967",
+      "food_name": "Honey Bacon Club - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-bacon-club-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173798",
+      "food_name": "Classic Italian - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/classic-italian-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173912",
+      "food_name": "Chipotle Turkey - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chipotle-turkey-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173210",
+      "food_name": "Mushroom Philly - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mushroom-philly-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106174008",
+      "food_name": "Spicy Monterey - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/spicy-monterey-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173946",
+      "food_name": "Chipotle Turkey - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chipotle-turkey-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173881",
+      "food_name": "Classic Italian - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/classic-italian-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173870",
+      "food_name": "Classic Italian - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/classic-italian-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106174014",
+      "food_name": "Spicy Monterey - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/spicy-monterey-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106174017",
+      "food_name": "Traditional - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/traditional-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106174030",
+      "food_name": "Traditional - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/traditional-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106174079",
+      "food_name": "Tuna Melt - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/tuna-melt-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363858",
+      "food_name": "Ultimate Turkey Club - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/ultimate-turkey-club-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363866",
+      "food_name": "Ultimate Turkey Club - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/ultimate-turkey-club-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363623",
+      "food_name": "Turkey Bacon Guacamole - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/turkey-bacon-guacamole-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363805",
+      "food_name": "Turkey Ranch Swiss - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/turkey-ranch-swiss-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363528",
+      "food_name": "Tuna Melt - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/tuna-melt-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363787",
+      "food_name": "Turkey Ranch Swiss - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/turkey-ranch-swiss-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363796",
+      "food_name": "Turkey Ranch Swiss - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/turkey-ranch-swiss-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364164",
+      "food_name": "Honey Mustard - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-mustard-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364177",
+      "food_name": "Honey Mustard - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-mustard-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363891",
+      "food_name": "Veggie Guacamole - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/veggie-guacamole-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364245",
+      "food_name": "Southwest - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/southwest-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364202",
+      "food_name": "Mesquite - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mesquite-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364276",
+      "food_name": "Southwest - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/southwest-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364045",
+      "food_name": "Carbonara - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/carbonara-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364228",
+      "food_name": "Mesquite - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mesquite-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363893",
+      "food_name": "Veggie Guacamole - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/veggie-guacamole-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363897",
+      "food_name": "Veggie Guacamole - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/veggie-guacamole-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364301",
+      "food_name": "Black Angus Steakhouse - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/black-angus-steakhouse-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364458",
+      "food_name": "Apple Harvest Chicken - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/apple-harvest-chicken-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364530",
+      "food_name": "Apple Harvest Chicken - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/apple-harvest-chicken-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364568",
+      "food_name": "Italian Meatball - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/italian-meatball-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364391",
+      "food_name": "French Dip - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/french-dip-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364308",
+      "food_name": "Black Angus Steakhouse - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/black-angus-steakhouse-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364312",
+      "food_name": "Black Angus Steakhouse - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/black-angus-steakhouse-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364493",
+      "food_name": "Apple Harvest Chicken - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/apple-harvest-chicken-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364445",
+      "food_name": "Peppercorn Steak - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/peppercorn-steak-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364332",
+      "food_name": "Chipotle Steak & Cheddar - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chipotle-steak-cheddar-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364757",
+      "food_name": "Bacon, Egg, & Cheddar - Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/bacon-egg-cheddar-biscuit",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364571",
+      "food_name": "Italian Meatball - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/italian-meatball-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364700",
+      "food_name": "Ham, Egg, & Cheddar - Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/ham-egg-cheddar-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364709",
+      "food_name": "Ham, Egg, & Cheddar - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/ham-egg-cheddar-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364723",
+      "food_name": "Ham, Egg, & Cheddar - Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/ham-egg-cheddar-biscuit",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364747",
+      "food_name": "Bacon, Egg, & Cheddar - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/bacon-egg-cheddar-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364766",
+      "food_name": "Steak, Egg, & Cheddar - Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/steak-egg-cheddar-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364609",
+      "food_name": "Lobster & Seafood Salad - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/lobster-seafood-salad-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364777",
+      "food_name": "Steak, Egg, & Cheddar - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/steak-egg-cheddar-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364688",
+      "food_name": "Egg & Cheddar - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/egg-cheddar-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364694",
+      "food_name": "Egg & Cheddar - Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/egg-cheddar-biscuit",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364794",
+      "food_name": "Steak, Egg, & Cheddar - Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/steak-egg-cheddar-biscuit",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364880",
+      "food_name": "Kids Bread - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/kids-bread-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364886",
+      "food_name": "Kids Bread - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/kids-bread-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364930",
+      "food_name": "Kids Provolone Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/kids-provolone-cheese",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364941",
+      "food_name": "Green Bell Peppers, Fresh",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/green-bell-peppers-fresh",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364997",
+      "food_name": "Guacamole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/guacamole",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365004",
+      "food_name": "Lettuce Shredded Iceberg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/lettuce-shredded-iceberg",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364801",
+      "food_name": "Sausage, Egg, & Cheddar - Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/sausage-egg-cheddar-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364920",
+      "food_name": "Kids Turkey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/kids-turkey",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364859",
+      "food_name": "Kids Triple Cheese Melt - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/kids-triple-cheese-melt-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364868",
+      "food_name": "Kids Triple Cheese Melt - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/kids-triple-cheese-melt-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364833",
+      "food_name": "Sausage, Egg, & Cheddar - Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/sausage-egg-cheddar-biscuit",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365561",
+      "food_name": "Jalapeno Cheddar Baguette - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/jalapeno-cheddar-baguette-large",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365569",
+      "food_name": "Sammie Flatbread Pita - 6-Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/sammie-flatbread-pita-6-inch",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365575",
+      "food_name": "Bacon Diced - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/bacon-diced-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365578",
+      "food_name": "Bacon Diced - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/bacon-diced-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365580",
+      "food_name": "Bacon Diced - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/bacon-diced-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365591",
+      "food_name": "Black Angus Steak - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/black-angus-steak-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365600",
+      "food_name": "Capicola - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/capicola-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365223",
+      "food_name": "Classic Italian Salad Salad w/ Red Wine Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/classic-italian-salad-salad-w-red-wine-vinaigrette",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365226",
+      "food_name": "Classic Italian Salad Salad w/ Red Wine Vinaigrette (Half)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/classic-italian-salad-salad-w-red-wine-vinaigrette-(half)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365316",
+      "food_name": "Broccoli Cheese Soup - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/broccoli-cheese-soup-regular",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365342",
+      "food_name": "Bacon Jalapeno Cheddar Loaded Tots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/bacon-jalapeno-cheddar-loaded-tots",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365420",
+      "food_name": "Artisan White French Baguette - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/artisan-white-french-baguette-large",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365423",
+      "food_name": "Artisan Wheat Multigrain Baguette - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/artisan-wheat-multigrain-baguette-small",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365435",
+      "food_name": "Artisan Wheat Multigrain Baguette - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/artisan-wheat-multigrain-baguette-large",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365439",
+      "food_name": "Rosemary Parmesan Baguette - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/rosemary-parmesan-baguette-small",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365495",
+      "food_name": "Rosemary Parmesan Baguette - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/rosemary-parmesan-baguette-large",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365499",
+      "food_name": "Jalapeno Cheddar Baguette - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/jalapeno-cheddar-baguette-small",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365195",
+      "food_name": "Mushrooms, Fresh",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mushrooms-fresh",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365201",
+      "food_name": "Mushrooms, Sauteed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mushrooms-sauteed",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365205",
+      "food_name": "Onions Red, Fresh",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/onions-red-fresh",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365293",
+      "food_name": "Apple Harvest Chicken Salad w/ Apple Cider Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/apple-harvest-chicken-salad-w-apple-cider-vinaigrette",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365393",
+      "food_name": "Oatmeal Raisin Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/oatmeal-raisin-cookie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365407",
+      "food_name": "Artisan White French Baguette - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/artisan-white-french-baguette-small",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365416",
+      "food_name": "Artisan White French Baguette - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/artisan-white-french-baguette-medium",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524809",
+      "food_name": "Chicken Breast - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chicken-breast-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524811",
+      "food_name": "Ham - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/ham-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524960",
+      "food_name": "Swiss - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/swiss-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524975",
+      "food_name": "Swiss - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/swiss-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524929",
+      "food_name": "Cheddar - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/cheddar-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524822",
+      "food_name": "Ham - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/ham-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524853",
+      "food_name": "Meatballs - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/meatballs-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524865",
+      "food_name": "Meatballs - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/meatballs-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524868",
+      "food_name": "Pepperoni - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/pepperoni-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524871",
+      "food_name": "Pepperoni - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/pepperoni-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524989",
+      "food_name": "Apple Cider Vinagreitte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/apple-cider-vinagreitte",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524992",
+      "food_name": "Au Jus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/au-jus",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524994",
+      "food_name": "Blue Ribbon BBQ Sauce - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/blue-ribbon-bbq-sauce-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525003",
+      "food_name": "Buttermilk Ranch - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/buttermilk-ranch-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525008",
+      "food_name": "Buttermilk Ranch - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/buttermilk-ranch-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524795",
+      "food_name": "Chicken Breast - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chicken-breast-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524806",
+      "food_name": "Chicken Breast - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chicken-breast-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524935",
+      "food_name": "Cheddar - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/cheddar-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524950",
+      "food_name": "Provolone - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/provolone-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524957",
+      "food_name": "Provolone - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/provolone-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524892",
+      "food_name": "Tuna with Mayo - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/tuna-with-mayo-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524899",
+      "food_name": "Tuna with Mayo - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/tuna-with-mayo-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524904",
+      "food_name": "Turkey Breast - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/turkey-breast-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525163",
+      "food_name": "Zesty Grille Sauce - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/zesty-grille-sauce-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525014",
+      "food_name": "Four Pepper Chili Sauce Batch 83 - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/four-pepper-chili-sauce-batch-83-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525099",
+      "food_name": "Mayo Chipotle - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mayo-chipotle-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525141",
+      "food_name": "Peppercorn Sauce - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/peppercorn-sauce-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525149",
+      "food_name": "Red Wine Vinaigrette - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/red-wine-vinaigrette-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525156",
+      "food_name": "Yellow Mustard - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/yellow-mustard-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525045",
+      "food_name": "Honey French Dressing - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-french-dressing-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525061",
+      "food_name": "Honey Mustard Dressing - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-mustard-dressing-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525064",
+      "food_name": "Honey Mustard Dressing - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-mustard-dressing-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525071",
+      "food_name": "Horseradish - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/horseradish-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525078",
+      "food_name": "Horseradish - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/horseradish-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525081",
+      "food_name": "Marinara - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/marinara-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525087",
+      "food_name": "Marinara - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/marinara-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525088",
+      "food_name": "Mayo Chipotle - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mayo-chipotle-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525011",
+      "food_name": "Four Pepper Chili Sauce Batch 83 - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/four-pepper-chili-sauce-batch-83-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525157",
+      "food_name": "Yellow Mustard - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/yellow-mustard-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525307",
+      "food_name": "Pepperoncini - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/pepperoncini-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525293",
+      "food_name": "Mushrooms Fresh - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mushrooms-fresh-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525294",
+      "food_name": "Onions Red Fresh - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/onions-red-fresh-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525303",
+      "food_name": "Onions Red Fresh - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/onions-red-fresh-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525306",
+      "food_name": "Pepperoncini - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/pepperoncini-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525299",
+      "food_name": "Onions Red Fresh - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/onions-red-fresh-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525375",
+      "food_name": "Coca-Cola - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/coca-cola-20-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525383",
+      "food_name": "Coca-Cola - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/coca-cola-32-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525236",
+      "food_name": "Guacamole - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/guacamole-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525223",
+      "food_name": "Cucumber - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/cucumber-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525229",
+      "food_name": "Green Bell Pepper Fresh - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/green-bell-pepper-fresh-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525233",
+      "food_name": "Guacamole - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/guacamole-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525216",
+      "food_name": "Black Olive Slices - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/black-olive-slices-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525226",
+      "food_name": "Green Bell Pepper Fresh - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/green-bell-pepper-fresh-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525288",
+      "food_name": "Mushrooms Fresh - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mushrooms-fresh-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525166",
+      "food_name": "Zesty Grille Sauce - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/zesty-grille-sauce-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525251",
+      "food_name": "Guacamole - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/guacamole-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525337",
+      "food_name": "Sautéed Green Bell Peppers - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/saut%C3%A9ed-green-bell-peppers-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525346",
+      "food_name": "Sautéed Mushrooms - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/saut%C3%A9ed-mushrooms-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525349",
+      "food_name": "Sautéed Yellow Onions - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/saut%C3%A9ed-yellow-onions-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525351",
+      "food_name": "Sautéed Yellow Onions - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/saut%C3%A9ed-yellow-onions-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525355",
+      "food_name": "Tomatoes - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/tomatoes-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525331",
+      "food_name": "Sautéed Green Bell Peppers - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/saut%C3%A9ed-green-bell-peppers-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525339",
+      "food_name": "Sautéed Mushrooms - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/saut%C3%A9ed-mushrooms-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525341",
+      "food_name": "Sautéed Mushrooms - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/saut%C3%A9ed-mushrooms-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525256",
+      "food_name": "Jalapeno Peppers - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/jalapeno-peppers-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525273",
+      "food_name": "Lettuce Iceberg Shredded - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/lettuce-iceberg-shredded-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525279",
+      "food_name": "Lettuce Romain Chopped, Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/lettuce-romain-chopped-salad",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525283",
+      "food_name": "Mushrooms Fresh - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mushrooms-fresh-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525399",
+      "food_name": "Diet Coke - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/diet-coke-32-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525675",
+      "food_name": "Honey Mustard Chicken - Sub (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-mustard-chicken-sub-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525680",
+      "food_name": "Honey Mustard Chicken - Sammie (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-mustard-chicken-sammie-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525696",
+      "food_name": "Traditional - Sub (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/traditional-sub-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525702",
+      "food_name": "Turkey Bacon Guacamole - Sub (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/turkey-bacon-guacamole-sub-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525711",
+      "food_name": "Turkey Bacon Guacamole - Sammie (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/turkey-bacon-guacamole-sammie-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525598",
+      "food_name": "Minute Maid Light Lemonade - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/minute-maid-light-lemonade-32-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525606",
+      "food_name": "Powerade Mountain Blast - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/powerade-mountain-blast-20-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525414",
+      "food_name": "Coca-Cola Zero Sugar - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/coca-cola-zero-sugar-20-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525553",
+      "food_name": "Barq's Root Beer - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/barqs-root-beer-20-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525474",
+      "food_name": "Sprite - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/sprite-32-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525629",
+      "food_name": "Dr Pepper - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/dr-pepper-32-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525637",
+      "food_name": "Baja Chicken - Sub (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/baja-chicken-sub-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525643",
+      "food_name": "Baja Chicken - Sammie (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/baja-chicken-sammie-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525653",
+      "food_name": "Chipotle Turkey - Sammie (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chipotle-turkey-sammie-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525449",
+      "food_name": "Coca-Cola Zero Sugar - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/coca-cola-zero-sugar-32-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525459",
+      "food_name": "Sprite - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/sprite-20-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525663",
+      "food_name": "Classic Italian - Sammie (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/classic-italian-sammie-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525666",
+      "food_name": "Honey Bacon Club - Sub (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-bacon-club-sub-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525628",
+      "food_name": "Dr Pepper - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/dr-pepper-20-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525727",
+      "food_name": "Veggie Guacamole - Sub (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/veggie-guacamole-sub-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470981",
+      "food_name": "Red Wine Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/red-wine-vinaigrette",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525771",
+      "food_name": "Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chocolate-chip-cookie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525735",
+      "food_name": "Classic Italian Salad Bowl (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/classic-italian-salad-bowl-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525738",
+      "food_name": "Ultimate Turkey Club Salad Bowl (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/ultimate-turkey-club-salad-bowl-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525742",
+      "food_name": "Honey Bacon Club Salad Bowl (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-bacon-club-salad-bowl-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471464",
+      "food_name": "Cinnamon Sugar Cookie, 3 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/cinnamon-sugar-cookie-3-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173118",
+      "food_name": "Black Angus Queso Philly - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/black-angus-queso-philly-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173744",
+      "food_name": "Classic Italian - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/classic-italian-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173955",
+      "food_name": "Honey Bacon Club - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-bacon-club-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173900",
+      "food_name": "Chipotle Turkey - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chipotle-turkey-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173892",
+      "food_name": "Chipotle Turkey - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chipotle-turkey-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173984",
+      "food_name": "Spicy Monterey - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/spicy-monterey-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106174020",
+      "food_name": "Traditional - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/traditional-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106174084",
+      "food_name": "Tuna Melt - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/tuna-melt-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106174039",
+      "food_name": "Traditional - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/traditional-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106173974",
+      "food_name": "Honey Bacon Club - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-bacon-club-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363546",
+      "food_name": "Tuna Melt - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/tuna-melt-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363598",
+      "food_name": "Turkey Bacon Guacamole - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/turkey-bacon-guacamole-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363639",
+      "food_name": "Turkey Bacon Guacamole - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/turkey-bacon-guacamole-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363848",
+      "food_name": "Ultimate Turkey Club - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/ultimate-turkey-club-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363874",
+      "food_name": "Ultimate Turkey Club - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/ultimate-turkey-club-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363825",
+      "food_name": "Turkey Ranch Swiss - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/turkey-ranch-swiss-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364086",
+      "food_name": "Carbonara - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/carbonara-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364184",
+      "food_name": "Honey Mustard - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-mustard-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364198",
+      "food_name": "Mesquite - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mesquite-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363991",
+      "food_name": "Baja - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/baja-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364008",
+      "food_name": "Baja - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/baja-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364014",
+      "food_name": "Baja - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/baja-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364032",
+      "food_name": "Baja - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/baja-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364059",
+      "food_name": "Carbonara - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/carbonara-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364064",
+      "food_name": "Carbonara - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/carbonara-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106363656",
+      "food_name": "Turkey Bacon Guacamole - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/turkey-bacon-guacamole-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364151",
+      "food_name": "Honey Mustard - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-mustard-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364356",
+      "food_name": "French Dip - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/french-dip-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364375",
+      "food_name": "French Dip - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/french-dip-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364325",
+      "food_name": "Chipotle Steak & Cheddar - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chipotle-steak-cheddar-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364434",
+      "food_name": "Peppercorn Steak - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/peppercorn-steak-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364310",
+      "food_name": "Black Angus Steakhouse - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/black-angus-steakhouse-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364315",
+      "food_name": "Chipotle Steak & Cheddar - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chipotle-steak-cheddar-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364264",
+      "food_name": "Southwest - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/southwest-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364270",
+      "food_name": "Southwest - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/southwest-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364396",
+      "food_name": "French Dip - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/french-dip-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364423",
+      "food_name": "Peppercorn Steak - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/peppercorn-steak-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364427",
+      "food_name": "Peppercorn Steak - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/peppercorn-steak-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364337",
+      "food_name": "Chipotle Steak & Cheddar - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chipotle-steak-cheddar-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364213",
+      "food_name": "Mesquite - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mesquite-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364632",
+      "food_name": "Lobster & Seafood Salad - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/lobster-seafood-salad-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364642",
+      "food_name": "Lobster & Seafood Salad - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/lobster-seafood-salad-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364538",
+      "food_name": "Apple Harvest Chicken - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/apple-harvest-chicken-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364560",
+      "food_name": "Italian Meatball - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/italian-meatball-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364736",
+      "food_name": "Bacon, Egg, & Cheddar - Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/bacon-egg-cheddar-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364649",
+      "food_name": "Lobster & Seafood Salad - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/lobster-seafood-salad-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364659",
+      "food_name": "Egg & Cheddar - Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/egg-cheddar-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364551",
+      "food_name": "Italian Meatball - Small Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/italian-meatball-small-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364895",
+      "food_name": "Mayo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mayo",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364817",
+      "food_name": "Sausage, Egg, & Cheddar - Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/sausage-egg-cheddar-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365311",
+      "food_name": "Broccoli Cheese Soup - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/broccoli-cheese-soup-small",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365326",
+      "food_name": "Chili Soup - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chili-soup-small",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365273",
+      "food_name": "Chef Salad w/ Honey Mustard Dressing (Half)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chef-salad-w-honey-mustard-dressing-(half)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364986",
+      "food_name": "Green Bell Peppers, Sauteed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/green-bell-peppers-sauteed",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365333",
+      "food_name": "Chili Soup - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chili-soup-regular",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364936",
+      "food_name": "Kids Swiss Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/kids-swiss-cheese",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365220",
+      "food_name": "Pickles Dill",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/pickles-dill",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365268",
+      "food_name": "Chef Salad w/ Honey Mustard Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chef-salad-w-honey-mustard-dressing",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364912",
+      "food_name": "Kids Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/kids-ham",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106364926",
+      "food_name": "Kids Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/kids-cheddar-cheese",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365215",
+      "food_name": "Onions Yellow, Sauteed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/onions-yellow-sauteed",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365357",
+      "food_name": "Chocolate Chunk Cookie - Catering/Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chocolate-chunk-cookie-catering-kids",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365373",
+      "food_name": "Chocolate Chunk Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chocolate-chunk-cookie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365433",
+      "food_name": "Artisan Wheat Multigrain Baguette - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/artisan-wheat-multigrain-baguette-medium",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365585",
+      "food_name": "Black Angus Steak - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/black-angus-steak-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365590",
+      "food_name": "Black Angus Steak - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/black-angus-steak-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365611",
+      "food_name": "Capicola - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/capicola-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365613",
+      "food_name": "Capicola - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/capicola-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365492",
+      "food_name": "Rosemary Parmesan Baguette - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/rosemary-parmesan-baguette-medium",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365513",
+      "food_name": "Jalapeno Cheddar Baguette - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/jalapeno-cheddar-baguette-medium",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106365387",
+      "food_name": "White Choc Macadamia Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/white-choc-macadamia-cookie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524816",
+      "food_name": "Ham - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/ham-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524849",
+      "food_name": "Meatballs - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/meatballs-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524872",
+      "food_name": "Pepperoni - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/pepperoni-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524941",
+      "food_name": "Cheddar - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/cheddar-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524958",
+      "food_name": "Provolone - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/provolone-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524907",
+      "food_name": "Turkey Breast - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/turkey-breast-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524911",
+      "food_name": "Turkey Breast - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/turkey-breast-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524877",
+      "food_name": "Salami - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/salami-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524882",
+      "food_name": "Salami - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/salami-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524883",
+      "food_name": "Salami - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/salami-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524895",
+      "food_name": "Tuna with Mayo - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/tuna-with-mayo-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525051",
+      "food_name": "Honey French Dressing - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-french-dressing-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525056",
+      "food_name": "Honey Mustard Dressing - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-mustard-dressing-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525067",
+      "food_name": "Horseradish - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/horseradish-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525148",
+      "food_name": "Red Wine Vinaigrette - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/red-wine-vinaigrette-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525158",
+      "food_name": "Yellow Mustard - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/yellow-mustard-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525013",
+      "food_name": "Four Pepper Chili Sauce Batch 83 - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/four-pepper-chili-sauce-batch-83-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525089",
+      "food_name": "Marinara - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/marinara-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524970",
+      "food_name": "Swiss - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/swiss-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524978",
+      "food_name": "Alfredo Sauce - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/alfredo-sauce-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524984",
+      "food_name": "Alfredo Sauce - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/alfredo-sauce-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524985",
+      "food_name": "Alfredo Sauce - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/alfredo-sauce-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524997",
+      "food_name": "Blue Ribbon BBQ Sauce - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/blue-ribbon-bbq-sauce-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106524996",
+      "food_name": "Blue Ribbon BBQ Sauce - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/blue-ribbon-bbq-sauce-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525007",
+      "food_name": "Buttermilk Ranch - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/buttermilk-ranch-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525116",
+      "food_name": "Mayo Lite - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mayo-lite-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525124",
+      "food_name": "Mayo Lite - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mayo-lite-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525134",
+      "food_name": "Peppercorn Sauce - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/peppercorn-sauce-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525138",
+      "food_name": "Peppercorn Sauce - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/peppercorn-sauce-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525142",
+      "food_name": "Red Wine Vinaigrette - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/red-wine-vinaigrette-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525165",
+      "food_name": "Zesty Grille Sauce - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/zesty-grille-sauce-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525172",
+      "food_name": "Banana Peppers - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/banana-peppers-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525173",
+      "food_name": "Banana Peppers - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/banana-peppers-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525179",
+      "food_name": "Banana Peppers - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/banana-peppers-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525094",
+      "food_name": "Mayo Chipotle - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mayo-chipotle-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525110",
+      "food_name": "Mayo Lite - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mayo-lite-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525018",
+      "food_name": "Honey French Dressing - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-french-dressing-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525311",
+      "food_name": "Pickles Dill - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/pickles-dill-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525315",
+      "food_name": "Pickles Dill - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/pickles-dill-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525317",
+      "food_name": "Pickles Dill - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/pickles-dill-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525213",
+      "food_name": "Black Olive Slices - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/black-olive-slices-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525224",
+      "food_name": "Cucumber - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/cucumber-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525259",
+      "food_name": "Jalapeno Peppers - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/jalapeno-peppers-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525261",
+      "food_name": "Jalapeno Peppers - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/jalapeno-peppers-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525264",
+      "food_name": "Lettuce Iceberg Shredded - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/lettuce-iceberg-shredded-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525274",
+      "food_name": "Lettuce Iceberg Shredded - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/lettuce-iceberg-shredded-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525564",
+      "food_name": "Fanta Orange - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/fanta-orange-20-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525356",
+      "food_name": "Tomatoes - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/tomatoes-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525358",
+      "food_name": "Tomatoes - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/tomatoes-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525335",
+      "food_name": "Sautéed Green Bell Peppers - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/saut%C3%A9ed-green-bell-peppers-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525348",
+      "food_name": "Sautéed Yellow Onions - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/saut%C3%A9ed-yellow-onions-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525503",
+      "food_name": "Barq's Root Beer - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/barqs-root-beer-32-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525393",
+      "food_name": "Diet Coke - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/diet-coke-20-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525228",
+      "food_name": "Green Bell Pepper Fresh - Medium Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/green-bell-pepper-fresh-medium-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525219",
+      "food_name": "Black Olive Slices - Large Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/black-olive-slices-large-sub",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525221",
+      "food_name": "Cucumber - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/cucumber-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525305",
+      "food_name": "Pepperoncini - Small Sub/Sammie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/pepperoncini-small-sub-sammie",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470975",
+      "food_name": "Buttermilk Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/buttermilk-ranch",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525717",
+      "food_name": "Turkey Ranch Swiss - Sub (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/turkey-ranch-swiss-sub-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525718",
+      "food_name": "Turkey Ranch Swiss - Sammie (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/turkey-ranch-swiss-sammie-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525722",
+      "food_name": "Ultimate Turkey Club - Sub (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/ultimate-turkey-club-sub-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525723",
+      "food_name": "Ultimate Turkey Club - Sammie (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/ultimate-turkey-club-sammie-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525732",
+      "food_name": "Veggie Guacamole - Sammie (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/veggie-guacamole-sammie-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525749",
+      "food_name": "Apple Harvest Chicken Salad Bowl (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/apple-harvest-chicken-salad-bowl-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525607",
+      "food_name": "Powerade Mountain Blast - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/powerade-mountain-blast-32-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525701",
+      "food_name": "Traditional - Sammie (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/traditional-sammie-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525611",
+      "food_name": "Raspberry Lemonade - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/raspberry-lemonade-20-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525619",
+      "food_name": "Raspberry Lemonade - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/raspberry-lemonade-32-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525644",
+      "food_name": "Chipotle Turkey - Sub (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/chipotle-turkey-sub-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525659",
+      "food_name": "Classic Italian - Sub (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/classic-italian-sub-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525670",
+      "food_name": "Honey Bacon Club - Sammie (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/honey-bacon-club-sammie-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525686",
+      "food_name": "Mesquite Chicken - Sub (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mesquite-chicken-sub-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525693",
+      "food_name": "Mesquite Chicken - Sammie (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/mesquite-chicken-sammie-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525763",
+      "food_name": "Fresh Garden Salad Bowl (Catering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/fresh-garden-salad-bowl-(catering)",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525578",
+      "food_name": "Fanta Orange - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/fanta-orange-32-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106525585",
+      "food_name": "Minute Maid Light Lemonade - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiznos/minute-maid-light-lemonade-20-oz",
+      "brand_name": "Quiznos",
+      "food_type": "Brand"
+    }
+  ]
+}

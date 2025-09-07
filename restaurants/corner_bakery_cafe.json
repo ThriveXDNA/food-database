@@ -1,0 +1,755 @@
+{
+  "restaurant": "Corner Bakery Cafe",
+  "total_items": 106,
+  "pages_extracted": 6,
+  "total_search_results": 444,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:38:23.738Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/corner_bakery_cafe.json",
+  "items": [
+    {
+      "food_id": "1048943",
+      "food_name": "Mixed Green Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/mixed-green-salad",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "852419",
+      "food_name": "Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/croissant",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2712017",
+      "food_name": "Brownie Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/brownie-bites",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2586251",
+      "food_name": "Breakfast Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/breakfast-potatoes",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50226",
+      "food_name": "Chicken Pesto Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/chicken-pesto-sandwich",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1669023",
+      "food_name": "Monster Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/monster-cookie",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3456500",
+      "food_name": "Ham & Swiss Panini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/ham-and-swiss-panini",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3924093",
+      "food_name": "BBLT",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/bblt",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1158180",
+      "food_name": "Sugar Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/sugar-cookie",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2730619",
+      "food_name": "Pickle Spear",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/pickle-spear",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8606954",
+      "food_name": "Bread Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/bread-bowl",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2938167",
+      "food_name": "Corned Beef Reuben on Caraway Rye",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/corned-beef-reuben-on-caraway-rye",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1457163",
+      "food_name": "Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/chocolate-chip-cookie",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2249205",
+      "food_name": "Cinnamon Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/cinnamon-roll",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1224536",
+      "food_name": "Focaccia Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/focaccia-roll",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88811",
+      "food_name": "Uptown Turkey on Harvest Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/uptown-turkey-on-harvest-bread",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2100929",
+      "food_name": "Harvest Salad (Cafe Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/harvest-salad-(cafe-size)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "175630",
+      "food_name": "Three Lentil Vegetable Soup (Bowl)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/three-lentil-vegetable-soup-(bowl)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "572260",
+      "food_name": "Club Panini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/club-panini",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10442965",
+      "food_name": "Toffee Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/toffee-cookie",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30594317",
+      "food_name": "Turkey Avocado Cobb Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/turkey-avocado-cobb-salad",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1055395",
+      "food_name": "Pesto Cavatappi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/pesto-cavatappi",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77034",
+      "food_name": "Seasonal Fruit Medley",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/seasonal-fruit-medley",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "840323",
+      "food_name": "Chicken Pomodori",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/chicken-pomodori",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1319216",
+      "food_name": "Caesar Salad (Trio)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/caesar-salad-(trio)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2454296",
+      "food_name": "Greek Salad (Cafe Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/greek-salad-(cafe-size)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5390972",
+      "food_name": "Lemon Chicken Orzo Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/lemon-chicken-orzo-soup",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32413390",
+      "food_name": "Bacon Avocado Egg Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/bacon-avocado-egg-bowl",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28669051",
+      "food_name": "Roast Beef & Cheddar Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/roast-beef-cheddar-sandwich",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1055458",
+      "food_name": "Raspberry Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/raspberry-bar",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92838",
+      "food_name": "Sweet Crisp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/sweet-crisp",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1266963",
+      "food_name": "Snickerdoodle Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/snickerdoodle-cookie",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5705018",
+      "food_name": "Sliced Meatball Panini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/sliced-meatball-panini",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1729420",
+      "food_name": "Ham on Pretzel Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/ham-on-pretzel-bread",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "882560",
+      "food_name": "Mixed Green Salad (Trio Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/mixed-green-salad-(trio-size)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78807",
+      "food_name": "Tuna Salad on Harvest Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/tuna-salad-on-harvest-bread",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57557833",
+      "food_name": "Chicken Sausage Breakfast Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/chicken-sausage-breakfast-wrap",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54849",
+      "food_name": "Baked French Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/baked-french-toast",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1055003",
+      "food_name": "Tomato Mozzarella on Ciabatta Ficelle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/tomato-mozzarella-on-ciabatta-ficelle",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15025682",
+      "food_name": "Apricot Walnut Rugelach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/apricot-walnut-rugelach",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3910595",
+      "food_name": "Chocolate Baby Bundt Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/chocolate-baby-bundt-cake",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "366116",
+      "food_name": "Bakery Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/bakery-chips",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78809",
+      "food_name": "Roasted Tomato Basil Soup without Croutons (Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/roasted-tomato-basil-soup-without-croutons-(cup)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39885077",
+      "food_name": "Rustic Italian Panini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/rustic-italian-panini",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1373832",
+      "food_name": "Chicken Noodle Soup (Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/chicken-noodle-soup-(cup)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1256485",
+      "food_name": "Chicken Noodle Soup (Bowl)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/chicken-noodle-soup-(bowl)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1652672",
+      "food_name": "California Grille Panini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/california-grille-panini",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1799020",
+      "food_name": "White Chocolate Macadamia Nut Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/white-chocolate-macadamia-nut-cookie",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2696823",
+      "food_name": "Turkey on Pretzel Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/turkey-on-pretzel-bread",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2618571",
+      "food_name": "Anaheim Scrambler",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/anaheim-scrambler",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1235452",
+      "food_name": "Loaded Baked Potato Soup (Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/loaded-baked-potato-soup-(cup)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34058983",
+      "food_name": "Power Greens & Grains Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/power-greens-grains-salad",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "237364",
+      "food_name": "Farmer's Scrambler",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/farmers-scrambler",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65983",
+      "food_name": "Oatmeal with Toppings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/oatmeal-with-toppings",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3920721",
+      "food_name": "Fresh Berry & Yogurt Parfait",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/fresh-berry-and-yogurt-parfait",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1940392",
+      "food_name": "Chocolate Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/chocolate-muffin",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32356",
+      "food_name": "Chicken Mushroom Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/chicken-mushroom-soup",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3012394",
+      "food_name": "D.C. Chicken Salad on Steakhouse Rye",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/dc-chicken-salad-on-steakhouse-rye",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1876647",
+      "food_name": "Greek Vegetable Salad (Side)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/greek-vegetable-salad-(side)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "642813",
+      "food_name": "Chopped Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/chopped-salad",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "964627",
+      "food_name": "Pasta Caprese Salad (Trio Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/pasta-caprese-salad-(trio-size)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7888209",
+      "food_name": "Southwest Avocado Salad (Trio Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/southwest-avocado-salad-(trio-size)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "581496",
+      "food_name": "Cream Cheese Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/cream-cheese-brownie",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54899571",
+      "food_name": "Anaheim Panini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/anaheim-panini",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1242326",
+      "food_name": "Loaded Baked Potato Soup (Bowl)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/loaded-baked-potato-soup-(bowl)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16356483",
+      "food_name": "Bacon (Side)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/bacon-(side)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4285731",
+      "food_name": "Roasted Tomato Basil with Croutons (Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/roasted-tomato-basil-with-croutons-(cup)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1050829",
+      "food_name": "Cinnamon Raisin Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/cinnamon-raisin-bagel",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1051120",
+      "food_name": "Asian Edamame Salad (Side)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/asian-edamame-salad-(side)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "320905",
+      "food_name": "Garlic Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/garlic-bread",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2386993",
+      "food_name": "Cinnamon Creme Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/cinnamon-creme-cake",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2600423",
+      "food_name": "Roasted Poblano Corn Chowder (Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/roasted-poblano-corn-chowder-(cup)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2622678",
+      "food_name": "Banana Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/banana-muffin",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2947123",
+      "food_name": "Lemon Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/lemon-bar",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2796074",
+      "food_name": "Cinnamon Crumb Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/cinnamon-crumb-muffin",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2622631",
+      "food_name": "Smoked Bacon & Cheddar Panini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/smoked-bacon-and-cheddar-panini",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5027498",
+      "food_name": "Spicy Thai Coconut Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/spicy-thai-coconut-soup",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5682847",
+      "food_name": "Pumpkin Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/pumpkin-muffin",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3732588",
+      "food_name": "Mac & Three Cheese (Cafe Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/mac-and-three-cheese-(cafe-size)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1699748",
+      "food_name": "Smoked Turkey Cobb Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/smoked-turkey-cobb-sandwich",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1054818",
+      "food_name": "Big Al's Chili with Cheddar Cheese (Bowl)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/big-als-chili-with-cheddar-cheese-(bowl)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "821735",
+      "food_name": "Anaheim Scrambler with Egg Whites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/anaheim-scrambler-with-egg-whites",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "645852",
+      "food_name": "Three Lentil Vegetable Soup (Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/three-lentil-vegetable-soup-(cup)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2936696",
+      "food_name": "Harvest Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/harvest-toast",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17502856",
+      "food_name": "Caprese Grilled Flat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/caprese-grilled-flat",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "291533",
+      "food_name": "Everything Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/everything-bagel",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1481408",
+      "food_name": "Italian Wedding Soup (Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/italian-wedding-soup-(cup)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2443719",
+      "food_name": "Cinnamon Pecan Rugalach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/cinnamon-pecan-rugalach",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2705933",
+      "food_name": "Cheddar Broccoli Soup (Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/cheddar-broccoli-soup-(cup)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2049507",
+      "food_name": "Mom's Roasted Chicken on Harvest Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/moms-roasted-chicken-on-harvest-bread",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12404863",
+      "food_name": "Spicy Asian Pork Grilled Flat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/spicy-asian-pork-grilled-flat",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1138924",
+      "food_name": "Egg Salad (Trio Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/egg-salad-(trio-size)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1055460",
+      "food_name": "Fudge Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/fudge-brownie",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1113021",
+      "food_name": "Oatmeal Raisin Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/oatmeal-raisin-cookie",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1256185",
+      "food_name": "Chicken Tortilla Soup (Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/chicken-tortilla-soup-(cup)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6022947",
+      "food_name": "Raisin Pecan Sweet Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/raisin-pecan-sweet-crisps",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3204713",
+      "food_name": "Lemon Pound Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/lemon-pound-cake",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94115",
+      "food_name": "Maple Pecan Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/maple-pecan-bar",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2787995",
+      "food_name": "Mom's Turkey on Harvest Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/moms-turkey-on-harvest-bread",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2271809",
+      "food_name": "Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/lemonade",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2298372",
+      "food_name": "Blueberry Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/blueberry-muffin",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16324828",
+      "food_name": "Pico Quinoa & Black Bean Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/pico-quinoa-and-black-bean-salad",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3058219",
+      "food_name": "Avocado & Spinach Power Panini Thin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/avocado-and-spinach-power-panini-thin",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1048112",
+      "food_name": "Swiss Berry Almond Oatmeal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/swiss-berry-almond-oatmeal",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4020098",
+      "food_name": "Avocado & Spinach Power Panini Thin with Egg Whites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/avocado-and-spinach-power-panini-thin-with-egg-whites",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1054913",
+      "food_name": "Roasted Poblano Corn Chowder (Bowl)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corner-bakery-cafe/roasted-poblano-corn-chowder-(bowl)",
+      "brand_name": "Corner Bakery Cafe",
+      "food_type": "Brand"
+    }
+  ]
+}

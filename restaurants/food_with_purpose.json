@@ -1,0 +1,27 @@
+{
+  "restaurant": "Food with Purpose",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 11097,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:30:13.715Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/food_with_purpose.json",
+  "items": [
+    {
+      "food_id": "21093887",
+      "food_name": "Medley of Rice & Ancient Grains",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/food-with-purpose/medley-of-rice-ancient-grains",
+      "brand_name": "Food with Purpose",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41149544",
+      "food_name": "Italian Herbs & Cheese Tortellini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/food-with-purpose/italian-herbs-cheese-tortellini",
+      "brand_name": "Food with Purpose",
+      "food_type": "Brand"
+    }
+  ]
+}

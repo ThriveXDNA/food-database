@@ -1,0 +1,83 @@
+{
+  "restaurant": "Peter Paul",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 13,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:04:15.639Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/peter_paul.json",
+  "items": [
+    {
+      "food_id": "4138540",
+      "food_name": "Almond Joy (Snack Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-paul/almond-joy-(snack-size)",
+      "brand_name": "Peter Paul",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3928943",
+      "food_name": "Mounds (Fun Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-paul/mounds-(fun-size)",
+      "brand_name": "Peter Paul",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4481831",
+      "food_name": "Mounds (Snack Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-paul/mounds-(snack-size)",
+      "brand_name": "Peter Paul",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29534",
+      "food_name": "Almond Joy Chocolate Bar (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-paul/almond-joy-chocolate-bar-(king-size)",
+      "brand_name": "Peter Paul",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1890078",
+      "food_name": "Mounds Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-paul/mounds-chocolate-bar",
+      "brand_name": "Peter Paul",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100429",
+      "food_name": "Almond Joy Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-paul/almond-joy-chocolate-bar",
+      "brand_name": "Peter Paul",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43501703",
+      "food_name": "Mounds (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-paul/mounds-(king-size)",
+      "brand_name": "Peter Paul",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3299658",
+      "food_name": "Mounds Ice Cream Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-paul/mounds-ice-cream-bar",
+      "brand_name": "Peter Paul",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1927667",
+      "food_name": "Almond Joy Egg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-paul/almond-joy-egg",
+      "brand_name": "Peter Paul",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "702777",
+      "food_name": "Almond Joy Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-paul/almond-joy-pieces",
+      "brand_name": "Peter Paul",
+      "food_type": "Brand"
+    }
+  ]
+}

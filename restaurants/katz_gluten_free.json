@@ -1,0 +1,27 @@
+{
+  "restaurant": "Katz Gluten Free",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 3944,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:04:54.437Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/katz_gluten_free.json",
+  "items": [
+    {
+      "food_id": "16553742",
+      "food_name": "Glazed Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/katz-gluten-free/glazed-donut",
+      "brand_name": "Katz Gluten Free",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2640852",
+      "food_name": "Rugelech",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/katz-gluten-free/rugelech",
+      "brand_name": "Katz Gluten Free",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "restaurant": "Williams",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:31:00.362Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/williams.json",
+  "items": [
+    {
+      "food_id": "8144701",
+      "food_name": "Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/williams/sausage",
+      "brand_name": "Williams",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2700969",
+      "food_name": "Smoked Cheddar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/williams/smoked-cheddar",
+      "brand_name": "Williams",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2853326",
+      "food_name": "Country Sausage Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/williams/country-sausage-patties",
+      "brand_name": "Williams",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5417313",
+      "food_name": "Country Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/williams/country-sausage",
+      "brand_name": "Williams",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "229898",
+      "food_name": "Original Chili Seasoning Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/williams/original-chili-seasoning-mix",
+      "brand_name": "Williams",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "229903",
+      "food_name": "Taco Seasoning Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/williams/taco-seasoning-mix",
+      "brand_name": "Williams",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "933798",
+      "food_name": "Pinconning Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/williams/pinconning-cheese",
+      "brand_name": "Williams",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12238114",
+      "food_name": "Sliced Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/williams/sliced-bacon",
+      "brand_name": "Williams",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17643498",
+      "food_name": "Sausage on A Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/williams/sausage-on-a-bun",
+      "brand_name": "Williams",
+      "food_type": "Brand"
+    }
+  ]
+}

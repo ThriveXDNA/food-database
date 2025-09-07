@@ -1,0 +1,27 @@
+{
+  "brand_name": "Batavo",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:22:51.065Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/batavo.json",
+  "items": [
+    {
+      "food_id": "68550543",
+      "food_name": "Iogurte Grego Pense Zero",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/batavo/iogurte-grego-pense-zero",
+      "brand_name": "Batavo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55560427",
+      "food_name": "Iogurte Natural Desnatado",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/batavo/iogurte-natural-desnatado",
+      "brand_name": "Batavo",
+      "food_type": "Brand"
+    }
+  ]
+}

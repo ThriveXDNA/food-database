@@ -1,0 +1,62 @@
+{
+  "restaurant": "Cooper Street",
+  "total_items": 7,
+  "pages_extracted": 5,
+  "total_search_results": 219,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:08:02.998Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cooper_street.json",
+  "items": [
+    {
+      "food_id": "48314681",
+      "food_name": "Lemon Blueberry Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cooper-street/lemon-blueberry-cookies",
+      "brand_name": "Cooper Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72687280",
+      "food_name": "Blueberry Pomegranate Granola Bake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cooper-street/blueberry-pomegranate-granola-bake",
+      "brand_name": "Cooper Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26724032",
+      "food_name": "Chewy Granola Bakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cooper-street/chewy-granola-bakes",
+      "brand_name": "Cooper Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20384443",
+      "food_name": "Orange Cranberry Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cooper-street/orange-cranberry-cookies",
+      "brand_name": "Cooper Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42745826",
+      "food_name": "Brownie Chocolate Crunch Twice Baked Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cooper-street/brownie-chocolate-crunch-twice-baked-cookies",
+      "brand_name": "Cooper Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97308285",
+      "food_name": "Cherry White Chunk Twice Baked Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cooper-street/cherry-white-chunk-twice-baked-cookies",
+      "brand_name": "Cooper Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41779600",
+      "food_name": "Granola Cookie Bakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cooper-street/granola-cookie-bakes",
+      "brand_name": "Cooper Street",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "restaurant": "J.J. Cassone",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 12,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:54:25.769Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/j_j_cassone.json",
+  "items": [
+    {
+      "food_id": "1821058",
+      "food_name": "Hero Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jj-cassone/hero-roll",
+      "brand_name": "J.J. Cassone",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46913712",
+      "food_name": "Club Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jj-cassone/club-rolls",
+      "brand_name": "J.J. Cassone",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3201399",
+      "food_name": "Sandwich Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jj-cassone/sandwich-rolls",
+      "brand_name": "J.J. Cassone",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "210054",
+      "food_name": "Enriched Hearth Baked Portuguese Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jj-cassone/enriched-hearth-baked-portuguese-bread",
+      "brand_name": "J.J. Cassone",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "210056",
+      "food_name": "Enriched Old Fashioned Italian Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jj-cassone/enriched-old-fashioned-italian-bread",
+      "brand_name": "J.J. Cassone",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "restaurant": "Mississippi Cheese Straw Factory",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 12119,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:23:16.060Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mississippi_cheese_straw_factory.json",
+  "items": [
+    {
+      "food_id": "6897481",
+      "food_name": "Traditional Cheddar Cheese Straws",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mississippi-cheese-straw-factory/traditional-cheddar-cheese-straws",
+      "brand_name": "Mississippi Cheese Straw Factory",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "316891",
+      "food_name": "Original Lemon Straws",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mississippi-cheese-straw-factory/original-lemon-straws",
+      "brand_name": "Mississippi Cheese Straw Factory",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92602191",
+      "food_name": "Cinnamon Pecan Straws",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mississippi-cheese-straw-factory/cinnamon-pecan-straws",
+      "brand_name": "Mississippi Cheese Straw Factory",
+      "food_type": "Brand"
+    }
+  ]
+}

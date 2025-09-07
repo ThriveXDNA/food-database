@@ -1,0 +1,90 @@
+{
+  "restaurant": "Naturally Delicious",
+  "total_items": 11,
+  "pages_extracted": 4,
+  "total_search_results": 183,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:51:15.286Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/naturally_delicious.json",
+  "items": [
+    {
+      "food_id": "1436812",
+      "food_name": "Chocolate Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naturally-delicious/chocolate-bread",
+      "brand_name": "Naturally Delicious",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3726925",
+      "food_name": "Caesar Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naturally-delicious/caesar-dressing",
+      "brand_name": "Naturally Delicious",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2882475",
+      "food_name": "Peppercorn Parmesan Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naturally-delicious/peppercorn-parmesan-dressing",
+      "brand_name": "Naturally Delicious",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "748023",
+      "food_name": "Banana Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naturally-delicious/banana-bread",
+      "brand_name": "Naturally Delicious",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "754917",
+      "food_name": "Zucchini Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naturally-delicious/zucchini-bread",
+      "brand_name": "Naturally Delicious",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1230267",
+      "food_name": "Barbecue Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naturally-delicious/barbecue-sauce",
+      "brand_name": "Naturally Delicious",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1876454",
+      "food_name": "Asian Sesame Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naturally-delicious/asian-sesame-vinaigrette",
+      "brand_name": "Naturally Delicious",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1341190",
+      "food_name": "Light Raspberry Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naturally-delicious/light-raspberry-vinaigrette",
+      "brand_name": "Naturally Delicious",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2181137",
+      "food_name": "Fat Free Pumpkin Spice Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naturally-delicious/fat-free-pumpkin-spice-bread",
+      "brand_name": "Naturally Delicious",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "691256",
+      "food_name": "Light Italian with Olive Oil Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naturally-delicious/light-italian-with-olive-oil-dressing",
+      "brand_name": "Naturally Delicious",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "389138",
+      "food_name": "Cappuccino Chocolate Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naturally-delicious/cappuccino-chocolate-chip",
+      "brand_name": "Naturally Delicious",
+      "food_type": "Brand"
+    }
+  ]
+}

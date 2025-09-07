@@ -1,0 +1,41 @@
+{
+  "restaurant": "La Tiara",
+  "total_items": 4,
+  "pages_extracted": 2,
+  "total_search_results": 94,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:30:29.473Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/la_tiara.json",
+  "items": [
+    {
+      "food_id": "227394",
+      "food_name": "Real Corn Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-tiara/real-corn-taco-shells",
+      "brand_name": "La Tiara",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13872641",
+      "food_name": "Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-tiara/taco-shells",
+      "brand_name": "La Tiara",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64031778",
+      "food_name": "Yellow Corn Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-tiara/yellow-corn-taco-shells",
+      "brand_name": "La Tiara",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "227395",
+      "food_name": "White Corn Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-tiara/white-corn-taco-shells",
+      "brand_name": "La Tiara",
+      "food_type": "Brand"
+    }
+  ]
+}

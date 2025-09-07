@@ -1,0 +1,20 @@
+{
+  "restaurant": "Himemaru",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 1,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:40:22.846Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/himemaru.json",
+  "items": [
+    {
+      "food_id": "19692490",
+      "food_name": "Japanese Rice Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/himemaru/japanese-rice-crackers",
+      "brand_name": "Himemaru",
+      "food_type": "Brand"
+    }
+  ]
+}

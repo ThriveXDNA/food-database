@@ -1,0 +1,34 @@
+{
+  "restaurant": "The Butcher Shop At Sprouts",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 1438,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:28:00.746Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_butcher_shop_at_sprouts.json",
+  "items": [
+    {
+      "food_id": "23347433",
+      "food_name": "Garlic Herb Marinated Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-butcher-shop-at-sprouts/garlic-herb-marinated-chicken-breast",
+      "brand_name": "The Butcher Shop At Sprouts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51291019",
+      "food_name": "Hickory Smoked Uncured Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-butcher-shop-at-sprouts/hickory-smoked-uncured-bacon",
+      "brand_name": "The Butcher Shop At Sprouts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46033370",
+      "food_name": "Plant Based Burger Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-butcher-shop-at-sprouts/plant-based-burger-patties",
+      "brand_name": "The Butcher Shop At Sprouts",
+      "food_type": "Brand"
+    }
+  ]
+}

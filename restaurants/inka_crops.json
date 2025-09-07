@@ -1,0 +1,20 @@
+{
+  "restaurant": "Inka Crops",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 1,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:55:17.150Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/inka_crops.json",
+  "items": [
+    {
+      "food_id": "6964148",
+      "food_name": "Original Inka Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/inka-crops/original-inka-corn",
+      "brand_name": "Inka Crops",
+      "food_type": "Brand"
+    }
+  ]
+}

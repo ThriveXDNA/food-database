@@ -1,0 +1,41 @@
+{
+  "restaurant": "Kitchen Cooked",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 756,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:52:24.522Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kitchen_cooked.json",
+  "items": [
+    {
+      "food_id": "284784",
+      "food_name": "Classic Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kitchen-cooked/classic-potato-chips",
+      "brand_name": "Kitchen Cooked",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1174726",
+      "food_name": "Classic Cheese Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kitchen-cooked/classic-cheese-popcorn",
+      "brand_name": "Kitchen Cooked",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284783",
+      "food_name": "Pork Cracklins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kitchen-cooked/pork-cracklins",
+      "brand_name": "Kitchen Cooked",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27989674",
+      "food_name": "Smoky Sweet Bar-B-Q Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kitchen-cooked/smoky-sweet-bar-b-q-potato-chips",
+      "brand_name": "Kitchen Cooked",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "restaurant": "Oatmega",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:07:25.490Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/oatmega.json",
+  "items": [
+    {
+      "food_id": "29057051",
+      "food_name": "Blueberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oatmega/blueberry",
+      "brand_name": "Oatmega",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21094803",
+      "food_name": "Chocolate Peanut Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oatmega/chocolate-peanut-protein-bar",
+      "brand_name": "Oatmega",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20832613",
+      "food_name": "Chocolate Brownie Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oatmega/chocolate-brownie-protein-bar",
+      "brand_name": "Oatmega",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16717369",
+      "food_name": "White Chocolate Macadamia Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oatmega/white-chocolate-macadamia-cookie",
+      "brand_name": "Oatmega",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9316582",
+      "food_name": "Vanilla Almond Crisp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oatmega/vanilla-almond-crisp",
+      "brand_name": "Oatmega",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17036212",
+      "food_name": "Chocolate Mint Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oatmega/chocolate-mint-protein-bar",
+      "brand_name": "Oatmega",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15915016",
+      "food_name": "Chocolate Chip Protein Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oatmega/chocolate-chip-protein-cookie",
+      "brand_name": "Oatmega",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13453136",
+      "food_name": "White Chocolate Raspberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oatmega/white-chocolate-raspberry",
+      "brand_name": "Oatmega",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "restaurant": "Sugar Bowl Bakery",
+  "total_items": 11,
+  "pages_extracted": 6,
+  "total_search_results": 5463,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:45:41.338Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sugar_bowl_bakery.json",
+  "items": [
+    {
+      "food_id": "277587",
+      "food_name": "Madeleines",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sugar-bowl-bakery/madeleines",
+      "brand_name": "Sugar Bowl Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72482488",
+      "food_name": "Mango Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sugar-bowl-bakery/mango-cake",
+      "brand_name": "Sugar Bowl Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87393",
+      "food_name": "Petite Palmiers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sugar-bowl-bakery/petite-palmiers",
+      "brand_name": "Sugar Bowl Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60716447",
+      "food_name": "Palmiers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sugar-bowl-bakery/palmiers",
+      "brand_name": "Sugar Bowl Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2488135",
+      "food_name": "Apple Fritters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sugar-bowl-bakery/apple-fritters",
+      "brand_name": "Sugar Bowl Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18981619",
+      "food_name": "Brownie Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sugar-bowl-bakery/brownie-bites",
+      "brand_name": "Sugar Bowl Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63466",
+      "food_name": "Petite Brownie Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sugar-bowl-bakery/petite-brownie-bites",
+      "brand_name": "Sugar Bowl Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49701894",
+      "food_name": "Dipped Raspberry Madeleines",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sugar-bowl-bakery/dipped-raspberry-madeleines",
+      "brand_name": "Sugar Bowl Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31560815",
+      "food_name": "Pumpkin Fritters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sugar-bowl-bakery/pumpkin-fritters",
+      "brand_name": "Sugar Bowl Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73983580",
+      "food_name": "Pumpkin Spice Madeleines",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sugar-bowl-bakery/pumpkin-spice-madeleines",
+      "brand_name": "Sugar Bowl Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79549149",
+      "food_name": "Cranberry Orange White Chocolate Duet Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sugar-bowl-bakery/cranberry-orange-white-chocolate-duet-bites",
+      "brand_name": "Sugar Bowl Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Chicken Pound",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 15940,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:43:56.689Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/chicken_pound.json",
+  "items": [
+    {
+      "food_id": "71683940",
+      "food_name": "BBQ Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicken-pound/bbq-chicken",
+      "brand_name": "Chicken Pound",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65586256",
+      "food_name": "Chicken Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicken-pound/chicken-meatballs",
+      "brand_name": "Chicken Pound",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72691906",
+      "food_name": "Teriyaki Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicken-pound/teriyaki-chicken",
+      "brand_name": "Chicken Pound",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71984976",
+      "food_name": "Cilantro Lime Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicken-pound/cilantro-lime-chicken",
+      "brand_name": "Chicken Pound",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68091922",
+      "food_name": "Jerk Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicken-pound/jerk-chicken",
+      "brand_name": "Chicken Pound",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71623405",
+      "food_name": "Balsamic Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicken-pound/balsamic-chicken",
+      "brand_name": "Chicken Pound",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "search_term": "poached eggs",
+  "category": "comprehensive",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "last_updated": "2025-09-06T05:39:20.591Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Search term with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/categories/poached_eggs.json",
+  "items": [
+    {
+      "food_id": "3095",
+      "food_name": "Poached Egg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/egg-whole-poached",
+      "food_type": "Generic",
+      "brand_name": null
+    },
+    {
+      "food_id": "33800",
+      "food_name": "Poached Egg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/poached-egg",
+      "food_type": "Generic",
+      "brand_name": null
+    },
+    {
+      "food_id": "84353811",
+      "food_name": "Poached Egg (1 Egg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/poached-egg-(1-egg)",
+      "food_type": "Brand",
+      "brand_name": "IHOP"
+    },
+    {
+      "food_id": "13034689",
+      "food_name": "Lite Luncheon Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-value/lite-luncheon-meat",
+      "food_type": "Brand",
+      "brand_name": "Great Value"
+    },
+    {
+      "food_id": "3110",
+      "food_name": "Benedict Egg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/egg-benedict",
+      "food_type": "Generic",
+      "brand_name": null
+    },
+    {
+      "food_id": "48481497",
+      "food_name": "Egg Fonduta (1200)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seattle-suttons-healthy-eating/egg-fonduta-(1200)",
+      "food_type": "Brand",
+      "brand_name": "Seattle Sutton's Healthy Eating"
+    },
+    {
+      "food_id": "80354622",
+      "food_name": "Shakshuka For One (North African Poached Eggs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/real-appeal/shakshuka-for-one-(north-african-poached-eggs)",
+      "food_type": "Brand",
+      "brand_name": "Real Appeal"
+    }
+  ]
+}

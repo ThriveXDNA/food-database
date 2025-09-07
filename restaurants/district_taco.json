@@ -1,0 +1,27 @@
+{
+  "restaurant": "District Taco",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 1339,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:31:46.754Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/district_taco.json",
+  "items": [
+    {
+      "food_id": "37487059",
+      "food_name": "Fish Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/district-taco/fish-taco",
+      "brand_name": "District Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42226236",
+      "food_name": "California Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/district-taco/california-burrito",
+      "brand_name": "District Taco",
+      "food_type": "Brand"
+    }
+  ]
+}

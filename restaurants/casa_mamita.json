@@ -1,0 +1,363 @@
+{
+  "restaurant": "Casa Mamita",
+  "total_items": 50,
+  "pages_extracted": 2,
+  "total_search_results": 61,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:15:37.074Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/casa_mamita.json",
+  "items": [
+    {
+      "food_id": "59354332",
+      "food_name": "Pork Carnitas Street Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/pork-carnitas-street-tacos",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "827775",
+      "food_name": "Mild Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/mild-salsa",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4043481",
+      "food_name": "Traditional Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/traditional-refried-beans",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1064488",
+      "food_name": "Salsa Con Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/salsa-con-queso",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3625825",
+      "food_name": "Fat Free Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/fat-free-refried-beans",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14173965",
+      "food_name": "Medium Chunky Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/medium-chunky-salsa",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26939723",
+      "food_name": "Chicken Quesadillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/chicken-quesadillas",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22251071",
+      "food_name": "Pork Carnitas Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/pork-carnitas-burrito",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33113972",
+      "food_name": "Crunchy Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/crunchy-taco-shells",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4339803",
+      "food_name": "Diced Tomatoes & Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/diced-tomatoes-and-green-chilies",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "323003",
+      "food_name": "Beef & Bean Burritos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/beef-and-bean-burritos",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2636296",
+      "food_name": "Original Taco Seasoning Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/original-taco-seasoning-mix",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59270223",
+      "food_name": "Mini Empanadas Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/mini-empanadas-chicken",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65775116",
+      "food_name": "Chicken & Cheese Enchilada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/chicken-cheese-enchilada",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35999315",
+      "food_name": "Sweet Creme Filled Churros",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/sweet-creme-filled-churros",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76768817",
+      "food_name": "Burritos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/burritos",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73580568",
+      "food_name": "Restaurant Style Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/restaurant-style-salsa",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10200423",
+      "food_name": "Mild All Natural Chunky Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/mild-all-natural-chunky-salsa",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23428277",
+      "food_name": "Chicken & Cheese Taquitos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/chicken-cheese-taquitos",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68845135",
+      "food_name": "Chicken Tostada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/chicken-tostada",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21578443",
+      "food_name": "Chile Verde Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/chile-verde-pork",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1506230",
+      "food_name": "Bean & Cheese Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/bean-and-cheese-burrito",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14364463",
+      "food_name": "Steak & Cheese Chimichanga",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/steak-and-cheese-chimichanga",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5712406",
+      "food_name": "Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/taco-shells/2-shells",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37575930",
+      "food_name": "Pineapple Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/pineapple-salsa",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71949348",
+      "food_name": "Black Bean & Corn Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/black-bean-corn-salsa",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81719252",
+      "food_name": "Beef Tostada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/beef-tostada",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3086513",
+      "food_name": "Medium Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/medium-salsa",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10997880",
+      "food_name": "Beef Taquitos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/beef-taquitos",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936972",
+      "food_name": "Black Bean & Corn Enchiladas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/black-bean-corn-enchiladas",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69634370",
+      "food_name": "Chicken Enchiladas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/chicken-enchiladas",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9608220",
+      "food_name": "Chipotle Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/chipotle-corn",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84388340",
+      "food_name": "Beef & Cheese Chimichanga",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/beef-cheese-chimichanga",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2654035",
+      "food_name": "Mini Tacos Beef & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/mini-tacos-beef-and-cheese",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3917731",
+      "food_name": "Chicken & Cheese Chimichanga",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/chicken-and-cheese-chimichanga",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1195317",
+      "food_name": "Mini Chicken Quesadillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/mini-chicken-quesadillas",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69753952",
+      "food_name": "Corn Masa Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/corn-masa-bites",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4092796",
+      "food_name": "Southwestern Bean Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/southwestern-bean-salad",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21265547",
+      "food_name": "Mexican Style Lasagna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/mexican-style-lasagna",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49176869",
+      "food_name": "Mexican Style Street Corn Flavored Big Dipper Corn Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/mexican-style-street-corn-flavored-big-dipper-corn-chips",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8308375",
+      "food_name": "Southwest Queso Chicken Skillet Meal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/southwest-queso-chicken-skillet-meal",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44660301",
+      "food_name": "Carnitas Skillet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/carnitas-skillet",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19583270",
+      "food_name": "Organic Black Bean Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/organic-black-bean-dip",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29431433",
+      "food_name": "Shredded Beef Taquitos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/shredded-beef-taquitos",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17575249",
+      "food_name": "Corn & Chile Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/corn-and-chile-salsa",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75187190",
+      "food_name": "Stuffed Nachos Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/stuffed-nachos-queso",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15295621",
+      "food_name": "Taco Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/taco-sauce",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59362728",
+      "food_name": "Fiesta Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/fiesta-meatballs",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60214926",
+      "food_name": "Chicken Chili Verde Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/chicken-chili-verde-meatballs",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52325159",
+      "food_name": "Chorizo Hatch Chile Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/chorizo-hatch-chile-ravioli",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    }
+  ]
+}

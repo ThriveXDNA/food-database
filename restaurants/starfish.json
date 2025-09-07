@@ -1,0 +1,69 @@
+{
+  "restaurant": "Starfish",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:38:34.724Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/starfish.json",
+  "items": [
+    {
+      "food_id": "139779",
+      "food_name": "Chunk Light Tuna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/starfish/chunk-light-tuna",
+      "brand_name": "Starfish",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "951490",
+      "food_name": "Crispy Battered Halibut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/starfish/crispy-battered-halibut",
+      "brand_name": "Starfish",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "817827",
+      "food_name": "Crispy Battered Cod",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/starfish/crispy-battered-cod",
+      "brand_name": "Starfish",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1081374",
+      "food_name": "Just Grilled BBQ Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/starfish/just-grilled-bbq-shrimp",
+      "brand_name": "Starfish",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58092799",
+      "food_name": "Gluten Free Panko Breaded Fish Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/starfish/gluten-free-panko-breaded-fish-sticks",
+      "brand_name": "Starfish",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30512011",
+      "food_name": "Gluten Free Crispy Battered Cod",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/starfish/gluten-free-crispy-battered-cod",
+      "brand_name": "Starfish",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2684770",
+      "food_name": "Italian Breaded Sole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/starfish/italian-breaded-sole",
+      "brand_name": "Starfish",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4584454",
+      "food_name": "Crispy Battered Haddock",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/starfish/crispy-battered-haddock",
+      "brand_name": "Starfish",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "restaurant": "Brio Tuscan Grille",
+  "total_items": 9,
+  "pages_extracted": 6,
+  "total_search_results": 272,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:41:43.410Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/brio_tuscan_grille.json",
+  "items": [
+    {
+      "food_id": "10894810",
+      "food_name": "Pesto Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brio-tuscan-grille/pesto-pasta",
+      "brand_name": "Brio Tuscan Grille",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4047513",
+      "food_name": "Margherita Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brio-tuscan-grille/margherita-flatbread",
+      "brand_name": "Brio Tuscan Grille",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2347175",
+      "food_name": "Wood Grilled Salmon Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brio-tuscan-grille/wood-grilled-salmon-salad",
+      "brand_name": "Brio Tuscan Grille",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4851923",
+      "food_name": "Chopped Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brio-tuscan-grille/chopped-salad",
+      "brand_name": "Brio Tuscan Grille",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11428120",
+      "food_name": "Strawberry Chicken Balsamic Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brio-tuscan-grille/strawberry-chicken-balsamic-salad",
+      "brand_name": "Brio Tuscan Grille",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7772387",
+      "food_name": "Shrimp Mediterranean",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brio-tuscan-grille/shrimp-mediterranean",
+      "brand_name": "Brio Tuscan Grille",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1146381",
+      "food_name": "Mezza Chicken Limone",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brio-tuscan-grille/mezza-chicken-limone",
+      "brand_name": "Brio Tuscan Grille",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4267827",
+      "food_name": "Pasta Brio",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brio-tuscan-grille/pasta-brio",
+      "brand_name": "Brio Tuscan Grille",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3090773",
+      "food_name": "Lobster Bisque",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brio-tuscan-grille/lobster-bisque",
+      "brand_name": "Brio Tuscan Grille",
+      "food_type": "Brand"
+    }
+  ]
+}

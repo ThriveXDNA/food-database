@@ -1,0 +1,27 @@
+{
+  "restaurant": "Chop Shop",
+  "total_items": 2,
+  "pages_extracted": 4,
+  "total_search_results": 194,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:34:05.749Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/chop_shop.json",
+  "items": [
+    {
+      "food_id": "80038459",
+      "food_name": "Açaí Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chop-shop/a%C3%A7a%C3%AD-bowl",
+      "brand_name": "Chop Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104295662",
+      "food_name": "Thai Coconut Chicken Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chop-shop/thai-coconut-chicken-bowl",
+      "brand_name": "Chop Shop",
+      "food_type": "Brand"
+    }
+  ]
+}

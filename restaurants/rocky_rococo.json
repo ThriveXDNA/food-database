@@ -1,0 +1,90 @@
+{
+  "restaurant": "Rocky Rococo",
+  "total_items": 11,
+  "pages_extracted": 2,
+  "total_search_results": 89,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:20:22.185Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rocky_rococo.json",
+  "items": [
+    {
+      "food_id": "963733",
+      "food_name": "Pepperoni Pizza (Regular Slice)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rocky-rococo/pepperoni-pizza-(regular-slice)",
+      "brand_name": "Rocky Rococo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "928649",
+      "food_name": "Sausage Pizza (Regular Slice)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rocky-rococo/sausage-pizza-(regular-slice)",
+      "brand_name": "Rocky Rococo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "964620",
+      "food_name": "Regular Spaghetti with Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rocky-rococo/regular-spaghetti-with-meatballs",
+      "brand_name": "Rocky Rococo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1483115",
+      "food_name": "Breadsticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rocky-rococo/breadsticks",
+      "brand_name": "Rocky Rococo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "963736",
+      "food_name": "Sausage Mushroom Pizza (Regular Slice)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rocky-rococo/sausage-mushroom-pizza-(regular-slice)",
+      "brand_name": "Rocky Rococo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1535866",
+      "food_name": "Sausage and Pepperoni Pizza (Super Slice)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rocky-rococo/sausage-and-pepperoni-pizza-(super-slice)",
+      "brand_name": "Rocky Rococo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1082721",
+      "food_name": "Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rocky-rococo/cheese-pizza",
+      "brand_name": "Rocky Rococo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1069834",
+      "food_name": "Garden of Eatin' Pizza (Regular Slice)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rocky-rococo/garden-of-eatin-pizza-(regular-slice)",
+      "brand_name": "Rocky Rococo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6414048",
+      "food_name": "Pizza Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rocky-rococo/pizza-sauce",
+      "brand_name": "Rocky Rococo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "964591",
+      "food_name": "Wheat Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rocky-rococo/wheat-muffin",
+      "brand_name": "Rocky Rococo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "964600",
+      "food_name": "Breadsticks with Jalapeno Cheese Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rocky-rococo/breadsticks-with-jalapeno-cheese-sauce",
+      "brand_name": "Rocky Rococo",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "restaurant": "Premier Nutrition",
+  "total_items": 50,
+  "pages_extracted": 4,
+  "total_search_results": 182,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:40:04.891Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/premier_nutrition.json",
+  "items": [
+    {
+      "food_id": "50660",
+      "food_name": "High Protein Shake - Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/high-protein-shake-chocolate",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1570784",
+      "food_name": "High Protein Shake - Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/high-protein-shake---vanilla",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37181236",
+      "food_name": "Premier Protein Cafe Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/premier-protein-cafe-latte",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13497448",
+      "food_name": "High Protein Shake - Caramel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/high-protein-shake---caramel",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36277975",
+      "food_name": "Premier Protein 100% Whey Protein Powder - Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/premier-protein-100-whey-protein-powder-vanilla",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7077996",
+      "food_name": "High Protein Shake - Strawberries & Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/high-protein-shake---strawberries-and-cream",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75308994",
+      "food_name": "Protein Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/protein-shake",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66987595",
+      "food_name": "Protein Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/protein-pancakes",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85729203",
+      "food_name": "Premier Protein Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/premier-protein-vanilla",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54538280",
+      "food_name": "High Protein Shake - Chocolate Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/high-protein-shake-chocolate-peanut-butter",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81066724",
+      "food_name": "Protein Waffles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/protein-waffles",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19054093",
+      "food_name": "100% Whey Protein - Chocolate Milkshake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/100-whey-protein-chocolate-milkshake",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45032667",
+      "food_name": "Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/cereal",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49901692",
+      "food_name": "High Protein Shake - Café Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/high-protein-shake-caf%C3%A9-latte",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41306358",
+      "food_name": "High Protein Shake - Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/high-protein-shake-coffee",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62305426",
+      "food_name": "Cake Batter Delight",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/cake-batter-delight",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12694429",
+      "food_name": "High Protein Shake - Bananas & Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/high-protein-shake---bananas-and-cream",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87187559",
+      "food_name": "Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/pancakes",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67670780",
+      "food_name": "Chocolate Almond Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/chocolate-almond-cereal",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20629189",
+      "food_name": "High Protein Shake - Cookies & Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/high-protein-shake-cookies-cream",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95592114",
+      "food_name": "Premier Protein Cookie Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/premier-protein-cookie-dough",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45732300",
+      "food_name": "Premier Protein Cinnamon Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/premier-protein-cinnamon-roll",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15614230",
+      "food_name": "Clear Protein Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/clear-protein-drink",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40893568",
+      "food_name": "Premier Protein Pumpkin Spice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/premier-protein-pumpkin-spice",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101812884",
+      "food_name": "Premier Protein Chocolate Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/premier-protein-chocolate-peanut-butter",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42251741",
+      "food_name": "High Protein Shake - Cinnamon Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/high-protein-shake-cinnamon-roll",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61629975",
+      "food_name": "Root Beer Float Protein Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/root-beer-float-protein-shake",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93137",
+      "food_name": "Chocolate Peanut Butter Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/chocolate-peanut-butter-protein-bar",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19980731",
+      "food_name": "High Protein Shake - Peaches & Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/high-protein-shake-peaches-cream",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10961153",
+      "food_name": "Whey Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/whey-protein",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79431877",
+      "food_name": "Plant Protein Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/plant-protein-powder",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76401161",
+      "food_name": "High Protein Shake - Chocolate (8oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/high-protein-shake-chocolate-(8oz)",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5926298",
+      "food_name": "Premier Protein Crisp Chocolate Mint",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/premier-protein-crisp-chocolate-mint",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7987605",
+      "food_name": "Cookies & Cream Snack Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/cookies-cream-snack-bar",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18068242",
+      "food_name": "Salted Caramel Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/salted-caramel-protein-bar",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94671617",
+      "food_name": "White Chocolate Raspberry Protein Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/white-chocolate-raspberry-protein-shake",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3655086",
+      "food_name": "Titan High Protein Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/titan-high-protein-cookie",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5368511",
+      "food_name": "Peanut Butter Caramel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/peanut-butter-caramel",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69357590",
+      "food_name": "Goodnight Cozy Cocoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/goodnight-cozy-cocoa",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "481297",
+      "food_name": "Titan Protein Bar - Cookies & Cream (40g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/titan-protein-bar---cookies-and-cream-(40g)",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8729384",
+      "food_name": "Titan Protein Bar - Peanut Butter Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/titan-protein-bar---peanut-butter-crunch",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34006904",
+      "food_name": "Premier Protein with Oats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/premier-protein-with-oats",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "727120",
+      "food_name": "Titan Protein Bar - Chocolate Peanut Butter Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/titan-protein-bar---chocolate-peanut-butter-crunch",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "738261",
+      "food_name": "Twisted Energy Bar - Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/twisted-energy-bar---chocolate",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "684977",
+      "food_name": "Titan Protein Bar -  Chocolate Peanut Butter Crunch (40 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/titan-protein-bar----chocolate-peanut-butter-crunch-(40-g)",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8950181",
+      "food_name": "Dark Chocolate Mint Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/dark-chocolate-mint-protein-bar",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "451185",
+      "food_name": "Twisted Energy Bar - Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/twisted-energy-bar---vanilla",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105505012",
+      "food_name": "Chocolate Covered Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/chocolate-covered-strawberry",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "126957",
+      "food_name": "Twisted Energy Bar - Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/twisted-energy-bar---peanut-butter",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18132346",
+      "food_name": "Dark Chocolate Almond Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premier-nutrition/dark-chocolate-almond-protein-bar",
+      "brand_name": "Premier Nutrition",
+      "food_type": "Brand"
+    }
+  ]
+}

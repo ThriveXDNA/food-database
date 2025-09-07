@@ -1,0 +1,27 @@
+{
+  "restaurant": "Salsa Queen",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 957,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:06:40.573Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/salsa_queen.json",
+  "items": [
+    {
+      "food_id": "16843327",
+      "food_name": "Creamy Jalapeno Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salsa-queen/creamy-jalapeno-dip",
+      "brand_name": "Salsa Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62248604",
+      "food_name": "Roasted Tomatillo Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salsa-queen/roasted-tomatillo-salsa",
+      "brand_name": "Salsa Queen",
+      "food_type": "Brand"
+    }
+  ]
+}

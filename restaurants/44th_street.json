@@ -1,0 +1,27 @@
+{
+  "restaurant": "44th Street",
+  "total_items": 2,
+  "pages_extracted": 5,
+  "total_search_results": 214,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:13:58.605Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/44th_street.json",
+  "items": [
+    {
+      "food_id": "27563469",
+      "food_name": "Texas Bbq Style Pork Back Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/44th-street/texas-bbq-style-pork-back-ribs",
+      "brand_name": "44th Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44452316",
+      "food_name": "Slow Braised Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/44th-street/slow-braised-beef-pot-roast",
+      "brand_name": "44th Street",
+      "food_type": "Brand"
+    }
+  ]
+}

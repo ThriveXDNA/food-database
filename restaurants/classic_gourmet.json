@@ -1,0 +1,20 @@
+{
+  "restaurant": "Classic Gourmet",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 2334,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:02:08.947Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/classic_gourmet.json",
+  "items": [
+    {
+      "food_id": "3680673",
+      "food_name": "Golden Italian Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/classic-gourmet/golden-italian-dressing",
+      "brand_name": "Classic Gourmet",
+      "food_type": "Brand"
+    }
+  ]
+}

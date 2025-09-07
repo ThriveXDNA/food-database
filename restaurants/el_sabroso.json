@@ -1,0 +1,76 @@
+{
+  "restaurant": "El Sabroso",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 28,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:30:12.248Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/el_sabroso.json",
+  "items": [
+    {
+      "food_id": "121641",
+      "food_name": "Pork Rinds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-sabroso/pork-rinds",
+      "brand_name": "El Sabroso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2165622",
+      "food_name": "Guacamole Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-sabroso/guacamole-chips",
+      "brand_name": "El Sabroso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "217889",
+      "food_name": "Original Guacachip Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-sabroso/original-guacachip-tortilla-chips",
+      "brand_name": "El Sabroso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "121092",
+      "food_name": "Salsitas Salsa Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-sabroso/salsitas-salsa-chips",
+      "brand_name": "El Sabroso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89488",
+      "food_name": "Original Salsitas Spicy Salsa Tortilla Rounds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-sabroso/original-salsitas-spicy-salsa-tortilla-rounds",
+      "brand_name": "El Sabroso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "264242",
+      "food_name": "Pork Cracklins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-sabroso/pork-cracklins",
+      "brand_name": "El Sabroso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7087107",
+      "food_name": "Taco-Litos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-sabroso/taco-litos",
+      "brand_name": "El Sabroso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47988275",
+      "food_name": "Hot & Spicy Pork Cracklins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-sabroso/hot-spicy-pork-cracklins",
+      "brand_name": "El Sabroso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85473742",
+      "food_name": "Jalapeñitos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-sabroso/jalape%C3%B1itos",
+      "brand_name": "El Sabroso",
+      "food_type": "Brand"
+    }
+  ]
+}

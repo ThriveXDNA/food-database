@@ -1,0 +1,69 @@
+{
+  "restaurant": "Brooklyn Cured",
+  "total_items": 8,
+  "pages_extracted": 3,
+  "total_search_results": 104,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:50:13.416Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/brooklyn_cured.json",
+  "items": [
+    {
+      "food_id": "66966007",
+      "food_name": "Bresaola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-cured/bresaola",
+      "brand_name": "Brooklyn Cured",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54154352",
+      "food_name": "Smoked Beef Salami",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-cured/smoked-beef-salami",
+      "brand_name": "Brooklyn Cured",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45548840",
+      "food_name": "Uncured Smoked Beef Kielbasa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-cured/uncured-smoked-beef-kielbasa",
+      "brand_name": "Brooklyn Cured",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19351964",
+      "food_name": "Duck Fennel Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-cured/duck-fennel-sausage",
+      "brand_name": "Brooklyn Cured",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63534142",
+      "food_name": "Korean BBQ Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-cured/korean-bbq-sausage",
+      "brand_name": "Brooklyn Cured",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22331210",
+      "food_name": "Chicken Garlic Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-cured/chicken-garlic-sausage",
+      "brand_name": "Brooklyn Cured",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39063092",
+      "food_name": "Uncured New York Style Hot Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-cured/uncured-new-york-style-hot-dog",
+      "brand_name": "Brooklyn Cured",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47930383",
+      "food_name": "Breakfast Links",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-cured/breakfast-links",
+      "brand_name": "Brooklyn Cured",
+      "food_type": "Brand"
+    }
+  ]
+}

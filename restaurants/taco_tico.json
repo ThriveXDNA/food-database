@@ -1,0 +1,48 @@
+{
+  "restaurant": "Taco Tico",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 1339,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:29:41.537Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/taco_tico.json",
+  "items": [
+    {
+      "food_id": "185622",
+      "food_name": "Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-tico/taco",
+      "brand_name": "Taco Tico",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8410656",
+      "food_name": "Sancho",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-tico/sancho",
+      "brand_name": "Taco Tico",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "756621",
+      "food_name": "Beef Enchilada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-tico/beef-enchilada",
+      "brand_name": "Taco Tico",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "657873",
+      "food_name": "Taco Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-tico/taco-salad",
+      "brand_name": "Taco Tico",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "610877",
+      "food_name": "Taco Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-tico/taco-burger",
+      "brand_name": "Taco Tico",
+      "food_type": "Brand"
+    }
+  ]
+}

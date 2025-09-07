@@ -1,0 +1,41 @@
+{
+  "restaurant": "ProMix Nutrition",
+  "total_items": 4,
+  "pages_extracted": 3,
+  "total_search_results": 120,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:09:09.766Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/promix_nutrition.json",
+  "items": [
+    {
+      "food_id": "8833044",
+      "food_name": "Grass-Fed Whey Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/promix-nutrition/grass-fed-whey-protein",
+      "brand_name": "ProMix Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79064273",
+      "food_name": "Promix Protein Puff Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/promix-nutrition/promix-protein-puff-bar",
+      "brand_name": "ProMix Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13674091",
+      "food_name": "Grass-Fed Whey Protein - Raw Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/promix-nutrition/grass-fed-whey-protein---raw-chocolate",
+      "brand_name": "ProMix Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62865186",
+      "food_name": "Micellar Casein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/promix-nutrition/micellar-casein",
+      "brand_name": "ProMix Nutrition",
+      "food_type": "Brand"
+    }
+  ]
+}

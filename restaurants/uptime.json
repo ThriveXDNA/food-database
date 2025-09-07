@@ -1,0 +1,27 @@
+{
+  "restaurant": "Uptime",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:53:12.365Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/uptime.json",
+  "items": [
+    {
+      "food_id": "17666281",
+      "food_name": "Uptime",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/uptime/uptime",
+      "brand_name": "Uptime",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39501143",
+      "food_name": "Original Citrus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/uptime/original-citrus",
+      "brand_name": "Uptime",
+      "food_type": "Brand"
+    }
+  ]
+}

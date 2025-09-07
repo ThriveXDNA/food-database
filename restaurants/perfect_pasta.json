@@ -1,0 +1,41 @@
+{
+  "restaurant": "Perfect Pasta",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 1987,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:29:35.203Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/perfect_pasta.json",
+  "items": [
+    {
+      "food_id": "50389913",
+      "food_name": "Spinach & Cheese Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perfect-pasta/spinach-cheese-ravioli",
+      "brand_name": "Perfect Pasta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66610725",
+      "food_name": "Italian Sausage Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perfect-pasta/italian-sausage-ravioli",
+      "brand_name": "Perfect Pasta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33046951",
+      "food_name": "Four Cheese Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perfect-pasta/four-cheese-ravioli",
+      "brand_name": "Perfect Pasta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46108494",
+      "food_name": "Sausage & Peppers Toasted Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perfect-pasta/sausage-peppers-toasted-bites",
+      "brand_name": "Perfect Pasta",
+      "food_type": "Brand"
+    }
+  ]
+}

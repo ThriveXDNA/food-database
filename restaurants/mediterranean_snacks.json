@@ -1,0 +1,62 @@
+{
+  "restaurant": "Mediterranean Snacks",
+  "total_items": 7,
+  "pages_extracted": 8,
+  "total_search_results": 779,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:59:01.482Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mediterranean_snacks.json",
+  "items": [
+    {
+      "food_id": "6698850",
+      "food_name": "Parmesan Garlic Baked Lentil Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mediterranean-snacks/parmesan-garlic-baked-lentil-chips",
+      "brand_name": "Mediterranean Snacks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2146045",
+      "food_name": "Sea Salt Baked Lentil Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mediterranean-snacks/sea-salt-baked-lentil-chips",
+      "brand_name": "Mediterranean Snacks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8015033",
+      "food_name": "Lentil Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mediterranean-snacks/lentil-crackers",
+      "brand_name": "Mediterranean Snacks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2859675",
+      "food_name": "Naked Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mediterranean-snacks/naked-popcorn",
+      "brand_name": "Mediterranean Snacks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1751285",
+      "food_name": "Original Veggie Medley Straws",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mediterranean-snacks/original-veggie-medley-straws",
+      "brand_name": "Mediterranean Snacks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79235",
+      "food_name": "Mediterranean Exotic Vegetable Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/terra/mediterranean-exotic-vegetable-chips",
+      "brand_name": "Terra",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "306099",
+      "food_name": "Exotic Mediterranean Vegetable Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/terra/exotic-mediterranean-vegetable-chips",
+      "brand_name": "Terra",
+      "food_type": "Brand"
+    }
+  ]
+}

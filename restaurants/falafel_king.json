@@ -1,0 +1,62 @@
+{
+  "restaurant": "Falafel King",
+  "total_items": 7,
+  "pages_extracted": 5,
+  "total_search_results": 215,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:06:14.006Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/falafel_king.json",
+  "items": [
+    {
+      "food_id": "2231056",
+      "food_name": "Beef Shawarma",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/falafel-king/beef-shawarma",
+      "brand_name": "Falafel King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1042569",
+      "food_name": "Falafel Balls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/falafel-king/falafel-balls",
+      "brand_name": "Falafel King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56481",
+      "food_name": "Chicken Shawarma Pita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/falafel-king/chicken-shawarma-pita",
+      "brand_name": "Falafel King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52692041",
+      "food_name": "Traditional Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/falafel-king/traditional-hummus",
+      "brand_name": "Falafel King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76436",
+      "food_name": "Baba Ghanouj",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/falafel-king/baba-ghanouj",
+      "brand_name": "Falafel King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71310905",
+      "food_name": "Tzatziki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/falafel-king/tzatziki",
+      "brand_name": "Falafel King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7090268",
+      "food_name": "Hand Baked White Pita Pocket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/falafel-king/hand-baked-white-pita-pocket",
+      "brand_name": "Falafel King",
+      "food_type": "Brand"
+    }
+  ]
+}

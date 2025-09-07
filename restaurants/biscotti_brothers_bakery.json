@@ -1,0 +1,20 @@
+{
+  "restaurant": "Biscotti Brothers Bakery",
+  "total_items": 1,
+  "pages_extracted": 3,
+  "total_search_results": 145,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:14:26.376Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/biscotti_brothers_bakery.json",
+  "items": [
+    {
+      "food_id": "90774",
+      "food_name": "Vanilla Pizzelle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/biscotti-brothers-bakery/vanilla-pizzelle",
+      "brand_name": "Biscotti Brothers Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

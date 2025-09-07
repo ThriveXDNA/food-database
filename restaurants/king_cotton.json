@@ -1,0 +1,27 @@
+{
+  "restaurant": "King Cotton",
+  "total_items": 2,
+  "pages_extracted": 5,
+  "total_search_results": 209,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:04:43.672Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/king_cotton.json",
+  "items": [
+    {
+      "food_id": "3886772",
+      "food_name": "Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-cotton/bacon",
+      "brand_name": "King Cotton",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20358547",
+      "food_name": "Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-cotton/smoked-sausage",
+      "brand_name": "King Cotton",
+      "food_type": "Brand"
+    }
+  ]
+}

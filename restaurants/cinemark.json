@@ -1,0 +1,55 @@
+{
+  "restaurant": "Cinemark",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:59:26.527Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cinemark.json",
+  "items": [
+    {
+      "food_id": "61082158",
+      "food_name": "Small Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cinemark/small-popcorn",
+      "brand_name": "Cinemark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63877466",
+      "food_name": "Medium Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cinemark/medium-popcorn",
+      "brand_name": "Cinemark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55869021",
+      "food_name": "Large Tub Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cinemark/large-tub-popcorn",
+      "brand_name": "Cinemark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6698549",
+      "food_name": "Junior Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cinemark/junior-popcorn",
+      "brand_name": "Cinemark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13328501",
+      "food_name": "Butter Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cinemark/butter-topping",
+      "brand_name": "Cinemark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62339189",
+      "food_name": "Milk Chocolate Covered Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cinemark/milk-chocolate-covered-pretzels",
+      "brand_name": "Cinemark",
+      "food_type": "Brand"
+    }
+  ]
+}

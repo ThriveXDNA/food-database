@@ -1,0 +1,83 @@
+{
+  "restaurant": "The New Primal",
+  "total_items": 10,
+  "pages_extracted": 6,
+  "total_search_results": 1582,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:46:28.971Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_new_primal.json",
+  "items": [
+    {
+      "food_id": "54932658",
+      "food_name": "Chicken & Maple Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-new-primal/chicken-maple-stick",
+      "brand_name": "The New Primal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58157307",
+      "food_name": "Buffalo Style Chicken Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-new-primal/buffalo-style-chicken-stick",
+      "brand_name": "The New Primal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16917223",
+      "food_name": "Turkey Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-new-primal/turkey-stick",
+      "brand_name": "The New Primal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22224171",
+      "food_name": "Spicy Beef Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-new-primal/spicy-beef-stick",
+      "brand_name": "The New Primal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42468550",
+      "food_name": "Lightly Peppered Turkey Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-new-primal/lightly-peppered-turkey-stick",
+      "brand_name": "The New Primal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26186766",
+      "food_name": "Cilantro Lime Turkey Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-new-primal/cilantro-lime-turkey-stick",
+      "brand_name": "The New Primal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31313375",
+      "food_name": "Classic Beef Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-new-primal/classic-beef-stick",
+      "brand_name": "The New Primal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8296582",
+      "food_name": "Grass-Fed Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-new-primal/grass-fed-beef-jerky",
+      "brand_name": "The New Primal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11021373",
+      "food_name": "Turkey Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-new-primal/turkey-jerky",
+      "brand_name": "The New Primal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38036348",
+      "food_name": "BBQ Beef Thins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-new-primal/bbq-beef-thins",
+      "brand_name": "The New Primal",
+      "food_type": "Brand"
+    }
+  ]
+}

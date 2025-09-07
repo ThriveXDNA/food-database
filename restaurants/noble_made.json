@@ -1,0 +1,90 @@
+{
+  "restaurant": "Noble Made",
+  "total_items": 11,
+  "pages_extracted": 5,
+  "total_search_results": 220,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:45:48.465Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/noble_made.json",
+  "items": [
+    {
+      "food_id": "42477871",
+      "food_name": "Medium Buffalo Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/noble-made/medium-buffalo-sauce",
+      "brand_name": "Noble Made",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43820069",
+      "food_name": "Mild Buffalo Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/noble-made/mild-buffalo-sauce",
+      "brand_name": "Noble Made",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34086313",
+      "food_name": "Sriracha Tahini Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/noble-made/sriracha-tahini-dressing",
+      "brand_name": "Noble Made",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41206482",
+      "food_name": "Classic BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/noble-made/classic-bbq",
+      "brand_name": "Noble Made",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25944616",
+      "food_name": "Mustard BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/noble-made/mustard-bbq",
+      "brand_name": "Noble Made",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50018431",
+      "food_name": "Tomato Ketchup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/noble-made/tomato-ketchup",
+      "brand_name": "Noble Made",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45271235",
+      "food_name": "Carrot Ginger Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/noble-made/carrot-ginger-dressing",
+      "brand_name": "Noble Made",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44846551",
+      "food_name": "Smoky BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/noble-made/smoky-bbq",
+      "brand_name": "Noble Made",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36505395",
+      "food_name": "Citrus Zest Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/noble-made/citrus-zest-dressing",
+      "brand_name": "Noble Made",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84695349",
+      "food_name": "Less-Sugar Sloppy Joseph Skillet Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/noble-made/less-sugar-sloppy-joseph-skillet-sauce",
+      "brand_name": "Noble Made",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35710309",
+      "food_name": "Almond Butter Turmeric Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/noble-made/almond-butter-turmeric-dressing",
+      "brand_name": "Noble Made",
+      "food_type": "Brand"
+    }
+  ]
+}

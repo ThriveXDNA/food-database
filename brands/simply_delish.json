@@ -1,0 +1,41 @@
+{
+  "brand_name": "Simply Delish",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 408,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:20:36.269Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/simply_delish.json",
+  "items": [
+    {
+      "food_id": "55622951",
+      "food_name": "Natural Vanilla Flavor Instant Pudding",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-delish/natural-vanilla-flavor-instant-pudding",
+      "brand_name": "Simply Delish",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53437843",
+      "food_name": "Natural Chocolate Flavor Instant Pudding",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-delish/natural-chocolate-flavor-instant-pudding",
+      "brand_name": "Simply Delish",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28719686",
+      "food_name": "Orange Jel Dessert",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-delish/orange-jel-dessert",
+      "brand_name": "Simply Delish",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15805047",
+      "food_name": "Strawberry Jel Dessert",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-delish/strawberry-jel-dessert",
+      "brand_name": "Simply Delish",
+      "food_type": "Brand"
+    }
+  ]
+}

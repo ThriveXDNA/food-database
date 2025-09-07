@@ -1,0 +1,62 @@
+{
+  "restaurant": "Hereford",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:33:59.878Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/hereford.json",
+  "items": [
+    {
+      "food_id": "89746029",
+      "food_name": "Shredded Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hereford/shredded-beef",
+      "brand_name": "Hereford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73640252",
+      "food_name": "Shredded Beef Brisket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hereford/shredded-beef-brisket",
+      "brand_name": "Hereford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65440478",
+      "food_name": "Beef Taco Filling",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hereford/beef-taco-filling",
+      "brand_name": "Hereford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1326162",
+      "food_name": "Roast Beef with Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hereford/roast-beef-with-gravy",
+      "brand_name": "Hereford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5212792",
+      "food_name": "Corned Beef Hash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hereford/corned-beef-hash",
+      "brand_name": "Hereford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1337233",
+      "food_name": "Corned Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hereford/corned-beef",
+      "brand_name": "Hereford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76784440",
+      "food_name": "Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hereford/meatballs",
+      "brand_name": "Hereford",
+      "food_type": "Brand"
+    }
+  ]
+}

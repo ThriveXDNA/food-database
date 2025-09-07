@@ -1,0 +1,2482 @@
+{
+  "restaurant": "Potbelly",
+  "total_items": 353,
+  "pages_extracted": 8,
+  "last_updated": "2025-09-06T06:53:59.122Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Restaurant search with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/potbelly.json",
+  "items": [
+    {
+      "food_id": "64578",
+      "food_name": "Oatmeal Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/oatmeal-chocolate-chip-cookie",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2469383",
+      "food_name": "Chocolate Brownie Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chocolate-brownie-cookie",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80136",
+      "food_name": "OREO Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/oreo-shake",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1626711",
+      "food_name": "Sugar Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sugar-cookie",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1178982",
+      "food_name": "Farmhouse Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/farmhouse-salad",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1119880",
+      "food_name": "Mini Oatmeal Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mini-oatmeal-chocolate-chip-cookie",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1691230",
+      "food_name": "Dream Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/dream-bar",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5921453",
+      "food_name": "Vanilla Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/vanilla-shake",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74811655",
+      "food_name": "Chocolate Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chocolate-shake",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690370",
+      "food_name": "Prime Rib Steak Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/prime-rib-steak-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690371",
+      "food_name": "Roast Beef & Provolone Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/roast-beef-provolone-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690372",
+      "food_name": "Sausage, Egg & Cheddar Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sausage-egg-cheddar-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690376",
+      "food_name": "Sicilian Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sicilian-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690383",
+      "food_name": "Smokestack Pork & Mac Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/smokestack-pork-mac-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690318",
+      "food_name": "BLTA Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/blta-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690319",
+      "food_name": "Chicken Cordon Bleu Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chicken-cordon-bleu-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690389",
+      "food_name": "Turkey Breast & Swiss Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/turkey-breast-swiss-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690387",
+      "food_name": "Tuna Salad & Swiss Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/tuna-salad-swiss-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690310",
+      "food_name": "A Wreck Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/a-wreck-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690344",
+      "food_name": "Grilled Chicken Club Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/grilled-chicken-club-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690350",
+      "food_name": "Italian Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/italian-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690351",
+      "food_name": "Lucky 7 Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/lucky-7-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690361",
+      "food_name": "Mediterranean Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mediterranean-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690311",
+      "food_name": "Bacon, Egg & Cheddar Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/bacon-egg-cheddar-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690313",
+      "food_name": "Barnyard Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/barnyard-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690432",
+      "food_name": "Italian Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/italian-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690433",
+      "food_name": "Lucky 7 Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/lucky-7-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690434",
+      "food_name": "Mama's Meatball Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mamas-meatball-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690488",
+      "food_name": "Barnyard Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/barnyard-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690498",
+      "food_name": "Chicken Salad & Provolone Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chicken-salad-provolone-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690458",
+      "food_name": "Smokestack Pork & Mac Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/smokestack-pork-mac-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690464",
+      "food_name": "Veggie Melt Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/veggie-melt-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690414",
+      "food_name": "Chicken Salad & Provolone Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chicken-salad-provolone-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690475",
+      "food_name": "A Wreck Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/a-wreck-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690510",
+      "food_name": "Grilled Chicken Club Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/grilled-chicken-club-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690512",
+      "food_name": "Ham, Mushroom, Egg & Swiss Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/ham-mushroom-egg-swiss-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690514",
+      "food_name": "Lucky 7 Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/lucky-7-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690437",
+      "food_name": "Mediterranean Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mediterranean-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690444",
+      "food_name": "Pizza Melt Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/pizza-melt-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690446",
+      "food_name": "Prime Rib Steak Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/prime-rib-steak-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690419",
+      "food_name": "Fireball Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/fireball-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690421",
+      "food_name": "Grilled Cheese Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/grilled-cheese-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690422",
+      "food_name": "Grilled Chicken & Cheddar Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/grilled-chicken-cheddar-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690407",
+      "food_name": "Barnyard Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/barnyard-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690409",
+      "food_name": "BLTA Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/blta-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690629",
+      "food_name": "Lettuce - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/lettuce-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690542",
+      "food_name": "Tuna Salad & Swiss Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/tuna-salad-swiss-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690546",
+      "food_name": "Turkey Breast & Swiss Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/turkey-breast-swiss-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690549",
+      "food_name": "Veggie Melt Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/veggie-melt-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690553",
+      "food_name": "Wrecking Ball Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/wrecking-ball-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690577",
+      "food_name": "Multigrain Bread (Thin-Cut)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/multigrain-bread-(thin-cut)",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690624",
+      "food_name": "Hot Peppers - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/hot-peppers-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690519",
+      "food_name": "Pizza Melt Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/pizza-melt-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690589",
+      "food_name": "White Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/white-bread",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690520",
+      "food_name": "Prime Rib Steak Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/prime-rib-steak-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690525",
+      "food_name": "Sausage, Egg & Cheddar Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sausage-egg-cheddar-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690603",
+      "food_name": "White Bread - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/white-bread-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690605",
+      "food_name": "White Bread - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/white-bread-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690607",
+      "food_name": "White Bread (Thin-Cut)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/white-bread-(thin-cut)",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690616",
+      "food_name": "Brown Mustard - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/brown-mustard-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690561",
+      "food_name": "Multigrain Bread - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/multigrain-bread-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690664",
+      "food_name": "Roasted Garlic Aioli - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/roasted-garlic-aioli-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690666",
+      "food_name": "Tomato - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/tomato-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690668",
+      "food_name": "Brown Mustard - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/brown-mustard-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690673",
+      "food_name": "Italian Seasoning - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/italian-seasoning-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690677",
+      "food_name": "Mayo - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mayo-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690679",
+      "food_name": "Oil - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/oil-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690680",
+      "food_name": "Pickles - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/pickles-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690703",
+      "food_name": "Pickles - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/pickles-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690716",
+      "food_name": "Cucumbers - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/cucumbers-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690714",
+      "food_name": "Artichoke Hearts - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/artichoke-hearts-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690710",
+      "food_name": "Roasted Garlic Aioli - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/roasted-garlic-aioli-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690709",
+      "food_name": "Red Wine Vinegar - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/red-wine-vinegar-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690723",
+      "food_name": "Hummus - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/hummus-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690724",
+      "food_name": "Roasted Red Peppers - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/roasted-red-peppers-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690726",
+      "food_name": "Sliced Mushrooms - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sliced-mushrooms-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690738",
+      "food_name": "Roasted Red Peppers - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/roasted-red-peppers-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690734",
+      "food_name": "Avocado - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/avocado-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690743",
+      "food_name": "Sliced Mushrooms - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sliced-mushrooms-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690749",
+      "food_name": "Roasted Red Peppers - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/roasted-red-peppers-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690808",
+      "food_name": "Apple Walnut (Half)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/apple-walnut-(half)",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690809",
+      "food_name": "A Wreck Salad (Half)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/a-wreck-salad-(half)",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690811",
+      "food_name": "Chicken Salad (Half)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chicken-salad-(half)",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690747",
+      "food_name": "Hummus - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/hummus-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690744",
+      "food_name": "Artichoke Hearts - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/artichoke-hearts-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690700",
+      "food_name": "Mayo - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mayo-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690698",
+      "food_name": "Lettuce - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/lettuce-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690761",
+      "food_name": "Blue Cheese - Extra",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/blue-cheese-extra",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690764",
+      "food_name": "Cheddar - Extra",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/cheddar-extra",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690770",
+      "food_name": "Feta - Extra",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/feta-extra",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690772",
+      "food_name": "Swiss Cheese - Extra",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/swiss-cheese-extra",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690778",
+      "food_name": "Mediterranean Veggie Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mediterranean-veggie-wrap",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690687",
+      "food_name": "Sweet Heat BBQ - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sweet-heat-bbq-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690692",
+      "food_name": "Hot Pepper Ranch - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/hot-pepper-ranch-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690694",
+      "food_name": "Italian Seasoning - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/italian-seasoning-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690784",
+      "food_name": "Apple Walnut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/apple-walnut",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690795",
+      "food_name": "Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chicken-salad",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690948",
+      "food_name": "Loaded Baked Potato - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/loaded-baked-potato-bowl",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690937",
+      "food_name": "Garden Vegetable Soup - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/garden-vegetable-soup-bowl",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690942",
+      "food_name": "Garden Vegetable Soup - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/garden-vegetable-soup-cup",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690928",
+      "food_name": "Chili Mac - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chili-mac-bowl",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690922",
+      "food_name": "Chili - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chili-bowl",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690832",
+      "food_name": "Candied Walnuts - Salad Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/candied-walnuts-salad-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690833",
+      "food_name": "Chopped Bacon - Salad Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chopped-bacon-salad-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690835",
+      "food_name": "Diced Apples - Salad Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/diced-apples-salad-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690825",
+      "food_name": "Italian Seasoning - Salad Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/italian-seasoning-salad-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690898",
+      "food_name": "Balsamic Vinaigrette - Salad Dressing (Half)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/balsamic-vinaigrette-salad-dressing-(half)",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690905",
+      "food_name": "Fat Free Vinaigrette - Salad Dressing (Half)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/fat-free-vinaigrette-salad-dressing-(half)",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690906",
+      "food_name": "Hot Pepper Ranch - Salad Dressing (Half)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/hot-pepper-ranch-salad-dressing-(half)",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690908",
+      "food_name": "Broccoli Cheddar Soup - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/broccoli-cheddar-soup-bowl",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690910",
+      "food_name": "Broccoli Cheddar Soup - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/broccoli-cheddar-soup-cup",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690891",
+      "food_name": "Buttermilk Ranch - Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/buttermilk-ranch-salad-dressing",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690897",
+      "food_name": "Hot Pepper Ranch - Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/hot-pepper-ranch-salad-dressing",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690880",
+      "food_name": "Roasted Red Peppers - Salad Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/roasted-red-peppers-salad-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690889",
+      "food_name": "Balsamic Vinaigrette - Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/balsamic-vinaigrette-salad-dressing",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690958",
+      "food_name": "Roasted Red Peppers - Mac Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/roasted-red-peppers-mac-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690960",
+      "food_name": "Sliced Mushrooms - Mac Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sliced-mushrooms-mac-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690953",
+      "food_name": "Mac & Cheese - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mac-cheese-bowl",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690954",
+      "food_name": "Mac & Cheese - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mac-cheese-cup",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690956",
+      "food_name": "Chili - Mac Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chili-mac-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690999",
+      "food_name": "Baked Lay's",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/baked-lays",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691002",
+      "food_name": "Zapp's Hot Pepper Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/zapps-hot-pepper-chips",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691003",
+      "food_name": "Zapp's Hotter 'N Hot Jalapeno Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/zapps-hotter-n-hot-jalapeno-chips",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691064",
+      "food_name": "Kids Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/kids-milk",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691066",
+      "food_name": "Banana Pudding Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/banana-pudding-shake",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691072",
+      "food_name": "Dozen Mini Oatmeal Chocolate Chip Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/dozen-mini-oatmeal-chocolate-chip-cookies",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691082",
+      "food_name": "Oatmeal Chocolate Chip Cookie Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/oatmeal-chocolate-chip-cookie-ice-cream-sandwich",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690977",
+      "food_name": "Pot Pie Topper - Soup Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/pot-pie-topper-soup-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690972",
+      "food_name": "Cheddar - Soup Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/cheddar-soup-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690998",
+      "food_name": "Chili Mac - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chili-mac-cup",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691023",
+      "food_name": "Kids' Combo PB&J",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/kids-combo-pb-j",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691018",
+      "food_name": "Zapp's Voodoo Heat Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/zapps-voodoo-heat-chips",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691022",
+      "food_name": "Kids' Combo Mac & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/kids-combo-mac-cheese",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691048",
+      "food_name": "Italian Seasoning - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/italian-seasoning-kids",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691054",
+      "food_name": "Sliced Onions - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sliced-onions-kids",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691055",
+      "food_name": "Tomato - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/tomato-kids",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691050",
+      "food_name": "Lettuce - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/lettuce-kids",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691051",
+      "food_name": "Mayo - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mayo-kids",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691034",
+      "food_name": "Kids' Combo Turkey & Swiss",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/kids-combo-turkey-swiss",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691040",
+      "food_name": "White Bread - Kids (Thin-Cut)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/white-bread-kids-(thin-cut)",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691041",
+      "food_name": "Brown Mustard - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/brown-mustard-kids",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691042",
+      "food_name": "Hot Peppers - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/hot-peppers-kids",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691037",
+      "food_name": "Multigrain Bread - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/multigrain-bread-kids",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691096",
+      "food_name": "Strawberry Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/strawberry-shake",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691101",
+      "food_name": "Chocolate Syrup - Second Flavor",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chocolate-syrup-second-flavor",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691124",
+      "food_name": "Sprite - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sprite-20-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691125",
+      "food_name": "Sweetened Iced Tea - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sweetened-iced-tea-20-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691126",
+      "food_name": "Unsweetened Iced Tea - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/unsweetened-iced-tea-20-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691119",
+      "food_name": "Diet Dr. Pepper - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/diet-dr-pepper-20-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691120",
+      "food_name": "Dr. Pepper - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/dr-pepper-20-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691122",
+      "food_name": "Fuze Raspberry Tea - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/fuze-raspberry-tea-20-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691131",
+      "food_name": "Diet Coca Cola - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/diet-coca-cola-30-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691136",
+      "food_name": "Fanta Orange - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/fanta-orange-30-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691133",
+      "food_name": "Diet Dr. Pepper - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/diet-dr-pepper-30-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691134",
+      "food_name": "Dr. Pepper - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/dr-pepper-30-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691148",
+      "food_name": "Pineapple Passionfruit - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/pineapple-passionfruit-20-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691145",
+      "food_name": "Unsweetened Iced Tea - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/unsweetened-iced-tea-30-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691146",
+      "food_name": "Farmer's Punch - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/farmers-punch-20-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691144",
+      "food_name": "Sweetened Iced Tea - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sweetened-iced-tea-30-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691155",
+      "food_name": "Strawberry Dragonfruit - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/strawberry-dragonfruit-20-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691196",
+      "food_name": "Simply Orange",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/simply-orange",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691199",
+      "food_name": "Sprite - Bottled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sprite-bottled",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691182",
+      "food_name": "Honest Organic Peach Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/honest-organic-peach-tea",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691183",
+      "food_name": "IBC Cream Soda",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/ibc-cream-soda",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691184",
+      "food_name": "IBC Root Beer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/ibc-root-beer",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691181",
+      "food_name": "Honest Organic Honey Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/honest-organic-honey-green-tea",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691180",
+      "food_name": "Diet Snapple Half & Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/diet-snapple-half-half",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691193",
+      "food_name": "San Pellegrino Blood Orange",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/san-pellegrino-blood-orange",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691188",
+      "food_name": "Nantucket Nectars Lemonade Bottle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/nantucket-nectars-lemonade-bottle",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691189",
+      "food_name": "Nantucket Nectars Orange Mango",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/nantucket-nectars-orange-mango",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691191",
+      "food_name": "Powerade Mountain Berry Blast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/powerade-mountain-berry-blast",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691160",
+      "food_name": "Pineapple Passionfruit - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/pineapple-passionfruit-30-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691166",
+      "food_name": "Arizona Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/arizona-tea",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691167",
+      "food_name": "Cherry Coke - Bottled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/cherry-coke-bottled",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691177",
+      "food_name": "Diet Coke - Bottled - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/diet-coke-bottled-20-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691107",
+      "food_name": "Avocado - Shakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/avocado-shakes",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691104",
+      "food_name": "OREO",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/oreo",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691114",
+      "food_name": "Coke - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/coke-20-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690309",
+      "food_name": "Avo Turkey Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/avo-turkey-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690327",
+      "food_name": "Chicken Salad & Provolone Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chicken-salad-provolone-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690330",
+      "food_name": "Cubano Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/cubano-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690333",
+      "food_name": "Fireball Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/fireball-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690336",
+      "food_name": "Grilled Cheese Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/grilled-cheese-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690390",
+      "food_name": "Veggie Melt Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/veggie-melt-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690395",
+      "food_name": "Wrecking Ball Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/wrecking-ball-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690398",
+      "food_name": "Avo Turkey Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/avo-turkey-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690403",
+      "food_name": "A Wreck Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/a-wreck-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690406",
+      "food_name": "Bacon, Egg & Cheddar Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/bacon-egg-cheddar-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690341",
+      "food_name": "Grilled Chicken & Cheddar Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/grilled-chicken-cheddar-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690384",
+      "food_name": "Sweet Heat Pork BBQ Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sweet-heat-pork-bbq-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690454",
+      "food_name": "Sicilian Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sicilian-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690457",
+      "food_name": "Smoked Ham & Swiss Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/smoked-ham-swiss-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690459",
+      "food_name": "Sweet Heat Pork BBQ Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sweet-heat-pork-bbq-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690460",
+      "food_name": "Tuna Salad & Swiss Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/tuna-salad-swiss-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690462",
+      "food_name": "Turkey Breast & Swiss Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/turkey-breast-swiss-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690348",
+      "food_name": "Ham, Mushroom, Egg & Swiss Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/ham-mushroom-egg-swiss-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690357",
+      "food_name": "Mama's Meatball Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mamas-meatball-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690364",
+      "food_name": "Mediterranean No Chicken Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mediterranean-no-chicken-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690427",
+      "food_name": "Grilled Chicken Club Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/grilled-chicken-club-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690429",
+      "food_name": "Ham, Mushroom, Egg & Swiss Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/ham-mushroom-egg-swiss-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690442",
+      "food_name": "Mediterranean No Chicken Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mediterranean-no-chicken-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690448",
+      "food_name": "Roast Beef & Provolone Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/roast-beef-provolone-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690451",
+      "food_name": "Sausage, Egg & Cheddar Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sausage-egg-cheddar-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690412",
+      "food_name": "Chicken Cordon Bleu Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chicken-cordon-bleu-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690417",
+      "food_name": "Cubano Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/cubano-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690380",
+      "food_name": "Smoked Ham & Swiss Sandwich - Originals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/smoked-ham-swiss-sandwich-originals",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690501",
+      "food_name": "Cubano Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/cubano-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690504",
+      "food_name": "Fireball Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/fireball-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690507",
+      "food_name": "Grilled Cheese Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/grilled-cheese-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690491",
+      "food_name": "BLTA Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/blta-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690495",
+      "food_name": "Chicken Cordon Bleu Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chicken-cordon-bleu-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690522",
+      "food_name": "Roast Beef & Provolone Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/roast-beef-provolone-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690478",
+      "food_name": "Bacon, Egg & Cheddar Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/bacon-egg-cheddar-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690527",
+      "food_name": "Sicilian Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sicilian-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690532",
+      "food_name": "Smoked Ham & Swiss Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/smoked-ham-swiss-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690535",
+      "food_name": "Smokestack Pork & Mac Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/smokestack-pork-mac-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690537",
+      "food_name": "Sweet Heat Pork BBQ Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sweet-heat-pork-bbq-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690469",
+      "food_name": "Avo Turkey Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/avo-turkey-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690508",
+      "food_name": "Grilled Chicken & Cheddar Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/grilled-chicken-cheddar-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690513",
+      "food_name": "Italian Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/italian-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690515",
+      "food_name": "Mama's Meatball Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mamas-meatball-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690517",
+      "food_name": "Mediterranean Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mediterranean-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690518",
+      "food_name": "Mediterranean No Chicken Sandwich - Skinny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mediterranean-no-chicken-sandwich-skinny",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690466",
+      "food_name": "Wrecking Ball Sandwich - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/wrecking-ball-sandwich-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690563",
+      "food_name": "Multigrain Bread - Skinny (Thin-Cut)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/multigrain-bread-skinny-(thin-cut)",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690642",
+      "food_name": "Red Wine Vinegar - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/red-wine-vinegar-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690651",
+      "food_name": "Sliced Onions - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sliced-onions-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690665",
+      "food_name": "Sweet Heat BBQ - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sweet-heat-bbq-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690671",
+      "food_name": "Hot Peppers - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/hot-peppers-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690669",
+      "food_name": "Buttermilk Ranch - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/buttermilk-ranch-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690670",
+      "food_name": "Hot Pepper Ranch - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/hot-pepper-ranch-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690676",
+      "food_name": "Lettuce - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/lettuce-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690557",
+      "food_name": "Flat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/flat-bread",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690558",
+      "food_name": "Multigrain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/multigrain-bread",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690559",
+      "food_name": "Multigrain Bread - BIGS",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/multigrain-bread-bigs",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690560",
+      "food_name": "Multigrain Bread - BIGS (Thin-Cut)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/multigrain-bread-bigs-(thin-cut)",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690628",
+      "food_name": "Italian Seasoning - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/italian-seasoning-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690630",
+      "food_name": "Mayo - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mayo-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690631",
+      "food_name": "Oil - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/oil-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690635",
+      "food_name": "Pickles - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/pickles-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690618",
+      "food_name": "Buttermilk Ranch - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/buttermilk-ranch-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690620",
+      "food_name": "Hot Pepper Ranch - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/hot-pepper-ranch-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690608",
+      "food_name": "White Bread - BIGS (Thin-Cut)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/white-bread-bigs-(thin-cut)",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690606",
+      "food_name": "White Bread - Skinny (Thin-Cut)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/white-bread-skinny-(thin-cut)",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690771",
+      "food_name": "Provolone Cheese - Extra",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/provolone-cheese-extra",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690775",
+      "food_name": "Chicken Bacon Ranch Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chicken-bacon-ranch-wrap",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690780",
+      "food_name": "Mediterranean Veggie Wrap with Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mediterranean-veggie-wrap-with-chicken",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690684",
+      "food_name": "Red Wine Vinegar - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/red-wine-vinegar-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690711",
+      "food_name": "Sliced Onions - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sliced-onions-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690713",
+      "food_name": "Sweet Heat BBQ - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sweet-heat-bbq-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690689",
+      "food_name": "Brown Mustard - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/brown-mustard-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690690",
+      "food_name": "Buttermilk Ranch - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/buttermilk-ranch-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690699",
+      "food_name": "Marinara Sauce - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/marinara-sauce-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690701",
+      "food_name": "Oil - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/oil-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690719",
+      "food_name": "Egg Patty - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/egg-patty-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690712",
+      "food_name": "Tomato - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/tomato-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690715",
+      "food_name": "Avocado - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/avocado-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690685",
+      "food_name": "Roasted Garlic Aioli - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/roasted-garlic-aioli-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690688",
+      "food_name": "Tomato - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/tomato-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690691",
+      "food_name": "Hot Peppers - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/hot-peppers-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690733",
+      "food_name": "Artichoke Hearts - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/artichoke-hearts-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690735",
+      "food_name": "Cucumbers - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/cucumbers-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690737",
+      "food_name": "Hummus - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/hummus-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690739",
+      "food_name": "Egg Patty - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/egg-patty-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690745",
+      "food_name": "Avocado - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/avocado-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690746",
+      "food_name": "Cucumbers - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/cucumbers-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690748",
+      "food_name": "Egg Patty - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/egg-patty-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690755",
+      "food_name": "Sliced Mushrooms - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sliced-mushrooms-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690876",
+      "food_name": "Glazed Walnuts - Salad Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/glazed-walnuts-salad-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690878",
+      "food_name": "Hummus - Salad Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/hummus-salad-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690879",
+      "food_name": "Red Grapes - Salad Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/red-grapes-salad-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690875",
+      "food_name": "Garbanzo Beans - Salad Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/garbanzo-beans-salad-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690877",
+      "food_name": "Hard Boiled Egg - Salad Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/hard-boiled-egg-salad-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690894",
+      "food_name": "Fat Free Vinaigrette - Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/fat-free-vinaigrette-salad-dressing",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690902",
+      "food_name": "Buttermilk Ranch - Salad Dressing (Half)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/buttermilk-ranch-salad-dressing-(half)",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690782",
+      "food_name": "Prime Rib Steak Club Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/prime-rib-steak-club-wrap",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690783",
+      "food_name": "Southwest Avo Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/southwest-avo-chicken-wrap",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690788",
+      "food_name": "A Wreck Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/a-wreck-salad",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690840",
+      "food_name": "Fresh Strawberries - Salad Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/fresh-strawberries-salad-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690820",
+      "food_name": "Cucumbers - Salad Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/cucumbers-salad-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690821",
+      "food_name": "Grape Tomato - Salad Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/grape-tomato-salad-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690827",
+      "food_name": "Artichoke Hearts - Salad Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/artichoke-hearts-salad-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690830",
+      "food_name": "Avocado - Salad Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/avocado-salad-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690837",
+      "food_name": "Dried Cranberry - Salad Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/dried-cranberry-salad-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690911",
+      "food_name": "Broccoli Cheddar Soup - Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/broccoli-cheddar-soup-side",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690913",
+      "food_name": "Chicken Pot Pie - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chicken-pot-pie-bowl",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690917",
+      "food_name": "Chicken Pot Pie - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chicken-pot-pie-cup",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690920",
+      "food_name": "Chicken Pot Pie - Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chicken-pot-pie-side",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690815",
+      "food_name": "Farmhouse Salad (Half)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/farmhouse-salad-(half)",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690819",
+      "food_name": "Powerhouse Salad (Half)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/powerhouse-salad-(half)",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690804",
+      "food_name": "Powerhouse Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/powerhouse-salad",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691004",
+      "food_name": "Zapp's Mesquite Bar-B-Que Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/zapps-mesquite-bar-b-que-chips",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691005",
+      "food_name": "Zapp's Regular Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/zapps-regular-chips",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690997",
+      "food_name": "Chili - Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chili-side",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691001",
+      "food_name": "Utz Cheese Curls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/utz-cheese-curls",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691006",
+      "food_name": "Zapp's Salt & Vinegar Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/zapps-salt-vinegar-chips",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691019",
+      "food_name": "Zapp's Voodoo Regular Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/zapps-voodoo-regular-chips",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691020",
+      "food_name": "Kids' Combo Ham & Swiss",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/kids-combo-ham-swiss",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690976",
+      "food_name": "Oyster Crackers - Soup Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/oyster-crackers-soup-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690979",
+      "food_name": "Sliced Onions - Soup Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sliced-onions-soup-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690949",
+      "food_name": "Loaded Baked Potato - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/loaded-baked-potato-cup",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691068",
+      "food_name": "Chocolate Brownie Cookie Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chocolate-brownie-cookie-ice-cream-sandwich",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691070",
+      "food_name": "Cold Brew Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/cold-brew-shake",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691079",
+      "food_name": "Key Lime Pie Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/key-lime-pie-cookie",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691038",
+      "food_name": "Multigrain Bread - Kids (Thin-Cut)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/multigrain-bread-kids-(thin-cut)",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691039",
+      "food_name": "White Bread - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/white-bread-kids",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691057",
+      "food_name": "Bacon - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/bacon-kids",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691058",
+      "food_name": "Sliced Mushrooms - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sliced-mushrooms-kids",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691059",
+      "food_name": "Apple Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/apple-sauce",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691052",
+      "food_name": "Oil - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/oil-kids",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691053",
+      "food_name": "Pickles - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/pickles-kids",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691056",
+      "food_name": "Avocado - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/avocado-kids",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691062",
+      "food_name": "Kids Chocolate Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/kids-chocolate-milk",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690951",
+      "food_name": "Loaded Baked Potato - Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/loaded-baked-potato-side",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690957",
+      "food_name": "Hot Peppers - Mac Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/hot-peppers-mac-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690955",
+      "food_name": "Mac & Cheese - Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/mac-cheese-side",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690967",
+      "food_name": "Avocado - Soup Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/avocado-soup-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690974",
+      "food_name": "Chopped Bacon - Soup Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chopped-bacon-soup-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690946",
+      "food_name": "Garden Vegetable Soup - Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/garden-vegetable-soup-side",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690927",
+      "food_name": "Chili - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/chili-cup",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691099",
+      "food_name": "Sugar Cookie Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sugar-cookie-ice-cream-sandwich",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691109",
+      "food_name": "Strawberries - Shakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/strawberries-shakes",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691103",
+      "food_name": "Coffee Syrup - Second Flavor",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/coffee-syrup-second-flavor",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691106",
+      "food_name": "Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/vanilla",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691108",
+      "food_name": "Bananas - Shakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/bananas-shakes",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691116",
+      "food_name": "Coke Zero Sugar - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/coke-zero-sugar-20-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691117",
+      "food_name": "Diet Coca Cola - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/diet-coca-cola-20-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691127",
+      "food_name": "Coke - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/coke-30-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691121",
+      "food_name": "Fanta Orange - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/fanta-orange-20-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691123",
+      "food_name": "Minute Maid Lemonade - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/minute-maid-lemonade-20-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691130",
+      "food_name": "Coke Zero Sugar - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/coke-zero-sugar-30-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691137",
+      "food_name": "Fuze Raspberry Tea - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/fuze-raspberry-tea-30-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691138",
+      "food_name": "Minute Maid Lemonade - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/minute-maid-lemonade-30-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691170",
+      "food_name": "Coca Zero Sugar - Bottled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/coca-zero-sugar-bottled",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691172",
+      "food_name": "Coke - Bottled - 12 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/coke-bottled-12-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691173",
+      "food_name": "Coke - Bottled - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/coke-bottled-20-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691174",
+      "food_name": "Crush",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/crush",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691175",
+      "food_name": "Diet Coke - Bottled - 12 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/diet-coke-bottled-12-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691192",
+      "food_name": "San Pellegrino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/san-pellegrino",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691201",
+      "food_name": "Vitamin Water XXX Acai Blue Pom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/vitamin-water-xxx-acai-blue-pom",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691198",
+      "food_name": "Smartwater",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/smartwater",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691200",
+      "food_name": "Vitamin Water Squeezed Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/vitamin-water-squeezed-lemonade",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691207",
+      "food_name": "Water Bottle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/water-bottle",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691159",
+      "food_name": "Lemonade - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/lemonade-30-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691162",
+      "food_name": "Strawberry Dragonfruit - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/strawberry-dragonfruit-30-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691158",
+      "food_name": "Farmer's Punch - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/farmers-punch-30-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691147",
+      "food_name": "Lemonade - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/lemonade-20-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691143",
+      "food_name": "Sprite - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/sprite-30-fl-oz",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691095",
+      "food_name": "Root Beer Float Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/root-beer-float-shake",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690638",
+      "food_name": "Potbelly Whole Pickle - Originals Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/potbelly-whole-pickle-originals-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690681",
+      "food_name": "Potbelly Whole Pickle - BIGS Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/potbelly-whole-pickle-bigs-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105690705",
+      "food_name": "Potbelly Whole Pickle - Skinny Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/potbelly-whole-pickle-skinny-add-on",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691000",
+      "food_name": "Potbelly Whole Pickle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/potbelly-whole-pickle",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    }
+  ]
+}

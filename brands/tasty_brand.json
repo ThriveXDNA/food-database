@@ -1,0 +1,20 @@
+{
+  "brand_name": "Tasty Brand",
+  "total_items": 1,
+  "pages_extracted": 3,
+  "total_search_results": 102,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:55:02.702Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/tasty_brand.json",
+  "items": [
+    {
+      "food_id": "4473173",
+      "food_name": "Organic Fruit Snacks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tasty-brand/organic-fruit-snacks",
+      "brand_name": "Tasty Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "restaurant": "David Rio",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 14,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:36:35.152Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/david_rio.json",
+  "items": [
+    {
+      "food_id": "846065",
+      "food_name": "Tiger Spice Chai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/david-rio/tiger-spice-chai",
+      "brand_name": "David Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6666068",
+      "food_name": "Power Chai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/david-rio/power-chai",
+      "brand_name": "David Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3964446",
+      "food_name": "Elephant Vanilla Chai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/david-rio/elephant-vanilla-chai",
+      "brand_name": "David Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2109511",
+      "food_name": "Orca Spice Chai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/david-rio/orca-spice-chai",
+      "brand_name": "David Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1406603",
+      "food_name": "Flamingo Vanilla Chai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/david-rio/flamingo-vanilla-chai",
+      "brand_name": "David Rio",
+      "food_type": "Brand"
+    }
+  ]
+}

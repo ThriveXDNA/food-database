@@ -1,0 +1,34 @@
+{
+  "restaurant": "Rusty Bucket",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:10:47.982Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rusty_bucket.json",
+  "items": [
+    {
+      "food_id": "32240544",
+      "food_name": "Baja Fish Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rusty-bucket/baja-fish-tacos",
+      "brand_name": "Rusty Bucket",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26970167",
+      "food_name": "French Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rusty-bucket/french-fries",
+      "brand_name": "Rusty Bucket",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24323153",
+      "food_name": "Double Nickel Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rusty-bucket/double-nickel-salad",
+      "brand_name": "Rusty Bucket",
+      "food_type": "Brand"
+    }
+  ]
+}

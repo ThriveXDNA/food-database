@@ -1,0 +1,20 @@
+{
+  "restaurant": "Ester-C",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 292,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:14:06.053Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ester_c.json",
+  "items": [
+    {
+      "food_id": "2350941",
+      "food_name": "Ester-C",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ester-c/ester-c",
+      "brand_name": "Ester-C",
+      "food_type": "Brand"
+    }
+  ]
+}

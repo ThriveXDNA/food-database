@@ -1,0 +1,69 @@
+{
+  "restaurant": "Panago",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:18:46.804Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/panago.json",
+  "items": [
+    {
+      "food_id": "57378",
+      "food_name": "New York Deli Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panago/new-york-deli-pizza",
+      "brand_name": "Panago",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89055",
+      "food_name": "Simple Pepperoni Hand-tossed Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panago/simple-pepperoni-hand-tossed-pizza",
+      "brand_name": "Panago",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57382",
+      "food_name": "Veggie Mediterranean Italian Thin Crust Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panago/veggie-mediterranean-italian-thin-crust-pizza",
+      "brand_name": "Panago",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57377",
+      "food_name": "Deluxe Hawaiian Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panago/deluxe-hawaiian-pizza",
+      "brand_name": "Panago",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57379",
+      "food_name": "Primo Shrimp Italian Thin Crust Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panago/primo-shrimp-italian-thin-crust-pizza",
+      "brand_name": "Panago",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57383",
+      "food_name": "Veggie Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panago/veggie-pepperoni-pizza",
+      "brand_name": "Panago",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57384",
+      "food_name": "Chicken Club Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panago/chicken-club-pizza",
+      "brand_name": "Panago",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57296",
+      "food_name": "Garden Veggie Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panago/garden-veggie-pizza",
+      "brand_name": "Panago",
+      "food_type": "Brand"
+    }
+  ]
+}

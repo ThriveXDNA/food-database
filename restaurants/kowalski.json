@@ -1,0 +1,90 @@
+{
+  "restaurant": "Kowalski",
+  "total_items": 11,
+  "pages_extracted": 1,
+  "total_search_results": 11,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:43:04.196Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kowalski.json",
+  "items": [
+    {
+      "food_id": "7338393",
+      "food_name": "Fresh Kielbasa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kowalski/fresh-kielbasa",
+      "brand_name": "Kowalski",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44023460",
+      "food_name": "Hunter's Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kowalski/hunters-smoked-sausage",
+      "brand_name": "Kowalski",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3887600",
+      "food_name": "Polish Kielbasa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kowalski/polish-kielbasa",
+      "brand_name": "Kowalski",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1897105",
+      "food_name": "Hot Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kowalski/hot-dog",
+      "brand_name": "Kowalski",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1065192",
+      "food_name": "Garlic Ring Bologna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kowalski/garlic-ring-bologna",
+      "brand_name": "Kowalski",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8042378",
+      "food_name": "Natural Casing Stadium Kielbasa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kowalski/natural-casing-stadium-kielbasa",
+      "brand_name": "Kowalski",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5002072",
+      "food_name": "Chocolate Revel Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kowalski/chocolate-revel-bar",
+      "brand_name": "Kowalski",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1348992",
+      "food_name": "Skinless Stadium Kielbasa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kowalski/skinless-stadium-kielbasa",
+      "brand_name": "Kowalski",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3167024",
+      "food_name": "Kiszka",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kowalski/kiszka",
+      "brand_name": "Kowalski",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30086118",
+      "food_name": "Skinless Franks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kowalski/skinless-franks",
+      "brand_name": "Kowalski",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4860705",
+      "food_name": "Kielbasa Loaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kowalski/kielbasa-loaf",
+      "brand_name": "Kowalski",
+      "food_type": "Brand"
+    }
+  ]
+}

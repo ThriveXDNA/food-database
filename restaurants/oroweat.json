@@ -1,0 +1,734 @@
+{
+  "restaurant": "Oroweat",
+  "total_items": 103,
+  "pages_extracted": 3,
+  "total_search_results": 103,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:51:28.263Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/oroweat.json",
+  "items": [
+    {
+      "food_id": "4561966",
+      "food_name": "Whole Grain 100% Whole Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/whole-grain-100%25-whole-wheat-bread/1-slice",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59915820",
+      "food_name": "Superior Keto Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/superior-keto-buns",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47121310",
+      "food_name": "Keto Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/keto-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56534030",
+      "food_name": "Whole Grains 100% Whole Wheat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/whole-grains-100-whole-wheat",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "433594",
+      "food_name": "Country Buttermilk Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/country-buttermilk-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13984650",
+      "food_name": "Whole Grains Healthy Multi-Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/whole-grains-healthy-multi-grain-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88756",
+      "food_name": "Country 100% Whole Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/country-100%25-whole-wheat-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2435546",
+      "food_name": "Whole Grains Oatnut Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/whole-grains-oatnut-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27849346",
+      "food_name": "Whole Grains 12 Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/whole-grains-12-grain-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2621725",
+      "food_name": "Sandwich Thins - Multi-Grain",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/sandwich-thins---multi-grain",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72415250",
+      "food_name": "Superior Keto Seeded Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/superior-keto-seeded-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75426479",
+      "food_name": "Superior Keto Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/superior-keto-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15332368",
+      "food_name": "Jewish Rye Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/jewish-rye-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17293495",
+      "food_name": "Dark Rye Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/dark-rye-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50687",
+      "food_name": "Country Potato Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/country-potato-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66388751",
+      "food_name": "Keto Sandwich Thins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/keto-sandwich-thins",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "702902",
+      "food_name": "Sandwich Thins - 100% Whole Wheat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/sandwich-thins---100%25-whole-wheat",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22725075",
+      "food_name": "Organic Thin Sliced 22 Grains & Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/organic-thin-sliced-22-grains-seeds",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3036239",
+      "food_name": "Country Potato Hamburger Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/country-potato-hamburger-bun",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "201188",
+      "food_name": "Sliced Extra Crisp English Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/sliced-extra-crisp-english-muffins",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4678844",
+      "food_name": "100% Whole Wheat English Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/100-whole-wheat-english-muffins",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3145591",
+      "food_name": "Russian Rye Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/russian-rye-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3905486",
+      "food_name": "Whole Grains Double Fiber Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/whole-grains-double-fiber-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50831317",
+      "food_name": "Organic Thin Sliced 100% Whole Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/organic-thin-sliced-100-whole-wheat-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4635733",
+      "food_name": "Original Oatnut Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/original-oatnut-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61941",
+      "food_name": "12 Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/12-grain-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51451772",
+      "food_name": "Oatnut Small Slice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/oatnut-small-slice",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6091575",
+      "food_name": "Whole Grain 100% Whole Wheat Hamburger Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/whole-grain-100%25-whole-wheat-hamburger-buns",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "205932",
+      "food_name": "Whole Grain 9 Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/whole-grain-9-grain-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72696",
+      "food_name": "100% Whole Wheat Hamburger Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/100%25-whole-wheat-hamburger-buns",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4090779",
+      "food_name": "Sourdough English Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/sourdough-english-muffins",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26056222",
+      "food_name": "100% Whole Wheat Sandwich Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/100-whole-wheat-sandwich-buns",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1965623",
+      "food_name": "Country White Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/country-white-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14364353",
+      "food_name": "Country Sourdough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/country-sourdough",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77985475",
+      "food_name": "Grains Almighty Plant Protein Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/grains-almighty-plant-protein-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4026653",
+      "food_name": "100% Whole Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/100%25-whole-wheat-bread/1-slice",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "205929",
+      "food_name": "Sandwich Style Country White Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/sandwich-style-country-white-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76172600",
+      "food_name": "Keto Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/keto-tortillas",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32987060",
+      "food_name": "Extra Crispy English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/extra-crispy-english-muffin",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "205916",
+      "food_name": "Dill Rye Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/dill-rye-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41717",
+      "food_name": "Healthy Multi-Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/healthy-multi-grain-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43792705",
+      "food_name": "Organic Thin Sliced Rustic White Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/organic-thin-sliced-rustic-white-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53504336",
+      "food_name": "100% Whole Wheat Small Slice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/100-whole-wheat-small-slice",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28820140",
+      "food_name": "Organic Thin Sliced Sweet Baby Grains",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/organic-thin-sliced-sweet-baby-grains",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76314161",
+      "food_name": "Whole Grains Oatnut Bread (43g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/whole-grains-oatnut-bread-(43g)",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54134249",
+      "food_name": "Italian Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/italian-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2486260",
+      "food_name": "Onion Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/onion-buns",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "807114",
+      "food_name": "Schwarzwalder Dark Rye",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/schwarzwalder-dark-rye",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43321979",
+      "food_name": "Potato Hot Dog Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/potato-hot-dog-buns",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17578120",
+      "food_name": "Organic 100% Whole Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/organic-100-whole-grain-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1202398",
+      "food_name": "Health Nut Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/health-nut-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32354",
+      "food_name": "100% Whole Wheat Bread Light",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/100%25-whole-wheat-bread-light",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5319231",
+      "food_name": "Whole Grain 100% Whole Wheat English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/whole-grain-100%25-whole-wheat-english-muffin",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "205924",
+      "food_name": "Mini Loaf Whole Grain 100% Whole Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/mini-loaf-whole-grain-100-whole-wheat-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17604868",
+      "food_name": "Organic 22 Grains & Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/organic-22-grains-and-seeds",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "404043",
+      "food_name": "Sandwich Thins - Whole Grain White",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/sandwich-thins---whole-grain-white",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22650145",
+      "food_name": "Rustic White Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/rustic-white-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "632681",
+      "food_name": "Cinnamon Raisin English Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/cinnamon-raisin-english-muffins",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60270",
+      "food_name": "100% Whole Wheat Dinner Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/100%25-whole-wheat-dinner-roll",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "205926",
+      "food_name": "Oatnut 3-Seed Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/oatnut-3-seed-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31615964",
+      "food_name": "Sub Sandwich Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/sub-sandwich-roll",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43719789",
+      "food_name": "Country Style Butter Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/country-style-butter-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2827414",
+      "food_name": "Sandwich Thins - Minis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/sandwich-thins---minis",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32110095",
+      "food_name": "Organic Rustic White Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/organic-rustic-white-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "458759",
+      "food_name": "Bagel Thins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/bagel-thins",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80694",
+      "food_name": "Country Whole Grain White Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/country-whole-grain-white-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12064408",
+      "food_name": "Country Sweet Hawaiian Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/country-sweet-hawaiian-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14921356",
+      "food_name": "Pita Pockets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/pita-pockets",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65899",
+      "food_name": "100% Whole Wheat Hot Dog Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/100%25-whole-wheat-hot-dog-buns",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10966313",
+      "food_name": "Country Oatmeal Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/country-oatmeal-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7844031",
+      "food_name": "Potato Sandwich Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/potato-sandwich-buns",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71048",
+      "food_name": "Honey Wheat Berry Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/honey-wheat-berry-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1634647",
+      "food_name": "Premium Italian Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/premium-italian-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3124033",
+      "food_name": "Honey Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/honey-wheat-bread/1-slice",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9967228",
+      "food_name": "100% Whole Wheat Hot Dog Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/100%25-whole-wheat-hot-dog-rolls",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23072384",
+      "food_name": "Country Potato Sandwich Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/country-potato-sandwich-buns",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85797",
+      "food_name": "Whole Grain Active Health Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/whole-grain-active-health-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2832464",
+      "food_name": "Rye Party Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/rye-party-slices",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "205934",
+      "food_name": "7 Grain Sliced Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/7-grain-sliced-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2611165",
+      "food_name": "Premium Golden Seeded Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/premium-golden-seeded-buns",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4016921",
+      "food_name": "Country Potato Hot Dog Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/country-potato-hot-dog-bun",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4138005",
+      "food_name": "Healthfull 100% Whole Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/healthfull-100%25-whole-wheat-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3718006",
+      "food_name": "Healthfull Flax & Fiber Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/healthfull-flax-and-fiber-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "116030",
+      "food_name": "Raisin Cinnamon Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/raisin-cinnamon-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1681089",
+      "food_name": "Nutty Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/nutty-grain-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "750924",
+      "food_name": "Whole Wheat Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/whole-wheat-bagel",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17812573",
+      "food_name": "Whole Grain White Hot Dog Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/whole-grain-white-hot-dog-buns",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1066834",
+      "food_name": "Premium Golden Seeded Sliced Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/premium-golden-seeded-sliced-buns",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14583349",
+      "food_name": "Double Fiber English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/double-fiber-english-muffin",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11815137",
+      "food_name": "Healthfull Flax & Sunflower Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/healthfull-flax-and-sunflower-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "205928",
+      "food_name": "Sandwich Style 100% Whole Wheat with a Hint of Molasses Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/sandwich-style-100%25-whole-wheat-with-a-hint-of-molasses-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1005456",
+      "food_name": "Healthfull 10 Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/healthfull-10-grain-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14149058",
+      "food_name": "Extra Grainy 17 Grains & Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/extra-grainy-17-grains-and-seeds",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2489087",
+      "food_name": "Sandwich Thins - Honey Wheat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/sandwich-thins---honey-wheat",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14241843",
+      "food_name": "Extra Grainy Cracked Wheat & Oats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/extra-grainy-cracked-wheat-and-oats",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40873128",
+      "food_name": "Soft 100% Whole Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/soft-100-whole-wheat-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2204272",
+      "food_name": "Healthfull Nutty Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/healthfull-nutty-grain-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23612198",
+      "food_name": "Organic Rustic White Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/organic-rustic-white-bagels",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12328171",
+      "food_name": "Healthfull Sprouted Wheat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/healthfull-sprouted-wheat",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34674470",
+      "food_name": "Organic Smooth Wheat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/organic-smooth-wheat",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48071505",
+      "food_name": "Organic White Made with Whole Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/organic-white-made-with-whole-wheat-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11546089",
+      "food_name": "Healthful Steel Cut Oats & Honey Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/healthful-steel-cut-oats-and-honey-bread",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49869824",
+      "food_name": "Sandwich Thins - Veggie Herb",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oroweat/sandwich-thins-veggie-herb",
+      "brand_name": "Oroweat",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "restaurant": "Gevalia",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:08:50.927Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/gevalia.json",
+  "items": [
+    {
+      "food_id": "6932445",
+      "food_name": "Cappuccino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gevalia/cappuccino",
+      "brand_name": "Gevalia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8980976",
+      "food_name": "Vanilla Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gevalia/vanilla-latte",
+      "brand_name": "Gevalia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20078872",
+      "food_name": "Cold Brew Iced Coffee Concentrate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gevalia/cold-brew-iced-coffee-concentrate",
+      "brand_name": "Gevalia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6703755",
+      "food_name": "Caramel Macchiato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gevalia/caramel-macchiato",
+      "brand_name": "Gevalia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6220152",
+      "food_name": "Mocha Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gevalia/mocha-latte",
+      "brand_name": "Gevalia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13507883",
+      "food_name": "Pumpkin Spice Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gevalia/pumpkin-spice-latte",
+      "brand_name": "Gevalia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2036269",
+      "food_name": "Gevalia Caramel Latte Macchiato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tassimo/gevalia-caramel-latte-macchiato",
+      "brand_name": "Tassimo",
+      "food_type": "Brand"
+    }
+  ]
+}

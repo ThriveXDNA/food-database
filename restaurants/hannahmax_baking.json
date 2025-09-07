@@ -1,0 +1,27 @@
+{
+  "restaurant": "Hannahmax Baking",
+  "total_items": 2,
+  "pages_extracted": 3,
+  "total_search_results": 137,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:05:55.424Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/hannahmax_baking.json",
+  "items": [
+    {
+      "food_id": "16086629",
+      "food_name": "Mini Donut Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hannahmax-baking/mini-donut-muffins",
+      "brand_name": "Hannahmax Baking",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4852271",
+      "food_name": "Chocolate Chip Cookie Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hannahmax-baking/chocolate-chip-cookie-chips",
+      "brand_name": "Hannahmax Baking",
+      "food_type": "Brand"
+    }
+  ]
+}

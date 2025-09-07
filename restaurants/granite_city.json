@@ -1,0 +1,90 @@
+{
+  "restaurant": "Granite City",
+  "total_items": 11,
+  "pages_extracted": 1,
+  "total_search_results": 50,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:35:38.170Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/granite_city.json",
+  "items": [
+    {
+      "food_id": "8610464",
+      "food_name": "Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granite-city/fries",
+      "brand_name": "Granite City",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14442596",
+      "food_name": "Mediterranean Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granite-city/mediterranean-chicken",
+      "brand_name": "Granite City",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19431552",
+      "food_name": "Bison Burger on Pretzel Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granite-city/bison-burger-on-pretzel-bun",
+      "brand_name": "Granite City",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2826464",
+      "food_name": "Lunch Grilled Asian Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granite-city/lunch-grilled-asian-chicken-salad",
+      "brand_name": "Granite City",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2595904",
+      "food_name": "Waffle Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granite-city/waffle-fries",
+      "brand_name": "Granite City",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5535147",
+      "food_name": "Simply Grilled Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granite-city/simply-grilled-salmon",
+      "brand_name": "Granite City",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22849311",
+      "food_name": "Margherita Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granite-city/margherita-flatbread",
+      "brand_name": "Granite City",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73706612",
+      "food_name": "Cheesy Chicken Tortilla Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granite-city/cheesy-chicken-tortilla-soup",
+      "brand_name": "Granite City",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29208225",
+      "food_name": "Chicken Giardiniera",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granite-city/chicken-giardiniera",
+      "brand_name": "Granite City",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2499626",
+      "food_name": "Cheddar Ale Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granite-city/cheddar-ale-soup",
+      "brand_name": "Granite City",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7127629",
+      "food_name": "Grilled Chicken & Asparagus Linguini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granite-city/grilled-chicken-and-asparagus-linguini",
+      "brand_name": "Granite City",
+      "food_type": "Brand"
+    }
+  ]
+}

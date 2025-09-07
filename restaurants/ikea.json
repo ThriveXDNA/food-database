@@ -1,0 +1,762 @@
+{
+  "restaurant": "Ikea",
+  "total_items": 107,
+  "pages_extracted": 3,
+  "total_search_results": 107,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:43:19.712Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ikea.json",
+  "items": [
+    {
+      "food_id": "80668",
+      "food_name": "Swedish Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/swedish-meatballs",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12563533",
+      "food_name": "Blueberry Jam",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/blueberry-jam",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1229181",
+      "food_name": "Hot Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/hot-dog",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2128412",
+      "food_name": "Cream Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/cream-sauce",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1812352",
+      "food_name": "Lingonberry Preserves",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/lingonberry-preserves",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2538115",
+      "food_name": "Almond Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/almond-cake",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12237092",
+      "food_name": "Swedish Meatballs Dinner (10), Mashed Potatoes, Lingonberry, Cream Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/swedish-meatballs-dinner-(10)-mashed-potatoes-lingonberry-cream-sauce",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2308598",
+      "food_name": "Dark Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/dark-chocolate-bar",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8744473",
+      "food_name": "Blueberry Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/blueberry-cake",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4176493",
+      "food_name": "Swedish Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/swedish-pancakes",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93339",
+      "food_name": "Cinnamon Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/cinnamon-bun",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11071793",
+      "food_name": "Sylt Lingon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/sylt-lingon",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22815597",
+      "food_name": "Kafferep Chocolate Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/kafferep-chocolate-cookies",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7556191",
+      "food_name": "Chicken Tenders with Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/chicken-tenders-with-fries",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1374630",
+      "food_name": "Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/mashed-potatoes",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40322477",
+      "food_name": "Swedish Almond Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/swedish-almond-cake",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12588930",
+      "food_name": "Chicken Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/chicken-meatballs",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "115288",
+      "food_name": "Lingonberry Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/lingonberry-sauce",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60602337",
+      "food_name": "Pastry with Almond Paste",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/pastry-with-almond-paste",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58127061",
+      "food_name": "Huvudroll Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/huvudroll-meatballs",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12237071",
+      "food_name": "Swedish Meatballs Dinner (15), Mashed Potatoes, Lingonberry, Cream Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/swedish-meatballs-dinner-(15)-mashed-potatoes-lingonberry-cream-sauce",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3125719",
+      "food_name": "Rye Crispbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/rye-crispbread",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3676452",
+      "food_name": "Rhubarb Crumble Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/rhubarb-crumble-pie",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "296191",
+      "food_name": "Apple Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/apple-cake",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2308594",
+      "food_name": "Hazelnut Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/hazelnut-chocolate-bar",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20655440",
+      "food_name": "Knackebrod Flerkorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/knackebrod-flerkorn",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93174127",
+      "food_name": "Kafferep Cookies with Raspberry Flavored Filling",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/kafferep-cookies-with-raspberry-flavored-filling",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3509459",
+      "food_name": "Frozen Yogurt with Cone",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/frozen-yogurt-with-cone",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11048595",
+      "food_name": "Huvudroll Vegetable Balls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/huvudroll-vegetable-balls",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15331475",
+      "food_name": "Salmon Fillet with Hollandaise Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/salmon-fillet-with-hollandaise-sauce",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61677189",
+      "food_name": "Kafferep Oatmeal Cookies with Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/kafferep-oatmeal-cookies-with-chocolate",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "839074",
+      "food_name": "Potato Broccoli Medallion",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/potato-broccoli-medallion",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3447386",
+      "food_name": "Rosti Potato Fritters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/rosti-potato-fritters",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4543849",
+      "food_name": "Macaroni & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/macaroni-and-cheese",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8681235",
+      "food_name": "Müsli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/müsli",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "398922",
+      "food_name": "Princess Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/princess-cake",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32683722",
+      "food_name": "Veggie Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/veggie-dog",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28271963",
+      "food_name": "Raspberry and Blueberry Jam, Organic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/raspberry-and-blueberry-jam-organic",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40257687",
+      "food_name": "Kafferep Gooey Chocolate Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/kafferep-gooey-chocolate-cake",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2308603",
+      "food_name": "Milk Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/milk-chocolate-bar",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3230167",
+      "food_name": "Frozen Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/frozen-yogurt",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1203285",
+      "food_name": "Potato Fritters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/potato-fritters",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73189721",
+      "food_name": "Stockholm Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/stockholm-salad",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64920836",
+      "food_name": "Kafferep Ginger Thins Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/kafferep-ginger-thins-cookies",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85707960",
+      "food_name": "Hashbrown Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/hashbrown-patties",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3603983",
+      "food_name": "Spinach & Cheese Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/spinach-and-cheese-crepes",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1660779",
+      "food_name": "Daim",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/daim",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2307624",
+      "food_name": "Gravad Lax",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/gravad-lax",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2222345",
+      "food_name": "Buffalo Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/buffalo-chicken-wrap",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61110961",
+      "food_name": "Waffles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/waffles",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12595667",
+      "food_name": "Vegetable Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/vegetable-cakes",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55087090",
+      "food_name": "Cocoa Muesli with Berries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/cocoa-muesli-with-berries",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2459542",
+      "food_name": "Sweet Oat Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/sweet-oat-crisps",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2108626",
+      "food_name": "Chocolate Overload Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/chocolate-overload-cake",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52415649",
+      "food_name": "Porridge with Seeds and Quinoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/porridge-with-seeds-and-quinoa",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17332320",
+      "food_name": "Grönsaksbullar Vegetable Balls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/grönsaksbullar-vegetable-balls",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22854574",
+      "food_name": "Marinated Salmon Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/marinated-salmon-salad",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59205246",
+      "food_name": "Lemon and Dill Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/lemon-and-dill-sauce",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3548767",
+      "food_name": "Kex Choklad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/kex-choklad",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1120886",
+      "food_name": "Daim Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/daim-cake",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43637",
+      "food_name": "Gooseberry Jam",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/gooseberry-jam",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28479479",
+      "food_name": "Rosti Shredded Potato Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/rosti-shredded-potato-pancakes",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68440437",
+      "food_name": "Kafferep Oatmeal Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/kafferep-oatmeal-cookies",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2748393",
+      "food_name": "Kolsyrad Parondryck Sparkling Pear Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/kolsyrad-parondryck-sparkling-pear-drink",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19710411",
+      "food_name": "Cloudberry Jam",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/cloudberry-jam",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4377976",
+      "food_name": "Choklad Mork (Dark Chocolate)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/choklad-mork-(dark-chocolate)",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8593743",
+      "food_name": "Lax Najad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/lax-najad",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43947595",
+      "food_name": "Lordagsgodis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/lordagsgodis",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83404115",
+      "food_name": "Sill Dill",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/sill-dill",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2355543",
+      "food_name": "Chicken Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/chicken-caesar-salad",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2081445",
+      "food_name": "Lingonberry Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/lingonberry-drink",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15391087",
+      "food_name": "Sill Senap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/sill-senap",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9644966",
+      "food_name": "Breakfast Plate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/breakfast-plate",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11560775",
+      "food_name": "Multigrain Crispbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/multigrain-crispbread",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29578152",
+      "food_name": "Salmon Balls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/salmon-balls",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32812092",
+      "food_name": "Elderflower Drink Concentrate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/elderflower-drink-concentrate",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40759287",
+      "food_name": "Salmon and Cod Balls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/salmon-and-cod-balls",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48349345",
+      "food_name": "Sjorapport",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/sjorapport",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1099124",
+      "food_name": "Stuffed Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/stuffed-salmon",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2265060",
+      "food_name": "Open Face Shrimp Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/open-face-shrimp-sandwich",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5656866",
+      "food_name": "Herring in Dill Marinade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/herring-in-dill-marinade",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17070122",
+      "food_name": "BBQ Smoked Salmon Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/bbq-smoked-salmon-sandwich",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4570161",
+      "food_name": "Organic Mushroom & Cheese Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/organic-mushroom-and-cheese-crepes",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2042114",
+      "food_name": "Breakfast Deluxe Plate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/breakfast-deluxe-plate",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12565507",
+      "food_name": "Orange & Elderflower Marmalade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/orange-and-elderflower-marmalade",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9324464",
+      "food_name": "Marinated Salmon Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/marinated-salmon-wrap",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76503077",
+      "food_name": "Gronsakskaka",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/gronsakskaka",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76733290",
+      "food_name": "Daim Cake (50g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/daim-cake-(50g)",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5425956",
+      "food_name": "Salmon Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/salmon-spread",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4371325",
+      "food_name": "Sas Senap & Dill",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/sas-senap-and-dill",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27062846",
+      "food_name": "Organic Dark Chocolate with Coffee Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/organic-dark-chocolate-with-coffee-crunch",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2847933",
+      "food_name": "Double Chocolate Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/double-chocolate-crisps",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5136490",
+      "food_name": "Kex",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/kex",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64352448",
+      "food_name": "Choklad Ljus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/choklad-ljus",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47987063",
+      "food_name": "Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/shrimp",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38144060",
+      "food_name": "Bästisar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/b%C3%A4stisar",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5177577",
+      "food_name": "Salmon Lasagna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/salmon-lasagna",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54492690",
+      "food_name": "Rostad Lok Fried Onions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/rostad-lok-fried-onions",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "806338",
+      "food_name": "Non Fat Frozen Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/non-fat-frozen-yogurt",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51646599",
+      "food_name": "Munsbit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/munsbit",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83939050",
+      "food_name": "Dryck Lingon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/dryck-lingon",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "102686795",
+      "food_name": "Knäckebröd Råg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/kn%C3%A4ckebr%C3%B6d-r%C3%A5g",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23387830",
+      "food_name": "Swedish Apple Cider",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/swedish-apple-cider",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7295592",
+      "food_name": "Pepparkaka Mandel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/pepparkaka-mandel",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53071966",
+      "food_name": "Hjalteroll Granola with Nuts and Berries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/hjalteroll-granola-with-nuts-and-berries",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54827349",
+      "food_name": "Vintersaga",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/vintersaga",
+      "brand_name": "IKEA",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75466496",
+      "food_name": "Sylt Hjortron",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/sylt-hjortron",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    }
+  ]
+}

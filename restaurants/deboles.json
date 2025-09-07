@@ -1,0 +1,41 @@
+{
+  "restaurant": "DeBoles",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:18:16.562Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/deboles.json",
+  "items": [
+    {
+      "food_id": "1907491",
+      "food_name": "Gluten Free Rice Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/deboles/gluten-free-rice-spaghetti",
+      "brand_name": "DeBoles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101118",
+      "food_name": "Rice Spaghetti Style Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/deboles/rice-spaghetti-style-pasta",
+      "brand_name": "DeBoles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "187026",
+      "food_name": "Organic Spinach Spaghetti Style Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/deboles/organic-spinach-spaghetti-style-pasta",
+      "brand_name": "DeBoles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2038140",
+      "food_name": "Gluten Free Corn Spaghetti Style Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/deboles/gluten-free-corn-spaghetti-style-pasta",
+      "brand_name": "DeBoles",
+      "food_type": "Brand"
+    }
+  ]
+}

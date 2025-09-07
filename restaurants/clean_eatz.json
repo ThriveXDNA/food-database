@@ -1,0 +1,622 @@
+{
+  "restaurant": "Clean Eatz",
+  "total_items": 87,
+  "pages_extracted": 3,
+  "total_search_results": 122,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:50:35.666Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/clean_eatz.json",
+  "items": [
+    {
+      "food_id": "69197996",
+      "food_name": "Red Onions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/red-onions",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83941548",
+      "food_name": "Pretzel Bites w/ Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/pretzel-bites-w-queso",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83941535",
+      "food_name": "Buffalo Chicken Dip w/ Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/buffalo-chicken-dip-w-chips",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69197917",
+      "food_name": "Veggie Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/veggie-cup",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69197911",
+      "food_name": "Sweet Potato Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/sweet-potato-fries",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69198003",
+      "food_name": "Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/broccoli",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69197974",
+      "food_name": "Shredded Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/shredded-beef",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69197988",
+      "food_name": "Honey Roasted Carrot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/honey-roasted-carrot",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69197894",
+      "food_name": "Arnold Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/arnold-wrap",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69197925",
+      "food_name": "Kale & Quinoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/kale-quinoa",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100035506",
+      "food_name": "Blackened Salmon Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/blackened-salmon-wrap",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69198174",
+      "food_name": "Boneless Wings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/boneless-wings",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69197920",
+      "food_name": "Brown Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/brown-rice",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69197981",
+      "food_name": "Turkey Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/turkey-burger",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69197993",
+      "food_name": "Spinach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/spinach",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69197935",
+      "food_name": "Black Bean Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/black-bean-patty",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69197979",
+      "food_name": "Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/salmon",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69198019",
+      "food_name": "Corn & Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/corn-black-beans",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69197893",
+      "food_name": "Big Boy 2.0 Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/big-boy-20-wrap",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69197908",
+      "food_name": "Apples & PB Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/apples-pb-dip",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84048702",
+      "food_name": "Chicken & The Egg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/chicken-the-egg",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69197921",
+      "food_name": "Rosemary Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/rosemary-potatoes",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69197927",
+      "food_name": "Penne Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/penne-pasta",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69198004",
+      "food_name": "Zucchini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/zucchini",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69198039",
+      "food_name": "Queso Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/queso-sauce",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83941562",
+      "food_name": "CE Chipotle Ranch Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/ce-chipotle-ranch-sauce",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83941571",
+      "food_name": "CE Sweet Chili Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/ce-sweet-chili-sauce",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69198016",
+      "food_name": "Mushrooms",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/mushrooms",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69198020",
+      "food_name": "Epic Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/epic-sauce",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69197998",
+      "food_name": "Brussels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/brussels",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83941569",
+      "food_name": "CE Thai Peanut Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/ce-thai-peanut-sauce",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69198037",
+      "food_name": "CE Teriyaki Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/ce-teriyaki-sauce",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172128",
+      "food_name": "Kale Pesto Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/kale-pesto-sauce",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172158",
+      "food_name": "CE Ranch Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/ce-ranch-sauce",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172161",
+      "food_name": "CE Marinara Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/ce-marinara-sauce",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172164",
+      "food_name": "Mac & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/mac-cheese",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172195",
+      "food_name": "Southwest Bison Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/southwest-bison-wrap",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172225",
+      "food_name": "Kidz Mac & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/kidz-mac-cheese",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172191",
+      "food_name": "Epic Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/epic-chicken-wrap",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172253",
+      "food_name": "Philly Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/philly-flatbread",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172124",
+      "food_name": "CE Buffalo Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/ce-buffalo-sauce",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172218",
+      "food_name": "Bunless Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/bunless-burger",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172269",
+      "food_name": "Frozen Chocolate Banana Smoothie - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/frozen-chocolate-banana-smoothie-16-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172273",
+      "food_name": "Frozen Chocolate Banana Smoothie - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/frozen-chocolate-banana-smoothie-24-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172292",
+      "food_name": "Straw-Nana Blast Smoothie - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/straw-nana-blast-smoothie-24-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172256",
+      "food_name": "Bacon Chx Ranch Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/bacon-chx-ranch-flatbread",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172282",
+      "food_name": "Dirty Peanut Smoothie - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/dirty-peanut-smoothie-24-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172305",
+      "food_name": "Skinny Vanilla - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/skinny-vanilla-16-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172297",
+      "food_name": "Mocha Madness - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/mocha-madness-16-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172312",
+      "food_name": "Chocolate Peanut Butter - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/chocolate-peanut-butter-24-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172316",
+      "food_name": "Nugget Dinner (Excludes Sauce)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/nugget-dinner-(excludes-sauce)",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172265",
+      "food_name": "Raspberry Lemonade Smoothie - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/raspberry-lemonade-smoothie-16-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172323",
+      "food_name": "Bison",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/bison",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107121112",
+      "food_name": "XL PUB CHICKEN",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/xl-pub-chicken",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172062",
+      "food_name": "NSA BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/nsa-bbq-sauce",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69198013",
+      "food_name": "Asparagus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/asparagus",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172168",
+      "food_name": "Steamed Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/steamed-broccoli",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172170",
+      "food_name": "Spinach Base",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/spinach-base",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172199",
+      "food_name": "Bang Bang Shrimp Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/bang-bang-shrimp-wrap",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172189",
+      "food_name": "Green Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/green-peppers",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172171",
+      "food_name": "Breaded Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/breaded-chicken",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172176",
+      "food_name": "Shrimp (6 Pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/shrimp-(6-pcs)",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172181",
+      "food_name": "Turkey Burnt Ends",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/turkey-burnt-ends",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172185",
+      "food_name": "Root Vegetable Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/root-vegetable-blend",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172186",
+      "food_name": "Edamame",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/edamame",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172202",
+      "food_name": "Buffalo Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/buffalo-chicken-wrap",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172230",
+      "food_name": "Kidz Pizza Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/kidz-pizza-rolls",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172239",
+      "food_name": "Kidz Boneless Wings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/kidz-boneless-wings",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172268",
+      "food_name": "Raspberry Lemonade Smoothie - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/raspberry-lemonade-smoothie-24-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172263",
+      "food_name": "Turkey Burnt End Cuban Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/turkey-burnt-end-cuban-flatbread",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172247",
+      "food_name": "BBQ Chicken Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/bbq-chicken-flatbread",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172206",
+      "food_name": "Chicken Pesto Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/chicken-pesto-wrap",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172224",
+      "food_name": "BBQ Swiss Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/bbq-swiss-burger",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172210",
+      "food_name": "Cleaneatz Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/cleaneatz-burger",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172245",
+      "food_name": "Kidz Turkey Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/kidz-turkey-burger",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172311",
+      "food_name": "Chocolate Peanut Butter - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/chocolate-peanut-butter-16-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172321",
+      "food_name": "Diced Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/diced-chicken",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172289",
+      "food_name": "Berry Berry Good Smoothie - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/berry-berry-good-smoothie-24-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172290",
+      "food_name": "Straw-Nana Blast Smoothie - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/straw-nana-blast-smoothie-16-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172293",
+      "food_name": "Chocolate Covered Strawberry Smoothie - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/chocolate-covered-strawberry-smoothie-16-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172277",
+      "food_name": "Dirty Peanut Smoothie - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/dirty-peanut-smoothie-16-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172298",
+      "food_name": "Mocha Madness - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/mocha-madness-24-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172296",
+      "food_name": "Chocolate Covered Strawberry Smoothie - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/chocolate-covered-strawberry-smoothie-24-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172286",
+      "food_name": "Berry Berry Good Smoothie - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/berry-berry-good-smoothie-16-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172306",
+      "food_name": "Skinny Vanilla - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/skinny-vanilla-24-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106172303",
+      "food_name": "Caramel Macchiato - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/caramel-macchiato-24-oz",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107110685",
+      "food_name": "Teriyaki Chicken Stir Fry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/clean-eatz/teriyaki-chicken-stir-fry",
+      "brand_name": "Clean Eatz",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Shake Smart",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 1478,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:55:17.097Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/shake_smart.json",
+  "items": [
+    {
+      "food_id": "65974001",
+      "food_name": "Pb Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/shake-smart/pb-sandwich",
+      "brand_name": "Shake Smart",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72871281",
+      "food_name": "Chocolate Frosty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/shake-smart/chocolate-frosty",
+      "brand_name": "Shake Smart",
+      "food_type": "Brand"
+    }
+  ]
+}

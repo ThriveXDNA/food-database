@@ -1,0 +1,713 @@
+{
+  "restaurant": "Baja Fresh Mexican Grill",
+  "total_items": 100,
+  "pages_extracted": 6,
+  "total_search_results": 1921,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:22:53.813Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/baja_fresh_mexican_grill.json",
+  "items": [
+    {
+      "food_id": "70486",
+      "food_name": "Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/tortilla-chips",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192060",
+      "food_name": "Original Shrimp Baja Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/original-shrimp-baja-taco",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192076",
+      "food_name": "Fried Baja Breaded Fish Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/fried-baja-breaded-fish-taco",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47355",
+      "food_name": "Breaded Fish Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/breaded-fish-taco",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192099",
+      "food_name": "Torta without Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/torta-without-chips",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78758",
+      "food_name": "Baja Burrito - Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/baja-burrito---steak",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192863",
+      "food_name": "Veggie Mix (Grilled Peppers, Chilies and Onions)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/veggie-mix-(grilled-peppers-chilies-and-onions)",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78770",
+      "food_name": "Burrito Mexicano - Carnitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/burrito-mexicano---carnitas",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192058",
+      "food_name": "Original Carnitas Baja Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/original-carnitas-baja-taco",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192858",
+      "food_name": "Rice & Beans Plate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/rice-and-beans-plate",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47865",
+      "food_name": "Baja Chicken Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/baja-chicken-burrito",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192061",
+      "food_name": "Americano Steak Soft Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/americano-steak-soft-taco",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78766",
+      "food_name": "Baja Burrito - Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/baja-burrito---shrimp",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192100",
+      "food_name": "Steak Fajita with Flour Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/steak-fajita-with-flour-tortillas",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78769",
+      "food_name": "Burrito Mexicano - Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/burrito-mexicano---steak",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78765",
+      "food_name": "Baja Burrito - Carnitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/baja-burrito---carnitas",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192064",
+      "food_name": "Americano Shrimp Soft Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/americano-shrimp-soft-taco",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "189171",
+      "food_name": "Burrito Bean and Cheese - Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/burrito-bean-and-cheese---steak",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192857",
+      "food_name": "Side Pico de Gallo (8 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/side-pico-de-gallo-(8-oz)",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192096",
+      "food_name": "Torta with Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/torta-with-chips",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1809031",
+      "food_name": "Guacamole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/guacamole",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192763",
+      "food_name": "Shrimp Fajita with Flour Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/shrimp-fajita-with-flour-tortillas",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "191307",
+      "food_name": "Grilled Veggie Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/grilled-veggie-burrito",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192754",
+      "food_name": "Chicken Fajita with Flour Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/chicken-fajita-with-flour-tortillas",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192764",
+      "food_name": "Shrimp Fajita with Corn Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/shrimp-fajita-with-corn-tortillas",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74982",
+      "food_name": "Burrito Mexicano - Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/burrito-mexicano---chicken",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "231241",
+      "food_name": "Churros",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/churros",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192859",
+      "food_name": "Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/rice",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192875",
+      "food_name": "Side Corn Tortilla Chips (1 1/2 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/side-corn-tortilla-chips-(1-1-2-oz)",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192057",
+      "food_name": "Original Steak Baja Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/original-steak-baja-taco",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78748",
+      "food_name": "Burrito Ultimo - Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/burrito-ultimo---chicken",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192101",
+      "food_name": "Steak Fajita with Corn Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/steak-fajita-with-corn-tortillas",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192756",
+      "food_name": "Chicken Fajita with Corn Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/chicken-fajita-with-corn-tortillas",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192079",
+      "food_name": "Grilled Mahi Mahi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/grilled-mahi-mahi",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78749",
+      "food_name": "Burrito Ultimo - Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/burrito-ultimo---steak",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78751",
+      "food_name": "Burrito Ultimo - Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/burrito-ultimo---shrimp",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78750",
+      "food_name": "Burrito Ultimo - Carnitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/burrito-ultimo---carnitas",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "189169",
+      "food_name": "Burrito Bean and Cheese - Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/burrito-bean-and-cheese---chicken",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70483",
+      "food_name": "Original Chicken Baja Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/original-chicken-baja-taco",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192075",
+      "food_name": "Americano Mahi Mahi Soft Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/americano-mahi-mahi-soft-taco",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192091",
+      "food_name": "Savory Pork Carnitas Nachos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/savory-pork-carnitas-nachos",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9375773",
+      "food_name": "Bare Shrimp Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/bare-shrimp-burrito",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77191",
+      "food_name": "Americano Chicken Soft Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/americano-chicken-soft-taco",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2043487",
+      "food_name": "Fire-Grilled Chicken Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/fire-grilled-chicken-caesar-salad",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9012489",
+      "food_name": "Baja Bowl Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/baja-bowl-steak",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78772",
+      "food_name": "Burrito Mexicano - Breaded Fish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/burrito-mexicano---breaded-fish",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4645229",
+      "food_name": "Fully Loaded Chicken Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/fully-loaded-chicken-bowl",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90552",
+      "food_name": "Chicken & Cheese Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/chicken-and-cheese-quesadilla",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192062",
+      "food_name": "Americano Carnitas Soft Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/americano-carnitas-soft-taco",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10521309",
+      "food_name": "Grilled Shrimp Chile Lime Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/grilled-shrimp-chile-lime-salad",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192092",
+      "food_name": "Charbroiled Shrimp Nachos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/charbroiled-shrimp-nachos",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1942620",
+      "food_name": "Diablo Shrimp Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/diablo-shrimp-burrito",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1778989",
+      "food_name": "Skinny Chicken Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/skinny-chicken-bowl",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74984",
+      "food_name": "Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/black-beans",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192864",
+      "food_name": "Side Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/side-steak",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2479445",
+      "food_name": "Steak & Shrimp Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/steak-and-shrimp-bowl",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192827",
+      "food_name": "Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/ranch-dressing",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8277524",
+      "food_name": "Baja BBQ Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/baja-bbq-chicken-salad",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192086",
+      "food_name": "Charbroiled Shrimp Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/charbroiled-shrimp-quesadilla",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "189172",
+      "food_name": "Burrito Bean and Cheese - Carnitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/burrito-bean-and-cheese---carnitas",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192854",
+      "food_name": "Side Salsa Baja (8 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/side-salsa-baja-(8-oz)",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78757",
+      "food_name": "Baja Burrito - Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/baja-burrito---chicken",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192867",
+      "food_name": "Side Carnitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/side-carnitas",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192869",
+      "food_name": "Side Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/side-shrimp",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70484",
+      "food_name": "Tortilla Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/tortilla-soup",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192103",
+      "food_name": "Steak Fajita with Mixed Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/steak-fajita-with-mixed-tortillas",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192862",
+      "food_name": "Pinto Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/pinto-beans",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78771",
+      "food_name": "Burrito Mexicano - Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/burrito-mexicano---shrimp",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78664",
+      "food_name": "Baja Ensalada - Charbroiled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/baja-ensalada---charbroiled-chicken",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192840",
+      "food_name": "Side Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/side-salad",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192841",
+      "food_name": "Chips & Guacamole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/chips-and-guacamole",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192806",
+      "food_name": "Baja Ensalada - Charbroiled Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/baja-ensalada---charbroiled-shrimp",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "189167",
+      "food_name": "Burrito Bean and Cheese - No Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/burrito-bean-and-cheese---no-meat",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192082",
+      "food_name": "Veggie Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/veggie-quesadilla",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "191373",
+      "food_name": "Bare Carnitas Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/bare-carnitas-burrito",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192080",
+      "food_name": "Cheese Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/cheese-quesadilla",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192812",
+      "food_name": "Charbroiled Steak Tostada Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/charbroiled-steak-tostada-salad",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192814",
+      "food_name": "Savory Pork Carnitas Tostada Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/savory-pork-carnitas-tostada-salad",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192856",
+      "food_name": "Side Salsa Roja (8 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/side-salsa-roja-(8-oz)",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94167",
+      "food_name": "Charbroiled Chicken Tostada Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/charbroiled-chicken-tostada-salad",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192831",
+      "food_name": "Chicken Taquitos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/chicken-taquitos",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192787",
+      "food_name": "Baja Ensalada - Charbroiled Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/baja-ensalada---charbroiled-steak",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "191381",
+      "food_name": "Bare Veggie and Cheese Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/bare-veggie-and-cheese-burrito",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192758",
+      "food_name": "Chicken Fajita with Mixed Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/chicken-fajita-with-mixed-tortillas",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3956681",
+      "food_name": "Grilled Wahoo Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/grilled-wahoo-taco",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192090",
+      "food_name": "Charbroiled Chicken Nachos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/charbroiled-chicken-nachos",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192865",
+      "food_name": "Side Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/side-chicken",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42449",
+      "food_name": "Nachos - Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/nachos---cheese",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78767",
+      "food_name": "Baja Burrito - Breaded Fish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/baja-burrito---breaded-fish",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "191382",
+      "food_name": "Enchilado Style Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/enchilado-style-burrito",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192762",
+      "food_name": "Carnitas Fajita with Mixed Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/carnitas-fajita-with-mixed-tortillas",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192837",
+      "food_name": "Mini Cheese Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/mini-cheese-quesadilla",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192839",
+      "food_name": "Mini Cheese Quesadilla with Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/mini-cheese-quesadilla-with-chicken",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192759",
+      "food_name": "Carnitas Fajita with Flour Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/carnitas-fajita-with-flour-tortillas",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66260",
+      "food_name": "Chicken Burrito Bare",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/chicken-burrito-bare",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192085",
+      "food_name": "Savory Pork Carnitas Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/savory-pork-carnitas-quesadilla",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192816",
+      "food_name": "Charbroiled Shrimp Tostada Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/charbroiled-shrimp-tostada-salad",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192824",
+      "food_name": "Olive Oil Vinaigrette Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/olive-oil-vinaigrette-salad-dressing",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192834",
+      "food_name": "Mini Bean and Cheese Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/mini-bean-and-cheese-burrito",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78752",
+      "food_name": "Burrito Ultimo - Breaded Fish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/burrito-ultimo---breaded-fish",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Argentina",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:07:09.340Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/argentina.json",
+  "items": [
+    {
+      "food_id": "38592571",
+      "food_name": "Corned Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/argentina/corned-beef",
+      "brand_name": "Argentina",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34837710",
+      "food_name": "Corned Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/argentina/corned-chicken",
+      "brand_name": "Argentina",
+      "food_type": "Brand"
+    }
+  ]
+}

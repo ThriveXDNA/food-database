@@ -1,0 +1,69 @@
+{
+  "restaurant": "Mama Lucia",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 29,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:51:19.553Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mama_lucia.json",
+  "items": [
+    {
+      "food_id": "1593574",
+      "food_name": "Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mama-lucia/meatballs",
+      "brand_name": "Mama Lucia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "759052",
+      "food_name": "Italian Style Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mama-lucia/italian-style-meatballs",
+      "brand_name": "Mama Lucia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24469887",
+      "food_name": "Beef Bite Size Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mama-lucia/beef-bite-size-meatballs",
+      "brand_name": "Mama Lucia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20005888",
+      "food_name": "Beef Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mama-lucia/beef-meatballs",
+      "brand_name": "Mama Lucia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2683817",
+      "food_name": "Fully Cooked Italian-Style Turkey Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mama-lucia/fully-cooked-italian-style-turkey-meatballs",
+      "brand_name": "Mama Lucia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43079668",
+      "food_name": "Italian Style Bite Size Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mama-lucia/italian-style-bite-size-meatballs",
+      "brand_name": "Mama Lucia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17777019",
+      "food_name": "Italian Style Dinner Size Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mama-lucia/italian-style-dinner-size-meatballs",
+      "brand_name": "Mama Lucia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54440486",
+      "food_name": "Turkey Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mama-lucia/turkey-meatballs",
+      "brand_name": "Mama Lucia",
+      "food_type": "Brand"
+    }
+  ]
+}

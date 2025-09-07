@@ -1,0 +1,48 @@
+{
+  "restaurant": "Sorbabes",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:38:53.257Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sorbabes.json",
+  "items": [
+    {
+      "food_id": "73439773",
+      "food_name": "Mango Coconut Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sorbabes/mango-coconut-crunch",
+      "brand_name": "Sorbabes",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23006249",
+      "food_name": "Raz'n Berry Sorbet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sorbabes/razn-berry-sorbet",
+      "brand_name": "Sorbabes",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43689597",
+      "food_name": "Vanilla Caramel Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sorbabes/vanilla-caramel-crunch",
+      "brand_name": "Sorbabes",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24928427",
+      "food_name": "Pistachio & Caramel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sorbabes/pistachio-caramel",
+      "brand_name": "Sorbabes",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28704973",
+      "food_name": "Cafe Almond",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sorbabes/cafe-almond",
+      "brand_name": "Sorbabes",
+      "food_type": "Brand"
+    }
+  ]
+}

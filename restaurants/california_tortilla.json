@@ -1,0 +1,699 @@
+{
+  "restaurant": "California Tortilla",
+  "total_items": 98,
+  "pages_extracted": 7,
+  "total_search_results": 1672,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:20:43.693Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/california_tortilla.json",
+  "items": [
+    {
+      "food_id": "74433689",
+      "food_name": "Chips & Salsa - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/chips-salsa-small",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2453521",
+      "food_name": "Carnitas Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/carnitas-taco",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433531",
+      "food_name": "Blackened Fish Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/blackened-fish-taco",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2453538",
+      "food_name": "Rice and Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/rice-and-beans",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1670500",
+      "food_name": "BBQ Chicken Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/bbq-chicken-quesadilla",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247348",
+      "food_name": "Fajita Bowl - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/fajita-bowl-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247350",
+      "food_name": "Fajita Bowl - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/fajita-bowl-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433537",
+      "food_name": "Korean BBQ Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/korean-bbq-taco",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433705",
+      "food_name": "Big Ol’ Chocolate Chunk Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/big-ol%E2%80%99-chocolate-chunk-cookie",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433417",
+      "food_name": "Fajita Burrito - Tortilla (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/fajita-burrito-tortilla-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2626558",
+      "food_name": "Mixed Grill Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/mixed-grill-bowl",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433367",
+      "food_name": "Fajita Burrito - Tortilla (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/fajita-burrito-tortilla-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433681",
+      "food_name": "Chips & Queso - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/chips-queso-small",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433391",
+      "food_name": "Korean BBQ Burrito - Tortilla (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/korean-bbq-burrito-tortilla-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2170007",
+      "food_name": "Southwestern Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/southwestern-salad",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433666",
+      "food_name": "Mexican Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/mexican-rice",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433493",
+      "food_name": "Carnitas Verde Burrito - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/carnitas-verde-burrito-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433822",
+      "food_name": "Carnitas Verde Burrito - Tortilla (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/carnitas-verde-burrito-tortilla-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433517",
+      "food_name": "Fajita Burrito - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/fajita-burrito-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433714",
+      "food_name": "Mini Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/mini-burrito",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247756",
+      "food_name": "California Screamin' Bowl - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/california-screamin-bowl-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433504",
+      "food_name": "Korean BBQ Burrito - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/korean-bbq-burrito-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433625",
+      "food_name": "Chicken Club Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/chicken-club-taco",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433654",
+      "food_name": "Nachos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/nachos",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433657",
+      "food_name": "Fajitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/fajitas",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433685",
+      "food_name": "Chips & Salsa - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/chips-salsa-large",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247236",
+      "food_name": "Carnitas Verde Bowl - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/carnitas-verde-bowl-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433439",
+      "food_name": "Carnitas Verde Burrito - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/carnitas-verde-burrito-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433478",
+      "food_name": "Fajita Burrito - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/fajita-burrito-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433640",
+      "food_name": "CBT (Chicken Bacon Tomato) Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/cbt-(chicken-bacon-tomato)-quesadilla",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433676",
+      "food_name": "Chips & Guac - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/chips-guac-small",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433324",
+      "food_name": "Bacon Chicken Club Burrito - Tortilla (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/bacon-chicken-club-burrito-tortilla-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433423",
+      "food_name": "Classic Burrito - Tortilla (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/classic-burrito-tortilla-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433522",
+      "food_name": "Classic Burrito - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/classic-burrito-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433720",
+      "food_name": "Cheeseburger Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/cheeseburger-taco",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247712",
+      "food_name": "No-Meato Bowl - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/no-meato-bowl-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433330",
+      "food_name": "Carnitas Verde Burrito - Tortilla (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/carnitas-verde-burrito-tortilla-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433421",
+      "food_name": "California Screamin’ Burrito - Tortilla (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/california-screamin%E2%80%99-burrito-tortilla-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433490",
+      "food_name": "Crunchy BBQ Ranch Burrito - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/crunchy-bbq-ranch-burrito-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433535",
+      "food_name": "Screamin’ Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/screamin%E2%80%99-taco",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433636",
+      "food_name": "Caribbean Mango Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/caribbean-mango-salad",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433645",
+      "food_name": "Classic Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/classic-quesadilla",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10232791",
+      "food_name": "Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/brownie",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433488",
+      "food_name": "Classic Burrito - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/classic-burrito-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433631",
+      "food_name": "Classic Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/classic-taco",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433707",
+      "food_name": "Make Your Own with Taco Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/make-your-own-with-taco-beef",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247232",
+      "food_name": "Carnitas Verde Bowl - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/carnitas-verde-bowl-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433411",
+      "food_name": "Honey Lime Burrito - Tortilla (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/honey-lime-burrito-tortilla-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247290",
+      "food_name": "Honey Lime Bowl - Tortilla (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/honey-lime-bowl-tortilla-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433401",
+      "food_name": "No-Meato Burrito - Tortilla (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/no-meato-burrito-tortilla-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433379",
+      "food_name": "Classic Burrito - Tortilla (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/classic-burrito-tortilla-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247341",
+      "food_name": "Fajita Bowl - Tortilla (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/fajita-bowl-tortilla-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247345",
+      "food_name": "Fajita Bowl - Tortilla (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/fajita-bowl-tortilla-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433486",
+      "food_name": "California Screamin’ Burrito - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/california-screamin%E2%80%99-burrito-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433520",
+      "food_name": "California Screamin’ Burrito - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/california-screamin%E2%80%99-burrito-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247773",
+      "food_name": "California Screamin' Bowl - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/california-screamin-bowl-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433528",
+      "food_name": "California Sunset Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/california-sunset-bowl",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433370",
+      "food_name": "California Screamin’ Burrito - Tortilla (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/california-screamin%E2%80%99-burrito-tortilla-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433426",
+      "food_name": "Crunchy BBQ Ranch Burrito - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/crunchy-bbq-ranch-burrito-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433436",
+      "food_name": "Bacon Chicken Club Burrito - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/bacon-chicken-club-burrito-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433466",
+      "food_name": "Blackened Chicken Caesar Burrito - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/blackened-chicken-caesar-burrito-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433468",
+      "food_name": "No-Meato Burrito - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/no-meato-burrito-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433491",
+      "food_name": "Bacon Chicken Club Burrito - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/bacon-chicken-club-burrito-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433525",
+      "food_name": "Enchilada Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/enchilada-bowl",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433662",
+      "food_name": "Side Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/side-salad",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433670",
+      "food_name": "Chips & Guac - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/chips-guac-large",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433679",
+      "food_name": "Chips & Queso - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/chips-queso-large",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433709",
+      "food_name": "Make Your Own with Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/make-your-own-with-chicken",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433723",
+      "food_name": "Kids-Adilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/kids-adilla",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247168",
+      "food_name": "Turkey Chili - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/turkey-chili-bowl",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247291",
+      "food_name": "Honey Lime Bowl - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/honey-lime-bowl-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247294",
+      "food_name": "Honey Lime Bowl - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/honey-lime-bowl-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247313",
+      "food_name": "Crunch BBQ Ranch Bowl - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/crunch-bbq-ranch-bowl-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247331",
+      "food_name": "Blackened Chicken Caesar Bowl - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/blackened-chicken-caesar-bowl-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1862813",
+      "food_name": "Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/black-beans",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433464",
+      "food_name": "Korean BBQ Burrito - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/korean-bbq-burrito-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433471",
+      "food_name": "Honey Lime Burrito - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/honey-lime-burrito-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433505",
+      "food_name": "Blackened Chicken Caesar Burrito - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/blackened-chicken-caesar-burrito-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433507",
+      "food_name": "No-Meato Burrito - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/no-meato-burrito-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433514",
+      "food_name": "Honey Lime Burrito - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/honey-lime-burrito-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433643",
+      "food_name": "Special-Dilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/special-dilla",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247178",
+      "food_name": "Turkey Chili - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/turkey-chili-cup",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247312",
+      "food_name": "Crunch BBQ Ranch Bowl - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/crunch-bbq-ranch-bowl-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247330",
+      "food_name": "Blackened Chicken Caesar Bowl - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/blackened-chicken-caesar-bowl-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247696",
+      "food_name": "Bacon Chicken Club Bowl - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/bacon-chicken-club-bowl-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247700",
+      "food_name": "Bacon Chicken Club Bowl - Bowl (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/bacon-chicken-club-bowl-bowl-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247705",
+      "food_name": "No-Meato Bowl - Bowl (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/no-meato-bowl-bowl-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433318",
+      "food_name": "Crunchy BBQ Ranch Burrito - Tortilla (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/crunchy-bbq-ranch-burrito-tortilla-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433357",
+      "food_name": "Blackened Chicken Caesar Burrito - Tortilla (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/blackened-chicken-caesar-burrito-tortilla-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433384",
+      "food_name": "Crunchy BBQ Ranch Burrito - Tortilla (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/crunchy-bbq-ranch-burrito-tortilla-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247306",
+      "food_name": "Crunch BBQ Ranch Bowl - Tortilla (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/crunch-bbq-ranch-bowl-tortilla-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247327",
+      "food_name": "Blackened Chicken Caesar Bowl - Tortilla (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/blackened-chicken-caesar-bowl-tortilla-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247690",
+      "food_name": "Bacon Chicken Club Bowl - Tortilla (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/bacon-chicken-club-bowl-tortilla-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433387",
+      "food_name": "Bacon Chicken Club Burrito - Tortilla (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/bacon-chicken-club-burrito-tortilla-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433392",
+      "food_name": "Blackened Chicken Caesar Burrito - Tortilla (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/blackened-chicken-caesar-burrito-tortilla-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247308",
+      "food_name": "Crunch BBQ Ranch Bowl - Tortilla (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/crunch-bbq-ranch-bowl-tortilla-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247314",
+      "food_name": "Blackened Chicken Caesar Bowl - Tortilla (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/blackened-chicken-caesar-bowl-tortilla-(small)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87247694",
+      "food_name": "Bacon Chicken Club Bowl - Tortilla (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/bacon-chicken-club-bowl-tortilla-(regular)",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "restaurant": "Pokka",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:08:39.774Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pokka.json",
+  "items": [
+    {
+      "food_id": "5650277",
+      "food_name": "Milk Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pokka/milk-coffee",
+      "brand_name": "Pokka",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15419892",
+      "food_name": "Green Tea Jasmine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pokka/green-tea-jasmine",
+      "brand_name": "Pokka",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "680194",
+      "food_name": "Oolong Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pokka/oolong-tea",
+      "brand_name": "Pokka",
+      "food_type": "Brand"
+    }
+  ]
+}

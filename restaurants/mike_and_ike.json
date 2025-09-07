@@ -1,0 +1,83 @@
+{
+  "restaurant": "Mike and Ike",
+  "total_items": 10,
+  "pages_extracted": 6,
+  "total_search_results": 2130,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:27:36.007Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mike_and_ike.json",
+  "items": [
+    {
+      "food_id": "3833822",
+      "food_name": "Original Fruits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mike-and-ike/original-fruits",
+      "brand_name": "Mike and Ike",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34128742",
+      "food_name": "Mega Mix Sour",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mike-and-ike/mega-mix-sour",
+      "brand_name": "Mike and Ike",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2391623",
+      "food_name": "Original Fruits (22g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mike-and-ike/original-fruits-(22g)",
+      "brand_name": "Mike and Ike",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1451863",
+      "food_name": "Berry Blast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mike-and-ike/berry-blast",
+      "brand_name": "Mike and Ike",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45685",
+      "food_name": "Tropical Typhoon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mike-and-ike/tropical-typhoon",
+      "brand_name": "Mike and Ike",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20843946",
+      "food_name": "Mega Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mike-and-ike/mega-mix",
+      "brand_name": "Mike and Ike",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70066",
+      "food_name": "Original Fruits (60g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mike-and-ike/original-fruits-(60g)",
+      "brand_name": "Mike and Ike",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "229886",
+      "food_name": "Italian Ice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mike-and-ike/italian-ice",
+      "brand_name": "Mike and Ike",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5170732",
+      "food_name": "Jelly Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mike-and-ike/jelly-beans",
+      "brand_name": "Mike and Ike",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1633596",
+      "food_name": "Zours (Package)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mike-and-ike/zours-(package)",
+      "brand_name": "Mike and Ike",
+      "food_type": "Brand"
+    }
+  ]
+}

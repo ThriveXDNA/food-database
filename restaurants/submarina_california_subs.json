@@ -1,0 +1,55 @@
+{
+  "restaurant": "Submarina California Subs",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 667,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:58:18.868Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/submarina_california_subs.json",
+  "items": [
+    {
+      "food_id": "2477917",
+      "food_name": "6\" Italian Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/submarina-california-subs/6-italian-sub",
+      "brand_name": "Submarina California Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2552570",
+      "food_name": "6\" Oven Roasted Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/submarina-california-subs/6-oven-roasted-chicken",
+      "brand_name": "Submarina California Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2391746",
+      "food_name": "6\" Chicken Club",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/submarina-california-subs/6-chicken-club",
+      "brand_name": "Submarina California Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2478056",
+      "food_name": "6\" Cali Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/submarina-california-subs/6-cali-sub",
+      "brand_name": "Submarina California Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1963216",
+      "food_name": "6\" East Coast Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/submarina-california-subs/6-east-coast-sub",
+      "brand_name": "Submarina California Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "799455",
+      "food_name": "6\" Hot Pastrami Melt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/submarina-california-subs/6-hot-pastrami-melt",
+      "brand_name": "Submarina California Subs",
+      "food_type": "Brand"
+    }
+  ]
+}

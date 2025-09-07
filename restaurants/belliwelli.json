@@ -1,0 +1,41 @@
+{
+  "restaurant": "Belliwelli",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:03:41.754Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/belliwelli.json",
+  "items": [
+    {
+      "food_id": "101295628",
+      "food_name": "Daily Fiber and Probiotics",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/belliwelli/daily-fiber-and-probiotics",
+      "brand_name": "Belliwelli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75904010",
+      "food_name": "Dark Chocolate Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/belliwelli/dark-chocolate-peanut-butter",
+      "brand_name": "Belliwelli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55274397",
+      "food_name": "Cinnamon Swirl Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/belliwelli/cinnamon-swirl-bar",
+      "brand_name": "Belliwelli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76523400",
+      "food_name": "Dark Chocolate Peanut Butter Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/belliwelli/dark-chocolate-peanut-butter-bar",
+      "brand_name": "Belliwelli",
+      "food_type": "Brand"
+    }
+  ]
+}

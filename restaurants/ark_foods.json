@@ -1,0 +1,83 @@
+{
+  "restaurant": "Ark Foods",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 22,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:49:34.720Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ark_foods.json",
+  "items": [
+    {
+      "food_id": "72692030",
+      "food_name": "Crunchy Sesame Ramen Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ark-foods/crunchy-sesame-ramen-salad",
+      "brand_name": "Ark Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67896859",
+      "food_name": "Shishito Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ark-foods/shishito-peppers",
+      "brand_name": "Ark Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89839270",
+      "food_name": "Honeynut Squash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ark-foods/honeynut-squash",
+      "brand_name": "Ark Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65304685",
+      "food_name": "Caesar-ish Kale Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ark-foods/caesar-ish-kale-salad",
+      "brand_name": "Ark foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73950238",
+      "food_name": "Korean BBQ Stir Fry Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ark-foods/korean-bbq-stir-fry-kit",
+      "brand_name": "Ark Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62037938",
+      "food_name": "Southern BBQ Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ark-foods/southern-bbq-ranch",
+      "brand_name": "Ark Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41959347",
+      "food_name": "Sesame Veg Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ark-foods/sesame-veg-noodles",
+      "brand_name": "Ark Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44646835",
+      "food_name": "Veggie Spaghetti - Pesto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ark-foods/veggie-spaghetti-pesto",
+      "brand_name": "Ark Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29887866",
+      "food_name": "Veggie Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ark-foods/veggie-spaghetti",
+      "brand_name": "Ark Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44366268",
+      "food_name": "Cauli Mac & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ark-foods/cauli-mac-cheese",
+      "brand_name": "Ark Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

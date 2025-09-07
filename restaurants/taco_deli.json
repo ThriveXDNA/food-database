@@ -1,0 +1,48 @@
+{
+  "restaurant": "Taco Deli",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 1993,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:29:56.187Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/taco_deli.json",
+  "items": [
+    {
+      "food_id": "44134306",
+      "food_name": "Migas Breakfast Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-deli/migas-breakfast-taco",
+      "brand_name": "Taco Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53628972",
+      "food_name": "Salsa Dona",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-deli/salsa-dona",
+      "brand_name": "Taco Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19540252",
+      "food_name": "Jess Special",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-deli/jess-special",
+      "brand_name": "Taco Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59493505",
+      "food_name": "Cowboy Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-deli/cowboy-taco",
+      "brand_name": "Taco Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22159787",
+      "food_name": "The Otto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-deli/the-otto",
+      "brand_name": "Taco Deli",
+      "food_type": "Brand"
+    }
+  ]
+}

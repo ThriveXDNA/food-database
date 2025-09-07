@@ -1,0 +1,20 @@
+{
+  "restaurant": "Sunneen Health Foods",
+  "total_items": 1,
+  "pages_extracted": 2,
+  "total_search_results": 83,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:48:36.879Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sunneen_health_foods.json",
+  "items": [
+    {
+      "food_id": "11615450",
+      "food_name": "Vegetarian Chicken Delux",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunneen-health-foods/vegetarian-chicken-delux",
+      "brand_name": "Sunneen Health Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

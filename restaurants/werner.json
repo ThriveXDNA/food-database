@@ -1,0 +1,55 @@
+{
+  "restaurant": "Werner",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:56:11.320Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/werner.json",
+  "items": [
+    {
+      "food_id": "43238834",
+      "food_name": "Smoked Meat Stick Pepperoni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/werner/smoked-meat-stick-pepperoni",
+      "brand_name": "Werner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9533365",
+      "food_name": "All Natural Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/werner/all-natural-beef-jerky",
+      "brand_name": "Werner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9858551",
+      "food_name": "Bite Size Sausage Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/werner/bite-size-sausage-sticks",
+      "brand_name": "Werner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3875279",
+      "food_name": "Teriyaki Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/werner/teriyaki-stick",
+      "brand_name": "Werner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104049922",
+      "food_name": "Original Mini Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/werner/original-mini-sausage",
+      "brand_name": "Werner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91675450",
+      "food_name": "Sweet Hot Crunch Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/werner/sweet-hot-crunch-mix",
+      "brand_name": "Werner",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "restaurant": "Rio Star Foods",
+  "total_items": 1,
+  "pages_extracted": 2,
+  "total_search_results": 83,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:11:39.068Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rio_star_foods.json",
+  "items": [
+    {
+      "food_id": "46990080",
+      "food_name": "Chicken Wings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rio-star-foods/chicken-wings",
+      "brand_name": "Rio Star Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

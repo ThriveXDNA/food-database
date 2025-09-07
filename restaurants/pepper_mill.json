@@ -1,0 +1,55 @@
+{
+  "restaurant": "Pepper Mill",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 2042,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:03:45.059Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pepper_mill.json",
+  "items": [
+    {
+      "food_id": "2751207",
+      "food_name": "Buttermilk Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pepper-mill/buttermilk-ranch-dressing",
+      "brand_name": "Pepper Mill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9656430",
+      "food_name": "Classic Italian Dressing (Packet)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pepper-mill/classic-italian-dressing-(packet)",
+      "brand_name": "Pepper Mill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6604178",
+      "food_name": "Mediterranean Feta Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pepper-mill/mediterranean-feta-dressing",
+      "brand_name": "Pepper Mill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1174465",
+      "food_name": "Fat Free Raspberry Vinaigrette Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pepper-mill/fat-free-raspberry-vinaigrette-dressing",
+      "brand_name": "Pepper Mill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5562052",
+      "food_name": "Royal Red Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pepper-mill/royal-red-dressing",
+      "brand_name": "Pepper Mill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13436494",
+      "food_name": "Balsamic Vinaigrette Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pepper-mill/balsamic-vinaigrette-dressing",
+      "brand_name": "Pepper Mill",
+      "food_type": "Brand"
+    }
+  ]
+}

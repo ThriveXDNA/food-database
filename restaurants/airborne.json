@@ -1,0 +1,55 @@
+{
+  "restaurant": "Airborne",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:57:39.199Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/airborne.json",
+  "items": [
+    {
+      "food_id": "14298414",
+      "food_name": "Gummies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/airborne/gummies",
+      "brand_name": "Airborne",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "292015",
+      "food_name": "Original Zesty Orange Formula",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/airborne/original-zesty-orange-formula",
+      "brand_name": "Airborne",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37012471",
+      "food_name": "Elderberry Gummies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/airborne/elderberry-gummies",
+      "brand_name": "Airborne",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1495528",
+      "food_name": "Very Berry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/airborne/very-berry",
+      "brand_name": "Airborne",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6789468",
+      "food_name": "Chewable Tablets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/airborne/chewable-tablets",
+      "brand_name": "Airborne",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86960",
+      "food_name": "Lemon Lime Formula",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/airborne/lemon-lime-formula",
+      "brand_name": "Airborne",
+      "food_type": "Brand"
+    }
+  ]
+}

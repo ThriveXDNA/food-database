@@ -1,0 +1,601 @@
+{
+  "restaurant": "Built Bar",
+  "total_items": 84,
+  "pages_extracted": 6,
+  "total_search_results": 3548,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:01:53.918Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/built_bar.json",
+  "items": [
+    {
+      "food_id": "63472913",
+      "food_name": "Brownie Batter Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/brownie-batter-puffs",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56566829",
+      "food_name": "Coconut Marshmallow Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/coconut-marshmallow-puffs",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45858180",
+      "food_name": "Cookie Dough Chunk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/cookie-dough-chunk",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70515104",
+      "food_name": "Cookie Dough Chunk Puff",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/cookie-dough-chunk-puff",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57469751",
+      "food_name": "Churro Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/churro-puffs",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41260298",
+      "food_name": "Coconut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/coconut",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44868823",
+      "food_name": "Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/puffs",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78026384",
+      "food_name": "Mint Chip Puff",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/mint-chip-puff",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31080288",
+      "food_name": "Salted Caramel Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/salted-caramel-chocolate",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31472196",
+      "food_name": "Built Burner",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/built-burner",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57284851",
+      "food_name": "Ruby Chocolate Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/ruby-chocolate-puffs",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70169417",
+      "food_name": "Red Velvet Puff",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/red-velvet-puff",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69697614",
+      "food_name": "Cookie Dough Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/cookie-dough-bar",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41146768",
+      "food_name": "Cookies & Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/cookies-cream",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "102006946",
+      "food_name": "Cookies 'N Cream Puff",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/cookies-n-cream-puff",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41584848",
+      "food_name": "Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/strawberry",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75124120",
+      "food_name": "Double Peanut Butter Puff",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/double-peanut-butter-puff",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39944740",
+      "food_name": "Double Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/double-chocolate",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35021227",
+      "food_name": "Cookie Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/cookie-dough",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59486049",
+      "food_name": "Banana Cream Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/banana-cream-pie",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65325461",
+      "food_name": "Snickerdoodle Chunk Puff",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/snickerdoodle-chunk-puff",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38365165",
+      "food_name": "Mango",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/mango",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40231993",
+      "food_name": "Raspberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/raspberry",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31230253",
+      "food_name": "Coconut Chocolate Creme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/coconut-chocolate-creme",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43989905",
+      "food_name": "Dark Chocolate Cookie Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/dark-chocolate-cookie-dough",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70606721",
+      "food_name": "Coconut Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/coconut-brownie",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31144471",
+      "food_name": "Mint Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/mint-brownie",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40407823",
+      "food_name": "Caramel Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/caramel-brownie",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43125363",
+      "food_name": "Candy Cane Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/candy-cane-brownie",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55220659",
+      "food_name": "Paranormal Pumpkin Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/paranormal-pumpkin-puffs",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59387927",
+      "food_name": "Chocolate Peanut Butter Granola Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/chocolate-peanut-butter-granola-bar",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60527598",
+      "food_name": "Mud Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/mud-pie",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37605162",
+      "food_name": "Pineapple Upside Down Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/pineapple-upside-down-cake",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36149609",
+      "food_name": "Peanut Caramel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/peanut-caramel",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31680934",
+      "food_name": "Peanut Butter Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/peanut-butter-brownie",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50766144",
+      "food_name": "Grasshopper Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/grasshopper-cookie",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40691014",
+      "food_name": "Cherry Barcia",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/cherry-barcia",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32349811",
+      "food_name": "Banana Chocolate Creme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/banana-chocolate-creme",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55399963",
+      "food_name": "Rocky Road",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/rocky-road",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25880112",
+      "food_name": "Raspberry Chocolate Creme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/raspberry-chocolate-creme",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45747146",
+      "food_name": "Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/bites",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45417135",
+      "food_name": "Coconut Brownie Chunk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/coconut-brownie-chunk",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50167669",
+      "food_name": "Birthday Cake with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/birthday-cake-with-sprinkles",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33398833",
+      "food_name": "Banana Nut Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/banana-nut-bread",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62529448",
+      "food_name": "Vanilla Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/vanilla-cream",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47942560",
+      "food_name": "Raspberry Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/raspberry-cheesecake",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55233861",
+      "food_name": "Gingerbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/gingerbread",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38174559",
+      "food_name": "Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/peanut-butter",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34939232",
+      "food_name": "Samoa Bundt Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/samoa-bundt-cake",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32983977",
+      "food_name": "Mocha Chocolate Creme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/mocha-chocolate-creme",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59288191",
+      "food_name": "White Chocolate Berry Granola Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/white-chocolate-berry-granola-bar",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44126808",
+      "food_name": "White Chocolate Coconut Deluxe",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/white-chocolate-coconut-deluxe",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70539097",
+      "food_name": "Krispy Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/krispy-peanut-butter",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32462322",
+      "food_name": "Coconut Almond",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/coconut-almond",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43408583",
+      "food_name": "White Chocolate Sea Salt Caramel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/white-chocolate-sea-salt-caramel",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37146875",
+      "food_name": "Peanut Butter Banana",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/peanut-butter-banana",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37653980",
+      "food_name": "Blueberry Lemon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/blueberry-lemon",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44906990",
+      "food_name": "Built GO",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/built-go",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33570371",
+      "food_name": "Black Cherry Chocolate Creme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/black-cherry-chocolate-creme",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55370799",
+      "food_name": "Crave",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/crave",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55672350",
+      "food_name": "Caramel Almond Delight",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/caramel-almond-delight",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52159574",
+      "food_name": "Pistachio",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/pistachio",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37372432",
+      "food_name": "Coconut Pecan Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/coconut-pecan-pie",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39617919",
+      "food_name": "Lemon Almond Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/lemon-almond-cheesecake",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41054562",
+      "food_name": "Pumpkin Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/pumpkin-chocolate-chip-cookie",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44291964",
+      "food_name": "Maple Pecan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/maple-pecan",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41471596",
+      "food_name": "German Chocolate Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/german-chocolate-cake",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36006416",
+      "food_name": "Toffee Almond",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/toffee-almond",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26921305",
+      "food_name": "Orange Chocolate Creme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/orange-chocolate-creme",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33831485",
+      "food_name": "Double Chocolate Mousse",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/double-chocolate-mousse",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53869677",
+      "food_name": "Blueberry Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/blueberry-muffin",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54331202",
+      "food_name": "Mystery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/mystery",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61136225",
+      "food_name": "Raspberry Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/raspberry-lemonade",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53118313",
+      "food_name": "Salted Pretzel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/salted-pretzel",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49390518",
+      "food_name": "Sweet Fire",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/sweet-fire",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36786206",
+      "food_name": "Hazelnut Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/hazelnut-cheesecake",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38075718",
+      "food_name": "Vanilla Chocolate Creme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/vanilla-chocolate-creme",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40872783",
+      "food_name": "Apple Almond Crisp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/apple-almond-crisp",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55524696",
+      "food_name": "Eggnog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/eggnog",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55613185",
+      "food_name": "Caramel Macchiato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/caramel-macchiato",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40202718",
+      "food_name": "Carrot Cake with Walnuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/carrot-cake-with-walnuts",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40735623",
+      "food_name": "Orange",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/orange",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42469759",
+      "food_name": "Caramel Apple",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/caramel-apple",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37069947",
+      "food_name": "Cashew Caramel with Coconut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/cashew-caramel-with-coconut",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    }
+  ]
+}

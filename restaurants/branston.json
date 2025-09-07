@@ -1,0 +1,20 @@
+{
+  "restaurant": "Branston",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 1,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:54:28.498Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/branston.json",
+  "items": [
+    {
+      "food_id": "54572",
+      "food_name": "Original Branston Pickle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/branston/original-branston-pickle",
+      "brand_name": "Branston",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Supreme Tradition",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 424,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:05:19.435Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/supreme_tradition.json",
+  "items": [
+    {
+      "food_id": "41087289",
+      "food_name": "Rainbow Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/supreme-tradition/rainbow-sprinkles",
+      "brand_name": "Supreme Tradition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2662611",
+      "food_name": "Powdered Chicken Bouillon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/supreme-tradition/powdered-chicken-bouillon",
+      "brand_name": "Supreme Tradition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2997343",
+      "food_name": "Imitation Bacon Bits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/supreme-tradition/imitation-bacon-bits",
+      "brand_name": "Supreme Tradition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26732458",
+      "food_name": "Chicken Wing Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/supreme-tradition/chicken-wing-sauce",
+      "brand_name": "Supreme Tradition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52526201",
+      "food_name": "Herb & Garlic Marinade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/supreme-tradition/herb-garlic-marinade",
+      "brand_name": "Supreme Tradition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51841168",
+      "food_name": "Worcestershire Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/supreme-tradition/worcestershire-sauce",
+      "brand_name": "Supreme Tradition",
+      "food_type": "Brand"
+    }
+  ]
+}

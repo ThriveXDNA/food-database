@@ -1,0 +1,27 @@
+{
+  "restaurant": "Red Rock",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 2223,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:00:43.873Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/red_rock.json",
+  "items": [
+    {
+      "food_id": "9767806",
+      "food_name": "Golden Ginger Ale (10 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-rock/golden-ginger-ale-(10-oz)",
+      "brand_name": "Red Rock",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1268656",
+      "food_name": "Golden Ginger Ale (12 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-rock/golden-ginger-ale-(12-oz)",
+      "brand_name": "Red Rock",
+      "food_type": "Brand"
+    }
+  ]
+}

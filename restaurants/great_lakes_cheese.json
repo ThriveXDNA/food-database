@@ -1,0 +1,76 @@
+{
+  "restaurant": "Great Lakes Cheese",
+  "total_items": 9,
+  "pages_extracted": 6,
+  "total_search_results": 12203,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:22:42.002Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/great_lakes_cheese.json",
+  "items": [
+    {
+      "food_id": "14747335",
+      "food_name": "String Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-lakes-cheese/string-cheese",
+      "brand_name": "Great Lakes Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "752052",
+      "food_name": "Provolone Cheese Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-lakes-cheese/provolone-cheese-slices",
+      "brand_name": "Great Lakes Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12761897",
+      "food_name": "Shredded Mild Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-lakes-cheese/shredded-mild-cheddar-cheese",
+      "brand_name": "Great Lakes Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2180285",
+      "food_name": "Monterey Jack Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-lakes-cheese/monterey-jack-cheese",
+      "brand_name": "Great Lakes Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5872050",
+      "food_name": "Smoked Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-lakes-cheese/smoked-cheddar-cheese",
+      "brand_name": "Great Lakes Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104148",
+      "food_name": "Sharp Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-lakes-cheese/sharp-cheddar-cheese",
+      "brand_name": "Great Lakes Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4709244",
+      "food_name": "Colby Jack Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-lakes-cheese/colby-jack-cheese",
+      "brand_name": "Great Lakes Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "114325",
+      "food_name": "American Cheese Singles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-lakes-cheese/american-cheese-singles",
+      "brand_name": "Great Lakes Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2108572",
+      "food_name": "Pepper Jack Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-lakes-cheese/pepper-jack-cheese",
+      "brand_name": "Great Lakes Cheese",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "restaurant": "The Loop Pizza Grill",
+  "total_items": 10,
+  "pages_extracted": 6,
+  "total_search_results": 7483,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:22:58.558Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_loop_pizza_grill.json",
+  "items": [
+    {
+      "food_id": "106794",
+      "food_name": "Walnut, Cranberry and Goat Cheese Salad without dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-loop-pizza-grill/walnut-cranberry-and-goat-cheese-salad-without-dressing",
+      "brand_name": "The Loop Pizza Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80912",
+      "food_name": "House Salad with Chicken without Croutons or Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-loop-pizza-grill/house-salad-with-chicken-without-croutons-or-dressing",
+      "brand_name": "The Loop Pizza Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82634",
+      "food_name": "Steamed Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-loop-pizza-grill/steamed-broccoli",
+      "brand_name": "The Loop Pizza Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82636",
+      "food_name": "Grilled Fish Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-loop-pizza-grill/grilled-fish-sandwich",
+      "brand_name": "The Loop Pizza Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79541",
+      "food_name": "Mushroom and Brie Bisque (Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-loop-pizza-grill/mushroom-and-brie-bisque-(cup)",
+      "brand_name": "The Loop Pizza Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11361131",
+      "food_name": "Steak Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-loop-pizza-grill/steak-fries",
+      "brand_name": "The Loop Pizza Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80795",
+      "food_name": "Fruit Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-loop-pizza-grill/fruit-salad",
+      "brand_name": "The Loop Pizza Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79543",
+      "food_name": "Croutons",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-loop-pizza-grill/croutons",
+      "brand_name": "The Loop Pizza Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8021987",
+      "food_name": "Black Bean Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-loop-pizza-grill/black-bean-burger",
+      "brand_name": "The Loop Pizza Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79670",
+      "food_name": "Broccoli Cheese Soup (Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-loop-pizza-grill/broccoli-cheese-soup-(cup)",
+      "brand_name": "The Loop Pizza Grill",
+      "food_type": "Brand"
+    }
+  ]
+}

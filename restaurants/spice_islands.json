@@ -1,0 +1,55 @@
+{
+  "restaurant": "Spice Islands",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 393,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:33:03.887Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/spice_islands.json",
+  "items": [
+    {
+      "food_id": "516002",
+      "food_name": "Ground Saigon Cinnamon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spice-islands/ground-saigon-cinnamon",
+      "brand_name": "Spice Islands",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11224713",
+      "food_name": "Premium Taco Seasoning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spice-islands/premium-taco-seasoning",
+      "brand_name": "Spice Islands",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "721388",
+      "food_name": "Cayenne Pepper Spice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spice-islands/cayenne-pepper-spice",
+      "brand_name": "Spice Islands",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21798707",
+      "food_name": "Ground Chipotle Chile",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spice-islands/ground-chipotle-chile",
+      "brand_name": "Spice Islands",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "516012",
+      "food_name": "Malabar Black Pepper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spice-islands/malabar-black-pepper",
+      "brand_name": "Spice Islands",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "516011",
+      "food_name": "Mexican Oregano",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spice-islands/mexican-oregano",
+      "brand_name": "Spice Islands",
+      "food_type": "Brand"
+    }
+  ]
+}

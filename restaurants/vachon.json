@@ -1,0 +1,48 @@
+{
+  "restaurant": "Vachon",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:44:12.968Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/vachon.json",
+  "items": [
+    {
+      "food_id": "5189625",
+      "food_name": "Carrot Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vachon/carrot-cake",
+      "brand_name": "Vachon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67149",
+      "food_name": "Mille Feuilles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vachon/mille-feuilles",
+      "brand_name": "Vachon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67143",
+      "food_name": "Jos. Louis The Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vachon/jos-louis-the-original",
+      "brand_name": "Vachon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2624365",
+      "food_name": "Passion Flakie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vachon/passion-flakie",
+      "brand_name": "Vachon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67155",
+      "food_name": "Ah Caramel! The Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vachon/ah-caramel-the-original",
+      "brand_name": "Vachon",
+      "food_type": "Brand"
+    }
+  ]
+}

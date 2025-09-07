@@ -1,0 +1,62 @@
+{
+  "restaurant": "Fit2Go",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:29:19.437Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fit2go.json",
+  "items": [
+    {
+      "food_id": "9092190",
+      "food_name": "Chickpea Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fit2go/chickpea-salad",
+      "brand_name": "Fit2Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9331132",
+      "food_name": "Alfajor",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fit2go/alfajor",
+      "brand_name": "Fit2Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6437861",
+      "food_name": "Chicken Fajita Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fit2go/chicken-fajita-wrap",
+      "brand_name": "Fit2Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6427669",
+      "food_name": "Turkey Spinach Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fit2go/turkey-spinach-salad",
+      "brand_name": "Fit2Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "817266",
+      "food_name": "Turkey Spinach Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fit2go/turkey-spinach-wrap",
+      "brand_name": "Fit2Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82343417",
+      "food_name": "Wasabi Fish Swai Fillet with Soy and Wasabi Sauce FKPV",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fit2go/wasabi-fish-swai-fillet-with-soy-and-wasabi-sauce-fkpv",
+      "brand_name": "Fit2Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81663936",
+      "food_name": "Veggie Burger Wrap W14M - Low Carb",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fit2go/veggie-burger-wrap-w14m-low-carb",
+      "brand_name": "Fit2Go",
+      "food_type": "Brand"
+    }
+  ]
+}

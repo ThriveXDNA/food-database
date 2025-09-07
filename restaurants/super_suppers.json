@@ -1,0 +1,62 @@
+{
+  "restaurant": "Super Suppers",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 647,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:36:53.225Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/super_suppers.json",
+  "items": [
+    {
+      "food_id": "107764",
+      "food_name": "Swedish Meatballs with Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-suppers/swedish-meatballs-with-noodles",
+      "brand_name": "Super Suppers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "113810",
+      "food_name": "Twice Baked Stuffed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-suppers/twice-baked-stuffed-potatoes",
+      "brand_name": "Super Suppers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "118912",
+      "food_name": "Pulled Pork and New Potato Stew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-suppers/pulled-pork-and-new-potato-stew",
+      "brand_name": "Super Suppers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "116600",
+      "food_name": "Juicy Jerk Chicken with Jamaican Pineapple Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-suppers/juicy-jerk-chicken-with-jamaican-pineapple-rice",
+      "brand_name": "Super Suppers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104429",
+      "food_name": "Garlic Chicken with Olives",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-suppers/garlic-chicken-with-olives",
+      "brand_name": "Super Suppers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "200133",
+      "food_name": "Chicken & Asparagus Risotto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-suppers/chicken-and-asparagus-risotto",
+      "brand_name": "Super Suppers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "102751",
+      "food_name": "Parmesan Chicken with Creamy Sage Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-suppers/parmesan-chicken-with-creamy-sage-sauce",
+      "brand_name": "Super Suppers",
+      "food_type": "Brand"
+    }
+  ]
+}

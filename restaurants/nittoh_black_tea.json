@@ -1,0 +1,20 @@
+{
+  "restaurant": "Nittoh Black Tea",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 4913,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:03:40.633Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/nittoh_black_tea.json",
+  "items": [
+    {
+      "food_id": "1448208",
+      "food_name": "Royal Milk Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nittoh-black-tea/royal-milk-tea",
+      "brand_name": "Nittoh Black Tea",
+      "food_type": "Brand"
+    }
+  ]
+}

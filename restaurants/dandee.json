@@ -1,0 +1,55 @@
+{
+  "restaurant": "Dandee",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:56:38.751Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dandee.json",
+  "items": [
+    {
+      "food_id": "465798",
+      "food_name": "Hamburger Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dandee/hamburger-bun",
+      "brand_name": "Dandee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33248773",
+      "food_name": "Classic Cuban",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dandee/classic-cuban",
+      "brand_name": "Dandee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48263540",
+      "food_name": "Ham and Cheese Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dandee/ham-and-cheese-sandwich",
+      "brand_name": "Dandee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1111588",
+      "food_name": "The Club Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dandee/the-club-sandwich",
+      "brand_name": "Dandee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2199423",
+      "food_name": "Chicken Salad Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dandee/chicken-salad-sandwich",
+      "brand_name": "Dandee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2368674",
+      "food_name": "Turkey Ranch Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dandee/turkey-ranch-sandwich",
+      "brand_name": "Dandee",
+      "food_type": "Brand"
+    }
+  ]
+}

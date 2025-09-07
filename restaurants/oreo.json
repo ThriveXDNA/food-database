@@ -1,0 +1,2407 @@
+{
+  "restaurant": "Oreo",
+  "total_items": 342,
+  "pages_extracted": 7,
+  "total_search_results": 342,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:42:20.828Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/oreo.json",
+  "items": [
+    {
+      "food_id": "4346687",
+      "food_name": "Chocolate Sandwich Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/chocolate-sandwich-cookies",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72802",
+      "food_name": "Double Stuf Sandwich Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/double-stuf-sandwich-cookies",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10093921",
+      "food_name": "Oreo Thins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/oreo-thins",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75613653",
+      "food_name": "Chocolate Sandwich Cookies (16g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/chocolate-sandwich-cookies-(16g)",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54488124",
+      "food_name": "Mini Oreos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/mini-oreos",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1367707",
+      "food_name": "Golden Double Stuf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/golden-double-stuf",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26600",
+      "food_name": "Sandwich Cookies - 100 Calorie Snack Packs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/sandwich-cookies---100-calorie-snack-packs",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61250674",
+      "food_name": "Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/ice-cream-sandwich",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2175235",
+      "food_name": "Mini Oreo Bite Size",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/mini-oreo-bite-size",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2389380",
+      "food_name": "Creamsicle Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/creamsicle-oreo",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16933195",
+      "food_name": "Golden",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/golden",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46145",
+      "food_name": "Mini Chocolate Sandwich Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/mini-chocolate-sandwich-cookies",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21249446",
+      "food_name": "Lemon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/lemon",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18142141",
+      "food_name": "Mega Stuf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/mega-stuf",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12815503",
+      "food_name": "Thins Lemon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/thins-lemon",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12634823",
+      "food_name": "Oreo Thins Mint",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/oreo-thins-mint",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69352491",
+      "food_name": "Ice Cream Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/ice-cream-bar",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44493159",
+      "food_name": "Gluten Free",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/gluten-free",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5473781",
+      "food_name": "Chocolate Sandwich Cookies (Package)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/chocolate-sandwich-cookies-(package)",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24591330",
+      "food_name": "Premium Ice Cream Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/premium-ice-cream-cake",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2686442",
+      "food_name": "Cool Mint Creme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/cool-mint-creme",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26405351",
+      "food_name": "Dark Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/dark-chocolate",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3580742",
+      "food_name": "Chocolate Creme Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/chocolate-creme-cookie",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9902175",
+      "food_name": "S'mores",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/smores",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2311032",
+      "food_name": "Cakesters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/cakesters",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3124884",
+      "food_name": "Birthday Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/birthday-cake",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4308934",
+      "food_name": "Fried Oreos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/fried-oreos",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7024269",
+      "food_name": "Cookie Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/cookie-dough",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59112048",
+      "food_name": "Oreo Cones",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/oreo-cones",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67489520",
+      "food_name": "Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nabisco/oreo",
+      "brand_name": "Nabisco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76367931",
+      "food_name": "OREO",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cosmcs/oreo",
+      "brand_name": "CosMc's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74964704",
+      "food_name": "Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freddys-frozen-custard/oreo",
+      "brand_name": "Freddy's Frozen Custard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105691104",
+      "food_name": "OREO",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/oreo",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12543736",
+      "food_name": "Filled Cupcake Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/filled-cupcake-oreo",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34623574",
+      "food_name": "Cookie Crumbles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/cookie-crumbles",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99886",
+      "food_name": "Chocolate Fudge Covered Sandwich Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/chocolate-fudge-covered-sandwich-cookies",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7729358",
+      "food_name": "Peanut Butter Cup Flavor Creme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/peanut-butter-cup-flavor-creme",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72351925",
+      "food_name": "Mint Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/mint-ice-cream",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44727252",
+      "food_name": "Oreo Cookies 'N Creme Instant Pudding & Pie Filling",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/oreo-cookies-n-creme-instant-pudding-pie-filling",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67599475",
+      "food_name": "Oreo Cups",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/oreo-cups",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80639492",
+      "food_name": "Thins Tiramisu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/thins-tiramisu",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96297",
+      "food_name": "Mini Golden Sandwich Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/mini-golden-sandwich-cookies",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "237438",
+      "food_name": "Mini Fun Size",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/mini-fun-size",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29872986",
+      "food_name": "Fudge Covered Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/fudge-covered-oreo",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2047670",
+      "food_name": "Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/brownie",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15926802",
+      "food_name": "Oreo without Filling",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/oreo-without-filling",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79479846",
+      "food_name": "Toffee Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/toffee-crunch",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48154507",
+      "food_name": "Oreo Mousse Dessert",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/oreo-mousse-dessert",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60880509",
+      "food_name": "Cereal (40 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/cereal-(40-g)",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7811669",
+      "food_name": "Oreo Mini Reese's",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/oreo-mini-reeses",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78094",
+      "food_name": "Double Stuf Peanut Butter Creme Chocolate Sandwich Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/double-stuf-peanut-butter-creme-chocolate-sandwich-cookies",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23409725",
+      "food_name": "Firework Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/firework-oreo",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8451479",
+      "food_name": "Dirt Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/dirt-cake",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82172355",
+      "food_name": "Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/muffin",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14806875",
+      "food_name": "Oreo Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/oreo-eggs",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2463772",
+      "food_name": "Mint Fudge Cremes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/mint-fudge-cremes",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "417281",
+      "food_name": "White Fudge Covered Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/white-fudge-covered-oreo",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56679",
+      "food_name": "Strawberry Milkshake Creme Chocolate Sandwich Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/strawberry-milkshake-creme-chocolate-sandwich-cookie",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23031729",
+      "food_name": "Chocolate Peanut Butter Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/chocolate-peanut-butter-pie",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53736841",
+      "food_name": "Cereal (30 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/cereal",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78853781",
+      "food_name": "Mini Cupcakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/mini-cupcakes",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14457469",
+      "food_name": "Chocolate Candy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/chocolate-candy-bar",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1863865",
+      "food_name": "Doublestuf Cakesters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/doublestuf-cakesters",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25985533",
+      "food_name": "The Most Stuf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/the-most-stuf",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80426813",
+      "food_name": "Mint Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/mint-bars",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "844649",
+      "food_name": "Thin Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/thin-crisps",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11476454",
+      "food_name": "Oreo Churros",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/oreo-churros",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103428956",
+      "food_name": "Loaded",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/loaded",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11177433",
+      "food_name": "Cinnamon Bun Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/cinnamon-bun-cookie",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14780760",
+      "food_name": "Peeps Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/peeps-oreo",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93612",
+      "food_name": "100 Calorie Cakesters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/100-calorie-cakesters",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "436502",
+      "food_name": "Pie Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/pie-crust",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "132154",
+      "food_name": "Oreo Fun Stix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/oreo-fun-stix",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21805599",
+      "food_name": "Thins Pistachio",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/thins-pistachio",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43597835",
+      "food_name": "Oreo Fresh Milk Snack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/oreo-fresh-milk-snack",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90551",
+      "food_name": "Sugar Free Sandwich Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/sugar-free-sandwich-cookies",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19108227",
+      "food_name": "Chocolate Hazelnut Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/chocolate-hazelnut-oreo",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51641021",
+      "food_name": "Java Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/java-chip",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42498394",
+      "food_name": "Chocolate Marshmallow",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/chocolate-marshmallow",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12782437",
+      "food_name": "Choco Chip Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/choco-chip-oreo",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74619474",
+      "food_name": "Frozen Dairy Dessert",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/frozen-dairy-dessert",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "257572",
+      "food_name": "Golden Oreo Fun Stix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/golden-oreo-fun-stix",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3448100",
+      "food_name": "Brownie (Pack)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/brownie-(pack)",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23671939",
+      "food_name": "Thins Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/thins-bites",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1813057",
+      "food_name": "Peanut Butter Fudge Cremes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/peanut-butter-fudge-cremes",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68913",
+      "food_name": "Fudgees",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/fudgees",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69191224",
+      "food_name": "Thins Extra Stuf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/thins-extra-stuf",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59014",
+      "food_name": "Reduced Fat Chocolate Sandwich Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/reduced-fat-chocolate-sandwich-cookies",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104643614",
+      "food_name": "Blueberry Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/blueberry-pie",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44810975",
+      "food_name": "Brookie-O",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/brookie-o",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9114981",
+      "food_name": "Red Velvet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/red-velvet",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1572150",
+      "food_name": "Double Stuf Heads or Tails",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/double-stuf-heads-or-tails",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19386234",
+      "food_name": "Thin Bites Fudge Dipped",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/thin-bites-fudge-dipped",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42902161",
+      "food_name": "Caramel Coconut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/caramel-coconut",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4217794",
+      "food_name": "Fudge Cremes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/fudge-cremes",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2046137",
+      "food_name": "Berry Burst Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/berry-burst-ice-cream",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25586111",
+      "food_name": "Chocolate Candy Bar (Fun Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/chocolate-candy-bar-(fun-size)",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52035732",
+      "food_name": "Apple Cider Donut Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/apple-cider-donut-oreo",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2464285",
+      "food_name": "Triple Double Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/triple-double-oreo",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62339154",
+      "food_name": "Carrot Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/carrot-cake",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66112",
+      "food_name": "Candy Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/candy-bites",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2132412",
+      "food_name": "Golden Fudge Cremes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/golden-fudge-cremes",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10234470",
+      "food_name": "Brownie Batter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/brownie-batter",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22855848",
+      "food_name": "Thins Salted Caramel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/thins-salted-caramel",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43618",
+      "food_name": "Chewy Granola Bars - 100 Calorie Packs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/chewy-granola-bars-100-calorie-packs",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7814398",
+      "food_name": "Reese's Peanut Butter Cup Flavor Creme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/reeses-peanut-butter-cup-flavor-creme",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8278143",
+      "food_name": "Pumpkin Spice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/pumpkin-spice",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4689896",
+      "food_name": "Gingerbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/gingerbread",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106209571",
+      "food_name": "Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oreo/bites",
+      "brand_name": "Oreo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72448933",
+      "food_name": "Milk and OREO Cookies with Whipped Topping - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/milk-and-oreo-cookies-with-whipped-topping-12-oz",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72448975",
+      "food_name": "Milk and OREO Cookies without Whipped Topping - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/milk-and-oreo-cookies-without-whipped-topping-12-oz",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75420927",
+      "food_name": "Chocolate Milk Shake w/Oreo Cookie Crumbs (24 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nathans-famous/chocolate-milk-shake-w-oreo-cookie-crumbs-(24-oz)",
+      "brand_name": "Nathan's Famous",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75420930",
+      "food_name": "Vanilla Milk Shake w/Oreo Cookie Crumbs (24 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nathans-famous/vanilla-milk-shake-w-oreo-cookie-crumbs-(24-oz)",
+      "brand_name": "Nathan's Famous",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75420931",
+      "food_name": "Strawberry Milk Shake w/Oreo Cookie Crumbs (24 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nathans-famous/strawberry-milk-shake-w-oreo-cookie-crumbs-(24-oz)",
+      "brand_name": "Nathan's Famous",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72448935",
+      "food_name": "Milk and OREO Cookies with Whipped Topping - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/milk-and-oreo-cookies-with-whipped-topping-20-oz",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72448977",
+      "food_name": "Milk and OREO Cookies without Whipped Topping - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/milk-and-oreo-cookies-without-whipped-topping-20-oz",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75420909",
+      "food_name": "Chocolate Milk Shake w/Oreo Cookie Crumbs (16 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nathans-famous/chocolate-milk-shake-w-oreo-cookie-crumbs-(16-oz)",
+      "brand_name": "Nathan's Famous",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75420912",
+      "food_name": "Vanilla Milk Shake w/Oreo Cookie Crumbs (16 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nathans-famous/vanilla-milk-shake-w-oreo-cookie-crumbs-(16-oz)",
+      "brand_name": "Nathan's Famous",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75420915",
+      "food_name": "Strawberry Milk Shake w/Oreo Cookie Crumbs (16 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nathans-famous/strawberry-milk-shake-w-oreo-cookie-crumbs-(16-oz)",
+      "brand_name": "Nathan's Famous",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75994748",
+      "food_name": "Oreo 'N Cold Brew Ice Cream 2.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baskin-robbins/oreo-n-cold-brew-ice-cream-25-oz",
+      "brand_name": "Baskin-Robbins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75994818",
+      "food_name": "Oreo 'N Cold Brew Ice Cream 4 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baskin-robbins/oreo-n-cold-brew-ice-cream-4-oz",
+      "brand_name": "Baskin-Robbins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105067145",
+      "food_name": "Oreo Cookie Shake with Whipped Topping (24 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jack-in-the-box/oreo-cookie-shake-with-whipped-topping-(24-oz)",
+      "brand_name": "Jack in the Box",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "522538",
+      "food_name": "Light Cookies N' Cream Yogurt with Oreo Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yocrunch/light-cookies-n-cream-yogurt-with-oreo-pieces",
+      "brand_name": "YoCrunch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4246073",
+      "food_name": "Oreo Cookies 'N Creme Instant Pudding & Pie Filling",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jell-o/oreo-cookies-n-creme-instant-pudding-and-pie-filling",
+      "brand_name": "Jell-O",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72414186",
+      "food_name": "Golden OREO Cookie Ice Cream (Gotta Have It)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/golden-oreo-cookie-ice-cream-(gotta-have-it)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75994822",
+      "food_name": "Oreo Cookies 'N Cream Ice Cream 2.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baskin-robbins/oreo-cookies-n-cream-ice-cream-25-oz",
+      "brand_name": "Baskin-Robbins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75994824",
+      "food_name": "Oreo Cookies 'N Cream Ice Cream 4 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baskin-robbins/oreo-cookies-n-cream-ice-cream-4-oz",
+      "brand_name": "Baskin-Robbins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105067133",
+      "food_name": "Oreo Cookie Shake with Whipped Topping (16 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jack-in-the-box/oreo-cookie-shake-with-whipped-topping-(16-oz)",
+      "brand_name": "Jack in the Box",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72414180",
+      "food_name": "Golden OREO Cookie Ice Cream (Love It)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/golden-oreo-cookie-ice-cream-(love-it)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72414540",
+      "food_name": "OREO Crème Ice Cream (Gotta Have It)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/oreo-cr%C3%A8me-ice-cream-(gotta-have-it)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86296894",
+      "food_name": "Oreo Cookies 'N Cream Pre-Packed Quart",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baskin-robbins/oreo-cookies-n-cream-pre-packed-quart",
+      "brand_name": "Baskin-Robbins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87313753",
+      "food_name": "Oreo - Vanilla Custard Rainbow Sprinkles Cookie Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/oreo-vanilla-custard-rainbow-sprinkles-cookie-sandwich",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892097",
+      "food_name": "OREO Brownie Twist Chocolate Frosty Fusion - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/oreo-brownie-twist-chocolate-frosty-fusion-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892099",
+      "food_name": "OREO Brownie Twist Chocolate Frosty Fusion - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/oreo-brownie-twist-chocolate-frosty-fusion-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892100",
+      "food_name": "OREO Brownie Twist Chocolate Frosty Fusion - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/oreo-brownie-twist-chocolate-frosty-fusion-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69184600",
+      "food_name": "Sonic Blast With Oreo Cookie Pieces Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sonic/sonic-blast-with-oreo-cookie-pieces-small",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69184615",
+      "food_name": "Sonic Blast With Oreo Cookie Pieces Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sonic/sonic-blast-with-oreo-cookie-pieces-medium",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96287",
+      "food_name": "Oreo Cookies 'n Cream Ice Cream Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/klondike/oreo-cookies-n-cream-ice-cream-bar",
+      "brand_name": "Klondike",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72414172",
+      "food_name": "Golden OREO Cookie Ice Cream (Like It)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/golden-oreo-cookie-ice-cream-(like-it)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75586715",
+      "food_name": "Cookie Sandwich Oreo - Vanilla Custard Rainbow Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/cookie-sandwich-oreo-vanilla-custard-rainbow-sprinkles",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87296151",
+      "food_name": "Cream Ice 5 Layer Gelati Mint Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/cream-ice-5-layer-gelati-mint-oreo",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87311017",
+      "food_name": "Cream Ice Gelati Blender Mint Oreo (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/cream-ice-gelati-blender-mint-oreo-(small)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87312888",
+      "food_name": "Cream Ice Gelati Blender Mint Oreo (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/cream-ice-gelati-blender-mint-oreo-(large)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892102",
+      "food_name": "OREO Brownie Twist Vanilla Frosty Fusion - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/oreo-brownie-twist-vanilla-frosty-fusion-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892104",
+      "food_name": "OREO Brownie Twist Vanilla Frosty Fusion - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/oreo-brownie-twist-vanilla-frosty-fusion-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892105",
+      "food_name": "OREO Brownie Twist Vanilla Frosty Fusion - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/oreo-brownie-twist-vanilla-frosty-fusion-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69184539",
+      "food_name": "Sonic Blast with Oreo Cookie Pieces Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sonic/sonic-blast-with-oreo-cookie-pieces-mini",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "522531",
+      "food_name": "Vanilla Yogurt with Oreo Cookie Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yocrunch/vanilla-yogurt-with-oreo-cookie-pieces",
+      "brand_name": "YoCrunch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "541611",
+      "food_name": "Oreo Cream Pie Ready to Serve",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/edwards/oreo-cream-pie-ready-to-serve",
+      "brand_name": "Edwards",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2214986",
+      "food_name": "Oreo Cookies & Cream Chocolate Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/breyers/oreo-cookies-and-cream-chocolate-ice-cream",
+      "brand_name": "Breyers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44576530",
+      "food_name": "2 in 1 Oreo Chips Ahoy!",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/breyers/2-in-1-oreo-chips-ahoy",
+      "brand_name": "Breyers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72298250",
+      "food_name": "Oreo Red Velvet Milk Shake - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/steak-n-shake/oreo-red-velvet-milk-shake-small",
+      "brand_name": "Steak n Shake",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72414170",
+      "food_name": "Golden OREO Cookie Ice Cream (Kids)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/golden-oreo-cookie-ice-cream-(kids)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72414534",
+      "food_name": "OREO Crème Ice Cream (Love It)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/oreo-cr%C3%A8me-ice-cream-(love-it)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73478541",
+      "food_name": "Oreo - Candy Bar Sundae Single-Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/braums/oreo-candy-bar-sundae-single-dip",
+      "brand_name": "Braum's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73478561",
+      "food_name": "Oreo - Candy Bar Sundae Triple-Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/braums/oreo-candy-bar-sundae-triple-dip",
+      "brand_name": "Braum's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72449314",
+      "food_name": "OREO Cookies & Cream Extreme (Lrg Round)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/oreo-cookies-cream-extreme-(lrg-round)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72449323",
+      "food_name": "OREO Cookies & Cream Extreme (Sm Rectangle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/oreo-cookies-cream-extreme-(sm-rectangle)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75187953",
+      "food_name": "Oreo Cookies & Cream Chilllattas, 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cinnabon/oreo-cookies-cream-chilllattas-16-oz",
+      "brand_name": "Cinnabon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75187954",
+      "food_name": "Oreo Cookies & Cream Chilllattas, 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cinnabon/oreo-cookies-cream-chilllattas-24-oz",
+      "brand_name": "Cinnabon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75518493",
+      "food_name": "Cream Ice Blendini Mint Oreo (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/cream-ice-blendini-mint-oreo-(regular)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75518969",
+      "food_name": "Oreo Cookie N Cream Milkshake (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/oreo-cookie-n-cream-milkshake-(small)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74497186",
+      "food_name": "Oreo Cookie Petite Treat - Group Tour",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/99-restaurant/oreo-cookie-petite-treat-group-tour",
+      "brand_name": "99 Restaurant",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817209",
+      "food_name": "Oreo Polar Swirl - Mini - 6 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/oreo-polar-swirl-mini-6-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84306386",
+      "food_name": "OREO Cookie Pieces - Medium/Large Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/oreo-cookie-pieces-medium-large-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84306389",
+      "food_name": "OREO Cookie Pieces - Mini/Small Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/oreo-cookie-pieces-mini-small-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86296478",
+      "food_name": "Oreo ‘N Cookies Cappuccino Blast (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baskin-robbins/oreo-%E2%80%98n-cookies-cappuccino-blast-(small)",
+      "brand_name": "Baskin-Robbins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87300831",
+      "food_name": "Cream Ice Blender Mint Oreo (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/cream-ice-blender-mint-oreo-(small)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350504",
+      "food_name": "Build Your Combo - OREO Crumble Waffle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-oreo-crumble-waffle",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694372",
+      "food_name": "Build Your Combo - Oreo Cheesecake Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-oreo-cheesecake-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2503626",
+      "food_name": "Lunchables Turkey & American with Oreo Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oscar-mayer/lunchables-turkey-american-with-oreo-cookies",
+      "brand_name": "Oscar Mayer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1963107",
+      "food_name": "Oreo Cookies & Cream Mint Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/breyers/oreo-cookies-and-cream-mint-ice-cream",
+      "brand_name": "Breyers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47074940",
+      "food_name": "Oreo Cookies & Cream Light Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/breyers/oreo-cookies-cream-light-ice-cream",
+      "brand_name": "Breyers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936836",
+      "food_name": "Jr. Milk Shake: OREO Blender Blaster",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dennys/jr-milk-shake-oreo-blender-blaster",
+      "brand_name": "Denny's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72298218",
+      "food_name": "Oreo Cookies 'N Cream Milkshake - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/steak-n-shake/oreo-cookies-n-cream-milkshake-regular",
+      "brand_name": "Steak n Shake",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72298232",
+      "food_name": "Oreo Cookies 'N Cream Milkshake - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/steak-n-shake/oreo-cookies-n-cream-milkshake-small",
+      "brand_name": "Steak n Shake",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72298247",
+      "food_name": "Oreo Red Velvet Milk Shake - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/steak-n-shake/oreo-red-velvet-milk-shake-regular",
+      "brand_name": "Steak n Shake",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72414532",
+      "food_name": "OREO Crème Ice Cream (Like It)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/oreo-cr%C3%A8me-ice-cream-(like-it)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72449311",
+      "food_name": "OREO Cookies & Cream Extreme (Sm Round)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/oreo-cookies-cream-extreme-(sm-round)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73478551",
+      "food_name": "Oreo - Candy Bar Sundae Double-Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/braums/oreo-candy-bar-sundae-double-dip",
+      "brand_name": "Braum's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75120959",
+      "food_name": "Oreo Cookies & Cream Cheesecake - 1 Slice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/captain-ds/oreo-cookies-cream-cheesecake-1-slice",
+      "brand_name": "Captain D's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75518151",
+      "food_name": "Cream Ice Gelati Mint Oreo (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/cream-ice-gelati-mint-oreo-(large)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80085320",
+      "food_name": "Vanilla Crumb Cake ft. Golden Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crumbl-cookies/vanilla-crumb-cake-ft-golden-oreo",
+      "brand_name": "Crumbl Cookies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86295638",
+      "food_name": "Oreo S'mores Ice Cream 2.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baskin-robbins/oreo-smores-ice-cream-25-oz",
+      "brand_name": "Baskin-Robbins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86295922",
+      "food_name": "Oreo S'mores Ice Cream 4 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baskin-robbins/oreo-smores-ice-cream-4-oz",
+      "brand_name": "Baskin-Robbins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86296480",
+      "food_name": "Oreo ‘N Cookies Cappuccino Blast (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baskin-robbins/oreo-%E2%80%98n-cookies-cappuccino-blast-(medium)",
+      "brand_name": "Baskin-Robbins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86296483",
+      "food_name": "Oreo ‘N Cookies Cappuccino Blast (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baskin-robbins/oreo-%E2%80%98n-cookies-cappuccino-blast-(large)",
+      "brand_name": "Baskin-Robbins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87296910",
+      "food_name": "Oreo Cookies N' Cream Mlikshake (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/oreo-cookies-n-cream-mlikshake-(large)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87301771",
+      "food_name": "Cream Ice Blender Mint Oreo (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/cream-ice-blender-mint-oreo-(large)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105284074",
+      "food_name": "Oreo Candy Cane Malt Milkshake (Kids)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-robin/oreo-candy-cane-malt-milkshake-(kids)",
+      "brand_name": "Red Robin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "228663",
+      "food_name": "Oreo No Bake Dessert Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jell-o/oreo-no-bake-dessert-mix",
+      "brand_name": "Jell-O",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65566",
+      "food_name": "Ice Cream Sandwiches - Oreo Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-humor/ice-cream-sandwiches---oreo-cookies",
+      "brand_name": "Good Humor",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14132408",
+      "food_name": "Belgian Chocolate Drenched Oreo Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/williams-bennett/belgian-chocolate-drenched-oreo-cookies",
+      "brand_name": "Williams Bennett",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40064194",
+      "food_name": "Perfect Size For 1 Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/perfect-size-for-1-oreo",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44913322",
+      "food_name": "White Fudge Covered Oreo Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nabisco/white-fudge-covered-oreo-bites",
+      "brand_name": "Nabisco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72414527",
+      "food_name": "OREO Crème Ice Cream (Kids)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/oreo-cr%C3%A8me-ice-cream-(kids)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75517124",
+      "food_name": "Cream Ice Mint Oreo (Quart)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/cream-ice-mint-oreo-(quart)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75586718",
+      "food_name": "Cookie Sandwich Oreo - Chocolate Custard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/cookie-sandwich-oreo-chocolate-custard",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74205101",
+      "food_name": "Oreo Hand Spun Shake Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fuddruckers/oreo-hand-spun-shake-regular",
+      "brand_name": "Fuddruckers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74205104",
+      "food_name": "Oreo Hand Spun Shake Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fuddruckers/oreo-hand-spun-shake-small",
+      "brand_name": "Fuddruckers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817207",
+      "food_name": "Oreo Polar Swirl - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/oreo-polar-swirl-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817249",
+      "food_name": "Oreo Polar Swirl - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/oreo-polar-swirl-12-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83832747",
+      "food_name": "Malt - Oreo Cookie Magic (Kid)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-robin/malt-oreo-cookie-magic-(kid)",
+      "brand_name": "Red Robin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83832756",
+      "food_name": "Milkshake - Oreo Cookie Magic (Monster)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-robin/milkshake-oreo-cookie-magic-(monster)",
+      "brand_name": "Red Robin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105278255",
+      "food_name": "Milkshake Monster Oreo Candy Cane",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-robin/milkshake-monster-oreo-candy-cane",
+      "brand_name": "Red Robin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105281681",
+      "food_name": "Malt Monster Oreo Candy Cane",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-robin/malt-monster-oreo-candy-cane",
+      "brand_name": "Red Robin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103243733",
+      "food_name": "McFlurry with OREO Cookies - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mcdonalds/mcflurry-with-oreo-cookies-mini",
+      "brand_name": "McDonald's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103243799",
+      "food_name": "McFlurry with OREO Cookies - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mcdonalds/mcflurry-with-oreo-cookies-regular",
+      "brand_name": "McDonald's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84113657",
+      "food_name": "Oreo Peanut Butter Shake Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sonic/oreo-peanut-butter-shake-large",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65559",
+      "food_name": "Ice Cream Bars - Oreo Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-humor/ice-cream-bars---oreo-cookies",
+      "brand_name": "Good Humor",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1901965",
+      "food_name": "Oreo Ice Cream Cookie Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/klondike/oreo-ice-cream-cookie-sandwich",
+      "brand_name": "Klondike",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2094116",
+      "food_name": "Oreo Cookies & Cream Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/breyers/oreo-cookies-and-cream-ice-cream",
+      "brand_name": "Breyers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16144165",
+      "food_name": "Non-Dairy Oreo Cookies & Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/breyers/non-dairy-oreo-cookies-cream",
+      "brand_name": "Breyers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4473542",
+      "food_name": "100 Cal Oreo Thin Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nabisco/100-cal-oreo-thin-crisps",
+      "brand_name": "Nabisco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3227709",
+      "food_name": "Oreo Birthday Blast Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/breyers/oreo-birthday-blast-ice-cream",
+      "brand_name": "Breyers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23737001",
+      "food_name": "Double Chocolate Oreo Candy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/milka/double-chocolate-oreo-candy-bar",
+      "brand_name": "Milka",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52079083",
+      "food_name": "Gluten Free Double Stuff Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nabisco/gluten-free-double-stuff-oreo",
+      "brand_name": "Nabisco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72448083",
+      "food_name": "Oreo Overload (Gotta Have It)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/oreo-overload-(gotta-have-it)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817210",
+      "food_name": "Oreo Polar Swirl - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/oreo-polar-swirl-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73822585",
+      "food_name": "Kids’ Sundae - Oreo Cookie Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/village-inn/kids%E2%80%99-sundae-oreo-cookie-pieces",
+      "brand_name": "Village Inn",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75516143",
+      "food_name": "Cream Ice Mint Oreo (Kids)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/cream-ice-mint-oreo-(kids)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75516486",
+      "food_name": "Cream Ice Mint Oreo (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/cream-ice-mint-oreo-(small)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75516835",
+      "food_name": "Cream Ice Mint Oreo (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/cream-ice-mint-oreo-(large)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84534686",
+      "food_name": "Brownie Sundae with OREO Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dennys/brownie-sundae-with-oreo-pieces",
+      "brand_name": "Denny's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83832739",
+      "food_name": "Malt - Oreo Cookie Magic (Monster)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-robin/malt-oreo-cookie-magic-(monster)",
+      "brand_name": "Red Robin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87295070",
+      "food_name": "Italian Gelati Mint Oreo (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/italian-gelati-mint-oreo-(small)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87296833",
+      "food_name": "Chocolate Covered Oreo Mlikshake (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/chocolate-covered-oreo-mlikshake-(large)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87313765",
+      "food_name": "Oreo - Vanilla Custard Cookie Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/oreo-vanilla-custard-cookie-sandwich",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105284080",
+      "food_name": "Oreo Candy Cane Milkshake (Kids)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-robin/oreo-candy-cane-milkshake-(kids)",
+      "brand_name": "Red Robin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105284113",
+      "food_name": "Oreo Cookie Magic Milkshake (Kids)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-robin/oreo-cookie-magic-milkshake-(kids)",
+      "brand_name": "Red Robin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84113586",
+      "food_name": "Oreo Peanut Butter Shake Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sonic/oreo-peanut-butter-shake-mini",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84113605",
+      "food_name": "Oreo Peanut Butter Shake Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sonic/oreo-peanut-butter-shake-small",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "119267",
+      "food_name": "Oreo Ice Cream Sandwiches",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/breyers/oreo-ice-cream-sandwiches",
+      "brand_name": "Breyers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1528139",
+      "food_name": "Oreo Overload (Like It)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/oreo-overload-(like-it)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13974818",
+      "food_name": "Oreo Big Crunch Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/milka/oreo-big-crunch-bar",
+      "brand_name": "Milka",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14441745",
+      "food_name": "Oreo Chocolate Candy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/milka/oreo-chocolate-candy-bar",
+      "brand_name": "Milka",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59521543",
+      "food_name": "Oreo Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/christie/oreo-ice-cream-sandwich",
+      "brand_name": "Christie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67940723",
+      "food_name": "Chocolate Crumb ft. Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crumbl-cookies/chocolate-crumb-ft-oreo",
+      "brand_name": "Crumbl Cookies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68685595",
+      "food_name": "Oreo Iced Capp - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/47B1C381-5959-4276-8C53-E4FFE1803386",
+      "brand_name": "Tim Hortons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72298244",
+      "food_name": "Oreo Mint Milkshake - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/steak-n-shake/oreo-mint-milkshake-small",
+      "brand_name": "Steak n Shake",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69598240",
+      "food_name": "Kids Shake - Oreo Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/applebees/kids-shake-oreo-cookie",
+      "brand_name": "Applebee's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936725",
+      "food_name": "OREO Cookie Blizzard - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/oreo-cookie-blizzard-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936731",
+      "food_name": "OREO Cookie Blizzard - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/oreo-cookie-blizzard-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936738",
+      "food_name": "OREO Cookie Blizzard - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/oreo-cookie-blizzard-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68685607",
+      "food_name": "Oreo Iced Capp - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tim-hortons/oreo-iced-capp-large",
+      "brand_name": "Tim Hortons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75187299",
+      "food_name": "Topping Cup, Oreo Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cinnabon/topping-cup-oreo-pieces",
+      "brand_name": "Cinnabon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74239086",
+      "food_name": "Oreo QT Twister - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiktrip/oreo-qt-twister-medium",
+      "brand_name": "Quiktrip",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69188900",
+      "food_name": "Oreo Cheesecake Shake Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/75E573C2-3413-4694-AE4A-9E2A71D8F981",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69188914",
+      "food_name": "Oreo Cheesecake Shake Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/30778F46-27A8-4C8C-8CB8-FF31B073D0EE",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69188990",
+      "food_name": "Oreo Chocolate Shake Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/E5171AA4-9F72-4A71-9C6E-94D05804CEDA",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69189000",
+      "food_name": "Oreo Chocolate Shake Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/D8A1ACD6-B71B-49E6-97A6-06ACD394C59B",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84265258",
+      "food_name": "Brownie and OREO Cupfection",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/brownie-and-oreo-cupfection",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84626623",
+      "food_name": "Oreo Iced Capp - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tim-hortons/oreo-iced-capp-small",
+      "brand_name": "Tim Hortons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299900",
+      "food_name": "12-inch Oreo Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/12-inch-oreo-cookie",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694174",
+      "food_name": "Oreo Cheesecake Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/oreo-cheesecake-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84220215",
+      "food_name": "Oreo Cheesecake Shake Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sonic/oreo-cheesecake-shake-mini",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84220219",
+      "food_name": "Oreo Cheesecake Shake Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sonic/oreo-cheesecake-shake-small",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84220227",
+      "food_name": "Oreo Chocolate Shake Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sonic/oreo-chocolate-shake-mini",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84220232",
+      "food_name": "Oreo Chocolate Shake Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sonic/oreo-chocolate-shake-small",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69188947",
+      "food_name": "Oreo Cheesecake Shake Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sonic/oreo-cheesecake-shake-large",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "128326",
+      "food_name": "Oreo Vanilla Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/breyers/oreo-vanilla-ice-cream",
+      "brand_name": "Breyers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "545527",
+      "food_name": "Oreo Creme Pie Singles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/edwards/oreo-creme-pie-singles",
+      "brand_name": "Edwards",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16224186",
+      "food_name": "Oreo Cookie Crunch Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakers-square/oreo-cookie-crunch-pie",
+      "brand_name": "Bakers Square",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18320397",
+      "food_name": "Oreo Frozen Dessert Cone",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-humor/oreo-frozen-dessert-cone",
+      "brand_name": "Good Humor",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13190886",
+      "food_name": "Frozen Oreo Dessert Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-humor/frozen-oreo-dessert-bar",
+      "brand_name": "Good Humor",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3917495",
+      "food_name": "Golden Oreo Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/breyers/golden-oreo-ice-cream",
+      "brand_name": "Breyers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4147361",
+      "food_name": "Oreo Ice Cream Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carvel-ice-cream/oreo-ice-cream-cake",
+      "brand_name": "Carvel Ice Cream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68685602",
+      "food_name": "Oreo Iced Capp - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tim-hortons/oreo-iced-capp-medium",
+      "brand_name": "Tim Hortons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936720",
+      "food_name": "OREO Cookie Blizzard - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/oreo-cookie-blizzard-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72298238",
+      "food_name": "Oreo Mint Milkshake - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/steak-n-shake/oreo-mint-milkshake-regular",
+      "brand_name": "Steak n Shake",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72417183",
+      "food_name": "Oreo Cookie Papa Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/papa-johns/oreo-cookie-papa-bites",
+      "brand_name": "Papa John's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72448080",
+      "food_name": "Oreo Overload (Love It)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/oreo-overload-(love-it)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69188924",
+      "food_name": "Oreo Cheesecake Shake Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/982D7A78-FE83-461C-A2F0-A3B7BF52280C",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69188984",
+      "food_name": "Oreo Chocolate Shake Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/B3358915-6D26-40EB-8DBE-E9A6200F2BDF",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73146302",
+      "food_name": "Oreo Cookie Silk Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perkins-restaurant/oreo-cookie-silk-pie",
+      "brand_name": "Perkins Restaurant",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74496963",
+      "food_name": "Oreo Cookie Petite Treat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/99-restaurant/oreo-cookie-petite-treat",
+      "brand_name": "99 Restaurant",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73819628",
+      "food_name": "Oreo Cookies & Cream Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smashburger/oreo-cookies-cream-shake",
+      "brand_name": "Smashburger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75051051",
+      "food_name": "Caramel Apple with Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kneaders/caramel-apple-with-oreo",
+      "brand_name": "Kneaders",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74239085",
+      "food_name": "Oreo QT Twister - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiktrip/oreo-qt-twister-small",
+      "brand_name": "Quiktrip",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74239089",
+      "food_name": "Oreo QT Twister - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quiktrip/oreo-qt-twister-large",
+      "brand_name": "Quiktrip",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87752186",
+      "food_name": "Cheesecake Factory Oreo Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/long-john-silvers/cheesecake-factory-oreo-cheesecake",
+      "brand_name": "Long John Silver's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84220233",
+      "food_name": "Oreo Chocolate Shake Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sonic/oreo-chocolate-shake-medium",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84220224",
+      "food_name": "Oreo Cheesecake Shake Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sonic/oreo-cheesecake-shake-medium",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69189012",
+      "food_name": "Oreo Chocolate Shake Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sonic/oreo-chocolate-shake-large",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30275294",
+      "food_name": "Oreo Dream Extreme Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/oreo-dream-extreme-cheesecake",
+      "brand_name": "Cheesecake Factory",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74613",
+      "food_name": "Oreo Pudding Snack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jell-o/oreo-pudding-snack",
+      "brand_name": "Jell-O",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14472992",
+      "food_name": "Oreo Dessert Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-humor/oreo-dessert-bar",
+      "brand_name": "Good Humor",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29636691",
+      "food_name": "Fudge Covered Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nabisco/fudge-covered-oreo",
+      "brand_name": "Nabisco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25112544",
+      "food_name": "Oreo Candy Cane",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spangler/oreo-candy-cane",
+      "brand_name": "Spangler",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25980246",
+      "food_name": "Oreo Coffee Creamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/international-delight/oreo-coffee-creamer",
+      "brand_name": "International Delight",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52773920",
+      "food_name": "Oreo Whey Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ghost/oreo-whey-protein",
+      "brand_name": "Ghost",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46607757",
+      "food_name": "Gluten Free Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nabisco/gluten-free-oreo",
+      "brand_name": "Nabisco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72270657",
+      "food_name": "Classic Oreo Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burger-king/classic-oreo-shake",
+      "brand_name": "Burger King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72270677",
+      "food_name": "Chocolate Oreo Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burger-king/chocolate-oreo-shake",
+      "brand_name": "Burger King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69598416",
+      "food_name": "Oreo Cookie Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/applebees/oreo-cookie-shake",
+      "brand_name": "Applebee's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73514086",
+      "food_name": "Oreo - Mix Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/braums/oreo-mix-small",
+      "brand_name": "Braum's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73514100",
+      "food_name": "Oreo - Mix Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/braums/oreo-mix-large",
+      "brand_name": "Braum's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74965915",
+      "food_name": "Chocolate Oreo Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freddys-frozen-custard/chocolate-oreo-sandwich",
+      "brand_name": "Freddy's Frozen Custard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76054528",
+      "food_name": "Oreo Cookie - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-of-subs/oreo-cookie-kids",
+      "brand_name": "Port of Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84625715",
+      "food_name": "Oreo Dream Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tim-hortons/oreo-dream-cookie",
+      "brand_name": "Tim Hortons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85202520",
+      "food_name": "Halloween OREO Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/halloween-oreo-cookies",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76021466",
+      "food_name": "Oreo Cookie Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carls-jr/oreo-cookie-shake",
+      "brand_name": "Carl's Jr.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76026798",
+      "food_name": "Oreo Layered Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baskin-robbins/oreo-layered-sundae",
+      "brand_name": "Baskin-Robbins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100118145",
+      "food_name": "Oreo Protein Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ghost/oreo-protein-powder",
+      "brand_name": "Ghost",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98598864",
+      "food_name": "Oreo Cookies & Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nothing-bundt-cakes/oreo-cookies-cream",
+      "brand_name": "Nothing Bundt Cakes",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350572",
+      "food_name": "OREO Crumble Waffle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/oreo-crumble-waffle",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68183",
+      "food_name": "Oreo Cream Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/edwards/oreo-cream-pie",
+      "brand_name": "Edwards",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "871357",
+      "food_name": "Handi-Snacks Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kraft/handi-snacks-oreo",
+      "brand_name": "Kraft",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3138715",
+      "food_name": "Chocolate Covered Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sarris-candies/chocolate-covered-oreo",
+      "brand_name": "Sarris Candies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4129051",
+      "food_name": "Oreo Dirt Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jell-o/oreo-dirt-cup",
+      "brand_name": "Jell-O",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25066428",
+      "food_name": "Oreo Iced Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/international-delight/oreo-iced-coffee",
+      "brand_name": "International Delight",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41656682",
+      "food_name": "Oreo Mini Brownies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mrs-freshleys/oreo-mini-brownies",
+      "brand_name": "Mrs. Freshley's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72448273",
+      "food_name": "GOLDEN OREO Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/golden-oreo-cookies",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73146300",
+      "food_name": "Oreo Cookie Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perkins-restaurant/oreo-cookie-cheesecake",
+      "brand_name": "Perkins Restaurant",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72449553",
+      "food_name": "Double Stuf OREO",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/double-stuf-oreo",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74965910",
+      "food_name": "Vanilla Oreo Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freddys-frozen-custard/vanilla-oreo-sandwich",
+      "brand_name": "Freddy's Frozen Custard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265238",
+      "food_name": "Oreo Cookie Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/oreo-cookie-pieces",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104936985",
+      "food_name": "Oreo Milk Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dennys/oreo-milk-shake",
+      "brand_name": "Denny's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84352456",
+      "food_name": "OREO Cookie Milkshake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/oreo-cookie-milkshake",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71810730",
+      "food_name": "Oreo Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grenade/oreo-protein-bar",
+      "brand_name": "Grenade",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16823055",
+      "food_name": "Oreo O's",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/post/oreo-os",
+      "brand_name": "Post",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50357934",
+      "food_name": "Oreo Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/milka/oreo-sandwich",
+      "brand_name": "Milka",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35859679",
+      "food_name": "Oreo Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cookie-pop/oreo-popcorn",
+      "brand_name": "Cookie Pop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72448295",
+      "food_name": "OREO Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/oreo-cookies",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73511821",
+      "food_name": "Oreo Churros",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-cabana/oreo-churros",
+      "brand_name": "Taco Cabana",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73581488",
+      "food_name": "Oreo Brookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yard-house/oreo-brookie",
+      "brand_name": "Yard House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71624264",
+      "food_name": "Oreo Friendz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/friendlys/oreo-friendz",
+      "brand_name": "Friendly's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76367320",
+      "food_name": "OREO McFlurry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cosmcs/oreo-mcflurry",
+      "brand_name": "CosMc's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87296716",
+      "food_name": "OREO Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/oreo-pieces",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103955464",
+      "food_name": "Oreo Frosting",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/betty-crocker/oreo-frosting",
+      "brand_name": "Betty Crocker",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80136",
+      "food_name": "OREO Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/oreo-shake",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69474985",
+      "food_name": "Oreo Milkshake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/oreo-milkshake",
+      "brand_name": "Cheesecake Factory",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6328613",
+      "food_name": "Oreo Fluff",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hy-vee/oreo-fluff",
+      "brand_name": "Hy-Vee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18699611",
+      "food_name": "Oreo Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duck-donuts/oreo-topping",
+      "brand_name": "Duck Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21645279",
+      "food_name": "Oreo Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mrs-freshleys/oreo-brownie",
+      "brand_name": "Mrs. Freshley's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57899974",
+      "food_name": "Oreo Cakesters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nabisco/oreo-cakesters",
+      "brand_name": "Nabisco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40355645",
+      "food_name": "Oreo Milkshake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cookout/oreo-milkshake",
+      "brand_name": "CookOut",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72200155",
+      "food_name": "Oreo Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/which-wich/oreo-shake",
+      "brand_name": "Which Wich",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265279",
+      "food_name": "Oreo Crème",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/oreo-cr%C3%A8me",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88529928",
+      "food_name": "Oreo Boo!",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nabisco/oreo-boo",
+      "brand_name": "Nabisco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87341443",
+      "food_name": "OREO (Toppings)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/oreo-(toppings)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97148602",
+      "food_name": "Oreo Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/post/oreo-puffs",
+      "brand_name": "Post",
+      "food_type": "Brand"
+    }
+  ]
+}

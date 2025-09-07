@@ -1,0 +1,76 @@
+{
+  "restaurant": "Vons",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:02:24.489Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/vons.json",
+  "items": [
+    {
+      "food_id": "3571332",
+      "food_name": "Jalapeno Cheddar Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vons/jalapeno-cheddar-bagel",
+      "brand_name": "Vons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6018289",
+      "food_name": "Duck Foie Gras",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vons/duck-foie-gras",
+      "brand_name": "Vons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83049746",
+      "food_name": "Carne Asada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vons/carne-asada",
+      "brand_name": "Vons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55196",
+      "food_name": "Ahi Tuna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vons/ahi-tuna",
+      "brand_name": "Vons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1658599",
+      "food_name": "Bran Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vons/bran-muffin",
+      "brand_name": "Vons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97379704",
+      "food_name": "Chocolate Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vons/chocolate-croissant",
+      "brand_name": "Vons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3480076",
+      "food_name": "French Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vons/french-bread",
+      "brand_name": "Vons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61943398",
+      "food_name": "Ground Beef 80/20",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vons/ground-beef-80-20",
+      "brand_name": "Vons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49636",
+      "food_name": "Instant Oatmeal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vons/instant-oatmeal",
+      "brand_name": "Vons",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "restaurant": "Helados Mexico",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 15,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:49:58.933Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/helados_mexico.json",
+  "items": [
+    {
+      "food_id": "604071",
+      "food_name": "Fresa-Strawberry Premium Ice Cream Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/helados-mexico/fresa-strawberry-premium-ice-cream-bars",
+      "brand_name": "Helados Mexico",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30430974",
+      "food_name": "Mangonada Con Chamoy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/helados-mexico/mangonada-con-chamoy",
+      "brand_name": "Helados Mexico",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "604058",
+      "food_name": "Coco-Coconut Premium Ice Cream Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/helados-mexico/coco-coconut-premium-ice-cream-bars",
+      "brand_name": "Helados Mexico",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17208856",
+      "food_name": "Bolis De Crema",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/helados-mexico/bolis-de-crema",
+      "brand_name": "Helados Mexico",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "604081",
+      "food_name": "Mango Premium Ice Cream Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/helados-mexico/mango-premium-ice-cream-bars",
+      "brand_name": "Helados Mexico",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7150720",
+      "food_name": "Premium Fruit Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/helados-mexico/premium-fruit-bars",
+      "brand_name": "Helados Mexico",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "604090",
+      "food_name": "Nuez-Pecan Premium Ice Cream Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/helados-mexico/nuez-pecan-premium-ice-cream-bars",
+      "brand_name": "Helados Mexico",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6366784",
+      "food_name": "Chicle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/helados-mexico/chicle",
+      "brand_name": "Helados Mexico",
+      "food_type": "Brand"
+    }
+  ]
+}

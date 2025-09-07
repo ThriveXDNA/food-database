@@ -1,0 +1,55 @@
+{
+  "restaurant": "Perk Energy",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 642,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:37:18.005Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/perk_energy.json",
+  "items": [
+    {
+      "food_id": "71771072",
+      "food_name": "Dutch Hot Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perk-energy/dutch-hot-chocolate",
+      "brand_name": "Perk Energy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24697369",
+      "food_name": "Chai Flavor",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perk-energy/chai-flavor",
+      "brand_name": "Perk Energy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65767052",
+      "food_name": "Dark Chocolate Salted Caramel Pretzel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perk-energy/dark-chocolate-salted-caramel-pretzel",
+      "brand_name": "Perk Energy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72824900",
+      "food_name": "Tan Mocha Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perk-energy/tan-mocha-latte",
+      "brand_name": "Perk Energy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32864010",
+      "food_name": "White Chocolate Peppermint Pretzel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perk-energy/white-chocolate-peppermint-pretzel",
+      "brand_name": "Perk Energy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18822028",
+      "food_name": "Chill Mint Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perk-energy/chill-mint-chocolate",
+      "brand_name": "Perk Energy",
+      "food_type": "Brand"
+    }
+  ]
+}

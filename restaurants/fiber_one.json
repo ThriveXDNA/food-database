@@ -1,0 +1,741 @@
+{
+  "restaurant": "Fiber One",
+  "total_items": 104,
+  "pages_extracted": 6,
+  "total_search_results": 719,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:04:05.934Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fiber_one.json",
+  "items": [
+    {
+      "food_id": "28720138",
+      "food_name": "70 Calories Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/70-calories-brownie",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "474207",
+      "food_name": "Original Bran Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/original-bran-cereal",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "112173",
+      "food_name": "Fulfill Bars - Caramel Peanut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/fulfill-bars---caramel-peanut",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39972788",
+      "food_name": "Brownie Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/brownie-chocolate-chip-cookie",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25254",
+      "food_name": "Chewy Bars - Oats & Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/chewy-bars---oats-and-chocolate",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30770522",
+      "food_name": "Soft Baked Bars Cinnamon Coffee Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/soft-baked-bars-cinnamon-coffee-cake",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82500497",
+      "food_name": "Donuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/donuts",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "112172",
+      "food_name": "Fulfill Bars - Chocolate Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/fulfill-bars---chocolate-peanut-butter",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6869999",
+      "food_name": "Fruit Snacks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/fruit-snacks",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68512197",
+      "food_name": "Fulfill Bars - Chocolate Peanut Butter (40g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/fulfill-bars-chocolate-peanut-butter-(40g)",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23446563",
+      "food_name": "Protein One Chocolate Fudge Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/protein-one-chocolate-fudge-bar",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40943",
+      "food_name": "Honey Clusters Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/honey-clusters-cereal",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5727303",
+      "food_name": "90 Calorie Cinnamon Coffee Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/90-calorie-cinnamon-coffee-cake",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23493198",
+      "food_name": "Protein One Strawberries & Cream Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/protein-one-strawberries-cream-bar",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4835355",
+      "food_name": "Chewy Bars - Caramel Nut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/chewy-bars---caramel-nut",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22937485",
+      "food_name": "Protein One Peanut Butter Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/protein-one-peanut-butter-chocolate-bar",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24015725",
+      "food_name": "Protein One Chocolate Chip Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/protein-one-chocolate-chip-bar",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51086583",
+      "food_name": "Brownies Chocolate Fudge",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/brownies-chocolate-fudge",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4124336",
+      "food_name": "90 Calorie Brownies - Chocolate Fudge",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/90-calorie-brownies---chocolate-fudge",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4838597",
+      "food_name": "Protein Bars - Caramel Nut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/protein-bars---caramel-nut",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29882856",
+      "food_name": "Soft Baked Bars Birthday Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/soft-baked-bars-birthday-cake",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3982486",
+      "food_name": "Chewy Bars - Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/chewy-bars---chocolate",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8232170",
+      "food_name": "Mixed Berry Gummies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/mixed-berry-gummies",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76159",
+      "food_name": "Chewy Bars - Oats & Caramel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/chewy-bars---oats-and-caramel",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "686175",
+      "food_name": "Banana Chocolate Chip Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/banana-chocolate-chip-muffin",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29802715",
+      "food_name": "Soft Baked Bars Lemon Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/soft-baked-bars-lemon-bar",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39819258",
+      "food_name": "Chewy Bars - Chocolate Caramel & Pretzel Chewy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/chewy-bars-chocolate-caramel-pretzel-chewy",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2404325",
+      "food_name": "Traditional White Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/traditional-white-wrap",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29455162",
+      "food_name": "Chewy Bars - Chocolate Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/chewy-bars-chocolate-peanut-butter",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92270223",
+      "food_name": "Chewy Bar Oats & Chocolate Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/chewy-bar-oats-chocolate-strawberry",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92122551",
+      "food_name": "Donuts Strawberry & Crème",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/donuts-strawberry-cr%C3%A8me",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1493583",
+      "food_name": "Garden Vegetable Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/garden-vegetable-wrap",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3079868",
+      "food_name": "Honey Wheat Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/honey-wheat-wrap",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5708665",
+      "food_name": "90 Calorie Lemon Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/90-calorie-lemon-bar",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3725740",
+      "food_name": "90 Calorie Brownies - Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/90-calorie-brownies---chocolate-chip-cookie",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9880621",
+      "food_name": "Strawberry Cheesecake Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/strawberry-cheesecake-bar",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8844156",
+      "food_name": "90 Calorie Brownies - Mint Fudge",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/90-calorie-brownies---mint-fudge",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6389019",
+      "food_name": "Protein Bars - Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/protein-bars---peanut-butter",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19907981",
+      "food_name": "Supreme Brownie Triple Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/supreme-brownie-triple-chocolate",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4871494",
+      "food_name": "80 Calorie Cereal - Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/80-calorie-cereal---chocolate",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19541610",
+      "food_name": "Brownie Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/brownie-bites",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80793",
+      "food_name": "Banana Nut Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/banana-nut-muffins",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19380537",
+      "food_name": "Supreme Brownie Cookie Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/supreme-brownie-cookie-dough",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22207567",
+      "food_name": "Oats & Chocolate Mini Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/oats-chocolate-mini-bar",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "704349",
+      "food_name": "90 Calorie Chewy Bars - Chocolate Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/90-calorie-chewy-bars---chocolate-peanut-butter",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "692278",
+      "food_name": "90 Calorie Chewy Bars - Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/90-calorie-chewy-bars---chocolate",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10538155",
+      "food_name": "90 Calorie Soft Baked Bars - Pumpkin Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/90-calorie-soft-baked-bars---pumpkin-bar",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "253509",
+      "food_name": "Lightly Sweetened Wheat & Bran Flakes Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/lightly-sweetened-wheat-and-bran-flakes-cereal",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "702295",
+      "food_name": "Light Wheat Multigrain English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/light-wheat-multigrain-english-muffin",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2169176",
+      "food_name": "Thin Sandwich Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/thin-sandwich-rolls",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2244752",
+      "food_name": "90 Calorie Brownies - Chocolate Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/90-calorie-brownies---chocolate-peanut-butter",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14673303",
+      "food_name": "Salted Caramel & Dark Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/salted-caramel-and-dark-chocolate-bar",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "112175",
+      "food_name": "Chewy Bars - Chocolate Mocha",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/chewy-bars---chocolate-mocha",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85519",
+      "food_name": "Harvest Clusters Whole Grain Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/harvest-clusters-whole-grain-cereal",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3505334",
+      "food_name": "100% Whole Wheat English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/100%25-whole-wheat-english-muffin",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69389070",
+      "food_name": "Peanut Butter Cocoa Crumble Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/peanut-butter-cocoa-crumble-protein-bar",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7185365",
+      "food_name": "100 Calorie White Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/100-calorie-white-bread",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66466221",
+      "food_name": "Fudge Chocolate Cookie Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/fudge-chocolate-cookie-protein-bar",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5178866",
+      "food_name": "Soft Baked Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/soft-baked-cookies",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21629240",
+      "food_name": "Birthday Cake Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/birthday-cake-bar",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32332376",
+      "food_name": "Protein One Salted Caramel Crisp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/protein-one-salted-caramel-crisp",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9391349",
+      "food_name": "Protein Bars - Cookies & Creme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/protein-bars---cookies-and-creme",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83356",
+      "food_name": "Strawberry Toaster Pastry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/strawberry-toaster-pastry",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43879",
+      "food_name": "Chewy Bars - Oats & Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/chewy-bars---oats-and-peanut-butter/fat-4",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19269506",
+      "food_name": "Chocolate Caramel Brownie Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/chocolate-caramel-brownie-bites",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62012",
+      "food_name": "Chewy Bars - Oats & Apple Streusel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/chewy-bars---oats-and-apple-streusel",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8998179",
+      "food_name": "Chocolate Chip Crunchy Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/chocolate-chip-crunchy-cookie",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7854146",
+      "food_name": "Strawberry Streusel Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/strawberry-streusel-bar",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38911953",
+      "food_name": "Multigrain English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/multigrain-english-muffin",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "520323",
+      "food_name": "100% Whole Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/100%25-whole-wheat-bread",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4960009",
+      "food_name": "Protein Bars - Coconut Almond",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/protein-bars---coconut-almond",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6916777",
+      "food_name": "Maple Brown Sugar Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/maple-brown-sugar-cereal",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14195562",
+      "food_name": "Cheesecake Bars - Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/cheesecake-bars---chocolate",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19655544",
+      "food_name": "Cookie Bites - Crunchy Lemon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/cookie-bites-crunchy-lemon",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16485007",
+      "food_name": "Protein Nut Chewy Bar - Sweet & Salty Roasted Nut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/protein-nut-chewy-bar---sweet-and-salty-roasted-nut",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32675597",
+      "food_name": "Mint Fudge Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/mint-fudge-brownie",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "594044",
+      "food_name": "Blueberry Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/blueberry-muffins",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2748408",
+      "food_name": "Apple Cinnamon Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/apple-cinnamon-muffins",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69683",
+      "food_name": "Chewy Bars - Oats & Strawberries with Almonds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/chewy-bars---oats-and-strawberries-with-almonds",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83201",
+      "food_name": "Multigrain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/multigrain-bread",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5009374",
+      "food_name": "Chewy Bars - Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/chewy-bars---trail-mix",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17045241",
+      "food_name": "Protein Nut Chewy Bar - Chocolate Pretzel Nut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/protein-nut-chewy-bar---chocolate-pretzel-nut",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9884839",
+      "food_name": "Salted Caramel Cheesecake Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/salted-caramel-cheesecake-bar",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12640290",
+      "food_name": "Cheesecake Bars - Key Lime",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/cheesecake-bars---key-lime",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7668476",
+      "food_name": "Blueberry Streusel Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/blueberry-streusel-bar",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7773864",
+      "food_name": "Chocolate Chunk Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/chocolate-chunk-cookie",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7813635",
+      "food_name": "Oatmeal Raisin Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/oatmeal-raisin-cookie",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1355570",
+      "food_name": "Original English Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/original-english-muffins",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6640205",
+      "food_name": "Meal Bar - Strawberry Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/meal-bar---strawberry-greek-yogurt",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21212152",
+      "food_name": "Cookie Bites - Crunchy Double Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/cookie-bites-crunchy-double-chocolate",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1257453",
+      "food_name": "Honey Whole Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/honey-whole-wheat-bread",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80422",
+      "food_name": "Brown Sugar Cinnamon Toaster Pastry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/brown-sugar-cinnamon-toaster-pastry",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32980",
+      "food_name": "Caramel Delight Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/caramel-delight-cereal",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2017278",
+      "food_name": "12 Grain Thin Sandwich Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/12-grain-thin-sandwich-rolls",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3754164",
+      "food_name": "Chewy Bars - Strawberry PB&J",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/chewy-bars---strawberry-pbandj",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7110044",
+      "food_name": "Meal Bar - Chocolate Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/meal-bar---chocolate-peanut-butter",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14168683",
+      "food_name": "9 Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/9-grain-bread",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4243037",
+      "food_name": "90 Calorie Chewy Bars - Chocolate Caramel & Pretzel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/90-calorie-chewy-bars---chocolate-caramel-and-pretzel",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3178138",
+      "food_name": "Hearty Wheat Multigrain English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/hearty-wheat-multigrain-english-muffin",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7514633",
+      "food_name": "90 Calorie Soft Baked Bars - Caramel Sea Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/90-calorie-soft-baked-bars---caramel-sea-salt",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9979714",
+      "food_name": "Sugar Crunchy Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/sugar-crunchy-cookie",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "628982",
+      "food_name": "Soft Oatmeal Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/soft-oatmeal-bread",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "657182",
+      "food_name": "Raisin Bran Clusters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/raisin-bran-clusters",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6870273",
+      "food_name": "Meal Bar - Dark Chocolate Almond",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiber-one/meal-bar---dark-chocolate-almond",
+      "brand_name": "Fiber One",
+      "food_type": "Brand"
+    }
+  ]
+}

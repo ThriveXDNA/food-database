@@ -1,0 +1,20 @@
+{
+  "restaurant": "Silver Bell Bakery",
+  "total_items": 1,
+  "pages_extracted": 5,
+  "total_search_results": 234,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:16:53.424Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/silver_bell_bakery.json",
+  "items": [
+    {
+      "food_id": "8669916",
+      "food_name": "Multi Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/silver-bell-bakery/multi-grain-bread",
+      "brand_name": "Silver Bell Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

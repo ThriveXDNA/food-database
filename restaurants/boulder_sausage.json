@@ -1,0 +1,69 @@
+{
+  "restaurant": "Boulder Sausage",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 3454,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:28:07.779Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/boulder_sausage.json",
+  "items": [
+    {
+      "food_id": "6494858",
+      "food_name": "German Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boulder-sausage/german-sausage",
+      "brand_name": "Boulder Sausage",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2136226",
+      "food_name": "Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boulder-sausage/italian-sausage",
+      "brand_name": "Boulder Sausage",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1042684",
+      "food_name": "Breakfast Sausage (46g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boulder-sausage/breakfast-sausage-(46g)",
+      "brand_name": "Boulder Sausage",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1049015",
+      "food_name": "Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boulder-sausage/italian-sausage/25-oz",
+      "brand_name": "Boulder Sausage",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7378390",
+      "food_name": "Breakfast Sausage (70g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boulder-sausage/breakfast-sausage-(70g)",
+      "brand_name": "Boulder Sausage",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1232705",
+      "food_name": "Beer Bratwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boulder-sausage/beer-bratwurst",
+      "brand_name": "Boulder Sausage",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19203715",
+      "food_name": "Bratwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boulder-sausage/bratwurst",
+      "brand_name": "Boulder Sausage",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1790060",
+      "food_name": "Fresh Chorizo Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boulder-sausage/fresh-chorizo-sausage",
+      "brand_name": "Boulder Sausage",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "restaurant": "King Harvest",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 478,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:04:37.358Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/king_harvest.json",
+  "items": [
+    {
+      "food_id": "2477675",
+      "food_name": "Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-harvest/hummus",
+      "brand_name": "King Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2796264",
+      "food_name": "Roasted Garlic Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-harvest/roasted-garlic-hummus",
+      "brand_name": "King Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4710523",
+      "food_name": "Spinach Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-harvest/spinach-hummus",
+      "brand_name": "King Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37689870",
+      "food_name": "Red Pepper Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-harvest/red-pepper-hummus",
+      "brand_name": "King Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38728834",
+      "food_name": "Black Olive Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-harvest/black-olive-hummus",
+      "brand_name": "King Harvest",
+      "food_type": "Brand"
+    }
+  ]
+}

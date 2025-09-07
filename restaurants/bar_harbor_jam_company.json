@@ -1,0 +1,20 @@
+{
+  "restaurant": "Bar Harbor Jam Company",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 3667,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:07:01.900Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bar_harbor_jam_company.json",
+  "items": [
+    {
+      "food_id": "6887340",
+      "food_name": "Wild Blueberry Jam",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-harbor-jam-company/wild-blueberry-jam",
+      "brand_name": "Bar Harbor Jam Company",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Ocean Eclipse",
+  "total_items": 6,
+  "pages_extracted": 2,
+  "total_search_results": 57,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:27:32.539Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ocean_eclipse.json",
+  "items": [
+    {
+      "food_id": "1310064",
+      "food_name": "Rockfish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-eclipse/rockfish",
+      "brand_name": "Ocean Eclipse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2069662",
+      "food_name": "Cod",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-eclipse/cod",
+      "brand_name": "Ocean Eclipse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "772208",
+      "food_name": "Catfish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-eclipse/catfish",
+      "brand_name": "Ocean Eclipse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4362025",
+      "food_name": "Tilapia",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-eclipse/tilapia",
+      "brand_name": "Ocean Eclipse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "721071",
+      "food_name": "Alaskan Pollock",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-eclipse/alaskan-pollock",
+      "brand_name": "Ocean Eclipse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "752693",
+      "food_name": "Salmon Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-eclipse/salmon-burger",
+      "brand_name": "Ocean Eclipse",
+      "food_type": "Brand"
+    }
+  ]
+}

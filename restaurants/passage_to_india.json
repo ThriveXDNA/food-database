@@ -1,0 +1,34 @@
+{
+  "restaurant": "Passage to India",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 366,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:39:47.312Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/passage_to_india.json",
+  "items": [
+    {
+      "food_id": "24256080",
+      "food_name": "Butter Chicken Simmer Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/passage-to-india/butter-chicken-simmer-sauce",
+      "brand_name": "Passage to India",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65740706",
+      "food_name": "Tikka Masala",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/passage-to-india/tikka-masala",
+      "brand_name": "Passage to India",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71222776",
+      "food_name": "Cashew Korma",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/passage-to-india/cashew-korma",
+      "brand_name": "Passage to India",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Lebanese Taverna",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:57:50.795Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/lebanese_taverna.json",
+  "items": [
+    {
+      "food_id": "6071602",
+      "food_name": "Chicken Shwarma",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lebanese-taverna/chicken-shwarma",
+      "brand_name": "Lebanese Taverna",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4387724",
+      "food_name": "Pita Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lebanese-taverna/pita-bread",
+      "brand_name": "Lebanese Taverna",
+      "food_type": "Brand"
+    }
+  ]
+}

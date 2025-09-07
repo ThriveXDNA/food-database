@@ -1,0 +1,62 @@
+{
+  "restaurant": "Brookwood Farms",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 17,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:52:44.578Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/brookwood_farms.json",
+  "items": [
+    {
+      "food_id": "909957",
+      "food_name": "Pork Barbeque",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brookwood-farms/pork-barbeque",
+      "brand_name": "Brookwood Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5748148",
+      "food_name": "Beef Brisket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brookwood-farms/beef-brisket",
+      "brand_name": "Brookwood Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32934209",
+      "food_name": "Real Pit Cooked Smoked & Sliced Turkey Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brookwood-farms/real-pit-cooked-smoked-sliced-turkey-breast",
+      "brand_name": "Brookwood Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47430085",
+      "food_name": "Smoked & Sliced Pork Tenderloin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brookwood-farms/smoked-sliced-pork-tenderloin",
+      "brand_name": "Brookwood Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10703397",
+      "food_name": "Pit Cooked BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brookwood-farms/pit-cooked-bbq",
+      "brand_name": "Brookwood Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61038657",
+      "food_name": "Baby Back Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brookwood-farms/baby-back-ribs",
+      "brand_name": "Brookwood Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38836102",
+      "food_name": "Sliced Beef Brisket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brookwood-farms/sliced-beef-brisket",
+      "brand_name": "Brookwood Farms",
+      "food_type": "Brand"
+    }
+  ]
+}

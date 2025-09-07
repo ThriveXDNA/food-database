@@ -1,0 +1,27 @@
+{
+  "restaurant": "Matcha Love",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 452,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:40:35.863Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/matcha_love.json",
+  "items": [
+    {
+      "food_id": "22435558",
+      "food_name": "Culinary Matcha",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/matcha-love/culinary-matcha",
+      "brand_name": "Matcha Love",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37647750",
+      "food_name": "Japanese Matcha + Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/matcha-love/japanese-matcha-green-tea",
+      "brand_name": "Matcha Love",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Pepper Palace",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 2034,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:43:04.233Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pepper_palace.json",
+  "items": [
+    {
+      "food_id": "13067137",
+      "food_name": "Sweet Bourbon Glaze",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pepper-palace/sweet-bourbon-glaze",
+      "brand_name": "Pepper Palace",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46623051",
+      "food_name": "Sweet But Sassy Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pepper-palace/sweet-but-sassy-sauce",
+      "brand_name": "Pepper Palace",
+      "food_type": "Brand"
+    }
+  ]
+}

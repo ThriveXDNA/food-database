@@ -1,0 +1,41 @@
+{
+  "restaurant": "Savannah Classics",
+  "total_items": 4,
+  "pages_extracted": 4,
+  "total_search_results": 155,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:52:32.864Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/savannah_classics.json",
+  "items": [
+    {
+      "food_id": "1038662",
+      "food_name": "Original Hushpuppies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/savannah-classics/original-hushpuppies",
+      "brand_name": "Savannah Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87594",
+      "food_name": "Sweet Corn Hushpuppies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/savannah-classics/sweet-corn-hushpuppies",
+      "brand_name": "Savannah Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8550153",
+      "food_name": "Sweet Potato Casserole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/savannah-classics/sweet-potato-casserole",
+      "brand_name": "Savannah Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78331359",
+      "food_name": "Cornbread Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/savannah-classics/cornbread-dressing",
+      "brand_name": "Savannah Classics",
+      "food_type": "Brand"
+    }
+  ]
+}

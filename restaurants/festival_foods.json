@@ -1,0 +1,76 @@
+{
+  "restaurant": "Festival Foods",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 25,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:41:47.155Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/festival_foods.json",
+  "items": [
+    {
+      "food_id": "9293775",
+      "food_name": "Mom's Meatloaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/festival-foods/moms-meatloaf",
+      "brand_name": "Festival Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62625370",
+      "food_name": "California Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/festival-foods/california-roll",
+      "brand_name": "Festival Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8457323",
+      "food_name": "M&M Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/festival-foods/mandm-cookie",
+      "brand_name": "Festival Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5862237",
+      "food_name": "Oktoberfest Brat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/festival-foods/oktoberfest-brat",
+      "brand_name": "Festival Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11303336",
+      "food_name": "Chicken Dumpling Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/festival-foods/chicken-dumpling-soup",
+      "brand_name": "Festival Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51974729",
+      "food_name": "Beer Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/festival-foods/beer-dip",
+      "brand_name": "Festival Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12878535",
+      "food_name": "Norwegian Lefse",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/festival-foods/norwegian-lefse",
+      "brand_name": "Festival Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16816332",
+      "food_name": "Potato Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/festival-foods/potato-salad",
+      "brand_name": "Festival Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2917525",
+      "food_name": "Chicken Cordon Bleu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/festival-foods/chicken-cordon-bleu",
+      "brand_name": "Festival Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

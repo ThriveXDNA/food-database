@@ -1,0 +1,41 @@
+{
+  "restaurant": "Hodo Soy",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 479,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:27:13.629Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/hodo_soy.json",
+  "items": [
+    {
+      "food_id": "15048467",
+      "food_name": "Braised Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hodo-soy/braised-tofu",
+      "brand_name": "Hodo Soy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14316342",
+      "food_name": "Spicy Yuba Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hodo-soy/spicy-yuba-noodles",
+      "brand_name": "Hodo Soy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16099889",
+      "food_name": "Tofu Veggie Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hodo-soy/tofu-veggie-burger",
+      "brand_name": "Hodo Soy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7997091",
+      "food_name": "Five-Spice Tofu Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hodo-soy/five-spice-tofu-nuggets",
+      "brand_name": "Hodo Soy",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,762 @@
+{
+  "restaurant": "Sweetgreen",
+  "total_items": 107,
+  "pages_extracted": 3,
+  "total_search_results": 107,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:17:52.843Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sweetgreen.json",
+  "items": [
+    {
+      "food_id": "73518031",
+      "food_name": "Hard Boiled Egg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/hard-boiled-egg",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59111513",
+      "food_name": "Cucumbers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/cucumbers",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9161707",
+      "food_name": "Harvest Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/harvest-bowl",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855353",
+      "food_name": "Chicken Pesto Parm Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/chicken-pesto-parm-bowl",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27704782",
+      "food_name": "Roasted Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/roasted-chicken",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73518003",
+      "food_name": "Raw Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/raw-carrots",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855339",
+      "food_name": "Kale Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/kale-caesar-salad",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49963242",
+      "food_name": "Blackened Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/blackened-chicken",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855336",
+      "food_name": "Guacamole Greens Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/guacamole-greens-salad",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855427",
+      "food_name": "Pickled Onions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/pickled-onions",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55045544",
+      "food_name": "Crispy Rice Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/crispy-rice-bowl",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68399069",
+      "food_name": "Crispy Rice Treat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/crispy-rice-treat",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855452",
+      "food_name": "Warm Roasted Sweet Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/warm-roasted-sweet-potatoes",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517415",
+      "food_name": "Hot Honey Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/hot-honey-chicken",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517775",
+      "food_name": "Siete Sea Salt Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/siete-sea-salt-potato-chips",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19691452",
+      "food_name": "Spicy Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/spicy-broccoli",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68442846",
+      "food_name": "Hummus Crunch Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/hummus-crunch-salad",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17486191",
+      "food_name": "Shredded Cabbage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/shredded-cabbage",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69929371",
+      "food_name": "Chickpeas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/chickpeas",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73518034",
+      "food_name": "Roasted Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/roasted-tofu",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855345",
+      "food_name": "Super Green Goddess Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/super-green-goddess-salad",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855366",
+      "food_name": "Miso Glazed Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/miso-glazed-salmon",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855426",
+      "food_name": "Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/bread",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73518012",
+      "food_name": "Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/tomatoes",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855469",
+      "food_name": "Kale Ceasar (Chicken)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/kale-ceasar-(chicken)",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72859918",
+      "food_name": "Rosemary Focaccia",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/rosemary-focaccia",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517709",
+      "food_name": "OLIPOP Lemon Lime Soda",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/olipop-lemon-lime-soda",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83824257",
+      "food_name": "Caramelized Garlic Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/caramelized-garlic-steak",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855347",
+      "food_name": "Chicken Avocado Ranch Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/chicken-avocado-ranch-bowl",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19691413",
+      "food_name": "Shredded Kale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/shredded-kale",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35965166",
+      "food_name": "Green Goddess Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/green-goddess-ranch",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71704930",
+      "food_name": "BBQ Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/bbq-chicken-salad",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13446400",
+      "food_name": "Apples",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/apples",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517941",
+      "food_name": "Basil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/basil",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16082473",
+      "food_name": "Pesto Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/pesto-vinaigrette",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517906",
+      "food_name": "Arugula",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/arugula",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855406",
+      "food_name": "Herbed Quinoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/herbed-quinoa",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855326",
+      "food_name": "Buffalo Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/buffalo-chicken-salad",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517703",
+      "food_name": "Spindrift Grapefruit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/spindrift-grapefruit",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517943",
+      "food_name": "Cilantro",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/cilantro",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17486102",
+      "food_name": "Chopped Romaine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/chopped-romaine",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17486179",
+      "food_name": "Avocado",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/avocado",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517746",
+      "food_name": "Health-Ade Kombucha Passionfruit Tangerine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/health-ade-kombucha-passionfruit-tangerine",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517908",
+      "food_name": "Spring Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/spring-mix",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855359",
+      "food_name": "Shroomami Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/shroomami-bowl",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855414",
+      "food_name": "Wild Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/wild-rice",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48484483",
+      "food_name": "Baby Spinach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/baby-spinach",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73518028",
+      "food_name": "Goat Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/goat-cheese",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855412",
+      "food_name": "White Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/white-rice",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855342",
+      "food_name": "Kale Caesar Salad (Steak)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/kale-caesar-salad-(steak)",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855442",
+      "food_name": "Miso Glazed Salmon - Super Premium Ingredients",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/miso-glazed-salmon-super-premium-ingredients",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855435",
+      "food_name": "Caramelized Garlic Steak - Super Premium Ingredients",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/caramelized-garlic-steak-super-premium-ingredients",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855664",
+      "food_name": "Honey BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/honey-bbq-sauce",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101551560",
+      "food_name": "KBBQ Steak Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/kbbq-steak-bowl",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855362",
+      "food_name": "Steakhouse Chopped Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/steakhouse-chopped-bowl",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13446485",
+      "food_name": "Balsamic Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/balsamic-vinaigrette",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95261564",
+      "food_name": "Crispy Onions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/crispy-onions",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855457",
+      "food_name": "Lime Cilantro Jalapeno Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/lime-cilantro-jalapeno-vinaigrette",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73518087",
+      "food_name": "Hot Honey Mustard Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/hot-honey-mustard-sauce",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855431",
+      "food_name": "Veg Slaw",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/veg-slaw",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517707",
+      "food_name": "OLIPOP Vintage Cola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/olipop-vintage-cola",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73518008",
+      "food_name": "Roasted Almonds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/roasted-almonds",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855465",
+      "food_name": "Spicy Cashew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/spicy-cashew",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44788630",
+      "food_name": "Caesar Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/caesar-dressing",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73518116",
+      "food_name": "Sweetgreen Hot Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/sweetgreen-hot-sauce",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73518019",
+      "food_name": "Za'atar Breadcrumbs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/zaatar-breadcrumbs",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855334",
+      "food_name": "Garden Cobb Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/garden-cobb-salad",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35965364",
+      "food_name": "Blue Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/blue-cheese",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855385",
+      "food_name": "Ghia Le Spritz - Ginger (LA,SD,RSB Only)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/ghia-le-spritz-ginger-(lasdrsb-only)",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73518083",
+      "food_name": "Balsamic Vinegar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/balsamic-vinegar",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73518089",
+      "food_name": "Lemon Squeeze",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/lemon-squeeze",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517759",
+      "food_name": "Hu Salty Dark Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/hu-salty-dark-chocolate-bar",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29815829",
+      "food_name": "Shaved Parmesan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/shaved-parmesan",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517996",
+      "food_name": "Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/hummus",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517567",
+      "food_name": "Hummus + Focaccia",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/hummus-focaccia",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855357",
+      "food_name": "Fish Taco Bowl (Steelhead)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/fish-taco-bowl-(steelhead)",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517705",
+      "food_name": "Spindrift Raspberry Lime",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/spindrift-raspberry-lime",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73518080",
+      "food_name": "Warm Portobello Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/warm-portobello-mix",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855396",
+      "food_name": "Organic Hibiscus Berry Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/organic-hibiscus-berry-tea",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517564",
+      "food_name": "Roasted Sweet Potatoes + Hot Honey Mustard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/roasted-sweet-potatoes-hot-honey-mustard",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855393",
+      "food_name": "Health-Ade Kombucha Pink Lady",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/health-ade-kombucha-pink-lady",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855398",
+      "food_name": "Organic Jasmine Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/organic-jasmine-green-tea",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517687",
+      "food_name": "Ranchy Chicken + Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/ranchy-chicken-rice",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54805782",
+      "food_name": "Parmesan Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/parmesan-crisps",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517757",
+      "food_name": "Harney & Sons Organic Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/harney-sons-organic-lemonade",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73518015",
+      "food_name": "Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/tortilla-chips",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517761",
+      "food_name": "Hu Cashews + Vanilla Bean Hunks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/hu-cashews-vanilla-bean-hunks",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517563",
+      "food_name": "Roasted Sweet Potatoes + Green Goddess Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/roasted-sweet-potatoes-green-goddess-ranch",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73518084",
+      "food_name": "Extra Virgin Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/extra-virgin-olive-oil",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517755",
+      "food_name": "Honest Kids Apple Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/honest-kids-apple-juice",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517752",
+      "food_name": "Mother Kombucha The Trop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/mother-kombucha-the-trop",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73516300",
+      "food_name": "Red Wine Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/red-wine-vinaigrette",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517692",
+      "food_name": "Little Harvest",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/little-harvest",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855460",
+      "food_name": "Miso Sesame Ginger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/miso-sesame-ginger",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517695",
+      "food_name": "Mini Mezze",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/mini-mezze",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73518093",
+      "food_name": "Lime Squeeze",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/lime-squeeze",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855467",
+      "food_name": "Umami Seasoning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/umami-seasoning",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855371",
+      "food_name": "Siete Green Goddess Ranch Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/siete-green-goddess-ranch-potato-chips",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517698",
+      "food_name": "Sparkling Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/sparkling-water",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73518125",
+      "food_name": "Crushed Red Pepper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/crushed-red-pepper",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855470",
+      "food_name": "Rosemary Focaccia Breadsticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/rosemary-focaccia-breadsticks",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517696",
+      "food_name": "Still Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/still-water",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855403",
+      "food_name": "Tree Top Apple Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/tree-top-apple-juice",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855473",
+      "food_name": "Fish Taco (Steelhead - Sea Only)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/fish-taco-(steelhead-sea-only)",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73517751",
+      "food_name": "Mother Kombucha Hopped Passion Fruit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/mother-kombucha-hopped-passion-fruit",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855369",
+      "food_name": "Miso Glazed Steelhead",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/miso-glazed-steelhead",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85855447",
+      "food_name": "Miso Glazed Steelhead - Super Premium Ingredients",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetgreen/miso-glazed-steelhead-super-premium-ingredients",
+      "brand_name": "Sweetgreen",
+      "food_type": "Brand"
+    }
+  ]
+}

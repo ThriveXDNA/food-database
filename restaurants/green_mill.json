@@ -1,0 +1,62 @@
+{
+  "restaurant": "Green Mill",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 2420,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:34:59.302Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/green_mill.json",
+  "items": [
+    {
+      "food_id": "17480049",
+      "food_name": "San Marzano Pizza Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-mill/san-marzano-pizza-sauce",
+      "brand_name": "Green Mill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73196351",
+      "food_name": "Il Primo Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-mill/il-primo-pizza",
+      "brand_name": "Green Mill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6065981",
+      "food_name": "Thai Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-mill/thai-chicken-salad",
+      "brand_name": "Green Mill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2722573",
+      "food_name": "Desert Fire Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-mill/desert-fire-pasta",
+      "brand_name": "Green Mill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72480568",
+      "food_name": "Tomato Basil Pasta Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-mill/tomato-basil-pasta-sauce",
+      "brand_name": "Green Mill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12910052",
+      "food_name": "Cilantro Lime Shrimp Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-mill/cilantro-lime-shrimp-salad",
+      "brand_name": "Green Mill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58516733",
+      "food_name": "Classic Pizza Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-mill/classic-pizza-sauce",
+      "brand_name": "Green Mill",
+      "food_type": "Brand"
+    }
+  ]
+}

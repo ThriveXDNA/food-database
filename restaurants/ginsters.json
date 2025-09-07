@@ -1,0 +1,20 @@
+{
+  "restaurant": "Ginsters",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 1,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:57:20.547Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ginsters.json",
+  "items": [
+    {
+      "food_id": "2941332",
+      "food_name": "Roast Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ginsters/roast-chicken-sandwich",
+      "brand_name": "Ginsters",
+      "food_type": "Brand"
+    }
+  ]
+}

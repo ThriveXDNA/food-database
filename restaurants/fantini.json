@@ -1,0 +1,48 @@
+{
+  "restaurant": "Fantini",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:17:13.401Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fantini.json",
+  "items": [
+    {
+      "food_id": "1555029",
+      "food_name": "Scali Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fantini/scali-bread",
+      "brand_name": "Fantini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "827098",
+      "food_name": "Bulkie Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fantini/bulkie-rolls",
+      "brand_name": "Fantini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2596620",
+      "food_name": "Split Top Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fantini/split-top-roll",
+      "brand_name": "Fantini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9156251",
+      "food_name": "French Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fantini/french-roll",
+      "brand_name": "Fantini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3155419",
+      "food_name": "Onion Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fantini/onion-rolls",
+      "brand_name": "Fantini",
+      "food_type": "Brand"
+    }
+  ]
+}

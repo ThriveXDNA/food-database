@@ -1,0 +1,41 @@
+{
+  "restaurant": "Bazooka",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:05:06.263Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bazooka.json",
+  "items": [
+    {
+      "food_id": "3456475",
+      "food_name": "Ring Pop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bazooka/ring-pop",
+      "brand_name": "Bazooka",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4135536",
+      "food_name": "Bubble Gum",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bazooka/bubble-gum",
+      "brand_name": "Bazooka",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9443443",
+      "food_name": "Juicy Drop Pop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bazooka/juicy-drop-pop",
+      "brand_name": "Bazooka",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5071107",
+      "food_name": "Juicy Drop Taffy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bazooka/juicy-drop-taffy",
+      "brand_name": "Bazooka",
+      "food_type": "Brand"
+    }
+  ]
+}

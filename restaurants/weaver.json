@@ -1,0 +1,62 @@
+{
+  "restaurant": "Weaver",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:05:47.399Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/weaver.json",
+  "items": [
+    {
+      "food_id": "4159450",
+      "food_name": "Chicken Croquettes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weaver/chicken-croquettes",
+      "brand_name": "Weaver",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2310016",
+      "food_name": "Buffalo Style Wing Flats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weaver/buffalo-style-wing-flats",
+      "brand_name": "Weaver",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2751532",
+      "food_name": "Chicken Breast Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weaver/chicken-breast-nuggets",
+      "brand_name": "Weaver",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8224661",
+      "food_name": "Chicken & Cheese Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weaver/chicken-and-cheese-nuggets",
+      "brand_name": "Weaver",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2511533",
+      "food_name": "Chicken Breast Tenders",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weaver/chicken-breast-tenders",
+      "brand_name": "Weaver",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6339072",
+      "food_name": "Chicken Breast Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weaver/chicken-breast-patties",
+      "brand_name": "Weaver",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12416531",
+      "food_name": "Chicken Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weaver/chicken-patties",
+      "brand_name": "Weaver",
+      "food_type": "Brand"
+    }
+  ]
+}

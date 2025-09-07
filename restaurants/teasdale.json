@@ -1,0 +1,69 @@
+{
+  "restaurant": "Teasdale",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:24:47.920Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/teasdale.json",
+  "items": [
+    {
+      "food_id": "1146512",
+      "food_name": "Pinto Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/teasdale/pinto-beans",
+      "brand_name": "Teasdale",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2034331",
+      "food_name": "Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/teasdale/black-beans",
+      "brand_name": "Teasdale",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50248304",
+      "food_name": "Chile Verde Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/teasdale/chile-verde-beans",
+      "brand_name": "Teasdale",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47063683",
+      "food_name": "Chickpea & Cilantro Tortilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/teasdale/chickpea-cilantro-tortilla",
+      "brand_name": "Teasdale",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27648561",
+      "food_name": "Spicy Cuban Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/teasdale/spicy-cuban-black-beans",
+      "brand_name": "Teasdale",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33856768",
+      "food_name": "Mexican Chili Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/teasdale/mexican-chili-beans",
+      "brand_name": "Teasdale",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41986354",
+      "food_name": "Chipotle Rojo Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/teasdale/chipotle-rojo-beans",
+      "brand_name": "Teasdale",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49209015",
+      "food_name": "Simply Especial Black Bean & Citrus Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/teasdale/simply-especial-black-bean-citrus-tortillas",
+      "brand_name": "Teasdale",
+      "food_type": "Brand"
+    }
+  ]
+}

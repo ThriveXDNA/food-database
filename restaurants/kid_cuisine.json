@@ -1,0 +1,62 @@
+{
+  "restaurant": "Kid Cuisine",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 47,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:21:06.846Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kid_cuisine.json",
+  "items": [
+    {
+      "food_id": "3311810",
+      "food_name": "Mac & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kid-cuisine/mac-and-cheese",
+      "brand_name": "Kid Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8754612",
+      "food_name": "Beef Patty with Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kid-cuisine/beef-patty-with-cheese",
+      "brand_name": "Kid Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1951836",
+      "food_name": "Pop Star Popcorn Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kid-cuisine/pop-star-popcorn-chicken",
+      "brand_name": "Kid Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "559997",
+      "food_name": "All Star Chicken Breast Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kid-cuisine/all-star-chicken-breast-nuggets",
+      "brand_name": "Kid Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3675267",
+      "food_name": "Cheese Stuffed Crust Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kid-cuisine/cheese-stuffed-crust-pizza",
+      "brand_name": "Kid Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95515762",
+      "food_name": "Dino Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kid-cuisine/dino-nuggets",
+      "brand_name": "Kid Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "560008",
+      "food_name": "Carnival Corn Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kid-cuisine/carnival-corn-dog",
+      "brand_name": "Kid Cuisine",
+      "food_type": "Brand"
+    }
+  ]
+}

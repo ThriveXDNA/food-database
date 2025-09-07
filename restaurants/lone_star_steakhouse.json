@@ -1,0 +1,55 @@
+{
+  "restaurant": "Lone Star Steakhouse",
+  "total_items": 6,
+  "pages_extracted": 4,
+  "total_search_results": 164,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:48:38.743Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/lone_star_steakhouse.json",
+  "items": [
+    {
+      "food_id": "4444372",
+      "food_name": "Sirloin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lone-star-steakhouse/sirloin",
+      "brand_name": "Lone Star Steakhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4686428",
+      "food_name": "Dinner Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lone-star-steakhouse/dinner-salad",
+      "brand_name": "Lone Star Steakhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1636303",
+      "food_name": "Dinner Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lone-star-steakhouse/dinner-roll",
+      "brand_name": "Lone Star Steakhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2555825",
+      "food_name": "Baked Sweet Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lone-star-steakhouse/baked-sweet-potato",
+      "brand_name": "Lone Star Steakhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2555534",
+      "food_name": "Texas Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lone-star-steakhouse/texas-rice",
+      "brand_name": "Lone Star Steakhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9107599",
+      "food_name": "Garlic Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lone-star-steakhouse/garlic-mashed-potatoes",
+      "brand_name": "Lone Star Steakhouse",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "restaurant": "Austin Blues",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 20,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:44:08.096Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/austin_blues.json",
+  "items": [
+    {
+      "food_id": "92170",
+      "food_name": "BBQ Pulled Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/austin-blues/bbq-pulled-pork",
+      "brand_name": "Austin Blues",
+      "food_type": "Brand"
+    }
+  ]
+}

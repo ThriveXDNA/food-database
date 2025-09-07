@@ -1,0 +1,69 @@
+{
+  "restaurant": "Vietti",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:49:41.428Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/vietti.json",
+  "items": [
+    {
+      "food_id": "1556198",
+      "food_name": "Beef in BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vietti/beef-in-bbq-sauce",
+      "brand_name": "Vietti",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22189368",
+      "food_name": "All Natural Chili No Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vietti/all-natural-chili-no-beans",
+      "brand_name": "Vietti",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75589",
+      "food_name": "All Natural Chili with Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vietti/all-natural-chili-with-beans",
+      "brand_name": "Vietti",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22119613",
+      "food_name": "Baked Beans with Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vietti/baked-beans-with-bacon",
+      "brand_name": "Vietti",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75554",
+      "food_name": "Fat Free Hot Dog Chili Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vietti/fat-free-hot-dog-chili-sauce",
+      "brand_name": "Vietti",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16412037",
+      "food_name": "Buffalo Style Chicken Chili with Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vietti/buffalo-style-chicken-chili-with-beans",
+      "brand_name": "Vietti",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20364345",
+      "food_name": "Ancho Chicken Chili with Beans & Porter Ale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vietti/ancho-chicken-chili-with-beans-porter-ale",
+      "brand_name": "Vietti",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30938954",
+      "food_name": "Beef Stew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vietti/beef-stew",
+      "brand_name": "Vietti",
+      "food_type": "Brand"
+    }
+  ]
+}

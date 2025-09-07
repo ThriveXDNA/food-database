@@ -1,0 +1,34 @@
+{
+  "restaurant": "Primo Hoagies",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 37,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:00:10.434Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/primo_hoagies.json",
+  "items": [
+    {
+      "food_id": "7234337",
+      "food_name": "Italian Diablo (Half Primo)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo-hoagies/italian-diablo-(half-primo)",
+      "brand_name": "Primo Hoagies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5173629",
+      "food_name": "Bada Bing (Primo)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo-hoagies/bada-bing-(primo)",
+      "brand_name": "Primo Hoagies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10937379",
+      "food_name": "Soprano (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo-hoagies/soprano-(small)",
+      "brand_name": "Primo Hoagies",
+      "food_type": "Brand"
+    }
+  ]
+}

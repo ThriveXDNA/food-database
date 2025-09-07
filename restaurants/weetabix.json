@@ -1,0 +1,83 @@
+{
+  "restaurant": "Weetabix",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:52:12.262Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/weetabix.json",
+  "items": [
+    {
+      "food_id": "5347973",
+      "food_name": "Whole Grain Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weetabix/whole-grain-cereal",
+      "brand_name": "Weetabix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2575910",
+      "food_name": "Organic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weetabix/organic",
+      "brand_name": "Weetabix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3123615",
+      "food_name": "Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weetabix/chocolate",
+      "brand_name": "Weetabix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91402357",
+      "food_name": "Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weetabix/original",
+      "brand_name": "Weetabix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28950576",
+      "food_name": "Protein Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weetabix/protein-crunch",
+      "brand_name": "Weetabix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2243919",
+      "food_name": "Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weetabix/chocolate/1-biscuit",
+      "brand_name": "Weetabix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "670839",
+      "food_name": "Organic Crispy Flakes & Fiber",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weetabix/organic-crispy-flakes-and-fiber",
+      "brand_name": "Weetabix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12902451",
+      "food_name": "Oatibix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weetabix/oatibix",
+      "brand_name": "Weetabix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2497987",
+      "food_name": "Minis Chocolate Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weetabix/minis-chocolate-chip",
+      "brand_name": "Weetabix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6158834",
+      "food_name": "Ready Brek",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weetabix/ready-brek",
+      "brand_name": "Weetabix",
+      "food_type": "Brand"
+    }
+  ]
+}

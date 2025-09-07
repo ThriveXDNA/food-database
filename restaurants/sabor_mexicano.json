@@ -1,0 +1,20 @@
+{
+  "restaurant": "Sabor Mexicano",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 16,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:26:48.237Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sabor_mexicano.json",
+  "items": [
+    {
+      "food_id": "29758633",
+      "food_name": "Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sabor-mexicano/tortilla-chips",
+      "brand_name": "Sabor Mexicano",
+      "food_type": "Brand"
+    }
+  ]
+}

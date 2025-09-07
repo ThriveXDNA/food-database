@@ -1,0 +1,1694 @@
+{
+  "restaurant": "Wendy's",
+  "search_variation_used": "Wendyss",
+  "total_items": 240,
+  "pages_extracted": 5,
+  "total_search_results": 240,
+  "filtering_method": "Variation search with minimal filtering",
+  "last_updated": "2025-09-06T22:56:24.338Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Multi-variation restaurant search for maximum capture",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/wendy_s.json",
+  "items": [
+    {
+      "food_id": "50937139",
+      "food_name": "Wendy’s Spicy Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pringles/wendy%E2%80%99s-spicy-chicken",
+      "brand_name": "Pringles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58537069",
+      "food_name": "Wendy's Frosty Chocolatey Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kelloggs/wendys-frosty-chocolatey-cereal",
+      "brand_name": "Kellogg's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "286662",
+      "food_name": "Double Stack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/double-stack",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78688",
+      "food_name": "Plain Baked Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/plain-baked-potato",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40851",
+      "food_name": "Jr. Cheeseburger Deluxe",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/jr-cheeseburger-deluxe",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13482015",
+      "food_name": "Taco Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/taco-salad",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3483745",
+      "food_name": "Chili Cheese Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/chili-cheese-fries",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4328490",
+      "food_name": "Jr. Bacon Cheeseburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/jr-bacon-cheeseburger",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3913832",
+      "food_name": "Son of Baconator",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/son-of-baconator",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11446177",
+      "food_name": "Dave's Double",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/daves-double",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27953980",
+      "food_name": "Bacon Double Stack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/bacon-double-stack",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28246441",
+      "food_name": "Breakfast Baconator",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/breakfast-baconator",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34362994",
+      "food_name": "Bacon, Egg & Cheese Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/bacon-egg-cheese-biscuit",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34407777",
+      "food_name": "Sausage, Egg & Swiss Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/sausage-egg-swiss-croissant",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42818292",
+      "food_name": "Classic Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/classic-chicken-sandwich",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32928544",
+      "food_name": "Maple Bacon Chicken Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/maple-bacon-chicken-croissant",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70170714",
+      "food_name": "Cobb Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/cobb-salad",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71231634",
+      "food_name": "Baconator",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/baconator",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71231649",
+      "food_name": "Big Bacon Classic Double",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/big-bacon-classic-double",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71231682",
+      "food_name": "Big Bacon Classic Triple",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/big-bacon-classic-triple",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71231808",
+      "food_name": "Spicy Chicken Nuggets - 4 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-chicken-nuggets-4-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71231821",
+      "food_name": "Asiago Ranch Classic Chicken Club",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/asiago-ranch-classic-chicken-club",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71231881",
+      "food_name": "Parmesan Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/parmesan-caesar-salad",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71231896",
+      "food_name": "Jr. Natural-Cut Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/jr-natural-cut-fries",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71231949",
+      "food_name": "Sour Cream and Chive Baked Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/sour-cream-and-chive-baked-potato",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71231958",
+      "food_name": "Bacon Cheese Baked Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/bacon-cheese-baked-potato",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71232440",
+      "food_name": "Cheese Baked Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/cheese-baked-potato",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71232477",
+      "food_name": "Bacon, Egg & Swiss Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/bacon-egg-swiss-croissant",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71232544",
+      "food_name": "Homestyle French Toast Sticks - 4 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/homestyle-french-toast-sticks-4-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71233159",
+      "food_name": "Pure Life Bottled Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/pure-life-bottled-water",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71233163",
+      "food_name": "Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/milk",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71233166",
+      "food_name": "Chocolate Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/chocolate-milk",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71233167",
+      "food_name": "Honest Kids Fruit Punch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/honest-kids-fruit-punch",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71233173",
+      "food_name": "Simply Orange Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/simply-orange-juice",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743352",
+      "food_name": "Honey BBQ Nuggs - 6 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/honey-bbq-nuggs-6-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743373",
+      "food_name": "Spicy Ghost Pepper Nuggs - 6 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-ghost-pepper-nuggs-6-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743380",
+      "food_name": "Spicy Honey BBQ Nuggs - 10 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-honey-bbq-nuggs-10-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743452",
+      "food_name": "Buffalo Nuggs - 20 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/buffalo-nuggs-20-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743483",
+      "food_name": "Breakfast Burrito, Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/breakfast-burrito-sausage",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743512",
+      "food_name": "Sausage, Egg & Cheese English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/sausage-egg-cheese-english-muffin",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743519",
+      "food_name": "Bacon, Egg & Cheese English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/bacon-egg-cheese-english-muffin",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743559",
+      "food_name": "Egg & Cheese Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/egg-cheese-biscuit",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743563",
+      "food_name": "Regular Hot Coffee - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/regular-hot-coffee-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743581",
+      "food_name": "Regular Hot Coffee - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/regular-hot-coffee-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743590",
+      "food_name": "Regular Hot Coffee - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/regular-hot-coffee-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743599",
+      "food_name": "Chocolate Frosty Cream Cold Brew - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/chocolate-frosty-cream-cold-brew-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743943",
+      "food_name": "Chocolate Frosty Cream Cold Brew - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/chocolate-frosty-cream-cold-brew-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743956",
+      "food_name": "Caramel Frosty Cream Cold Brew - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/caramel-frosty-cream-cold-brew-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743957",
+      "food_name": "Caramel Frosty Cream Cold Brew - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/caramel-frosty-cream-cold-brew-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743968",
+      "food_name": "Vanilla Frosty Cream Cold Brew - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/vanilla-frosty-cream-cold-brew-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743974",
+      "food_name": "Cold Brew - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/cold-brew-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743977",
+      "food_name": "Cold Brew - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/cold-brew-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743983",
+      "food_name": "Cold Brew - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/cold-brew-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744012",
+      "food_name": "Pineapple Mango Lemonade - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/pineapple-mango-lemonade-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744015",
+      "food_name": "Pineapple Mango Lemonade - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/pineapple-mango-lemonade-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744022",
+      "food_name": "Pineapple Mango Lemonade - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/pineapple-mango-lemonade-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744133",
+      "food_name": "Coca-Cola - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/coca-cola-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744157",
+      "food_name": "Coca-Cola Zero Sugar - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/coca-cola-zero-sugar-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744166",
+      "food_name": "Diet Coke - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/diet-coke-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744179",
+      "food_name": "Sprite - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/sprite-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744193",
+      "food_name": "Dr Pepper - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/dr-pepper-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744202",
+      "food_name": "Diet Dr Pepper - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/diet-dr-pepper-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744207",
+      "food_name": "Diet Dr Pepper - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/diet-dr-pepper-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744213",
+      "food_name": "Barq's Root Beer - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/barqs-root-beer-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744223",
+      "food_name": "Barq's Root Beer - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/barqs-root-beer-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744230",
+      "food_name": "Fanta Orange - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/fanta-orange-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744232",
+      "food_name": "Fanta Orange - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/fanta-orange-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744254",
+      "food_name": "Hi-C Flashin' Fruit Punch - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/hi-c-flashin-fruit-punch-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83745116",
+      "food_name": "Chocolate Chunk Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/chocolate-chunk-cookie",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838426",
+      "food_name": "Brewed Unsweetened Iced Tea - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/brewed-unsweetened-iced-tea-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838431",
+      "food_name": "Brownie Batter Chocolate Frosty Swirl - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/brownie-batter-chocolate-frosty-swirl-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838446",
+      "food_name": "Brownie Batter Vanilla Frosty Swirl - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/brownie-batter-vanilla-frosty-swirl-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838451",
+      "food_name": "Brownie Batter Vanilla Frosty Swirl - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/brownie-batter-vanilla-frosty-swirl-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838467",
+      "food_name": "Buffalo Nuggs Party Pack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/buffalo-nuggs-party-pack",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838482",
+      "food_name": "Caramel Chocolate Frosty Swirl - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/caramel-chocolate-frosty-swirl-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838486",
+      "food_name": "Caramel Chocolate Frosty Swirl - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/caramel-chocolate-frosty-swirl-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838495",
+      "food_name": "Caramel Crunch Chocolate Frosty Fusion - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/caramel-crunch-chocolate-frosty-fusion-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838512",
+      "food_name": "Caramel Crunch Chocolate Frosty Fusion - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/caramel-crunch-chocolate-frosty-fusion-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838515",
+      "food_name": "Caramel Crunch Vanilla Frosty Fusion - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/caramel-crunch-vanilla-frosty-fusion-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838520",
+      "food_name": "Caramel Crunch Vanilla Frosty Fusion - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/caramel-crunch-vanilla-frosty-fusion-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838533",
+      "food_name": "Caramel Vanilla Frosty Swirl - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/caramel-vanilla-frosty-swirl-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838536",
+      "food_name": "Caramel Vanilla Frosty Swirl - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/caramel-vanilla-frosty-swirl-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838609",
+      "food_name": "Chicken Nuggets - 6 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/chicken-nuggets-6-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838618",
+      "food_name": "Chili - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/chili-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838647",
+      "food_name": "Classic Chocolate Frosty - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/classic-chocolate-frosty-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892031",
+      "food_name": "Egg & Cheese English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/egg-cheese-english-muffin",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892036",
+      "food_name": "Fresh Baked Oatmeal Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/fresh-baked-oatmeal-bar",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892074",
+      "food_name": "Jr. Vanilla Frosty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/jr-vanilla-frosty",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892077",
+      "food_name": "Kids' All-Natural Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/kids-all-natural-lemonade",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892078",
+      "food_name": "Kids' Strawberry Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/kids-strawberry-lemonade",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892081",
+      "food_name": "Kids' Tangerine Twist Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/kids-tangerine-twist-lemonade",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892082",
+      "food_name": "Kids' Unsweetened Iced Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/kids-unsweetened-iced-tea",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892089",
+      "food_name": "Natural-Cut Fries - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/natural-cut-fries-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892096",
+      "food_name": "Nuggs Party Pack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/nuggs-party-pack",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892102",
+      "food_name": "OREO Brownie Twist Vanilla Frosty Fusion - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/oreo-brownie-twist-vanilla-frosty-fusion-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892104",
+      "food_name": "OREO Brownie Twist Vanilla Frosty Fusion - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/oreo-brownie-twist-vanilla-frosty-fusion-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892105",
+      "food_name": "OREO Brownie Twist Vanilla Frosty Fusion - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/oreo-brownie-twist-vanilla-frosty-fusion-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892109",
+      "food_name": "Pop-Tarts Strawberry Chocolate Frosty Fusion - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/pop-tarts-strawberry-chocolate-frosty-fusion-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892112",
+      "food_name": "Pop-Tarts Strawberry Vanilla Frosty Fusion - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/pop-tarts-strawberry-vanilla-frosty-fusion-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892118",
+      "food_name": "Pop-Tarts Strawberry Vanilla Frosty Fusion - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/pop-tarts-strawberry-vanilla-frosty-fusion-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892123",
+      "food_name": "Sausage & Cheese English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/sausage-cheese-english-muffin",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892127",
+      "food_name": "Seasoned Potatoes - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/seasoned-potatoes-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892138",
+      "food_name": "Seasoned Potatoes - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/seasoned-potatoes-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892149",
+      "food_name": "Spicy Buffalo Nuggs Party Pack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-buffalo-nuggs-party-pack",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892150",
+      "food_name": "Spicy Honey BBQ Nuggs Party Pack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-honey-bbq-nuggs-party-pack",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892154",
+      "food_name": "Strawberry Chocolate Frosty Swirl - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/strawberry-chocolate-frosty-swirl-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892158",
+      "food_name": "Strawberry Chocolate Frosty Swirl - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/strawberry-chocolate-frosty-swirl-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892159",
+      "food_name": "Strawberry Chocolate Frosty Swirl - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/strawberry-chocolate-frosty-swirl-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892165",
+      "food_name": "Strawberry Vanilla Frosty Swirl - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/strawberry-vanilla-frosty-swirl-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892167",
+      "food_name": "Sweetened Iced Tea - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/sweetened-iced-tea-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892186",
+      "food_name": "Tangerine Twist Lemonade - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/tangerine-twist-lemonade-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892191",
+      "food_name": "Value Barq's Root Beer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/value-barqs-root-beer",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892195",
+      "food_name": "Value Diet Coke",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/value-diet-coke",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892196",
+      "food_name": "Value Diet Dr. Pepper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/value-diet-dr-pepper",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892207",
+      "food_name": "Value Hi-C Flashin' Fruit Punch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/value-hi-c-flashin-fruit-punch",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892208",
+      "food_name": "Value Minute Maid Light Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/value-minute-maid-light-lemonade",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892213",
+      "food_name": "Value Sweetened Iced Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/value-sweetened-iced-tea",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892222",
+      "food_name": "Vanilla Frosty - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/vanilla-frosty-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71231932",
+      "food_name": "Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/chili",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "286660",
+      "food_name": "Jr. Hamburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/jr-hamburger",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43459",
+      "food_name": "Crispy Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/crispy-chicken-sandwich",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2968690",
+      "food_name": "Jr. Cheeseburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/jr-cheeseburger",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14258506",
+      "food_name": "Dave's Single",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/daves-single",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3924273",
+      "food_name": "Spicy Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-chicken-sandwich",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4565674",
+      "food_name": "Sausage Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/sausage-biscuit",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11919753",
+      "food_name": "Crispy Chicken BLT",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/crispy-chicken-blt",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10015914",
+      "food_name": "Baconator Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/baconator-fries",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25966271",
+      "food_name": "Chili & Cheese Baked Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/chili-cheese-baked-potato",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23517657",
+      "food_name": "Sugar Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/sugar-cookie",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51942214",
+      "food_name": "Big Bacon Classic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/big-bacon-classic",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35961947",
+      "food_name": "Honey Butter Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/honey-butter-biscuit",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71231609",
+      "food_name": "Dave's Triple",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/daves-triple",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71231755",
+      "food_name": "Spicy Chicken Nuggets - 10 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-chicken-nuggets-10-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71231793",
+      "food_name": "Spicy Chicken Nuggets - 6 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-chicken-nuggets-6-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71231883",
+      "food_name": "Apple Pecan Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/apple-pecan-salad",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71231926",
+      "food_name": "Cheese Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/cheese-fries",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71232448",
+      "food_name": "Apple Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/apple-bites",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71232517",
+      "food_name": "Sausage, Egg & Cheese Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/sausage-egg-cheese-biscuit",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71232534",
+      "food_name": "Sausage Gravy & Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/sausage-gravy-biscuit",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71232561",
+      "food_name": "Homestyle French Toast Sticks - 6 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/homestyle-french-toast-sticks-6-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82119444",
+      "food_name": "Cinnabon Pull-Apart",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/cinnabon-pull-apart",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743322",
+      "food_name": "Honey BBQ Nuggs - 4 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/honey-bbq-nuggs-4-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743328",
+      "food_name": "Spicy Honey BBQ Nuggs - 4 pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-honey-bbq-nuggs-4-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743342",
+      "food_name": "Buffalo Nuggs - 4 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/buffalo-nuggs-4-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743346",
+      "food_name": "Spicy Buffalo Nuggs - 4 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-buffalo-nuggs-4-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743349",
+      "food_name": "Spicy Ghost Pepper Nuggs - 4 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-ghost-pepper-nuggs-4-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743355",
+      "food_name": "Spicy Honey BBQ Nuggs - 6 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-honey-bbq-nuggs-6-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743367",
+      "food_name": "Buffalo Nuggs - 6 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/buffalo-nuggs-6-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743371",
+      "food_name": "Spicy Buffalo Nuggs - 6 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-buffalo-nuggs-6-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743375",
+      "food_name": "Honey BBQ Nuggs - 10 pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/honey-bbq-nuggs-10-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743394",
+      "food_name": "Buffalo Nuggs - 10 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/buffalo-nuggs-10-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743398",
+      "food_name": "Spicy Buffalo Nuggs - 10 pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-buffalo-nuggs-10-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743440",
+      "food_name": "Honey BBQ Nuggs - 20 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/honey-bbq-nuggs-20-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743444",
+      "food_name": "Spicy Honey BBQ Nuggs - 20 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-honey-bbq-nuggs-20-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743454",
+      "food_name": "Spicy Buffalo Nuggs - 20 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-buffalo-nuggs-20-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743458",
+      "food_name": "Spicy Ghost Pepper Nuggs - 20 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-ghost-pepper-nuggs-20-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743466",
+      "food_name": "Cobb Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/cobb-salad-dressing",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743528",
+      "food_name": "Breakfast Burrito, Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/breakfast-burrito-bacon",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743536",
+      "food_name": "Oatmeal Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/oatmeal-bar",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743951",
+      "food_name": "Chocolate Frosty Cream Cold Brew - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/chocolate-frosty-cream-cold-brew-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743960",
+      "food_name": "Caramel Frosty Cream Cold Brew - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/caramel-frosty-cream-cold-brew-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743964",
+      "food_name": "Vanilla Frosty Cream Cold Brew - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/vanilla-frosty-cream-cold-brew-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743972",
+      "food_name": "Vanilla Frosty Cream Cold Brew - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/vanilla-frosty-cream-cold-brew-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743987",
+      "food_name": "Blueberry Pomegranate Lemonade - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/blueberry-pomegranate-lemonade-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83743995",
+      "food_name": "Blueberry Pomegranate Lemonade - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/blueberry-pomegranate-lemonade-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744005",
+      "food_name": "Blueberry Pomegranate Lemonade - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/blueberry-pomegranate-lemonade-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744031",
+      "food_name": "All-Natural Lemonade - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/all-natural-lemonade-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744037",
+      "food_name": "All-Natural Lemonade - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/all-natural-lemonade-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744041",
+      "food_name": "All-Natural Lemonade - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/all-natural-lemonade-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744065",
+      "food_name": "Strawberry Lemonade - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/strawberry-lemonade-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744074",
+      "food_name": "Strawberry Lemonade - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/strawberry-lemonade-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744093",
+      "food_name": "Strawberry Lemonade - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/strawberry-lemonade-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744125",
+      "food_name": "Coca-Cola - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/coca-cola-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744151",
+      "food_name": "Coca-Cola Zero Sugar - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/coca-cola-zero-sugar-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744161",
+      "food_name": "Diet Coke - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/diet-coke-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744170",
+      "food_name": "Diet Coke - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/diet-coke-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744176",
+      "food_name": "Sprite - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/sprite-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744185",
+      "food_name": "Sprite - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/sprite-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744195",
+      "food_name": "Dr Pepper - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/dr-pepper-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744200",
+      "food_name": "Dr Pepper - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/dr-pepper-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744206",
+      "food_name": "Diet Dr Pepper - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/diet-dr-pepper-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744210",
+      "food_name": "Barq's Root Beer - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/barqs-root-beer-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744226",
+      "food_name": "Fanta Orange - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/fanta-orange-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744237",
+      "food_name": "Minute Maid Light Lemonade - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/minute-maid-light-lemonade-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744242",
+      "food_name": "Minute Maid Light Lemonade - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/minute-maid-light-lemonade-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744244",
+      "food_name": "Minute Maid Light Lemonade - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/minute-maid-light-lemonade-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744251",
+      "food_name": "Hi-C Flashin' Fruit Punch - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/hi-c-flashin-fruit-punch-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744257",
+      "food_name": "Hi-C Flashin' Fruit Punch - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/hi-c-flashin-fruit-punch-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744965",
+      "food_name": "Jr. Classic Chocolate Frosty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/jr-classic-chocolate-frosty",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744986",
+      "food_name": "Kids' Hamburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/kids-hamburger",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83744987",
+      "food_name": "Kids' Cheeseburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/kids-cheeseburger",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88664998",
+      "food_name": "Pomegranate Vinaigrette Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/pomegranate-vinaigrette-salad-dressing",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838404",
+      "food_name": "Takis Fuego Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/takis-fuego-chips",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838409",
+      "food_name": "Brewed Unsweetened Iced Tea - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/brewed-unsweetened-iced-tea-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838420",
+      "food_name": "Brewed Unsweetened Iced Tea - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/brewed-unsweetened-iced-tea-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838440",
+      "food_name": "Brownie Batter Chocolate Frosty Swirl - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/brownie-batter-chocolate-frosty-swirl-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838442",
+      "food_name": "Brownie Batter Chocolate Frosty Swirl - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/brownie-batter-chocolate-frosty-swirl-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838457",
+      "food_name": "Brownie Batter Vanilla Frosty Swirl - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/brownie-batter-vanilla-frosty-swirl-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838469",
+      "food_name": "Caramel Chocolate Frosty Swirl - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/caramel-chocolate-frosty-swirl-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838489",
+      "food_name": "Caramel Crunch Chocolate Frosty Fusion - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/caramel-crunch-chocolate-frosty-fusion-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838526",
+      "food_name": "Caramel Crunch Vanilla Frosty Fusion - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/caramel-crunch-vanilla-frosty-fusion-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838529",
+      "food_name": "Caramel Vanilla Frosty Swirl - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/caramel-vanilla-frosty-swirl-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838568",
+      "food_name": "Chicken Nuggets - 10 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/chicken-nuggets-10-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838584",
+      "food_name": "Chicken Nuggets - 4 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/chicken-nuggets-4-pieces",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838638",
+      "food_name": "Classic Chocolate Frosty - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/classic-chocolate-frosty-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838666",
+      "food_name": "Classic Chocolate Frosty - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/classic-chocolate-frosty-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838698",
+      "food_name": "Coca Cola - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/coca-cola-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103839751",
+      "food_name": "Coca-Cola Zero Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/coca-cola-zero-sugar",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892037",
+      "food_name": "Fuego Fries, Inspired By Takis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/fuego-fries-inspired-by-takis",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892039",
+      "food_name": "Grilled Chicken Ranch Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/grilled-chicken-ranch-wrap",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892047",
+      "food_name": "Honey BBQ Nuggs Party Pack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/honey-bbq-nuggs-party-pack",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892063",
+      "food_name": "Honey Buddy Chicken Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/honey-buddy-chicken-biscuit",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892080",
+      "food_name": "Kids' Sweetened Iced Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/kids-sweetened-iced-tea",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892085",
+      "food_name": "Natural-Cut Fries - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/natural-cut-fries-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892092",
+      "food_name": "Natural-Cut Fries - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/natural-cut-fries-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892097",
+      "food_name": "OREO Brownie Twist Chocolate Frosty Fusion - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/oreo-brownie-twist-chocolate-frosty-fusion-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892099",
+      "food_name": "OREO Brownie Twist Chocolate Frosty Fusion - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/oreo-brownie-twist-chocolate-frosty-fusion-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892100",
+      "food_name": "OREO Brownie Twist Chocolate Frosty Fusion - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/oreo-brownie-twist-chocolate-frosty-fusion-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892107",
+      "food_name": "Pop-Tarts Strawberry Chocolate Frosty Fusion - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/pop-tarts-strawberry-chocolate-frosty-fusion-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892110",
+      "food_name": "Pop-Tarts Strawberry Chocolate Frosty Fusion - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/pop-tarts-strawberry-chocolate-frosty-fusion-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892120",
+      "food_name": "Pop-Tarts Strawberry Vanilla Frosty Fusion - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/pop-tarts-strawberry-vanilla-frosty-fusion-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892140",
+      "food_name": "Spicy Asiago Ranch Chicken Club",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-asiago-ranch-chicken-club",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892151",
+      "food_name": "Spicy Nuggs Party Pack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/spicy-nuggs-party-pack",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892160",
+      "food_name": "Strawberry Vanilla Frosty Swirl - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/strawberry-vanilla-frosty-swirl-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892162",
+      "food_name": "Strawberry Vanilla Frosty Swirl - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/strawberry-vanilla-frosty-swirl-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892168",
+      "food_name": "Sweetened Iced Tea - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/sweetened-iced-tea-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892174",
+      "food_name": "Sweetened Iced Tea - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/sweetened-iced-tea-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892180",
+      "food_name": "Takis Fuego Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/takis-fuego-chicken-sandwich",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892183",
+      "food_name": "Tangerine Twist Lemonade - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/tangerine-twist-lemonade-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892185",
+      "food_name": "Tangerine Twist Lemonade - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/tangerine-twist-lemonade-medium",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892193",
+      "food_name": "Value Coca-Cola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/value-coca-cola",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892194",
+      "food_name": "Value Coca-Cola Zero Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/value-coca-cola-zero-sugar",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892205",
+      "food_name": "Value Fanta Orange",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/value-fanta-orange",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892211",
+      "food_name": "Value Sprite",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/value-sprite",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892216",
+      "food_name": "Value Unsweetened Iced Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/value-unsweetened-iced-tea",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892221",
+      "food_name": "Vanilla Frosty - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/vanilla-frosty-large",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103892223",
+      "food_name": "Vanilla Frosty - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/vanilla-frosty-small",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98538894",
+      "food_name": "Ghost Pepper Ranch Dipping Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/ghost-pepper-ranch-dipping-sauce",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103586238",
+      "food_name": "Ground Beef Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/ground-beef-patties",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106510812",
+      "food_name": "Honey Mustard Dipping Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wendys/honey-mustard-dipping-sauce",
+      "brand_name": "Wendy's",
+      "food_type": "Brand"
+    }
+  ]
+}

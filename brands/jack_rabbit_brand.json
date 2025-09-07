@@ -1,0 +1,27 @@
+{
+  "brand_name": "Jack Rabbit Brand",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 972,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:56:43.097Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/jack_rabbit_brand.json",
+  "items": [
+    {
+      "food_id": "691458",
+      "food_name": "Dried Cranberry Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jack-rabbit-brand/dried-cranberry-beans",
+      "brand_name": "Jack Rabbit Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35265140",
+      "food_name": "Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jack-rabbit-brand/black-beans",
+      "brand_name": "Jack Rabbit Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

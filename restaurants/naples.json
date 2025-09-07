@@ -1,0 +1,90 @@
+{
+  "restaurant": "Naples",
+  "total_items": 11,
+  "pages_extracted": 1,
+  "total_search_results": 11,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:35:32.420Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/naples.json",
+  "items": [
+    {
+      "food_id": "8670650",
+      "food_name": "Stuffed Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naples/stuffed-chicken-breast",
+      "brand_name": "Naples",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7048071",
+      "food_name": "Hawaiian Style Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naples/hawaiian-style-chicken",
+      "brand_name": "Naples",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11577561",
+      "food_name": "Thai Coconut Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naples/thai-coconut-chicken",
+      "brand_name": "Naples",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74697415",
+      "food_name": "Large Steak and Cheese Pizza (Naples, FL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marcos-pizza/large-steak-and-cheese-pizza-(naples-fl)",
+      "brand_name": "Marco's Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74725315",
+      "food_name": "Small Steak and Cheese Pizza (Naples, FL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marcos-pizza/small-steak-and-cheese-pizza-(naples-fl)",
+      "brand_name": "Marco's Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74725368",
+      "food_name": "XLarge Steak and Cheese Pizza (Naples, FL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marcos-pizza/xlarge-steak-and-cheese-pizza-(naples-fl)",
+      "brand_name": "Marco's Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74697091",
+      "food_name": "Large BBQ Chicken Pizza (Naples, FL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marcos-pizza/large-bbq-chicken-pizza-(naples-fl)",
+      "brand_name": "Marco's Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74725211",
+      "food_name": "Medium BBQ Chicken Pizza (Naples, FL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marcos-pizza/medium-bbq-chicken-pizza-(naples-fl)",
+      "brand_name": "Marco's Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74725279",
+      "food_name": "Small BBQ Chicken Pizza (Naples, FL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marcos-pizza/small-bbq-chicken-pizza-(naples-fl)",
+      "brand_name": "Marco's Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74725339",
+      "food_name": "XLarge BBQ Chicken Pizza (Naples, FL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marcos-pizza/xlarge-bbq-chicken-pizza-(naples-fl)",
+      "brand_name": "Marco's Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74725247",
+      "food_name": "Medium Steak and Cheese Pizza (Naples, FL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marcos-pizza/medium-steak-and-cheese-pizza-(naples-fl)",
+      "brand_name": "Marco's Pizza",
+      "food_type": "Brand"
+    }
+  ]
+}

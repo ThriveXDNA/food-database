@@ -1,0 +1,69 @@
+{
+  "restaurant": "Crown Royal",
+  "total_items": 8,
+  "pages_extracted": 2,
+  "total_search_results": 70,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:03:34.846Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/crown_royal.json",
+  "items": [
+    {
+      "food_id": "1470139",
+      "food_name": "Canadian Whiskey (1 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crown-royal/canadian-whiskey-(1-oz)",
+      "brand_name": "Crown Royal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "337780",
+      "food_name": "Canadian Whiskey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crown-royal/canadian-whiskey/1-serving",
+      "brand_name": "Crown Royal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42232232",
+      "food_name": "Peach Whiskey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crown-royal/peach-whiskey",
+      "brand_name": "Crown Royal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62008193",
+      "food_name": "Whiskey Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crown-royal/whiskey-lemonade",
+      "brand_name": "Crown Royal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76482474",
+      "food_name": "Washington Apple",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crown-royal/washington-apple",
+      "brand_name": "Crown Royal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75417510",
+      "food_name": "Crown Royal Peach Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crown-royal/crown-royal-peach-tea",
+      "brand_name": "Crown Royal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75688282",
+      "food_name": "Crown Royal Regal Apple Whiskey (Single)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hooters/crown-royal-regal-apple-whiskey-(single)",
+      "brand_name": "Hooters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75688287",
+      "food_name": "Crown Royal Regal Apple Whiskey (Double)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hooters/crown-royal-regal-apple-whiskey-(double)",
+      "brand_name": "Hooters",
+      "food_type": "Brand"
+    }
+  ]
+}

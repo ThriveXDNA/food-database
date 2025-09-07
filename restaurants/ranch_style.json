@@ -1,0 +1,69 @@
+{
+  "restaurant": "Ranch Style",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 5256,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:56:47.185Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ranch_style.json",
+  "items": [
+    {
+      "food_id": "4010672",
+      "food_name": "Ranch Style Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ranch-style/ranch-style-beans",
+      "brand_name": "Ranch Style",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7194055",
+      "food_name": "Baked Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ranch-style/baked-beans",
+      "brand_name": "Ranch Style",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "274160",
+      "food_name": "Ranch Style Beans with Sliced Jalapeno Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ranch-style/ranch-style-beans-with-sliced-jalapeno-peppers",
+      "brand_name": "Ranch Style",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "274155",
+      "food_name": "Pinto Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ranch-style/pinto-beans",
+      "brand_name": "Ranch Style",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64482",
+      "food_name": "Original Texas Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ranch-style/original-texas-beans",
+      "brand_name": "Ranch Style",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44461",
+      "food_name": "Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ranch-style/black-beans",
+      "brand_name": "Ranch Style",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1446532",
+      "food_name": "Black Eyed Peas Seasoned with Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ranch-style/black-eyed-peas-seasoned-with-bacon",
+      "brand_name": "Ranch Style",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "274156",
+      "food_name": "Pinto Beans with Jalapeno Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ranch-style/pinto-beans-with-jalapeno-peppers",
+      "brand_name": "Ranch Style",
+      "food_type": "Brand"
+    }
+  ]
+}

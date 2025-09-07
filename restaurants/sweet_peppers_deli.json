@@ -1,0 +1,90 @@
+{
+  "restaurant": "Sweet Peppers Deli",
+  "total_items": 11,
+  "pages_extracted": 6,
+  "total_search_results": 4705,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:22:03.482Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sweet_peppers_deli.json",
+  "items": [
+    {
+      "food_id": "10345308",
+      "food_name": "Creamy Chicken Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweet-peppers-deli/creamy-chicken-noodle-soup",
+      "brand_name": "Sweet Peppers Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "876901",
+      "food_name": "Oriental Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweet-peppers-deli/oriental-chicken-salad",
+      "brand_name": "Sweet Peppers Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5593431",
+      "food_name": "Mixed Fruit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweet-peppers-deli/mixed-fruit",
+      "brand_name": "Sweet Peppers Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10946979",
+      "food_name": "Club Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweet-peppers-deli/club-sandwich",
+      "brand_name": "Sweet Peppers Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1972396",
+      "food_name": "BBQ Shrimp Crisp Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweet-peppers-deli/bbq-shrimp-crisp-wrap",
+      "brand_name": "Sweet Peppers Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1972140",
+      "food_name": "Caesar Chicken Grill Salad (No Dressing)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweet-peppers-deli/caesar-chicken-grill-salad-(no-dressing)",
+      "brand_name": "Sweet Peppers Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6130002",
+      "food_name": "Mediterranean Hummus Plate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweet-peppers-deli/mediterranean-hummus-plate",
+      "brand_name": "Sweet Peppers Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3105560",
+      "food_name": "Lite Garden Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweet-peppers-deli/lite-garden-salad",
+      "brand_name": "Sweet Peppers Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4521502",
+      "food_name": "Southwest Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweet-peppers-deli/southwest-wrap",
+      "brand_name": "Sweet Peppers Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1972441",
+      "food_name": "Cuban Panini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweet-peppers-deli/cuban-panini",
+      "brand_name": "Sweet Peppers Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6111024",
+      "food_name": "BBQ Chicken Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweet-peppers-deli/bbq-chicken-flatbread",
+      "brand_name": "Sweet Peppers Deli",
+      "food_type": "Brand"
+    }
+  ]
+}

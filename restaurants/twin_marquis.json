@@ -1,0 +1,76 @@
+{
+  "restaurant": "Twin Marquis",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 31,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:20:40.624Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/twin_marquis.json",
+  "items": [
+    {
+      "food_id": "55402964",
+      "food_name": "Wonton Noodle (Thin)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/twin-marquis/wonton-noodle-(thin)",
+      "brand_name": "Twin Marquis",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91183367",
+      "food_name": "Jiaozi Dumpling with Pork and Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/twin-marquis/jiaozi-dumpling-with-pork-and-shrimp",
+      "brand_name": "Twin Marquis",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11035693",
+      "food_name": "Vegetable Noodle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/twin-marquis/vegetable-noodle",
+      "brand_name": "Twin Marquis",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45857626",
+      "food_name": "Dumpling Wrapper (Hong Kong Style)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/twin-marquis/dumpling-wrapper-(hong-kong-style)",
+      "brand_name": "Twin Marquis",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64000113",
+      "food_name": "Thick Shanghai Style Plain Noodle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/twin-marquis/thick-shanghai-style-plain-noodle",
+      "brand_name": "Twin Marquis",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2202584",
+      "food_name": "Dumpling Wrapper (Shanghai Style)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/twin-marquis/dumpling-wrapper-(shanghai-style)",
+      "brand_name": "Twin Marquis",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79839303",
+      "food_name": "Lo Mein Noodle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/twin-marquis/lo-mein-noodle",
+      "brand_name": "Twin Marquis",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57048136",
+      "food_name": "Chinese Twist Cruller",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/twin-marquis/chinese-twist-cruller",
+      "brand_name": "Twin Marquis",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89429944",
+      "food_name": "Hong Kong Style Wonton Wrapper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/twin-marquis/hong-kong-style-wonton-wrapper",
+      "brand_name": "Twin Marquis",
+      "food_type": "Brand"
+    }
+  ]
+}

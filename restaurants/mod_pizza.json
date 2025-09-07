@@ -1,0 +1,944 @@
+{
+  "restaurant": "Mod Pizza",
+  "total_items": 133,
+  "pages_extracted": 6,
+  "total_search_results": 6490,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:30:09.301Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mod_pizza.json",
+  "items": [
+    {
+      "food_id": "74625423",
+      "food_name": "Mozzarella Cheese (1/4 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/mozzarella-cheese-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625343",
+      "food_name": "Crust - MOD (11-Inch)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/crust-mod-(11-inch)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625485",
+      "food_name": "Pepperoni - 1/4 cup (5 Slices)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/pepperoni-1-4-cup-(5-slices)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625264",
+      "food_name": "Mad Dog Pizza - MOD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/mad-dog-pizza-mod",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625463",
+      "food_name": "Grilled Chicken (1/4 cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/grilled-chicken-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654857",
+      "food_name": "Mushrooms (1/4 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/mushrooms-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654877",
+      "food_name": "Tomatoes Sliced",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/tomatoes-sliced",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654850",
+      "food_name": "Green Bell Peppers (1/4 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/green-bell-peppers-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625437",
+      "food_name": "Bacon (1/4 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/bacon-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625524",
+      "food_name": "Black Olives (1/4 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/black-olives-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625301",
+      "food_name": "Maddy Pizza - MOD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/maddy-pizza-mod",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625325",
+      "food_name": "Crust - Mini (6-inch)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/crust-mini-(6-inch)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654882",
+      "food_name": "Tomatoes Diced (1/4 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/tomatoes-diced-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21356372",
+      "food_name": "No Name Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/no-name-cake",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625506",
+      "food_name": "Spicy Chicken Sausage (1/4 cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/spicy-chicken-sausage-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625452",
+      "food_name": "Canadian Bacon - 1/4 Cup (5 Slices)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/canadian-bacon-1-4-cup-(5-slices)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625361",
+      "food_name": "Crust - Cauliflower Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/crust-cauliflower-crust",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625479",
+      "food_name": "Mild Sausage (1/4 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/mild-sausage-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654820",
+      "food_name": "Garlic Chopped (Per Tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/garlic-chopped-(per-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654975",
+      "food_name": "Ranch Dressing (1 Tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/ranch-dressing-(1-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625153",
+      "food_name": "Caspian Pizza - MOD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/caspian-pizza-mod",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625418",
+      "food_name": "Feta Cheese (1/4 cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/feta-cheese-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625425",
+      "food_name": "Parmesan Cheese (1/4 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/parmesan-cheese-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625414",
+      "food_name": "Cheddar Cheese (1/4 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/cheddar-cheese-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625217",
+      "food_name": "Jasper Pizza - MOD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/jasper-pizza-mod",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625375",
+      "food_name": "Pesto (1 tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/pesto-(1-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98302380",
+      "food_name": "Chickpeas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/chickpeas",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625259",
+      "food_name": "Mad Dog Pizza - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/mad-dog-pizza-mini",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625389",
+      "food_name": "Spicy Calabrian Chili Red Sauce (1 tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/spicy-calabrian-chili-red-sauce-(1-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654966",
+      "food_name": "Balsamic Dressing (1 Tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/balsamic-dressing-(1-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625470",
+      "food_name": "Ground Beef (1/4 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/ground-beef-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654824",
+      "food_name": "Garlic Roasted (1/4 cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/garlic-roasted-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625371",
+      "food_name": "Extra Virgin Olive Oil (1 Tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/extra-virgin-olive-oil-(1-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655058",
+      "food_name": "6 pc BBQ Hot Honey Wings (Limited Locations)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/6-pc-bbq-hot-honey-wings-(limited-locations)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625299",
+      "food_name": "Maddy Pizza - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/maddy-pizza-mini",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38270824",
+      "food_name": "Artichokes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/artichokes",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654899",
+      "food_name": "Italian Chop Salad - MOD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/italian-chop-salad-mod",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35422445",
+      "food_name": "Cheesy Garlic Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/cheesy-garlic-bread",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625132",
+      "food_name": "Caspian Pizza - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/caspian-pizza-mini",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625350",
+      "food_name": "Crust - Pizza Salad (11-Inch)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/crust-pizza-salad-(11-inch)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625354",
+      "food_name": "Crust - Gluten-Friendly",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/crust-gluten-friendly",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625417",
+      "food_name": "Dairy-Free Cheese (1/4 cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/dairy-free-cheese-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625499",
+      "food_name": "Salami - 1/4 Cup (5 Slices)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/salami-1-4-cup-(5-slices)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654802",
+      "food_name": "Corn Roasted (1/4 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/corn-roasted-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654868",
+      "food_name": "Oregano (Per Tsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/oregano-(per-tsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625348",
+      "food_name": "Crust - Mega Dough (11-Inch)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/crust-mega-dough-(11-inch)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625409",
+      "food_name": "Asiago Cheese (1/4 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/asiago-cheese-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625237",
+      "food_name": "Dominic Pizza - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/dominic-pizza-mini",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625369",
+      "food_name": "Garlic Rub (1 Tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/garlic-rub-(1-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625392",
+      "food_name": "White Sauce (1 Tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/white-sauce-(1-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625430",
+      "food_name": "Ricotta Cheese (1/4 cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/ricotta-cheese-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654904",
+      "food_name": "Greek Salad - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/greek-salad-mini",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654796",
+      "food_name": "Broccoli Roasted (1/4 cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/broccoli-roasted-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654932",
+      "food_name": "Caesar Salad - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/caesar-salad-mini",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625214",
+      "food_name": "Jasper Pizza - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/jasper-pizza-mini",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654908",
+      "food_name": "Greek Salad - MOD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/greek-salad-mod",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625192",
+      "food_name": "Dillon James Pizza - MOD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/dillon-james-pizza-mod",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654935",
+      "food_name": "Caesar Salad - MOD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/caesar-salad-mod",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87256515",
+      "food_name": "Strawberry Lemonade No Name Cake (Limited Edition)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/strawberry-lemonade-no-name-cake-(limited-edition)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625244",
+      "food_name": "Dominic Pizza - MOD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/dominic-pizza-mod",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87256474",
+      "food_name": "Chicken Bacon Ranch - MOD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/chicken-bacon-ranch-mod",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625422",
+      "food_name": "Gorgonzola Cheese (1/4 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/gorgonzola-cheese-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625513",
+      "food_name": "Plant-Based Italian Sausage (1/4 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/plant-based-italian-sausage-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654916",
+      "food_name": "Garden Salad - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/garden-salad-mini",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625279",
+      "food_name": "Mad Dog Pizza - Mega Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/mad-dog-pizza-mega-dough",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625169",
+      "food_name": "Calexico Pizza - MOD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/calexico-pizza-mod",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625253",
+      "food_name": "Tristan Pizza - MOD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/tristan-pizza-mod",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654993",
+      "food_name": "Zesty Roma (1 tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/zesty-roma-(1-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654995",
+      "food_name": "Pesto Drizzle Sauce (1 tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/pesto-drizzle-sauce-(1-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655082",
+      "food_name": "Four Cheese Pocket Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/four-cheese-pocket-pie",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625249",
+      "food_name": "Tristan Pizza - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/tristan-pizza-mini",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625230",
+      "food_name": "Lucy Sunshine Pizza - MOD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/lucy-sunshine-pizza-mod",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625229",
+      "food_name": "Lucy Sunshine Pizza - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/lucy-sunshine-pizza-mini",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654845",
+      "food_name": "Greek Olives (1/4 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/greek-olives-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654870",
+      "food_name": "Rosemary Fresh Chopped (1/4 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/rosemary-fresh-chopped-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654875",
+      "food_name": "Serrano Peppers (Limited Locations)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/serrano-peppers-(limited-locations)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654973",
+      "food_name": "Oil and Vinegar (1 Tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/oil-and-vinegar-(1-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654985",
+      "food_name": "Greek Herb & Tahini (1 Tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/greek-herb-tahini-(1-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625223",
+      "food_name": "Jasper - Mega Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/jasper-mega-dough",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654817",
+      "food_name": "Croutons (1/4 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/croutons-(1-4-cup)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625186",
+      "food_name": "Dillon James Pizza - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/dillon-james-pizza-mini",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625460",
+      "food_name": "Egg Scrambled - 1/4 cup (Limited Locations)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/egg-scrambled-1-4-cup-(limited-locations)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654926",
+      "food_name": "Garden Salad - Mega",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/garden-salad-mega",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654896",
+      "food_name": "Italian Chop Salad - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/italian-chop-salad-mini",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654992",
+      "food_name": "Sherry Dijon (1 tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/sherry-dijon-(1-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655000",
+      "food_name": "Ranch Finish Sauce (1 Tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/ranch-finish-sauce-(1-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655013",
+      "food_name": "Sri-Rancha Sauce (1 Tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/sri-rancha-sauce-(1-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655039",
+      "food_name": "Dipping Sauce - Ranch (Per 3 Tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/dipping-sauce-ranch-(per-3-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625303",
+      "food_name": "Maddy Pizza - Mega Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/maddy-pizza-mega-dough",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625258",
+      "food_name": "Tristan Pizza - Mega Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/tristan-pizza-mega-dough",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655100",
+      "food_name": "Sprite (24 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/sprite-(24-oz)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87256524",
+      "food_name": "Red Velvet No Name Cake (Limited Edition)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/red-velvet-no-name-cake-(limited-edition)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655038",
+      "food_name": "Dipping Sauce - Pesto (Per 3 Tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/dipping-sauce-pesto-(per-3-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625247",
+      "food_name": "Dominic Pizza - Mega Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/dominic-pizza-mega-dough",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87256485",
+      "food_name": "Kinda Cobb Salad - MOD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/kinda-cobb-salad-mod",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654923",
+      "food_name": "Garden Salad - MOD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/garden-salad-mod",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625294",
+      "food_name": "Amelia/Layover Pizza - MOD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/amelia-layover-pizza-mod",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14600542",
+      "food_name": "Garlic Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/garlic-strips",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654940",
+      "food_name": "Caesar Salad - Mega",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/caesar-salad-mega",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655040",
+      "food_name": "Dipping Sauce - Sri-Rancha (per 3 tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/dipping-sauce-sri-rancha-(per-3-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655069",
+      "food_name": "Chicken Bacon Ranch Pocket Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/chicken-bacon-ranch-pocket-pie",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654900",
+      "food_name": "Italian Chop Salad - Mega",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/italian-chop-salad-mega",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654918",
+      "food_name": "Greek Salad - Mega",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/greek-salad-mega",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655061",
+      "food_name": "12 Pc BBQ Hot Honey Wings (Limited Locations)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/12-pc-bbq-hot-honey-wings-(limited-locations)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655086",
+      "food_name": "Sprite (16 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/sprite-(16-oz)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87256471",
+      "food_name": "Chicken Bacon Ranch - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/chicken-bacon-ranch-mini",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625203",
+      "food_name": "Dillon James Pizza - Mega Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/dillon-james-pizza-mega-dough",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625284",
+      "food_name": "Wilbur/Red Eye Pizza - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/wilbur-red-eye-pizza-mini",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625182",
+      "food_name": "Calexico Pizza - Mega Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/calexico-pizza-mega-dough",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625165",
+      "food_name": "Calexico Pizza - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/calexico-pizza-mini",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87256492",
+      "food_name": "Southwest BBQ Ranch Salad - MOD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/southwest-bbq-ranch-salad-mod",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74625435",
+      "food_name": "Anchovies - 1/4 cup (6 Fillets)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/anchovies-1-4-cup-(6-fillets)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654971",
+      "food_name": "Caesar Dressing (1 tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/caesar-dressing-(1-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655030",
+      "food_name": "Snack Plate (Limited Locations)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/snack-plate-(limited-locations)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655044",
+      "food_name": "6 Pc Parmesan Garlic Rosemary Wings (Limited Locations)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/6-pc-parmesan-garlic-rosemary-wings-(limited-locations)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655047",
+      "food_name": "12 Pc Parmesan Garlic Rosemary Wings (Limited Locations)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/12-pc-parmesan-garlic-rosemary-wings-(limited-locations)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655054",
+      "food_name": "12 Pc Sri-Rancha Wings (Limited Locations)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/12-pc-sri-rancha-wings-(limited-locations)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655067",
+      "food_name": "12 Pc Original Wings (Limited Locations)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/12-pc-original-wings-(limited-locations)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87256487",
+      "food_name": "Kinda Cobb Salad - Mega",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/kinda-cobb-salad-mega",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87256491",
+      "food_name": "Southwest BBQ Ranch Salad - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/southwest-bbq-ranch-salad-mini",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74654972",
+      "food_name": "Italian Dressing (1 Tbsp)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/italian-dressing-(1-tbsp)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655025",
+      "food_name": "Southwest Quinoa Bowl (Limited Locations)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/southwest-quinoa-bowl-(limited-locations)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655028",
+      "food_name": "Mediterranean Quinoa Bowl (Limited Locations)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/mediterranean-quinoa-bowl-(limited-locations)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655029",
+      "food_name": "Northwest Quinoa Bowl (Limited Locations)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/northwest-quinoa-bowl-(limited-locations)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655051",
+      "food_name": "6 Pc Sri-Rancha Wings (Limited Locations)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/6-pc-sri-rancha-wings-(limited-locations)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655063",
+      "food_name": "6 pc Buffalo Wings (Limited Locations)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/6-pc-buffalo-wings-(limited-locations)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655064",
+      "food_name": "12 Pc Buffalo Wings (Limited Locations)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/12-pc-buffalo-wings-(limited-locations)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655065",
+      "food_name": "6 pc Original Wings (Limited Locations)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/6-pc-original-wings-(limited-locations)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655084",
+      "food_name": "Italiano Pocket Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/italiano-pocket-pie",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655106",
+      "food_name": "Pride Cake (Limited Edition)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/pride-cake-(limited-edition)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87256476",
+      "food_name": "Chicken Bacon Ranch - Mega Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/chicken-bacon-ranch-mega-dough",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87256478",
+      "food_name": "Kinda Cobb Salad - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/kinda-cobb-salad-mini",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87256509",
+      "food_name": "Southwest BBQ Ranch Salad - Mega",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/southwest-bbq-ranch-salad-mega",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    }
+  ]
+}

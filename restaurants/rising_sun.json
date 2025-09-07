@@ -1,0 +1,27 @@
+{
+  "restaurant": "Rising Sun",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 312,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:39:58.240Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rising_sun.json",
+  "items": [
+    {
+      "food_id": "4432607",
+      "food_name": "Japanese Ginger Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rising-sun/japanese-ginger-salad-dressing",
+      "brand_name": "Rising Sun",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4528030",
+      "food_name": "Japanese Seafood & Steak Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rising-sun/japanese-seafood-and-steak-sauce",
+      "brand_name": "Rising Sun",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "restaurant": "Mother Earth",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 17,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:50:16.180Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mother_earth.json",
+  "items": [
+    {
+      "food_id": "8107837",
+      "food_name": "Premium Idaho Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mother-earth/premium-idaho-potatoes",
+      "brand_name": "Mother Earth",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37535736",
+      "food_name": "Manuka Honey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mother-earth/manuka-honey",
+      "brand_name": "Mother Earth",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33740361",
+      "food_name": "Mother Earth Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flower-child/mother-earth-bowl",
+      "brand_name": "Flower Child",
+      "food_type": "Brand"
+    }
+  ]
+}

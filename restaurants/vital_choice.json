@@ -1,0 +1,62 @@
+{
+  "restaurant": "Vital Choice",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 466,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:28:15.752Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/vital_choice.json",
+  "items": [
+    {
+      "food_id": "29794444",
+      "food_name": "Wild Alaskan Sockeye Smoked Nova Lox",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vital-choice/wild-alaskan-sockeye-smoked-nova-lox",
+      "brand_name": "Vital Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4678765",
+      "food_name": "Wild Alaskan Sockeye Salmon Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vital-choice/wild-alaskan-sockeye-salmon-burger",
+      "brand_name": "Vital Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19713610",
+      "food_name": "Wild Sardines in Water No Salt Added",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vital-choice/wild-sardines-in-water-no-salt-added",
+      "brand_name": "Vital Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49315489",
+      "food_name": "Wild Petrale Sole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vital-choice/wild-petrale-sole",
+      "brand_name": "Vital Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25598352",
+      "food_name": "Wild Mackerel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vital-choice/wild-mackerel",
+      "brand_name": "Vital Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20901053",
+      "food_name": "Wild Alaskan Sockeye Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vital-choice/wild-alaskan-sockeye-salmon",
+      "brand_name": "Vital Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20091913",
+      "food_name": "Wild Alaskan Sockeye Salmon (Pouch)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vital-choice/wild-alaskan-sockeye-salmon-(pouch)",
+      "brand_name": "Vital Choice",
+      "food_type": "Brand"
+    }
+  ]
+}

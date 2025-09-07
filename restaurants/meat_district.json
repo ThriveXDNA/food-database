@@ -1,0 +1,34 @@
+{
+  "restaurant": "Meat District",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 1043,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:11:30.970Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/meat_district.json",
+  "items": [
+    {
+      "food_id": "38409378",
+      "food_name": "Chicken Wings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meat-district/chicken-wings",
+      "brand_name": "Meat District",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30396377",
+      "food_name": "Angus Brisket Beef Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meat-district/angus-brisket-beef-patties",
+      "brand_name": "Meat District",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70027676",
+      "food_name": "Angus Tri Tip Beef Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meat-district/angus-tri-tip-beef-patties",
+      "brand_name": "Meat District",
+      "food_type": "Brand"
+    }
+  ]
+}

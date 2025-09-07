@@ -1,0 +1,41 @@
+{
+  "restaurant": "Artisan Hearth",
+  "total_items": 4,
+  "pages_extracted": 5,
+  "total_search_results": 213,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:00:24.508Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/artisan_hearth.json",
+  "items": [
+    {
+      "food_id": "76599671",
+      "food_name": "Rustic Thick White Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-hearth/rustic-thick-white-bread",
+      "brand_name": "Artisan Hearth",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51057316",
+      "food_name": "Gourmet Brioche Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-hearth/gourmet-brioche-rolls",
+      "brand_name": "Artisan Hearth",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23824798",
+      "food_name": "Gourmet French Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-hearth/gourmet-french-rolls",
+      "brand_name": "Artisan Hearth",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23323420",
+      "food_name": "Gourmet Hoagie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-hearth/gourmet-hoagie",
+      "brand_name": "Artisan Hearth",
+      "food_type": "Brand"
+    }
+  ]
+}

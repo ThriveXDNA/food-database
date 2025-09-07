@@ -1,0 +1,41 @@
+{
+  "brand_name": "Krema",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:16:44.952Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/krema.json",
+  "items": [
+    {
+      "food_id": "633935",
+      "food_name": "Natural Smooth & Creamy Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krema/natural-smooth-and-creamy-peanut-butter",
+      "brand_name": "Krema",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "769826",
+      "food_name": "Natural Crunchy Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krema/natural-crunchy-peanut-butter",
+      "brand_name": "Krema",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4517127",
+      "food_name": "Natural Almond Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krema/natural-almond-butter",
+      "brand_name": "Krema",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4111124",
+      "food_name": "Natural Cashew Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krema/natural-cashew-butter",
+      "brand_name": "Krema",
+      "food_type": "Brand"
+    }
+  ]
+}

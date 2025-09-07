@@ -1,0 +1,20 @@
+{
+  "restaurant": "Yangtze",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 1,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:53:40.807Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/yangtze.json",
+  "items": [
+    {
+      "food_id": "2610697",
+      "food_name": "Chinese Style Barbeque Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yangtze/chinese-style-barbeque-pork",
+      "brand_name": "Yangtze",
+      "food_type": "Brand"
+    }
+  ]
+}

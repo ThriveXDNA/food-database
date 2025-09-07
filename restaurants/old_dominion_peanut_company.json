@@ -1,0 +1,48 @@
+{
+  "restaurant": "Old Dominion Peanut Company",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 3287,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:56:56.277Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/old_dominion_peanut_company.json",
+  "items": [
+    {
+      "food_id": "826497",
+      "food_name": "Original Peanut Squares",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-dominion-peanut-company/original-peanut-squares",
+      "brand_name": "Old Dominion Peanut Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "838713",
+      "food_name": "Peanut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-dominion-peanut-company/peanut-bar",
+      "brand_name": "Old Dominion Peanut Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2693568",
+      "food_name": "Peanut Brittle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-dominion-peanut-company/peanut-brittle",
+      "brand_name": "Old Dominion Peanut Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "290571",
+      "food_name": "Butter Toffee Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-dominion-peanut-company/butter-toffee-peanuts",
+      "brand_name": "Old Dominion Peanut Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "797571",
+      "food_name": "Burnt Sugar Cashews",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-dominion-peanut-company/burnt-sugar-cashews",
+      "brand_name": "Old Dominion Peanut Company",
+      "food_type": "Brand"
+    }
+  ]
+}

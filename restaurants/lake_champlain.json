@@ -1,0 +1,62 @@
+{
+  "restaurant": "Lake Champlain",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 15,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:06:43.206Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/lake_champlain.json",
+  "items": [
+    {
+      "food_id": "25560257",
+      "food_name": "Salted Caramel Dark Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lake-champlain/salted-caramel-dark-chocolate",
+      "brand_name": "Lake Champlain",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2304445",
+      "food_name": "Raspberry Truffle Dark Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lake-champlain/raspberry-truffle-dark-chocolate",
+      "brand_name": "Lake Champlain",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14473022",
+      "food_name": "Dark Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lake-champlain/dark-chocolate",
+      "brand_name": "Lake Champlain",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38442571",
+      "food_name": "5 Star Bar Hazelnut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lake-champlain/5-star-bar-hazelnut",
+      "brand_name": "Lake Champlain",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1877864",
+      "food_name": "5 Star Chocolate Bar - Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lake-champlain/5-star-chocolate-bar---granola",
+      "brand_name": "Lake Champlain",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2083106",
+      "food_name": "Rum Caramel Dark Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lake-champlain/rum-caramel-dark-chocolate",
+      "brand_name": "Lake Champlain",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "955860",
+      "food_name": "Hot Chocolate Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lake-champlain/hot-chocolate-mix",
+      "brand_name": "Lake Champlain",
+      "food_type": "Brand"
+    }
+  ]
+}

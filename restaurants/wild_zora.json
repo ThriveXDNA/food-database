@@ -1,0 +1,62 @@
+{
+  "restaurant": "Wild Zora",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 1077,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:48:33.885Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/wild_zora.json",
+  "items": [
+    {
+      "food_id": "16408593",
+      "food_name": "Mediterranean Lamb",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-zora/mediterranean-lamb",
+      "brand_name": "Wild Zora",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15845926",
+      "food_name": "Curry Turkey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-zora/curry-turkey",
+      "brand_name": "Wild Zora",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63345303",
+      "food_name": "Mushroom Beef Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-zora/mushroom-beef-soup",
+      "brand_name": "Wild Zora",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46694310",
+      "food_name": "Roasted Pumpkin Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-zora/roasted-pumpkin-soup",
+      "brand_name": "Wild Zora",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48560160",
+      "food_name": "BBQ Beef Meat & Veggie Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-zora/bbq-beef-meat-veggie-bar",
+      "brand_name": "Wild Zora",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41781109",
+      "food_name": "Lemon Chicken Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-zora/lemon-chicken-soup",
+      "brand_name": "Wild Zora",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25173868",
+      "food_name": "Apple Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-zora/apple-pork",
+      "brand_name": "Wild Zora",
+      "food_type": "Brand"
+    }
+  ]
+}

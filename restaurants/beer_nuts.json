@@ -1,0 +1,48 @@
+{
+  "restaurant": "Beer Nuts",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 1284,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:17:06.354Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/beer_nuts.json",
+  "items": [
+    {
+      "food_id": "956586",
+      "food_name": "Bar Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beer-nuts/bar-mix",
+      "brand_name": "Beer Nuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1293741",
+      "food_name": "Almonds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beer-nuts/almonds",
+      "brand_name": "Beer Nuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1353345",
+      "food_name": "Cashews",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beer-nuts/cashews",
+      "brand_name": "Beer Nuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2040288",
+      "food_name": "Original Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beer-nuts/original-peanuts",
+      "brand_name": "Beer Nuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48552808",
+      "food_name": "Cantina Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beer-nuts/cantina-mix",
+      "brand_name": "Beer Nuts",
+      "food_type": "Brand"
+    }
+  ]
+}

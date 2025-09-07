@@ -1,0 +1,76 @@
+{
+  "restaurant": "Pieology",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:47:25.434Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pieology.json",
+  "items": [
+    {
+      "food_id": "13806869",
+      "food_name": "Red Onion",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pieology/red-onion",
+      "brand_name": "Pieology",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11188716",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pieology/margherita-pizza",
+      "brand_name": "Pieology",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9406486",
+      "food_name": "Red Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pieology/red-sauce",
+      "brand_name": "Pieology",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13806896",
+      "food_name": "Mozzarella",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pieology/mozzarella",
+      "brand_name": "Pieology",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13806595",
+      "food_name": "Hickory BBQ Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pieology/hickory-bbq-chicken",
+      "brand_name": "Pieology",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12781631",
+      "food_name": "Smokin' Buffalo Chicken Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pieology/smokin-buffalo-chicken-pizza",
+      "brand_name": "Pieology",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20214338",
+      "food_name": "Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pieology/crust",
+      "brand_name": "Pieology",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23493176",
+      "food_name": "Gluten Free Pizza Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pieology/gluten-free-pizza-crust",
+      "brand_name": "Pieology",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9406450",
+      "food_name": "Spinach Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pieology/spinach-topping",
+      "brand_name": "Pieology",
+      "food_type": "Brand"
+    }
+  ]
+}

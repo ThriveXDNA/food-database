@@ -1,0 +1,34 @@
+{
+  "restaurant": "1915 Organic",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 5506,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:10:29.976Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/1915_organic.json",
+  "items": [
+    {
+      "food_id": "25923546",
+      "food_name": "Carrot Apple Lemon Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/1915-organic/carrot-apple-lemon-juice",
+      "brand_name": "1915 Organic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23437879",
+      "food_name": "Protein Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/1915-organic/protein-coffee",
+      "brand_name": "1915 Organic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20138772",
+      "food_name": "Beet Carrot Orange Lemon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/1915-organic/beet-carrot-orange-lemon",
+      "brand_name": "1915 Organic",
+      "food_type": "Brand"
+    }
+  ]
+}

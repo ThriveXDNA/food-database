@@ -1,0 +1,34 @@
+{
+  "restaurant": "Janes Family Foods",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 350,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:10:16.832Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/janes_family_foods.json",
+  "items": [
+    {
+      "food_id": "610102",
+      "food_name": "Pub Style Chicken Fingers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/janes-family-foods/pub-style-chicken-fingers",
+      "brand_name": "Janes Family Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96794",
+      "food_name": "Pub Style Chicken Burgers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/janes-family-foods/pub-style-chicken-burgers",
+      "brand_name": "Janes Family Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47499",
+      "food_name": "Oven Roasted Carved Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/janes-family-foods/oven-roasted-carved-chicken-breast",
+      "brand_name": "Janes Family Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

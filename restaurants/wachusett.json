@@ -1,0 +1,27 @@
+{
+  "restaurant": "Wachusett",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:50:55.947Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/wachusett.json",
+  "items": [
+    {
+      "food_id": "2584032",
+      "food_name": "Barbecue Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wachusett/barbecue-potato-chips",
+      "brand_name": "Wachusett",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3753283",
+      "food_name": "Sour Cream & Onion Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wachusett/sour-cream-and-onion-potato-chips",
+      "brand_name": "Wachusett",
+      "food_type": "Brand"
+    }
+  ]
+}

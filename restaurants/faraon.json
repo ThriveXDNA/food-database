@@ -1,0 +1,55 @@
+{
+  "restaurant": "Faraon",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:19:42.538Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/faraon.json",
+  "items": [
+    {
+      "food_id": "624533",
+      "food_name": "Fideo Fino Vermicelli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/faraon/fideo-fino-vermicelli",
+      "brand_name": "Faraon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3624907",
+      "food_name": "Aloe Vera Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/faraon/aloe-vera-juice",
+      "brand_name": "Faraon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "269501",
+      "food_name": "Nacho Sliced Jalapeno Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/faraon/nacho-sliced-jalapeno-peppers",
+      "brand_name": "Faraon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "624541",
+      "food_name": "Conchas Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/faraon/conchas-shells",
+      "brand_name": "Faraon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75020761",
+      "food_name": "Red Kidney Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/faraon/red-kidney-beans",
+      "brand_name": "Faraon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3550577",
+      "food_name": "Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/faraon/black-beans",
+      "brand_name": "Faraon",
+      "food_type": "Brand"
+    }
+  ]
+}

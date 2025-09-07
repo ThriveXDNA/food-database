@@ -1,0 +1,48 @@
+{
+  "restaurant": "Surf Taco",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 1374,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:32:40.076Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/surf_taco.json",
+  "items": [
+    {
+      "food_id": "5493113",
+      "food_name": "Beef Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/surf-taco/beef-taco",
+      "brand_name": "Surf Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1565288",
+      "food_name": "Garlic Shrimp Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/surf-taco/garlic-shrimp-taco",
+      "brand_name": "Surf Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4097693",
+      "food_name": "Chicken Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/surf-taco/chicken-taco",
+      "brand_name": "Surf Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "646958",
+      "food_name": "Maverick Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/surf-taco/maverick-burrito",
+      "brand_name": "Surf Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5493118",
+      "food_name": "Teriyaki Chicken Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/surf-taco/teriyaki-chicken-taco",
+      "brand_name": "Surf Taco",
+      "food_type": "Brand"
+    }
+  ]
+}

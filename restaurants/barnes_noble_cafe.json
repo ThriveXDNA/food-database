@@ -1,0 +1,55 @@
+{
+  "restaurant": "Barnes & Noble Cafe",
+  "total_items": 6,
+  "pages_extracted": 5,
+  "total_search_results": 238,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:57:14.545Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/barnes_noble_cafe.json",
+  "items": [
+    {
+      "food_id": "870308",
+      "food_name": "Tomato Caprese Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/barnes-and-noble-cafe/tomato-caprese-sandwich",
+      "brand_name": "Barnes & Noble Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2818446",
+      "food_name": "Tomato Caprese Panini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/barnes-and-noble-cafe/tomato-caprese-panini",
+      "brand_name": "Barnes & Noble Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19085667",
+      "food_name": "Stuffed Pizza Pretzel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/barnes-noble-cafe/stuffed-pizza-pretzel",
+      "brand_name": "Barnes & Noble Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2781778",
+      "food_name": "Triple Chocolate Chunk Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/barnes-and-noble-cafe/triple-chocolate-chunk-cookie",
+      "brand_name": "Barnes & Noble Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2781764",
+      "food_name": "Oven Roasted Turkey Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/barnes-and-noble-cafe/oven-roasted-turkey-wrap",
+      "brand_name": "Barnes & Noble Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2827260",
+      "food_name": "Chicken Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/barnes-and-noble-cafe/chicken-noodle-soup",
+      "brand_name": "Barnes & Noble Cafe",
+      "food_type": "Brand"
+    }
+  ]
+}

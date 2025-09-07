@@ -1,0 +1,27 @@
+{
+  "restaurant": "Village Garden",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 652,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:28:19.363Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/village_garden.json",
+  "items": [
+    {
+      "food_id": "77839248",
+      "food_name": "Italian Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/village-garden/italian-dressing",
+      "brand_name": "Village Garden",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4667773",
+      "food_name": "Village Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/village-garden/village-ranch",
+      "brand_name": "Village Garden",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "restaurant": "LonoLife",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:34:46.772Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/lonolife.json",
+  "items": [
+    {
+      "food_id": "25477223",
+      "food_name": "Chicken Bone Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lonolife/chicken-bone-broth",
+      "brand_name": "LonoLife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40093502",
+      "food_name": "Grass Fed Beef Bone Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lonolife/grass-fed-beef-bone-broth",
+      "brand_name": "LonoLife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15417154",
+      "food_name": "Beef Bone Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lonolife/beef-bone-broth",
+      "brand_name": "LonoLife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24222694",
+      "food_name": "Chicken Bone Broth K-Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lonolife/chicken-bone-broth-k-cup",
+      "brand_name": "LonoLife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32575245",
+      "food_name": "Keto Chicken Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lonolife/keto-chicken-broth",
+      "brand_name": "LonoLife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32352024",
+      "food_name": "Thai Curry Beef Bone Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lonolife/thai-curry-beef-bone-broth",
+      "brand_name": "LonoLife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60602848",
+      "food_name": "Tomato Beef Bone Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lonolife/tomato-beef-bone-broth",
+      "brand_name": "LonoLife",
+      "food_type": "Brand"
+    }
+  ]
+}

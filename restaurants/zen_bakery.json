@@ -1,0 +1,48 @@
+{
+  "restaurant": "Zen Bakery",
+  "total_items": 5,
+  "pages_extracted": 2,
+  "total_search_results": 56,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:46:21.578Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/zen_bakery.json",
+  "items": [
+    {
+      "food_id": "2766288",
+      "food_name": "Carrot Cake Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/zen-bakery/carrot-cake-muffin",
+      "brand_name": "Zen Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1951230",
+      "food_name": "Cinnamon Raisin Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/zen-bakery/cinnamon-raisin-rolls",
+      "brand_name": "Zen Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24329504",
+      "food_name": "Blueberry Oat Bran Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/zen-bakery/blueberry-oat-bran-muffin",
+      "brand_name": "Zen Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2913556",
+      "food_name": "Apple Cranberry Bran Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/zen-bakery/apple-cranberry-bran-muffin",
+      "brand_name": "Zen Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68950728",
+      "food_name": "Banana Nut Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/zen-bakery/banana-nut-muffin",
+      "brand_name": "Zen Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

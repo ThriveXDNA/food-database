@@ -1,0 +1,27 @@
+{
+  "brand_name": "Chinese Brand",
+  "total_items": 2,
+  "pages_extracted": 4,
+  "total_search_results": 178,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:54:04.842Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/chinese_brand.json",
+  "items": [
+    {
+      "food_id": "1278080",
+      "food_name": "Pork Dumplings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chinese-brand/pork-dumplings",
+      "brand_name": "Chinese Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7335190",
+      "food_name": "Pork & Mushroom Dumpling",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chinese-brand/pork-mushroom-dumpling",
+      "brand_name": "Chinese Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "restaurant": "Truwomen",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:06:08.445Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/truwomen.json",
+  "items": [
+    {
+      "food_id": "34236179",
+      "food_name": "Oh Oh Cookie Dough Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/truwomen/oh-oh-cookie-dough-protein-bar",
+      "brand_name": "Truwomen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22646633",
+      "food_name": "Daydreaming About Donuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/truwomen/daydreaming-about-donuts",
+      "brand_name": "Truwomen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27946695",
+      "food_name": "Smother Fudger Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/truwomen/smother-fudger-peanut-butter",
+      "brand_name": "Truwomen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29107375",
+      "food_name": "I Scream For Orange Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/truwomen/i-scream-for-orange-cream",
+      "brand_name": "Truwomen",
+      "food_type": "Brand"
+    }
+  ]
+}

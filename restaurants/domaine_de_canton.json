@@ -1,0 +1,20 @@
+{
+  "restaurant": "Domaine de Canton",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 332,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:17:27.953Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/domaine_de_canton.json",
+  "items": [
+    {
+      "food_id": "8805419",
+      "food_name": "Ginger Liquer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/domaine-de-canton/ginger-liquer",
+      "brand_name": "Domaine de Canton",
+      "food_type": "Brand"
+    }
+  ]
+}

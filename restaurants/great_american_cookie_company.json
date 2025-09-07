@@ -1,0 +1,41 @@
+{
+  "restaurant": "Great American Cookie Company",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 2519,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:58:26.561Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/great_american_cookie_company.json",
+  "items": [
+    {
+      "food_id": "4147419",
+      "food_name": "Sugar Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-cookie-company/sugar-cookie",
+      "brand_name": "Great American Cookie Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1184128",
+      "food_name": "Peanut Butter Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-cookie-company/peanut-butter-cookie",
+      "brand_name": "Great American Cookie Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4437514",
+      "food_name": "Original Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-cookie-company/original-chocolate-chip-cookie",
+      "brand_name": "Great American Cookie Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2876378",
+      "food_name": "Chewy Pecan Supreme Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-cookie-company/chewy-pecan-supreme-cookie",
+      "brand_name": "Great American Cookie Company",
+      "food_type": "Brand"
+    }
+  ]
+}

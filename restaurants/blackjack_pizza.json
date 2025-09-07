@@ -1,0 +1,27 @@
+{
+  "restaurant": "Blackjack Pizza",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 6384,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:21:20.062Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/blackjack_pizza.json",
+  "items": [
+    {
+      "food_id": "151725",
+      "food_name": "Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blackjack-pizza/pepperoni-pizza",
+      "brand_name": "Blackjack Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "151724",
+      "food_name": "Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blackjack-pizza/cheese-pizza",
+      "brand_name": "Blackjack Pizza",
+      "food_type": "Brand"
+    }
+  ]
+}

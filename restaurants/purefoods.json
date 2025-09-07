@@ -1,0 +1,55 @@
+{
+  "restaurant": "Purefoods",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:07:05.471Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/purefoods.json",
+  "items": [
+    {
+      "food_id": "1872919",
+      "food_name": "Jumbo Hotdog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/purefoods/jumbo-hotdog",
+      "brand_name": "Purefoods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6876266",
+      "food_name": "Corned Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/purefoods/corned-beef",
+      "brand_name": "Purefoods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11327965",
+      "food_name": "Luncheon Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/purefoods/luncheon-meat",
+      "brand_name": "Purefoods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39196702",
+      "food_name": "Chicken Breast Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/purefoods/chicken-breast-nuggets",
+      "brand_name": "Purefoods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65282999",
+      "food_name": "Chicken Drummets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/purefoods/chicken-drummets",
+      "brand_name": "Purefoods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22408453",
+      "food_name": "German Franks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/purefoods/german-franks",
+      "brand_name": "Purefoods",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "restaurant": "Guy Fieri",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:47:16.786Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/guy_fieri.json",
+  "items": [
+    {
+      "food_id": "4138166",
+      "food_name": "Bourbon Brown Sugar BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/guy-fieri/bourbon-brown-sugar-bbq-sauce",
+      "brand_name": "Guy Fieri",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3545052",
+      "food_name": "Pollo Asado",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/guy-fieri/pollo-asado",
+      "brand_name": "Guy Fieri",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77110817",
+      "food_name": "Cheesy Lasagna with Pepperoni Marinara Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/guy-fieri/cheesy-lasagna-with-pepperoni-marinara-sauce",
+      "brand_name": "Guy Fieri",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103711702",
+      "food_name": "Secret Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/guy-fieri/secret-sauce",
+      "brand_name": "Guy Fieri",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2808050",
+      "food_name": "Chipotle Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/guy-fieri/chipotle-salsa",
+      "brand_name": "Guy Fieri",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2603632",
+      "food_name": "Carolina #6",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/guy-fieri/carolina-6",
+      "brand_name": "Guy Fieri",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1845935",
+      "food_name": "Pacific Rim BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/guy-fieri/pacific-rim-bbq-sauce",
+      "brand_name": "Guy Fieri",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2672701",
+      "food_name": "7 Pepper Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/guy-fieri/7-pepper-salsa",
+      "brand_name": "Guy Fieri",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2946001",
+      "food_name": "Caribbean Pork Chops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/guy-fieri/caribbean-pork-chops",
+      "brand_name": "Guy Fieri",
+      "food_type": "Brand"
+    }
+  ]
+}

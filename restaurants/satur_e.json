@@ -1,0 +1,55 @@
+{
+  "restaurant": "Saturée",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:49:01.074Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/satur_e.json",
+  "items": [
+    {
+      "food_id": "70102933",
+      "food_name": "Premium Collagen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/satur%C3%A9e/premium-collagen",
+      "brand_name": "Saturée",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70102934",
+      "food_name": "Best Bloom Gelatin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/satur%C3%A9e/best-bloom-gelatin",
+      "brand_name": "Saturée",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70102938",
+      "food_name": "Clean Casein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/satur%C3%A9e/clean-casein",
+      "brand_name": "Saturée",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70102932",
+      "food_name": "Norwegian Collagen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/satur%C3%A9e/norwegian-collagen",
+      "brand_name": "Saturée",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70102935",
+      "food_name": "A+ Liver",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/satur%C3%A9e/a-liver",
+      "brand_name": "Saturée",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70102937",
+      "food_name": "Pure Oyster",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/satur%C3%A9e/pure-oyster",
+      "brand_name": "Saturée",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "restaurant": "Copper Kettle",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 389,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:08:07.778Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/copper_kettle.json",
+  "items": [
+    {
+      "food_id": "75156221",
+      "food_name": "Dark Chocolate Truffles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/copper-kettle/dark-chocolate-truffles",
+      "brand_name": "Copper Kettle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65091794",
+      "food_name": "Milk Chocolate Caramels with Sea Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/copper-kettle/milk-chocolate-caramels-with-sea-salt",
+      "brand_name": "Copper Kettle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47156557",
+      "food_name": "Dark Chocolate Power Bark",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/copper-kettle/dark-chocolate-power-bark",
+      "brand_name": "Copper Kettle",
+      "food_type": "Brand"
+    }
+  ]
+}

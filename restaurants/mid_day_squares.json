@@ -1,0 +1,34 @@
+{
+  "restaurant": "Mid-Day Squares",
+  "total_items": 3,
+  "pages_extracted": 5,
+  "total_search_results": 238,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:04:50.453Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mid_day_squares.json",
+  "items": [
+    {
+      "food_id": "49072856",
+      "food_name": "Functional Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mid-day-squares/functional-chocolate-bar",
+      "brand_name": "Mid-Day Squares",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82970655",
+      "food_name": "Peanut Butta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mid-day-squares/peanut-butta",
+      "brand_name": "Mid-Day Squares",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65803618",
+      "food_name": "Brownie Batter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mid-day-squares/brownie-batter",
+      "brand_name": "Mid-Day Squares",
+      "food_type": "Brand"
+    }
+  ]
+}

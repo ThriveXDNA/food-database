@@ -1,0 +1,41 @@
+{
+  "restaurant": "Eastwest Cuisine",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 11,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:05:48.685Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/eastwest_cuisine.json",
+  "items": [
+    {
+      "food_id": "51780578",
+      "food_name": "Chicken Katsu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eastwest-cuisine/chicken-katsu",
+      "brand_name": "EastWest Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41541138",
+      "food_name": "Chinese Style BBQ Pork Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eastwest-cuisine/chinese-style-bbq-pork-ribs",
+      "brand_name": "EastWest Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56266493",
+      "food_name": "Organic Kung Pao Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eastwest-cuisine/organic-kung-pao-chicken",
+      "brand_name": "Eastwest Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13924315",
+      "food_name": "Beef Steak Appetizers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eastwest-cuisine/beef-steak-appetizers",
+      "brand_name": "EastWest Cuisine",
+      "food_type": "Brand"
+    }
+  ]
+}

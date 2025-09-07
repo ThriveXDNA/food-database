@@ -1,0 +1,62 @@
+{
+  "restaurant": "St. Pierre",
+  "total_items": 7,
+  "pages_extracted": 2,
+  "total_search_results": 52,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:27:25.695Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/st_pierre.json",
+  "items": [
+    {
+      "food_id": "29917184",
+      "food_name": "Brioche Burger Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-pierre/brioche-burger-buns",
+      "brand_name": "St. Pierre",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11719200",
+      "food_name": "Brioche Loaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-pierre/brioche-loaf",
+      "brand_name": "St. Pierre",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27823733",
+      "food_name": "Brioche Hot Dog Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-pierre/brioche-hot-dog-rolls",
+      "brand_name": "St. Pierre",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96286002",
+      "food_name": "Brioche Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-pierre/brioche-rolls",
+      "brand_name": "St. Pierre",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89294779",
+      "food_name": "Brioche Waffles with Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-pierre/brioche-waffles-with-butter",
+      "brand_name": "St. Pierre",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104689981",
+      "food_name": "Maple Flavor Belgian Waffles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-pierre/maple-flavor-belgian-waffles",
+      "brand_name": "St. Pierre",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84478139",
+      "food_name": "Brioche Cinnamon Twist",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-pierre/brioche-cinnamon-twist",
+      "brand_name": "St. Pierre",
+      "food_type": "Brand"
+    }
+  ]
+}

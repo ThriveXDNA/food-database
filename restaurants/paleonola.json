@@ -1,0 +1,41 @@
+{
+  "restaurant": "Paleonola",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:58:42.859Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/paleonola.json",
+  "items": [
+    {
+      "food_id": "12497715",
+      "food_name": "Paleonola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/paleonola/paleonola",
+      "brand_name": "Paleonola",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76502544",
+      "food_name": "Grain Free Granola Vanilla Bean",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/paleonola/grain-free-granola-vanilla-bean",
+      "brand_name": "Paleonola",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30464327",
+      "food_name": "Maple Pancake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/paleonola/maple-pancake",
+      "brand_name": "Paleonola",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53264760",
+      "food_name": "Original Grain Free Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/paleonola/original-grain-free-granola",
+      "brand_name": "Paleonola",
+      "food_type": "Brand"
+    }
+  ]
+}

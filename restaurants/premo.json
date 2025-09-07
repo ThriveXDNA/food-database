@@ -1,0 +1,34 @@
+{
+  "restaurant": "Premo",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:29:54.305Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/premo.json",
+  "items": [
+    {
+      "food_id": "83229648",
+      "food_name": "Italian Style Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premo/italian-style-wrap",
+      "brand_name": "Premo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31040492",
+      "food_name": "Ham & Cheddar Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premo/ham-cheddar-wrap",
+      "brand_name": "Premo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22527150",
+      "food_name": "Fiesta Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premo/fiesta-chicken-wrap",
+      "brand_name": "Premo",
+      "food_type": "Brand"
+    }
+  ]
+}

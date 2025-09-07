@@ -1,0 +1,2471 @@
+{
+  "restaurant": "Arby's",
+  "search_variation_used": "roast beef",
+  "total_items": 351,
+  "pages_extracted": 8,
+  "total_search_results": 351,
+  "filtering_method": "Variation search with minimal filtering",
+  "last_updated": "2025-09-06T22:58:18.603Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Multi-variation restaurant search for maximum capture",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/arby_s.json",
+  "items": [
+    {
+      "food_id": "1385",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/beef-roast-roasted",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "12761211",
+      "food_name": "Slow Cooked Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sams-choice/slow-cooked-beef-pot-roast",
+      "brand_name": "Sam's Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "140914",
+      "food_name": "Classic Roast Beef Top Round",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kirkland-signature/classic-roast-beef-top-round",
+      "brand_name": "Kirkland Signature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44173",
+      "food_name": "Sliced Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/albertsons/sliced-roast-beef",
+      "brand_name": "Albertsons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1835135",
+      "food_name": "Fully Cooked Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/market-day/fully-cooked-pot-roast",
+      "brand_name": "Market Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1387",
+      "food_name": "Roast Beef (Lean Only Eaten)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/beef-roast-roasted-lean-only-eaten",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "28061",
+      "food_name": "Oven Roasted Choice Beef Top Round",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boars-head/oven-roasted-choice-beef-top-round",
+      "brand_name": "Boar's Head",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88343",
+      "food_name": "Deli Slices Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tyson-foods/deli-slices-roast-beef",
+      "brand_name": "Tyson Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37169",
+      "food_name": "Beef Chuck (Blade Roast, Trimmed to 1/4\" Fat)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(blade-roast-trimmed-to-1-4-fat)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "30628",
+      "food_name": "Deli Select Ultra Thin Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hillshire-farm/deli-select-ultra-thin-roast-beef",
+      "brand_name": "Hillshire Farm",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37486",
+      "food_name": "Beef Chuck (Arm Pot Roast, Lean Only, Trimmed to 1/2\" Fat, Prime Grade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(arm-pot-roast-lean-only-trimmed-to-1-2-fat-prime-grade)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "8131088",
+      "food_name": "Angus Roast Beef Top Round",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/private-selection/angus-roast-beef-top-round",
+      "brand_name": "Private Selection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37552",
+      "food_name": "Beef Chuck (Arm Pot Roast, Trimmed to 1/8\" Fat, Select Grade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(arm-pot-roast-trimmed-to-1-8-fat-select-grade)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "53457",
+      "food_name": "Roast Beef in Beef Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kirkland-signature/roast-beef-in-beef-broth",
+      "brand_name": "Kirkland Signature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43690",
+      "food_name": "Oven Roasted Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wal-mart-deli/oven-roasted-beef",
+      "brand_name": "Wal-mart Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37684",
+      "food_name": "Beef Bottom Sirloin (Tri-Tip Roast, Trimmed to 0\" Fat, Choice Grade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-bottom-sirloin-(tri-tip-roast-trimmed-to-0-fat-choice-grade)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "37550",
+      "food_name": "Beef Chuck (Arm Pot Roast, Trimmed to 1/8\" Fat, Choice Grade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(arm-pot-roast-trimmed-to-1-8-fat-choice-grade)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "40465",
+      "food_name": "Beef Chuck (Arm Pot Roast, Lean Only, Trimmed to 1/8\" Fat, Select Grade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(arm-pot-roast-lean-only-trimmed-to-1-8-fat-select-grade)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "10551419",
+      "food_name": "Slow Cooked Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marketside/slow-cooked-beef-pot-roast",
+      "brand_name": "Marketside",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3668343",
+      "food_name": "Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/niman-ranch/beef-pot-roast",
+      "brand_name": "Niman Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106504",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-neighborhood/roast-beef",
+      "brand_name": "Old Neighborhood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1388",
+      "food_name": "Roast Beef (Canned)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/beef-roast-canned",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2300499",
+      "food_name": "Premium Roast Beef Cured",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/land-o-frost/premium-roast-beef-cured",
+      "brand_name": "Land O' Frost",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107303",
+      "food_name": "Londonport Top Round Seasoned Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boars-head/londonport-top-round-seasoned-roast-beef",
+      "brand_name": "Boar's Head",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "418821",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/market-pantry/roast-beef",
+      "brand_name": "Market Pantry",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77978",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/roast-beef",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "112932",
+      "food_name": "Thinly Sliced Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-value/thinly-sliced-roast-beef",
+      "brand_name": "Great Value",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56551",
+      "food_name": "Beef Pot Roast with Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wellsley-farms/beef-pot-roast-with-gravy",
+      "brand_name": "Wellsley Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "330776",
+      "food_name": "Beef Pot Roast with Vegetables & Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hmr/beef-pot-roast-with-vegetables-and-gravy",
+      "brand_name": "HMR",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56365703",
+      "food_name": "Prime Rib Beef Roast with Mushroom Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/open-nature/prime-rib-beef-roast-with-mushroom-gravy",
+      "brand_name": "Open Nature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "156101",
+      "food_name": "Roast Beef Hash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/roast-beef-hash",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2679028",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/archer-farms/roast-beef/1-serving",
+      "brand_name": "Archer Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40350",
+      "food_name": "Beef Chuck (Cold Roast, Lean Only, Trimmed to 1/4\" Fat)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(cold-roast-lean-only-trimmed-to-1-4-fat)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "37172",
+      "food_name": "Beef Chuck (Blade Roast, Trimmed to 1/4\" Fat, Select Grade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(blade-roast-trimmed-to-1-4-fat-select-grade)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "76539",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kayem/roast-beef",
+      "brand_name": "Kayem",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76776",
+      "food_name": "96% Fat Free Deli Thin Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/winn-dixie/96%25-fat-free-deli-thin-roast-beef",
+      "brand_name": "Winn-Dixie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37177",
+      "food_name": "Beef Chuck (Blade Roast, Lean Only, Trimmed to 1/4\" Fat, Choice Grade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(blade-roast-lean-only-trimmed-to-1-4-fat-choice-grade)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1264181",
+      "food_name": "Pot Roast with Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/angel-food-ministries/pot-roast-with-vegetables",
+      "brand_name": "Angel Food Ministries",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37175",
+      "food_name": "Beef Chuck (Blade Roast, Lean Only, Trimmed to 1/4\" Fat)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(blade-roast-lean-only-trimmed-to-1-4-fat)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "61311",
+      "food_name": "Bistro Selections Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smart-ones/bistro-selections-roast-beef",
+      "brand_name": "Smart Ones",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "528340",
+      "food_name": "Slow Roasted Shaved Roast Beef Cold Cuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oscar-mayer/slow-roasted-shaved-roast-beef-cold-cuts",
+      "brand_name": "Oscar Mayer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2328808",
+      "food_name": "Homestyle Slow Roasted Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/private-selection/homestyle-slow-roasted-roast-beef",
+      "brand_name": "Private Selection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81149",
+      "food_name": "Taglio Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo/taglio-roast-beef",
+      "brand_name": "Primo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37554",
+      "food_name": "Beef Chuck (Blade Roast, Trimmed to 1/8\" Fat)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(blade-roast-trimmed-to-1-8-fat)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "90825",
+      "food_name": "Oven Roasted Beef Burgundy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lean-cuisine/oven-roasted-beef-burgundy",
+      "brand_name": "Lean Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3213889",
+      "food_name": "Roast Beef with Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kroger/roast-beef-with-gravy",
+      "brand_name": "Kroger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "525675",
+      "food_name": "Deli Sliced Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gallo-salame/deli-sliced-roast-beef",
+      "brand_name": "Gallo Salame",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4044392",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/roast-beef",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "560152",
+      "food_name": "Slow Roasted Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marie-callenders/slow-roasted-beef",
+      "brand_name": "Marie Callender's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62196",
+      "food_name": "Organic Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/applegate-farms/organic-roast-beef",
+      "brand_name": "Applegate Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85382",
+      "food_name": "Roast Beef Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/underwood/roast-beef-spread",
+      "brand_name": "Underwood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69819",
+      "food_name": "Big Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hardees/big-roast-beef",
+      "brand_name": "Hardee's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87855",
+      "food_name": "Beef Pot Roast Au Jus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lauras-lean-beef/beef-pot-roast-au-jus",
+      "brand_name": "Laura's Lean Beef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3663009",
+      "food_name": "Deli Select Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hillshire-farm/deli-select-roast-beef/2-oz",
+      "brand_name": "Hillshire Farm",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "894094",
+      "food_name": "Beef Pot Roast Dinner",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culvers/beef-pot-roast-dinner",
+      "brand_name": "Culver's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "844638",
+      "food_name": "Seasoned Cooked Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kirkland-signature/seasoned-cooked-roast-beef",
+      "brand_name": "Kirkland Signature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "158751",
+      "food_name": "Italian Style Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meijer/italian-style-roast-beef",
+      "brand_name": "Meijer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73084",
+      "food_name": "Roast Beef Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bryan/roast-beef-slices",
+      "brand_name": "Bryan",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "141360",
+      "food_name": "Roast Beef Deli-Style Luncheon Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eating-right/roast-beef-deli-style-luncheon-meat",
+      "brand_name": "Eating Right",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75065",
+      "food_name": "Beef Pot Roast with Vegetables & Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutrisystem/beef-pot-roast-with-vegetables-and-gravy",
+      "brand_name": "NutriSystem",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106720",
+      "food_name": "Angus Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/castle-wood-reserve/angus-roast-beef",
+      "brand_name": "Castle Wood Reserve",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37488",
+      "food_name": "Beef Chuck (Blade Roast, Trimmed to 1/2\" Fat, Prime Grade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(blade-roast-trimmed-to-1-2-fat-prime-grade)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "3645216",
+      "food_name": "Beef Pot Roast with Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/market-day/beef-pot-roast-with-gravy",
+      "brand_name": "Market Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54030",
+      "food_name": "Compleats Roast Beef & Gravy with Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hormel/compleats-roast-beef-and-gravy-with-mashed-potatoes",
+      "brand_name": "Hormel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1934",
+      "food_name": "Roast Beef Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/roast-beef-spread",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "100902",
+      "food_name": "Beef Pot Roast with Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mortons-of-omaha/beef-pot-roast-with-gravy",
+      "brand_name": "Morton's of Omaha",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44103",
+      "food_name": "Beef Pot Roast in Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tyson-foods/beef-pot-roast-in-gravy",
+      "brand_name": "Tyson Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62973",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/john-morrell/roast-beef",
+      "brand_name": "John Morrell",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1386",
+      "food_name": "Roast Beef (Lean and Fat Eaten)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/beef-roast-roasted-lean-and-fat-eaten",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "37556",
+      "food_name": "Beef Chuck (Blade Roast, Trimmed to 1/8\" Fat, Choice Grade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(blade-roast-trimmed-to-1-8-fat-choice-grade)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "37558",
+      "food_name": "Beef Chuck (Blade Roast, Trimmed to 1/8\" Fat, Select Grade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(blade-roast-trimmed-to-1-8-fat-select-grade)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "3045781",
+      "food_name": "Fully Cooked Beef Pot Roast with Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/schwans/fully-cooked-beef-pot-roast-with-gravy",
+      "brand_name": "Schwan's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40349",
+      "food_name": "Beef Chuck (Top Blade, Lean Only, Trimmed to 1/4\" Fat)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(top-blade-lean-only-trimmed-to-1-4-fat)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "37170",
+      "food_name": "Beef Chuck (Blade Roast, Trimmed to 1/4\" Fat, Choice Grade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(blade-roast-trimmed-to-1-4-fat-choice-grade)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "63164",
+      "food_name": "Roast Beef Deli Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ziggys-internationale/roast-beef-deli-slices",
+      "brand_name": "Ziggy's Internationale",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13656510",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meijer/roast-beef",
+      "brand_name": "Meijer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "123418",
+      "food_name": "Crock Pot Classics Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/banquet/crock-pot-classics-beef-pot-roast",
+      "brand_name": "Banquet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "126410",
+      "food_name": "Santa Maria Tri-tip Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/santa-maria-tri-tip-roast",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52957",
+      "food_name": "Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boston-market/beef-pot-roast",
+      "brand_name": "Boston Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99668",
+      "food_name": "Italian Style Beef Roast Au Jus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hormel/italian-style-beef-roast-au-jus",
+      "brand_name": "Hormel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37686",
+      "food_name": "Beef Bottom Sirloin (Tri-Tip Roast, Trimmed to 0\" Fat, Select Grade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-bottom-sirloin-(tri-tip-roast-trimmed-to-0-fat-select-grade)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "44420",
+      "food_name": "Italian Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/papa-charlies/italian-roast-beef",
+      "brand_name": "Papa Charlie's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "528353",
+      "food_name": "Deli Fresh French Dip Shaved Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oscar-mayer/deli-fresh-french-dip-shaved-roast-beef",
+      "brand_name": "Oscar Mayer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35285",
+      "food_name": "Roast Beef Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/roast-beef-spread",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "104595",
+      "food_name": "Roasted Sirloin (3 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boston-market/roasted-sirloin-(3-oz)",
+      "brand_name": "Boston Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "528360",
+      "food_name": "Slow Roasted Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oscar-mayer/slow-roasted-roast-beef",
+      "brand_name": "Oscar Mayer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2268988",
+      "food_name": "Italian Style Seasoned Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boars-head/italian-style-seasoned-roast-beef",
+      "brand_name": "Boar's Head",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60977",
+      "food_name": "Angus Sliced Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/emmber/angus-sliced-roast-beef",
+      "brand_name": "Emmber",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52628",
+      "food_name": "Mushroom Roasted Beef with Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/healthy-choice/mushroom-roasted-beef-with-gravy",
+      "brand_name": "Healthy Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43644",
+      "food_name": "London Broil Roast Beef 97% Fat Free",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dietz-and-watson/london-broil-roast-beef-97%25-fat-free",
+      "brand_name": "Dietz & Watson",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80305",
+      "food_name": "Compleats Beef Pot Roast with Potatoes, Carrots & Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hormel/compleats-beef-pot-roast-with-potatoes-carrots-and-gravy",
+      "brand_name": "Hormel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "137104",
+      "food_name": "Cajun Style Seasoned Eye Round Oven Roasted Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boars-head/cajun-style-seasoned-eye-round-oven-roasted-beef",
+      "brand_name": "Boar's Head",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40384",
+      "food_name": "Beef Chuck (Top Blade, Trimmed to 1/4\" Fat)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(top-blade-trimmed-to-1-4-fat)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "139401",
+      "food_name": "Uncured Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/uncured-roast-beef",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "240082",
+      "food_name": "Cajun Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/cajun-roast-beef",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40446",
+      "food_name": "Beef Chuck (Arm Pot Roast, Lean Only, Trimmed to 1/8\" Fat, Choice Grade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(arm-pot-roast-lean-only-trimmed-to-1-8-fat-choice-grade)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "17687887",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/signature-farms/roast-beef",
+      "brand_name": "Signature Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55991",
+      "food_name": "Deli Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dietz-and-watson/deli-roast-beef",
+      "brand_name": "Dietz & Watson",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62205",
+      "food_name": "Natural Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/applegate-farms/natural-roast-beef",
+      "brand_name": "Applegate Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104063",
+      "food_name": "Deli Roast Beef Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sara-lee/deli-roast-beef-slices",
+      "brand_name": "Sara Lee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37548",
+      "food_name": "Beef Chuck (Arm Pot Roast, Trimmed to 1/8\" Fat)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(arm-pot-roast-trimmed-to-1-8-fat)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "37179",
+      "food_name": "Beef Chuck (Blade Roast, Lean Only, Trimmed to 1/4\" Fat, Select Grade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(blade-roast-lean-only-trimmed-to-1-4-fat-select-grade)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "37682",
+      "food_name": "Beef Bottom Sirloin (Tri-Tip Roast, Trimmed to 0\" Fat)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-bottom-sirloin-(tri-tip-roast-trimmed-to-0-fat)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "277760",
+      "food_name": "Roast Beef Parboiled & Steam Roasted with Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hormel/roast-beef-parboiled-and-steam-roasted-with-gravy",
+      "brand_name": "Hormel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52168",
+      "food_name": "Angus Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dietz-and-watson/angus-roast-beef",
+      "brand_name": "Dietz & Watson",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37490",
+      "food_name": "Beef Chuck (Blade Roast, Lean Only, Trimmed to 1/2\" Fat, Prime Grade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(blade-roast-lean-only-trimmed-to-1-2-fat-prime-grade)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1435385",
+      "food_name": "Santa Maria Style Tri-Tip Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bill-baileys/santa-maria-style-tri-tip-roast",
+      "brand_name": "Bill Bailey's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37484",
+      "food_name": "Beef Chuck (Arm Pot Roast, Trimmed to 1/2\" Fat, Prime Grade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/beef-chuck-(arm-pot-roast-trimmed-to-1-2-fat-prime-grade)",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1326162",
+      "food_name": "Roast Beef with Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hereford/roast-beef-with-gravy",
+      "brand_name": "Hereford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61443",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/applegate-farms/roast-beef",
+      "brand_name": "Applegate Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57084",
+      "food_name": "Organic Roast Beef Sliced",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/organic-prairie/organic-roast-beef-sliced",
+      "brand_name": "Organic Prairie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1466550",
+      "food_name": "Deli Style Thin Sliced Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/safeway/deli-style-thin-sliced-roast-beef",
+      "brand_name": "Safeway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "475002",
+      "food_name": "Prime Rib",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/beef-standing-rib-roast",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "465454",
+      "food_name": "Deli Thin Sliced Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lunch-mate/deli-thin-sliced-roast-beef",
+      "brand_name": "Lunch Mate",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1895391",
+      "food_name": "Medium Rare Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/healthy-ones/medium-rare-roast-beef",
+      "brand_name": "Healthy Ones",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1712541",
+      "food_name": "Slow Simmered Roast Beef Au Jus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hormel/slow-simmered-roast-beef-au-jus",
+      "brand_name": "Hormel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1794960",
+      "food_name": "Natural Choice Deli Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hormel/natural-choice-deli-roast-beef",
+      "brand_name": "Hormel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1502177",
+      "food_name": "Beef Pot Roast and Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-sensible/beef-pot-roast-and-gravy",
+      "brand_name": "Simply Sensible",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2010938",
+      "food_name": "Seasoned Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/columbus/seasoned-roast-beef",
+      "brand_name": "Columbus",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1337793",
+      "food_name": "Deli Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/thin-n-trim/deli-roast-beef",
+      "brand_name": "Thin 'N Trim",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2654108",
+      "food_name": "Smart Creations Roast Beef, Mashed Potatoes & Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smart-ones/smart-creations-roast-beef-mashed-potatoes-and-gravy",
+      "brand_name": "Smart Ones",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1859564",
+      "food_name": "Yankee Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harris-ranch/yankee-beef-pot-roast",
+      "brand_name": "Harris Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1759796",
+      "food_name": "Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/omaha-steaks/beef-pot-roast",
+      "brand_name": "Omaha Steaks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "400048",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/archer-farms/roast-beef",
+      "brand_name": "Archer Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2199780",
+      "food_name": "Low Sodium Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boars-head/low-sodium-roast-beef",
+      "brand_name": "Boar's Head",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3004681",
+      "food_name": "London Broil Cap-off Top Round Oven Roasted Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boars-head/london-broil-cap-off-top-round-oven-roasted-beef",
+      "brand_name": "Boar's Head",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3384132",
+      "food_name": "Black Angus Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/prima-della/black-angus-roast-beef",
+      "brand_name": "Prima Della",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2092908",
+      "food_name": "Deli Cuts Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carl-buddig/deli-cuts-roast-beef",
+      "brand_name": "Carl Buddig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28736794",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/niman-ranch/roast-beef",
+      "brand_name": "Niman Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3116432",
+      "food_name": "Thinly Sliced Premium Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farmer-john/thinly-sliced-premium-roast-beef",
+      "brand_name": "Farmer John",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24380371",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wellshire-farms/roast-beef",
+      "brand_name": "Wellshire Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "673631",
+      "food_name": "Deli Shaved Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/giant-eagle/deli-shaved-roast-beef",
+      "brand_name": "Giant Eagle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1208570",
+      "food_name": "Beef Pot Roast with Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/healthy-choice/beef-pot-roast-with-gravy",
+      "brand_name": "Healthy Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1780223",
+      "food_name": "All Natural Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/all-natural-roast-beef",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1844459",
+      "food_name": "Roast Beef & Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hormel/roast-beef-and-gravy",
+      "brand_name": "Hormel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2654461",
+      "food_name": "Sliced Roast Beef & Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hormel/sliced-roast-beef-and-gravy",
+      "brand_name": "Hormel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1570266",
+      "food_name": "Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/black-eyed-pea/pot-roast",
+      "brand_name": "Black Eyed Pea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76883487",
+      "food_name": "Natural Slow Roasted Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marketside/natural-slow-roasted-roast-beef",
+      "brand_name": "Marketside",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2169357",
+      "food_name": "Braised Beef Pot Roast & Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kroger/braised-beef-pot-roast-and-gravy",
+      "brand_name": "Kroger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3175738",
+      "food_name": "Beef Pot Roast Au Jus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kroger/beef-pot-roast-au-jus",
+      "brand_name": "Kroger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3480422",
+      "food_name": "Deli Thin Sliced Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kroger/deli-thin-sliced-roast-beef",
+      "brand_name": "Kroger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3183073",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kroger/roast-beef",
+      "brand_name": "Kroger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2877703",
+      "food_name": "Bistro Favorites Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/land-o-frost/bistro-favorites-roast-beef",
+      "brand_name": "Land O' Frost",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83380",
+      "food_name": "Martha Stewart Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dream-dinners/martha-stewart-pot-roast",
+      "brand_name": "Dream Dinners",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2087930",
+      "food_name": "Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marie-callenders/beef-pot-roast",
+      "brand_name": "Marie Callender's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2204530",
+      "food_name": "Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/market-pantry/beef-pot-roast",
+      "brand_name": "Market Pantry",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2437024",
+      "food_name": "Seasoned Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meijer/seasoned-roast-beef",
+      "brand_name": "Meijer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3778089",
+      "food_name": "Thin Sliced Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meijer/thin-sliced-roast-beef",
+      "brand_name": "Meijer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3785508",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kretschmar/roast-beef",
+      "brand_name": "Kretschmar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3803701",
+      "food_name": "All Natural Cap-off Top Round Oven Roasted Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boars-head/all-natural-cap-off-top-round-oven-roasted-beef",
+      "brand_name": "Boar's Head",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2643252",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo-taglio/roast-beef",
+      "brand_name": "Primo Taglio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "478319",
+      "food_name": "Homestyle Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/publix/homestyle-beef-pot-roast",
+      "brand_name": "Publix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2608435",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/publix/roast-beef",
+      "brand_name": "Publix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3576608",
+      "food_name": "Thin Sliced Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/safeway/thin-sliced-roast-beef",
+      "brand_name": "Safeway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3573274",
+      "food_name": "Mini Beef Pot Roast with Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/schwans/mini-beef-pot-roast-with-gravy",
+      "brand_name": "Schwan's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1695121",
+      "food_name": "Deli Style Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spartan/deli-style-roast-beef",
+      "brand_name": "Spartan",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2607839",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sprouts-farmers-market/roast-beef",
+      "brand_name": "Sprouts Farmers Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3960886",
+      "food_name": "Smart Creations Home Style Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smart-ones/smart-creations-home-style-beef-pot-roast",
+      "brand_name": "Smart Ones",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2922765",
+      "food_name": "Traditional Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/traditional-pot-roast",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2014503",
+      "food_name": "Home Style Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weight-watchers/home-style-beef-pot-roast",
+      "brand_name": "Weight Watchers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2594971",
+      "food_name": "Roast Beef, Mashed Potatoes & Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weight-watchers/roast-beef-mashed-potatoes-and-gravy",
+      "brand_name": "Weight Watchers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4157716",
+      "food_name": "Roast Beef Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harris-teeter/roast-beef-slices",
+      "brand_name": "Harris Teeter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25746",
+      "food_name": "Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smart-ones/pot-roast",
+      "brand_name": "Smart Ones",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4184801",
+      "food_name": "Just Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wegmans/just-roast-beef",
+      "brand_name": "Wegmans",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4182337",
+      "food_name": "Organic Grass Fed Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wegmans/organic-grass-fed-roast-beef",
+      "brand_name": "Wegmans",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44741",
+      "food_name": "Yankee Pot Roast Meal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/banquet/yankee-pot-roast-meal",
+      "brand_name": "Banquet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4301627",
+      "food_name": "Deli Premium Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/aldi/deli-premium-roast-beef",
+      "brand_name": "Aldi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4346352",
+      "food_name": "Roast Beef Hash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hormel/roast-beef-hash",
+      "brand_name": "Hormel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "684182",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/charlies-pride/roast-beef",
+      "brand_name": "Charlie's Pride",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4493299",
+      "food_name": "Pot Roast with Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grandys/pot-roast-with-gravy",
+      "brand_name": "Grandy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1036291",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kirkland-signature/roast-beef",
+      "brand_name": "Kirkland Signature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2078486",
+      "food_name": "Sliced Black Angus Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/prima-della/sliced-black-angus-roast-beef",
+      "brand_name": "Prima Della",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3178739",
+      "food_name": "Seasoned Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo-taglio/seasoned-roast-beef",
+      "brand_name": "Primo Taglio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4702447",
+      "food_name": "Pot Roast with Mashed Potatoes & Green Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bistro-md/pot-roast-with-mashed-potatoes-and-green-beans",
+      "brand_name": "Bistro MD",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5160654",
+      "food_name": "Sliced Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kirkland-signature/sliced-roast-beef",
+      "brand_name": "Kirkland Signature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5168171",
+      "food_name": "Finely Sliced Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lunch-mate/finely-sliced-roast-beef",
+      "brand_name": "Lunch Mate",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50206",
+      "food_name": "Angus Beef Eye Round Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hannaford/angus-beef-eye-round-roast",
+      "brand_name": "Hannaford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3071203",
+      "food_name": "Cooked Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meal-mart/cooked-pot-roast",
+      "brand_name": "Meal Mart",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5473643",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eating-right/roast-beef",
+      "brand_name": "Eating Right",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5508628",
+      "food_name": "Homestyle Beef Pot Roast with Savory Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harris-ranch/homestyle-beef-pot-roast-with-savory-gravy",
+      "brand_name": "Harris Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5100210",
+      "food_name": "Seasoned Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wegmans/seasoned-roast-beef",
+      "brand_name": "Wegmans",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3682841",
+      "food_name": "Deli Beef Bottom Round Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/publix/deli-beef-bottom-round-roast",
+      "brand_name": "Publix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5700175",
+      "food_name": "Pot Roast with Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/safeway/pot-roast-with-vegetables",
+      "brand_name": "Safeway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5209942",
+      "food_name": "Deli Premium Oven Roasted Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lunch-mate/deli-premium-oven-roasted-roast-beef",
+      "brand_name": "Lunch Mate",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65285",
+      "food_name": "Deli Fresh Slow Roasted Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oscar-mayer/deli-fresh-slow-roasted-roast-beef",
+      "brand_name": "Oscar Mayer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6028077",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-and-easy/roast-beef",
+      "brand_name": "Fresh & Easy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "847844",
+      "food_name": "Boneless Beef Tri Tip Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/boneless-beef-tri-tip-roast",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5626395",
+      "food_name": "Roast Beef Low Sodium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/private-selection/roast-beef-low-sodium",
+      "brand_name": "Private Selection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6769730",
+      "food_name": "Beef Chuckeye Roast Boneless",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meijer/beef-chuckeye-roast-boneless",
+      "brand_name": "Meijer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6727777",
+      "food_name": "Selects Slow Roasted Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oscar-mayer/selects-slow-roasted-roast-beef",
+      "brand_name": "Oscar Mayer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2414331",
+      "food_name": "Grass Fed Beef Chuck Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wegmans/grass-fed-beef-chuck-roast",
+      "brand_name": "Wegmans",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4563311",
+      "food_name": "Burgundy Pepper Spoon Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/festival/burgundy-pepper-spoon-roast",
+      "brand_name": "Festival",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1717755",
+      "food_name": "Sliced Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mortons-of-omaha/sliced-roast-beef",
+      "brand_name": "Morton's of Omaha",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6091955",
+      "food_name": "Oven Roasted USDA Choice Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kirkland-signature/oven-roasted-usda-choice-roast-beef",
+      "brand_name": "Kirkland Signature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6442192",
+      "food_name": "Beef Pot Roast with Vegetables in Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mre/beef-pot-roast-with-vegetables-in-gravy",
+      "brand_name": "MRE",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2786322",
+      "food_name": "Compleats Homestyle Roast Beef & Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hormel/compleats-homestyle-roast-beef-and-mashed-potatoes",
+      "brand_name": "Hormel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7860055",
+      "food_name": "Seasoned Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/seasoned-roast-beef",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7862764",
+      "food_name": "Top Round Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simple-truth/top-round-roast-beef",
+      "brand_name": "Simple Truth",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5717617",
+      "food_name": "Extra Thin Sliced Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/publix/extra-thin-sliced-roast-beef",
+      "brand_name": "Publix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3908835",
+      "food_name": "Black Angus Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eckrich/black-angus-roast-beef",
+      "brand_name": "Eckrich",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8225919",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-value/roast-beef",
+      "brand_name": "Great Value",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7119054",
+      "food_name": "Chuck Roast Choice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crest-fresh-market/chuck-roast-choice",
+      "brand_name": "Crest Fresh Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6670557",
+      "food_name": "Braised Beef Roast with Demi Glace",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/braised-beef-roast-with-demi-glace",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8611216",
+      "food_name": "Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burnett/beef-pot-roast",
+      "brand_name": "Burnett",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8688719",
+      "food_name": "Grass Fed Beef Sirloin Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/grass-fed-beef-sirloin-roast",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7778227",
+      "food_name": "Complete Meals Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/healthy-choice/complete-meals-beef-pot-roast",
+      "brand_name": "Healthy Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9052245",
+      "food_name": "Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/safeway-select/pot-roast",
+      "brand_name": "Safeway Select",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9271000",
+      "food_name": "Angus Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/russer/angus-roast-beef",
+      "brand_name": "Russer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9462310",
+      "food_name": "Premium Deli Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/essential-everyday/premium-deli-roast-beef",
+      "brand_name": "Essential Everyday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9491129",
+      "food_name": "Chuck Tender Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wal-mart/chuck-tender-roast",
+      "brand_name": "Wal-Mart",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9896335",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/americas-choice/roast-beef",
+      "brand_name": "America's Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10026598",
+      "food_name": "Inhouse Traditional Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/inhouse-traditional-roast-beef",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9770441",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/black-steer/roast-beef",
+      "brand_name": "Black Steer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10459382",
+      "food_name": "Selects Natural Slow Roasted Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oscar-mayer/selects-natural-slow-roasted-roast-beef",
+      "brand_name": "Oscar Mayer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "724647",
+      "food_name": "All Natural Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boars-head/all-natural-roast-beef",
+      "brand_name": "Boar's Head",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10573739",
+      "food_name": "Comfort Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lean-cuisine/comfort-beef-pot-roast",
+      "brand_name": "Lean Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "442210",
+      "food_name": "Mesquite Smoked Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/mesquite-smoked-roast-beef",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10239635",
+      "food_name": "Compleats Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hormel/compleats-beef-pot-roast",
+      "brand_name": "Hormel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11042344",
+      "food_name": "Roast Beef Rare",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/di-lusso/roast-beef-rare",
+      "brand_name": "Di Lusso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9904495",
+      "food_name": "Seasoned Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kirkland-signature/seasoned-roast-beef",
+      "brand_name": "Kirkland Signature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9488257",
+      "food_name": "Slow Cooked Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mandm-meat-shops/slow-cooked-beef-pot-roast",
+      "brand_name": "M&M Meat Shops",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12015807",
+      "food_name": "Naturals Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hillshire-farm/naturals-roast-beef",
+      "brand_name": "Hillshire Farm",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12986239",
+      "food_name": "Sliced Angus Seasoned Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/daily-chef/sliced-angus-seasoned-roast-beef",
+      "brand_name": "Daily Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14311067",
+      "food_name": "Boneless Chuck Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hannaford/boneless-chuck-roast",
+      "brand_name": "Hannaford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14366237",
+      "food_name": "Deli Selected Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lunch-mate/deli-selected-roast-beef",
+      "brand_name": "Lunch Mate",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "922589",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chisesi/roast-beef",
+      "brand_name": "Chisesi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4682135",
+      "food_name": "Extra Lean Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dietz-and-watson/extra-lean-roast-beef",
+      "brand_name": "Dietz & Watson",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13224029",
+      "food_name": "Angus Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/members-mark/angus-roast-beef",
+      "brand_name": "Member's Mark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13884210",
+      "food_name": "Angus Seasoned Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/members-mark/angus-seasoned-roast-beef",
+      "brand_name": "Member's Mark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15298449",
+      "food_name": "Oven Roasted Beef Brisket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meal-mart/oven-roasted-beef-brisket",
+      "brand_name": "Meal Mart",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15404574",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kandw-cafeteria/roast-beef",
+      "brand_name": "K&W Cafeteria",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17770391",
+      "food_name": "Beef Pot Roast with Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-value/beef-pot-roast-with-vegetables",
+      "brand_name": "Great Value",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18254548",
+      "food_name": "Choice Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/black-bear/choice-roast-beef",
+      "brand_name": "Black Bear",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18106987",
+      "food_name": "Seasoned Filet of Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boars-head/seasoned-filet-of-roast-beef",
+      "brand_name": "Boar's Head",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18574829",
+      "food_name": "Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/members-mark/beef-pot-roast",
+      "brand_name": "Member's Mark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7151895",
+      "food_name": "Fully Cooked Seasoned Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/fully-cooked-seasoned-beef-pot-roast",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18861580",
+      "food_name": "Ultra Thin Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hillshire-farm/ultra-thin-roast-beef",
+      "brand_name": "Hillshire Farm",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17755394",
+      "food_name": "Roast Beef & Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hormel/roast-beef-mashed-potatoes",
+      "brand_name": "Hormel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20650328",
+      "food_name": "Deli Fresh Slow Roasted Cured Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oscar-mayer/deli-fresh-slow-roasted-cured-roast-beef",
+      "brand_name": "Oscar Mayer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17636453",
+      "food_name": "Angus Seasoned Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/castle-wood-reserve/angus-seasoned-roast-beef",
+      "brand_name": "Castle Wood Reserve",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19493872",
+      "food_name": "Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/signature-select/pot-roast",
+      "brand_name": "Signature Select",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19870470",
+      "food_name": "Reserve Angus Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/reserve-angus-roast-beef",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22337480",
+      "food_name": "Seasoned Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simple-truth-organic/seasoned-roast-beef",
+      "brand_name": "Simple Truth Organic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23073559",
+      "food_name": "Mississippi Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/mississippi-pot-roast",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "22056475",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smithfield/roast-beef",
+      "brand_name": "Smithfield",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21877236",
+      "food_name": "Sliced Roast Beef with Red Wine Demi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bistro-md/sliced-roast-beef-with-red-wine-demi",
+      "brand_name": "Bistro MD",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23990018",
+      "food_name": "Angus Seasoned Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-value/angus-seasoned-roast-beef",
+      "brand_name": "Great Value",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68713358",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/zoes-meats/roast-beef",
+      "brand_name": "Zoe's Meats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16019606",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/roast-beef",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68821828",
+      "food_name": "Super Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/arbys/super-roast-beef",
+      "brand_name": "Arby's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17178832",
+      "food_name": "Roast Beef (Shaved)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/roast-beef-(shaved)",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24230288",
+      "food_name": "Grass Fed Chuck Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/strauss/grass-fed-chuck-roast",
+      "brand_name": "Strauss",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24361413",
+      "food_name": "Roast Beef with Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/armour/roast-beef-with-gravy",
+      "brand_name": "Armour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24580295",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sodexo/roast-beef",
+      "brand_name": "Sodexo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50204941",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/armour/roast-beef",
+      "brand_name": "Armour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71654996",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mcalisters-deli/roast-beef",
+      "brand_name": "Mcalister's Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41895424",
+      "food_name": "Beef Chuck Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hy-vee/beef-chuck-roast",
+      "brand_name": "Hy-Vee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71654998",
+      "food_name": "Roast Beef - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mcalisters-deli/roast-beef-half",
+      "brand_name": "Mcalister's Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27488127",
+      "food_name": "Black Angus Beef Chuck Roast Boneless",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/aldi/black-angus-beef-chuck-roast-boneless",
+      "brand_name": "Aldi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67924729",
+      "food_name": "Seasoned Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/costco/seasoned-roast-beef",
+      "brand_name": "Costco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71656067",
+      "food_name": "Black Angus Roast Beef - Craft Your Own Spud",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mcalisters-deli/black-angus-roast-beef-craft-your-own-spud",
+      "brand_name": "Mcalister's Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28002121",
+      "food_name": "Premium Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hormel/premium-roast-beef",
+      "brand_name": "Hormel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68230783",
+      "food_name": "Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kirkland-signature/beef-pot-roast",
+      "brand_name": "Kirkland Signature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71656242",
+      "food_name": "Black Angus Roast Beef - Craft Your Own Spud - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mcalisters-deli/black-angus-roast-beef-craft-your-own-spud-half",
+      "brand_name": "Mcalister's Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15556192",
+      "food_name": "Beef Chuck Roast Boneless",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ingles/beef-chuck-roast-boneless",
+      "brand_name": "Ingles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65539783",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stater-bros/roast-beef",
+      "brand_name": "Stater Bros.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71657226",
+      "food_name": "Black Angus Roast Beef - Sandwich Meats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mcalisters-deli/black-angus-roast-beef-sandwich-meats",
+      "brand_name": "Mcalister's Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465893",
+      "food_name": "Chile Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/chile-roast-beef",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29736232",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cracker-barrel/roast-beef",
+      "brand_name": "Cracker Barrel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71657244",
+      "food_name": "Black Angus Roast Beef - Sandwich Meats - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mcalisters-deli/black-angus-roast-beef-sandwich-meats-half",
+      "brand_name": "Mcalister's Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74587269",
+      "food_name": "Add Slow-Cooked Roast Beef, 4-Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-goodcents/add-slow-cooked-roast-beef-4-inch",
+      "brand_name": "Mr. Goodcents",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29641270",
+      "food_name": "Deep Roasted Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meijer/deep-roasted-roast-beef",
+      "brand_name": "Meijer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74587270",
+      "food_name": "Add Slow-Cooked Roast Beef, 6-Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-goodcents/add-slow-cooked-roast-beef-6-inch",
+      "brand_name": "Mr. Goodcents",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30907865",
+      "food_name": "BBQ Brisket Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/factor/bbq-brisket-pot-roast",
+      "brand_name": "Factor",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71985841",
+      "food_name": "Boxed Lunch - Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/firehouse-subs/boxed-lunch-roast-beef",
+      "brand_name": "Firehouse Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74587271",
+      "food_name": "Add Slow-Cooked Roast Beef, 8-Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-goodcents/add-slow-cooked-roast-beef-8-inch",
+      "brand_name": "Mr. Goodcents",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28668160",
+      "food_name": "Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruprecht/beef-pot-roast",
+      "brand_name": "Ruprecht",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71985897",
+      "food_name": "USDA Choice Roast Beef - Large Sub Meats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/firehouse-subs/usda-choice-roast-beef-large-sub-meats",
+      "brand_name": "Firehouse Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74587272",
+      "food_name": "Add Slow-Cooked Roast Beef, 12-Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-goodcents/add-slow-cooked-roast-beef-12-inch",
+      "brand_name": "Mr. Goodcents",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30550311",
+      "food_name": "Sunday Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/sunday-beef-pot-roast",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71986026",
+      "food_name": "USDA Choice Roast Beef - Medium Sub Meats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/firehouse-subs/usda-choice-roast-beef-medium-sub-meats",
+      "brand_name": "Firehouse Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74587273",
+      "food_name": "Add Slow-Cooked Roast Beef, 16-Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-goodcents/add-slow-cooked-roast-beef-16-inch",
+      "brand_name": "Mr. Goodcents",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71986261",
+      "food_name": "USDA Choice Roast Beef - Small Sub Meats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/firehouse-subs/usda-choice-roast-beef-small-sub-meats",
+      "brand_name": "Firehouse Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36012527",
+      "food_name": "Thyme & Rosemary Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trifecta/thyme-rosemary-pot-roast",
+      "brand_name": "Trifecta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38036275",
+      "food_name": "Seasoned Cooked Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natures-promise/seasoned-cooked-roast-beef",
+      "brand_name": "Nature's Promise",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74587389",
+      "food_name": "Add Double Slow-Cooked Roast Beef, 6-Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-goodcents/add-double-slow-cooked-roast-beef-6-inch",
+      "brand_name": "Mr. Goodcents",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19824949",
+      "food_name": "Chuck Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-value/chuck-pot-roast",
+      "brand_name": "Great Value",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74587390",
+      "food_name": "Add Double Slow-Cooked Roast Beef, 8-Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-goodcents/add-double-slow-cooked-roast-beef-8-inch",
+      "brand_name": "Mr. Goodcents",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34900468",
+      "food_name": "Traditional Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kroger/traditional-roast-beef",
+      "brand_name": "Kroger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74587391",
+      "food_name": "Add Double Slow-Cooked Roast Beef, 12-Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-goodcents/add-double-slow-cooked-roast-beef-12-inch",
+      "brand_name": "Mr. Goodcents",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39087657",
+      "food_name": "Beef Pot Roast Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marie-callenders/beef-pot-roast-bowl",
+      "brand_name": "Marie Callender's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74587393",
+      "food_name": "Add Double Slow-Cooked Roast Beef, 16-Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-goodcents/add-double-slow-cooked-roast-beef-16-inch",
+      "brand_name": "Mr. Goodcents",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37213979",
+      "food_name": "Oven Roasted Angus Corned Beef Top Round",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/private-selection/oven-roasted-angus-corned-beef-top-round",
+      "brand_name": "Private Selection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74587498",
+      "food_name": "Family Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-goodcents/family-pot-roast",
+      "brand_name": "Mr. Goodcents",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42665986",
+      "food_name": "Angus Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wellsley-farms/angus-roast-beef",
+      "brand_name": "Wellsley Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74587511",
+      "food_name": "Classic Pot Roast - Goodcents to Go",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-goodcents/classic-pot-roast-goodcents-to-go",
+      "brand_name": "Mr. Goodcents",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45549506",
+      "food_name": "Seasoned Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/prima-della/seasoned-roast-beef",
+      "brand_name": "Prima Della",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72881952",
+      "food_name": "Seasoned Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lidl/seasoned-roast-beef",
+      "brand_name": "Lidl",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46786014",
+      "food_name": "Slow Cooker Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lipton/slow-cooker-pot-roast",
+      "brand_name": "Lipton",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74694177",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blimpie/roast-beef",
+      "brand_name": "Blimpie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44452316",
+      "food_name": "Slow Braised Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/44th-street/slow-braised-beef-pot-roast",
+      "brand_name": "44th Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45280793",
+      "food_name": "Roast Beef in Beef Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-value/roast-beef-in-beef-broth",
+      "brand_name": "Great Value",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33750099",
+      "food_name": "Ultra-Thin Deli Slices Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-gather/ultra-thin-deli-slices-roast-beef",
+      "brand_name": "Good & Gather",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727981",
+      "food_name": "Roast Beef Sandwich - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/togos/roast-beef-sandwich-mini",
+      "brand_name": "Togo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727986",
+      "food_name": "Roast Beef Sandwich - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/togos/roast-beef-sandwich-regular",
+      "brand_name": "Togo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57880465",
+      "food_name": "Beef Pot Roast with Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-la-carte/beef-pot-roast-with-gravy",
+      "brand_name": "A La Carte",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74728002",
+      "food_name": "Roast Beef Sandwich - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/togos/roast-beef-sandwich-large",
+      "brand_name": "Togo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58431207",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/diestel/roast-beef",
+      "brand_name": "Diestel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74728006",
+      "food_name": "Roast Beef, Turkey & Cheddar Sandwich - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/togos/roast-beef-turkey-cheddar-sandwich-regular",
+      "brand_name": "Togo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58769813",
+      "food_name": "Sunday Beef Pot Roast with Roasted Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/sunday-beef-pot-roast-with-roasted-vegetables",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74728008",
+      "food_name": "Roast Beef, Turkey & Cheddar Sandwich - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/togos/roast-beef-turkey-cheddar-sandwich-large",
+      "brand_name": "Togo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63758016",
+      "food_name": "Ultra Thin Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farmington/ultra-thin-roast-beef",
+      "brand_name": "Farmington",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74728016",
+      "food_name": "Triple Dip Sandwich - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/togos/triple-dip-sandwich-regular",
+      "brand_name": "Togo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66352358",
+      "food_name": "Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/pot-roast",
+      "brand_name": "Arby's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "74728018",
+      "food_name": "Triple Dip Sandwich - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/togos/triple-dip-sandwich-large",
+      "brand_name": "Togo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83096018",
+      "food_name": "Slow-Roasted Beef & Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/amazon-kitchen/slow-roasted-beef-mashed-potatoes",
+      "brand_name": "Amazon Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76055082",
+      "food_name": "Roast Beef - Small (Classic Sub No.7)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-of-subs/roast-beef-small-(classic-sub-no7)",
+      "brand_name": "Port of Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83485498",
+      "food_name": "USDA Choice Angus Beef Chuck Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/aldi/usda-choice-angus-beef-chuck-roast",
+      "brand_name": "Aldi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76055085",
+      "food_name": "Roast Beef - Small (Classic Sub No.18)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-of-subs/roast-beef-small-(classic-sub-no18)",
+      "brand_name": "Port of Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543359",
+      "food_name": "Subway Club Meats (Turkey, Ham, Roast Beef)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/subway-club-meats-(turkey-ham-roast-beef)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834312",
+      "food_name": "Roast Beef Little Johns Add-Ons (Ez)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jimmy-johns/roast-beef-little-johns-add-ons-(ez)",
+      "brand_name": "Jimmy John's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834318",
+      "food_name": "Roast Beef Little Johns Add-Ons (Reg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jimmy-johns/roast-beef-little-johns-add-ons-(reg)",
+      "brand_name": "Jimmy John's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834334",
+      "food_name": "Roast Beef Little Johns Add-Ons (Xtra)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jimmy-johns/roast-beef-little-johns-add-ons-(xtra)",
+      "brand_name": "Jimmy John's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76055162",
+      "food_name": "Roast Beef - Medium (Classic Sub No.7)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-of-subs/roast-beef-medium-(classic-sub-no7)",
+      "brand_name": "Port of Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91995299",
+      "food_name": "BBQ Beef Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-fitness-chef-protein-packed/bbq-beef-noodles",
+      "brand_name": "The Fitness Chef Protein Packed",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104055980",
+      "food_name": "1/2 Slow Roasted Pot Roast Dip with Beef Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bob-evans/1-2-slow-roasted-pot-roast-dip-with-beef-gravy",
+      "brand_name": "Bob Evans",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76055165",
+      "food_name": "Roast Beef - Medium (Classic Sub No.18)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-of-subs/roast-beef-medium-(classic-sub-no18)",
+      "brand_name": "Port of Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84234878",
+      "food_name": "Roast Beef 8-Inch French Add-Ons (Ez)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jimmy-johns/roast-beef-8-inch-french-add-ons-(ez)",
+      "brand_name": "Jimmy John's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96443129",
+      "food_name": "London Broil Roast Beef & Pepperhouse Smoked Hummus Pita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boars-head/london-broil-roast-beef-pepperhouse-smoked-hummus-pita",
+      "brand_name": "Boar's Head",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299493",
+      "food_name": "The Beast - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/the-beast-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84234882",
+      "food_name": "Roast Beef 8-Inch French Add-Ons (Reg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jimmy-johns/roast-beef-8-inch-french-add-ons-(reg)",
+      "brand_name": "Jimmy John's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101299764",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/365/roast-beef",
+      "brand_name": "365",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299570",
+      "food_name": "Roast Beef - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/roast-beef-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76055237",
+      "food_name": "Roast Beef - Large (Classic Sub No.18)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-of-subs/roast-beef-large-(classic-sub-no18)",
+      "brand_name": "Port of Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84234889",
+      "food_name": "Roast Beef 8-Inch French Add-Ons (Xtra)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jimmy-johns/roast-beef-8-inch-french-add-ons-(xtra)",
+      "brand_name": "Jimmy John's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105279386",
+      "food_name": "Beef Pot Roast Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culvers/beef-pot-roast-sandwich",
+      "brand_name": "Culver's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76055238",
+      "food_name": "Roast Beef - Large (Classic Sub No.7)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-of-subs/roast-beef-large-(classic-sub-no7)",
+      "brand_name": "Port of Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84235323",
+      "food_name": "Roast Beef 16-Inch French Add-Ons (Ez)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jimmy-johns/roast-beef-16-inch-french-add-ons-(ez)",
+      "brand_name": "Jimmy John's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84235325",
+      "food_name": "Roast Beef 16-Inch French Add-Ons (Reg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jimmy-johns/roast-beef-16-inch-french-add-ons-(reg)",
+      "brand_name": "Jimmy John's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80827332",
+      "food_name": "Thin Sliced Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/publix/thin-sliced-roast-beef",
+      "brand_name": "Publix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84235328",
+      "food_name": "Roast Beef 16-Inch French Add-Ons (Xtra)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jimmy-johns/roast-beef-16-inch-french-add-ons-(xtra)",
+      "brand_name": "Jimmy John's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85121077",
+      "food_name": "Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stouffers/beef-pot-roast",
+      "brand_name": "Stouffer's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86444840",
+      "food_name": "Mary Kitchen Roast Beef Hash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hormel/mary-kitchen-roast-beef-hash",
+      "brand_name": "Hormel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76055358",
+      "food_name": "Roast Beef - X-Large (Classic Sub No.7)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-of-subs/roast-beef-x-large-(classic-sub-no7)",
+      "brand_name": "Port of Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76055359",
+      "food_name": "Roast Beef - X-Large (Classic Sub No.18)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-of-subs/roast-beef-x-large-(classic-sub-no18)",
+      "brand_name": "Port of Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76055782",
+      "food_name": "Top Deck Meat & Cheese Champion (10-15 Guests)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-of-subs/top-deck-meat-cheese-champion-(10-15-guests)",
+      "brand_name": "Port of Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76055788",
+      "food_name": "Top Deck Meat & Cheese Champion (20-25 Guests)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-of-subs/top-deck-meat-cheese-champion-(20-25-guests)",
+      "brand_name": "Port of Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76055789",
+      "food_name": "Top Deck Meat & Cheese Champion (15-20 Guests)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-of-subs/top-deck-meat-cheese-champion-(15-20-guests)",
+      "brand_name": "Port of Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67269466",
+      "food_name": "Sunday Beef Pot Roast (340g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/sunday-beef-pot-roast-(340g)",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76871548",
+      "food_name": "Choice Angus Beef Chuck Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/members-mark/choice-angus-beef-chuck-roast",
+      "brand_name": "Member's Mark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80396154",
+      "food_name": "Slow Cooker Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/real-appeal/slow-cooker-pot-roast",
+      "brand_name": "Real Appeal",
+      "food_type": "Brand"
+    }
+  ]
+}

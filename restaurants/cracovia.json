@@ -1,0 +1,76 @@
+{
+  "restaurant": "Cracovia",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:49:09.623Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cracovia.json",
+  "items": [
+    {
+      "food_id": "44174786",
+      "food_name": "Pickled Dill Cucumbers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cracovia/pickled-dill-cucumbers",
+      "brand_name": "Cracovia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26755220",
+      "food_name": "Shredded Beets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cracovia/shredded-beets",
+      "brand_name": "Cracovia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13394289",
+      "food_name": "Cucumber Salad in Vinigar Brine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cracovia/cucumber-salad-in-vinigar-brine",
+      "brand_name": "Cracovia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6770584",
+      "food_name": "Letcho",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cracovia/letcho",
+      "brand_name": "Cracovia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49425796",
+      "food_name": "Salmon Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cracovia/salmon-salad",
+      "brand_name": "Cracovia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54579564",
+      "food_name": "Pickled Mushrooms",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cracovia/pickled-mushrooms",
+      "brand_name": "Cracovia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3396462",
+      "food_name": "Sauerkraut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cracovia/sauerkraut",
+      "brand_name": "Cracovia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31896301",
+      "food_name": "Plum Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cracovia/plum-butter",
+      "brand_name": "Cracovia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15180316",
+      "food_name": "Dinner Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cracovia/dinner-salad",
+      "brand_name": "Cracovia",
+      "food_type": "Brand"
+    }
+  ]
+}

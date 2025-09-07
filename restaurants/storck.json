@@ -1,0 +1,62 @@
+{
+  "restaurant": "Storck",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:04:45.067Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/storck.json",
+  "items": [
+    {
+      "food_id": "3736410",
+      "food_name": "Mamba Fruit Chews (6)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/storck/mamba-fruit-chews-(6)/6-pieces",
+      "brand_name": "Storck",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2084480",
+      "food_name": "Merci",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/storck/merci",
+      "brand_name": "Storck",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "250855",
+      "food_name": "Riesen Chocolate Caramel Candies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/storck/riesen-chocolate-caramel-candies",
+      "brand_name": "Storck",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4713548",
+      "food_name": "Toffifee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/storck/toffifee",
+      "brand_name": "Storck",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2257791",
+      "food_name": "Toffifay (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/storck/toffifay-(4)",
+      "brand_name": "Storck",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62684",
+      "food_name": "Mamba Fruit Chews (9)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/storck/mamba-fruit-chews-(9)",
+      "brand_name": "Storck",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35262743",
+      "food_name": "Knoppers Nut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/storck/knoppers-nut-bar",
+      "brand_name": "Storck",
+      "food_type": "Brand"
+    }
+  ]
+}

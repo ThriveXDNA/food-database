@@ -1,0 +1,20 @@
+{
+  "restaurant": "Bolle",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 1,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:49:38.090Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bolle.json",
+  "items": [
+    {
+      "food_id": "25854972",
+      "food_name": "Premium Tapioca Pearl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bolle/premium-tapioca-pearl",
+      "brand_name": "Bolle",
+      "food_type": "Brand"
+    }
+  ]
+}

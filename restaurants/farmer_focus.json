@@ -1,0 +1,55 @@
+{
+  "restaurant": "Farmer Focus",
+  "total_items": 6,
+  "pages_extracted": 2,
+  "total_search_results": 54,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:12:18.738Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/farmer_focus.json",
+  "items": [
+    {
+      "food_id": "51555731",
+      "food_name": "Organic & Free Range Boneless Skinless Chicken Thighs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farmer-focus/organic-free-range-boneless-skinless-chicken-thighs",
+      "brand_name": "Farmer Focus",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64611574",
+      "food_name": "Boneless Skinless Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farmer-focus/boneless-skinless-chicken-breast",
+      "brand_name": "Farmer Focus",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92738004",
+      "food_name": "Organic and Free Range Boneless Skinless Chicken Breasts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farmer-focus/organic-and-free-range-boneless-skinless-chicken-breasts",
+      "brand_name": "Farmer Focus",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79291285",
+      "food_name": "Chicken Party Wings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farmer-focus/chicken-party-wings",
+      "brand_name": "Farmer Focus",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43957050",
+      "food_name": "Organic & Free Range Chicken Tenders",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farmer-focus/organic-free-range-chicken-tenders",
+      "brand_name": "Farmer Focus",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71409435",
+      "food_name": "Ground Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farmer-focus/ground-chicken",
+      "brand_name": "Farmer Focus",
+      "food_type": "Brand"
+    }
+  ]
+}

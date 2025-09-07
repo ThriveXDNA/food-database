@@ -1,0 +1,20 @@
+{
+  "restaurant": "Big Roll",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 1757,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:29:45.196Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/big_roll.json",
+  "items": [
+    {
+      "food_id": "50096293",
+      "food_name": "Grilled Seaweed Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-roll/grilled-seaweed-roll",
+      "brand_name": "Big Roll",
+      "food_type": "Brand"
+    }
+  ]
+}

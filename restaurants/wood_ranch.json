@@ -1,0 +1,62 @@
+{
+  "restaurant": "Wood Ranch",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 1715,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:49:06.904Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/wood_ranch.json",
+  "items": [
+    {
+      "food_id": "12210071",
+      "food_name": "Dinner Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wood-ranch/dinner-roll",
+      "brand_name": "Wood Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85499972",
+      "food_name": "Sweet Potato Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wood-ranch/sweet-potato-fries",
+      "brand_name": "Wood Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15946624",
+      "food_name": "Tri Tip Entree",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wood-ranch/tri-tip-entree",
+      "brand_name": "Wood Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7690280",
+      "food_name": "Peanut Coleslaw",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wood-ranch/peanut-coleslaw",
+      "brand_name": "Wood Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12932352",
+      "food_name": "Mac N Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wood-ranch/mac-n-cheese",
+      "brand_name": "Wood Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14429699",
+      "food_name": "Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wood-ranch/mashed-potatoes",
+      "brand_name": "Wood Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13884458",
+      "food_name": "Brisket (in BBQ Combo)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wood-ranch/brisket-(in-bbq-combo)",
+      "brand_name": "Wood Ranch",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "restaurant": "Orlando",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:30:56.986Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/orlando.json",
+  "items": [
+    {
+      "food_id": "3527764",
+      "food_name": "Ciabatta Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/orlando/ciabatta-bread",
+      "brand_name": "Orlando",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "814038",
+      "food_name": "Deli Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/orlando/deli-wheat-bread",
+      "brand_name": "Orlando",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "671591",
+      "food_name": "Deli Rye Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/orlando/deli-rye-bread",
+      "brand_name": "Orlando",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2793679",
+      "food_name": "Steak, Brat & Sausage Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/orlando/steak-brat-and-sausage-roll",
+      "brand_name": "Orlando",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11982529",
+      "food_name": "Italian Twist",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/orlando/italian-twist",
+      "brand_name": "Orlando",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169308",
+      "food_name": "French Fries  - Sack - Serves 3 (Scottsdale / Orlando Only)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/white-castle/french-fries-sack-serves-3-(scottsdale-orlando-only)",
+      "brand_name": "White Castle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169300",
+      "food_name": "French Fries - Small (Scottsdale / Orlando Only)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/white-castle/french-fries-small-(scottsdale-orlando-only)",
+      "brand_name": "White Castle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169302",
+      "food_name": "French Fries  - Medium (Scottsdale / Orlando Only)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/white-castle/french-fries-medium-(scottsdale-orlando-only)",
+      "brand_name": "White Castle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169310",
+      "food_name": "Cheese Fries (Scottsdale / Orlando Only)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/white-castle/cheese-fries-(scottsdale-orlando-only)",
+      "brand_name": "White Castle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169313",
+      "food_name": "Loaded Fries (Scottsdale / Orlando Only)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/white-castle/loaded-fries-(scottsdale-orlando-only)",
+      "brand_name": "White Castle",
+      "food_type": "Brand"
+    }
+  ]
+}

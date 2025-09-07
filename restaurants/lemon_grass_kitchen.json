@@ -1,0 +1,48 @@
+{
+  "restaurant": "Lemon Grass Kitchen",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 1972,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:35:31.122Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/lemon_grass_kitchen.json",
+  "items": [
+    {
+      "food_id": "17591274",
+      "food_name": "Lemongrass Chicken Stir-Fry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lemon-grass-kitchen/lemongrass-chicken-stir-fry",
+      "brand_name": "Lemon Grass Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13916978",
+      "food_name": "Chicken Pad Thai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lemon-grass-kitchen/chicken-pad-thai",
+      "brand_name": "Lemon Grass Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12851562",
+      "food_name": "Chicken & Broccoli Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lemon-grass-kitchen/chicken-and-broccoli-noodles",
+      "brand_name": "Lemon Grass Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12993703",
+      "food_name": "Korean Style Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lemon-grass-kitchen/korean-style-grilled-chicken",
+      "brand_name": "Lemon Grass Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14697606",
+      "food_name": "Beef & Broccoli Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lemon-grass-kitchen/beef-and-broccoli-noodles",
+      "brand_name": "Lemon Grass Kitchen",
+      "food_type": "Brand"
+    }
+  ]
+}

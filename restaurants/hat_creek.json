@@ -1,0 +1,69 @@
+{
+  "restaurant": "Hat Creek",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 25,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:25:19.296Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/hat_creek.json",
+  "items": [
+    {
+      "food_id": "17036498",
+      "food_name": "Little Hat Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hat-creek/little-hat-burger",
+      "brand_name": "Hat Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67715615",
+      "food_name": "French Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hat-creek/french-fries",
+      "brand_name": "Hat Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28791517",
+      "food_name": "Sweet Potato Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hat-creek/sweet-potato-fries",
+      "brand_name": "Hat Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67715535",
+      "food_name": "Turkey Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hat-creek/turkey-burger",
+      "brand_name": "Hat Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103593086",
+      "food_name": "Keto Burger Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hat-creek/keto-burger-bowl",
+      "brand_name": "Hat Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58832746",
+      "food_name": "Big Hat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hat-creek/big-hat",
+      "brand_name": "Hat Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45823063",
+      "food_name": "Fried Pickles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hat-creek/fried-pickles",
+      "brand_name": "Hat Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44732073",
+      "food_name": "Berry Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hat-creek/berry-salad",
+      "brand_name": "Hat Creek",
+      "food_type": "Brand"
+    }
+  ]
+}

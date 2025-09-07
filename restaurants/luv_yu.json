@@ -1,0 +1,48 @@
+{
+  "restaurant": "Luv Yu",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:40:37.171Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/luv_yu.json",
+  "items": [
+    {
+      "food_id": "309128",
+      "food_name": "Japanese Rice Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/luv-yu/japanese-rice-crackers",
+      "brand_name": "Luv Yu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "307802",
+      "food_name": "Almond Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/luv-yu/almond-cookies",
+      "brand_name": "Luv Yu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1642001",
+      "food_name": "Honey Almond Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/luv-yu/honey-almond-cookies",
+      "brand_name": "Luv Yu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37259225",
+      "food_name": "Honey Fortune Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/luv-yu/honey-fortune-cookies",
+      "brand_name": "Luv Yu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3698682",
+      "food_name": "Orange Almond Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/luv-yu/orange-almond-cookies",
+      "brand_name": "Luv Yu",
+      "food_type": "Brand"
+    }
+  ]
+}

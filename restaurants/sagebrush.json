@@ -1,0 +1,27 @@
+{
+  "restaurant": "Sagebrush",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:34:59.593Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sagebrush.json",
+  "items": [
+    {
+      "food_id": "4626926",
+      "food_name": "Cheddar Biscuits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sagebrush/cheddar-biscuits",
+      "brand_name": "Sagebrush",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "985444",
+      "food_name": "Grilled Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sagebrush/grilled-chicken-sandwich",
+      "brand_name": "Sagebrush",
+      "food_type": "Brand"
+    }
+  ]
+}

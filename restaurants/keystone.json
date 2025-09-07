@@ -1,0 +1,83 @@
+{
+  "restaurant": "Keystone",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:07:40.738Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/keystone.json",
+  "items": [
+    {
+      "food_id": "2267919",
+      "food_name": "Party Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/keystone/party-mix",
+      "brand_name": "Keystone",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5409285",
+      "food_name": "All Natural Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/keystone/all-natural-beef",
+      "brand_name": "Keystone",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9436014",
+      "food_name": "Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/keystone/chicken",
+      "brand_name": "Keystone",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23029114",
+      "food_name": "Turkey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/keystone/turkey",
+      "brand_name": "Keystone",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42128919",
+      "food_name": "Ranch Veggie Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/keystone/ranch-veggie-sticks",
+      "brand_name": "Keystone",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12560428",
+      "food_name": "Corned Beef Hash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/keystone/corned-beef-hash",
+      "brand_name": "Keystone",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2122281",
+      "food_name": "Heat & Serve Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/keystone/heat-and-serve-pork",
+      "brand_name": "Keystone",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "276726",
+      "food_name": "Heat & Serve Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/keystone/heat-and-serve-beef",
+      "brand_name": "Keystone",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "432964",
+      "food_name": "Keystone Light Beer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coors/keystone-light-beer",
+      "brand_name": "Coors",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2896380",
+      "food_name": "Keystone Ice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coors/keystone-ice",
+      "brand_name": "Coors",
+      "food_type": "Brand"
+    }
+  ]
+}

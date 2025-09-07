@@ -1,0 +1,27 @@
+{
+  "restaurant": "Goody Man",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:06:09.746Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/goody_man.json",
+  "items": [
+    {
+      "food_id": "27196359",
+      "food_name": "Chocolate Covered Mini Donuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/goody-man/chocolate-covered-mini-donuts",
+      "brand_name": "Goody Man",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45511835",
+      "food_name": "Powdered Mini Donuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/goody-man/powdered-mini-donuts",
+      "brand_name": "Goody Man",
+      "food_type": "Brand"
+    }
+  ]
+}

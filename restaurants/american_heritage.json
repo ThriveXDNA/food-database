@@ -1,0 +1,76 @@
+{
+  "restaurant": "American Heritage",
+  "total_items": 9,
+  "pages_extracted": 6,
+  "total_search_results": 536,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:24:26.226Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/american_heritage.json",
+  "items": [
+    {
+      "food_id": "427977",
+      "food_name": "Cheddar Shredded Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/american-heritage/cheddar-shredded-cheese",
+      "brand_name": "American Heritage",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "427975",
+      "food_name": "Cheddar Jack Shredded Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/american-heritage/cheddar-jack-shredded-cheese",
+      "brand_name": "American Heritage",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44448117",
+      "food_name": "Garden Vegetable Cream Cheese Dip with Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/american-heritage/garden-vegetable-cream-cheese-dip-with-pretzels",
+      "brand_name": "American Heritage",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1536885",
+      "food_name": "Mozzarella String Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/american-heritage/mozzarella-string-cheese",
+      "brand_name": "American Heritage",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8895848",
+      "food_name": "Low-Moisture Part-Skim Mozzarella Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/american-heritage/low-moisture-part-skim-mozzarella-cheese",
+      "brand_name": "American Heritage",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "309545",
+      "food_name": "Honey Mustard Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/american-heritage/honey-mustard-dip",
+      "brand_name": "American Heritage",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7123179",
+      "food_name": "Fancy Mexican Style Shredded Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/american-heritage/fancy-mexican-style-shredded-cheese",
+      "brand_name": "American Heritage",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9891561",
+      "food_name": "Monterey Jack Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/american-heritage/monterey-jack-cheese",
+      "brand_name": "American Heritage",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "370448",
+      "food_name": "Pepper Jack Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/american-heritage/pepper-jack-cheese",
+      "brand_name": "American Heritage",
+      "food_type": "Brand"
+    }
+  ]
+}

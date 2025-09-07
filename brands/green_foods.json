@@ -1,0 +1,34 @@
+{
+  "brand_name": "Green Foods",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 2422,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:14:03.835Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/green_foods.json",
+  "items": [
+    {
+      "food_id": "9809023",
+      "food_name": "Organic Matcha Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-foods/organic-matcha-green-tea",
+      "brand_name": "Green Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17641997",
+      "food_name": "Wheat Grass Shots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-foods/wheat-grass-shots",
+      "brand_name": "Green Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9577111",
+      "food_name": "Organic Chlorella Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-foods/organic-chlorella-powder",
+      "brand_name": "Green Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

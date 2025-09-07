@@ -1,0 +1,48 @@
+{
+  "restaurant": "Cherrybrook Kitchen",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 50,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:41:46.367Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cherrybrook_kitchen.json",
+  "items": [
+    {
+      "food_id": "82471",
+      "food_name": "Gluten Free Sugar Cookie Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cherrybrook-kitchen/gluten-free-sugar-cookie-mix",
+      "brand_name": "Cherrybrook Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5173567",
+      "food_name": "Yellow Cake Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cherrybrook-kitchen/yellow-cake-mix",
+      "brand_name": "Cherrybrook Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82461",
+      "food_name": "Chocolate Chip Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cherrybrook-kitchen/chocolate-chip-cookies",
+      "brand_name": "Cherrybrook Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2488119",
+      "food_name": "Gluten Free Dreams Pancake & Waffle Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cherrybrook-kitchen/gluten-free-dreams-pancake-and-waffle-mix",
+      "brand_name": "Cherrybrook Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "414814",
+      "food_name": "Yellow Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cherrybrook-kitchen/yellow-cake",
+      "brand_name": "Cherrybrook Kitchen",
+      "food_type": "Brand"
+    }
+  ]
+}

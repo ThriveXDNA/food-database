@@ -1,0 +1,62 @@
+{
+  "restaurant": "Hawaiian Bros",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 361,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:41:52.290Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/hawaiian_bros.json",
+  "items": [
+    {
+      "food_id": "65736215",
+      "food_name": "Spam Musubi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hawaiian-bros/spam-musubi",
+      "brand_name": "Hawaiian Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60093061",
+      "food_name": "Honolulu Chicken (Classic)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hawaiian-bros/honolulu-chicken-(classic)",
+      "brand_name": "Hawaiian Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55653013",
+      "food_name": "Molokai Chicken (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hawaiian-bros/molokai-chicken-(small)",
+      "brand_name": "Hawaiian Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57761062",
+      "food_name": "Macaroni Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hawaiian-bros/macaroni-salad",
+      "brand_name": "Hawaiian Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87600597",
+      "food_name": "Teriyaki Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hawaiian-bros/teriyaki-sauce",
+      "brand_name": "Hawaiian Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72569957",
+      "food_name": "Pacific Island Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hawaiian-bros/pacific-island-salad",
+      "brand_name": "Hawaiian Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65736178",
+      "food_name": "Luau Pig (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hawaiian-bros/luau-pig-(large)",
+      "brand_name": "Hawaiian Bros",
+      "food_type": "Brand"
+    }
+  ]
+}

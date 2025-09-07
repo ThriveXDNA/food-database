@@ -1,0 +1,62 @@
+{
+  "restaurant": "Savory Collection",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 288,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:20:48.543Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/savory_collection.json",
+  "items": [
+    {
+      "food_id": "9688007",
+      "food_name": "Vidalia Onion Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/savory-collection/vidalia-onion-dressing",
+      "brand_name": "Savory Collection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5075877",
+      "food_name": "Fat Free Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/savory-collection/fat-free-ranch-dressing",
+      "brand_name": "Savory Collection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7508139",
+      "food_name": "Mild Buffalo Wing Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/savory-collection/mild-buffalo-wing-sauce",
+      "brand_name": "Savory Collection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6753097",
+      "food_name": "Asian Grill Marinade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/savory-collection/asian-grill-marinade",
+      "brand_name": "Savory Collection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13909212",
+      "food_name": "Creamy Blue Cheese Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/savory-collection/creamy-blue-cheese-dressing",
+      "brand_name": "Savory Collection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2444171",
+      "food_name": "Honey Poppyseed Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/savory-collection/honey-poppyseed-dressing",
+      "brand_name": "Savory Collection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "367756",
+      "food_name": "French Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/savory-collection/french-dressing",
+      "brand_name": "Savory Collection",
+      "food_type": "Brand"
+    }
+  ]
+}

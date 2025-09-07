@@ -1,0 +1,27 @@
+{
+  "restaurant": "Beigel Beigel",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:12:34.910Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/beigel_beigel.json",
+  "items": [
+    {
+      "food_id": "308674",
+      "food_name": "Nish Nosh Mediterranean Herbs Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beigel-beigel/nish-nosh-mediterranean-herbs-crackers",
+      "brand_name": "Beigel Beigel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2749257",
+      "food_name": "Sesame Rings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beigel-beigel/sesame-rings",
+      "brand_name": "Beigel Beigel",
+      "food_type": "Brand"
+    }
+  ]
+}

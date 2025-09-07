@@ -1,0 +1,69 @@
+{
+  "brand_name": "Luxury Brand",
+  "total_items": 8,
+  "pages_extracted": 2,
+  "total_search_results": 74,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:54:35.110Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/luxury_brand.json",
+  "items": [
+    {
+      "food_id": "637628",
+      "food_name": "Vermicelli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/luxury-brand/vermicelli",
+      "brand_name": "Luxury Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "659363",
+      "food_name": "Elbow Macaroni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/luxury-brand/elbow-macaroni",
+      "brand_name": "Luxury Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "637597",
+      "food_name": "Angel Hair",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/luxury-brand/angel-hair",
+      "brand_name": "Luxury Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "637614",
+      "food_name": "Penne Rigate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/luxury-brand/penne-rigate",
+      "brand_name": "Luxury Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "637599",
+      "food_name": "Bow Ties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/luxury-brand/bow-ties",
+      "brand_name": "Luxury Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "637612",
+      "food_name": "Medium Egg Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/luxury-brand/medium-egg-noodles",
+      "brand_name": "Luxury Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "637613",
+      "food_name": "Broad Egg Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/luxury-brand/broad-egg-noodles",
+      "brand_name": "Luxury Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "637619",
+      "food_name": "Rotini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/luxury-brand/rotini",
+      "brand_name": "Luxury Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

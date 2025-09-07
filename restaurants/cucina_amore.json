@@ -1,0 +1,41 @@
+{
+  "restaurant": "Cucina & Amore",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 12,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:30:01.963Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cucina_amore.json",
+  "items": [
+    {
+      "food_id": "70761932",
+      "food_name": "Bruschetta Eggplant & Red Pepper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cucina-amore/bruschetta-eggplant-red-pepper",
+      "brand_name": "Cucina & Amore",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45204593",
+      "food_name": "Polenta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cucina-amore/polenta",
+      "brand_name": "Cucina & Amore",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71168213",
+      "food_name": "Bruschetta Olive Medley",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cucina-amore/bruschetta-olive-medley",
+      "brand_name": "Cucina & Amore",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31066040",
+      "food_name": "Italian Pasta Sauce Formaggio",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cucina-amore/italian-pasta-sauce-formaggio",
+      "brand_name": "Cucina & Amore",
+      "food_type": "Brand"
+    }
+  ]
+}

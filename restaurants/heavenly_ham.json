@@ -1,0 +1,34 @@
+{
+  "restaurant": "Heavenly Ham",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 1819,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:08:31.928Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/heavenly_ham.json",
+  "items": [
+    {
+      "food_id": "789988",
+      "food_name": "Heath Bar Crunch Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heavenly-ham/heath-bar-crunch-cookie",
+      "brand_name": "Heavenly Ham",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1000960",
+      "food_name": "Oatmeal Raisin Nut Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heavenly-ham/oatmeal-raisin-nut-cookie",
+      "brand_name": "Heavenly Ham",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "366083",
+      "food_name": "Turkey Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heavenly-ham/turkey-salad",
+      "brand_name": "Heavenly Ham",
+      "food_type": "Brand"
+    }
+  ]
+}

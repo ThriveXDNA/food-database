@@ -1,0 +1,48 @@
+{
+  "restaurant": "Rumbi Island Grill",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 359,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:46:00.616Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rumbi_island_grill.json",
+  "items": [
+    {
+      "food_id": "312492",
+      "food_name": "Hawaiian Teriyaki Chicken with Brown Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rumbi-island-grill/hawaiian-teriyaki-chicken-with-brown-rice",
+      "brand_name": "Rumbi Island Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3982473",
+      "food_name": "Aloha Mango Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rumbi-island-grill/aloha-mango-chicken-salad",
+      "brand_name": "Rumbi Island Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "632994",
+      "food_name": "Bali Island Chicken with Brown Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rumbi-island-grill/bali-island-chicken-with-brown-rice",
+      "brand_name": "Rumbi Island Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1034522",
+      "food_name": "BBQ Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rumbi-island-grill/bbq-chicken-salad",
+      "brand_name": "Rumbi Island Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1937541",
+      "food_name": "Jamaican Jerk Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rumbi-island-grill/jamaican-jerk-caesar-salad",
+      "brand_name": "Rumbi Island Grill",
+      "food_type": "Brand"
+    }
+  ]
+}

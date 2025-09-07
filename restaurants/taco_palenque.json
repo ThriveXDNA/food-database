@@ -1,0 +1,41 @@
+{
+  "restaurant": "Taco Palenque",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 1340,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:30:09.639Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/taco_palenque.json",
+  "items": [
+    {
+      "food_id": "81960439",
+      "food_name": "Beef Fajita Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-palenque/beef-fajita-taco",
+      "brand_name": "Taco Palenque",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57386643",
+      "food_name": "Palenque Bowl (Beef)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-palenque/palenque-bowl-(beef)",
+      "brand_name": "Taco Palenque",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55074227",
+      "food_name": "Pirata",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-palenque/pirata",
+      "brand_name": "Taco Palenque",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107458286",
+      "food_name": "Sirloin Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-palenque/sirloin-burrito",
+      "brand_name": "Taco Palenque",
+      "food_type": "Brand"
+    }
+  ]
+}

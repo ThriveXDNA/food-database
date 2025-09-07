@@ -1,0 +1,34 @@
+{
+  "brand_name": "Pure Nature",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 509,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:10:43.805Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/pure_nature.json",
+  "items": [
+    {
+      "food_id": "10779917",
+      "food_name": "Organic Whole Strawberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pure-nature/organic-whole-strawberries",
+      "brand_name": "Pure Nature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7278128",
+      "food_name": "Organic Whole Blackberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pure-nature/organic-whole-blackberries",
+      "brand_name": "Pure Nature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3114892",
+      "food_name": "Organic Green Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pure-nature/organic-green-beans",
+      "brand_name": "Pure Nature",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "restaurant": "Skillet Masters",
+  "total_items": 4,
+  "pages_extracted": 4,
+  "total_search_results": 199,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:19:15.587Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/skillet_masters.json",
+  "items": [
+    {
+      "food_id": "93677",
+      "food_name": "Beef Stroganoff",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skillet-masters/beef-stroganoff",
+      "brand_name": "Skillet Masters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96246",
+      "food_name": "Cheeseburger Macaroni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skillet-masters/cheeseburger-macaroni",
+      "brand_name": "Skillet Masters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94928",
+      "food_name": "Lasagna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skillet-masters/lasagna",
+      "brand_name": "Skillet Masters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95862",
+      "food_name": "Creamy Tuna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skillet-masters/creamy-tuna",
+      "brand_name": "Skillet Masters",
+      "food_type": "Brand"
+    }
+  ]
+}

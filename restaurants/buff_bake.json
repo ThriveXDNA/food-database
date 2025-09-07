@@ -1,0 +1,55 @@
+{
+  "restaurant": "Buff Bake",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 291,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:57:32.627Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/buff_bake.json",
+  "items": [
+    {
+      "food_id": "13293916",
+      "food_name": "Birthday Cake Protein Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buff-bake/birthday-cake-protein-cookie",
+      "brand_name": "Buff Bake",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15152657",
+      "food_name": "Protein Cookie Snicker Doodle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buff-bake/protein-cookie-snicker-doodle",
+      "brand_name": "Buff Bake",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9065962",
+      "food_name": "Cookie Almond Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buff-bake/cookie-almond-butter",
+      "brand_name": "Buff Bake",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23305157",
+      "food_name": "Protein Sandwich Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buff-bake/protein-sandwich-cookies",
+      "brand_name": "Buff Bake",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16706706",
+      "food_name": "Chocolate Chip Protein Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buff-bake/chocolate-chip-protein-cookie",
+      "brand_name": "Buff Bake",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46071062",
+      "food_name": "Fuel Bar Cinnamon Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buff-bake/fuel-bar-cinnamon-crunch",
+      "brand_name": "Buff Bake",
+      "food_type": "Brand"
+    }
+  ]
+}

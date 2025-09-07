@@ -1,0 +1,55 @@
+{
+  "restaurant": "The Granola Bakery",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 2525,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:16:15.927Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_granola_bakery.json",
+  "items": [
+    {
+      "food_id": "49694139",
+      "food_name": "Keto Granola Chocolate Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-granola-bakery/keto-granola-chocolate-crunch",
+      "brand_name": "The Granola Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46194916",
+      "food_name": "Keto Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-granola-bakery/keto-granola",
+      "brand_name": "The Granola Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35842547",
+      "food_name": "Keto Granola Cinnamon Pecan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-granola-bakery/keto-granola-cinnamon-pecan",
+      "brand_name": "The Granola Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47784933",
+      "food_name": "Blueberry Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-granola-bakery/blueberry-crunch",
+      "brand_name": "The Granola Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87340273",
+      "food_name": "Cinnamon Macadamia Nut Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-granola-bakery/cinnamon-macadamia-nut-bites",
+      "brand_name": "The Granola Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48189640",
+      "food_name": "Candied Macadamia Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-granola-bakery/candied-macadamia-crunch",
+      "brand_name": "The Granola Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

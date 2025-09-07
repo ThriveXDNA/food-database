@@ -1,0 +1,41 @@
+{
+  "brand_name": "Perrier",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:23:07.371Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/perrier.json",
+  "items": [
+    {
+      "food_id": "1854840",
+      "food_name": "Sparkling Natural Mineral Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perrier/sparkling-natural-mineral-water",
+      "brand_name": "Perrier",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15326328",
+      "food_name": "Watermelon Sparkling Natural Mineral Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perrier/watermelon-sparkling-natural-mineral-water",
+      "brand_name": "Perrier",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30894089",
+      "food_name": "Perrier & Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perrier/perrier-juice",
+      "brand_name": "Perrier",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52281054",
+      "food_name": "Energize Pomegranate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perrier/energize-pomegranate",
+      "brand_name": "Perrier",
+      "food_type": "Brand"
+    }
+  ]
+}

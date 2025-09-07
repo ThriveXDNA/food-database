@@ -1,0 +1,41 @@
+{
+  "restaurant": "Flax USA",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 291,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:01:54.399Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/flax_usa.json",
+  "items": [
+    {
+      "food_id": "1084807",
+      "food_name": "Golden Flax Cold Milled Golden Flax Seed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flax-usa/golden-flax-cold-milled-golden-flax-seed",
+      "brand_name": "Flax USA",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2113659",
+      "food_name": "Organic Golden Flax Cold Milled Golden Flax Seed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flax-usa/organic-golden-flax-cold-milled-golden-flax-seed",
+      "brand_name": "Flax USA",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4824120",
+      "food_name": "Flaxmilk Unsweetened",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flax-usa/flaxmilk-unsweetened",
+      "brand_name": "Flax USA",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2116010",
+      "food_name": "Flaxmilk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flax-usa/flaxmilk",
+      "brand_name": "Flax USA",
+      "food_type": "Brand"
+    }
+  ]
+}

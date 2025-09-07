@@ -1,0 +1,76 @@
+{
+  "restaurant": "Cobblestone Bread Co.",
+  "total_items": 9,
+  "pages_extracted": 6,
+  "total_search_results": 4148,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:58:59.080Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cobblestone_bread_co.json",
+  "items": [
+    {
+      "food_id": "9847904",
+      "food_name": "Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cobblestone-bread-co/bagel",
+      "brand_name": "Cobblestone Bread Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10852613",
+      "food_name": "Cinnamon Raisin Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cobblestone-bread-co/cinnamon-raisin-bread",
+      "brand_name": "Cobblestone Bread Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13410393",
+      "food_name": "White Sub Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cobblestone-bread-co/white-sub-rolls",
+      "brand_name": "Cobblestone Bread Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21936851",
+      "food_name": "Jewish Rye Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cobblestone-bread-co/jewish-rye-bread",
+      "brand_name": "Cobblestone Bread Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14826745",
+      "food_name": "Toasted Onion Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cobblestone-bread-co/toasted-onion-rolls",
+      "brand_name": "Cobblestone Bread Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11141271",
+      "food_name": "Flatbread Rounds Multigrain",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cobblestone-bread-co/flatbread-rounds-multigrain",
+      "brand_name": "Cobblestone Bread Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10537700",
+      "food_name": "Flatbread Rounds 100% Whole Grain",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cobblestone-bread-co/flatbread-rounds-100%25-whole-grain",
+      "brand_name": "Cobblestone Bread Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11420450",
+      "food_name": "Knead For Seed 12 Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cobblestone-bread-co/knead-for-seed-12-grain-bread",
+      "brand_name": "Cobblestone Bread Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7657498",
+      "food_name": "Sesame Twist Hamburger Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cobblestone-bread-co/sesame-twist-hamburger-rolls",
+      "brand_name": "Cobblestone Bread Co.",
+      "food_type": "Brand"
+    }
+  ]
+}

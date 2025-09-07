@@ -1,0 +1,55 @@
+{
+  "restaurant": "Indian Summer",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 306,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:39:02.661Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/indian_summer.json",
+  "items": [
+    {
+      "food_id": "231341",
+      "food_name": "Montmorency Cherries 100% Cherry Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indian-summer/montmorency-cherries-100%25-cherry-juice",
+      "brand_name": "Indian Summer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3091652",
+      "food_name": "Natural Apple Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indian-summer/natural-apple-sauce",
+      "brand_name": "Indian Summer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "231342",
+      "food_name": "Premium 100% Apple Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indian-summer/premium-100%25-apple-juice",
+      "brand_name": "Indian Summer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "231340",
+      "food_name": "100% Pasteurized Apple Juice from Concentrate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indian-summer/100%25-pasteurized-apple-juice-from-concentrate",
+      "brand_name": "Indian Summer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2824421",
+      "food_name": "Cinnamon Apple Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indian-summer/cinnamon-apple-sauce",
+      "brand_name": "Indian Summer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104448883",
+      "food_name": "Strawberry Applesauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indian-summer/strawberry-applesauce",
+      "brand_name": "Indian Summer",
+      "food_type": "Brand"
+    }
+  ]
+}

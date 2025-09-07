@@ -1,0 +1,48 @@
+{
+  "brand_name": "Golden Foods",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 539,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:47:08.033Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/golden_foods.json",
+  "items": [
+    {
+      "food_id": "71999330",
+      "food_name": "Multigrain Rings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-foods/multigrain-rings",
+      "brand_name": "Golden Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17105303",
+      "food_name": "Honey Nut Toasted Oats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-foods/honey-nut-toasted-oats",
+      "brand_name": "Golden Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58046667",
+      "food_name": "Raisin Bran",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-foods/raisin-bran",
+      "brand_name": "Golden Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36906484",
+      "food_name": "Corn Flakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-foods/corn-flakes",
+      "brand_name": "Golden Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33239447",
+      "food_name": "Apple Bits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-foods/apple-bits",
+      "brand_name": "Golden Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "restaurant": "Tasty Wok",
+  "total_items": 5,
+  "pages_extracted": 2,
+  "total_search_results": 61,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:36:48.529Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/tasty_wok.json",
+  "items": [
+    {
+      "food_id": "1272753",
+      "food_name": "Chinese Steamed Pork Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tasty-wok/chinese-steamed-pork-buns",
+      "brand_name": "Tasty Wok",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "133430",
+      "food_name": "Sweet & Sour Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tasty-wok/sweet-and-sour-chicken",
+      "brand_name": "Tasty Wok",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "102346",
+      "food_name": "Orange Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tasty-wok/orange-chicken",
+      "brand_name": "Tasty Wok",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "911187",
+      "food_name": "All Natural Chicken & Green Beans with Waterchestnuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tasty-wok/all-natural-chicken-and-green-beans-with-waterchestnuts",
+      "brand_name": "Tasty Wok",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1180137",
+      "food_name": "Kung Pao Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tasty-wok/kung-pao-chicken",
+      "brand_name": "Tasty Wok",
+      "food_type": "Brand"
+    }
+  ]
+}

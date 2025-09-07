@@ -1,0 +1,664 @@
+{
+  "restaurant": "Salata",
+  "total_items": 93,
+  "pages_extracted": 2,
+  "total_search_results": 93,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:50:17.412Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/salata.json",
+  "items": [
+    {
+      "food_id": "74890031",
+      "food_name": "Red Onion",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/red-onion",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28403806",
+      "food_name": "Salata Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/salata-mix",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889916",
+      "food_name": "Bell Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/bell-peppers",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15435147",
+      "food_name": "Tomato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/tomato",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52479045",
+      "food_name": "Cucumber",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/cucumber",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890207",
+      "food_name": "Walnuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/walnuts",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890030",
+      "food_name": "Radish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/radish",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889741",
+      "food_name": "Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/grilled-chicken",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33679083",
+      "food_name": "Chopped Egg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/chopped-egg",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889908",
+      "food_name": "Banana Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/banana-peppers",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890205",
+      "food_name": "Pumpkin Seed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/pumpkin-seed",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890253",
+      "food_name": "Baked Pita Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/baked-pita-strips",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52479030",
+      "food_name": "Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/carrots",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890194",
+      "food_name": "Feta Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/feta-cheese",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8117839",
+      "food_name": "Croutons",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/croutons",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890024",
+      "food_name": "Jicama",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/jicama",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890025",
+      "food_name": "Mushroom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/mushroom",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890196",
+      "food_name": "Mixed Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/mixed-cheese",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889898",
+      "food_name": "Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/strawberry",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890181",
+      "food_name": "Jalapeno",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/jalapeno",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890190",
+      "food_name": "Chopped Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/chopped-bacon",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890015",
+      "food_name": "Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/corn",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8850156",
+      "food_name": "Spinach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/spinach",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890027",
+      "food_name": "Olives - Black",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/olives-black",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14089407",
+      "food_name": "Romaine Hearts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/romaine-hearts",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889919",
+      "food_name": "Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/broccoli",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889847",
+      "food_name": "Kale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/kale",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889867",
+      "food_name": "Chipotle Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/chipotle-ranch",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889881",
+      "food_name": "Jalapeño Avocado",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/jalape%C3%B1o-avocado",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890248",
+      "food_name": "Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/croissant",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890280",
+      "food_name": "White Chocolate Macadamia Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/white-chocolate-macadamia-cookie",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890276",
+      "food_name": "Peanut Butter Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/peanut-butter-cookie",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890192",
+      "food_name": "Sesame Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/sesame-sticks",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889850",
+      "food_name": "Arugula",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/arugula",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11556102",
+      "food_name": "Spicy Chipotle Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/spicy-chipotle-chicken",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890186",
+      "food_name": "Chick Peas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/chick-peas",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889852",
+      "food_name": "Iceberg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/iceberg",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13582642",
+      "food_name": "Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/shrimp",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889888",
+      "food_name": "Grapes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/grapes",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890028",
+      "food_name": "Olives - Green",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/olives-green",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890198",
+      "food_name": "Parmesan Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/parmesan-cheese",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889894",
+      "food_name": "Pineapple",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/pineapple",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890209",
+      "food_name": "Avocado",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/avocado",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10062220",
+      "food_name": "Fat-Free Sun-Dried Tomato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/fat-free-sun-dried-tomato",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890018",
+      "food_name": "Edamame",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/edamame",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890032",
+      "food_name": "Sundried Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/sundried-tomatoes",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890260",
+      "food_name": "Artichoke",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/artichoke",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890201",
+      "food_name": "Almonds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/almonds",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34254192",
+      "food_name": "Fresh Herb Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/fresh-herb-vinaigrette",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889754",
+      "food_name": "Seafood Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/seafood-mix",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889883",
+      "food_name": "Apple",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/apple",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890277",
+      "food_name": "Oatmeal Raisin Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/oatmeal-raisin-cookie",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889872",
+      "food_name": "Balsamic Vinegar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/balsamic-vinegar",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22957171",
+      "food_name": "Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/black-beans",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23267584",
+      "food_name": "Buttermilk Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/buttermilk-ranch",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889922",
+      "food_name": "Cabbage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/cabbage",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890191",
+      "food_name": "Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/pasta",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889868",
+      "food_name": "Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/olive-oil",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889843",
+      "food_name": "Arcadian Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/arcadian-mix",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890214",
+      "food_name": "Cool Cucumber Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/cool-cucumber-wrap",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889744",
+      "food_name": "Turkey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/turkey",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890285",
+      "food_name": "Peach Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/peach-lemonade",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14978518",
+      "food_name": "Balsamic Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/balsamic-vinaigrette",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22247215",
+      "food_name": "Lemon Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/lemon-vinaigrette",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889748",
+      "food_name": "Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/salmon",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889914",
+      "food_name": "Beets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/beets",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889751",
+      "food_name": "Krabmeat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/krabmeat",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889886",
+      "food_name": "Dried Cranberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/dried-cranberries",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889912",
+      "food_name": "Bean Sprouts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/bean-sprouts",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890230",
+      "food_name": "Southwest Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/southwest-wrap",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889841",
+      "food_name": "Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/steak",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889859",
+      "food_name": "Honey Mustard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/honey-mustard",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889891",
+      "food_name": "Mandarin Orange",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/mandarin-orange",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890292",
+      "food_name": "Prickly Pear Limeade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/prickly-pear-limeade",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889863",
+      "food_name": "Fat-Free Mango",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/fat-free-mango",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890300",
+      "food_name": "Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/bread",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889857",
+      "food_name": "Classic Caesar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/classic-caesar",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890020",
+      "food_name": "Green Peas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/green-peas",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889835",
+      "food_name": "Falafel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/falafel",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889853",
+      "food_name": "Ginger Lime",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/ginger-lime",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890225",
+      "food_name": "Wheat Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/wheat-wrap",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890245",
+      "food_name": "Texas BBQ Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/texas-bbq-wrap",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890258",
+      "food_name": "Tortilla Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/tortilla-strips",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890222",
+      "food_name": "Thai Ginger Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/thai-ginger-wrap",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890256",
+      "food_name": "Extra Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/extra-croissant",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890281",
+      "food_name": "Pumpkin Puff Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/pumpkin-puff-cookie",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890212",
+      "food_name": "Artichoke Hearts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/artichoke-hearts",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890288",
+      "food_name": "Raspberry Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/raspberry-lemonade",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889840",
+      "food_name": "Quinoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/quinoa",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74889865",
+      "food_name": "Oil & Vinegar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/oil-vinegar",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890295",
+      "food_name": "Avocado - Extras",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salata/avocado-extras",
+      "brand_name": "Salata",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3731932",
+      "food_name": "Ricotta Salata Sheep's Milk Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/il-giardino/ricotta-salata-sheeps-milk-cheese",
+      "brand_name": "Il Giardino",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4980519",
+      "food_name": "Crumbled Ricotta Salata",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/crumbled-ricotta-salata",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "brand_name": "Sogel",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:33:25.806Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/sogel.json",
+  "items": [
+    {
+      "food_id": "45351161",
+      "food_name": "Fresh Cooked Mussels with Garlic Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sogel/fresh-cooked-mussels-with-garlic-butter",
+      "brand_name": "Sogel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22101992",
+      "food_name": "Cioppino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sogel/cioppino",
+      "brand_name": "Sogel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58347914",
+      "food_name": "Fresh Cooked Paella",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sogel/fresh-cooked-paella",
+      "brand_name": "Sogel",
+      "food_type": "Brand"
+    }
+  ]
+}

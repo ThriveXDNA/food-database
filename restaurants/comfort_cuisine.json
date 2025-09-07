@@ -1,0 +1,20 @@
+{
+  "restaurant": "Comfort Cuisine",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 40,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:48:18.979Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/comfort_cuisine.json",
+  "items": [
+    {
+      "food_id": "1248440",
+      "food_name": "Cape Cod Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/comfort-cuisine/cape-cod-chicken-salad",
+      "brand_name": "Comfort Cuisine",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "restaurant": "World Classics",
+  "total_items": 9,
+  "pages_extracted": 5,
+  "total_search_results": 206,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:37:02.286Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/world_classics.json",
+  "items": [
+    {
+      "food_id": "178408",
+      "food_name": "White Chicken Chili with Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-classics/white-chicken-chili-with-beans",
+      "brand_name": "World Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11661636",
+      "food_name": "Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-classics/green-chilies",
+      "brand_name": "World Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2984055",
+      "food_name": "General Tso's Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-classics/general-tsos-sauce",
+      "brand_name": "World Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "355126",
+      "food_name": "Red Wine Vinegar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-classics/red-wine-vinegar",
+      "brand_name": "World Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1196079",
+      "food_name": "Raspberry Chipotle BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-classics/raspberry-chipotle-bbq-sauce",
+      "brand_name": "World Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91180",
+      "food_name": "Gourmet Original Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-classics/gourmet-original-crackers",
+      "brand_name": "World Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2593932",
+      "food_name": "Chipotle Mustard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-classics/chipotle-mustard",
+      "brand_name": "World Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2214808",
+      "food_name": "Arrabiata Pasta Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-classics/arrabiata-pasta-sauce",
+      "brand_name": "World Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "703032",
+      "food_name": "Stone Ground Wheat Thin Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-classics/stone-ground-wheat-thin-crackers",
+      "brand_name": "World Classics",
+      "food_type": "Brand"
+    }
+  ]
+}

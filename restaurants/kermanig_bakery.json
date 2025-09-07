@@ -1,0 +1,34 @@
+{
+  "restaurant": "Kermanig Bakery",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 47,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:13:16.509Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kermanig_bakery.json",
+  "items": [
+    {
+      "food_id": "1328929",
+      "food_name": "Pita Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kermanig-bakery/pita-bread",
+      "brand_name": "Kermanig Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3676978",
+      "food_name": "Mediterranean Focaccias",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kermanig-bakery/mediterranean-focaccias",
+      "brand_name": "Kermanig Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13303332",
+      "food_name": "Garlic and Cheese Focaccia",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kermanig-bakery/garlic-and-cheese-focaccia",
+      "brand_name": "Kermanig Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

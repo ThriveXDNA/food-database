@@ -1,0 +1,55 @@
+{
+  "restaurant": "PJ Fresh",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 1138,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:56:21.750Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pj_fresh.json",
+  "items": [
+    {
+      "food_id": "37012343",
+      "food_name": "Jumbo Beef Brisket Breakfast Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pj-fresh/jumbo-beef-brisket-breakfast-burrito",
+      "brand_name": "PJ Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19491071",
+      "food_name": "Mega Meat Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pj-fresh/mega-meat-salad",
+      "brand_name": "PJ Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29497438",
+      "food_name": "Chicken Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pj-fresh/chicken-caesar-salad",
+      "brand_name": "PJ Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37344218",
+      "food_name": "Side Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pj-fresh/side-salad",
+      "brand_name": "PJ Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34415657",
+      "food_name": "Roasted Turkey Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pj-fresh/roasted-turkey-sandwich",
+      "brand_name": "PJ Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43620697",
+      "food_name": "Chef Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pj-fresh/chef-salad",
+      "brand_name": "PJ Fresh",
+      "food_type": "Brand"
+    }
+  ]
+}

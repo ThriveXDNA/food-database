@@ -1,0 +1,48 @@
+{
+  "restaurant": "Chappell Hill",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:57:01.357Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/chappell_hill.json",
+  "items": [
+    {
+      "food_id": "673232",
+      "food_name": "Smoked Pork & Venison Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chappell-hill/smoked-pork-and-venison-sausage",
+      "brand_name": "Chappell Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1208840",
+      "food_name": "Smoked Garlic Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chappell-hill/smoked-garlic-sausage",
+      "brand_name": "Chappell Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "905147",
+      "food_name": "Smoked Beef Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chappell-hill/smoked-beef-sausage",
+      "brand_name": "Chappell Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16842559",
+      "food_name": "Original Smoked Links",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chappell-hill/original-smoked-links",
+      "brand_name": "Chappell Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2905836",
+      "food_name": "Smoked Jalapeno Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chappell-hill/smoked-jalapeno-sausage",
+      "brand_name": "Chappell Hill",
+      "food_type": "Brand"
+    }
+  ]
+}

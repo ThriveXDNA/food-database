@@ -1,0 +1,41 @@
+{
+  "restaurant": "Taco Maker",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 1346,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:33:18.452Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/taco_maker.json",
+  "items": [
+    {
+      "food_id": "1071694",
+      "food_name": "Chicken Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-maker/chicken-burrito",
+      "brand_name": "Taco Maker",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "205936",
+      "food_name": "Crisp Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-maker/crisp-taco",
+      "brand_name": "Taco Maker",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2551857",
+      "food_name": "Crisp Bean Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-maker/crisp-bean-burrito",
+      "brand_name": "Taco Maker",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2681562",
+      "food_name": "Beef Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-maker/beef-burrito",
+      "brand_name": "Taco Maker",
+      "food_type": "Brand"
+    }
+  ]
+}

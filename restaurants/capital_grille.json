@@ -1,0 +1,39 @@
+{
+  "restaurant": "Capital Grille",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "last_updated": "2025-09-06T19:32:28.344Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Restaurant-only search with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/capital_grille.json",
+  "items": [
+    {
+      "food_id": "12048286",
+      "food_name": "Wedge Salad with Blue Cheese & Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/capital-grille/wedge-salad-with-blue-cheese-and-bacon",
+      "brand_name": "Capital Grille",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24755710",
+      "food_name": "Creme Brûlée",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/capital-grille/creme-br%C3%BBl%C3%A9e",
+      "brand_name": "Capital Grille",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12048359",
+      "food_name": "Lobster Mac ‘N’ Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/capital-grille/lobster-mac-%E2%80%98n%E2%80%99-cheese",
+      "brand_name": "Capital Grille",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60716061",
+      "food_name": "Sam's Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/capital-grille/sams-mashed-potatoes",
+      "brand_name": "Capital Grille",
+      "food_type": "Brand"
+    }
+  ]
+}

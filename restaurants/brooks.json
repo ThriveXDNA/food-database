@@ -1,0 +1,55 @@
+{
+  "restaurant": "Brooks",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:51:57.259Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/brooks.json",
+  "items": [
+    {
+      "food_id": "275620",
+      "food_name": "Mild Chili Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooks/mild-chili-beans",
+      "brand_name": "Brooks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5189690",
+      "food_name": "Chili Hot Beans in Chili Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooks/chili-hot-beans-in-chili-sauce",
+      "brand_name": "Brooks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "274204",
+      "food_name": "Quick Chili Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooks/quick-chili-mix",
+      "brand_name": "Brooks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46175292",
+      "food_name": "Original Barbecue Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooks/original-barbecue-sauce",
+      "brand_name": "Brooks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17223042",
+      "food_name": "Dry Cider",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooks/dry-cider",
+      "brand_name": "Brooks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15054772",
+      "food_name": "Rich & Tangy Ketchup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooks/rich-and-tangy-ketchup",
+      "brand_name": "Brooks",
+      "food_type": "Brand"
+    }
+  ]
+}

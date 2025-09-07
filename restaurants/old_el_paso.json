@@ -1,0 +1,790 @@
+{
+  "restaurant": "Old El Paso",
+  "total_items": 111,
+  "pages_extracted": 6,
+  "total_search_results": 533,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:18:22.630Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/old_el_paso.json",
+  "items": [
+    {
+      "food_id": "26920",
+      "food_name": "Thick n' Chunky Salsa - Hot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/thick-n-chunky-salsa---hot",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72151",
+      "food_name": "Thick n' Chunky Salsa - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/thick-n-chunky-salsa---medium",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2239345",
+      "food_name": "Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/refried-beans",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1538508",
+      "food_name": "Crunchy Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/crunchy-taco-shells",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3447181",
+      "food_name": "Stand 'n Stuff Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/stand-n-stuff-taco-shells",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2454762",
+      "food_name": "Hard Shell Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/hard-shell-tacos",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "150417",
+      "food_name": "Pickled Jalapeno Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/pickled-jalapeno-slices",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42433",
+      "food_name": "Mild Enchilada Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/mild-enchilada-sauce",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3806065",
+      "food_name": "Fat Free Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/fat-free-refried-beans",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12909312",
+      "food_name": "Red Enchilada Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/red-enchilada-sauce",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94106",
+      "food_name": "Soft Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/soft-taco-shells",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "144350",
+      "food_name": "Mild Taco Seasoning Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/mild-taco-seasoning-mix",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5871650",
+      "food_name": "Traditional Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/traditional-refried-beans",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3074845",
+      "food_name": "Original Taco Seasoning Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/original-taco-seasoning-mix",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40213972",
+      "food_name": "Creamy Queso Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/creamy-queso-sauce",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85100264",
+      "food_name": "Carb Advantage Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/carb-advantage-taco-shells",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83035",
+      "food_name": "Green Chile Enchilada Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/green-chile-enchilada-sauce",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50202",
+      "food_name": "Medium Taco Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/medium-taco-sauce",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55506908",
+      "food_name": "Bold Spicy Cheddar Flavored Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/bold-spicy-cheddar-flavored-taco-shells",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4871599",
+      "food_name": "25% Less Sodium Taco Seasoning Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/25%25-less-sodium-taco-seasoning-mix",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9167871",
+      "food_name": "Nacho Cheese Flavored Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/nacho-cheese-flavored-taco-shells",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "215775",
+      "food_name": "Taco Dinner Kit prepared with Lean Ground Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/taco-dinner-kit-prepared-with-lean-ground-meat",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10265316",
+      "food_name": "Bold Nacho Cheese Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/bold-nacho-cheese-taco-shells",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64631",
+      "food_name": "40% Less Sodium Taco Seasoning Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/40%25-less-sodium-taco-seasoning-mix",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6166894",
+      "food_name": "Yellow Corn Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/yellow-corn-taco-shells/3-shells",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "160819",
+      "food_name": "Yellow Corn Stand 'n Stuff Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/yellow-corn-stand-n-stuff-taco-shells",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1784353",
+      "food_name": "Hot Taco Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/hot-taco-sauce",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "227300",
+      "food_name": "Flour Tortillas (6 Inch Diameter)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/flour-tortillas-(6-inch-diameter)",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70943",
+      "food_name": "Vegetarian Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/vegetarian-refried-beans",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "167863",
+      "food_name": "Flour Tortillas (For Burritos)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/flour-tortillas-(for-burritos)",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "170534",
+      "food_name": "Tostada Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/tostada-shells",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40475878",
+      "food_name": "Zesty Ranch Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/zesty-ranch-sauce",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80529",
+      "food_name": "Chicken Cheese Enchilada Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/chicken-cheese-enchilada-soup",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "117722",
+      "food_name": "Cheesy Mexican Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/cheesy-mexican-rice",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3499286",
+      "food_name": "Soft Taco Dinner Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/soft-taco-dinner-kit",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26699688",
+      "food_name": "Soft Tortilla Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/soft-tortilla-bowl",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29775",
+      "food_name": "Soft Tortillas (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/soft-tortillas-(medium)",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16397872",
+      "food_name": "Taco Seasoning Mix Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/taco-seasoning-mix-chicken",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4124922",
+      "food_name": "Mild Taco Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/mild-taco-sauce",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7700451",
+      "food_name": "Black Bean Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/black-bean-refried-beans",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58964673",
+      "food_name": "Cilantro Lime Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/cilantro-lime-rice",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "234530",
+      "food_name": "Hard & Soft Shell Taco Dinner Kit prepared with Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/hard-and-soft-shell-taco-dinner-kit-prepared-with-beef",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "209852",
+      "food_name": "Hard Taco Shells Dinner Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/hard-taco-shells-dinner-kit",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "227434",
+      "food_name": "Super Stuffer Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/super-stuffer-taco-shells",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69996434",
+      "food_name": "Tortilla Pocket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/tortilla-pocket",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10016332",
+      "food_name": "Mini Soft Tortilla Taco Boats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/mini-soft-tortilla-taco-boats",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39027221",
+      "food_name": "Bold Ranch Flavored Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/bold-ranch-flavored-taco-shells",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51416",
+      "food_name": "White Corn Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/white-corn-taco-shells",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30357508",
+      "food_name": "Restaurant Style Flour Tortilla Grande",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/restaurant-style-flour-tortilla-grande",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38994104",
+      "food_name": "Flour Tortillas For Soft Tacos & Fajitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/flour-tortillas-for-soft-tacos-fajitas",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15861705",
+      "food_name": "Flour Tortilla Taco Boats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/flour-tortilla-taco-boats",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "138923",
+      "food_name": "Spanish Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/spanish-rice",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5541085",
+      "food_name": "Fajita Seasoning Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/fajita-seasoning-mix",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32198630",
+      "food_name": "Stand 'n Stuff Hint of Lime",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/stand-n-stuff-hint-of-lime",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "252131",
+      "food_name": "Thick n' Chunky Salsa - Mild",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/thick-n-chunky-salsa---mild",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2400244",
+      "food_name": "Mexican Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/mexican-rice",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86531341",
+      "food_name": "Tex-Mex Style Pinto Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/tex-mex-style-pinto-beans",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66535086",
+      "food_name": "Spicy Queso Blanco Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/spicy-queso-blanco-sauce",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72881",
+      "food_name": "Chopped Green Chiles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/chopped-green-chiles",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "943221",
+      "food_name": "Stand 'n Stuff Taco Dinner Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/stand-n-stuff-taco-dinner-kit",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "179563",
+      "food_name": "Hot & Spicy Taco Seasoning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/hot-and-spicy-taco-seasoning",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "227121",
+      "food_name": "Stand 'n Stuff Nacho Flavored Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/stand-n-stuff-nacho-flavored-taco-shells",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "227433",
+      "food_name": "Hard Corn & Soft Flour Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/hard-corn-and-soft-flour-taco-shells",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3475582",
+      "food_name": "Medium Enchilada Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/medium-enchilada-sauce",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82693179",
+      "food_name": "Stuffed Nachos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/stuffed-nachos",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92424964",
+      "food_name": "Advantage Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/advantage-taco-shells",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "125267",
+      "food_name": "Taco Dinner Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/taco-dinner-kit",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41326084",
+      "food_name": "Creamy Salsa Verde",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/creamy-salsa-verde",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36622723",
+      "food_name": "Refried Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/refried-black-beans",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "537408",
+      "food_name": "Seasoned Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/seasoned-black-beans",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6014557",
+      "food_name": "Stand 'n Stuff Soft Flour Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/stand-n-stuff-soft-flour-tortillas",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2500419",
+      "food_name": "Soft Taco Bake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/soft-taco-bake",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85185496",
+      "food_name": "Taco Bites Beef and Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/taco-bites-beef-and-cheese",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66504165",
+      "food_name": "Fiesta Twists Cinnamon Churro",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/fiesta-twists-cinnamon-churro",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91430311",
+      "food_name": "Santa Fe Style Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/santa-fe-style-black-beans",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8296991",
+      "food_name": "Carne Asada Steak Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/carne-asada-steak-bowl",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "255669",
+      "food_name": "Jalapeno Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/jalapeno-slices",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59451",
+      "food_name": "Fat Free Spicy Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/fat-free-spicy-refried-beans",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5554875",
+      "food_name": "Light Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/light-tortillas",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6790667",
+      "food_name": "Shredded Beef Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/shredded-beef-burrito",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8734365",
+      "food_name": "Honey Chipotle Chicken Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/honey-chipotle-chicken-bowl",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2698598",
+      "food_name": "Hot Enchilada Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/hot-enchilada-sauce",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51617379",
+      "food_name": "Mexican Style Taco Cheese Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/mexican-style-taco-cheese-blend",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "203912",
+      "food_name": "Fiesta Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/fiesta-rice",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9427395",
+      "food_name": "Chicken Enchiladas Verdes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/chicken-enchiladas-verdes",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43997982",
+      "food_name": "Gluten Free Tortilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/gluten-free-tortilla",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2724401",
+      "food_name": "Fajita Dinner Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/fajita-dinner-kit",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77300897",
+      "food_name": "Stacked Queso Crunch Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/stacked-queso-crunch-kit",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27085",
+      "food_name": "Manzano Chiles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/manzano-chiles",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13066653",
+      "food_name": "Grande Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/grande-tortillas",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72093",
+      "food_name": "Chicken Soft Taco Dinner Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/chicken-soft-taco-dinner-kit",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "121292",
+      "food_name": "Burrito Seasoning Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/burrito-seasoning-mix",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1638516",
+      "food_name": "Chili Seasoning Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/chili-seasoning-mix",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3079964",
+      "food_name": "Refried Beans with Green Chiles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/refried-beans-with-green-chiles",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87461",
+      "food_name": "Fresh Mexican Style Salsa Smooth Chipotle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/fresh-mexican-style-salsa-smooth-chipotle",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "309518",
+      "food_name": "All Natural Thick N' Chunky Mild Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/all-natural-thick-n-chunky-mild-salsa",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "241247",
+      "food_name": "Enchilada Dinner Kit prepared with Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/enchilada-dinner-kit-prepared-with-chicken",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "989741",
+      "food_name": "Cheese 'n Salsa Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/cheese-n-salsa-medium",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67536",
+      "food_name": "Hard Shell Dinner Kit (No Meat)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/hard-shell-dinner-kit-(no-meat)",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13114459",
+      "food_name": "Whole Wheat Taco Boats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/whole-wheat-taco-boats",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8174347",
+      "food_name": "Chicken Enchiladas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/chicken-enchiladas",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67535",
+      "food_name": "Soft Taco Dinner Kit (No Meat)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/soft-taco-dinner-kit-(no-meat)",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9073460",
+      "food_name": "Chicken Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/chicken-quesadilla",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6459886",
+      "food_name": "Chicken Fajitas Meal For Two",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/chicken-fajitas-meal-for-two",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57990396",
+      "food_name": "Chipotle Chicken Slow Cooker Seasoning Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/chipotle-chicken-slow-cooker-seasoning-mix",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "431804",
+      "food_name": "Cheese 'n Salsa Mild",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/cheese-n-salsa-mild",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2482738",
+      "food_name": "Burrito Dinner Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/burrito-dinner-kit",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8030706",
+      "food_name": "Chipotle Black Bean & Corn Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/chipotle-black-bean-and-corn-bowl",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36228822",
+      "food_name": "Mexican Style 4 Cheese Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/mexican-style-4-cheese-blend",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "139725",
+      "food_name": "Refried Beans with Mild Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/refried-beans-with-mild-green-chilies",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70959560",
+      "food_name": "Adobo Steak Burrito Bowl Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/adobo-steak-burrito-bowl-kit",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    }
+  ]
+}

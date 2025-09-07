@@ -1,0 +1,34 @@
+{
+  "restaurant": "Poppycock",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:52:06.816Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/poppycock.json",
+  "items": [
+    {
+      "food_id": "76866",
+      "food_name": "Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/poppycock/original",
+      "brand_name": "Poppycock",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76865",
+      "food_name": "Pecan Delight",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/poppycock/pecan-delight",
+      "brand_name": "Poppycock",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76867",
+      "food_name": "Cashew Lovers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/poppycock/cashew-lovers",
+      "brand_name": "Poppycock",
+      "food_type": "Brand"
+    }
+  ]
+}

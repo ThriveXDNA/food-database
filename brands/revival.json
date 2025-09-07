@@ -1,0 +1,33 @@
+{
+  "brand_name": "Revival",
+  "brand_id": 463,
+  "total_items": 3,
+  "pages_extracted": 1,
+  "last_updated": "2025-09-06T20:42:40.536Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Brand-specific search with filtering",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/revival.json",
+  "items": [
+    {
+      "food_id": "81420",
+      "food_name": "Honey Mustard Heaven Soy Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/revival/honey-mustard-heaven-soy-chips",
+      "brand_name": "Revival",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67340272",
+      "food_name": "Craft Almond Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/revival/craft-almond-butter",
+      "brand_name": "Revival",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81393",
+      "food_name": "Smart-Carb Chocolate Raspberry Zing Soy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/revival/smart-carb-chocolate-raspberry-zing-soy-bar",
+      "brand_name": "Revival",
+      "food_type": "Brand"
+    }
+  ]
+}

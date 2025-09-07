@@ -1,0 +1,20 @@
+{
+  "restaurant": "Fortune Bakery",
+  "total_items": 1,
+  "pages_extracted": 2,
+  "total_search_results": 55,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:13:31.404Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fortune_bakery.json",
+  "items": [
+    {
+      "food_id": "4026421",
+      "food_name": "Red Bean Paste Shao Bing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fortune-bakery/red-bean-paste-shao-bing",
+      "brand_name": "Fortune Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

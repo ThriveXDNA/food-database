@@ -1,0 +1,41 @@
+{
+  "restaurant": "Udupi",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:42:05.358Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/udupi.json",
+  "items": [
+    {
+      "food_id": "3171215",
+      "food_name": "Mendu Vada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/udupi/mendu-vada",
+      "brand_name": "Udupi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1518833",
+      "food_name": "Masala Dosa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/udupi/masala-dosa",
+      "brand_name": "Udupi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32201957",
+      "food_name": "Onion Uttapam",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/udupi/onion-uttapam",
+      "brand_name": "Udupi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50754944",
+      "food_name": "Rice Flour",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/udupi/rice-flour",
+      "brand_name": "Udupi",
+      "food_type": "Brand"
+    }
+  ]
+}

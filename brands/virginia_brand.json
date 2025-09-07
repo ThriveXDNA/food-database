@@ -1,0 +1,48 @@
+{
+  "brand_name": "Virginia Brand",
+  "total_items": 5,
+  "pages_extracted": 2,
+  "total_search_results": 100,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:54:00.104Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/virginia_brand.json",
+  "items": [
+    {
+      "food_id": "405076",
+      "food_name": "Vidalia Onion Vinegarette Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/virginia-brand/vidalia-onion-vinegarette-salad-dressing",
+      "brand_name": "Virginia Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6620586",
+      "food_name": "Raspberry Vinegarette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/virginia-brand/raspberry-vinegarette",
+      "brand_name": "Virginia Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "263111",
+      "food_name": "Pure U.S. Grade All Natural Honey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/virginia-brand/pure-us-grade-all-natural-honey",
+      "brand_name": "Virginia Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1854692",
+      "food_name": "Agave Nectar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/virginia-brand/agave-nectar",
+      "brand_name": "Virginia Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48867",
+      "food_name": "Pure Clover Honey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/virginia-brand/pure-clover-honey",
+      "brand_name": "Virginia Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

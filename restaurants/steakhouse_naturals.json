@@ -1,0 +1,27 @@
+{
+  "restaurant": "Steakhouse Naturals",
+  "total_items": 2,
+  "pages_extracted": 4,
+  "total_search_results": 163,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:18:22.624Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/steakhouse_naturals.json",
+  "items": [
+    {
+      "food_id": "24218859",
+      "food_name": "Sirloin Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/steakhouse-naturals/sirloin-steak",
+      "brand_name": "Steakhouse Naturals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46739387",
+      "food_name": "Ribeye Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/steakhouse-naturals/ribeye-steak",
+      "brand_name": "Steakhouse Naturals",
+      "food_type": "Brand"
+    }
+  ]
+}

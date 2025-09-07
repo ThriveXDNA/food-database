@@ -1,0 +1,48 @@
+{
+  "restaurant": "Sushic",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:41:43.846Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sushic.json",
+  "items": [
+    {
+      "food_id": "70223622",
+      "food_name": "Spicy Crab Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sushic/spicy-crab-roll",
+      "brand_name": "Sushic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41025255",
+      "food_name": "Salmon & Avocado Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sushic/salmon-avocado-roll",
+      "brand_name": "Sushic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58371592",
+      "food_name": "Sushi Delight Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sushic/sushi-delight-combo",
+      "brand_name": "Sushic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29352006",
+      "food_name": "California Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sushic/california-roll",
+      "brand_name": "Sushic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72690176",
+      "food_name": "Poke Bento",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sushic/poke-bento",
+      "brand_name": "Sushic",
+      "food_type": "Brand"
+    }
+  ]
+}

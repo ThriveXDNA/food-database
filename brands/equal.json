@@ -1,0 +1,33 @@
+{
+  "brand_name": "Equal",
+  "brand_id": 178,
+  "total_items": 3,
+  "pages_extracted": 1,
+  "last_updated": "2025-09-06T20:17:10.786Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Brand-specific search with filtering",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/equal.json",
+  "items": [
+    {
+      "food_id": "3880217",
+      "food_name": "Equal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/equal/equal",
+      "brand_name": "Equal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4887928",
+      "food_name": "Equal Sucralose Granulated",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/equal/equal-sucralose-granulated",
+      "brand_name": "Equal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15416830",
+      "food_name": "Cafe Creamers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/equal/cafe-creamers",
+      "brand_name": "Equal",
+      "food_type": "Brand"
+    }
+  ]
+}

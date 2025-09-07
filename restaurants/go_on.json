@@ -1,0 +1,48 @@
+{
+  "restaurant": "Go on",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 1216,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:01:13.215Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/go_on.json",
+  "items": [
+    {
+      "food_id": "70901824",
+      "food_name": "Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/go-on/protein-bar",
+      "brand_name": "Go on",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45688598",
+      "food_name": "Energy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/go-on/energy",
+      "brand_name": "Go on",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71820466",
+      "food_name": "Protein Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/go-on/protein-cookie",
+      "brand_name": "GO on",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38364403",
+      "food_name": "Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/go-on/peanut-butter",
+      "brand_name": "Go on",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107620562",
+      "food_name": "Protein 33%",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/go-on/protein-33",
+      "brand_name": "Go On",
+      "food_type": "Brand"
+    }
+  ]
+}

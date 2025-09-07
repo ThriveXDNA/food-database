@@ -1,0 +1,62 @@
+{
+  "restaurant": "Texas de Brazil",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 635,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:16:55.143Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/texas_de_brazil.json",
+  "items": [
+    {
+      "food_id": "39312277",
+      "food_name": "Picanha",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/texas-de-brazil/picanha",
+      "brand_name": "Texas de Brazil",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60361925",
+      "food_name": "Lamb Chop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/texas-de-brazil/lamb-chop",
+      "brand_name": "Texas De Brazil",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50145085",
+      "food_name": "Brazilian Cheese Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/texas-de-brazil/brazilian-cheese-bread",
+      "brand_name": "Texas De Brazil",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39312156",
+      "food_name": "Flank Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/texas-de-brazil/flank-steak",
+      "brand_name": "Texas de Brazil",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69148912",
+      "food_name": "Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/texas-de-brazil/sausage",
+      "brand_name": "Texas de Brazil",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28159927",
+      "food_name": "Filet Mignon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/texas-de-brazil/filet-mignon",
+      "brand_name": "Texas de Brazil",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50145001",
+      "food_name": "Cucumber Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/texas-de-brazil/cucumber-salad",
+      "brand_name": "Texas de Brazil",
+      "food_type": "Brand"
+    }
+  ]
+}

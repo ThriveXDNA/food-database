@@ -1,0 +1,20 @@
+{
+  "restaurant": "Texas Bay",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 335,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:43:17.428Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/texas_bay.json",
+  "items": [
+    {
+      "food_id": "6263409",
+      "food_name": "Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/texas-bay/shrimp",
+      "brand_name": "Texas Bay",
+      "food_type": "Brand"
+    }
+  ]
+}

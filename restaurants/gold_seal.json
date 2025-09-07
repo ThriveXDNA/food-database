@@ -1,0 +1,62 @@
+{
+  "restaurant": "Gold Seal",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 301,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:31:10.264Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/gold_seal.json",
+  "items": [
+    {
+      "food_id": "90284",
+      "food_name": "Flaked Light Tuna Snack - Spicy Thai Sweet Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-seal/flaked-light-tuna-snack---spicy-thai-sweet-chili",
+      "brand_name": "Gold Seal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73170014",
+      "food_name": "Wild Mackerel in Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-seal/wild-mackerel-in-olive-oil",
+      "brand_name": "Gold Seal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "273995",
+      "food_name": "Skinless Boneless Pink Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-seal/skinless-boneless-pink-salmon",
+      "brand_name": "Gold Seal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74811992",
+      "food_name": "Flaked Light Tuna Snack - Spicy Thai Sweet Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-seal/flaked-light-tuna-snack-spicy-thai-sweet-chili",
+      "brand_name": "Gold Seal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74330",
+      "food_name": "Pacific Red Sockeye Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-seal/pacific-red-sockeye-salmon",
+      "brand_name": "Gold Seal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79498",
+      "food_name": "Flaked Light Tuna Snack - Lemon & Pepper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-seal/flaked-light-tuna-snack---lemon-and-pepper",
+      "brand_name": "Gold Seal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2249433",
+      "food_name": "Italian Pesto Tuna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-seal/italian-pesto-tuna",
+      "brand_name": "Gold Seal",
+      "food_type": "Brand"
+    }
+  ]
+}

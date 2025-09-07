@@ -1,0 +1,34 @@
+{
+  "restaurant": "Wacky Mac",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 561,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:49:29.051Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/wacky_mac.json",
+  "items": [
+    {
+      "food_id": "659204",
+      "food_name": "Veggie Spirals Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wacky-mac/veggie-spirals-pasta",
+      "brand_name": "Wacky Mac",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "608637",
+      "food_name": "Macaroni & Cheese Dinner",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wacky-mac/macaroni-and-cheese-dinner",
+      "brand_name": "Wacky Mac",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "659196",
+      "food_name": "Veggie Shapes Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wacky-mac/veggie-shapes-pasta",
+      "brand_name": "Wacky Mac",
+      "food_type": "Brand"
+    }
+  ]
+}

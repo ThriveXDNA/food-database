@@ -1,0 +1,405 @@
+{
+  "restaurant": "Graze",
+  "total_items": 56,
+  "pages_extracted": 2,
+  "total_search_results": 56,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:36:40.118Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/graze.json",
+  "items": [
+    {
+      "food_id": "8921529",
+      "food_name": "Summer Berry Compote",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/summer-berry-compote",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11171690",
+      "food_name": "Grilled Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/grilled-cheese",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7935350",
+      "food_name": "Bananas Foster",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/bananas-foster",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7282494",
+      "food_name": "The Cheese Board (26g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/the-cheese-board-(26g)",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11088213",
+      "food_name": "Pizza Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/pizza-margherita",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8324052",
+      "food_name": "Coco Paradise",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/coco-paradise",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11025729",
+      "food_name": "Peaches & Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/peaches-and-cream",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8744524",
+      "food_name": "Chai Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/chai-latte",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7628445",
+      "food_name": "Yaki Soba",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/yaki-soba",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9852140",
+      "food_name": "Hot Pepper Jam",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/hot-pepper-jam",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11542913",
+      "food_name": "Banana Cream Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/banana-cream-pie",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8481580",
+      "food_name": "Eleanor's Apple Crumble",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/eleanors-apple-crumble",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8733505",
+      "food_name": "Peach Cobbler",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/peach-cobbler",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9524164",
+      "food_name": "Ramen Noodle Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/ramen-noodle-crunch",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10081195",
+      "food_name": "Blueberry Crumble Granola Yogurt Topper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/blueberry-crumble-granola-yogurt-topper",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9166763",
+      "food_name": "Chocolate Pretzel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/chocolate-pretzel",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12208654",
+      "food_name": "Malaysian Laksa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/malaysian-laksa",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8987059",
+      "food_name": "The Cheese Board (22g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/the-cheese-board-(22g)",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11667185",
+      "food_name": "Boston Cream Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/boston-cream-pie",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26440713",
+      "food_name": "Original Protein Flapjack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/original-protein-flapjack",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7672379",
+      "food_name": "Chocolate Pecan Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/chocolate-pecan-pie",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7808148",
+      "food_name": "Black Pepper Pistachios",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/black-pepper-pistachios",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7962641",
+      "food_name": "Smoky Chipotle Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/smoky-chipotle-dip",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10350860",
+      "food_name": "Pumpkin, Sesame & Sunflower Seed Raw Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/pumpkin-sesame-sunflower-seed-raw-bars",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9286559",
+      "food_name": "Tutti Frutti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/tutti-frutti",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13510232",
+      "food_name": "Dark Chocolate Cherry Tart",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/dark-chocolate-cherry-tart",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7628342",
+      "food_name": "Raspberry & Coconut Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/raspberry-and-coconut-muffin",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7707293",
+      "food_name": "Lightly Salted Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/lightly-salted-popcorn",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8044998",
+      "food_name": "Apple Cosmo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/apple-cosmo",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7300161",
+      "food_name": "Chocolate Orange",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/chocolate-orange",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8557948",
+      "food_name": "Chili & Lime Pistachios",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/chili-and-lime-pistachios",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8783582",
+      "food_name": "Cinnamon Pretzel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/cinnamon-pretzel",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7360521",
+      "food_name": "Herby Bread Basket (20g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/herby-bread-basket-(20g)",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10989038",
+      "food_name": "Thai Tom Yum Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/thai-tom-yum-soup",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7214680",
+      "food_name": "Japanese Nori Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/japanese-nori-crackers",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16748755",
+      "food_name": "Protein Peanut Butter Dipper with Baked Pretzel Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/protein-peanut-butter-dipper-with-baked-pretzel-sticks",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10075972",
+      "food_name": "Strawberry Chocolate Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/strawberry-chocolate-cheesecake",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10270200",
+      "food_name": "Sour Cream & Garlic Crostini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/sour-cream-and-garlic-crostini",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10284436",
+      "food_name": "Gingerbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/gingerbread",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21597246",
+      "food_name": "New York Everything Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/new-york-everything-bagel",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10879185",
+      "food_name": "Mocha Walnut Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/mocha-walnut-cake",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8127717",
+      "food_name": "Punchy Protein Nuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/punchy-protein-nuts/1-package",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10350809",
+      "food_name": "Strawberries & Cream Granola Yogurt Topper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/strawberries-and-cream-granola-yogurt-topper",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10484095",
+      "food_name": "Chili Lime Cashews",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/chili-lime-cashews",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21182541",
+      "food_name": "Deconstructed Salted Caramel & Chocolate Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/deconstructed-salted-caramel-chocolate-cookie",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55504469",
+      "food_name": "White Chocolate Coconut Macaron",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/white-chocolate-coconut-macaron",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7327738",
+      "food_name": "Florentine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/florentine",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15682862",
+      "food_name": "Cacao & Orange with Dates & Raw Almonds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/cacao-orange-with-dates-raw-almonds",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10307275",
+      "food_name": "Raw Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/raw-bars",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27086033",
+      "food_name": "Chinese Style Honey Sesame",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/chinese-style-honey-sesame",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16219063",
+      "food_name": "Summertime Punch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/summertime-punch",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21073019",
+      "food_name": "Not Too Spicy Veggie Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/not-too-spicy-veggie-protein",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10686412",
+      "food_name": "Maple Pecan Granola Topper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/maple-pecan-granola-topper",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8726485",
+      "food_name": "Deconstructed Carrot Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/deconstructed-carrot-cake",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21005792",
+      "food_name": "Peach & Rhubarb Pick Me Up",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/peach-rhubarb-pick-me-up",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12663672",
+      "food_name": "Graze Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mission-meats/graze-sticks",
+      "brand_name": "Mission Meats",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "restaurant": "Cheese Pleasers",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 12081,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:21:55.604Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cheese_pleasers.json",
+  "items": [
+    {
+      "food_id": "30093366",
+      "food_name": "Sammich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cheese-pleasers/sammich",
+      "brand_name": "Cheese Pleasers",
+      "food_type": "Brand"
+    }
+  ]
+}

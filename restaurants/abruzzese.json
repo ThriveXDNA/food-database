@@ -1,0 +1,48 @@
+{
+  "restaurant": "Abruzzese",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:30:15.007Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/abruzzese.json",
+  "items": [
+    {
+      "food_id": "22658650",
+      "food_name": "Italian Style Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/abruzzese/italian-style-meatballs",
+      "brand_name": "Abruzzese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40150788",
+      "food_name": "Abruzzese Italian Style Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carando/abruzzese-italian-style-meatballs",
+      "brand_name": "Carando",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37857366",
+      "food_name": "Uncured Abruzzese Dry Salami",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-of-inspirations/uncured-abruzzese-dry-salami",
+      "brand_name": "Taste of Inspirations",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14051854",
+      "food_name": "Abruzzese Dry Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/daniele/abruzzese-dry-sausage",
+      "brand_name": "Daniele",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9263616",
+      "food_name": "Uncured Abruzzese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiorucci/uncured-abruzzese",
+      "brand_name": "Fiorucci",
+      "food_type": "Brand"
+    }
+  ]
+}

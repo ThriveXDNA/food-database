@@ -1,0 +1,1070 @@
+{
+  "restaurant": "Margherita",
+  "total_items": 151,
+  "pages_extracted": 4,
+  "total_search_results": 151,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:53:11.947Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/margherita.json",
+  "items": [
+    {
+      "food_id": "3089473",
+      "food_name": "Genoa Salami",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/margherita/genoa-salami",
+      "brand_name": "Margherita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39713256",
+      "food_name": "Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/midtown-pizza/margherita",
+      "brand_name": "Midtown Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2765495",
+      "food_name": "Italian Style Pepperoni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/margherita/italian-style-pepperoni",
+      "brand_name": "Margherita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5160526",
+      "food_name": "Hard Salami",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/margherita/hard-salami",
+      "brand_name": "Margherita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30548305",
+      "food_name": "Thick Sliced Pepperoni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/margherita/thick-sliced-pepperoni",
+      "brand_name": "Margherita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2145705",
+      "food_name": "Sliced Pepperoni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/margherita/sliced-pepperoni",
+      "brand_name": "Margherita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5938621",
+      "food_name": "Pepperoni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/margherita/pepperoni",
+      "brand_name": "Margherita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12412261",
+      "food_name": "Sandwich Style Pepperoni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/margherita/sandwich-style-pepperoni",
+      "brand_name": "Margherita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3461646",
+      "food_name": "Turkey Pepperoni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/margherita/turkey-pepperoni",
+      "brand_name": "Margherita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34493116",
+      "food_name": "Italian Dry Salami",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/margherita/italian-dry-salami",
+      "brand_name": "Margherita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8134752",
+      "food_name": "Barbeque Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/margherita/barbeque-meatballs",
+      "brand_name": "Margherita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4592030",
+      "food_name": "Stick Pepperoni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/margherita/stick-pepperoni",
+      "brand_name": "Margherita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3299604",
+      "food_name": "Reduced Fat Pepperoni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/margherita/reduced-fat-pepperoni",
+      "brand_name": "Margherita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40941550",
+      "food_name": "Gluten Free Extra Thin Crust Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kroger/gluten-free-extra-thin-crust-margherita-pizza",
+      "brand_name": "Kroger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69560106",
+      "food_name": "Cauliflower Crust Margherita Four Cheese Pizza (156g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/miltons-craft-bakers/cauliflower-crust-margherita-four-cheese-pizza-(156g)",
+      "brand_name": "Milton's Craft Bakers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32299",
+      "food_name": "Culinary Collection Wood Fire Style Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lean-cuisine/culinary-collection-wood-fire-style-margherita-pizza",
+      "brand_name": "Lean Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66203387",
+      "food_name": "Margherita Cauliflower Crust Pizza  (1/2 pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mama-cozzi/margherita-cauliflower-crust-pizza-(1-2-pizza)",
+      "brand_name": "Mama Cozzi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28606858",
+      "food_name": "Cauliflower Crust Margherita Four Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/miltons-craft-bakers/cauliflower-crust-margherita-four-cheese-pizza",
+      "brand_name": "Milton's Craft Bakers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74468581",
+      "food_name": "Margherita Pizza, 14-Inch Famous Thin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/donatos-pizzeria/margherita-pizza-14-inch-famous-thin",
+      "brand_name": "Donatos Pizzeria",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74468585",
+      "food_name": "Margherita Pizza, 12-Inch Famous Thin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/donatos-pizzeria/margherita-pizza-12-inch-famous-thin",
+      "brand_name": "Donatos Pizzeria",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74468647",
+      "food_name": "Margherita Pizza, 10-Inch Cauliflower Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/donatos-pizzeria/margherita-pizza-10-inch-cauliflower-crust",
+      "brand_name": "Donatos Pizzeria",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74496137",
+      "food_name": "Margherita Pizza, 10-Inch Vegan Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/donatos-pizzeria/margherita-pizza-10-inch-vegan-crust",
+      "brand_name": "Donatos Pizzeria",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1886625",
+      "food_name": "Margherita Napolitana Marble Hearth Baked Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/private-selection/margherita-napolitana-marble-hearth-baked-pizza",
+      "brand_name": "Private Selection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16809585",
+      "food_name": "Cafe Steamers Chicken Margherita with Balsamic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/healthy-choice/cafe-steamers-chicken-margherita-with-balsamic",
+      "brand_name": "Healthy Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63902653",
+      "food_name": "Gluten Free Cauliflower Crust Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marketside/gluten-free-cauliflower-crust-margherita-pizza",
+      "brand_name": "Marketside",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39471127",
+      "food_name": "Margherita Chicken Over Garlic Herb Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hello-fresh/margherita-chicken-over-garlic-herb-spaghetti",
+      "brand_name": "Hello Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74468590",
+      "food_name": "Margherita Pizza, 10-Inch Famous Thin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/donatos-pizzeria/margherita-pizza-10-inch-famous-thin",
+      "brand_name": "Donatos Pizzeria",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74468595",
+      "food_name": "Margherita Pizza, 7-Inch Famous Thin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/donatos-pizzeria/margherita-pizza-7-inch-famous-thin",
+      "brand_name": "Donatos Pizzeria",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74468605",
+      "food_name": "Margherita Pizza, 14-Inch Hand Tossed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/donatos-pizzeria/margherita-pizza-14-inch-hand-tossed",
+      "brand_name": "Donatos Pizzeria",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74468609",
+      "food_name": "Margherita Pizza, 12-Inch Hand Tossed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/donatos-pizzeria/margherita-pizza-12-inch-hand-tossed",
+      "brand_name": "Donatos Pizzeria",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95474",
+      "food_name": "Corner Bistro Margherita Flatbread Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stouffers/corner-bistro-margherita-flatbread-pizza",
+      "brand_name": "Stouffer's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1688622",
+      "food_name": "Ultra Thin Crust Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/ultra-thin-crust-margherita-pizza",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3610977",
+      "food_name": "Margherita Ultra Thin Crust Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/safeway/margherita-ultra-thin-crust-pizza",
+      "brand_name": "Safeway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51973878",
+      "food_name": "Margherita Brick Oven Style Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lidl/margherita-brick-oven-style-pizza",
+      "brand_name": "Lidl",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74468598",
+      "food_name": "Margherita Pizza, 14-Inch Thick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/donatos-pizzeria/margherita-pizza-14-inch-thick",
+      "brand_name": "Donatos Pizzeria",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74468602",
+      "food_name": "Margherita Pizza, 7-Inch Thick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/donatos-pizzeria/margherita-pizza-7-inch-thick",
+      "brand_name": "Donatos Pizzeria",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91268922",
+      "food_name": "Cauliflower Thin Crust Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bettergoods/cauliflower-thin-crust-margherita-pizza",
+      "brand_name": "Bettergoods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70360009",
+      "food_name": "Grilled Chicken Margherita - Dinner Entrées",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olive-garden/grilled-chicken-margherita-dinner-entr%C3%A9es",
+      "brand_name": "Olive Garden",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98156",
+      "food_name": "Tomato Basil Margherita-Style Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/schwans/tomato-basil-margherita-style-pizza",
+      "brand_name": "Schwan's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12350665",
+      "food_name": "Raw Stuffed Chicken Breasts Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/barber-foods/raw-stuffed-chicken-breasts-margherita",
+      "brand_name": "Barber Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62143039",
+      "food_name": "Thin Crust Cauliflower Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/urban-pie/thin-crust-cauliflower-margherita-pizza",
+      "brand_name": "Urban Pie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37789540",
+      "food_name": "Margherita Pizza with Cauliflower Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-giant/margherita-pizza-with-cauliflower-crust",
+      "brand_name": "Green Giant",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74468601",
+      "food_name": "Margherita Pizza, 12-Inch Thick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/donatos-pizzeria/margherita-pizza-12-inch-thick",
+      "brand_name": "Donatos Pizzeria",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76380555",
+      "food_name": "Stone Baked Margherita Pizza (110g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mama-cozzi/stone-baked-margherita-pizza-(110g)",
+      "brand_name": "Mama Cozzi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "133278",
+      "food_name": "Margherita Thin Crust Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kashi/margherita-thin-crust-pizza",
+      "brand_name": "Kashi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1223814",
+      "food_name": "GreenWise Organic Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/publix/greenwise-organic-margherita-pizza",
+      "brand_name": "Publix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30803",
+      "food_name": "Primo Thin Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palermos/primo-thin-margherita-pizza",
+      "brand_name": "Palermo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "854600",
+      "food_name": "Puff Pastry Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/puff-pastry-margherita-pizza",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "731443",
+      "food_name": "The Classic Pizza Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carinos-italian-restaurant/the-classic-pizza-margherita",
+      "brand_name": "Carino's Italian Restaurant",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2544429",
+      "food_name": "Ultra Thin Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/ultra-thin-margherita-pizza",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2233993",
+      "food_name": "Thin & Crispy Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/newmans-own/thin-and-crispy-margherita-pizza",
+      "brand_name": "Newman's Own",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4118355",
+      "food_name": "Margherita Pizza (Wheat Crust)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brixx/margherita-pizza-(wheat-crust)",
+      "brand_name": "Brixx",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7332663",
+      "food_name": "Gluten Free Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/udis/gluten-free-margherita-pizza",
+      "brand_name": "Udi's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28249331",
+      "food_name": "Cauliflower Crust Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/open-nature/cauliflower-crust-margherita-pizza",
+      "brand_name": "Open Nature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57439703",
+      "food_name": "Margherita Cauliflower Crust Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mama-cozzi/margherita-cauliflower-crust-pizza",
+      "brand_name": "Mama Cozzi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37827889",
+      "food_name": "Thin Crust Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sams-choice/thin-crust-margherita-pizza",
+      "brand_name": "Sam's Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30397236",
+      "food_name": "Wood-Fired Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/members-mark/wood-fired-margherita-pizza",
+      "brand_name": "Member's Mark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73581491",
+      "food_name": "Coal Oven Pizza - Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/table-87/coal-oven-pizza-margherita",
+      "brand_name": "Table 87",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73901192",
+      "food_name": "Thin Crust Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freschetta/thin-crust-margherita-pizza",
+      "brand_name": "Freschetta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74015466",
+      "food_name": "Margherita - Thin Crust - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/uno-chicago-grill/margherita-thin-crust-individual",
+      "brand_name": "Uno Chicago Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74015494",
+      "food_name": "Margherita - Thin Crust - XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/uno-chicago-grill/margherita-thin-crust-xl",
+      "brand_name": "Uno Chicago Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86814012",
+      "food_name": "Medium Margherita Magnifico Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marcos-pizza/medium-margherita-magnifico-pizza",
+      "brand_name": "Marco's Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86814036",
+      "food_name": "Xlarge Margherita Magnifico Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marcos-pizza/xlarge-margherita-magnifico-pizza",
+      "brand_name": "Marco's Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105408954",
+      "food_name": "Margherita Pizza - Crispy Thin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-pizza-kitchen/margherita-pizza-crispy-thin",
+      "brand_name": "California Pizza Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94074586",
+      "food_name": "Margherita Flatbread Pizza (1200)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seattle-suttons-healthy-eating/margherita-flatbread-pizza-(1200)",
+      "brand_name": "Seattle Sutton's Healthy Eating",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "170570",
+      "food_name": "Single Serve Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/amys/single-serve-margherita-pizza",
+      "brand_name": "Amy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1917193",
+      "food_name": "Stone Baked Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mama-cozzi/stone-baked-margherita-pizza",
+      "brand_name": "Mama Cozzi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1921066",
+      "food_name": "Fresh Mixers Pasta Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/healthy-choice/fresh-mixers-pasta-margherita",
+      "brand_name": "Healthy Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11930636",
+      "food_name": "Smart Creations Chicken Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smart-ones/smart-creations-chicken-margherita",
+      "brand_name": "Smart Ones",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11370374",
+      "food_name": "Pizzeria! Thin Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/digiorno/pizzeria-thin-margherita-pizza",
+      "brand_name": "DiGiorno",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11209444",
+      "food_name": "Thin Crust Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wegmans/thin-crust-margherita-pizza",
+      "brand_name": "Wegmans",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62964856",
+      "food_name": "Margherita Cauliflower Crust Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-value/margherita-cauliflower-crust-pizza",
+      "brand_name": "Great Value",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35329715",
+      "food_name": "Margherita Traditional Crust Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/archer-farms/margherita-traditional-crust-pizza",
+      "brand_name": "Archer Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42666295",
+      "food_name": "Margherita Thin Crust Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/365/margherita-thin-crust-pizza",
+      "brand_name": "365",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86814024",
+      "food_name": "Large Margherita Magnifico Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marcos-pizza/large-margherita-magnifico-pizza",
+      "brand_name": "Marco's Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94074588",
+      "food_name": "Margherita Flatbread Pizza (1500)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seattle-suttons-healthy-eating/margherita-flatbread-pizza-(1500)",
+      "brand_name": "Seattle Sutton's Healthy Eating",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94074591",
+      "food_name": "Margherita Flatbread Pizza (2000)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seattle-suttons-healthy-eating/margherita-flatbread-pizza-(2000)",
+      "brand_name": "Seattle Sutton's Healthy Eating",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3363436",
+      "food_name": "Vegan Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/amys/vegan-margherita-pizza",
+      "brand_name": "Amy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8619855",
+      "food_name": "Frozen Chicken Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/atkins/frozen-chicken-margherita",
+      "brand_name": "Atkins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53943846",
+      "food_name": "Naan Pizza Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/deep-indian-kitchen/naan-pizza-margherita",
+      "brand_name": "Deep Indian Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37049688",
+      "food_name": "Italian Style Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/aidells/italian-style-margherita",
+      "brand_name": "Aidells",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38060607",
+      "food_name": "Artisan Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/califlour-foods/artisan-margherita-pizza",
+      "brand_name": "Cali'flour Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70397514",
+      "food_name": "GF Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-pizza-kitchen/gf-margherita-pizza",
+      "brand_name": "California Pizza Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74662999",
+      "food_name": "MMG Margherita Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/muscle-maker-grill/mmg-margherita-flatbread",
+      "brand_name": "Muscle Maker Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96878031",
+      "food_name": "Margherita Pizza (1500)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seattle-suttons-healthy-eating/margherita-pizza-(1500)",
+      "brand_name": "Seattle Sutton's Healthy Eating",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205465",
+      "food_name": "Margherita Flatbread Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/margherita-flatbread-pizza",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "259762",
+      "food_name": "Chicken Margherita & Penne",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bertolli/chicken-margherita-and-penne",
+      "brand_name": "Bertolli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80724",
+      "food_name": "Margherita Grilled Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sandellas/margherita-grilled-flatbread",
+      "brand_name": "Sandella's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3385553",
+      "food_name": "Margherita Flatbread Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/market-day/margherita-flatbread-pizza",
+      "brand_name": "Market Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3509872",
+      "food_name": "Margherita Flatbread Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/archer-farms/margherita-flatbread-pizza",
+      "brand_name": "Archer Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29776955",
+      "food_name": "Margherita Pizza Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ragu/margherita-pizza-sauce",
+      "brand_name": "Ragu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50245874",
+      "food_name": "Margherita with Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-run-inn/margherita-with-sausage",
+      "brand_name": "Home Run Inn",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72661635",
+      "food_name": "Tuscan Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cosi/tuscan-margherita-pizza",
+      "brand_name": "Cosi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86531327",
+      "food_name": "Margherita Mini Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lidl/margherita-mini-pizza",
+      "brand_name": "Lidl",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96878028",
+      "food_name": "Margherita Pizza (1200)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seattle-suttons-healthy-eating/margherita-pizza-(1200)",
+      "brand_name": "Seattle Sutton's Healthy Eating",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96878032",
+      "food_name": "Margherita Pizza (2000)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seattle-suttons-healthy-eating/margherita-pizza-(2000)",
+      "brand_name": "Seattle Sutton's Healthy Eating",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1499911",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sopraffina/margherita-pizza",
+      "brand_name": "Sopraffina",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1550119",
+      "food_name": "Margherita Panini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ufood-grill/margherita-panini",
+      "brand_name": "UFood Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1464208",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bertuccis/margherita-pizza",
+      "brand_name": "Bertucci's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1279446",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/costco/margherita-pizza",
+      "brand_name": "Costco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71793",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/archer-farms/margherita-pizza",
+      "brand_name": "Archer Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "856988",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carrabbas-italian-grill/margherita-pizza",
+      "brand_name": "Carrabba's Italian Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "794403",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/margherita-pizza",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1038430",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yard-house/margherita-pizza",
+      "brand_name": "Yard House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5622997",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freschetta/margherita-pizza",
+      "brand_name": "Freschetta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6689223",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nordstrom/margherita-pizza",
+      "brand_name": "Nordstrom",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17018928",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/caulipower/margherita-pizza",
+      "brand_name": "Caulipower",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15091127",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/daiya/margherita-pizza",
+      "brand_name": "Daiya",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17501979",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-nature/margherita-pizza",
+      "brand_name": "Simply Nature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3245016",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palermos/margherita-pizza",
+      "brand_name": "Palermo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3488161",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/il-vicino/margherita-pizza",
+      "brand_name": "Il Vicino",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3348398",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/punch-pizza/margherita-pizza",
+      "brand_name": "Punch Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3380507",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wegmans/margherita-pizza",
+      "brand_name": "Wegmans",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4562963",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simple-truth-organic/margherita-pizza",
+      "brand_name": "Simple Truth Organic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11088213",
+      "food_name": "Pizza Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/graze/pizza-margherita",
+      "brand_name": "Graze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11188716",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pieology/margherita-pizza",
+      "brand_name": "Pieology",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51675984",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/modern-market/margherita-pizza",
+      "brand_name": "Modern Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52297670",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roncadin/margherita-pizza",
+      "brand_name": "Roncadin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50390161",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marketside/margherita-pizza",
+      "brand_name": "Marketside",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65475983",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/feel-good-foods/margherita-pizza",
+      "brand_name": "Feel Good Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42530242",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cappellos/margherita-pizza",
+      "brand_name": "Cappello's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170980",
+      "food_name": "Margherita Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/atlanta-bread-company/margherita-flatbread",
+      "brand_name": "Atlanta Bread Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86813039",
+      "food_name": "Margherita Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/zoup/margherita-flatbread",
+      "brand_name": "Zoup!",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80304590",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/real-appeal/margherita-pizza",
+      "brand_name": "Real Appeal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47852009",
+      "food_name": "Margherita Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/margherita-flatbread",
+      "brand_name": "Cheesecake Factory",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70756",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bellatoria-pizza/margherita-pizza",
+      "brand_name": "Bellatoria Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98073",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/earls/margherita-pizza",
+      "brand_name": "Earls",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "245444",
+      "food_name": "Pizza Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buca-di-beppo/pizza-margherita",
+      "brand_name": "Buca di Beppo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1718944",
+      "food_name": "Chicken Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cuisine-solutions/chicken-margherita",
+      "brand_name": "Cuisine Solutions",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2010775",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/amys/margherita-pizza",
+      "brand_name": "Amy's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4780240",
+      "food_name": "Pizza Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-giottos/pizza-margherita/1-3-pizza",
+      "brand_name": "Trader Giotto's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15378990",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/open-nature/margherita-pizza",
+      "brand_name": "Open Nature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4047513",
+      "food_name": "Margherita Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brio-tuscan-grille/margherita-flatbread",
+      "brand_name": "Brio Tuscan Grille",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4101720",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/better-bread/margherita-pizza",
+      "brand_name": "Better Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8272927",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/margherita-pizza",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12230532",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/signature-select/margherita-pizza",
+      "brand_name": "Signature Select",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28023457",
+      "food_name": "Chicken Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-margherita",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22849311",
+      "food_name": "Margherita Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granite-city/margherita-flatbread",
+      "brand_name": "Granite City",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53261521",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-gather/margherita-pizza",
+      "brand_name": "Good & Gather",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43124687",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/margherita-pizza",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43348430",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/banza/margherita-pizza",
+      "brand_name": "Banza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25515581",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/true-food-kitchen/margherita-pizza",
+      "brand_name": "True Food Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25944004",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/real-good-pizza-co/margherita-pizza",
+      "brand_name": "Real Good Pizza Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73050452",
+      "food_name": "Margherita Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mimis-cafe/margherita-flatbread",
+      "brand_name": "Mimis Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74017994",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/newks-express-cafe/margherita-pizza",
+      "brand_name": "Newk's Express Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74960522",
+      "food_name": "Flatbread Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/maggianos/flatbread-margherita",
+      "brand_name": "Maggiano's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94480216",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bettergoods/margherita-pizza",
+      "brand_name": "Bettergoods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84662790",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-pizza-kitchen/margherita-pizza",
+      "brand_name": "California Pizza Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13134563",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sprouts-farmers-market/margherita-pizza",
+      "brand_name": "Sprouts Farmers Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6028091",
+      "food_name": "Pizza Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/pizza-margherita/1-3-pizza",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "132712",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutrisystem/margherita-pizza",
+      "brand_name": "NutriSystem",
+      "food_type": "Brand"
+    }
+  ]
+}

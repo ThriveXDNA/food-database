@@ -1,0 +1,657 @@
+{
+  "restaurant": "Hungry Root",
+  "total_items": 92,
+  "pages_extracted": 6,
+  "total_search_results": 591,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:37:48.290Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/hungry_root.json",
+  "items": [
+    {
+      "food_id": "45931179",
+      "food_name": "Grilled Boneless Pork Chop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/grilled-boneless-pork-chop",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38303243",
+      "food_name": "Bell Pepper Onion Saute",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/bell-pepper-onion-saute",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37576021",
+      "food_name": "Seasoned Grilled Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/seasoned-grilled-chicken-breast",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23995140",
+      "food_name": "Avocado Crema",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/avocado-crema",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52777589",
+      "food_name": "Seasoned Jasmine Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/seasoned-jasmine-rice",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33354547",
+      "food_name": "Brown Rice Quinoa Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/brown-rice-quinoa-blend",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41573012",
+      "food_name": "Lentil Quinoa Rice Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/lentil-quinoa-rice-mix",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23974866",
+      "food_name": "Cucumber Corn Black Bean Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/cucumber-corn-black-bean-salad",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20952752",
+      "food_name": "Almond Chickpea Cookie Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/almond-chickpea-cookie-dough",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86366500",
+      "food_name": "Multicolored Creamer Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/multicolored-creamer-potatoes",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38302286",
+      "food_name": "Basil Zucchini White Bean Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/basil-zucchini-white-bean-salad",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23995162",
+      "food_name": "Superblend Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/superblend-salad",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41326687",
+      "food_name": "Rainbow Veggie Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/rainbow-veggie-mix",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79214071",
+      "food_name": "Creamy Vodka",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/creamy-vodka",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46021781",
+      "food_name": "Tomato Marinara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/tomato-marinara",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28078934",
+      "food_name": "Braised Lemongrass Tofu Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/braised-lemongrass-tofu-nuggets",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46739830",
+      "food_name": "Sweet Italian Chicken Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/sweet-italian-chicken-sausage",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28801688",
+      "food_name": "Kale Pesto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/kale-pesto",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21340190",
+      "food_name": "Shaved Brussels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/shaved-brussels",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38303095",
+      "food_name": "Asian Salad Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/asian-salad-mix",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67936685",
+      "food_name": "Himalayan Pink Sea Salt Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/himalayan-pink-sea-salt-popcorn",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24008522",
+      "food_name": "Roasted Corn Edamame Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/roasted-corn-edamame-salad",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38302118",
+      "food_name": "Hot Smoked Roasted Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/hot-smoked-roasted-salmon",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41114992",
+      "food_name": "Spinach Garlic Chicken Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/spinach-garlic-chicken-sausage",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59816312",
+      "food_name": "Original BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/original-bbq",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38302521",
+      "food_name": "Cuban Spiced Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/cuban-spiced-black-beans",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42786362",
+      "food_name": "Beef Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/beef-meatballs",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75549647",
+      "food_name": "Thin-Cut Beef Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/thin-cut-beef-strips",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79509519",
+      "food_name": "Savory Chicken Breakfast Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/savory-chicken-breakfast-sausage",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28380102",
+      "food_name": "Green Chile",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/green-chile",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39030751",
+      "food_name": "Spicy Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/spicy-refried-beans",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34923723",
+      "food_name": "House Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/house-dressing",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29044456",
+      "food_name": "Savory Spiced Tofu Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/savory-spiced-tofu-bites",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67505105",
+      "food_name": "Tri-Color Pearl Couscous",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/tri-color-pearl-couscous",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67936659",
+      "food_name": "Black Bean Brownie Batter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/black-bean-brownie-batter",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33279825",
+      "food_name": "Sesame Ginger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/sesame-ginger",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50927723",
+      "food_name": "Wild Caught Gulf Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/wild-caught-gulf-shrimp",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41326602",
+      "food_name": "Sweet Baby Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/sweet-baby-broccoli",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41573130",
+      "food_name": "Coconut Curry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/coconut-curry",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25109714",
+      "food_name": "Spinach Artichoke Chickpea Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/spinach-artichoke-chickpea-dip",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33374553",
+      "food_name": "Seven Grain Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/seven-grain-blend",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37790657",
+      "food_name": "Spinach Feta Turkey Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/spinach-feta-turkey-patties",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75349651",
+      "food_name": "Cashew Parm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/cashew-parm",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40500581",
+      "food_name": "Garlic Parm Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/garlic-parm-sauce",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69199408",
+      "food_name": "Creamy Miso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/creamy-miso",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101227000",
+      "food_name": "Chicken Chile Verde",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/chicken-chile-verde",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38542635",
+      "food_name": "Carrot Cake Coconut Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/carrot-cake-coconut-cookie",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41288753",
+      "food_name": "Smoky Green Lentil Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/smoky-green-lentil-salad",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33279444",
+      "food_name": "Red Lentil Fusilli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/red-lentil-fusilli",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74962545",
+      "food_name": "Basil Pesto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/basil-pesto",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53426947",
+      "food_name": "Cauliflower Linguine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/cauliflower-linguine",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67936650",
+      "food_name": "Extra Veggie Baked Ziti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/extra-veggie-baked-ziti",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68153136",
+      "food_name": "Honey Mustard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/honey-mustard",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31186255",
+      "food_name": "Cauliflower Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/cauliflower-rice",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84027050",
+      "food_name": "Four Cheese Mini Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/four-cheese-mini-ravioli",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44771043",
+      "food_name": "Classic Alfredo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/classic-alfredo",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41350893",
+      "food_name": "Seven Veggie Stir Fry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/seven-veggie-stir-fry",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62787994",
+      "food_name": "Turkey Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/turkey-meatballs",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26033350",
+      "food_name": "Banana Bread Overnight Oats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/banana-bread-overnight-oats",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51349178",
+      "food_name": "Cherry Chia on-The-Go-Oats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/cherry-chia-on-the-go-oats",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67936668",
+      "food_name": "Peanut Butter Cup Cookie Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/peanut-butter-cup-cookie-dough",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37790697",
+      "food_name": "Garlicky Herb Chickpea Duo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/garlicky-herb-chickpea-duo",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69900796",
+      "food_name": "Fresh + Zesty Chicken Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/fresh-zesty-chicken-tacos",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44660807",
+      "food_name": "Roasting Vegetables with Herbs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/roasting-vegetables-with-herbs",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24008580",
+      "food_name": "Thai Peanut Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/thai-peanut-sauce",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67936664",
+      "food_name": "Take + Bake Seeded Sourdough Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/take-bake-seeded-sourdough-rolls",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41326794",
+      "food_name": "Butternut Squash Cubes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/butternut-squash-cubes",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33205647",
+      "food_name": "Lemon Tahini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/lemon-tahini",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45707599",
+      "food_name": "Pea Snaps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/pea-snaps",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101130327",
+      "food_name": "Shrimp Scampi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/shrimp-scampi",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28454627",
+      "food_name": "Ancient Grain Pancake Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/ancient-grain-pancake-mix",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84694841",
+      "food_name": "Smoky Sweet Hickory Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/smoky-sweet-hickory-sauce",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22679586",
+      "food_name": "Lemon Artichoke Quinoa Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/lemon-artichoke-quinoa-cup",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30868634",
+      "food_name": "Whole Wheat Sprouted Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/whole-wheat-sprouted-flatbread",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21020276",
+      "food_name": "Crunchy Walnut Date Muesli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/crunchy-walnut-date-muesli",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37604336",
+      "food_name": "Three Bean Artichoke Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/three-bean-artichoke-salad",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81654147",
+      "food_name": "Super Blue Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/super-blue-smoothie",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21652041",
+      "food_name": "Hearty Tofu Veggie Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/hearty-tofu-veggie-burger",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23993592",
+      "food_name": "Cherry Chia Maple Oatmeal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/cherry-chia-maple-oatmeal",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67936652",
+      "food_name": "Crispy Bison Nachos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/crispy-bison-nachos",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67936656",
+      "food_name": "Cinnamon Twists",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/cinnamon-twists",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67936676",
+      "food_name": "Oatmeal Raisin Cookie Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/oatmeal-raisin-cookie-dough",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67936689",
+      "food_name": "Original Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/original-beef-jerky",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38764290",
+      "food_name": "Toasted Coconut Clusters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/toasted-coconut-clusters",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20155642",
+      "food_name": "Roasted Red Pepper Quinoa Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/roasted-red-pepper-quinoa-bowl",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28225477",
+      "food_name": "Cashew Cheddar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/cashew-cheddar",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29184467",
+      "food_name": "Superfood Tomato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/superfood-tomato",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30231303",
+      "food_name": "Ginger Tahini Yuba Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/ginger-tahini-yuba-noodles",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43691358",
+      "food_name": "Superfood Almond Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/superfood-almond-butter",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67936683",
+      "food_name": "Triple Chocolate Hazelnut Cookie Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/triple-chocolate-hazelnut-cookie-dough",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33330025",
+      "food_name": "Kohlrabi Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/kohlrabi-noodles",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72512972",
+      "food_name": "Creamy Cheddar Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hungry-root/creamy-cheddar-sauce",
+      "brand_name": "Hungry Root",
+      "food_type": "Brand"
+    }
+  ]
+}

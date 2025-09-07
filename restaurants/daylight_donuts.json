@@ -1,0 +1,55 @@
+{
+  "restaurant": "Daylight Donuts",
+  "total_items": 6,
+  "pages_extracted": 4,
+  "total_search_results": 198,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:46:25.016Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/daylight_donuts.json",
+  "items": [
+    {
+      "food_id": "5566936",
+      "food_name": "Plain Cake Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/daylight-donuts/plain-cake-donut",
+      "brand_name": "Daylight Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6164926",
+      "food_name": "Glazed Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/daylight-donuts/glazed-donut",
+      "brand_name": "Daylight Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85424687",
+      "food_name": "Chocolate Glazed Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/daylight-donuts/chocolate-glazed-donut",
+      "brand_name": "Daylight Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95377817",
+      "food_name": "Glazed Donut Holes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/daylight-donuts/glazed-donut-holes",
+      "brand_name": "Daylight Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "942119",
+      "food_name": "Sausage Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/daylight-donuts/sausage-roll",
+      "brand_name": "Daylight Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67082705",
+      "food_name": "Apple Fritter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/daylight-donuts/apple-fritter",
+      "brand_name": "Daylight Donuts",
+      "food_type": "Brand"
+    }
+  ]
+}

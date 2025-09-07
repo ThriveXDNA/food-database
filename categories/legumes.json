@@ -1,0 +1,54 @@
+{
+  "search_term": "legumes",
+  "category": "comprehensive",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "last_updated": "2025-09-06T05:28:09.005Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Search term with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/categories/legumes.json",
+  "items": [
+    {
+      "food_id": "60554178",
+      "food_name": "Tri-Color Legume Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-nature/tri-color-legume-rice",
+      "food_type": "Brand",
+      "brand_name": "Simply Nature"
+    },
+    {
+      "food_id": "57049068",
+      "food_name": "Sprouted Grain & Legume Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simple-truth-organic/sprouted-grain-legume-bread",
+      "food_type": "Brand",
+      "brand_name": "Simple Truth Organic"
+    },
+    {
+      "food_id": "18809006",
+      "food_name": "Legume & Spinach Salad Palette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/legume-spinach-salad-palette",
+      "food_type": "Brand",
+      "brand_name": "Trader Joe's"
+    },
+    {
+      "food_id": "64189733",
+      "food_name": "Chickpea & Red Lentil Legume Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-nature/chickpea-red-lentil-legume-rice",
+      "food_type": "Brand",
+      "brand_name": "Simply Nature"
+    },
+    {
+      "food_id": "94037961",
+      "food_name": "Sprouted Grain and Legume Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simple-truth-organic/sprouted-grain-and-legume-bread",
+      "food_type": "Brand",
+      "brand_name": "Simple Truth Organic"
+    },
+    {
+      "food_id": "33326671",
+      "food_name": "Legume & Spinach Salad Palette (No Dressing)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/legume-spinach-salad-palette-(no-dressing)",
+      "food_type": "Brand",
+      "brand_name": "Trader Joe's"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "restaurant": "Gordon Choice",
+  "total_items": 10,
+  "pages_extracted": 6,
+  "total_search_results": 453,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:10:36.089Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/gordon_choice.json",
+  "items": [
+    {
+      "food_id": "63369707",
+      "food_name": "Canadian Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gordon-choice/canadian-bacon",
+      "brand_name": "Gordon Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48906646",
+      "food_name": "Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gordon-choice/bacon",
+      "brand_name": "Gordon Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43325078",
+      "food_name": "Egg, Bacon, & Cheddar Scramble",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gordon-choice/egg-bacon-cheddar-scramble",
+      "brand_name": "Gordon Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41504385",
+      "food_name": "Fully Cooked Classic Flat Buffet Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gordon-choice/fully-cooked-classic-flat-buffet-ham",
+      "brand_name": "Gordon Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38502250",
+      "food_name": "Turkey Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gordon-choice/turkey-breast",
+      "brand_name": "Gordon Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30005065",
+      "food_name": "Low-Fat Small Curd Cottage Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gordon-choice/low-fat-small-curd-cottage-cheese",
+      "brand_name": "Gordon Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92368890",
+      "food_name": "Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gordon-choice/chicken-salad",
+      "brand_name": "Gordon Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34169594",
+      "food_name": "Provolone Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gordon-choice/provolone-cheese",
+      "brand_name": "Gordon Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101593034",
+      "food_name": "Chicken Breasts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gordon-choice/chicken-breasts",
+      "brand_name": "Gordon Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96003122",
+      "food_name": "Plant-Based Cauliflower Wings Buffalo Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gordon-choice/plant-based-cauliflower-wings-buffalo-style",
+      "brand_name": "Gordon Choice",
+      "food_type": "Brand"
+    }
+  ]
+}

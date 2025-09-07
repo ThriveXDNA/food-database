@@ -1,0 +1,41 @@
+{
+  "restaurant": "Backroad Country",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 536,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:56:09.275Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/backroad_country.json",
+  "items": [
+    {
+      "food_id": "57237172",
+      "food_name": "Sweet Cinnamon Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/backroad-country/sweet-cinnamon-puffs",
+      "brand_name": "Backroad Country",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3029407",
+      "food_name": "Caramel Puffcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/backroad-country/caramel-puffcorn",
+      "brand_name": "Backroad Country",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70516258",
+      "food_name": "Original Pork Rinds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/backroad-country/original-pork-rinds",
+      "brand_name": "Backroad Country",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47723553",
+      "food_name": "Dark Chocolate Sea Salt Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/backroad-country/dark-chocolate-sea-salt-popcorn",
+      "brand_name": "Backroad Country",
+      "food_type": "Brand"
+    }
+  ]
+}

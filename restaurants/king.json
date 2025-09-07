@@ -1,0 +1,2519 @@
+{
+  "restaurant": "King",
+  "total_items": 358,
+  "pages_extracted": 9,
+  "total_search_results": 1000,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:04:29.363Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/king.json",
+  "items": [
+    {
+      "food_id": "7184",
+      "food_name": "Cane and Corn Pancake Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/cane-and-corn-pancake-syrup",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "38013",
+      "food_name": "King Mackerel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/king-mackerel",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "38160",
+      "food_name": "King Mackerel (Cooked, Dry Heat)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/king-mackerel-(cooked-dry-heat)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "13561936",
+      "food_name": "Bacon King",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burger-king/bacon-king",
+      "brand_name": "Burger King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38097",
+      "food_name": "Alaska King Crab",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/alaska-king-crab",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "23190218",
+      "food_name": "King Mass",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ronnie-coleman/king-mass",
+      "brand_name": "Ronnie Coleman",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95070591",
+      "food_name": "King Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/private-selection/king-salmon",
+      "brand_name": "Private Selection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203225",
+      "food_name": "King Carnival",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bahama-breeze/king-carnival",
+      "brand_name": "Bahama Breeze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38099",
+      "food_name": "Imitation Alaska King Crab (Made From Surimi)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/imitation-alaska-king-crab-(made-from-surimi)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "93701",
+      "food_name": "King Corn Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/canteca/king-corn-tortillas",
+      "brand_name": "Canteca",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1174427",
+      "food_name": "Butterfinger (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nestle/butterfinger-(king-size)",
+      "brand_name": "Nestle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2472628",
+      "food_name": "King Sandwich Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/iga/king-sandwich-bread",
+      "brand_name": "IGA",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2278310",
+      "food_name": "Wild King Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trappers-creek/wild-king-salmon",
+      "brand_name": "Trapper's Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4582804",
+      "food_name": "King Salmon Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alaskas-best/king-salmon-jerky",
+      "brand_name": "Alaska's Best",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3216546",
+      "food_name": "Aloe Vera King",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/okf/aloe-vera-king",
+      "brand_name": "OKF",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10227585",
+      "food_name": "King Club Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mcalisters-deli/king-club-sandwich",
+      "brand_name": "McAlister's Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55021362",
+      "food_name": "King Cream Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/paris-baguette/king-cream-donut",
+      "brand_name": "Paris Baguette",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42659080",
+      "food_name": "King Trumpet Mushroom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hokto/king-trumpet-mushroom",
+      "brand_name": "Hokto",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43501703",
+      "food_name": "Mounds (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-paul/mounds-(king-size)",
+      "brand_name": "Peter Paul",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73711972",
+      "food_name": "King Ranch Enchilasagna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/on-the-border/king-ranch-enchilasagna",
+      "brand_name": "on The Border",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75402402",
+      "food_name": "Maxi King (100g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kinder/maxi-king-(100g)",
+      "brand_name": "Kinder",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "274509",
+      "food_name": "Payday (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hersheys/payday-(king-size)",
+      "brand_name": "Hershey's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80474",
+      "food_name": "Caramello (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cadburys/caramello-(king-size)",
+      "brand_name": "Cadbury's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57175",
+      "food_name": "King White Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stroehmann/king-white-bread",
+      "brand_name": "Stroehmann",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2518265",
+      "food_name": "Twizzlers (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/twizzlers/twizzlers-(king-size)",
+      "brand_name": "Twizzlers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3720127",
+      "food_name": "Wild King Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/wild-king-salmon",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3383118",
+      "food_name": "Nutrageous (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/reeses/nutrageous-(king-size)",
+      "brand_name": "Reese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12288184",
+      "food_name": "Maxi King (35g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kinder/maxi-king",
+      "brand_name": "Kinder",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12425719",
+      "food_name": "King Salmon Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wegmans/king-salmon-combo",
+      "brand_name": "Wegmans",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38098",
+      "food_name": "Alaska King Crab (Cooked, Moist Heat)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/alaska-king-crab-(cooked-moist-heat)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2921",
+      "food_name": "Chicken A La King with Rice (Frozen Meal)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-a-la-king-with-rice-(frozen-meal)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "107075888",
+      "food_name": "King Cake Gladiator - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/king-cake-gladiator-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075902",
+      "food_name": "King Cake Gladiator - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/king-cake-gladiator-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075896",
+      "food_name": "King Cake Gladiator - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/king-cake-gladiator-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "203457",
+      "food_name": "Enriched King Size Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heiners/enriched-king-size-bread",
+      "brand_name": "Heiner's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "134697",
+      "food_name": "Milky Way (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mars/milky-way-(king-size)",
+      "brand_name": "Mars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1410349",
+      "food_name": "Take 5 (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/take-5/take-5-(king-size)",
+      "brand_name": "Take 5",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1836476",
+      "food_name": "King Gorditas Flour Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/canteca/king-gorditas-flour-tortillas",
+      "brand_name": "Canteca",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7302802",
+      "food_name": "King Size Corn Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dianas/king-size-corn-tortillas",
+      "brand_name": "Diana's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7303298",
+      "food_name": "King Size Vanilla Drumstick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nestle/king-size-vanilla-drumstick",
+      "brand_name": "Nestle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19618873",
+      "food_name": "Aloe Vera King Peach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/okf/aloe-vera-king-peach",
+      "brand_name": "OKF",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12624519",
+      "food_name": "Chicken A La King",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mountain-house/chicken-a-la-king",
+      "brand_name": "Mountain House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64279052",
+      "food_name": "Turkey Swiss on King",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/food-lion/turkey-swiss-on-king",
+      "brand_name": "Food Lion",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45785316",
+      "food_name": "King Noodle Lobster Flavor",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/paldo/king-noodle-lobster-flavor",
+      "brand_name": "Paldo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37752873",
+      "food_name": "Reese's Sticks King Size",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/reeses/reeses-sticks-king-size",
+      "brand_name": "Reese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243316",
+      "food_name": "King of Cookie Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/king-of-cookie-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "227457",
+      "food_name": "Corn Tortillas (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/romeros/corn-tortillas-(king-size)",
+      "brand_name": "Romero's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100557",
+      "food_name": "Snickers Bar (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-bar-(king-size)",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "145323",
+      "food_name": "Wild Smoked King Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/wild-smoked-king-salmon",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "203478",
+      "food_name": "King White Enriched Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/holsum/king-white-enriched-bread",
+      "brand_name": "Holsum",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1767714",
+      "food_name": "Chicken a la King",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/swanson/chicken-a-la-king",
+      "brand_name": "Swanson",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56476",
+      "food_name": "Big Cup (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/reeses/big-cup-(king-size)",
+      "brand_name": "Reese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "507762",
+      "food_name": "100 Grand (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nestle/100-grand-(king-size)",
+      "brand_name": "Nestle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2472708",
+      "food_name": "Fast Break (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/reeses/fast-break-(king-size)",
+      "brand_name": "Reese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2186319",
+      "food_name": "Whatchamacallit Bar (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hersheys/whatchamacallit-bar-(king-size)",
+      "brand_name": "Hershey's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15403436",
+      "food_name": "King Size White Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/giant-eagle/king-size-white-bread",
+      "brand_name": "Giant Eagle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19086965",
+      "food_name": "Chicken A La King",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stouffers/chicken-a-la-king",
+      "brand_name": "Stouffer's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4519486",
+      "food_name": "King Thin Enriched Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunbeam/king-thin-enriched-bread",
+      "brand_name": "Sunbeam",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25446764",
+      "food_name": "King Crab & Corn Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blount/king-crab-corn-chowder",
+      "brand_name": "Blount",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24236870",
+      "food_name": "Organic King Coconut Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/organic-king-coconut-water",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52536864",
+      "food_name": "Kit Kat (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hersheys/kit-kat-(king-size)",
+      "brand_name": "Hershey's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71655030",
+      "food_name": "King Club Sandwich - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mcalisters-deli/king-club-sandwich-half",
+      "brand_name": "McAlister's Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72540992",
+      "food_name": "King Size Kaiser Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/schwebels/king-size-kaiser-rolls",
+      "brand_name": "Schwebel's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77528729",
+      "food_name": "King Salmon Poke Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wegmans/king-salmon-poke-salad",
+      "brand_name": "Wegmans",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40535",
+      "food_name": "Smoked King or Chinook Salmon (Canned) (Alaska Native)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/smoked-king-or-chinook-salmon-(canned)-(alaska-native)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "40536",
+      "food_name": "Smoked King or Chinook Salmon (Brined) (Alaska Native)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/smoked-king-or-chinook-salmon-(brined)-(alaska-native)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "202693",
+      "food_name": "Blue Ribbon King Enriched Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/schmidt/blue-ribbon-king-enriched-bread",
+      "brand_name": "Schmidt",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "231875",
+      "food_name": "King Size Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nestle/king-size-ice-cream-sandwich",
+      "brand_name": "Nestle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1936168",
+      "food_name": "Special Dark Chocolate King Size",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hersheys/special-dark-chocolate-king-size",
+      "brand_name": "Hershey's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2800121",
+      "food_name": "King Crab Legs and Claws",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/aqua-star/king-crab-legs-and-claws",
+      "brand_name": "Aqua Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2984919",
+      "food_name": "Ice Cream Bar (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/ice-cream-bar-(king-size)",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75687802",
+      "food_name": "Three Floyds Alpha King - Pitcher",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hooters/three-floyds-alpha-king-pitcher",
+      "brand_name": "Hooters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73745363",
+      "food_name": "King Ranch Mexican Casserole Only",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/on-the-border/king-ranch-mexican-casserole-only",
+      "brand_name": "on The Border",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76617570",
+      "food_name": "Big Cup (King Size) 1oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/reeses/big-cup-(king-size)-1oz",
+      "brand_name": "Reese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89755",
+      "food_name": "Zero Candy Bar (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hersheys/zero-candy-bar-(king-size)/1-2-bar",
+      "brand_name": "Hershey's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "202777",
+      "food_name": "King Thin Enriched Sandwich Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/colonial/king-thin-enriched-sandwich-bread",
+      "brand_name": "Colonial",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1384530",
+      "food_name": "Valentine Marshmallow Heart (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hersheys/valentine-marshmallow-heart-(king-size)",
+      "brand_name": "Hershey's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1200946",
+      "food_name": "King Crab Feast (No Butter)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joes-crab-shack/king-crab-feast-(no-butter)",
+      "brand_name": "Joe's Crab Shack",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65564",
+      "food_name": "Ice Cream Cones - Vanilla (King)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-humor/ice-cream-cones---vanilla-(king)",
+      "brand_name": "Good Humor",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "955891",
+      "food_name": "Milk Chocolate Bar (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hersheys/milk-chocolate-bar-(king-size)",
+      "brand_name": "Hershey's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2512160",
+      "food_name": "Rice Krispies Treats King Size",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kelloggs/rice-krispies-treats-king-size",
+      "brand_name": "Kellogg's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2191273",
+      "food_name": "King Size Chocolate Eclair Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-bunny/king-size-chocolate-eclair-bar",
+      "brand_name": "Blue Bunny",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3920697",
+      "food_name": "Peanut Butter Cups (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/reeses/peanut-butter-cups-(king-size)",
+      "brand_name": "Reese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19759887",
+      "food_name": "Kit Kat Dark (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hersheys/kit-kat-dark-(king-size)",
+      "brand_name": "Hershey's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71655014",
+      "food_name": "Black Angus King Club Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mcalisters-deli/black-angus-king-club-sandwich",
+      "brand_name": "McAlister's Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71655023",
+      "food_name": "Grilled Chicken King Club Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mcalisters-deli/grilled-chicken-king-club-sandwich",
+      "brand_name": "McAlister's Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74469658",
+      "food_name": "King Sirloin Tips (No Side)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/99-restaurant/king-sirloin-tips-(no-side)",
+      "brand_name": "99 Restaurant",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2642",
+      "food_name": "Chicken or Turkey A La King with Vegetables in Cream, White or Soup-Based Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-or-turkey-a-la-king-with-vegetables-(excluding-carrots-broccoli-and-dark-green-leafy-(no-potatoes))-cream-white-or-soup-based-sauce",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "107131445",
+      "food_name": "King Cake Yogurt D-Lite* - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/king-cake-yogurt-d-lite-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131444",
+      "food_name": "King Cake Yogurt D-Lite* - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/king-cake-yogurt-d-lite-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131442",
+      "food_name": "King Cake Yogurt D-Lite* - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/king-cake-yogurt-d-lite-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29534",
+      "food_name": "Almond Joy Chocolate Bar (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-paul/almond-joy-chocolate-bar-(king-size)",
+      "brand_name": "Peter Paul",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4904606",
+      "food_name": "Mardi Gras King Cake Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-bell/mardi-gras-king-cake-ice-cream",
+      "brand_name": "Blue Bell",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51874131",
+      "food_name": "Fruity Pebbles Candy Bar (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/post/fruity-pebbles-candy-bar-(king-size)",
+      "brand_name": "Post",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71655015",
+      "food_name": "Black Angus King Club Sandwich - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mcalisters-deli/black-angus-king-club-sandwich-half",
+      "brand_name": "McAlister's Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75687797",
+      "food_name": "Three Floyds Alpha King - Big Daddy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hooters/three-floyds-alpha-king-big-daddy",
+      "brand_name": "Hooters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74469666",
+      "food_name": "King Sirloin Tips - Smothered (No Side)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/99-restaurant/king-sirloin-tips-smothered-(no-side)",
+      "brand_name": "99 Restaurant",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75087368",
+      "food_name": "King Arthur’S Supreme Pizza (Glutenfree Crust)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/round-table-pizza/king-arthur%E2%80%99s-supreme-pizza-(glutenfree-crust)",
+      "brand_name": "Round Table Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "227292",
+      "food_name": "Soft Burrito Flour Tortillas (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mi-rancho/soft-burrito-flour-tortillas-(king-size)",
+      "brand_name": "Mi Rancho",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "119904",
+      "food_name": "Marinated Wild White King Salmon Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/marinated-wild-white-king-salmon-fillets",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "203481",
+      "food_name": "Premium Quality King White Enriched Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/holsum/premium-quality-king-white-enriched-bread",
+      "brand_name": "Holsum",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71655025",
+      "food_name": "Grilled Chicken King Club Sandwich - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mcalisters-deli/grilled-chicken-king-club-sandwich-half",
+      "brand_name": "McAlister's Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75687781",
+      "food_name": "Three Floyds Alpha King - 14 fl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hooters/three-floyds-alpha-king-14-fl",
+      "brand_name": "Hooters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75687788",
+      "food_name": "Three Floyds Alpha King - 16 fl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hooters/three-floyds-alpha-king-16-fl",
+      "brand_name": "Hooters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82518073",
+      "food_name": "Chinese Spicy King Pao-Style Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hello-fresh/chinese-spicy-king-pao-style-chicken",
+      "brand_name": "Hello Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "227247",
+      "food_name": "Corn De Maiz Blanco Tortillas (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/guerrero/corn-de-maiz-blanco-tortillas-(king-size)",
+      "brand_name": "Guerrero",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44569458",
+      "food_name": "Fruit By The Foot (King Size Roll)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/general-mills/fruit-by-the-foot-(king-size-roll)",
+      "brand_name": "General Mills",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75087045",
+      "food_name": "King Arthur’S Supreme Pizza - Original Crust - Personal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/round-table-pizza/king-arthur%E2%80%99s-supreme-pizza-original-crust-personal",
+      "brand_name": "Round Table Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75087124",
+      "food_name": "King Arthur’S Supreme Pizza - Original Crust - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/round-table-pizza/king-arthur%E2%80%99s-supreme-pizza-original-crust-medium",
+      "brand_name": "Round Table Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75087260",
+      "food_name": "King Arthur’S Supreme Pizza - Original Crust - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/round-table-pizza/king-arthur%E2%80%99s-supreme-pizza-original-crust-large",
+      "brand_name": "Round Table Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75087320",
+      "food_name": "King Arthur’S Supreme Pizza - Original Crust - XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/round-table-pizza/king-arthur%E2%80%99s-supreme-pizza-original-crust-xl",
+      "brand_name": "Round Table Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75087345",
+      "food_name": "King Arthur’S Supreme Pizza - Stuffed Crust - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/round-table-pizza/king-arthur%E2%80%99s-supreme-pizza-stuffed-crust-large",
+      "brand_name": "Round Table Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65563",
+      "food_name": "Ice Cream Cones - Vanilla & Chocolate (Giant King)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-humor/ice-cream-cones---vanilla-and-chocolate-(giant-king)",
+      "brand_name": "Good Humor",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2923036",
+      "food_name": "Milk Chocolate Bar with Almonds (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hersheys/milk-chocolate-bar-with-almonds-(king-size)",
+      "brand_name": "Hershey's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75089859",
+      "food_name": "Chocolate Chip King Cookie (Select Locations Only)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/round-table-pizza/chocolate-chip-king-cookie-(select-locations-only)",
+      "brand_name": "Round Table Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75087084",
+      "food_name": "King Arthur’S Supreme Pizza - Original Crust - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/round-table-pizza/king-arthur%E2%80%99s-supreme-pizza-original-crust-small",
+      "brand_name": "Round Table Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2641",
+      "food_name": "Chicken or Turkey A La King with Vegetables in Cream, White or Soup-Based Sauce (Including Carrots, Broccoli, and/or Dark-Green Leafy, No Potatoes)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-or-turkey-a-la-king-with-vegetables-(including-carrots-broccoli-and-or-dark-green-leafy-(no-potatoes))-cream-white-or-soup-based-sauce",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "65561",
+      "food_name": "Ice Cream Cones - Triple Chocolate Brownie (Giant King)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-humor/ice-cream-cones---triple-chocolate-brownie-(giant-king)",
+      "brand_name": "Good Humor",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13201955",
+      "food_name": "Seasoned Wild King Salmon on A Cedar Plank",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/seasoned-wild-king-salmon-on-a-cedar-plank",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75089794",
+      "food_name": "King Arthur’S Supreme Pizza - Buffet (Select Locations Only)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/round-table-pizza/king-arthur%E2%80%99s-supreme-pizza-buffet-(select-locations-only)",
+      "brand_name": "Round Table Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74469047",
+      "food_name": "King Crispy Honey Mustard Chicken Salad w/ Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/99-restaurant/king-crispy-honey-mustard-chicken-salad-w-dressing",
+      "brand_name": "99 Restaurant",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75420992",
+      "food_name": "King-Size, Soft Pretzel (with Salt) 5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nathans-famous/king-size-soft-pretzel-(with-salt)-5-oz",
+      "brand_name": "Nathan's Famous",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "399160",
+      "food_name": "Bing Cherries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/cherries-bing",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "75088562",
+      "food_name": "King Arthur’S Supreme Pizza - Pan Crust - Large (Select Locations Only)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/round-table-pizza/king-arthur%E2%80%99s-supreme-pizza-pan-crust-large-(select-locations-only)",
+      "brand_name": "Round Table Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86130403",
+      "food_name": "King Crispy Honey Mustard Chicken Salad w/ Dressing - Group Tour",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/99-restaurant/king-crispy-honey-mustard-chicken-salad-w-dressing-group-tour",
+      "brand_name": "99 Restaurant",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1719",
+      "food_name": "Stewed Chicken Wing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-wing-stewed",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "75088168",
+      "food_name": "King Arthur’S Supreme Pizza - Pan Crust - Personal (Select Locations Only)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/round-table-pizza/king-arthur%E2%80%99s-supreme-pizza-pan-crust-personal-(select-locations-only)",
+      "brand_name": "Round Table Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75088316",
+      "food_name": "King Arthur’S Supreme Pizza - Pan Crust - Medium (Select Locations Only)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/round-table-pizza/king-arthur%E2%80%99s-supreme-pizza-pan-crust-medium-(select-locations-only)",
+      "brand_name": "Round Table Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1713",
+      "food_name": "Chicken Wing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-wing-ns-as-to-skin-eaten",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "5408",
+      "food_name": "Sweet Cherries (Queen Anne, Bing)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/cherries-sweet-raw-(queen-anne-bing)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1777",
+      "food_name": "Turkey Wing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/turkey-wing-cooked",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2587",
+      "food_name": "Kung Pao Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/kung-pao-beef",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2648",
+      "food_name": "Kung Pao Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/kung-pao-chicken",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2683",
+      "food_name": "Kung Pao Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/kung-pao-shrimp",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1714",
+      "food_name": "Chicken Wing (Skin Eaten)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-wing-skin-eaten",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1779",
+      "food_name": "Turkey Wing (Skin Eaten)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/turkey-wing-cooked-skin-eaten",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1863",
+      "food_name": "Smoked Bologna Ring",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/bologna-ring-smoked",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "19671588",
+      "food_name": "Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king/syrup",
+      "brand_name": "King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1780",
+      "food_name": "Smoked Turkey Wing (Skin Eaten)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/turkey-wing-smoked-cooked-skin-eaten",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2610",
+      "food_name": "Kung Pao Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/kung-pao-pork",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "242508",
+      "food_name": "Fiesta Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-henrys/fiesta-mix",
+      "brand_name": "King Henry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "290614",
+      "food_name": "Jamaica (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/jamaica-(large)",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "140542",
+      "food_name": "Roasted and Salted Sunflower Kernels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-henrys/roasted-and-salted-sunflower-kernels",
+      "brand_name": "King Henry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "169223",
+      "food_name": "Flat Anchovies in Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/flat-anchovies-in-olive-oil",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1378134",
+      "food_name": "Braided String Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-cheese/braided-string-cheese",
+      "brand_name": "King Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1409198",
+      "food_name": "Spicy Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/spicy-italian-sausage",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1907934",
+      "food_name": "Sweet Tamale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/sweet-tamale",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1227158",
+      "food_name": "Lite Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/lite-wheat-bread",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1710724",
+      "food_name": "Spicy Pork Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/spicy-pork-sausage",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1122112",
+      "food_name": "Cabeza Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/cabeza-taco",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1743221",
+      "food_name": "Carnitas Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/carnitas-taco",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82130",
+      "food_name": "Jalapeno Pistachios",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-henrys/jalapeno-pistachios",
+      "brand_name": "King Henry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64037",
+      "food_name": "Cherry Chip Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/cherry-chip-cookies",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "432701",
+      "food_name": "Brisling Sardines in Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/brisling-sardines-in-olive-oil",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "505683",
+      "food_name": "Hot Dog Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/hot-dog-buns",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "766009",
+      "food_name": "Green Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/green-salsa",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "923707",
+      "food_name": "Molleja Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/molleja-taco",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "367708",
+      "food_name": "Hickory Smoked Almonds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-henrys/hickory-smoked-almonds",
+      "brand_name": "King Henry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2332361",
+      "food_name": "Horchata (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/horchata-(large)",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2332375",
+      "food_name": "Nachos with Meat - Carne Asada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/nachos-with-meat---carne-asada",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2342945",
+      "food_name": "Mozzarella Rolled with Prosciutto and Basil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-cheese/mozzarella-rolled-with-prosciutto-and-basil",
+      "brand_name": "King Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2477675",
+      "food_name": "Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-harvest/hummus",
+      "brand_name": "King Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2485356",
+      "food_name": "Multi-Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/multi-grain-bread",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2776058",
+      "food_name": "Original Black Angus Beef Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-kalibur/original-black-angus-beef-sticks",
+      "brand_name": "King Kalibur",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2123513",
+      "food_name": "Burrito All Meat - Carne Asada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/burrito-all-meat---carne-asada",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2647319",
+      "food_name": "Wheat Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/wheat-croissant",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2284311",
+      "food_name": "Spicy Black Angus Beef Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-kalibur/spicy-black-angus-beef-sticks",
+      "brand_name": "King Kalibur",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2160638",
+      "food_name": "Chicken  Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/chicken--taco",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2001688",
+      "food_name": "Roasted & Salted Cashews",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-henrys/roasted-and-salted-cashews",
+      "brand_name": "King Henry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2036479",
+      "food_name": "Chicken Tamale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/chicken-tamale",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2036486",
+      "food_name": "Pork Tamale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/pork-tamale",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2036495",
+      "food_name": "Cheese & Jalapenos Tamale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/cheese-and-jalapenos-tamale",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4551865",
+      "food_name": "Breakfast Burrito with Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/breakfast-burrito-with-bacon",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4610482",
+      "food_name": "Beer Bratwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/beer-bratwurst",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4710523",
+      "food_name": "Spinach Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-harvest/spinach-hummus",
+      "brand_name": "King Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5085318",
+      "food_name": "Potato Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/potato-rolls",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15477942",
+      "food_name": "Wild Caught Sardines in Extra Virgin Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/wild-caught-sardines-in-extra-virgin-olive-oil",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17049613",
+      "food_name": "Chocolate Raisins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-henrys/chocolate-raisins",
+      "brand_name": "King Henry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4313220",
+      "food_name": "Breakfast Burrito with Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/breakfast-burrito-with-ham",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4350468",
+      "food_name": "Almond Poppyseed Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/almond-poppyseed-muffin",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3886772",
+      "food_name": "Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-cotton/bacon",
+      "brand_name": "King Cotton",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3234744",
+      "food_name": "Sardines in Extra Virgin Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/sardines-in-extra-virgin-olive-oil",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4081347",
+      "food_name": "Multigrain French Baguette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/multigrain-french-baguette",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8639676",
+      "food_name": "Stick Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-leo/stick-candy",
+      "brand_name": "King Leo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12091554",
+      "food_name": "Organic Brown Rice Ramen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soba/organic-brown-rice-ramen",
+      "brand_name": "King Soba",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9630676",
+      "food_name": "Norwegian Cod Liver",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/norwegian-cod-liver",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8856541",
+      "food_name": "Sardines in Extra Virgin Olive Oil with Spicy Cracked Pepper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/sardines-in-extra-virgin-olive-oil-with-spicy-cracked-pepper",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11494799",
+      "food_name": "Skinless & Boneless Sardines in Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/skinless-boneless-sardines-in-olive-oil",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11288187",
+      "food_name": "Brazil Nut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-henrys/brazil-nut",
+      "brand_name": "King Henry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21377820",
+      "food_name": "Old Fashioned White Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/old-fashioned-white-bread",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61710112",
+      "food_name": "Organic Thai Rice Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soba/organic-thai-rice-noodles",
+      "brand_name": "King Soba",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61885053",
+      "food_name": "Al Pastor Taco (74g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/al-pastor-taco-(74g)",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75621299",
+      "food_name": "Salmon Mediterranean Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/salmon-mediterranean-style",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76545617",
+      "food_name": "Whole Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/whole-milk",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78912259",
+      "food_name": "Salmon in Extra Virgin Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/salmon-in-extra-virgin-olive-oil",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103485465",
+      "food_name": "Salmon in Extra Virgin Olive Oil with Lemon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/salmon-in-extra-virgin-olive-oil-with-lemon",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "290605",
+      "food_name": "Horchata (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/horchata-(medium)",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1495825",
+      "food_name": "Telera Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/telera-roll",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1551718",
+      "food_name": "Chicken Sope",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/chicken-sope",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1430041",
+      "food_name": "Beef Tenderloin Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/beef-tenderloin-steak",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1457029",
+      "food_name": "Soft Peppermint Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-leo/soft-peppermint-puffs",
+      "brand_name": "King Leo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1097372",
+      "food_name": "Lengua Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/lengua-taco",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62707",
+      "food_name": "Sour Balls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-henrys/sour-balls",
+      "brand_name": "King Henry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64175",
+      "food_name": "2% Reduced Fat Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/2%25-reduced-fat-milk",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64178",
+      "food_name": "Hamburger Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/hamburger-patty",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64182",
+      "food_name": "Vitamin D Chocolate Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/vitamin-d-chocolate-milk",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "406342",
+      "food_name": "Cinnamon Bears",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-henrys/cinnamon-bears",
+      "brand_name": "King Henry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "491087",
+      "food_name": "Raw Almonds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-henrys/raw-almonds",
+      "brand_name": "King Henry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "735781",
+      "food_name": "Cabeza Sope",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/cabeza-sope",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "766008",
+      "food_name": "Red Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/red-salsa",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "810311",
+      "food_name": "Smoked Kippered Herring",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/smoked-kippered-herring",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1011990",
+      "food_name": "Jamaica (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/jamaica-(medium)",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "401300",
+      "food_name": "Sardines in Dijon Mustard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/sardines-in-dijon-mustard",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2405316",
+      "food_name": "Carne Asada Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/carne-asada-taco",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2576605",
+      "food_name": "Lowfat Plain Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/lowfat-plain-yogurt",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1952611",
+      "food_name": "Quesadilla with Meat - Carne Asada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/quesadilla-with-meat---carne-asada",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2149999",
+      "food_name": "Wild Caught Sardines in Pure Spring Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/wild-caught-sardines-in-pure-spring-water",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2153180",
+      "food_name": "1% Lowfat Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/1%25-lowfat-milk",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2160611",
+      "food_name": "Carne Asada Sope",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/carne-asada-sope",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2160615",
+      "food_name": "Al Pastor Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/al-pastor-taco",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2192750",
+      "food_name": "White French Baguette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/white-french-baguette",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2195542",
+      "food_name": "Chicken Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/chicken-burrito",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2796264",
+      "food_name": "Roasted Garlic Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-harvest/roasted-garlic-hummus",
+      "brand_name": "King Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5699079",
+      "food_name": "Bratwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/bratwurst",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2958574",
+      "food_name": "Old Fashioned Multi-Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/old-fashioned-multi-grain-bread",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13773441",
+      "food_name": "Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/chocolate-chip-cookie",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14110250",
+      "food_name": "100% Stone Ground Whole Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/100%25-stone-ground-whole-wheat-bread",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14287952",
+      "food_name": "Anchovies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/anchovies",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15751765",
+      "food_name": "Grade AA Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/grade-aa-eggs",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12812151",
+      "food_name": "Mackerel in Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/mackerel-in-olive-oil",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13027921",
+      "food_name": "Mango Con Chile (Mango with Chili)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-henrys/mango-con-chile-(mango-with-chili)",
+      "brand_name": "King Henry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3213197",
+      "food_name": "Kipper Snacks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/kipper-snacks",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3423392",
+      "food_name": "Black Rice Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soba/black-rice-noodles",
+      "brand_name": "King Soba",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2097395",
+      "food_name": "Al Pastor Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/al-pastor-burrito",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2123518",
+      "food_name": "Carne Asada Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/carne-asada-burrito",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3120570",
+      "food_name": "100% Stone Ground Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soopers/100%25-stone-ground-bread",
+      "brand_name": "King Soopers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7903800",
+      "food_name": "Sardines in Extra Virgin Olive Oil with Hot Jalapeño Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/sardines-in-extra-virgin-olive-oil-with-hot-jalapeño-peppers",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8620029",
+      "food_name": "Organic Buckwheat Ramen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soba/organic-buckwheat-ramen",
+      "brand_name": "King Soba",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10574599",
+      "food_name": "Sardines in Zesty Tomato Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/sardines-in-zesty-tomato-sauce",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10688803",
+      "food_name": "Spirella Minis Prosciutto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-cheese/spirella-minis-prosciutto",
+      "brand_name": "King Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28266046",
+      "food_name": "Suadero Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-taco/suadero-taco",
+      "brand_name": "King Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25568801",
+      "food_name": "Spirella Minis Sopressata",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-cheese/spirella-minis-sopressata",
+      "brand_name": "King Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22330624",
+      "food_name": "Wild Caught Sardines in Tapatio Hot Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/wild-caught-sardines-in-tapatio-hot-sauce",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22764552",
+      "food_name": "Mackerel Mediterranean Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/mackerel-mediterranean-style",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23777147",
+      "food_name": "Spanish Style Sardines",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/spanish-style-sardines",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21091484",
+      "food_name": "Organic Buckwheat Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soba/organic-buckwheat-noodles",
+      "brand_name": "King Soba",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65264505",
+      "food_name": "Mackerel with Jalapeño Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/mackerel-with-jalape%C3%B1o-peppers",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37689870",
+      "food_name": "Red Pepper Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-harvest/red-pepper-hummus",
+      "brand_name": "King Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38728834",
+      "food_name": "Black Olive Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-harvest/black-olive-hummus",
+      "brand_name": "King Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40235591",
+      "food_name": "Mackerel in Olive Oil with Lemon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/mackerel-in-olive-oil-with-lemon",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46819760",
+      "food_name": "Skinless & Boneless Sardines",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/skinless-boneless-sardines",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20358547",
+      "food_name": "Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-cotton/smoked-sausage",
+      "brand_name": "King Cotton",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3238921",
+      "food_name": "Sardines Mediterranean Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-oscar/sardines-mediterranean-style",
+      "brand_name": "King Oscar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1715",
+      "food_name": "Chicken Wing (Skin Not Eaten)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-wing-skin-not-eaten",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1720",
+      "food_name": "Stewed Chicken Wing (Skin Eaten)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-wing-stewed-skin-eaten",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1722",
+      "food_name": "Fried Chicken Wing No Coating",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-wing-fried-no-coating",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1778",
+      "food_name": "Turkey Wing (Skin Not Eaten)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/turkey-wing-cooked-skin-not-eaten",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1928419",
+      "food_name": "Gluten Free Multi-Purpose Flour",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/gluten-free-multi-purpose-flour",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44582",
+      "food_name": "Pecan-Cinnamon Scone Mix (with Butter & 1% Milk)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/pecan-cinnamon-scone-mix-(with-butter-and-1%25-milk)",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "421771",
+      "food_name": "Unbleached Bread Flour",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/unbleached-bread-flour",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "974462",
+      "food_name": "Vermont Cheese Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/vermont-cheese-powder",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6284747",
+      "food_name": "Lemon Ginger Scone Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/lemon-ginger-scone-mix",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5071374",
+      "food_name": "Unbleached Cake Flour Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/unbleached-cake-flour-blend",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5496982",
+      "food_name": "Roast Beef Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/roast-beef-sandwich",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13878936",
+      "food_name": "Gluten Free All-Purpose Baking Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/gluten-free-all-purpose-baking-mix",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16902331",
+      "food_name": "Double-Dutch Dark Cocoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/double-dutch-dark-cocoa",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3124978",
+      "food_name": "Whole Flax Meal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/whole-flax-meal",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26233044",
+      "food_name": "Super Finely Ground Almond Flour",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/super-finely-ground-almond-flour",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44822488",
+      "food_name": "Gluten Free Super Fudge Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/gluten-free-super-fudge-brownie",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68835816",
+      "food_name": "Classic Sourdough Waffles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/classic-sourdough-waffles",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11484225",
+      "food_name": "Almond Flour",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/almond-flour",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1793599",
+      "food_name": "Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-nut-companies/pretzels",
+      "brand_name": "King Nut Companies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "710424",
+      "food_name": "Cranberry Nut Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-nut-companies/cranberry-nut-mix",
+      "brand_name": "King Nut Companies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2139177",
+      "food_name": "Premium 100% Whole Wheat Flour",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/premium-100%25-whole-wheat-flour",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5420983",
+      "food_name": "Unbleached All-Purpose Flour",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/unbleached-all-purpose-flour",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5863590",
+      "food_name": "Gluten Free Muffin Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/gluten-free-muffin-mix",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14777549",
+      "food_name": "Golden Flax Meal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/golden-flax-meal",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4105120",
+      "food_name": "Gluten Free Pancake Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/gluten-free-pancake-mix",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3265373",
+      "food_name": "Unbleached White Whole Wheat Flour",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/unbleached-white-whole-wheat-flour",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12648848",
+      "food_name": "100% Whole Wheat Flour",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/100%25-whole-wheat-flour",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9310347",
+      "food_name": "Coconut Flour",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/coconut-flour",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35019279",
+      "food_name": "Gluten Free Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/gluten-free-chocolate-chip-cookie",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70456761",
+      "food_name": "Plant Protein Pancake Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-arthur-flour/plant-protein-pancake-mix",
+      "brand_name": "King Arthur Flour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "357514",
+      "food_name": "Mini White Pocket Pita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-of-pita-bakery/mini-white-pocket-pita",
+      "brand_name": "King of Pita Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1724",
+      "food_name": "Fried Chicken Wing No Coating (Skin Not Eaten)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-wing-fried-no-coating-skin-not-eaten",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1725",
+      "food_name": "Baked or Fried Coated Chicken Wing with Skin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-wing-coated-baked-or-fried-prepared-with-skin",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1716",
+      "food_name": "Roasted Broiled or Baked Chicken Wing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-wing-roasted-broiled-or-baked",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1721",
+      "food_name": "Stewed Chicken Wing (Skin Not Eaten)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-wing-stewed-skin-not-eaten",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1723",
+      "food_name": "Fried Chicken Wing No Coating (Skin Eaten)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-wing-fried-no-coating-skin-eaten",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2259",
+      "food_name": "Chicken Wing with Hot Pepper Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-wing-with-hot-pepper-sauce",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "112202",
+      "food_name": "Corn Starch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsfords/corn-starch",
+      "brand_name": "Kingsford's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76589",
+      "food_name": "The Original Hawaiian Sweet Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/the-original-hawaiian-sweet-bread",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83229",
+      "food_name": "Smoked Gouda Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-choice/smoked-gouda-cheese",
+      "brand_name": "King's Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84348",
+      "food_name": "Honey Wheat Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/honey-wheat-rolls",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "858201",
+      "food_name": "Kimchi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings/kimchi",
+      "brand_name": "King's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2518786",
+      "food_name": "Sandwich Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/sandwich-buns",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2553208",
+      "food_name": "Hawaiian Sweet Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/hawaiian-sweet-rolls",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2237144",
+      "food_name": "Original Hawaiian Sweet Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/original-hawaiian-sweet-rolls",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2989099",
+      "food_name": "Mini Sub Rolls (62g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/mini-sub-rolls-(62g)",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6715266",
+      "food_name": "Shredded Crab Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingfisher/shredded-crab-meat",
+      "brand_name": "Kingfisher",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6966334",
+      "food_name": "Mini Sub Rolls (59g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/mini-sub-rolls-(59g)",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13554489",
+      "food_name": "Deluxe Hamburger Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/deluxe-hamburger-buns",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3412957",
+      "food_name": "Savory Butter Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/savory-butter-rolls",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3718485",
+      "food_name": "Hamburger Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/hamburger-buns",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8160513",
+      "food_name": "Veggie Delight Scrambler",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings/veggie-delight-scrambler",
+      "brand_name": "King's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22456354",
+      "food_name": "Seasoned Pork Carnitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/seasoned-pork-carnitas",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56267498",
+      "food_name": "Sliced Hawaiian Sweet Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/sliced-hawaiian-sweet-bread",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37414776",
+      "food_name": "Baked Beans with Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/baked-beans-with-bacon",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31636409",
+      "food_name": "Apple Pear",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsburg-orchards/apple-pear",
+      "brand_name": "Kingsburg Orchards",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84653451",
+      "food_name": "Soft Pretzel Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/soft-pretzel-bites",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "916974",
+      "food_name": "Hawaiian Sweet Snacker Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/hawaiian-sweet-snacker-roll",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2091705",
+      "food_name": "Hawaiian Sweet Sandwich Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/hawaiian-sweet-sandwich-rolls",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6384426",
+      "food_name": "Original Hawaiian Sweet Sliced Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/original-hawaiian-sweet-sliced-bread",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15404012",
+      "food_name": "Hawaiian Sweet Hamburger Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/hawaiian-sweet-hamburger-buns",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17760383",
+      "food_name": "BBQ Sauce Original Sweet Pineapple",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/bbq-sauce-original-sweet-pineapple",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20525124",
+      "food_name": "Pulled Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/pulled-pork",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3489070",
+      "food_name": "Hot Dog Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/hot-dog-buns",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12854859",
+      "food_name": "Organic Sharp Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingdom/organic-sharp-cheddar-cheese",
+      "brand_name": "Kingdom",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28378092",
+      "food_name": "Center Cut Pork Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/center-cut-pork-ribs",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28703941",
+      "food_name": "Brown Sugar Molasses Baked Beans with Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/brown-sugar-molasses-baked-beans-with-pork",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23600076",
+      "food_name": "Pulled Beef Brisket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/pulled-beef-brisket",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60083118",
+      "food_name": "Sweet Pretzel Slider Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/sweet-pretzel-slider-buns",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58885150",
+      "food_name": "Pretzel Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/pretzel-bites",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68834418",
+      "food_name": "Sweet Pretzel Hamburger Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kings-hawaiian/sweet-pretzel-hamburger-buns",
+      "brand_name": "King's Hawaiian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50996028",
+      "food_name": "Boneless Pork Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/boneless-pork-ribs",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25625118",
+      "food_name": "Baby Back Pork Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/baby-back-pork-ribs",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72724970",
+      "food_name": "Pulled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/pulled-chicken",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81102252",
+      "food_name": "Organic Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingdom/organic-cheddar-cheese",
+      "brand_name": "Kingdom",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38008",
+      "food_name": "Ling (Fish)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/ling-(fish)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1717",
+      "food_name": "Roasted Broiled or Baked Chicken Wing (Skin Eaten)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-wing-roasted-broiled-or-baked-skin-eaten",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1718",
+      "food_name": "Roasted Broiled or Baked Chicken Wing (Skin Not Eaten)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-wing-roasted-broiled-or-baked-skin-not-eaten",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1726",
+      "food_name": "Baked or Fried Coated Chicken Wing with Skin (Skin/Coating Eaten)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-wing-coated-baked-or-fried-prepared-with-skin-skin-coating-eaten",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1727",
+      "food_name": "Baked or Fried Coated Chicken Wing with Skin (Skin/Coating Not Eaten)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-wing-coated-baked-or-fried-prepared-with-skin-skin-coating-not-eaten",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34612",
+      "food_name": "Turkey Wing Meat (Fryer-Roasters)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/turkey-wing-meat-(fryer-roasters)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "38158",
+      "food_name": "Ling (Fish) (Cooked, Dry Heat)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/ling-(fish)-(cooked-dry-heat)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34610",
+      "food_name": "Turkey Wing Meat and Skin (Fryer-Roasters)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/turkey-wing-meat-and-skin-(fryer-roasters)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34636",
+      "food_name": "Turkey Wing Meat and Skin (Young Hen)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/turkey-wing-meat-and-skin-(young-hen)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34660",
+      "food_name": "Turkey Wing Meat and Skin (Young Tom)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/turkey-wing-meat-and-skin-(young-tom)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34581",
+      "food_name": "Turkey Wing Meat and Skin (Cooked, Roasted)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/turkey-wing-meat-and-skin-(cooked-roasted)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34580",
+      "food_name": "Turkey Wing Meat and Skin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/turkey-wing-meat-and-skin",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "39883",
+      "food_name": "Chicken (Breast or Wing, Breaded and Fried, Light Meat)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chicken-(breast-or-wing-breaded-and-fried-light-meat)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34690",
+      "food_name": "Chicken Wing, (Barbecue Flavored, Glazed, Frozen, Oven Heated)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chicken-wing-(barbecue-flavored-glazed-frozen-oven-heated)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34491",
+      "food_name": "Chicken Wing Meat (Broilers or Fryers, Flour, Fried, Cooked)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chicken-wing-meat-(broilers-or-fryers-flour-fried-cooked)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34637",
+      "food_name": "Turkey Wing Meat and Skin (Young Hen, Cooked, Roasted)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/turkey-wing-meat-and-skin-(young-hen-cooked-roasted)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34613",
+      "food_name": "Turkey Wing Meat (Fryer-Roasters, Cooked, Roasted)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/turkey-wing-meat-(fryer-roasters-cooked-roasted)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34490",
+      "food_name": "Chicken Wing Meat (Broilers or Fryers)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chicken-wing-meat-(broilers-or-fryers)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34684",
+      "food_name": "Chicken Wing, (Barbecue Flavored, Glazed, Frozen)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chicken-wing-(barbecue-flavored-glazed-frozen)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34488",
+      "food_name": "Chicken Wing Meat and Skin (Broilers or Fryers, Roasted, Cooked)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chicken-wing-meat-and-skin-(broilers-or-fryers-roasted-cooked)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34492",
+      "food_name": "Chicken Wing Meat (Broilers or Fryers, Roasted, Cooked)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chicken-wing-meat-(broilers-or-fryers-roasted-cooked)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34611",
+      "food_name": "Turkey Wing Meat and Skin (Fryer-Roasters, Cooked, Roasted)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/turkey-wing-meat-and-skin-(fryer-roasters-cooked-roasted)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34485",
+      "food_name": "Chicken Wing Meat and Skin (Broilers or Fryers)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chicken-wing-meat-and-skin-(broilers-or-fryers)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34661",
+      "food_name": "Turkey Wing Meat and Skin (Young Tom, Cooked, Roasted)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/turkey-wing-meat-and-skin-(young-tom-cooked-roasted)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "40749",
+      "food_name": "Turkey Wing (with Skin, Bone Removed, Smoked, Cooked)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/turkey-wing-(with-skin-bone-removed-smoked-cooked)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34489",
+      "food_name": "Chicken Wing Meat and Skin (Broilers or Fryers, Stewed, Cooked)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chicken-wing-meat-and-skin-(broilers-or-fryers-stewed-cooked)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34493",
+      "food_name": "Chicken Wing Meat (Broilers or Fryers, Stewed, Cooked)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chicken-wing-meat-(broilers-or-fryers-stewed-cooked)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34685",
+      "food_name": "Chicken Wing, (Barbecue Flavored, Glazed, Frozen, Microwave Heated)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chicken-wing-(barbecue-flavored-glazed-frozen-microwave-heated)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34486",
+      "food_name": "Chicken Wing Meat and Skin (Broilers or Fryers, Batter, Fried, Cooked)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chicken-wing-meat-and-skin-(broilers-or-fryers-batter-fried-cooked)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34487",
+      "food_name": "Chicken Wing Meat and Skin (Broilers or Fryers, Flour, Fried, Cooked)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chicken-wing-meat-and-skin-(broilers-or-fryers-flour-fried-cooked)",
+      "brand_name": "King",
+      "food_type": "Generic"
+    }
+  ]
+}

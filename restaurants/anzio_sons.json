@@ -1,0 +1,48 @@
+{
+  "restaurant": "Anzio & Sons",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 15,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:55:42.060Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/anzio_sons.json",
+  "items": [
+    {
+      "food_id": "2671810",
+      "food_name": "Sub Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/anzio-and-sons/sub-roll",
+      "brand_name": "Anzio & Sons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5804760",
+      "food_name": "Club Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/anzio-and-sons/club-roll",
+      "brand_name": "Anzio & Sons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "496299",
+      "food_name": "Kaiser Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/anzio-and-sons/kaiser-rolls",
+      "brand_name": "Anzio & Sons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89742",
+      "food_name": "Hearty Sandwich Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/anzio-and-sons/hearty-sandwich-rolls",
+      "brand_name": "Anzio & Sons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53566",
+      "food_name": "Whole Wheat Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/anzio-and-sons/whole-wheat-rolls",
+      "brand_name": "Anzio & Sons",
+      "food_type": "Brand"
+    }
+  ]
+}

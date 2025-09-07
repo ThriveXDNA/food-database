@@ -1,0 +1,69 @@
+{
+  "restaurant": "Springer Mountain Farms",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 326,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:11:47.779Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/springer_mountain_farms.json",
+  "items": [
+    {
+      "food_id": "40465992",
+      "food_name": "Oven Roasted Fully Cooked Chicken Breast Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/springer-mountain-farms/oven-roasted-fully-cooked-chicken-breast-strips",
+      "brand_name": "Springer Mountain Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3106520",
+      "food_name": "Boneless Skinless Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/springer-mountain-farms/boneless-skinless-chicken-breast",
+      "brand_name": "Springer Mountain Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45846175",
+      "food_name": "Ground White Chicken Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/springer-mountain-farms/ground-white-chicken-meat",
+      "brand_name": "Springer Mountain Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40378824",
+      "food_name": "Chicken Breast Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/springer-mountain-farms/chicken-breast-slices",
+      "brand_name": "Springer Mountain Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55920562",
+      "food_name": "Chicken Burgers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/springer-mountain-farms/chicken-burgers",
+      "brand_name": "Springer Mountain Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58737720",
+      "food_name": "Buffalo Chicken Wings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/springer-mountain-farms/buffalo-chicken-wings",
+      "brand_name": "Springer Mountain Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40124881",
+      "food_name": "Chicken Breast Chunks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/springer-mountain-farms/chicken-breast-chunks",
+      "brand_name": "Springer Mountain Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46559949",
+      "food_name": "Gluten Free Chicken Breast Chunks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/springer-mountain-farms/gluten-free-chicken-breast-chunks",
+      "brand_name": "Springer Mountain Farms",
+      "food_type": "Brand"
+    }
+  ]
+}

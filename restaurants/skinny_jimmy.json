@@ -1,0 +1,27 @@
+{
+  "restaurant": "Skinny Jimmy",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 325,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:40:36.381Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/skinny_jimmy.json",
+  "items": [
+    {
+      "food_id": "25724900",
+      "food_name": "Chocolate Peanut Butter Clean Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skinny-jimmy/chocolate-peanut-butter-clean-protein-bar",
+      "brand_name": "Skinny Jimmy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54159818",
+      "food_name": "Wake It Up White Chocolate Cafe Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skinny-jimmy/wake-it-up-white-chocolate-cafe-latte",
+      "brand_name": "Skinny Jimmy",
+      "food_type": "Brand"
+    }
+  ]
+}

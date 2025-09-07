@@ -1,0 +1,48 @@
+{
+  "restaurant": "ChocoPerfection",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:07:16.331Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/chocoperfection.json",
+  "items": [
+    {
+      "food_id": "1658388",
+      "food_name": "Raspberry Dark Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chocoperfection/raspberry-dark-chocolate-bar",
+      "brand_name": "ChocoPerfection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4640241",
+      "food_name": "Dark Mint Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chocoperfection/dark-mint-chocolate-bar",
+      "brand_name": "ChocoPerfection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6979149",
+      "food_name": "Dark Orange Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chocoperfection/dark-orange-chocolate-bar",
+      "brand_name": "ChocoPerfection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1501453",
+      "food_name": "Almond Dark Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chocoperfection/almond-dark-chocolate-bar",
+      "brand_name": "ChocoPerfection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "893647",
+      "food_name": "Dark European Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chocoperfection/dark-european-chocolate-bar",
+      "brand_name": "ChocoPerfection",
+      "food_type": "Brand"
+    }
+  ]
+}

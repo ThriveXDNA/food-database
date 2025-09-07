@@ -1,0 +1,27 @@
+{
+  "restaurant": "Pico Pica",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 81,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:42:04.068Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pico_pica.json",
+  "items": [
+    {
+      "food_id": "9564837",
+      "food_name": "Menudo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pico-pica/menudo",
+      "brand_name": "Pico Pica",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2111466",
+      "food_name": "Hot Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pico-pica/hot-sauce",
+      "brand_name": "Pico Pica",
+      "food_type": "Brand"
+    }
+  ]
+}

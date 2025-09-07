@@ -1,0 +1,20 @@
+{
+  "restaurant": "The Keto Bakery",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 1752,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:15:51.324Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_keto_bakery.json",
+  "items": [
+    {
+      "food_id": "28006524",
+      "food_name": "Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-keto-bakery/chocolate-chip-cookie",
+      "brand_name": "The Keto Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

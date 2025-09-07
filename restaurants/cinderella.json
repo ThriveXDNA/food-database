@@ -1,0 +1,41 @@
+{
+  "restaurant": "Cinderella",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:46:29.087Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cinderella.json",
+  "items": [
+    {
+      "food_id": "37257000",
+      "food_name": "Napoleon Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cinderella/napoleon-cake",
+      "brand_name": "Cinderella",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14271728",
+      "food_name": "Lite Russian Rye",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cinderella/lite-russian-rye",
+      "brand_name": "Cinderella",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37111356",
+      "food_name": "Raspberry Strudel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cinderella/raspberry-strudel",
+      "brand_name": "Cinderella",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75710883",
+      "food_name": "Russian White",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cinderella/russian-white",
+      "brand_name": "Cinderella",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "restaurant": "Ledo Pizza",
+  "total_items": 11,
+  "pages_extracted": 6,
+  "total_search_results": 6390,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:22:08.437Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ledo_pizza.json",
+  "items": [
+    {
+      "food_id": "5656952",
+      "food_name": "Gluten Free Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ledo-pizza/gluten-free-pizza",
+      "brand_name": "Ledo Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1655523",
+      "food_name": "Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ledo-pizza/cheese-pizza",
+      "brand_name": "Ledo Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7827720",
+      "food_name": "Veggie Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ledo-pizza/veggie-pizza",
+      "brand_name": "Ledo Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7707204",
+      "food_name": "Skinny Avocado & Chopped Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ledo-pizza/skinny-avocado-and-chopped-chicken-salad",
+      "brand_name": "Ledo Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6046342",
+      "food_name": "Chicken Chop Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ledo-pizza/chicken-chop-salad",
+      "brand_name": "Ledo Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6250826",
+      "food_name": "Turkey Avocado Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ledo-pizza/turkey-avocado-sub",
+      "brand_name": "Ledo Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55250469",
+      "food_name": "Cauliflower Crust Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ledo-pizza/cauliflower-crust-pizza",
+      "brand_name": "Ledo Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "972905",
+      "food_name": "Italian Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ledo-pizza/italian-salad",
+      "brand_name": "Ledo Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1940317",
+      "food_name": "Spicy Toasted Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ledo-pizza/spicy-toasted-ravioli",
+      "brand_name": "Ledo Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6470745",
+      "food_name": "Ledo Pizza and Pasta Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ledo-pizza/ledo-pizza-and-pasta-sauce",
+      "brand_name": "Ledo Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1290479",
+      "food_name": "Hot Grilled Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ledo-pizza/hot-grilled-chicken-salad",
+      "brand_name": "Ledo Pizza",
+      "food_type": "Brand"
+    }
+  ]
+}

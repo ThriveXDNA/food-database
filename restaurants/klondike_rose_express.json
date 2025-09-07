@@ -1,0 +1,27 @@
+{
+  "restaurant": "Klondike Rose Express",
+  "total_items": 2,
+  "pages_extracted": 5,
+  "total_search_results": 219,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:46:51.954Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/klondike_rose_express.json",
+  "items": [
+    {
+      "food_id": "15316972",
+      "food_name": "Baby Idaho Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/klondike-rose-express/baby-idaho-potatoes",
+      "brand_name": "Klondike Rose Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45948016",
+      "food_name": "Klondike Cones",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/klondike/klondike-cones",
+      "brand_name": "Klondike",
+      "food_type": "Brand"
+    }
+  ]
+}

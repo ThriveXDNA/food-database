@@ -1,0 +1,69 @@
+{
+  "restaurant": "Oregon Chai",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 393,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:36:44.233Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/oregon_chai.json",
+  "items": [
+    {
+      "food_id": "237202",
+      "food_name": "Sugar-Free Original Chai Tea Latte Liquid Concentrate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oregon-chai/sugar-free-original-chai-tea-latte-liquid-concentrate",
+      "brand_name": "Oregon Chai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "237203",
+      "food_name": "The Original Chai Tea Latte Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oregon-chai/the-original-chai-tea-latte-mix",
+      "brand_name": "Oregon Chai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "210771",
+      "food_name": "Vanilla Chai Tea Latte Concentrate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oregon-chai/vanilla-chai-tea-latte-concentrate",
+      "brand_name": "Oregon Chai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44820313",
+      "food_name": "Slightly Sweet Chai Tea Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oregon-chai/slightly-sweet-chai-tea-latte",
+      "brand_name": "Oregon Chai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5158374",
+      "food_name": "Vanilla Chai Tea Latte Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oregon-chai/vanilla-chai-tea-latte-mix",
+      "brand_name": "Oregon Chai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "237201",
+      "food_name": "Matcha Green Tea Chai Tea Latte Liquid Concentrate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oregon-chai/matcha-green-tea-chai-tea-latte-liquid-concentrate",
+      "brand_name": "Oregon Chai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2408422",
+      "food_name": "Slightly Sweet Original Chai Tea Latte Concentrate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oregon-chai/slightly-sweet-original-chai-tea-latte-concentrate",
+      "brand_name": "Oregon Chai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "237200",
+      "food_name": "Caffeine-Free Original Chai Tea Latte Liquid Concentrate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oregon-chai/caffeine-free-original-chai-tea-latte-liquid-concentrate",
+      "brand_name": "Oregon Chai",
+      "food_type": "Brand"
+    }
+  ]
+}

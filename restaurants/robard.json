@@ -1,0 +1,69 @@
+{
+  "restaurant": "Robard",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:03:54.599Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/robard.json",
+  "items": [
+    {
+      "food_id": "11487109",
+      "food_name": "Cinnamon Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/robard/cinnamon-bar",
+      "brand_name": "Robard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11487096",
+      "food_name": "Pretzel Twists",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/robard/pretzel-twists",
+      "brand_name": "Robard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11487103",
+      "food_name": "Caramel Cocoa Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/robard/caramel-cocoa-bar",
+      "brand_name": "Robard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11487121",
+      "food_name": "Peanut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/robard/peanut-bar",
+      "brand_name": "Robard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11655754",
+      "food_name": "Shortbread Cookie Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/robard/shortbread-cookie-bar",
+      "brand_name": "Robard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11655773",
+      "food_name": "Chocolate Almond Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/robard/chocolate-almond-bar",
+      "brand_name": "Robard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11487127",
+      "food_name": "Dark Chocolate S’mores Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/robard/dark-chocolate-smores-bar",
+      "brand_name": "Robard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11655741",
+      "food_name": "Peanut Butter Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/robard/peanut-butter-bar",
+      "brand_name": "Robard",
+      "food_type": "Brand"
+    }
+  ]
+}

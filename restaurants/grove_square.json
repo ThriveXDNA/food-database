@@ -1,0 +1,69 @@
+{
+  "restaurant": "Grove Square",
+  "total_items": 8,
+  "pages_extracted": 3,
+  "total_search_results": 118,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:07:38.889Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/grove_square.json",
+  "items": [
+    {
+      "food_id": "2554598",
+      "food_name": "Caramel Cappuccino K Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grove-square/caramel-cappuccino-k-cup",
+      "brand_name": "Grove Square",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2589389",
+      "food_name": "French Vanilla Cappuccino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grove-square/french-vanilla-cappuccino",
+      "brand_name": "Grove Square",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2945557",
+      "food_name": "Cappuccino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grove-square/cappuccino",
+      "brand_name": "Grove Square",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6746501",
+      "food_name": "Chai Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grove-square/chai-latte",
+      "brand_name": "Grove Square",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4535049",
+      "food_name": "Hazelnut Cappuccino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grove-square/hazelnut-cappuccino",
+      "brand_name": "Grove Square",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2868779",
+      "food_name": "Hot Cocoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grove-square/hot-cocoa",
+      "brand_name": "Grove Square",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2804467",
+      "food_name": "Spiced Apple Cider",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grove-square/spiced-apple-cider",
+      "brand_name": "Grove Square",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8617726",
+      "food_name": "Pumpkin Spice Cappuccino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grove-square/pumpkin-spice-cappuccino",
+      "brand_name": "Grove Square",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "restaurant": "Beast",
+  "total_items": 13,
+  "pages_extracted": 1,
+  "total_search_results": 13,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:59:48.349Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/beast.json",
+  "items": [
+    {
+      "food_id": "12674531",
+      "food_name": "Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beast/protein",
+      "brand_name": "Beast",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43603899",
+      "food_name": "Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beast/protein-bar",
+      "brand_name": "Beast",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72451165",
+      "food_name": "Energy Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beast/energy-cookie",
+      "brand_name": "Beast",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299493",
+      "food_name": "The Beast - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/the-beast-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154039",
+      "food_name": "Beast Style Triple Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mrbeast-burger/beast-style-triple-burger",
+      "brand_name": "Mrbeast Burger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154094",
+      "food_name": "Impossible Beast Style Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mrbeast-burger/impossible-beast-style-burger",
+      "brand_name": "Mrbeast Burger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542077",
+      "food_name": "6-inch The Beast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-the-beast",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20765302",
+      "food_name": "Beast Burger 2.0",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beyond-meat/beast-burger-20",
+      "brand_name": "Beyond Meat",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154038",
+      "food_name": "Beast Style Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mrbeast-burger/beast-style-burger",
+      "brand_name": "MrBeast Burger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96907932",
+      "food_name": "The Beast Mac",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/myfitfoods/the-beast-mac",
+      "brand_name": "MyFitFoods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299431",
+      "food_name": "The Beast Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/the-beast-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154106",
+      "food_name": "Beast Style Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mrbeast-burger/beast-style-fries",
+      "brand_name": "Mrbeast Burger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9288057",
+      "food_name": "Beast Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beyond-meat/beast-burger",
+      "brand_name": "Beyond Meat",
+      "food_type": "Brand"
+    }
+  ]
+}

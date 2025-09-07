@@ -1,0 +1,62 @@
+{
+  "restaurant": "Great Range",
+  "total_items": 7,
+  "pages_extracted": 4,
+  "total_search_results": 187,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:14:56.640Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/great_range.json",
+  "items": [
+    {
+      "food_id": "59349",
+      "food_name": "Ground Bison",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-range/ground-bison",
+      "brand_name": "Great Range",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4926325",
+      "food_name": "Bison",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-range/bison",
+      "brand_name": "Great Range",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2674816",
+      "food_name": "Bison Steak Medallions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-range/bison-steak-medallions",
+      "brand_name": "Great Range",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61324603",
+      "food_name": "Bison Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-range/bison-patties",
+      "brand_name": "Great Range",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3625896",
+      "food_name": "Bison Sirloin Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-range/bison-sirloin-steak",
+      "brand_name": "Great Range",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8971963",
+      "food_name": "Bison Ribeye Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-range/bison-ribeye-steak",
+      "brand_name": "Great Range",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "403925",
+      "food_name": "Bison & Beef Hot Dogs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-range/bison-and-beef-hot-dogs",
+      "brand_name": "Great Range",
+      "food_type": "Brand"
+    }
+  ]
+}

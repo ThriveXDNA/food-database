@@ -1,0 +1,454 @@
+{
+  "restaurant": "Splendid Spoon",
+  "total_items": 63,
+  "pages_extracted": 2,
+  "total_search_results": 70,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:34:40.168Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/splendid_spoon.json",
+  "items": [
+    {
+      "food_id": "31388373",
+      "food_name": "Masala Khichri",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/masala-khichri",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37098935",
+      "food_name": "Parsnip Apple Puree",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/parsnip-apple-puree",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36421389",
+      "food_name": "Moroccan Lentil Stew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/moroccan-lentil-stew",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61560702",
+      "food_name": "Red Lentil Dal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/red-lentil-dal",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48016615",
+      "food_name": "Creamy Mushroom Spinach Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/creamy-mushroom-spinach-pasta",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45946116",
+      "food_name": "Beans & Greens Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/beans-greens-soup",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43865853",
+      "food_name": "Lentil & Kale Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/lentil-kale-soup",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37018109",
+      "food_name": "Carrot Lentil Curry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/carrot-lentil-curry",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34186245",
+      "food_name": "Aloo Gobi Quinoa Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/aloo-gobi-quinoa-bowl",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48595558",
+      "food_name": "Vegan Meatballs & Marinara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/vegan-meatballs-marinara",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41781004",
+      "food_name": "Coconut Curry Rice Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/coconut-curry-rice-bowl",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46247643",
+      "food_name": "Sesame Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/sesame-noodles",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60600313",
+      "food_name": "Strawberry Chocolate Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/strawberry-chocolate-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31200243",
+      "food_name": "Kabocha Congee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/kabocha-congee",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33224186",
+      "food_name": "Green Matcha Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/green-matcha-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77824942",
+      "food_name": "Roasted Tomato Risotto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/roasted-tomato-risotto",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36265172",
+      "food_name": "Dragon Fruit Berry Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/dragon-fruit-berry-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41527059",
+      "food_name": "Chocolate Cherry Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/chocolate-cherry-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44689636",
+      "food_name": "Kale Pesto Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/kale-pesto-noodles",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46528617",
+      "food_name": "Vegetable Bolognese Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/vegetable-bolognese-bowl",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31408083",
+      "food_name": "Chana Potato Stew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/chana-potato-stew",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32458923",
+      "food_name": "Green Split Pea Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/green-split-pea-soup",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33510805",
+      "food_name": "Carrot Ginger Chia Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/carrot-ginger-chia-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59663566",
+      "food_name": "Pineapple Passion Fruit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/pineapple-passion-fruit",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50655780",
+      "food_name": "Kimchi Fried Quinoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/kimchi-fried-quinoa",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30093247",
+      "food_name": "Lemon Wild Rice & Broccoli Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/lemon-wild-rice-broccoli-bowl",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44292903",
+      "food_name": "Creamy Butternut Squash Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/creamy-butternut-squash-noodles",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41110611",
+      "food_name": "Brown Rice Taco Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/brown-rice-taco-bowl",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41119987",
+      "food_name": "Green Curry Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/green-curry-noodles",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36380263",
+      "food_name": "Mexican Tomato Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/mexican-tomato-chili",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36420886",
+      "food_name": "Cuban Black Bean Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/cuban-black-bean-bowl",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32997439",
+      "food_name": "Banana Flax Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/banana-flax-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54355543",
+      "food_name": "Coconut Lime Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/coconut-lime-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61323623",
+      "food_name": "Spiced Lentil & Chickpea Stew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/spiced-lentil-chickpea-stew",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30551224",
+      "food_name": "Orange Hibiscus Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/orange-hibiscus-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36266174",
+      "food_name": "Zucchini Puttanesca",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/zucchini-puttanesca",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36266268",
+      "food_name": "Cauliflower Potato Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/cauliflower-potato-chowder",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31635368",
+      "food_name": "Strawberry Coconut Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/strawberry-coconut-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24804425",
+      "food_name": "Blackberry Basil Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/blackberry-basil-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43892103",
+      "food_name": "Tangy Ginger Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/tangy-ginger-noodles",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61909157",
+      "food_name": "Black Bean & Plantain Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/black-bean-plantain-grain-bowl",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38855006",
+      "food_name": "Mango Guava Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/mango-guava-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31487311",
+      "food_name": "Butternut Squash Ratatouille",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/butternut-squash-ratatouille",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45589865",
+      "food_name": "Moroccan Spiced Buckwheat Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/moroccan-spiced-buckwheat-bowl",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33807758",
+      "food_name": "Raspberry Cacao Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/raspberry-cacao-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26336521",
+      "food_name": "AB&J Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/ab-j-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33277656",
+      "food_name": "Pumpkin Spice Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/pumpkin-spice-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52769122",
+      "food_name": "Chickpea Harissa Tahini Stew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/chickpea-harissa-tahini-stew",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45243396",
+      "food_name": "Pumpkin Pear Bisque",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/pumpkin-pear-bisque",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30077540",
+      "food_name": "Broccoli & Hempseed Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/broccoli-hempseed-soup",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31185863",
+      "food_name": "Strawberry Goji Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/strawberry-goji-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31781181",
+      "food_name": "Red Beet Buddha Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/red-beet-buddha-bowl",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41708217",
+      "food_name": "Red Curry Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/red-curry-noodles",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61554248",
+      "food_name": "Garden Minestrone Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/garden-minestrone-soup",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51216969",
+      "food_name": "Green Tomatillo Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/green-tomatillo-chili",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39715104",
+      "food_name": "Butternut Turmeric Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/butternut-turmeric-soup",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40990479",
+      "food_name": "Green Goddess Quinoa Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/green-goddess-quinoa-bowl",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41435908",
+      "food_name": "Mint Chip Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/mint-chip-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48304618",
+      "food_name": "Power Green Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/power-green-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33328531",
+      "food_name": "Blueberry Coconut Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/blueberry-coconut-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36832746",
+      "food_name": "Cacao Almond Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/cacao-almond-smoothie",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25228886",
+      "food_name": "Cauliflower Tikka",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/cauliflower-tikka",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79148952",
+      "food_name": "Falafel Dish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/splendid-spoon/falafel-dish",
+      "brand_name": "Splendid Spoon",
+      "food_type": "Brand"
+    }
+  ]
+}

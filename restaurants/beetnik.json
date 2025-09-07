@@ -1,0 +1,76 @@
+{
+  "restaurant": "Beetnik",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:34:50.033Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/beetnik.json",
+  "items": [
+    {
+      "food_id": "36229768",
+      "food_name": "Organic Chicken Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beetnik/organic-chicken-meatballs",
+      "brand_name": "Beetnik",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31937225",
+      "food_name": "Organic Grass Fed Beef Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beetnik/organic-grass-fed-beef-meatballs",
+      "brand_name": "Beetnik",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43997311",
+      "food_name": "Peruvian Inspired Chicken with Brown Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beetnik/peruvian-inspired-chicken-with-brown-rice",
+      "brand_name": "Beetnik",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13446151",
+      "food_name": "Paleo Organic Chicken & Vegetable Stir Fry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beetnik/paleo-organic-chicken-and-vegetable-stir-fry",
+      "brand_name": "Beetnik",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38339327",
+      "food_name": "Lemongrass Chicken with Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beetnik/lemongrass-chicken-with-rice",
+      "brand_name": "Beetnik",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24562233",
+      "food_name": "Thai Style Grass Fed Beef with Coconut Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beetnik/thai-style-grass-fed-beef-with-coconut-rice",
+      "brand_name": "Beetnik",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21006115",
+      "food_name": "Organic Peruvian Inspired Chicken Stew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beetnik/organic-peruvian-inspired-chicken-stew",
+      "brand_name": "Beetnik",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6779419",
+      "food_name": "Chili Made with Grass Fed Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beetnik/chili-made-with-grass-fed-beef",
+      "brand_name": "Beetnik",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13740587",
+      "food_name": "Paleo Organic Beef Chili & Sweet Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beetnik/paleo-organic-beef-chili-and-sweet-potato",
+      "brand_name": "Beetnik",
+      "food_type": "Brand"
+    }
+  ]
+}

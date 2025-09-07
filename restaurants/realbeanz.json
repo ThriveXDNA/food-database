@@ -1,0 +1,20 @@
+{
+  "restaurant": "RealBeanz",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 1,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:08:52.204Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/realbeanz.json",
+  "items": [
+    {
+      "food_id": "5679099",
+      "food_name": "Iced Coffee Mocha",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/realbeanz/iced-coffee-mocha",
+      "brand_name": "RealBeanz",
+      "food_type": "Brand"
+    }
+  ]
+}

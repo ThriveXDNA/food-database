@@ -1,0 +1,62 @@
+{
+  "restaurant": "Northern Chef",
+  "total_items": 7,
+  "pages_extracted": 4,
+  "total_search_results": 167,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:39:31.661Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/northern_chef.json",
+  "items": [
+    {
+      "food_id": "993386",
+      "food_name": "Chilean Sea Bass",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/northern-chef/chilean-sea-bass",
+      "brand_name": "Northern Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10702538",
+      "food_name": "Boom Boom Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/northern-chef/boom-boom-shrimp",
+      "brand_name": "Northern Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13884422",
+      "food_name": "Sea Salt & Pepper Calamari",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/northern-chef/sea-salt-pepper-calamari",
+      "brand_name": "Northern Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12981485",
+      "food_name": "Coconut Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/northern-chef/coconut-shrimp",
+      "brand_name": "Northern Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6052229",
+      "food_name": "Snow Crab with Garlic Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/northern-chef/snow-crab-with-garlic-butter",
+      "brand_name": "Northern Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2239526",
+      "food_name": "Clam Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/northern-chef/clam-meat",
+      "brand_name": "Northern Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88244330",
+      "food_name": "Honey Walnut Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/northern-chef/honey-walnut-shrimp",
+      "brand_name": "Northern Chef",
+      "food_type": "Brand"
+    }
+  ]
+}

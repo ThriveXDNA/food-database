@@ -1,0 +1,55 @@
+{
+  "restaurant": "Royo",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:00:44.433Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/royo.json",
+  "items": [
+    {
+      "food_id": "91816431",
+      "food_name": "Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/royo/bagels",
+      "brand_name": "Royo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96913248",
+      "food_name": "Everything Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/royo/everything-bagel",
+      "brand_name": "Royo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85540384",
+      "food_name": "Artisan Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/royo/artisan-bread",
+      "brand_name": "Royo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91227344",
+      "food_name": "Superseeded Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/royo/superseeded-bagel",
+      "brand_name": "ROYO",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93405296",
+      "food_name": "Burger Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/royo/burger-buns",
+      "brand_name": "ROYO",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92093745",
+      "food_name": "Challah Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/royo/challah-roll",
+      "brand_name": "Royo",
+      "food_type": "Brand"
+    }
+  ]
+}

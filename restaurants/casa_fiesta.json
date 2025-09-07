@@ -1,0 +1,76 @@
+{
+  "restaurant": "Casa Fiesta",
+  "total_items": 9,
+  "pages_extracted": 5,
+  "total_search_results": 228,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:30:16.173Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/casa_fiesta.json",
+  "items": [
+    {
+      "food_id": "764198",
+      "food_name": "Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-fiesta/refried-beans",
+      "brand_name": "Casa Fiesta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65954",
+      "food_name": "Spicy Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-fiesta/spicy-refried-beans",
+      "brand_name": "Casa Fiesta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13354892",
+      "food_name": "Taco Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-fiesta/taco-shells",
+      "brand_name": "Casa Fiesta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2676739",
+      "food_name": "No Fat Refried Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-fiesta/no-fat-refried-black-beans",
+      "brand_name": "Casa Fiesta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65950",
+      "food_name": "Nacho Sliced Hot Jalapenos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-fiesta/nacho-sliced-hot-jalapenos",
+      "brand_name": "Casa Fiesta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2454600",
+      "food_name": "Taco Seasoning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-fiesta/taco-seasoning",
+      "brand_name": "Casa Fiesta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65948",
+      "food_name": "No Fat Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-fiesta/no-fat-refried-beans",
+      "brand_name": "Casa Fiesta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2803970",
+      "food_name": "Refried Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-fiesta/refried-black-beans",
+      "brand_name": "Casa Fiesta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11417069",
+      "food_name": "Mexican Style Chili Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-fiesta/mexican-style-chili-beans",
+      "brand_name": "Casa Fiesta",
+      "food_type": "Brand"
+    }
+  ]
+}

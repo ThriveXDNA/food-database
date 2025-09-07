@@ -1,0 +1,62 @@
+{
+  "restaurant": "PanaPesca",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:42:47.341Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/panapesca.json",
+  "items": [
+    {
+      "food_id": "50687988",
+      "food_name": "Cooked Mussel Meats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panapesca/cooked-mussel-meats",
+      "brand_name": "PanaPesca",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94263367",
+      "food_name": "Octopus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panapesca/octopus",
+      "brand_name": "PanaPesca",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49888518",
+      "food_name": "Calamari Tubes & Tentacles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panapesca/calamari-tubes-tentacles",
+      "brand_name": "PanaPesca",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11258904",
+      "food_name": "Seafood Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panapesca/seafood-mix",
+      "brand_name": "PanaPesca",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25606670",
+      "food_name": "Whole Cleaned Calamari",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panapesca/whole-cleaned-calamari",
+      "brand_name": "PanaPesca",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93841380",
+      "food_name": "Mediterranean Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panapesca/mediterranean-mix",
+      "brand_name": "PanaPesca",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75274217",
+      "food_name": "Clam Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panapesca/clam-meat",
+      "brand_name": "Panapesca",
+      "food_type": "Brand"
+    }
+  ]
+}

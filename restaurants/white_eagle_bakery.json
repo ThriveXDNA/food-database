@@ -1,0 +1,20 @@
+{
+  "restaurant": "White Eagle Bakery",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 3910,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:16:31.543Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/white_eagle_bakery.json",
+  "items": [
+    {
+      "food_id": "2152346",
+      "food_name": "Chruscik",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/white-eagle-bakery/chruscik",
+      "brand_name": "White Eagle Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

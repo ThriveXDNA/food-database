@@ -1,0 +1,524 @@
+{
+  "restaurant": "Star",
+  "total_items": 73,
+  "pages_extracted": 2,
+  "total_search_results": 73,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:59:46.889Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/star.json",
+  "items": [
+    {
+      "food_id": "1825039",
+      "food_name": "Sun Dried Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/star/sun-dried-tomatoes",
+      "brand_name": "Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47442",
+      "food_name": "Extra Light Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/star/extra-light-olive-oil",
+      "brand_name": "Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1504926",
+      "food_name": "Extra Virgin Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/star/extra-virgin-olive-oil",
+      "brand_name": "Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2877067",
+      "food_name": "Fillets of Anchovies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/star/fillets-of-anchovies",
+      "brand_name": "Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7785511",
+      "food_name": "Red Wine Vinegar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/star/red-wine-vinegar",
+      "brand_name": "Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33147",
+      "food_name": "Queen Spanish Olives",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/star/queen-spanish-olives",
+      "brand_name": "Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1578109",
+      "food_name": "Balsamic Vinegar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/star/balsamic-vinegar",
+      "brand_name": "Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1396135",
+      "food_name": "Jalapenos Sliced",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/star/jalapenos-sliced",
+      "brand_name": "Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13020927",
+      "food_name": "Pimiento Stuffed Manzanilla Olives",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/star/pimiento-stuffed-manzanilla-olives",
+      "brand_name": "Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6355813",
+      "food_name": "Miniature Pepperoncini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/star/miniature-pepperoncini",
+      "brand_name": "Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2400466",
+      "food_name": "Grapeseed Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/star/grapeseed-oil",
+      "brand_name": "Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25446884",
+      "food_name": "Original Pure Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/star/original-pure-olive-oil",
+      "brand_name": "Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652940",
+      "food_name": "Ice Cream, Dippin' Dots, Banana Split, Mega Super Star",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-dippin-dots-banana-split-mega-super-star",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652958",
+      "food_name": "Ice Cream, Dippin' Dots, Cookies & Cream, Mega Super Star",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-dippin-dots-cookies-cream-mega-super-star",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653013",
+      "food_name": "Ice Cream, Dippin' Dots, Rainbow Ice, Mega Super Star",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-dippin-dots-rainbow-ice-mega-super-star",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652948",
+      "food_name": "Ice Cream, Dippin' Dots, Brownie Batter, Mega Super Star",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-dippin-dots-brownie-batter-mega-super-star",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651933",
+      "food_name": "Cookies N Cream Dippin' Dots (Mega Super Star)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cookies-n-cream-dippin-dots-(mega-super-star)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "367335",
+      "food_name": "Star Crunch Cookies with Caramel & Crisp Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-debbie/star-crunch-cookies-with-caramel-crisp-rice",
+      "brand_name": "Little Debbie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651924",
+      "food_name": "Brownie Batter Dippin' Dots (Mega Super Star)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/brownie-batter-dippin-dots-(mega-super-star)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74497041",
+      "food_name": "Gluten Sensitive All Star Burger (No Side)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/99-restaurant/gluten-sensitive-all-star-burger-(no-side)",
+      "brand_name": "99 Restaurant",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651915",
+      "food_name": "Banana Split Dippin' Dots (Mega Super Star)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/banana-split-dippin-dots-(mega-super-star)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651946",
+      "food_name": "Rainbow Ice Dippin' Dots (Mega Super Star)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/rainbow-ice-dippin-dots-(mega-super-star)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74469215",
+      "food_name": "All Star Burger w/ French Fries & Coleslaw",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/99-restaurant/all-star-burger-w-french-fries-coleslaw",
+      "brand_name": "99 Restaurant",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "238141",
+      "food_name": "Star Brites Cinnamon Starlight Mints Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brachs/star-brites-cinnamon-starlight-mints-candy",
+      "brand_name": "Brach's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284202",
+      "food_name": "Tomato Based Star Pasta Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/knorr/tomato-based-star-pasta-soup",
+      "brand_name": "Knorr",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "559997",
+      "food_name": "All Star Chicken Breast Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kid-cuisine/all-star-chicken-breast-nuggets",
+      "brand_name": "Kid Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28134181",
+      "food_name": "Sour Brite All Star Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trolli/sour-brite-all-star-mix",
+      "brand_name": "Trolli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26801411",
+      "food_name": "Beyond Famous Star with Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carls-jr/beyond-famous-star-with-cheese",
+      "brand_name": "Carl's Jr.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1877864",
+      "food_name": "5 Star Chocolate Bar - Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lake-champlain/5-star-chocolate-bar---granola",
+      "brand_name": "Lake Champlain",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3706125",
+      "food_name": "Star Wars Fruit Flavored Snacks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kroger/star-wars-fruit-flavored-snacks",
+      "brand_name": "Kroger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72354",
+      "food_name": "Star Brites Butterscotch Disks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brachs/star-brites-butterscotch-disks",
+      "brand_name": "Brach's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72355",
+      "food_name": "Star Brites Cinnamon Disks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brachs/star-brites-cinnamon-disks",
+      "brand_name": "Brach's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5461019",
+      "food_name": "Sushi All Star Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/sushi-all-star-combo",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12338667",
+      "food_name": "Star Wars Chicken Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-platter/star-wars-chicken-nuggets",
+      "brand_name": "Golden Platter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12901768",
+      "food_name": "Star Wars Macaroni & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kraft/star-wars-macaroni-and-cheese",
+      "brand_name": "Kraft",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11695426",
+      "food_name": "Star Pasta & Chicken Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/annies-homegrown/star-pasta-and-chicken-soup",
+      "brand_name": "Annie's Homegrown",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70231864",
+      "food_name": "Sugared Star Cutout Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meijer/sugared-star-cutout-cookie",
+      "brand_name": "Meijer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72512576",
+      "food_name": "Famous Star with Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hardees/famous-star-with-cheese",
+      "brand_name": "Hardee's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72512577",
+      "food_name": "Super Star with Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hardees/super-star-with-cheese",
+      "brand_name": "Hardee's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75685483",
+      "food_name": "Lone Star - 16 fl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hooters/lone-star-16-fl",
+      "brand_name": "Hooters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73821214",
+      "food_name": "Country Music Star Omelette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/village-inn/country-music-star-omelette",
+      "brand_name": "Village Inn",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620961",
+      "food_name": "Pink Star Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pink-star-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620966",
+      "food_name": "Pink Star Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pink-star-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86919494",
+      "food_name": "Famous Star Lettuce Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carls-jr/famous-star-lettuce-wrap",
+      "brand_name": "Carl's Jr.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "238143",
+      "food_name": "Star Brites Peppermint Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brachs/star-brites-peppermint-candy",
+      "brand_name": "Brach's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "166359",
+      "food_name": "Star Bites Candied Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lance/star-bites-candied-peanuts",
+      "brand_name": "Lance",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91486",
+      "food_name": "Super Star with Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carls-jr/super-star-with-cheese",
+      "brand_name": "Carl's Jr.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95788",
+      "food_name": "Star Crunch (31 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-debbie/star-crunch",
+      "brand_name": "Little Debbie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76417",
+      "food_name": "Famous Star with Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carls-jr/famous-star-with-cheese",
+      "brand_name": "Carl's Jr.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1951836",
+      "food_name": "Pop Star Popcorn Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kid-cuisine/pop-star-popcorn-chicken",
+      "brand_name": "Kid Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59671553",
+      "food_name": "Star Crunch (62 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-debbie/star-crunch-(62-g)",
+      "brand_name": "Little Debbie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38442571",
+      "food_name": "5 Star Bar Hazelnut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lake-champlain/5-star-bar-hazelnut",
+      "brand_name": "Lake Champlain",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72050828",
+      "food_name": "Star Crunch Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-debbie/star-crunch-ice-cream",
+      "brand_name": "Little Debbie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75685479",
+      "food_name": "Lone Star - 14 fl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hooters/lone-star-14-fl",
+      "brand_name": "Hooters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75685485",
+      "food_name": "Lone Star - Big Daddy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hooters/lone-star-big-daddy",
+      "brand_name": "Hooters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620971",
+      "food_name": "Pink Star Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pink-star-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104519587",
+      "food_name": "Star Spangled Specialty Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunkin-donuts/star-spangled-specialty-donut",
+      "brand_name": "Dunkin' Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72356",
+      "food_name": "Star Brites Peppermint",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brachs/star-brites-peppermint",
+      "brand_name": "Brach's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2443248",
+      "food_name": "Star Ruby Grapefruit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunkist/star-ruby-grapefruit",
+      "brand_name": "Sunkist",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56535170",
+      "food_name": "Star Puffed Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/made-good/star-puffed-crackers",
+      "brand_name": "Made Good",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75585574",
+      "food_name": "Cinnamon Star Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/winternacht/cinnamon-star-cookies",
+      "brand_name": "Winternacht",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78745511",
+      "food_name": "Star Spangled Scoops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/breyers/star-spangled-scoops",
+      "brand_name": "Breyers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "115201",
+      "food_name": "Star Crunch (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-debbie/star-crunch-(large)",
+      "brand_name": "Little Debbie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "274207",
+      "food_name": "4 Star Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/famous-chili/4-star-chili",
+      "brand_name": "Famous Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72357",
+      "food_name": "Star Brites Spearmint",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brachs/star-brites-spearmint",
+      "brand_name": "Brach's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7635534",
+      "food_name": "All Star Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sushiya/all-star-combo",
+      "brand_name": "Sushiya",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40352770",
+      "food_name": "Lone Star Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-cowgirls/lone-star-queso",
+      "brand_name": "Culinary Cowgirls",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71383643",
+      "food_name": "Star Cutout Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/members-mark/star-cutout-cookies",
+      "brand_name": "Member's Mark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75685490",
+      "food_name": "Lone Star - Pitcher",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hooters/lone-star-pitcher",
+      "brand_name": "Hooters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87743465",
+      "food_name": "Star Spangled Splash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mountain-dew/star-spangled-splash",
+      "brand_name": "Mountain Dew",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17151566",
+      "food_name": "Star Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-ribbon/star-bar",
+      "brand_name": "Blue Ribbon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8436717",
+      "food_name": "Star Margarine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magnolia/star-margarine",
+      "brand_name": "Magnolia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21204615",
+      "food_name": "Star Blast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bang/star-blast",
+      "brand_name": "Bang",
+      "food_type": "Brand"
+    }
+  ]
+}

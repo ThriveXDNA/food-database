@@ -1,0 +1,3336 @@
+{
+  "restaurant": "Chuck E. Cheese",
+  "total_items": 475,
+  "pages_extracted": 12,
+  "last_updated": "2025-09-06T20:49:11.316Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Restaurant-only search with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/chuck_e_cheese.json",
+  "items": [
+    {
+      "food_id": "75651646",
+      "food_name": "Cheesy Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cheesy-bread",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651968",
+      "food_name": "Chocolate Sheet Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/chocolate-sheet-cake",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651631",
+      "food_name": "Supreme Specialty Pizza - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/supreme-specialty-pizza-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651844",
+      "food_name": "Red Onion (3 Slices)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/red-onion-(3-slices)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652370",
+      "food_name": "Cake Sheet, Yellow w Vanilla Buttercream, 1/18Th of Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cake-sheet-yellow-w-vanilla-buttercream-1-18th-of-whole",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651949",
+      "food_name": "Rainbow Ice Dippin' Dots (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/rainbow-ice-dippin-dots-(small)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651865",
+      "food_name": "Watermelon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/watermelon",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653070",
+      "food_name": "Salad Bar, Dressing, Olive Oil, 1 Tsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-dressing-olive-oil-1-tsp",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651555",
+      "food_name": "Pepperoni - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/pepperoni-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653053",
+      "food_name": "Salad Bar, Cottage Cheese, 1/2 Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-cottage-cheese-1-2-cup",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652486",
+      "food_name": "Cheese, Mozzarella, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cheese-mozzarella-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651696",
+      "food_name": "Cantaloupe",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cantaloupe",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653111",
+      "food_name": "Salad Bar, Romaine Lettuce, 1 Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-romaine-lettuce-1-cup",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652919",
+      "food_name": "Ice Cream Cup, Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-cup-vanilla",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653203",
+      "food_name": "Specialty Pizza, Supreme Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/specialty-pizza-supreme-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651754",
+      "food_name": "Honeydew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/honeydew",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651849",
+      "food_name": "Rotini Pasta Salad (1/2 cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/rotini-pasta-salad-(1-2-cup)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653201",
+      "food_name": "Specialty Pizza, Supreme  Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/specialty-pizza-supreme-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651837",
+      "food_name": "Potato Salad - Diced w/Egg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/potato-salad-diced-w-egg",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651880",
+      "food_name": "Lite Northern Italian Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/lite-northern-italian-dressing",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652809",
+      "food_name": "Ice Cream Cone Cookies & Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-cone-cookies-cream",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653100",
+      "food_name": "Salad Bar, Red Onions, 3 Slices, 0.25 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-red-onions-3-slices-025-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651640",
+      "food_name": "Veggie Specialty Pizza - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/veggie-specialty-pizza-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652347",
+      "food_name": "Bread, Cheesy Breadsticks, 1/6 svg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/bread-cheesy-breadsticks-1-6-svg",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653052",
+      "food_name": "Salad Bar, Cheese, Shredded Cheddar, 1 Tbsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-cheese-shredded-cheddar-1-tbsp",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653066",
+      "food_name": "CEC- Salad Bar, Dressing, Lite Northern Italian, 1 Tbsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cec-salad-bar-dressing-lite-northern-italian-1-tbsp",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651894",
+      "food_name": "Red, White, & Blue Bomb Pop (Ice Cream)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/red-white-blue-bomb-pop-(ice-cream)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651629",
+      "food_name": "Supreme Specialty Pizza - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/supreme-specialty-pizza-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651891",
+      "food_name": "Strawberry Shortcake Bar (Ice Cream)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/strawberry-shortcake-bar-(ice-cream)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651925",
+      "food_name": "Brownie Batter Dippin' Dots (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/brownie-batter-dippin-dots-(small)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651670",
+      "food_name": "Buffalo Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/buffalo-sauce",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651867",
+      "food_name": "Zucchini (3 Slices)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/zucchini-(3-slices)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653207",
+      "food_name": "Specialty Pizza, Veggie  Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/specialty-pizza-veggie-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651408",
+      "food_name": "Mozzarella Cheese - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/mozzarella-cheese-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651558",
+      "food_name": "Pepperoni - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/pepperoni-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651652",
+      "food_name": "French Fries (4 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/french-fries-(4-oz)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651660",
+      "food_name": "Rotini Pasta Salad (4 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/rotini-pasta-salad-(4-oz)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651750",
+      "food_name": "Grapes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/grapes",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652534",
+      "food_name": "Dessert, Chocolate Chip Cookie (Slice, 1/8 of Whole)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/dessert-chocolate-chip-cookie-(slice-1-8-of-whole)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653017",
+      "food_name": "Ice Cream, Push-Up, Rainbow Sherbet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-push-up-rainbow-sherbet",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651859",
+      "food_name": "Strawberry Jello Parfait",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/strawberry-jello-parfait",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652810",
+      "food_name": "Ice Cream Cup Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-cup-chocolate",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653057",
+      "food_name": "Salad Bar, Croutons, 1 Tbsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-croutons-1-tbsp",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653143",
+      "food_name": "Side, French Fries 4 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/side-french-fries-4-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653174",
+      "food_name": "Side, Grilled Chicken 3 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/side-grilled-chicken-3-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651634",
+      "food_name": "Supreme Specialty Pizza - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/supreme-specialty-pizza-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651708",
+      "food_name": "Cottage Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cottage-cheese",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651840",
+      "food_name": "Potato Salad - Red Skin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/potato-salad-red-skin",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651944",
+      "food_name": "Rainbow Ice Dippin' Dots (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/rainbow-ice-dippin-dots-(large)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651974",
+      "food_name": "White Sheet Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/white-sheet-cake",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652006",
+      "food_name": "Celery (4 Pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/celery-(4-pcs)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653084",
+      "food_name": "Salad Bar, Honeydew Melon, 1 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-honeydew-melon-1-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653113",
+      "food_name": "Salad Bar, Rotini Pasta Salad, 1/2 Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-rotini-pasta-salad-1-2-cup",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653117",
+      "food_name": "Salad Bar, Sunflower Seeds,1 Tbsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-sunflower-seeds1-tbsp",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651613",
+      "food_name": "Tomato - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/tomato-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651899",
+      "food_name": "Chocolate Ice Cream Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/chocolate-ice-cream-cup",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651903",
+      "food_name": "Vanilla Ice Cream Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/vanilla-ice-cream-cup",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652368",
+      "food_name": "Cake Sheet, Choc w Choc Buttercream, 1/18Th of Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cake-sheet-choc-w-choc-buttercream-1-18th-of-whole",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653054",
+      "food_name": "Salad Bar, Cranberries Dried, 1 Tbsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-cranberries-dried-1-tbsp",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651551",
+      "food_name": "Pepperoni - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/pepperoni-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651616",
+      "food_name": "5 Meat Specialty Pizza - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/5-meat-specialty-pizza-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651638",
+      "food_name": "Veggie Specialty Pizza - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/veggie-specialty-pizza-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651673",
+      "food_name": "Ketchup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ketchup",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651905",
+      "food_name": "Rainbow Push-Up (Ice Cream)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/rainbow-push-up-(ice-cream)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653036",
+      "food_name": "Salad Bar, Black Olives, 1 Tbsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-black-olives-1-tbsp",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653045",
+      "food_name": "Salad Bar, Cantaloupe, 1 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-cantaloupe-1-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653087",
+      "food_name": "Salad Bar, Lettuce Mix, 1 Cup, 57G",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-lettuce-mix-1-cup-57g",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87388889",
+      "food_name": "Lite Ranch Dressing - 1 Tbsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/lite-ranch-dressing-1-tbsp",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651679",
+      "food_name": "Red Pizza Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/red-pizza-sauce",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651706",
+      "food_name": "Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cheddar-cheese",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651717",
+      "food_name": "Cucumbers (2 Slices)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cucumbers-(2-slices)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651887",
+      "food_name": "Giant Warm Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/giant-warm-cookie",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651921",
+      "food_name": "Brownie Batter Dippin' Dots (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/brownie-batter-dippin-dots-(large)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651936",
+      "food_name": "Cookies N Cream Dippin' Dots (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cookies-n-cream-dippin-dots-(small)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652087",
+      "food_name": "Boneless Chicken Wings Plain with Sweet Chili Sauce (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-with-sweet-chili-sauce-(medium)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653025",
+      "food_name": "Salad Bar, Beets, 1/2 Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-beets-1-2-cup",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653059",
+      "food_name": "Salad Bar, Cucumbers, 2 Slices, 0.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-cucumbers-2-slices-05-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653078",
+      "food_name": "Salad Bar, Grape Tomatoes, 3 Each, 0.75 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-grape-tomatoes-3-each-075-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653194",
+      "food_name": "Specialty Pizza, 5 Meat Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/specialty-pizza-5-meat-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651432",
+      "food_name": "Stuffed Crust - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/stuffed-crust-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651563",
+      "food_name": "Pepperoni - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/pepperoni-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651635",
+      "food_name": "Supreme Specialty Pizza - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/supreme-specialty-pizza-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651776",
+      "food_name": "Parmesan Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/parmesan-cheese",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652805",
+      "food_name": "Ice Cream Bar, Strawberry Fruit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-bar-strawberry-fruit",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653046",
+      "food_name": "CEC- Salad Bar, Captain Wafers Crackers, 2 Pcs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cec-salad-bar-captain-wafers-crackers-2-pcs",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653061",
+      "food_name": "Salad Bar, Dressing, Balsamic Vinaigrette, 1 Tbsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-dressing-balsamic-vinaigrette-1-tbsp",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653200",
+      "food_name": "Specialty Pizza, Supreme Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/specialty-pizza-supreme-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651876",
+      "food_name": "Buttermilk Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/buttermilk-ranch-dressing",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651897",
+      "food_name": "Cookie N Cream Cone (Ice Cream)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cookie-n-cream-cone-(ice-cream)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651915",
+      "food_name": "Banana Split Dippin' Dots (Mega Super Star)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/banana-split-dippin-dots-(mega-super-star)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651946",
+      "food_name": "Rainbow Ice Dippin' Dots (Mega Super Star)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/rainbow-ice-dippin-dots-(mega-super-star)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651961",
+      "food_name": "Pink Cotton Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/pink-cotton-candy",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651992",
+      "food_name": "Boneless Chicken Wings Plain (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-(small)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652009",
+      "food_name": "Boneless Chicken Wings Plain (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-(medium)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652110",
+      "food_name": "Boneless Chicken Wings Plain Lite Ranch Dressing (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-lite-ranch-dressing-(large)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652297",
+      "food_name": "Traditional Chicken Wings - Plain (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-plain-(medium)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652363",
+      "food_name": "Cake Round, Yellow w Vanilla Buttercream, 1/12Th of Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cake-round-yellow-w-vanilla-buttercream-1-12th-of-whole",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652508",
+      "food_name": "Crust, Stuffed, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/crust-stuffed-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652524",
+      "food_name": "Crust, Traditional Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/crust-traditional-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653018",
+      "food_name": "Mozzarella Sticks 5 Each",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/mozzarella-sticks-5-each",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653127",
+      "food_name": "Sauce, Red, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/sauce-red-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653204",
+      "food_name": "Specialty Pizza, Supreme XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/specialty-pizza-supreme-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653358",
+      "food_name": "Topping, Pepperoni, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-pepperoni-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651620",
+      "food_name": "6 Meat Specialty Pizza - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/6-meat-specialty-pizza-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651763",
+      "food_name": "Macaroni Salad (1/2 Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/macaroni-salad-(1-2-cup)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651855",
+      "food_name": "Strawberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/strawberries",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651882",
+      "food_name": "Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/olive-oil",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651914",
+      "food_name": "Banana Split Dippin' Dots (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/banana-split-dippin-dots-(large)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651924",
+      "food_name": "Brownie Batter Dippin' Dots (Mega Super Star)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/brownie-batter-dippin-dots-(mega-super-star)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651927",
+      "food_name": "Cookies N Cream Dippin' Dots (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cookies-n-cream-dippin-dots-(large)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652013",
+      "food_name": "Boneless Chicken Wings Plain with Buffalo Sauce (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-with-buffalo-sauce-(medium)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652304",
+      "food_name": "Traditional Chicken Wings Lite Ranch Dressing - Plain (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-lite-ranch-dressing-plain-(medium)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652359",
+      "food_name": "Cake Round, Choc w Choc Buttercream, 1/12Th of Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cake-round-choc-w-choc-buttercream-1-12th-of-whole",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652382",
+      "food_name": "Celery 4 Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/celery-4-sticks",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652518",
+      "food_name": "Crust, Traditional  Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/crust-traditional-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652943",
+      "food_name": "Ice Cream, Dippin' Dots, Banana Split, Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-dippin-dots-banana-split-small",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653021",
+      "food_name": "Salad Bar, Bacon Bits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-bacon-bits",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653071",
+      "food_name": "Salad Bar, Dressing, Ranch, 1 Tbsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-dressing-ranch-1-tbsp",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653209",
+      "food_name": "Specialty Pizza, Veggie Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/specialty-pizza-veggie-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653293",
+      "food_name": "Topping, Canadian Bacon, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-canadian-bacon-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651409",
+      "food_name": "Mozzarella Cheese - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/mozzarella-cheese-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651421",
+      "food_name": "Traditional Crust - Large (No Garlic Margarine on Crust)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-crust-large-(no-garlic-margarine-on-crust)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651434",
+      "food_name": "Stuffed Crust - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/stuffed-crust-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651523",
+      "food_name": "Jalapenos - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/jalapenos-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651564",
+      "food_name": "Pineapple - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/pineapple-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651592",
+      "food_name": "Sausage - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/sausage-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651622",
+      "food_name": "7 Meat Specialty Pizza - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/7-meat-specialty-pizza-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651642",
+      "food_name": "Veggie Specialty Pizza - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/veggie-specialty-pizza-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651712",
+      "food_name": "Cranberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cranberries",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651752",
+      "food_name": "Green Peppers (3 Slices)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/green-peppers-(3-slices)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651767",
+      "food_name": "Mushrooms",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/mushrooms",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651862",
+      "food_name": "Turkey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/turkey",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651889",
+      "food_name": "Cookie N Cream Bar (Ice Cream)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cookie-n-cream-bar-(ice-cream)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651912",
+      "food_name": "Strawberry Fruit Bar (Ice Cream)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/strawberry-fruit-bar-(ice-cream)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651955",
+      "food_name": "Blue Cotton Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/blue-cotton-candy",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651971",
+      "food_name": "White 8-inch Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/white-8-inch-cake",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651978",
+      "food_name": "Batman Edible Cake Image",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/batman-edible-cake-image",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651993",
+      "food_name": "Boneless Chicken Wings Plain with BBQ Sauce (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-with-bbq-sauce-(small)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651994",
+      "food_name": "Boneless Chicken Wings Plain with Buffalo Sauce (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-with-buffalo-sauce-(small)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652001",
+      "food_name": "Boneless Chicken Wings Plain Lite Ranch Dressing (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-lite-ranch-dressing-(small)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652010",
+      "food_name": "Boneless Chicken Wings Plain with BBQ Sauce (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-with-bbq-sauce-(medium)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652094",
+      "food_name": "Boneless Chicken Wings Plain Blue Cheese Dressing (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-blue-cheese-dressing-(medium)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652130",
+      "food_name": "Traditional Chicken Wings - Plain (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-plain-(small)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652133",
+      "food_name": "Traditional Chicken Wings with BBQ Sauce - Plain (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-with-bbq-sauce-plain-(small)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652490",
+      "food_name": "Cheese, Mozzarella, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cheese-mozzarella-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652542",
+      "food_name": "Dessert, Cotton Candy Green, Sassy Apple, 1/5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/dessert-cotton-candy-green-sassy-apple-1-5-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652800",
+      "food_name": "Ice Cream Bar, Cookies N Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-bar-cookies-n-cream",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652922",
+      "food_name": "Ice Cream Sandwich, Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-sandwich-vanilla",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652960",
+      "food_name": "Ice Cream, Dippin' Dots, Cookies & Cream, Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-dippin-dots-cookies-cream-small",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653012",
+      "food_name": "Ice Cream, Dippin' Dots, Rainbow Ice, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-dippin-dots-rainbow-ice-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653015",
+      "food_name": "Ice Cream, Dippin' Dots, Rainbow Ice, Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-dippin-dots-rainbow-ice-small",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653062",
+      "food_name": "Salad Bar, Dressing, Blue Cheese, 1 Tbsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-dressing-blue-cheese-1-tbsp",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653067",
+      "food_name": "Salad Bar, Dressing, Lite Ranch, 1 Tbsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-dressing-lite-ranch-1-tbsp",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653114",
+      "food_name": "Salad Bar, Spinach, 1 Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-spinach-1-cup",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653115",
+      "food_name": "Salad Bar, Strawberries, 2 Each",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-strawberries-2-each",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653119",
+      "food_name": "Salad Bar, Turkey, 1 Tbsp, 0.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-turkey-1-tbsp-05-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653197",
+      "food_name": "Specialty Pizza, 5 Meat Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/specialty-pizza-5-meat-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653199",
+      "food_name": "Specialty Pizza, 5 Meat XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/specialty-pizza-5-meat-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653375",
+      "food_name": "Topping, Red Onion, Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-red-onion-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653391",
+      "food_name": "Topping, Tomato, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-tomato-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653532",
+      "food_name": "Wings, Sweet Chili, Boneless Small, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-sweet-chili-boneless-small-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651277",
+      "food_name": "Extra Mozzarella Cheese - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/extra-mozzarella-cheese-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651426",
+      "food_name": "Traditional Crust - Medium (with Garlic Margarine on Crust)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-crust-medium-(with-garlic-margarine-on-crust)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651435",
+      "food_name": "Stuffed Crust - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/stuffed-crust-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651466",
+      "food_name": "Black Olives - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/black-olives-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651625",
+      "food_name": "8 Meat Specialty Pizza - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/8-meat-specialty-pizza-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651644",
+      "food_name": "Veggie Specialty Pizza - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/veggie-specialty-pizza-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651662",
+      "food_name": "BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/bbq-sauce",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651688",
+      "food_name": "Beets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/beets",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651703",
+      "food_name": "Cauliflower",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cauliflower",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651726",
+      "food_name": "Grape Tomatoes (3 Pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/grape-tomatoes-(3-pcs)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651760",
+      "food_name": "Lettuce Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/lettuce-mix",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651861",
+      "food_name": "Sunflower Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/sunflower-seeds",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651888",
+      "food_name": "Unicorn Churros (5 Pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/unicorn-churros-(5-pcs)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651918",
+      "food_name": "Banana Split Dippin' Dots (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/banana-split-dippin-dots-(small)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652002",
+      "food_name": "Boneless Chicken Wings Plain Blue Cheese Dressing (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-blue-cheese-dressing-(small)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652312",
+      "food_name": "Traditional Chicken Wings with BBQ Sauce - Plain (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-with-bbq-sauce-plain-(large)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652341",
+      "food_name": "Traditional Chicken Wings Blue Cheese Dressing - Plain (XL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-blue-cheese-dressing-plain-(xl)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652349",
+      "food_name": "Cake Image, Barbie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cake-image-barbie",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652396",
+      "food_name": "Cheese, Mozzarella, Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cheese-mozzarella-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652519",
+      "food_name": "Crust, Traditional Medium, No Garlic Marg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/crust-traditional-medium-no-garlic-marg",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652532",
+      "food_name": "Crust, Traditional XL, No Garlic Marg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/crust-traditional-xl-no-garlic-marg",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652540",
+      "food_name": "Dessert, Cotton Candy Blue (Boo), 1/5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/dessert-cotton-candy-blue-(boo)-1-5-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652806",
+      "food_name": "Ice Cream Bar, Strawberry Shortcake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-bar-strawberry-shortcake",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652925",
+      "food_name": "Ice Cream, Bomb Pop, Red, White and Blue",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-bomb-pop-red-white-and-blue",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652952",
+      "food_name": "Ice Cream, Dippin' Dots, Brownie Batter, Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-dippin-dots-brownie-batter-small",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653013",
+      "food_name": "Ice Cream, Dippin' Dots, Rainbow Ice, Mega Super Star",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-dippin-dots-rainbow-ice-mega-super-star",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653065",
+      "food_name": "Salad Bar, Dressing, Caesar, 1 Tbsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-dressing-caesar-1-tbsp",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653076",
+      "food_name": "Salad Bar, Egg Hard Cooked, 1 Each",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-egg-hard-cooked-1-each",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653088",
+      "food_name": "Salad Bar, Macaroni Salad, 1/2 Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-macaroni-salad-1-2-cup",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653096",
+      "food_name": "Salad Bar, Parmesan Cheese, 1 Tbsp, 0.25 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-parmesan-cheese-1-tbsp-025-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653110",
+      "food_name": "Salad Bar, Red Skin Potato Salad, 1/2 Cup, 1.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-red-skin-potato-salad-1-2-cup-15-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653140",
+      "food_name": "Side, Carrots 4 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/side-carrots-4-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653169",
+      "food_name": "Side, French Fries 8 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/side-french-fries-8-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653283",
+      "food_name": "Topping, Black Olives, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-black-olives-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653292",
+      "food_name": "Topping, Canadian Bacon, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-canadian-bacon-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653475",
+      "food_name": "Wings, BBQ, Boneless Small, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-bbq-boneless-small-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653540",
+      "food_name": "Wings, Sweet Chili, Traditional Small, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-sweet-chili-traditional-small-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87388871",
+      "food_name": "5 Meat Specialty Pizza - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/5-meat-specialty-pizza-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87388880",
+      "food_name": "5 Meat Specialty Pizza - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/5-meat-specialty-pizza-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651268",
+      "food_name": "Extra Mozzarella Cheese - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/extra-mozzarella-cheese-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651272",
+      "food_name": "Extra Mozzarella Cheese - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/extra-mozzarella-cheese-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651405",
+      "food_name": "Mozzarella Cheese - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/mozzarella-cheese-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651411",
+      "food_name": "Mozzarella Cheese - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/mozzarella-cheese-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651428",
+      "food_name": "Traditional Crust - X-Large (No Garlic Margarine on Crust)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-crust-x-large-(no-garlic-margarine-on-crust)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651430",
+      "food_name": "Traditional Crust - X-Large (with Garlic Margarine on Crust)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-crust-x-large-(with-garlic-margarine-on-crust)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651436",
+      "food_name": "Smart Flour Gluten Free Crust - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/smart-flour-gluten-free-crust-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651438",
+      "food_name": "Red Sauce - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/red-sauce-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651446",
+      "food_name": "Bacon - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/bacon-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651449",
+      "food_name": "Bacon - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/bacon-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651463",
+      "food_name": "Black Olives - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/black-olives-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651472",
+      "food_name": "Canadian Bacon - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/canadian-bacon-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651473",
+      "food_name": "Canadian Bacon - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/canadian-bacon-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651477",
+      "food_name": "Canadian Bacon - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/canadian-bacon-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651482",
+      "food_name": "Chicken - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/chicken-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651486",
+      "food_name": "Chicken - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/chicken-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651502",
+      "food_name": "Green Peppers - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/green-peppers-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651518",
+      "food_name": "Green Peppers - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/green-peppers-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651526",
+      "food_name": "Jalapenos - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/jalapenos-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651532",
+      "food_name": "Mushrooms - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/mushrooms-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651538",
+      "food_name": "Mushrooms - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/mushrooms-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651543",
+      "food_name": "Mushrooms - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/mushrooms-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651573",
+      "food_name": "Pineapple - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/pineapple-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651577",
+      "food_name": "Pineapple - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/pineapple-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651580",
+      "food_name": "Red Onion - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/red-onion-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651586",
+      "food_name": "Red Onion - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/red-onion-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651589",
+      "food_name": "Sausage - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/sausage-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651601",
+      "food_name": "Sausage - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/sausage-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651611",
+      "food_name": "Tomato - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/tomato-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651615",
+      "food_name": "Tomato - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/tomato-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651658",
+      "food_name": "Mandarin Oranges",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/mandarin-oranges",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651681",
+      "food_name": "Sweet Chili Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/sweet-chili-sauce",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651689",
+      "food_name": "Black Olives",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/black-olives",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651693",
+      "food_name": "Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/broccoli",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651700",
+      "food_name": "Carrots (3 Pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/carrots-(3-pcs)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651710",
+      "food_name": "Crackers (2 pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/crackers-(2-pcs)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651714",
+      "food_name": "Croutons",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/croutons",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651723",
+      "food_name": "Garlic Sesame Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/garlic-sesame-sticks",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651756",
+      "food_name": "Jalapenos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/jalapenos",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651866",
+      "food_name": "Yellow Squash (3 Slices)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/yellow-squash-(3-slices)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651879",
+      "food_name": "Caesar Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/caesar-dressing",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651957",
+      "food_name": "Green Cotton Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/green-cotton-candy",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651965",
+      "food_name": "Chocolate 8-inch Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/chocolate-8-inch-cake",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651976",
+      "food_name": "Barbie Edible Cake Image",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/barbie-edible-cake-image",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652114",
+      "food_name": "Celery (12 Pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/celery-(12-pcs)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652125",
+      "food_name": "Boneless Chicken Wings Plain Lite Ranch Dressing (XL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-lite-ranch-dressing-(xl)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652129",
+      "food_name": "Celery (16 Pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/celery-(16-pcs)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652136",
+      "food_name": "Traditional Chicken Wings with Buffalo Sauce - Plain (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-with-buffalo-sauce-plain-(small)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652138",
+      "food_name": "Traditional Chicken Wings with Sweet Chili Sauce - Plain (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-with-sweet-chili-sauce-plain-(small)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652292",
+      "food_name": "Romaine Lettuce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/romaine-lettuce",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652298",
+      "food_name": "Traditional Chicken Wings with BBQ Sauce - Plain (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-with-bbq-sauce-plain-(medium)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652299",
+      "food_name": "Traditional Chicken Wings with Buffalo Sauce - Plain (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-with-buffalo-sauce-plain-(medium)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652303",
+      "food_name": "Traditional Chicken Wings with Sweet Chili Sauce - Plain (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-with-sweet-chili-sauce-plain-(medium)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652311",
+      "food_name": "Traditional Chicken Wings - Plain (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-plain-(large)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652318",
+      "food_name": "Traditional Chicken Wings Lite Ranch Dressing - Plain (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-lite-ranch-dressing-plain-(large)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652325",
+      "food_name": "Traditional Chicken Wings - Plain (XL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-plain-(xl)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652336",
+      "food_name": "Traditional Chicken Wings with Sweet Chili Sauce - Plain (XL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-with-sweet-chili-sauce-plain-(xl)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652339",
+      "food_name": "Traditional Chicken Wings Lite Ranch Dressing - Plain (XL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-lite-ranch-dressing-plain-(xl)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652351",
+      "food_name": "Cake Image, Batman",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cake-image-batman",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652356",
+      "food_name": "Cake Image, Paw Patrol",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cake-image-paw-patrol",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652372",
+      "food_name": "Celery 12 Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/celery-12-sticks",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652387",
+      "food_name": "Cheese Extra, Mozzarella, Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cheese-extra-mozzarella-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652391",
+      "food_name": "Cheese Extra, Mozzarella, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cheese-extra-mozzarella-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652394",
+      "food_name": "Cheese Extra, Mozzarella, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cheese-extra-mozzarella-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652495",
+      "food_name": "Crust, Gluten Free",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/crust-gluten-free",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652498",
+      "food_name": "Crust, Stuffed,  Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/crust-stuffed-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652510",
+      "food_name": "Crust, Stuffed, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/crust-stuffed-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652514",
+      "food_name": "Crust, Traditional Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/crust-traditional-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652515",
+      "food_name": "Crust, Traditional  Large,  No Garlic Marg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/crust-traditional-large-no-garlic-marg",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652533",
+      "food_name": "Crust, Traditional XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/crust-traditional-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652793",
+      "food_name": "Dessert, Cotton Candy Pink, Silly Nilly, 1/5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/dessert-cotton-candy-pink-silly-nilly-1-5-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652796",
+      "food_name": "Dressing, Blue Cheese 4 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/dressing-blue-cheese-4-fl-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652798",
+      "food_name": "Dressing, Lite Ranch 4 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/dressing-lite-ranch-4-fl-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652928",
+      "food_name": "Ice Cream, Dippin' Dots, Banana Split, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-dippin-dots-banana-split-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652946",
+      "food_name": "Ice Cream, Dippin' Dots, Brownie Batter, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-dippin-dots-brownie-batter-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652948",
+      "food_name": "Ice Cream, Dippin' Dots, Brownie Batter, Mega Super Star",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-dippin-dots-brownie-batter-mega-super-star",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653038",
+      "food_name": "Salad Bar, Broccoli, 1 Tong, 0.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-broccoli-1-tong-05-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653048",
+      "food_name": "Salad Bar, Carrots, 3 Eachm, 0.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-carrots-3-eachm-05-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653050",
+      "food_name": "Salad Bar, Cauliflower, 1 Tong, 0.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-cauliflower-1-tong-05-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653080",
+      "food_name": "Salad Bar, Grapes , 0.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-grapes-05-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653085",
+      "food_name": "Salad Bar, Jalapenos, 1 Tbsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-jalapenos-1-tbsp",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653091",
+      "food_name": "Salad Bar, Mushrooms, 1 Tong, 0.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-mushrooms-1-tong-05-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653116",
+      "food_name": "Salad Bar, Strawberry Parfait, 1/2 Cup, 1.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-strawberry-parfait-1-2-cup-15-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653122",
+      "food_name": "Salad Bar, Yellow Squash, 3 Slices, 0.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-yellow-squash-3-slices-05-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653123",
+      "food_name": "Salad Bar, Zucchini, 3 Slices, 0.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-zucchini-3-slices-05-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653131",
+      "food_name": "Sauce, Red, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/sauce-red-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653132",
+      "food_name": "Side, BBQ Sauce 1.5 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/side-bbq-sauce-15-fl-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653136",
+      "food_name": "Side, Blue Cheese Dressing 1.5 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/side-blue-cheese-dressing-15-fl-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653139",
+      "food_name": "Side, Buffalo Sauce 1.5 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/side-buffalo-sauce-15-fl-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653181",
+      "food_name": "Side, Lite Ranch Dressing 1.5 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/side-lite-ranch-dressing-15-fl-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653185",
+      "food_name": "Side, Mandarin Oranges 4 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/side-mandarin-oranges-4-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653186",
+      "food_name": "Side, Pizza Sauce 1.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/side-pizza-sauce-15-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653187",
+      "food_name": "Side, Rotini Pasta Salad 4 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/side-rotini-pasta-salad-4-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653188",
+      "food_name": "Side, Sweet Chili Sauce 1.5 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/side-sweet-chili-sauce-15-fl-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653214",
+      "food_name": "Specialty Pizza, Veggie XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/specialty-pizza-veggie-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653216",
+      "food_name": "Topping, Bacon, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-bacon-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653220",
+      "food_name": "Topping, Bacon, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-bacon-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653229",
+      "food_name": "Topping, Bacon, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-bacon-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653295",
+      "food_name": "Topping, Canadian Bacon, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-canadian-bacon-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653299",
+      "food_name": "Topping, Chicken, Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-chicken-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653306",
+      "food_name": "Topping, Chicken, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-chicken-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653308",
+      "food_name": "Topping, Chicken, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-chicken-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653316",
+      "food_name": "Topping, Fresh Spinach, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-fresh-spinach-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653322",
+      "food_name": "Topping, Green Peppers, Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-green-peppers-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653324",
+      "food_name": "Topping, Green Peppers, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-green-peppers-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653327",
+      "food_name": "Topping, Green Peppers, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-green-peppers-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653342",
+      "food_name": "Topping, Jalapenos, Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-jalapenos-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653344",
+      "food_name": "Topping, Jalapenos, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-jalapenos-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653347",
+      "food_name": "Topping, Mushrooms, Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-mushrooms-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653352",
+      "food_name": "Topping, Mushrooms, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-mushrooms-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653359",
+      "food_name": "Topping, Pepperoni, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-pepperoni-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653360",
+      "food_name": "Topping, Pepperoni, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-pepperoni-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653364",
+      "food_name": "Topping, Pineapple, Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-pineapple-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653365",
+      "food_name": "Topping, Pineapple, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-pineapple-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653367",
+      "food_name": "Topping, Pineapple, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-pineapple-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653385",
+      "food_name": "Topping, Sausage, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-sausage-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653389",
+      "food_name": "Topping, Tomato, Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-tomato-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653390",
+      "food_name": "Topping, Tomato, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-tomato-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653397",
+      "food_name": "Wings, BBQ, Boneless  Large,  No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-bbq-boneless-large-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653407",
+      "food_name": "Wings, BBQ, Boneless Medium, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-bbq-boneless-medium-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653482",
+      "food_name": "Wings, BBQ, Traditional Medium, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-bbq-traditional-medium-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653486",
+      "food_name": "Wings, BBQ, Traditional XL, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-bbq-traditional-xl-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653494",
+      "food_name": "Wings, Buffalo, Boneless XL, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-buffalo-boneless-xl-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653497",
+      "food_name": "Wings, Buffalo, Traditional  Large,  No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-buffalo-traditional-large-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653505",
+      "food_name": "Wings, Plain, Boneless  Large,  No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-plain-boneless-large-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653511",
+      "food_name": "Wings, Plain, Boneless Medium, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-plain-boneless-medium-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653515",
+      "food_name": "Wings, Plain, Boneless Small, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-plain-boneless-small-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653516",
+      "food_name": "Wings, Plain, Boneless XL, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-plain-boneless-xl-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653520",
+      "food_name": "Wings, Plain, Traditional  Large,  No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-plain-traditional-large-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653524",
+      "food_name": "Wings, Plain, Traditional Small, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-plain-traditional-small-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653527",
+      "food_name": "Wings, Sweet Chili, Boneless  Large,  No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-sweet-chili-boneless-large-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653533",
+      "food_name": "Wings, Sweet Chili, Boneless XL, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-sweet-chili-boneless-xl-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87388886",
+      "food_name": "Blue Cheese Dressing - 1 Tbsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/blue-cheese-dressing-1-tbsp",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651281",
+      "food_name": "Extra Mozzarella Cheese - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/extra-mozzarella-cheese-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651414",
+      "food_name": "Traditional Crust - Individual (No Garlic Margarine on Crust)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-crust-individual-(no-garlic-margarine-on-crust)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651418",
+      "food_name": "Traditional Crust - Individual (with Garlic Margarine on Crust)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-crust-individual-(with-garlic-margarine-on-crust)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651423",
+      "food_name": "Traditional Crust - Large (with Garlic Margarine on Crust)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-crust-large-(with-garlic-margarine-on-crust)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651424",
+      "food_name": "Traditional Crust - Medium (No Garlic Margarine on Crust)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-crust-medium-(no-garlic-margarine-on-crust)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651437",
+      "food_name": "Red Sauce - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/red-sauce-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651440",
+      "food_name": "Red Sauce - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/red-sauce-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651443",
+      "food_name": "Red Sauce - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/red-sauce-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651445",
+      "food_name": "Bacon - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/bacon-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651447",
+      "food_name": "Bacon - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/bacon-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651451",
+      "food_name": "Beef - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/beef-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651455",
+      "food_name": "Beef - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/beef-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651458",
+      "food_name": "Beef - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/beef-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651461",
+      "food_name": "Beef - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/beef-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651468",
+      "food_name": "Black Olives - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/black-olives-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651471",
+      "food_name": "Black Olives - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/black-olives-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651474",
+      "food_name": "Canadian Bacon - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/canadian-bacon-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651483",
+      "food_name": "Chicken - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/chicken-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651484",
+      "food_name": "Chicken - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/chicken-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651488",
+      "food_name": "Fresh Spinach - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/fresh-spinach-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651494",
+      "food_name": "Fresh Spinach - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/fresh-spinach-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651498",
+      "food_name": "Fresh Spinach - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/fresh-spinach-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651499",
+      "food_name": "Fresh Spinach - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/fresh-spinach-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651505",
+      "food_name": "Green Peppers - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/green-peppers-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651516",
+      "food_name": "Green Peppers - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/green-peppers-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651521",
+      "food_name": "Jalapenos - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/jalapenos-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651530",
+      "food_name": "Jalapenos - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/jalapenos-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651540",
+      "food_name": "Mushrooms - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/mushrooms-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651570",
+      "food_name": "Pineapple - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/pineapple-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651579",
+      "food_name": "Red Onion - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/red-onion-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651584",
+      "food_name": "Red Onion - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/red-onion-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651604",
+      "food_name": "Sausage - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/sausage-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651608",
+      "food_name": "Tomato - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/tomato-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651648",
+      "food_name": "French Fries (8 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/french-fries-(8-oz)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651649",
+      "food_name": "Carrots (4 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/carrots-(4-oz)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651657",
+      "food_name": "Macaroni Salad (4 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/macaroni-salad-(4-oz)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651665",
+      "food_name": "Blue Cheese Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/blue-cheese-dressing",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651676",
+      "food_name": "Lite Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/lite-ranch-dressing",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651684",
+      "food_name": "Bacon Bits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/bacon-bits",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651720",
+      "food_name": "Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/eggs",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651772",
+      "food_name": "Oranges",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/oranges",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651852",
+      "food_name": "Spinach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/spinach",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651868",
+      "food_name": "Balsamic Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/balsamic-vinaigrette",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651884",
+      "food_name": "Red Wine Vinegar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/red-wine-vinegar",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651885",
+      "food_name": "Thousand Island Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/thousand-island-dressing",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651907",
+      "food_name": "Big Bopper Sandwich (Ice Cream)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/big-bopper-sandwich-(ice-cream)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651911",
+      "food_name": "Big Vanilla Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/big-vanilla-ice-cream-sandwich",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651933",
+      "food_name": "Cookies N Cream Dippin' Dots (Mega Super Star)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cookies-n-cream-dippin-dots-(mega-super-star)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651984",
+      "food_name": "Hello Kitty Edible Cake Image",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/hello-kitty-edible-cake-image",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651987",
+      "food_name": "Paw Patrol Edible Cake Image",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/paw-patrol-edible-cake-image",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651989",
+      "food_name": "PJ Masks Edible Cake Image",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/pj-masks-edible-cake-image",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651998",
+      "food_name": "Boneless Chicken Wings Plain with Sweet Chili Sauce (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-with-sweet-chili-sauce-(small)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652092",
+      "food_name": "Boneless Chicken Wings Plain Lite Ranch Dressing (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-lite-ranch-dressing-(medium)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652097",
+      "food_name": "Celery (8 Pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/celery-(8-pcs)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652102",
+      "food_name": "Boneless Chicken Wings Plain (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-(large)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652103",
+      "food_name": "Boneless Chicken Wings Plain with BBQ Sauce (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-with-bbq-sauce-(large)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652106",
+      "food_name": "Boneless Chicken Wings Plain with Buffalo Sauce (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-with-buffalo-sauce-(large)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652109",
+      "food_name": "Boneless Chicken Wings Plain with Sweet Chili Sauce (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-with-sweet-chili-sauce-(large)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652112",
+      "food_name": "Boneless Chicken Wings Plain Blue Cheese Dressing (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-blue-cheese-dressing-(large)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652116",
+      "food_name": "Boneless Chicken Wings Plain (XL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-(xl)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652117",
+      "food_name": "Boneless Chicken Wings Plain with BBQ Sauce (XL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-with-bbq-sauce-(xl)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652118",
+      "food_name": "Boneless Chicken Wings Plain with Buffalo Sauce (XL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-with-buffalo-sauce-(xl)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652122",
+      "food_name": "Boneless Chicken Wings Plain with Sweet Chili Sauce (XL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-with-sweet-chili-sauce-(xl)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652128",
+      "food_name": "Boneless Chicken Wings Plain Blue Cheese Dressing (XL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/boneless-chicken-wings-plain-blue-cheese-dressing-(xl)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652140",
+      "food_name": "Traditional Chicken Wings Lite Ranch Dressing - Plain (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-lite-ranch-dressing-plain-(small)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652295",
+      "food_name": "Traditional Chicken Wings Blue Cheese Dressing - Plain (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-blue-cheese-dressing-plain-(small)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652308",
+      "food_name": "Traditional Chicken Wings Blue Cheese Dressing - Plain (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-blue-cheese-dressing-plain-(medium)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652315",
+      "food_name": "Traditional Chicken Wings with Buffalo Sauce - Plain (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-with-buffalo-sauce-plain-(large)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652317",
+      "food_name": "Traditional Chicken Wings with Sweet Chili Sauce - Plain (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-with-sweet-chili-sauce-plain-(large)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652323",
+      "food_name": "Traditional Chicken Wings Blue Cheese Dressing - Plain (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-blue-cheese-dressing-plain-(large)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652329",
+      "food_name": "Traditional Chicken Wings with BBQ Sauce - Plain (XL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-with-bbq-sauce-plain-(xl)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652331",
+      "food_name": "Traditional Chicken Wings with Buffalo Sauce - Plain (XL)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/traditional-chicken-wings-with-buffalo-sauce-plain-(xl)",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652355",
+      "food_name": "Cake Image, Hello Kitty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cake-image-hello-kitty",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652357",
+      "food_name": "Cake Image, PJ Masks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cake-image-pj-masks",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652379",
+      "food_name": "Celery 16 Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/celery-16-sticks",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652385",
+      "food_name": "Celery 8 Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/celery-8-sticks",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652389",
+      "food_name": "Cheese Extra, Mozzarella, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cheese-extra-mozzarella-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652493",
+      "food_name": "Cheese, Mozzarella, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cheese-mozzarella-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652513",
+      "food_name": "Crust, Traditional Individual, No Garlic Marg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/crust-traditional-individual-no-garlic-marg",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652538",
+      "food_name": "Dessert, Churros",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/dessert-churros",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652920",
+      "food_name": "Ice Cream Sandwich, Big Bopper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-sandwich-big-bopper",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652940",
+      "food_name": "Ice Cream, Dippin' Dots, Banana Split, Mega Super Star",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-dippin-dots-banana-split-mega-super-star",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652956",
+      "food_name": "Ice Cream, Dippin' Dots, Cookies & Cream, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-dippin-dots-cookies-cream-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652958",
+      "food_name": "Ice Cream, Dippin' Dots, Cookies & Cream, Mega Super Star",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/ice-cream-dippin-dots-cookies-cream-mega-super-star",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653074",
+      "food_name": "Salad Bar, Dressing, Red Wine Vinegar, 1 Tsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-dressing-red-wine-vinegar-1-tsp",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653075",
+      "food_name": "Salad Bar, Dressing, Thousand Island, 1 Tbsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-dressing-thousand-island-1-tbsp",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653077",
+      "food_name": "Salad Bar, Garlic Sesame Sticks, 1 Tbsp, 0.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-garlic-sesame-sticks-1-tbsp-05-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653083",
+      "food_name": "Salad Bar, Green Pepper, 3 Slices, 0.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-green-pepper-3-slices-05-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653094",
+      "food_name": "Salad Bar, Oranges, 1 Slice, 0.25 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-oranges-1-slice-025-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653099",
+      "food_name": "Salad Bar, Potato Salad, 1/2 Cup, 1.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-potato-salad-1-2-cup-15-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653120",
+      "food_name": "Salad Bar, Watermelon, 1 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/salad-bar-watermelon-1-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653124",
+      "food_name": "Sauce, Red, Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/sauce-red-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653128",
+      "food_name": "Sauce, Red, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/sauce-red-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653175",
+      "food_name": "Side, Ketchup 1.5 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/side-ketchup-15-fl-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653183",
+      "food_name": "Side, Macaroni Salad 4 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/side-macaroni-salad-4-oz",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653195",
+      "food_name": "Specialty Pizza, 5 Meat  Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/specialty-pizza-5-meat-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653206",
+      "food_name": "Specialty Pizza, Veggie Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/specialty-pizza-veggie-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653215",
+      "food_name": "Topping, Bacon, Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-bacon-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653230",
+      "food_name": "Topping, Beef, Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-beef-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653268",
+      "food_name": "Topping, Beef, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-beef-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653269",
+      "food_name": "Topping, Beef, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-beef-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653272",
+      "food_name": "Topping, Beef, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-beef-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653274",
+      "food_name": "Topping, Black Olives, Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-black-olives-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653275",
+      "food_name": "Topping, Black Olives, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-black-olives-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653285",
+      "food_name": "Topping, Black Olives, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-black-olives-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653289",
+      "food_name": "Topping, Canadian Bacon, Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-canadian-bacon-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653310",
+      "food_name": "Topping, Chicken, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-chicken-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653313",
+      "food_name": "Topping, Fresh Spinach, Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-fresh-spinach-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653318",
+      "food_name": "Topping, Fresh Spinach, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-fresh-spinach-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653320",
+      "food_name": "Topping, Fresh Spinach, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-fresh-spinach-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653338",
+      "food_name": "Topping, Green Peppers, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-green-peppers-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653343",
+      "food_name": "Topping, Jalapenos, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-jalapenos-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653346",
+      "food_name": "Topping, Jalapenos, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-jalapenos-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653349",
+      "food_name": "Topping, Mushrooms, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-mushrooms-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653356",
+      "food_name": "Topping, Mushrooms, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-mushrooms-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653357",
+      "food_name": "Topping, Pepperoni, Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-pepperoni-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653369",
+      "food_name": "Topping, Pineapple, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-pineapple-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653377",
+      "food_name": "Topping, Red Onion, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-red-onion-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653379",
+      "food_name": "Topping, Red Onion, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-red-onion-medium",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653380",
+      "food_name": "Topping, Red Onion, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-red-onion-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653382",
+      "food_name": "Topping, Sausage, Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-sausage-individual",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653384",
+      "food_name": "Topping, Sausage, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-sausage-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653386",
+      "food_name": "Topping, Sausage, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-sausage-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653393",
+      "food_name": "Topping, Tomato, XL",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/topping-tomato-xl",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653477",
+      "food_name": "Wings, BBQ, Boneless XL, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-bbq-boneless-xl-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653480",
+      "food_name": "Wings, BBQ, Traditional  Large,  No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-bbq-traditional-large-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653483",
+      "food_name": "Wings, BBQ, Traditional Small, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-bbq-traditional-small-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653488",
+      "food_name": "Wings, Buffalo, Boneless  Large,  No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-buffalo-boneless-large-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653490",
+      "food_name": "Wings, Buffalo, Boneless Medium, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-buffalo-boneless-medium-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653492",
+      "food_name": "Wings, Buffalo, Boneless Small, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-buffalo-boneless-small-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653499",
+      "food_name": "Wings, Buffalo, Traditional Medium, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-buffalo-traditional-medium-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653501",
+      "food_name": "Wings, Buffalo, Traditional Small, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-buffalo-traditional-small-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653502",
+      "food_name": "Wings, Buffalo, Traditional XL, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-buffalo-traditional-xl-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653522",
+      "food_name": "Wings, Plain, Traditional Medium, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-plain-traditional-medium-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653525",
+      "food_name": "Wings, Plain, Traditional XL, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-plain-traditional-xl-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653530",
+      "food_name": "Wings, Sweet Chili, Boneless Medium, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-sweet-chili-boneless-medium-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653536",
+      "food_name": "Wings, Sweet Chili, Traditional  Large,  No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-sweet-chili-traditional-large-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653537",
+      "food_name": "Wings, Sweet Chili, Traditional Medium, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-sweet-chili-traditional-medium-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75653541",
+      "food_name": "Wings, Sweet Chili, Traditional XL, No Dressing or Celery",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/wings-sweet-chili-traditional-xl-no-dressing-or-celery",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87388882",
+      "food_name": "5 Meat Specialty Pizza - X-Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/5-meat-specialty-pizza-x-large",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75651980",
+      "food_name": "Chuck E. Cheese Edible Cake Image",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/chuck-e-cheese-edible-cake-image",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75652354",
+      "food_name": "Cake Image, Chuck E Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chuck-e-cheeses/cake-image-chuck-e-cheese",
+      "brand_name": "Chuck E. Cheese's",
+      "food_type": "Brand"
+    }
+  ]
+}

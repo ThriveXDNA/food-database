@@ -1,0 +1,34 @@
+{
+  "restaurant": "Blue C Sushi",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 1071,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:41:27.138Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/blue_c_sushi.json",
+  "items": [
+    {
+      "food_id": "991870",
+      "food_name": "Philly Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-c-sushi/philly-roll",
+      "brand_name": "Blue C Sushi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77333967",
+      "food_name": "Philly Roll (12pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-c-sushi/philly-roll-(12pcs)",
+      "brand_name": "Blue C Sushi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2737623",
+      "food_name": "Inari",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-c-sushi/inari",
+      "brand_name": "Blue C Sushi",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Valley Fresh",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 1176,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:37:09.298Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/valley_fresh.json",
+  "items": [
+    {
+      "food_id": "2066430",
+      "food_name": "100% Natural Canned Chicken Breast in Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/valley-fresh/100%25-natural-canned-chicken-breast-in-water",
+      "brand_name": "Valley Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1515440",
+      "food_name": "Blueberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/valley-fresh/blueberries",
+      "brand_name": "Valley Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18167526",
+      "food_name": "Organic Chicken Breast in Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/valley-fresh/organic-chicken-breast-in-water",
+      "brand_name": "Valley Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5133128",
+      "food_name": "100% Natural White & Dark Chicken in Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/valley-fresh/100%25-natural-white-and-dark-chicken-in-water",
+      "brand_name": "Valley Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "277772",
+      "food_name": "98% Fat Free Premium Chunk White Chicken in Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/valley-fresh/98%25-fat-free-premium-chunk-white-chicken-in-water",
+      "brand_name": "Valley Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61752",
+      "food_name": "100% Natural Premium White Chicken In Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/valley-fresh/100%25-natural-premium-white-chicken-in-water",
+      "brand_name": "Valley Fresh",
+      "food_type": "Brand"
+    }
+  ]
+}

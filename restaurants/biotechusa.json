@@ -1,0 +1,41 @@
+{
+  "restaurant": "Biotechusa",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:59:54.356Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/biotechusa.json",
+  "items": [
+    {
+      "food_id": "59503698",
+      "food_name": "Iso Whey Zero",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/biotechusa/iso-whey-zero",
+      "brand_name": "Biotechusa",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4419486",
+      "food_name": "Nitro Pure Whey Gold",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/biotechusa/nitro-pure-whey-gold",
+      "brand_name": "BiotechUSA",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53765613",
+      "food_name": "Zero Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/biotechusa/zero-bar",
+      "brand_name": "Biotechusa",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69248799",
+      "food_name": "Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/biotechusa/protein-bar",
+      "brand_name": "Biotechusa",
+      "food_type": "Brand"
+    }
+  ]
+}

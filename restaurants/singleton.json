@@ -1,0 +1,27 @@
+{
+  "restaurant": "Singleton",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:40:02.943Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/singleton.json",
+  "items": [
+    {
+      "food_id": "4179206",
+      "food_name": "Butterfly Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/singleton/butterfly-shrimp",
+      "brand_name": "Singleton",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23072004",
+      "food_name": "Sea Scallops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/singleton/sea-scallops",
+      "brand_name": "Singleton",
+      "food_type": "Brand"
+    }
+  ]
+}

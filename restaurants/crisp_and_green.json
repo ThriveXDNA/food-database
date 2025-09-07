@@ -1,0 +1,48 @@
+{
+  "restaurant": "Crisp and Green",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 4869,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:02:59.389Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/crisp_and_green.json",
+  "items": [
+    {
+      "food_id": "95079585",
+      "food_name": "Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crisp-and-green/salad",
+      "brand_name": "Crisp and Green",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84006820",
+      "food_name": "Chicken Bacon Ranch Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crisp-and-green/chicken-bacon-ranch-salad",
+      "brand_name": "Crisp and Green",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96806865",
+      "food_name": "Fiesta Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crisp-and-green/fiesta-bowl",
+      "brand_name": "Crisp and Green",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87387979",
+      "food_name": "Honey Mustard Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crisp-and-green/honey-mustard-wrap",
+      "brand_name": "Crisp and Green",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105338952",
+      "food_name": "Golden Hour Curry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crisp-and-green/golden-hour-curry",
+      "brand_name": "Crisp and Green",
+      "food_type": "Brand"
+    }
+  ]
+}

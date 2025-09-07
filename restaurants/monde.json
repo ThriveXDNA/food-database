@@ -1,0 +1,55 @@
+{
+  "restaurant": "Monde",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:00:48.883Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/monde.json",
+  "items": [
+    {
+      "food_id": "52536978",
+      "food_name": "Egg Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monde/egg-roll",
+      "brand_name": "Monde",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "975148",
+      "food_name": "Butter Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monde/butter-cookies",
+      "brand_name": "Monde",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87514923",
+      "food_name": "Pie Bis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monde/pie-bis",
+      "brand_name": "Monde",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3895840",
+      "food_name": "Butter Coconut Biscuits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monde/butter-coconut-biscuits",
+      "brand_name": "Monde",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61353030",
+      "food_name": "Cheese Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monde/cheese-bar",
+      "brand_name": "Monde",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3513347",
+      "food_name": "La Fin Du Monde",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/unibroue/la-fin-du-monde",
+      "brand_name": "Unibroue",
+      "food_type": "Brand"
+    }
+  ]
+}

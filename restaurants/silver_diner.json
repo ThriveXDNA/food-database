@@ -1,0 +1,90 @@
+{
+  "restaurant": "Silver Diner",
+  "total_items": 11,
+  "pages_extracted": 1,
+  "total_search_results": 39,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:33:54.539Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/silver_diner.json",
+  "items": [
+    {
+      "food_id": "14995703",
+      "food_name": "Lemon Chicken Picatta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/silver-diner/lemon-chicken-picatta",
+      "brand_name": "Silver Diner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9606575",
+      "food_name": "Low Fat Vegetarian Omelette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/silver-diner/low-fat-vegetarian-omelette",
+      "brand_name": "Silver Diner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53868161",
+      "food_name": "Baja Fish Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/silver-diner/baja-fish-tacos",
+      "brand_name": "Silver Diner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1538041",
+      "food_name": "California Omelette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/silver-diner/california-omelette",
+      "brand_name": "Silver Diner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83974473",
+      "food_name": "Skewered Shrimp Bibimbap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/silver-diner/skewered-shrimp-bibimbap",
+      "brand_name": "Silver Diner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15750722",
+      "food_name": "Summertime Cod",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/silver-diner/summertime-cod",
+      "brand_name": "Silver Diner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13528522",
+      "food_name": "Bison Huevos Rancheros",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/silver-diner/bison-huevos-rancheros",
+      "brand_name": "Silver Diner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1555620",
+      "food_name": "Grilled Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/silver-diner/grilled-salmon",
+      "brand_name": "Silver Diner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4572281",
+      "food_name": "Power Breakfast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/silver-diner/power-breakfast",
+      "brand_name": "Silver Diner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1074977",
+      "food_name": "Yogurt Parfait",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/silver-diner/yogurt-parfait",
+      "brand_name": "Silver Diner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1016073",
+      "food_name": "Summer Citrus Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/silver-diner/summer-citrus-salad",
+      "brand_name": "Silver Diner",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "restaurant": "La Chona",
+  "total_items": 11,
+  "pages_extracted": 3,
+  "total_search_results": 101,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:24:11.856Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/la_chona.json",
+  "items": [
+    {
+      "food_id": "17294948",
+      "food_name": "Quesadilla Mexican Style Melting Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-chona/quesadilla-mexican-style-melting-cheese",
+      "brand_name": "La Chona",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "436220",
+      "food_name": "Cotija Mexican Style Parmesan Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-chona/cotija-mexican-style-parmesan-cheese",
+      "brand_name": "La Chona",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "436210",
+      "food_name": "Quesadilla Mexican Shredded Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-chona/quesadilla-mexican-shredded-cheese",
+      "brand_name": "La Chona",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "234889",
+      "food_name": "Mexican Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-chona/mexican-cream",
+      "brand_name": "La Chona",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95339671",
+      "food_name": "Queso Fresco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-chona/queso-fresco",
+      "brand_name": "La Chona",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "436188",
+      "food_name": "Fresco Mexican Crumbling Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-chona/fresco-mexican-crumbling-cheese",
+      "brand_name": "La Chona",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2928738",
+      "food_name": "Mexican Style Sour Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-chona/mexican-style-sour-cream",
+      "brand_name": "La Chona",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "436203",
+      "food_name": "Panela Mexican Farmers Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-chona/panela-mexican-farmers-cheese",
+      "brand_name": "La Chona",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5054838",
+      "food_name": "Chorizo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-chona/chorizo",
+      "brand_name": "La Chona",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20526526",
+      "food_name": "Cueritos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-chona/cueritos",
+      "brand_name": "La Chona",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81969218",
+      "food_name": "Mild Chorizo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-chona/mild-chorizo",
+      "brand_name": "La Chona",
+      "food_type": "Brand"
+    }
+  ]
+}

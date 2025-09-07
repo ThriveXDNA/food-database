@@ -1,0 +1,41 @@
+{
+  "restaurant": "Rice King",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 4398,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:06:05.482Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rice_king.json",
+  "items": [
+    {
+      "food_id": "5106692",
+      "food_name": "Brown Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rice-king/brown-rice",
+      "brand_name": "Rice King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55345873",
+      "food_name": "Multi Grain Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rice-king/multi-grain-rice",
+      "brand_name": "Rice King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "421436",
+      "food_name": "Vegetable Chop Suey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rice-king/vegetable-chop-suey",
+      "brand_name": "Rice King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "639487",
+      "food_name": "Orange Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rice-king/orange-chicken",
+      "brand_name": "Rice King",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "brand_name": "Brandt",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:45:30.043Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/brandt.json",
+  "items": [
+    {
+      "food_id": "46392640",
+      "food_name": "Turkey Kolbassa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brandt/turkey-kolbassa",
+      "brand_name": "Brandt",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3497999",
+      "food_name": "Knackwurst Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brandt/knackwurst-sausage",
+      "brand_name": "Brandt",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "693953",
+      "food_name": "Liversausage Fine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brandt/liversausage-fine",
+      "brand_name": "Brandt",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46355612",
+      "food_name": "Zwieback",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brandt/zwieback",
+      "brand_name": "Brandt",
+      "food_type": "Brand"
+    }
+  ]
+}

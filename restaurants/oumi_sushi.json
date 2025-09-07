@@ -1,0 +1,34 @@
+{
+  "restaurant": "Oumi Sushi",
+  "total_items": 3,
+  "pages_extracted": 2,
+  "total_search_results": 63,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:41:29.037Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/oumi_sushi.json",
+  "items": [
+    {
+      "food_id": "28387600",
+      "food_name": "Krispy Krab Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oumi-sushi/krispy-krab-roll",
+      "brand_name": "Oumi Sushi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34212329",
+      "food_name": "Krab Salad Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oumi-sushi/krab-salad-roll",
+      "brand_name": "Oumi Sushi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36035511",
+      "food_name": "Spicy Tuna Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oumi-sushi/spicy-tuna-roll",
+      "brand_name": "Oumi Sushi",
+      "food_type": "Brand"
+    }
+  ]
+}

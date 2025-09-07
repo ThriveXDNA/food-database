@@ -1,0 +1,48 @@
+{
+  "restaurant": "Ocean Prince",
+  "total_items": 5,
+  "pages_extracted": 2,
+  "total_search_results": 55,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:39:49.858Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ocean_prince.json",
+  "items": [
+    {
+      "food_id": "927610",
+      "food_name": "Kipper Snacks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-prince/kipper-snacks",
+      "brand_name": "Ocean Prince",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4768817",
+      "food_name": "Sardines in Louisiana Hot Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-prince/sardines-in-louisiana-hot-sauce",
+      "brand_name": "Ocean Prince",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3854868",
+      "food_name": "Smoked Oysters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-prince/smoked-oysters",
+      "brand_name": "Ocean Prince",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23427660",
+      "food_name": "Sardines in Mustard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-prince/sardines-in-mustard",
+      "brand_name": "Ocean Prince",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3325949",
+      "food_name": "Smoked Oysters with Red Chili Pepper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-prince/smoked-oysters-with-red-chili-pepper",
+      "brand_name": "Ocean Prince",
+      "food_type": "Brand"
+    }
+  ]
+}

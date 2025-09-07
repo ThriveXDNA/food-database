@@ -1,0 +1,41 @@
+{
+  "restaurant": "Del Destino",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 28,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:27:57.098Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/del_destino.json",
+  "items": [
+    {
+      "food_id": "15356290",
+      "food_name": "Sliced Mangos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/del-destino/sliced-mangos",
+      "brand_name": "Del Destino",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7460622",
+      "food_name": "Grilled Asparagus Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/del-destino/grilled-asparagus-salad",
+      "brand_name": "Del Destino",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10278190",
+      "food_name": "Grilled Vegetable Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/del-destino/grilled-vegetable-mix",
+      "brand_name": "Del Destino",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4641085",
+      "food_name": "Whole Fire Roasted Red Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/del-destino/whole-fire-roasted-red-peppers",
+      "brand_name": "Del Destino",
+      "food_type": "Brand"
+    }
+  ]
+}

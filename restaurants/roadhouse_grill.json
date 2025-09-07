@@ -1,0 +1,76 @@
+{
+  "restaurant": "Roadhouse Grill",
+  "total_items": 9,
+  "pages_extracted": 3,
+  "total_search_results": 112,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:48:57.372Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/roadhouse_grill.json",
+  "items": [
+    {
+      "food_id": "1744228",
+      "food_name": "Dinner Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roadhouse-grill/dinner-salad",
+      "brand_name": "Roadhouse Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "116558",
+      "food_name": "Prime Rib Roast Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roadhouse-grill/prime-rib-roast-steak",
+      "brand_name": "Roadhouse Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1744248",
+      "food_name": "Yeast Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roadhouse-grill/yeast-roll",
+      "brand_name": "Roadhouse Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3448079",
+      "food_name": "Steamed Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roadhouse-grill/steamed-broccoli",
+      "brand_name": "Roadhouse Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2827215",
+      "food_name": "Baked Sweet Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roadhouse-grill/baked-sweet-potato",
+      "brand_name": "Roadhouse Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3489096",
+      "food_name": "Roadhouse Broil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roadhouse-grill/roadhouse-broil",
+      "brand_name": "Roadhouse Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74396656",
+      "food_name": "Roadhouse Grilled Chicken Cobb without Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/logans-roadhouse/roadhouse-grilled-chicken-cobb-without-dressing",
+      "brand_name": "Logan's Roadhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19545458",
+      "food_name": "Roadhouse Baked Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-roadhouse-grill/roadhouse-baked-beans",
+      "brand_name": "Original Roadhouse Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4376989",
+      "food_name": "Roadhouse Dinner Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-roadhouse-grill/roadhouse-dinner-salad",
+      "brand_name": "Original Roadhouse Grill",
+      "food_type": "Brand"
+    }
+  ]
+}

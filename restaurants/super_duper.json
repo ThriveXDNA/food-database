@@ -1,0 +1,41 @@
+{
+  "restaurant": "Super Duper",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 641,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:24:55.048Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/super_duper.json",
+  "items": [
+    {
+      "food_id": "50513027",
+      "food_name": "Mini Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-duper/mini-burger",
+      "brand_name": "Super Duper",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16977722",
+      "food_name": "Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-duper/chicken-sandwich",
+      "brand_name": "Super Duper",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24470684",
+      "food_name": "French Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-duper/french-fries",
+      "brand_name": "Super Duper",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2531611",
+      "food_name": "Super Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-duper/super-burger",
+      "brand_name": "Super Duper",
+      "food_type": "Brand"
+    }
+  ]
+}

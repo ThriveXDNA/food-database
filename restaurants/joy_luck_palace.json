@@ -1,0 +1,27 @@
+{
+  "restaurant": "Joy Luck Palace",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 27,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:44:11.673Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/joy_luck_palace.json",
+  "items": [
+    {
+      "food_id": "7963633",
+      "food_name": "Moon Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joy-luck-palace/moon-cake",
+      "brand_name": "Joy Luck Palace",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52866534",
+      "food_name": "Double Yolk Mooncake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joy-luck-palace/double-yolk-mooncake",
+      "brand_name": "Joy Luck Palace",
+      "food_type": "Brand"
+    }
+  ]
+}

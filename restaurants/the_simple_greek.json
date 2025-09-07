@@ -1,0 +1,62 @@
+{
+  "restaurant": "The Simple Greek",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 2994,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:29:52.546Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_simple_greek.json",
+  "items": [
+    {
+      "food_id": "27732998",
+      "food_name": "Garlic Green Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-simple-greek/garlic-green-beans",
+      "brand_name": "The Simple Greek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28771251",
+      "food_name": "Chicken Gyro",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-simple-greek/chicken-gyro",
+      "brand_name": "The Simple Greek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27732940",
+      "food_name": "Village Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-simple-greek/village-salad",
+      "brand_name": "The Simple Greek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36788047",
+      "food_name": "Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-simple-greek/grilled-chicken",
+      "brand_name": "The Simple Greek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26856374",
+      "food_name": "Mixed Greens",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-simple-greek/mixed-greens",
+      "brand_name": "The Simple Greek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27732975",
+      "food_name": "Tzatziki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-simple-greek/tzatziki",
+      "brand_name": "The Simple Greek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23540672",
+      "food_name": "Feta Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-simple-greek/feta-cheese",
+      "brand_name": "The Simple Greek",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "restaurant": "Golden Island",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 809,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:51:47.512Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/golden_island.json",
+  "items": [
+    {
+      "food_id": "60196835",
+      "food_name": "Korean BBQ Snack Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-island/korean-bbq-snack-bites",
+      "brand_name": "Golden Island",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4071614",
+      "food_name": "Korean Barbecue Pork Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-island/korean-barbecue-pork-jerky",
+      "brand_name": "Golden Island",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1267637",
+      "food_name": "Pork Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-island/pork-jerky",
+      "brand_name": "Golden Island",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13834211",
+      "food_name": "Five Spice Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-island/five-spice-beef-jerky",
+      "brand_name": "Golden Island",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13115095",
+      "food_name": "Teriyaki Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-island/teriyaki-beef-jerky",
+      "brand_name": "Golden Island",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "restaurant": "Asia Specialties",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:36:27.565Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/asia_specialties.json",
+  "items": [
+    {
+      "food_id": "84132",
+      "food_name": "Sesame Orange Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/asia-specialties/sesame-orange-chicken",
+      "brand_name": "Asia Specialties",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1932491",
+      "food_name": "Chicken Fried Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/asia-specialties/chicken-fried-rice",
+      "brand_name": "Asia Specialties",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1543483",
+      "food_name": "Pork Egg Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/asia-specialties/pork-egg-rolls",
+      "brand_name": "Asia Specialties",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71768",
+      "food_name": "Oriental Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/asia-specialties/oriental-vegetables",
+      "brand_name": "Asia Specialties",
+      "food_type": "Brand"
+    }
+  ]
+}

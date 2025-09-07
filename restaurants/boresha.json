@@ -1,0 +1,20 @@
+{
+  "restaurant": "Boresha",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 1,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:08:14.447Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/boresha.json",
+  "items": [
+    {
+      "food_id": "3069827",
+      "food_name": "Bskinny Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boresha/bskinny-latte",
+      "brand_name": "Boresha",
+      "food_type": "Brand"
+    }
+  ]
+}

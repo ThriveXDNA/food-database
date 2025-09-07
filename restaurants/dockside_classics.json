@@ -1,0 +1,48 @@
+{
+  "restaurant": "Dockside Classics",
+  "total_items": 5,
+  "pages_extracted": 4,
+  "total_search_results": 153,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:37:33.167Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dockside_classics.json",
+  "items": [
+    {
+      "food_id": "93317",
+      "food_name": "Crab Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dockside-classics/crab-cakes",
+      "brand_name": "Dockside Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "252456",
+      "food_name": "Lobster Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dockside-classics/lobster-cakes",
+      "brand_name": "Dockside Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2748955",
+      "food_name": "Stuffed Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dockside-classics/stuffed-shrimp",
+      "brand_name": "Dockside Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2944305",
+      "food_name": "Premium Crab Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dockside-classics/premium-crab-cakes",
+      "brand_name": "Dockside Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "482942",
+      "food_name": "Maryland Style Crab Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dockside-classics/maryland-style-crab-cakes",
+      "brand_name": "Dockside Classics",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "restaurant": "Bare Bones",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 42,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:06:46.827Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bare_bones.json",
+  "items": [
+    {
+      "food_id": "34602384",
+      "food_name": "Beef Bone Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bare-bones/beef-bone-broth",
+      "brand_name": "Bare Bones",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23579463",
+      "food_name": "Chicken Bone Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bare-bones/chicken-bone-broth",
+      "brand_name": "Bare Bones",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43650394",
+      "food_name": "Grass-Fed Beef Bone Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bare-bones/grass-fed-beef-bone-broth",
+      "brand_name": "Bare Bones",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "102699303",
+      "food_name": "Elevated Drink Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bare-bones/elevated-drink-mix",
+      "brand_name": "Bare Bones",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78668440",
+      "food_name": "Lentil Curry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bare-bones/lentil-curry",
+      "brand_name": "Bare Bones",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75080128",
+      "food_name": "Cheesy Broccoli Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bare-bones/cheesy-broccoli-soup",
+      "brand_name": "Bare Bones",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64026120",
+      "food_name": "Buffalo Cauliflower Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bare-bones/buffalo-cauliflower-soup",
+      "brand_name": "Bare Bones",
+      "food_type": "Brand"
+    }
+  ]
+}

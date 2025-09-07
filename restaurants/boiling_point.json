@@ -1,0 +1,48 @@
+{
+  "restaurant": "Boiling Point",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 19,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:40:04.192Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/boiling_point.json",
+  "items": [
+    {
+      "food_id": "21726156",
+      "food_name": "Beef Hot Pot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boiling-point/beef-hot-pot",
+      "brand_name": "Boiling Point",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49611564",
+      "food_name": "Lamb Hot Pot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boiling-point/lamb-hot-pot",
+      "brand_name": "Boiling Point",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74304207",
+      "food_name": "Lemon QQ Jelly",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boiling-point/lemon-qq-jelly",
+      "brand_name": "Boiling Point",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22337203",
+      "food_name": "Japanese Miso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boiling-point/japanese-miso",
+      "brand_name": "Boiling Point",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70856028",
+      "food_name": "Spicy Tangy Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boiling-point/spicy-tangy-beef",
+      "brand_name": "Boiling Point",
+      "food_type": "Brand"
+    }
+  ]
+}

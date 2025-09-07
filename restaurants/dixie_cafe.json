@@ -1,0 +1,27 @@
+{
+  "restaurant": "Dixie Cafe",
+  "total_items": 2,
+  "pages_extracted": 5,
+  "total_search_results": 236,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:16:24.716Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dixie_cafe.json",
+  "items": [
+    {
+      "food_id": "6703210",
+      "food_name": "Chicken Fried Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dixie-cafe/chicken-fried-steak",
+      "brand_name": "Dixie Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8856332",
+      "food_name": "Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dixie-cafe/mashed-potatoes",
+      "brand_name": "Dixie Cafe",
+      "food_type": "Brand"
+    }
+  ]
+}

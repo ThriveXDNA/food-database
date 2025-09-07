@@ -1,0 +1,76 @@
+{
+  "restaurant": "Pop Daddy",
+  "total_items": 9,
+  "pages_extracted": 6,
+  "total_search_results": 318,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:49:39.375Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pop_daddy.json",
+  "items": [
+    {
+      "food_id": "47822742",
+      "food_name": "Dill Pickle Pretzel Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pop-daddy/dill-pickle-pretzel-sticks",
+      "brand_name": "Pop Daddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46583356",
+      "food_name": "Garlic Parmesan Pretzel Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pop-daddy/garlic-parmesan-pretzel-sticks",
+      "brand_name": "Pop Daddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30960194",
+      "food_name": "Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pop-daddy/popcorn",
+      "brand_name": "Pop Daddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61251766",
+      "food_name": "Smoked Gouda Pretzel Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pop-daddy/smoked-gouda-pretzel-sticks",
+      "brand_name": "Pop Daddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66572331",
+      "food_name": "Yellow Mustard Pretzel Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pop-daddy/yellow-mustard-pretzel-sticks",
+      "brand_name": "Pop Daddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86255583",
+      "food_name": "Beer Cheese Pretzel Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pop-daddy/beer-cheese-pretzel-sticks",
+      "brand_name": "Pop Daddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92814396",
+      "food_name": "Maple & Brown Butter Pretzel Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pop-daddy/maple-brown-butter-pretzel-sticks",
+      "brand_name": "Pop Daddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57162480",
+      "food_name": "Peppercorn Ranch Pretzel Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pop-daddy/peppercorn-ranch-pretzel-sticks",
+      "brand_name": "Pop Daddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48632340",
+      "food_name": "Chipotle BBQ Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pop-daddy/chipotle-bbq-popcorn",
+      "brand_name": "Pop Daddy",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Plant Boss",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 446,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:32:14.576Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/plant_boss.json",
+  "items": [
+    {
+      "food_id": "65621958",
+      "food_name": "Plant Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/plant-boss/plant-taco",
+      "brand_name": "Plant Boss",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78866487",
+      "food_name": "Italian Plant Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/plant-boss/italian-plant-sausage",
+      "brand_name": "Plant Boss",
+      "food_type": "Brand"
+    }
+  ]
+}

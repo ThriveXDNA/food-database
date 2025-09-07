@@ -1,0 +1,783 @@
+{
+  "restaurant": "Saladworks",
+  "total_items": 110,
+  "pages_extracted": 3,
+  "total_search_results": 110,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:32:53.364Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/saladworks.json",
+  "items": [
+    {
+      "food_id": "75990048",
+      "food_name": "Crispy Rice Marshmallow Treat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/crispy-rice-marshmallow-treat",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989801",
+      "food_name": "Avocado BLT Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/avocado-blt-sandwich",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989684",
+      "food_name": "Grilled Chicken Mediterranean Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/grilled-chicken-mediterranean-salad",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989753",
+      "food_name": "Grilled Chicken Mediterranean Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/grilled-chicken-mediterranean-wrap",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989749",
+      "food_name": "Grilled Chicken Caesar Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/grilled-chicken-caesar-wrap",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989683",
+      "food_name": "Grilled Chicken Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/grilled-chicken-caesar-salad",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001431",
+      "food_name": "Signature Tofu Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/signature-tofu-salad",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989667",
+      "food_name": "Asian Crispy Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/asian-crispy-chicken-salad",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001530",
+      "food_name": "Extra Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/extra-roll",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989802",
+      "food_name": "Cranberry 'n Pecan Chicken Salad Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/cranberry-n-pecan-chicken-salad-sandwich",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001489",
+      "food_name": "Classic Greek Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/classic-greek-wrap",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989689",
+      "food_name": "Southwest Chipotle Ranch Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/southwest-chipotle-ranch-salad",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989784",
+      "food_name": "Buffalo Chicken Panini Melt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/buffalo-chicken-panini-melt",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989669",
+      "food_name": "Avocado Cobb Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/avocado-cobb-salad",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990039",
+      "food_name": "Cheddar Sun Chips - 1 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/cheddar-sun-chips-1-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1009876",
+      "food_name": "Sophie's Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/sophies-salad",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989679",
+      "food_name": "Farmers Market Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/farmers-market-salad",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989685",
+      "food_name": "Roasted Turkey Club Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/roasted-turkey-club-salad",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001451",
+      "food_name": "Smoky BBQ Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/smoky-bbq-chicken-salad",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001482",
+      "food_name": "Asian Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/asian-chicken-wrap",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989671",
+      "food_name": "Classic Greek Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/classic-greek-salad",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001428",
+      "food_name": "Italian Tivoli Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/italian-tivoli-salad",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989664",
+      "food_name": "Summer Berry Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/summer-berry-salad",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990172",
+      "food_name": "Balsamic Vinaigrette - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/balsamic-vinaigrette-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1128033",
+      "food_name": "Buffalo Bleu Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/buffalo-bleu-salad",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989792",
+      "food_name": "Tomato Mozzarella 'N Basil Panini Melt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/tomato-mozzarella-n-basil-panini-melt",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990184",
+      "food_name": "Greek Vinaigrette - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/greek-vinaigrette-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001543",
+      "food_name": "Creamy Garlic Herb Dressing - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/creamy-garlic-herb-dressing-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990176",
+      "food_name": "Creamy Blue Cheese - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/creamy-blue-cheese-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990213",
+      "food_name": "Lite Raspberry Vinaigrette - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/lite-raspberry-vinaigrette-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001494",
+      "food_name": "Summer Berry Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/summer-berry-bowl",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001510",
+      "food_name": "Broccoli Cheddar Soup - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/broccoli-cheddar-soup-large",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001523",
+      "food_name": "Miss Vickie's Salt and Vinegar Chips - 1 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/miss-vickies-salt-and-vinegar-chips-1-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989716",
+      "food_name": "Grilled Chicken Mediterranean Warm Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/grilled-chicken-mediterranean-warm-grain-bowl",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989729",
+      "food_name": "Classic Greek Warm Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/classic-greek-warm-grain-bowl",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989789",
+      "food_name": "Chipotle Chicken 'N Bacon Panini Melt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/chipotle-chicken-n-bacon-panini-melt",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989797",
+      "food_name": "Turkey Cheddar 'N Bacon Panini Melt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/turkey-cheddar-n-bacon-panini-melt",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989807",
+      "food_name": "Turkey Bacon 'n Ranch Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/turkey-bacon-n-ranch-sandwich",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989841",
+      "food_name": "Chicken Poblano Soup - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/chicken-poblano-soup-small",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989872",
+      "food_name": "Lasagna with Turkey Sausage Soup - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/lasagna-with-turkey-sausage-soup-medium",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989699",
+      "food_name": "Grilled Chicken Caesar Warm Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/grilled-chicken-caesar-warm-grain-bowl",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989748",
+      "food_name": "Farmers Market Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/farmers-market-wrap",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990221",
+      "food_name": "Red Wine Vinegar - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/red-wine-vinegar-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990226",
+      "food_name": "Thousand Island - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/thousand-island-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001521",
+      "food_name": "Macadamia Nut Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/macadamia-nut-cookie",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989847",
+      "food_name": "Chicken Poblano Soup - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/chicken-poblano-soup-large",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990046",
+      "food_name": "Chocolate Fudge Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/chocolate-fudge-brownie",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001491",
+      "food_name": "Turkey ‘N Cheddar Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/turkey-%E2%80%98n-cheddar-sandwich",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001503",
+      "food_name": "Asian Chicken Warm Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/asian-chicken-warm-grain-bowl",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1006312",
+      "food_name": "Bently Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/bently-salad",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1009908",
+      "food_name": "Buffalo Bleu Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/buffalo-bleu-wrap",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989704",
+      "food_name": "Avocado Cobb Warm Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/avocado-cobb-warm-grain-bowl",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989829",
+      "food_name": "Chicken Noodle Soup - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/chicken-noodle-soup-small",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990187",
+      "food_name": "Green Goddess - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/green-goddess-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001539",
+      "food_name": "Sprite (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/sprite-(bottle)",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989881",
+      "food_name": "Lasagna with Turkey Sausage Soup - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/lasagna-with-turkey-sausage-soup-large",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990219",
+      "food_name": "Ranch - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/ranch-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990225",
+      "food_name": "Sweet Sesame - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/sweet-sesame-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001509",
+      "food_name": "Broccoli Cheddar Soup - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/broccoli-cheddar-soup-medium",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989741",
+      "food_name": "Bently Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/bently-wrap",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989837",
+      "food_name": "Chicken Noodle Soup - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/chicken-noodle-soup-large",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989844",
+      "food_name": "Chicken Poblano Soup - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/chicken-poblano-soup-medium",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989938",
+      "food_name": "Kids Grilled Chicken Caesar Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/kids-grilled-chicken-caesar-wrap",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989958",
+      "food_name": "Kids Grilled Chicken Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/kids-grilled-chicken-quesadilla",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990035",
+      "food_name": "Miss Vickie's BBQ Chips - 1 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/miss-vickies-bbq-chips-1-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001500",
+      "food_name": "Smoky BBQ Chicken Warm Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/smoky-bbq-chicken-warm-grain-bowl",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989708",
+      "food_name": "Bently Warm Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/bently-warm-grain-bowl",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989719",
+      "food_name": "Farmers Market Warm Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/farmers-market-warm-grain-bowl",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989722",
+      "food_name": "Roasted Turkey Club Warm Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/roasted-turkey-club-warm-grain-bowl",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989833",
+      "food_name": "Chicken Noodle Soup - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/chicken-noodle-soup-medium",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990029",
+      "food_name": "Miss Vickie's Jalapeno Chips - 1 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/miss-vickies-jalapeno-chips-1-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001528",
+      "food_name": "Housemade Lemon Olive Oil Vinaigrette - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/housemade-lemon-olive-oil-vinaigrette-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001532",
+      "food_name": "Coke (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/coke-(bottle)",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989706",
+      "food_name": "Southwest Chipotle Ranch Warm Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/southwest-chipotle-ranch-warm-grain-bowl",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990034",
+      "food_name": "Miss Vickie's Sea Salt Chips - 1 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/miss-vickies-sea-salt-chips-1-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990044",
+      "food_name": "Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/chocolate-chip-cookie",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001511",
+      "food_name": "Organic Vegetarian Chili - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/organic-vegetarian-chili-small",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989715",
+      "food_name": "Sophie's Warm Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/sophies-warm-grain-bowl",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989717",
+      "food_name": "Buffalo Bleu Warm Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/buffalo-bleu-warm-grain-bowl",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989738",
+      "food_name": "Avocado Cobb Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/avocado-cobb-wrap",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989772",
+      "food_name": "Roasted Turkey Club Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/roasted-turkey-club-wrap",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989882",
+      "food_name": "Lobster Bisque - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/lobster-bisque-small",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989896",
+      "food_name": "New England Clam Chowder - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/new-england-clam-chowder-small",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990052",
+      "food_name": "Sugar Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/sugar-cookie",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990177",
+      "food_name": "Creamy French - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/creamy-french-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990199",
+      "food_name": "Italian Vinaigrette - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/italian-vinaigrette-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990212",
+      "food_name": "Lite Ranch - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/lite-ranch-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001480",
+      "food_name": "Smoky BBQ Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/smoky-bbq-chicken-wrap",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001516",
+      "food_name": "Organic Vegetarian Chili - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/organic-vegetarian-chili-large",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001525",
+      "food_name": "Spicy Jalapeno Ranch - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/spicy-jalapeno-ranch-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001536",
+      "food_name": "Coke Zero (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/coke-zero-(bottle)",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989903",
+      "food_name": "New England Clam Chowder - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/new-england-clam-chowder-large",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990041",
+      "food_name": "Oatmeal Raisin Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/oatmeal-raisin-cookie",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990115",
+      "food_name": "Bottled Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/bottled-water",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990173",
+      "food_name": "Classic Caesar - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/classic-caesar-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990196",
+      "food_name": "Housemade Chipotle Ranch - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/housemade-chipotle-ranch-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001498",
+      "food_name": "Italian Tivoli Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/italian-tivoli-grain-bowl",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001506",
+      "food_name": "Broccoli Cheddar Soup - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/broccoli-cheddar-soup-small",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001519",
+      "food_name": "Kids Smoky BBQ Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/kids-smoky-bbq-chicken-wrap",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989734",
+      "food_name": "Summer Berry Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/summer-berry-wrap",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989777",
+      "food_name": "Sophie's Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/sophies-wrap",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989778",
+      "food_name": "Southwest Chipotle Ranch Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/southwest-chipotle-ranch-wrap",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989870",
+      "food_name": "Lasagna with Turkey Sausage Soup - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/lasagna-with-turkey-sausage-soup-small",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989902",
+      "food_name": "New England Clam Chowder - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/new-england-clam-chowder-medium",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990025",
+      "food_name": "Lite Ranch - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/lite-ranch-16-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75990189",
+      "food_name": "Honey Mustard - 2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/honey-mustard-2-oz",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001476",
+      "food_name": "Italian Tivoli Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/italian-tivoli-wrap",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001513",
+      "food_name": "Organic Vegetarian Chili - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/organic-vegetarian-chili-medium",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001538",
+      "food_name": "Diet Coke (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/diet-coke-(bottle)",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87001541",
+      "food_name": "Tractor Gallon Pouch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saladworks/tractor-gallon-pouch",
+      "brand_name": "Saladworks",
+      "food_type": "Brand"
+    }
+  ]
+}

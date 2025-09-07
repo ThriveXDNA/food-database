@@ -1,0 +1,48 @@
+{
+  "restaurant": "Cibo Naturals",
+  "total_items": 5,
+  "pages_extracted": 2,
+  "total_search_results": 71,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:00:02.994Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cibo_naturals.json",
+  "items": [
+    {
+      "food_id": "5395498",
+      "food_name": "Roasted Red Pepper Pesto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cibo-naturals/roasted-red-pepper-pesto",
+      "brand_name": "Cibo Naturals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83218",
+      "food_name": "Pesto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cibo-naturals/pesto",
+      "brand_name": "Cibo Naturals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3748728",
+      "food_name": "Artichoke Lemon Pesto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cibo-naturals/artichoke-lemon-pesto",
+      "brand_name": "Cibo Naturals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2553115",
+      "food_name": "Jalapeno & Cheddar Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cibo-naturals/jalapeno-and-cheddar-dip",
+      "brand_name": "Cibo Naturals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3044203",
+      "food_name": "Sun-Dried Tomato Pesto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cibo-naturals/sun-dried-tomato-pesto",
+      "brand_name": "Cibo Naturals",
+      "food_type": "Brand"
+    }
+  ]
+}

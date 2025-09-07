@@ -1,0 +1,48 @@
+{
+  "restaurant": "New French Bakery",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 2507,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:50:42.296Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/new_french_bakery.json",
+  "items": [
+    {
+      "food_id": "1245501",
+      "food_name": "French Baguette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-french-bakery/french-baguette",
+      "brand_name": "New French Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1508856",
+      "food_name": "Ciabatta Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-french-bakery/ciabatta-roll",
+      "brand_name": "New French Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1206440",
+      "food_name": "Multigrain French Dinner Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-french-bakery/multigrain-french-dinner-rolls",
+      "brand_name": "New French Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "482346",
+      "food_name": "American Multi Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-french-bakery/american-multi-grain-bread",
+      "brand_name": "New French Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43899867",
+      "food_name": "Artisan Pizza Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-french-bakery/artisan-pizza-dough",
+      "brand_name": "New French Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "restaurant": "Whole Kitchen",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 3377,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:53:21.599Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/whole_kitchen.json",
+  "items": [
+    {
+      "food_id": "1185232",
+      "food_name": "Cheese Enchiladas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/whole-kitchen/cheese-enchiladas",
+      "brand_name": "Whole Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "407181",
+      "food_name": "Chicken Tikka Masala",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/whole-kitchen/chicken-tikka-masala",
+      "brand_name": "Whole Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56048",
+      "food_name": "Vegetarian Sausage Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/whole-kitchen/vegetarian-sausage-patties",
+      "brand_name": "Whole Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "321414",
+      "food_name": "Pad Thai with Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/whole-kitchen/pad-thai-with-tofu",
+      "brand_name": "Whole Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "333764",
+      "food_name": "Spanakopita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/whole-kitchen/spanakopita",
+      "brand_name": "Whole Kitchen",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "restaurant": "Sticks Kebob Shop",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 887,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:54:59.682Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sticks_kebob_shop.json",
+  "items": [
+    {
+      "food_id": "16413256",
+      "food_name": "Chicken Kebob",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sticks-kebob-shop/chicken-kebob",
+      "brand_name": "Sticks Kebob Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1665890",
+      "food_name": "Creamy Cilantro-Lime Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sticks-kebob-shop/creamy-cilantro-lime-sauce",
+      "brand_name": "Sticks Kebob Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5385859",
+      "food_name": "Tabouleh",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sticks-kebob-shop/tabouleh",
+      "brand_name": "Sticks Kebob Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3492051",
+      "food_name": "Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sticks-kebob-shop/chicken-sandwich",
+      "brand_name": "Sticks Kebob Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5385848",
+      "food_name": "Pork Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sticks-kebob-shop/pork-platter",
+      "brand_name": "Sticks Kebob Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16413243",
+      "food_name": "Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sticks-kebob-shop/chicken-salad",
+      "brand_name": "Sticks Kebob Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28841685",
+      "food_name": "Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sticks-kebob-shop/hummus",
+      "brand_name": "Sticks Kebob Shop",
+      "food_type": "Brand"
+    }
+  ]
+}

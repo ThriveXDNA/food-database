@@ -1,0 +1,34 @@
+{
+  "restaurant": "Di Stefano",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 41,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:50:01.620Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/di_stefano.json",
+  "items": [
+    {
+      "food_id": "28532980",
+      "food_name": "Burrata Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/di-stefano/burrata-cheese",
+      "brand_name": "di Stefano",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61345490",
+      "food_name": "Burrata",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/di-stefano/burrata",
+      "brand_name": "Di Stefano",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13797778",
+      "food_name": "Premium Mozzarella Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/di-stefano/premium-mozzarella-cheese",
+      "brand_name": "Di Stefano",
+      "food_type": "Brand"
+    }
+  ]
+}

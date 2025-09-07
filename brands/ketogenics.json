@@ -1,0 +1,27 @@
+{
+  "brand_name": "KetoGenics",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:23:56.047Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/ketogenics.json",
+  "items": [
+    {
+      "food_id": "44480568",
+      "food_name": "Zero Carb Natural Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ketogenics/zero-carb-natural-protein",
+      "brand_name": "KetoGenics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66203495",
+      "food_name": "Iso Whey Peanut Butter Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ketogenics/iso-whey-peanut-butter-cookie",
+      "brand_name": "Ketogenics",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Lucky Spoon Bakery",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 86,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:16:07.512Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/lucky_spoon_bakery.json",
+  "items": [
+    {
+      "food_id": "53297430",
+      "food_name": "Lemonlicious Poppy Seed Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lucky-spoon-bakery/lemonlicious-poppy-seed-muffins",
+      "brand_name": "Lucky Spoon Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30412337",
+      "food_name": "Chewy Chocolate Brownie Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lucky-spoon-bakery/chewy-chocolate-brownie-bites",
+      "brand_name": "Lucky Spoon Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

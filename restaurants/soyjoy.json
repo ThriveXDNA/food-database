@@ -1,0 +1,76 @@
+{
+  "restaurant": "Soyjoy",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:01:59.199Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/soyjoy.json",
+  "items": [
+    {
+      "food_id": "3754368",
+      "food_name": "Blueberry Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soyjoy/blueberry-bar",
+      "brand_name": "Soyjoy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46374785",
+      "food_name": "Almond & Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soyjoy/almond-chocolate",
+      "brand_name": "Soyjoy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81753",
+      "food_name": "Berry Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soyjoy/berry-bar",
+      "brand_name": "Soyjoy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1896943",
+      "food_name": "Banana Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soyjoy/banana-bar",
+      "brand_name": "Soyjoy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84773",
+      "food_name": "Peanut Chocolate Chip Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soyjoy/peanut-chocolate-chip-bar",
+      "brand_name": "Soyjoy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27878",
+      "food_name": "Raisin Almond Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soyjoy/raisin-almond-bar",
+      "brand_name": "Soyjoy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79533",
+      "food_name": "Strawberry Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soyjoy/strawberry-bar",
+      "brand_name": "Soyjoy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6118873",
+      "food_name": "Dark Chocolate Cherry Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soyjoy/dark-chocolate-cherry-bar",
+      "brand_name": "Soyjoy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47060723",
+      "food_name": "White Macadamia",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soyjoy/white-macadamia",
+      "brand_name": "Soyjoy",
+      "food_type": "Brand"
+    }
+  ]
+}

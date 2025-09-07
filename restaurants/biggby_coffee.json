@@ -1,0 +1,69 @@
+{
+  "restaurant": "Biggby Coffee",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 1638,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:04:05.918Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/biggby_coffee.json",
+  "items": [
+    {
+      "food_id": "4425750",
+      "food_name": "Turkey Havarti Bragel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/biggby-coffee/turkey-havarti-bragel",
+      "brand_name": "Biggby Coffee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1557793",
+      "food_name": "Reduced Calorie Caramel Marvel (Grande)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/biggby-coffee/reduced-calorie-caramel-marvel-(grande)",
+      "brand_name": "Biggby Coffee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24117998",
+      "food_name": "Ham & Cheese Bragel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/biggby-coffee/ham-cheese-bragel",
+      "brand_name": "Biggby Coffee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1620175",
+      "food_name": "Reduced Calorie Mocha Mocha (Tall)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/biggby-coffee/reduced-calorie-mocha-mocha-(tall)",
+      "brand_name": "Biggby Coffee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1568595",
+      "food_name": "Reduced Calorie Sugar Bear (Grande)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/biggby-coffee/reduced-calorie-sugar-bear-(grande)",
+      "brand_name": "Biggby Coffee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7027913",
+      "food_name": "Blueberry Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/biggby-coffee/blueberry-muffin",
+      "brand_name": "Biggby Coffee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6724873",
+      "food_name": "Chai Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/biggby-coffee/chai-latte",
+      "brand_name": "Biggby Coffee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1208024",
+      "food_name": "Yogurt Parfait",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/biggby-coffee/yogurt-parfait",
+      "brand_name": "Biggby Coffee",
+      "food_type": "Brand"
+    }
+  ]
+}

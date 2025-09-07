@@ -1,0 +1,27 @@
+{
+  "brand_name": "Jamestown Brand",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 63,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:54:30.738Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/jamestown_brand.json",
+  "items": [
+    {
+      "food_id": "941656",
+      "food_name": "Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamestown-brand/bacon",
+      "brand_name": "Jamestown Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43119497",
+      "food_name": "Mild Pork Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamestown-brand/mild-pork-sausage",
+      "brand_name": "Jamestown Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

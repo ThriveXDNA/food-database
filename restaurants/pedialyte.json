@@ -1,0 +1,83 @@
+{
+  "restaurant": "Pedialyte",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:45:42.649Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pedialyte.json",
+  "items": [
+    {
+      "food_id": "15814028",
+      "food_name": "Grape",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pedialyte/grape",
+      "brand_name": "Pedialyte",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33875708",
+      "food_name": "Electrolyte Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pedialyte/electrolyte-powder",
+      "brand_name": "Pedialyte",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74156716",
+      "food_name": "Pedialyte Sport",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pedialyte/pedialyte-sport",
+      "brand_name": "Pedialyte",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19372304",
+      "food_name": "Freezer Pops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pedialyte/freezer-pops",
+      "brand_name": "Pedialyte",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37337966",
+      "food_name": "Cherry Punch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pedialyte/cherry-punch",
+      "brand_name": "Pedialyte",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61026921",
+      "food_name": "Electrolyte Solution",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pedialyte/electrolyte-solution",
+      "brand_name": "Pedialyte",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75378602",
+      "food_name": "Grape (360ml)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pedialyte/grape-(360ml)",
+      "brand_name": "Pedialyte",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65338050",
+      "food_name": "Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pedialyte/strawberry",
+      "brand_name": "Pedialyte",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74807319",
+      "food_name": "Zero Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pedialyte/zero-sugar",
+      "brand_name": "Pedialyte",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68911708",
+      "food_name": "Advanced Care",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pedialyte/advanced-care",
+      "brand_name": "Pedialyte",
+      "food_type": "Brand"
+    }
+  ]
+}

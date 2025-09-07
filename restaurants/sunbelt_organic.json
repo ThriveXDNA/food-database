@@ -1,0 +1,20 @@
+{
+  "restaurant": "Sunbelt Organic",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 5503,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:44:03.965Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sunbelt_organic.json",
+  "items": [
+    {
+      "food_id": "12493109",
+      "food_name": "Fresh Organic Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunbelt-organic/fresh-organic-salsa",
+      "brand_name": "Sunbelt Organic",
+      "food_type": "Brand"
+    }
+  ]
+}

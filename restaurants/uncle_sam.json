@@ -1,0 +1,48 @@
+{
+  "restaurant": "Uncle Sam",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 49,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:54:00.334Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/uncle_sam.json",
+  "items": [
+    {
+      "food_id": "13239261",
+      "food_name": "Original Wheat Berry Flakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/uncle-sam/original-wheat-berry-flakes",
+      "brand_name": "Uncle Sam",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3502879",
+      "food_name": "Original Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/uncle-sam/original-cereal",
+      "brand_name": "Uncle Sam",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4103986",
+      "food_name": "Toasted Whole Wheat Berry Flakes & Flaxseed Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/uncle-sam/toasted-whole-wheat-berry-flakes-flaxseed-cereal",
+      "brand_name": "Uncle Sam",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4802209",
+      "food_name": "Raisin Bran",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/uncle-sam/raisin-bran",
+      "brand_name": "Uncle Sam",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48710",
+      "food_name": "Uncle Sam Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/us-mills-inc/uncle-sam-cereal",
+      "brand_name": "U.S. Mills, Inc.",
+      "food_type": "Brand"
+    }
+  ]
+}

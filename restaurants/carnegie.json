@@ -1,0 +1,27 @@
+{
+  "restaurant": "Carnegie",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:07:29.441Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/carnegie.json",
+  "items": [
+    {
+      "food_id": "70449173",
+      "food_name": "Pastrami",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carnegie/pastrami",
+      "brand_name": "Carnegie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4752793",
+      "food_name": "Corned Beef Brisket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carnegie/corned-beef-brisket",
+      "brand_name": "Carnegie",
+      "food_type": "Brand"
+    }
+  ]
+}

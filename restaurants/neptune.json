@@ -1,0 +1,27 @@
+{
+  "restaurant": "Neptune",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:10:12.217Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/neptune.json",
+  "items": [
+    {
+      "food_id": "36548610",
+      "food_name": "Pub Style Halibut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/neptune/pub-style-halibut",
+      "brand_name": "Neptune",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "280491",
+      "food_name": "Neptune Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/publix/neptune-salad",
+      "brand_name": "Publix",
+      "food_type": "Brand"
+    }
+  ]
+}

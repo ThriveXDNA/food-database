@@ -1,0 +1,41 @@
+{
+  "restaurant": "Mother Raw",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 490,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:40:59.191Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mother_raw.json",
+  "items": [
+    {
+      "food_id": "38992663",
+      "food_name": "Mediterranean Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mother-raw/mediterranean-dressing",
+      "brand_name": "Mother Raw",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37644624",
+      "food_name": "Caesar Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mother-raw/caesar-dressing",
+      "brand_name": "Mother Raw",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88048260",
+      "food_name": "Organic Lemon Tahini Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mother-raw/organic-lemon-tahini-dressing",
+      "brand_name": "Mother Raw",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76233333",
+      "food_name": "Organic Japanese Dressing & Marinade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mother-raw/organic-japanese-dressing-marinade",
+      "brand_name": "Mother Raw",
+      "food_type": "Brand"
+    }
+  ]
+}

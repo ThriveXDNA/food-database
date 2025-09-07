@@ -1,0 +1,41 @@
+{
+  "restaurant": "Big Mountain Foods",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 1018,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:55:43.018Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/big_mountain_foods.json",
+  "items": [
+    {
+      "food_id": "76236075",
+      "food_name": "Soy Free Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-mountain-foods/soy-free-tofu",
+      "brand_name": "Big Mountain Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23018233",
+      "food_name": "Original Veggie Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-mountain-foods/original-veggie-patty",
+      "brand_name": "Big Mountain Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23372672",
+      "food_name": "Mighty Mushroom Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-mountain-foods/mighty-mushroom-bites",
+      "brand_name": "Big Mountain Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81455342",
+      "food_name": "Cauli Crumble Veggie Grounds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-mountain-foods/cauli-crumble-veggie-grounds",
+      "brand_name": "Big Mountain Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

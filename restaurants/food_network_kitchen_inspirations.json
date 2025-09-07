@@ -1,0 +1,41 @@
+{
+  "restaurant": "Food Network Kitchen Inspirations",
+  "total_items": 4,
+  "pages_extracted": 4,
+  "total_search_results": 178,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:40:52.986Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/food_network_kitchen_inspirations.json",
+  "items": [
+    {
+      "food_id": "26234328",
+      "food_name": "Asian Style Sesame Ginger Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/food-network-kitchen-inspirations/asian-style-sesame-ginger-dressing",
+      "brand_name": "Food Network Kitchen Inspirations",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42383993",
+      "food_name": "Chicken Tikka Masala",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/food-network-kitchen-inspirations/chicken-tikka-masala",
+      "brand_name": "Food Network Kitchen Inspirations",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25944091",
+      "food_name": "Japanese Style Teriyaki Cooking Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/food-network-kitchen-inspirations/japanese-style-teriyaki-cooking-sauce",
+      "brand_name": "Food Network Kitchen Inspirations",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26027891",
+      "food_name": "Greek Feta Herb Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/food-network-kitchen-inspirations/greek-feta-herb-vinaigrette",
+      "brand_name": "Food Network Kitchen Inspirations",
+      "food_type": "Brand"
+    }
+  ]
+}

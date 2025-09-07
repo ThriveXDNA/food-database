@@ -1,0 +1,27 @@
+{
+  "restaurant": "Ledbetter",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:15:04.078Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ledbetter.json",
+  "items": [
+    {
+      "food_id": "3031977",
+      "food_name": "Bacon Wrapped Beef Tenderloin Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ledbetter/bacon-wrapped-beef-tenderloin-filet",
+      "brand_name": "Ledbetter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2462022",
+      "food_name": "Bacon Wrapped Beef Chuck Tender Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ledbetter/bacon-wrapped-beef-chuck-tender-filet",
+      "brand_name": "Ledbetter",
+      "food_type": "Brand"
+    }
+  ]
+}

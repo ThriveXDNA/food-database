@@ -1,0 +1,41 @@
+{
+  "restaurant": "Bard Valley",
+  "total_items": 4,
+  "pages_extracted": 2,
+  "total_search_results": 65,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:07:08.831Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bard_valley.json",
+  "items": [
+    {
+      "food_id": "6308894",
+      "food_name": "Medjool Dates",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bard-valley/medjool-dates",
+      "brand_name": "Bard Valley",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6471606",
+      "food_name": "Coconut Date Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bard-valley/coconut-date-rolls",
+      "brand_name": "Bard Valley",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34992381",
+      "food_name": "Cacao with Pecans Medjool Date Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bard-valley/cacao-with-pecans-medjool-date-rolls",
+      "brand_name": "Bard Valley",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3353925",
+      "food_name": "Pistachio Date Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bard-valley/pistachio-date-roll",
+      "brand_name": "Bard Valley",
+      "food_type": "Brand"
+    }
+  ]
+}

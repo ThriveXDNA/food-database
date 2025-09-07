@@ -1,0 +1,69 @@
+{
+  "restaurant": "Dimpflmeier Bakery LTD",
+  "total_items": 8,
+  "pages_extracted": 2,
+  "total_search_results": 52,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:14:37.432Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dimpflmeier_bakery_ltd.json",
+  "items": [
+    {
+      "food_id": "59943",
+      "food_name": "Klosterbrot Rye",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dimpflmeier-bakery-ltd/klosterbrot-rye",
+      "brand_name": "Dimpflmeier Bakery LTD",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58466",
+      "food_name": "7 Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dimpflmeier-bakery-ltd/7-grain-bread",
+      "brand_name": "Dimpflmeier Bakery LTD",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58527",
+      "food_name": "Whole Rye (Vollkornbrot)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dimpflmeier-bakery-ltd/whole-rye-(vollkornbrot)",
+      "brand_name": "Dimpflmeier Bakery LTD",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58523",
+      "food_name": "Bran Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dimpflmeier-bakery-ltd/bran-bread",
+      "brand_name": "Dimpflmeier Bakery LTD",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75325",
+      "food_name": "100% Rye Bread with Flaxseeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dimpflmeier-bakery-ltd/100%25-rye-bread-with-flaxseeds",
+      "brand_name": "Dimpflmeier Bakery LTD",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58522",
+      "food_name": "100% Rye with Whole Grain",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dimpflmeier-bakery-ltd/100%25-rye-with-whole-grain",
+      "brand_name": "Dimpflmeier Bakery LTD",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58526",
+      "food_name": "Sunflower Seed Rye (Sonnenblumenbrot)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dimpflmeier-bakery-ltd/sunflower-seed-rye-(sonnenblumenbrot)",
+      "brand_name": "Dimpflmeier Bakery LTD",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5971664",
+      "food_name": "Pumpernickel Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dimpflmeier-bakery-ltd/pumpernickel-bread",
+      "brand_name": "Dimpflmeier Bakery LTD",
+      "food_type": "Brand"
+    }
+  ]
+}

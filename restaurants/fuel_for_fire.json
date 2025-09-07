@@ -1,0 +1,62 @@
+{
+  "restaurant": "Fuel For Fire",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 776,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:09:44.963Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fuel_for_fire.json",
+  "items": [
+    {
+      "food_id": "24295587",
+      "food_name": "Tropical Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fuel-for-fire/tropical-smoothie",
+      "brand_name": "Fuel For Fire",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15065909",
+      "food_name": "Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fuel-for-fire/coffee",
+      "brand_name": "Fuel For Fire",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16399832",
+      "food_name": "Strawberry Banana",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fuel-for-fire/strawberry-banana",
+      "brand_name": "Fuel For Fire",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7784163",
+      "food_name": "Banana Cocoa Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fuel-for-fire/banana-cocoa-smoothie",
+      "brand_name": "Fuel For Fire",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26547813",
+      "food_name": "Mixed Berry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fuel-for-fire/mixed-berry",
+      "brand_name": "Fuel For Fire",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27173995",
+      "food_name": "Sweet Potato Apple Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fuel-for-fire/sweet-potato-apple-smoothie",
+      "brand_name": "Fuel For Fire",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9488365",
+      "food_name": "Triple Berry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fuel-for-fire/triple-berry",
+      "brand_name": "Fuel For Fire",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,3962 @@
+{
+  "restaurant": "Chili's",
+  "search_variation_used": "Chiliss",
+  "total_items": 564,
+  "pages_extracted": 12,
+  "total_search_results": 564,
+  "filtering_method": "Variation search with minimal filtering",
+  "last_updated": "2025-09-06T23:00:14.211Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Multi-variation restaurant search for maximum capture",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/chili_s.json",
+  "items": [
+    {
+      "food_id": "36638",
+      "food_name": "Red Tomatoes (with Green Chilies, Canned)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/red-tomatoes-(with-green-chilies-canned)",
+      "brand_name": "Chili's",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "11661636",
+      "food_name": "Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-classics/green-chilies",
+      "brand_name": "World Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74861197",
+      "food_name": "Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-corral/green-chilies",
+      "brand_name": "Golden Corral",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850048",
+      "food_name": "Chili's Premium Blend Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/chilis-premium-blend-coffee",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "271438",
+      "food_name": "Diced Tomatoes & Green Chilies with Less Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rotel/diced-tomatoes-and-green-chilies-with-less-green-chilies",
+      "brand_name": "Rotel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "209412",
+      "food_name": "Peeled Tomatoes & Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kroger/peeled-tomatoes-and-green-chilies",
+      "brand_name": "Kroger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "455595",
+      "food_name": "Diced Tomatoes & Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/food-club/diced-tomatoes-and-green-chilies/1-2-cup",
+      "brand_name": "Food Club",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4339803",
+      "food_name": "Diced Tomatoes & Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/diced-tomatoes-and-green-chilies",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1176678",
+      "food_name": "Diced Tomatoes & Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/food-club/diced-tomatoes-and-green-chilies",
+      "brand_name": "Food Club",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50215",
+      "food_name": "Diced Tomatoes & Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-value/diced-tomatoes-and-green-chilies",
+      "brand_name": "Great Value",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28077488",
+      "food_name": "Diced Tomatoes & Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hatch/diced-tomatoes-green-chilies",
+      "brand_name": "Hatch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1110271",
+      "food_name": "Diced Tomatoes with Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hy-vee/diced-tomatoes-with-green-chilies",
+      "brand_name": "Hy-Vee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69692",
+      "food_name": "Diced Tomatoes and Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-mas-rica/diced-tomatoes-and-green-chilies",
+      "brand_name": "La Mas Rica",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31914",
+      "food_name": "Original Diced Tomatoes & Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rotel/original-diced-tomatoes-and-green-chilies",
+      "brand_name": "Rotel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13927682",
+      "food_name": "Diced Tomatoes with Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/winco-foods/diced-tomatoes-with-green-chilies",
+      "brand_name": "WinCo Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52838040",
+      "food_name": "Crispy Thai Chilies & Sesame Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/crispy-thai-chilies-sesame-seeds",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1245050",
+      "food_name": "Sardines with Hot Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beach-cliff/sardines-with-hot-green-chilies",
+      "brand_name": "Beach Cliff",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3405045",
+      "food_name": "Diced Tomatoes with Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/senora-verde/diced-tomatoes-with-green-chilies",
+      "brand_name": "Senora Verde",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4193177",
+      "food_name": "Diced Tomatoes & Green Chilies (Mild)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-gold/diced-tomatoes-and-green-chilies-(mild)",
+      "brand_name": "Red Gold",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61860674",
+      "food_name": "Mild Diced Tomatoes & Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rotel/mild-diced-tomatoes-green-chilies",
+      "brand_name": "Rotel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84762420",
+      "food_name": "Diced Tomatoes with Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-gather/diced-tomatoes-with-green-chilies",
+      "brand_name": "Good & Gather",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87909449",
+      "food_name": "Diced Tomatoes with Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lidl/diced-tomatoes-with-green-chilies",
+      "brand_name": "Lidl",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "139725",
+      "food_name": "Refried Beans with Mild Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-el-paso/refried-beans-with-mild-green-chilies",
+      "brand_name": "Old El Paso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "403718",
+      "food_name": "Diced Tomatoes with Green Chilies (Mild)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kroger/diced-tomatoes-with-green-chilies-(mild)",
+      "brand_name": "Kroger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16844330",
+      "food_name": "Fire Roasted Diced Tomatoes & Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rotel/fire-roasted-diced-tomatoes-and-green-chilies",
+      "brand_name": "Rotel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25530186",
+      "food_name": "Petite Diced Tomatoes w/ Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-gold/petite-diced-tomatoes-w-green-chilies",
+      "brand_name": "Red Gold",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86504",
+      "food_name": "Chilies & Cherries in 55% Dark Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chocolove/chilies-and-cherries-in-55%25-dark-chocolate",
+      "brand_name": "Chocolove",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1245097",
+      "food_name": "Fish Steaks with Hot Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beach-cliff/fish-steaks-with-hot-green-chilies",
+      "brand_name": "Beach Cliff",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4901382",
+      "food_name": "Chicken & Quinoa with Poblano Chilies Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/campbells/chicken-and-quinoa-with-poblano-chilies-soup",
+      "brand_name": "Campbell's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "200317",
+      "food_name": "Fire Roasted Diced Tomatoes with Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/muir-glen/fire-roasted-diced-tomatoes-with-green-chilies",
+      "brand_name": "Muir Glen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65714",
+      "food_name": "Diced Tomatoes with Zesty Mild Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/del-monte/diced-tomatoes-with-zesty-mild-green-chilies",
+      "brand_name": "Del Monte",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "138584",
+      "food_name": "Chili Fixin's Seasoned Diced Tomatoes & Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rotel/chili-fixins-seasoned-diced-tomatoes-and-green-chilies",
+      "brand_name": "Rotel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "192863",
+      "food_name": "Veggie Mix (Grilled Peppers, Chilies and Onions)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-fresh-mexican-grill/veggie-mix-(grilled-peppers-chilies-and-onions)",
+      "brand_name": "Baja Fresh Mexican Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9565348",
+      "food_name": "Diced Tomatoes & Green Chilies No Salt Added",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rotel/diced-tomatoes-green-chilies-no-salt-added",
+      "brand_name": "Rotel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14257712",
+      "food_name": "Original Diced Tomatoes & Green Chilies No Salt Added",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rotel/original-diced-tomatoes-and-green-chilies-no-salt-added",
+      "brand_name": "Rotel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98620",
+      "food_name": "Oldtimer with Cheese Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/oldtimer-with-cheese-burger",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99383",
+      "food_name": "Fresh Guacamole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/fresh-guacamole",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76357",
+      "food_name": "Loaded Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/loaded-mashed-potatoes",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47945",
+      "food_name": "Skillet Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/skillet-queso",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4781715",
+      "food_name": "Flour Tortillas (4 each)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/flour-tortillas-(4-each)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4965504",
+      "food_name": "Steamed Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/steamed-broccoli/1-serving",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12726931",
+      "food_name": "Sweet Corn on the Cob",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sweet-corn-on-the-cob",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12933948",
+      "food_name": "Mini Molten Chocolate Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/mini-molten-chocolate-cake",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57212030",
+      "food_name": "Brisket Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/brisket-quesadilla",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31968999",
+      "food_name": "Asparagus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/asparagus",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754667",
+      "food_name": "Angry Orchard - Bottled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/angry-orchard-bottled",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754672",
+      "food_name": "Bud Light - Bottled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/bud-light-bottled",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754706",
+      "food_name": "Corona Extra - Bottled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/corona-extra-bottled",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754710",
+      "food_name": "Corona Premier - Bottled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/corona-premier-bottled",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754802",
+      "food_name": "Truly's Strawberry Lemonade - Bottled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/trulys-strawberry-lemonade-bottled",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754806",
+      "food_name": "Michelob Ultra - Bottled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/michelob-ultra-bottled",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754956",
+      "food_name": "Stone IPA - Bottled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/stone-ipa-bottled",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68755068",
+      "food_name": "Miller Lite - Bottled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/miller-lite-bottled",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68755098",
+      "food_name": "Bud Light Draft - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/bud-light-draft-large",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68755103",
+      "food_name": "Blue Moon Draft - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/blue-moon-draft-medium",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68755112",
+      "food_name": "Coors Light Draft - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/coors-light-draft-medium",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68755115",
+      "food_name": "Coors Light Draft - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/coors-light-draft-large",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757304",
+      "food_name": "Craft Beer 3-5 % ABV Draft - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/craft-beer-3-5-abv-draft-medium",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757311",
+      "food_name": "Craft Beer 3-5 % ABV Draft - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/craft-beer-3-5-abv-draft-large",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757313",
+      "food_name": "Craft Beer 6-8 % ABV Draft - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/craft-beer-6-8-abv-draft-small",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757327",
+      "food_name": "Craft Beer 6-8 % ABV Draft - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/craft-beer-6-8-abv-draft-large",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757338",
+      "food_name": "Dos Equis Draft - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/dos-equis-draft-medium",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757342",
+      "food_name": "Dos Equis Draft - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/dos-equis-draft-large",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757348",
+      "food_name": "Michelob Ultra Draft - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/michelob-ultra-draft-small",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757355",
+      "food_name": "Michelob Ultra Draft - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/michelob-ultra-draft-medium",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757361",
+      "food_name": "Miller Lite Draft - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/miller-lite-draft-small",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757396",
+      "food_name": "Modelo Especial Draft - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/modelo-especial-draft-small",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757414",
+      "food_name": "Stella Artois Draft - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/stella-artois-draft-small",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757426",
+      "food_name": "Stella Artois Draft - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/stella-artois-draft-large",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757433",
+      "food_name": "Sam Adams Boston Lager Draft - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sam-adams-boston-lager-draft-small",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757446",
+      "food_name": "Sam Adams Boston Lager Draft - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sam-adams-boston-lager-draft-medium",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757469",
+      "food_name": "Sam Adams Cold Snap Draft - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sam-adams-cold-snap-draft-medium",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757481",
+      "food_name": "Sam Adams Octoberfest Draft - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sam-adams-octoberfest-draft-medium",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757496",
+      "food_name": "Sam Adams Summer Ale Draft - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sam-adams-summer-ale-draft-small",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757504",
+      "food_name": "Sam Adams Summer Ale Draft - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sam-adams-summer-ale-draft-large",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757560",
+      "food_name": "Premium Long Island Iced Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/premium-long-island-iced-tea",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757570",
+      "food_name": "Tito's Punch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/titos-punch",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849517",
+      "food_name": "House Mar-Go-Rita Frozen Mango",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/house-mar-go-rita-frozen-mango",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849533",
+      "food_name": "House Mar-Go-Rita Classic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/house-mar-go-rita-classic",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849612",
+      "food_name": "House Mar-Go-Rita Mango",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/house-mar-go-rita-mango",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849799",
+      "food_name": "Coca-Cola - Kid Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/coca-cola-kid-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849801",
+      "food_name": "Coca-Cola - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/coca-cola-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849802",
+      "food_name": "Coca-Cola Zero - Regular Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/coca-cola-zero-regular-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849818",
+      "food_name": "Coca-Cola Zero - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/coca-cola-zero-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849856",
+      "food_name": "Diet Coke - Kid Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/diet-coke-kid-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849927",
+      "food_name": "Minute Maid - Regular Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/minute-maid-regular-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849938",
+      "food_name": "Minute Maid - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/minute-maid-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849943",
+      "food_name": "Strawberry - Regular Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/strawberry-regular-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849954",
+      "food_name": "Sprite - Regular Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sprite-regular-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849970",
+      "food_name": "Sprite - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sprite-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849976",
+      "food_name": "Arnold Palmer - Original - Regular Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/arnold-palmer-original-regular-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849984",
+      "food_name": "Arnold Palmer - Original - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/arnold-palmer-original-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849987",
+      "food_name": "Arnold Palmer - Strawberry - Regular Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/arnold-palmer-strawberry-regular-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849995",
+      "food_name": "Arnold Palmer - Strawberry - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/arnold-palmer-strawberry-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850026",
+      "food_name": "Ice Tea - Blackberry - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/ice-tea-blackberry-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850034",
+      "food_name": "Ice Tea - Mango - Regular Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/ice-tea-mango-regular-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850041",
+      "food_name": "Sweet Tea - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sweet-tea-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850174",
+      "food_name": "Cranberry Juice - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/cranberry-juice-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850178",
+      "food_name": "Orange Juice - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/orange-juice-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850741",
+      "food_name": "Baby Back Ribs - House BBQ - Half Rack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/baby-back-ribs-house-bbq-half-rack",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850789",
+      "food_name": "Just Bacon Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/just-bacon-burger",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850795",
+      "food_name": "Mushroom Swiss Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/mushroom-swiss-burger",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850874",
+      "food_name": "Add Sauteed Mushrooms",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/add-sauteed-mushrooms",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68851164",
+      "food_name": "Side Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/side-rice",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882554",
+      "food_name": "Fresh Guacamole & Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/fresh-guacamole-chips",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882577",
+      "food_name": "Classic Nachos - Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/classic-nachos-chicken",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882646",
+      "food_name": "TD Big Mouth Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-big-mouth-bites",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882679",
+      "food_name": "TD Honey-Chipotle Chicken Crispers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-honey-chipotle-chicken-crispers",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882837",
+      "food_name": "Side Buffalo Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/side-buffalo-sauce",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882866",
+      "food_name": "Mango Habanero Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/mango-habanero-sauce",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883638",
+      "food_name": "Quesadilla Brisket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/quesadilla-brisket",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883656",
+      "food_name": "Cheeseburger Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/cheeseburger-bites",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883659",
+      "food_name": "Cheesy Chicken Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/cheesy-chicken-pasta",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883668",
+      "food_name": "Crispy Crispers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/crispy-crispers",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883675",
+      "food_name": "Kraft Macaroni & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/kraft-macaroni-cheese",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883694",
+      "food_name": "Pizza - Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/pizza-cheese",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883698",
+      "food_name": "Pizza - Pepperoni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/pizza-pepperoni",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883713",
+      "food_name": "Side Homestyle Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/side-homestyle-fries",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883736",
+      "food_name": "Side Mandarin Oranges",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/side-mandarin-oranges",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883770",
+      "food_name": "Boneless Wings w/ House BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-w-house-bbq",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883775",
+      "food_name": "Boneless Wings w/ Buffalo Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-w-buffalo-sauce",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883795",
+      "food_name": "Tostada Chips with Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/tostada-chips-with-salsa",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883859",
+      "food_name": "Add Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/add-shrimp",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883971",
+      "food_name": "Homestyle Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/homestyle-fries",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883986",
+      "food_name": "Crispers Honey Chipotle w/ Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/crispers-honey-chipotle-w-ranch",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68884046",
+      "food_name": "Chicken Enchilada - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/chicken-enchilada-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68884107",
+      "food_name": "Southwest Chicken - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/southwest-chicken-bowl",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68884141",
+      "food_name": "Add Seared Shrimp - Full Order",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/add-seared-shrimp-full-order",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68884167",
+      "food_name": "Add Seared Shrimp - Half Order",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/add-seared-shrimp-half-order",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304457",
+      "food_name": "Honey Chipotle Crispy Crispers (4 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/honey-chipotle-crispy-crispers-(4-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304464",
+      "food_name": "Nashville Hot Crispy Crispers (4 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/nashville-hot-crispy-crispers-(4-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304467",
+      "food_name": "Nashville Hot Crispy Crispers (6 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/nashville-hot-crispy-crispers-(6-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304471",
+      "food_name": "Crispy Crispers (4 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/crispy-crispers-(4-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304522",
+      "food_name": "Fresh Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/fresh-salsa",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304552",
+      "food_name": "White Skillet Queso & Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/white-skillet-queso-chips",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304562",
+      "food_name": "TD Wings - House BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-wings-house-bbq",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304566",
+      "food_name": "TD Nashville Hot Chicken Crispers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-nashville-hot-chicken-crispers",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304585",
+      "food_name": "Boneless Wings Lemon Pepper (8 Ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-lemon-pepper-(8-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304633",
+      "food_name": "Sweet Chili Zing Sauce - 3 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sweet-chili-zing-sauce-3-oz",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304637",
+      "food_name": "Blackberry Blitz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/blackberry-blitz",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304638",
+      "food_name": "Iceberg Modelo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/iceberg-modelo",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304716",
+      "food_name": "Quesadilla Explosion Salad w/ Crispers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/quesadilla-explosion-salad-w-crispers",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304717",
+      "food_name": "Quesadilla Explosion Salad w/ Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/quesadilla-explosion-salad-w-grilled-chicken",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304791",
+      "food_name": "Quesadilla Chicken Bacon Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/quesadilla-chicken-bacon-ranch",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304793",
+      "food_name": "Loaded Mac & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/loaded-mac-cheese",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304819",
+      "food_name": "Bacon Ranch Chicken Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/bacon-ranch-chicken-quesadilla",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304820",
+      "food_name": "Crispers Nashville Hot w/ Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/crispers-nashville-hot-w-ranch",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304822",
+      "food_name": "Surf & Turf Sirloin 10 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/surf-turf-sirloin-10-oz",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304825",
+      "food_name": "Iced Tea - Mango (Party Platter)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/iced-tea-mango-(party-platter)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304827",
+      "food_name": "Lemonade (Party Platter)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/lemonade-(party-platter)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304830",
+      "food_name": "Big Mouth Bites (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/big-mouth-bites-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304831",
+      "food_name": "Southwestern Eggrolls (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/southwestern-eggrolls-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304832",
+      "food_name": "Add White Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/add-white-queso",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304833",
+      "food_name": "TD Big Mouth Bites (6 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-big-mouth-bites-(6-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304845",
+      "food_name": "TD Crispy Style Crispers (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-crispy-style-crispers-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304847",
+      "food_name": "TD Nashville Hot Crispers (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-nashville-hot-crispers-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304877",
+      "food_name": "Nashville Hot Sauce (6 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/nashville-hot-sauce-(6-fl-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304881",
+      "food_name": "Sweet Chili Zing Sauce (6 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sweet-chili-zing-sauce-(6-fl-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304883",
+      "food_name": "Crispy Style Crispers (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/crispy-style-crispers-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304890",
+      "food_name": "House BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/house-bbq",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304893",
+      "food_name": "House Salad w/o 8 fl oz Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/house-salad-w-o-8-fl-oz-dressing",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304914",
+      "food_name": "Flour Tortillas (12 each)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/flour-tortillas-(12-each)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304921",
+      "food_name": "Cajun Pasta w/ Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/cajun-pasta-w-chicken",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304960",
+      "food_name": "Santa Fe Chicken Salad w/ Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/santa-fe-chicken-salad-w-grilled-chicken",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77254490",
+      "food_name": "Ultimate Cajun Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/ultimate-cajun-pasta",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702305",
+      "food_name": "High Noon Pineapple Hard Seltzer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/high-noon-pineapple-hard-seltzer",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702308",
+      "food_name": "Tequila Espresso Martini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/tequila-espresso-martini",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702312",
+      "food_name": "Casamigos Marg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/casamigos-marg",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702321",
+      "food_name": "El Nino Marg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/el-nino-marg",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702331",
+      "food_name": "Mali-Blue Frozen Marg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/mali-blue-frozen-marg",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702437",
+      "food_name": "Patron Marg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/patron-marg",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702489",
+      "food_name": "Patron Marg - Spicy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/patron-marg-spicy",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702505",
+      "food_name": "Patron Marg - Watermelon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/patron-marg-watermelon",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702509",
+      "food_name": "Patron Marg Frozen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/patron-marg-frozen",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702521",
+      "food_name": "Patron Marg Frozen - Mango",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/patron-marg-frozen-mango",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702523",
+      "food_name": "Patron Marg Frozen - Spicy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/patron-marg-frozen-spicy",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702525",
+      "food_name": "Patron Marg Frozen - Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/patron-marg-frozen-strawberry",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702535",
+      "food_name": "Presidente Marg - Blackberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/presidente-marg-blackberry",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702540",
+      "food_name": "Presidente Marg - Dragon Fruit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/presidente-marg-dragon-fruit",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702574",
+      "food_name": "Spice-A-Rita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/spice-a-rita",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702575",
+      "food_name": "Tito's Watermelon Spritz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/titos-watermelon-spritz",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702599",
+      "food_name": "Red Wine - 6 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/red-wine-6-fl-oz",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702677",
+      "food_name": "Dragon Fruit - Regular Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/dragon-fruit-regular-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702716",
+      "food_name": "Ice Tea - Watermelon - Regular Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/ice-tea-watermelon-regular-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702722",
+      "food_name": "Ice Tea - Sweet Tea - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/ice-tea-sweet-tea-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702726",
+      "food_name": "1% Milk - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/1-milk-kids",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702730",
+      "food_name": "Bacon Rancher Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/bacon-rancher-burger",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702733",
+      "food_name": "Big Mouth Bites Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/big-mouth-bites-burger",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702739",
+      "food_name": "The Big Smasher",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/the-big-smasher",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702743",
+      "food_name": "Side Fries with Loaded Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/side-fries-with-loaded-queso",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702745",
+      "food_name": "Burger - Add Guacamole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/burger-add-guacamole",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702747",
+      "food_name": "Burger - Add Applewood Smoked Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/burger-add-applewood-smoked-bacon",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702750",
+      "food_name": "Burger - Add Garlic Butter Mushrooms",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/burger-add-garlic-butter-mushrooms",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702755",
+      "food_name": "Side White Cheddar Mac & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/side-white-cheddar-mac-cheese",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702767",
+      "food_name": "Side Buffalo Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/side-buffalo-ranch",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702769",
+      "food_name": "Side Honey Mustard Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/side-honey-mustard-sauce",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702806",
+      "food_name": "Sizzling Fajitas - Fajita Peppers & Onions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sizzling-fajitas-fajita-peppers-onions",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702809",
+      "food_name": "Sizzling Fajitas - Grilled Steak (1 Portion)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sizzling-fajitas-grilled-steak-(1-portion)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702814",
+      "food_name": "Sizzling Fajitas - Grilled Chicken (1 Portion)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sizzling-fajitas-grilled-chicken-(1-portion)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702828",
+      "food_name": "Sizzling Fajitas - Fajita Toppings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sizzling-fajitas-fajita-toppings",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702856",
+      "food_name": "Fried Mozzarella with Honey Chipotle (3 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/fried-mozzarella-with-honey-chipotle-(3-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702859",
+      "food_name": "Fried Mozzarella with Nashville Sauce (6 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/fried-mozzarella-with-nashville-sauce-(6-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702870",
+      "food_name": "Texas Cheese Fries - Full Order",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/texas-cheese-fries-full-order",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702873",
+      "food_name": "TD Boneless Wings - Honey Chipotle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-boneless-wings-honey-chipotle",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702938",
+      "food_name": "TD Wings - Honey Chipotle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-wings-honey-chipotle",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702940",
+      "food_name": "Wings - Buffalo (8 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-buffalo-(8-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702959",
+      "food_name": "Wings - Nashville Hot (8 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-nashville-hot-(8-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702964",
+      "food_name": "Boneless Wings - Buffalo (8 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-buffalo-(8-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702967",
+      "food_name": "Boneless Wings - Honey Chipotle (8 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-honey-chipotle-(8-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702968",
+      "food_name": "Boneless Wings - House BBQ (8 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-house-bbq-(8-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702970",
+      "food_name": "Boneless Wings - Nashville Hot (8 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-nashville-hot-(8-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703185",
+      "food_name": "Boneless Wings - Sweet Chili Zing (8 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-sweet-chili-zing-(8-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703188",
+      "food_name": "Wings - Buffalo (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-buffalo-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703192",
+      "food_name": "Wings - Honey Chipotle (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-honey-chipotle-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703194",
+      "food_name": "Wings - Nashville Hot (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-nashville-hot-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703207",
+      "food_name": "Boneless Wings - Honey Chipotle (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-honey-chipotle-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703233",
+      "food_name": "Wings - Sweet Chili Zing (16 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-sweet-chili-zing-(16-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703234",
+      "food_name": "Boneless Wings - Buffalo (16 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-buffalo-(16-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703236",
+      "food_name": "Boneless Wings - Honey Chipotle (16 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-honey-chipotle-(16-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703240",
+      "food_name": "Boneless Wings - House BBQ (16 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-house-bbq-(16-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703248",
+      "food_name": "Side Corn Kernels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/side-corn-kernels",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703261",
+      "food_name": "Boneless Wings with Buffalo Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-with-buffalo-sauce",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703276",
+      "food_name": "Crispy Crispers with Choice of Sauce (3 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/crispy-crispers-with-choice-of-sauce-(3-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703285",
+      "food_name": "Crispy Crispers with Nashville Sauce (3 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/crispy-crispers-with-nashville-sauce-(3-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703293",
+      "food_name": "Avocado Ranch (1.5 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/avocado-ranch-(15-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703300",
+      "food_name": "Blue Cheese (1.5 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/blue-cheese-(15-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703312",
+      "food_name": "Citrus Balsamic Vinaigrette (1.5 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/citrus-balsamic-vinaigrette-(15-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703330",
+      "food_name": "Ranch (1.5 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/ranch-(15-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703334",
+      "food_name": "Santa Fe (1.5 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/santa-fe-(15-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703354",
+      "food_name": "Bacon Guac Chicken Sandwich Crispy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/bacon-guac-chicken-sandwich-crispy",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703365",
+      "food_name": "Crispy Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/crispy-chicken-sandwich",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703368",
+      "food_name": "Garlic Butter Mushrooms",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/garlic-butter-mushrooms",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703370",
+      "food_name": "Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/mashed-potatoes",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703447",
+      "food_name": "TD Bone-in Wings - Buffalo (16 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-bone-in-wings-buffalo-(16-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703460",
+      "food_name": "TD Bone-in Wings - Honey Chipotle (16 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-bone-in-wings-honey-chipotle-(16-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703470",
+      "food_name": "TD Bone-in Wings - House BBQ (16 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-bone-in-wings-house-bbq-(16-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703478",
+      "food_name": "TD Boneless Wings - Buffalo (22 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-boneless-wings-buffalo-(22-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703487",
+      "food_name": "TD Boneless Wings - House BBQ (22 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-boneless-wings-house-bbq-(22-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703505",
+      "food_name": "Wings - Honey Chipotle (32 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-honey-chipotle-(32-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703508",
+      "food_name": "Wings - Nashville Hot (32 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-nashville-hot-(32-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703512",
+      "food_name": "Wings - Sweet Chili Zing (32 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-sweet-chili-zing-(32-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703517",
+      "food_name": "Boneless Wings - Honey Chipotle (32 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-honey-chipotle-(32-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703522",
+      "food_name": "Boneless Wings - Nashville Hot (32 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-nashville-hot-(32-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703533",
+      "food_name": "Wings - Buffalo (48 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-buffalo-(48-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703534",
+      "food_name": "Wings - Honey Chipotle (48 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-honey-chipotle-(48-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703548",
+      "food_name": "Boneless Wings - Honey Chipotle (48 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-honey-chipotle-(48-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703549",
+      "food_name": "Boneless Wings - House BBQ (48 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-house-bbq-(48-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703559",
+      "food_name": "BBQ Sauce House (4 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/bbq-sauce-house-(4-fl-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703563",
+      "food_name": "Honey Mustard (4 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/honey-mustard-(4-fl-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703565",
+      "food_name": "Ranch Dressing (4 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/ranch-dressing-(4-fl-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703575",
+      "food_name": "Blue Cheese (8 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/blue-cheese-(8-fl-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703588",
+      "food_name": "Honey Mustard (8 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/honey-mustard-(8-fl-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703592",
+      "food_name": "Ranch (8 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/ranch-(8-fl-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703596",
+      "food_name": "Santa Fe (8 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/santa-fe-(8-fl-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703615",
+      "food_name": "PP Fajitas Mix & Match - Grilled Steak (1 Choice)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/pp-fajitas-mix-match-grilled-steak-(1-choice)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883885",
+      "food_name": "Santa Fe Chicken Salad w/ Crispers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/santa-fe-chicken-salad-w-crispers",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98568",
+      "food_name": "Quesadilla Explosion Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/quesadilla-explosion-salad",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99387",
+      "food_name": "Honey Chipotle Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/honey-chipotle-sauce",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99501",
+      "food_name": "Molten Chocolate Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/molten-chocolate-cake",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1062897",
+      "food_name": "Black Bean Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/black-bean-patty",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5988842",
+      "food_name": "Skillet Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/skillet-chocolate-chip-cookie",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4756273",
+      "food_name": "Margarita Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/margarita-grilled-chicken",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14612615",
+      "food_name": "Roasted Street Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/roasted-street-corn",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8235675",
+      "food_name": "Buffalo Chicken Ranch Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/buffalo-chicken-ranch-sandwich",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12229444",
+      "food_name": "TD Boneless Wings - Buffalo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-boneless-wings-buffalo",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12229465",
+      "food_name": "TD Southwestern Eggrolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-southwestern-eggrolls",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9253926",
+      "food_name": "Ancho Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/ancho-salmon",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27418966",
+      "food_name": "Classic Beef Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/classic-beef-patty",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20689130",
+      "food_name": "Classic Ribeye",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/classic-ribeye",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21618086",
+      "food_name": "Corn Tortillas (4 each)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/corn-tortillas-(4-each)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22057886",
+      "food_name": "Chipotle Chicken Fresh Mex Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/chipotle-chicken-fresh-mex-bowl",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65202933",
+      "food_name": "BBQ Brisket Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/bbq-brisket-burger",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754695",
+      "food_name": "Budweiser - Bottled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/budweiser-bottled",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754699",
+      "food_name": "Coors Light - Bottled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/coors-light-bottled",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754779",
+      "food_name": "Dos Equis - Bottled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/dos-equis-bottled",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754785",
+      "food_name": "Heineken - Bottled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/heineken-bottled",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68755087",
+      "food_name": "Bud Light Draft - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/bud-light-draft-small",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68755094",
+      "food_name": "Bud Light Draft - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/bud-light-draft-medium",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68755099",
+      "food_name": "Blue Moon Draft - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/blue-moon-draft-small",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68755108",
+      "food_name": "Blue Moon Draft - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/blue-moon-draft-large",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68755110",
+      "food_name": "Coors Light Draft - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/coors-light-draft-small",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757062",
+      "food_name": "Craft Beer 3-5 % ABV Draft - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/craft-beer-3-5-abv-draft-small",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757324",
+      "food_name": "Craft Beer 6-8 % ABV Draft - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/craft-beer-6-8-abv-draft-medium",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757335",
+      "food_name": "Dos Equis Draft - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/dos-equis-draft-small",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757357",
+      "food_name": "Michelob Ultra Draft - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/michelob-ultra-draft-large",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757375",
+      "food_name": "Miller Lite Draft - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/miller-lite-draft-medium",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757379",
+      "food_name": "Miller Lite Draft - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/miller-lite-draft-large",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757403",
+      "food_name": "Modelo Especial Draft - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/modelo-especial-draft-medium",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757408",
+      "food_name": "Modelo Especial Draft - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/modelo-especial-draft-large",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757419",
+      "food_name": "Stella Artois Draft - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/stella-artois-draft-medium",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757454",
+      "food_name": "Sam Adams Boston Lager Draft - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sam-adams-boston-lager-draft-large",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757459",
+      "food_name": "Sam Adams Cold Snap Draft - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sam-adams-cold-snap-draft-small",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757472",
+      "food_name": "Sam Adams Cold Snap Draft - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sam-adams-cold-snap-draft-large",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757478",
+      "food_name": "Sam Adams Octoberfest Draft - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sam-adams-octoberfest-draft-small",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757488",
+      "food_name": "Sam Adams Octoberfest Draft - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sam-adams-octoberfest-draft-large",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757500",
+      "food_name": "Sam Adams Summer Ale Draft - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sam-adams-summer-ale-draft-medium",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757506",
+      "food_name": "Sam Adams Winter Lager Draft - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sam-adams-winter-lager-draft-small",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757510",
+      "food_name": "Sam Adams Winter Lager Draft - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sam-adams-winter-lager-draft-medium",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757513",
+      "food_name": "Sam Adams Winter Lager Draft - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sam-adams-winter-lager-draft-large",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849524",
+      "food_name": "House Mar-Go-Rita Frozen Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/house-mar-go-rita-frozen-strawberry",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849641",
+      "food_name": "House Mar-Go-Rita Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/house-mar-go-rita-strawberry",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849795",
+      "food_name": "Coca-Cola - Regular Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/coca-cola-regular-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849807",
+      "food_name": "Coca-Cola Zero - Kid Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/coca-cola-zero-kid-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849850",
+      "food_name": "Diet Coke - Regular Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/diet-coke-regular-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25644156",
+      "food_name": "Mexican Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/mexican-rice",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849859",
+      "food_name": "Diet Coke - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/diet-coke-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849932",
+      "food_name": "Minute Maid - Kid Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/minute-maid-kid-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849947",
+      "food_name": "Strawberry - Kid Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/strawberry-kid-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849950",
+      "food_name": "Strawberry - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/strawberry-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68849960",
+      "food_name": "Sprite - Kid Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sprite-kid-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850002",
+      "food_name": "Arnold Palmer - Mango - Regular Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/arnold-palmer-mango-regular-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850005",
+      "food_name": "Arnold Palmer - Mango - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/arnold-palmer-mango-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850013",
+      "food_name": "Ice Tea - Blackberry - Regular Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/ice-tea-blackberry-regular-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850036",
+      "food_name": "Ice Tea - Mango - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/ice-tea-mango-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850058",
+      "food_name": "Dasani Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/dasani-water",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850070",
+      "food_name": "Kids - Blue Lagoon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/kids-blue-lagoon",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850186",
+      "food_name": "Pineapple Juice - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/pineapple-juice-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850738",
+      "food_name": "Baby Back Ribs - House BBQ - Full Rack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/baby-back-ribs-house-bbq-full-rack",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850748",
+      "food_name": "Alex's Santa Fe Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/alexs-santa-fe-burger",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68850777",
+      "food_name": "Secret Sauce Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/secret-sauce-burger",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68851119",
+      "food_name": "Add Guacamole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/add-guacamole",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68851171",
+      "food_name": "Side Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/side-beans",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882391",
+      "food_name": "House-Made Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/house-made-ranch",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882397",
+      "food_name": "Add Skillet Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/add-skillet-queso",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882549",
+      "food_name": "Add Fresh Guacamole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/add-fresh-guacamole",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882561",
+      "food_name": "Classic Nachos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/classic-nachos",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882578",
+      "food_name": "White Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/white-queso",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882618",
+      "food_name": "Southwestern Eggrolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/southwestern-eggrolls",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882663",
+      "food_name": "TD Boneless Wings - House BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-boneless-wings-house-bbq",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882667",
+      "food_name": "TD Fried Mozzarella",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-fried-mozzarella",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882675",
+      "food_name": "TD Crispy Chicken Crispers w/O Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-crispy-chicken-crispers-w-o-sauce",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882685",
+      "food_name": "Texas Cheese Fries - Half Order",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/texas-cheese-fries-half-order",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882687",
+      "food_name": "TX Cheese Fries w/Chili - Full Order",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/tx-cheese-fries-w-chili-full-order",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68882860",
+      "food_name": "Spicy Teriyaki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/spicy-teriyaki",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883592",
+      "food_name": "Maker's Mark Old Fashioned",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/makers-mark-old-fashioned",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883630",
+      "food_name": "Quesadilla Bacon Ranch Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/quesadilla-bacon-ranch-chicken",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883651",
+      "food_name": "Burger Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/burger-bites",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883653",
+      "food_name": "Cheese Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/cheese-quesadilla",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883750",
+      "food_name": "Side Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/side-mashed-potatoes",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883753",
+      "food_name": "Side Salad with Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/side-salad-with-ranch",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883754",
+      "food_name": "Side Steamed Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/side-steamed-broccoli",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883767",
+      "food_name": "Boneless Wings w/ Honey Chipotle Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-w-honey-chipotle-sauce",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883804",
+      "food_name": "Caesar Salad Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/caesar-salad-side",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883817",
+      "food_name": "Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/caesar-salad",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883857",
+      "food_name": "Add Ancho Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/add-ancho-salmon",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883868",
+      "food_name": "House Salad Side w/o Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/house-salad-side-w-o-dressing",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883908",
+      "food_name": "Caesar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/caesar",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883961",
+      "food_name": "Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/black-beans",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883982",
+      "food_name": "Crispers Crispy w/O Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/crispers-crispy-w-o-sauce",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68883988",
+      "food_name": "Jalapeno-Cheddar Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/jalapeno-cheddar-smoked-sausage",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68884024",
+      "food_name": "Ribs House BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/ribs-house-bbq",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68884031",
+      "food_name": "Chicken Enchilada - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/chicken-enchilada-bowl",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68884079",
+      "food_name": "Loaded Baked Potato - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/loaded-baked-potato-bowl",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68884093",
+      "food_name": "Loaded Baked Potato - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/loaded-baked-potato-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74353750",
+      "food_name": "White Cheddar Mac & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/white-cheddar-mac-cheese",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304260",
+      "food_name": "Casamigos Old Fashioned",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/casamigos-old-fashioned",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304268",
+      "food_name": "Deep Eddy Strawberry Texas Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/deep-eddy-strawberry-texas-lemonade",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304423",
+      "food_name": "Unsweetened Tea - Regular Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/unsweetened-tea-regular-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304425",
+      "food_name": "Unsweetened Tea - to Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/unsweetened-tea-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304458",
+      "food_name": "Honey Chipotle Crispy Crispers (5 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/honey-chipotle-crispy-crispers-(5-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304462",
+      "food_name": "Honey Chipotle Crispy Crispers (6 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/honey-chipotle-crispy-crispers-(6-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304466",
+      "food_name": "Nashville Hot Crispy Crispers (5 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/nashville-hot-crispy-crispers-(5-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304473",
+      "food_name": "Crispy Crispers (5 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/crispy-crispers-(5-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304474",
+      "food_name": "Crispy Crispers (6 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/crispy-crispers-(6-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304520",
+      "food_name": "Dip Trio - Chips & Choose 3 Dips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/dip-trio-chips-choose-3-dips",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304558",
+      "food_name": "TD Wings - Buffalo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-wings-buffalo",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304582",
+      "food_name": "Boneless Wings Plain (8 Ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-plain-(8-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304586",
+      "food_name": "Nashville Hot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/nashville-hot",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304602",
+      "food_name": "Boneless Wings Lemon Pepper (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-lemon-pepper-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304603",
+      "food_name": "Boneless Wings Lemon Pepper (16 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-lemon-pepper-(16-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304620",
+      "food_name": "Nashville Hot - 3 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/nashville-hot-3-oz",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304624",
+      "food_name": "Mango Habanero Sauce - 3 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/mango-habanero-sauce-3-oz",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304686",
+      "food_name": "Half Bacon Avocado Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/half-bacon-avocado-chicken-sandwich",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304813",
+      "food_name": "Cajun Pasta w/ Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/cajun-pasta-w-grilled-chicken",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304817",
+      "food_name": "Cajun Pasta w/ Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/cajun-pasta-w-shrimp",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304821",
+      "food_name": "Surf & Turf Ribeye",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/surf-turf-ribeye",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304823",
+      "food_name": "Iced Tea - Blackberry (Party Platter)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/iced-tea-blackberry-(party-platter)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304826",
+      "food_name": "Iced Tea - Sweet (Party Platter)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/iced-tea-sweet-(party-platter)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304829",
+      "food_name": "Lemonade - Strawberry (Party Platter)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/lemonade-strawberry-(party-platter)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304846",
+      "food_name": "TD Honey-Chipotle Crispers (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-honey-chipotle-crispers-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304875",
+      "food_name": "Mango Habanero Sauce (6 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/mango-habanero-sauce-(6-fl-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304884",
+      "food_name": "Honey-Chipotle Crispers (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/honey-chipotle-crispers-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304886",
+      "food_name": "Nashville Hot Crispers (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/nashville-hot-crispers-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304916",
+      "food_name": "Corn Tortillas (12 Each)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/corn-tortillas-(12-each)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304919",
+      "food_name": "Add Cadi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/add-cadi",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304963",
+      "food_name": "Homestyle Fries (Lunch Combos)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/homestyle-fries-(lunch-combos)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97578888",
+      "food_name": "Veggie Santa Fe Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/veggie-santa-fe-burger",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104701996",
+      "food_name": "Heineken 00 - Bottled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/heineken-00-bottled",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702316",
+      "food_name": "Don Julio Marg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/don-julio-marg",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702327",
+      "food_name": "Henny Marg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/henny-marg",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702466",
+      "food_name": "Patron Marg - Blackberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/patron-marg-blackberry",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702472",
+      "food_name": "Patron Marg - Dragon Fruit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/patron-marg-dragon-fruit",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702483",
+      "food_name": "Patron Marg - Mango",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/patron-marg-mango",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702498",
+      "food_name": "Patron Marg - Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/patron-marg-strawberry",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702513",
+      "food_name": "Patron Marg Frozen - Blackberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/patron-marg-frozen-blackberry",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702519",
+      "food_name": "Patron Marg Frozen - Dragon Fruit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/patron-marg-frozen-dragon-fruit",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702527",
+      "food_name": "Patron Marg Frozen - Watermelon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/patron-marg-frozen-watermelon",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702530",
+      "food_name": "Presidente Marg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/presidente-marg",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702544",
+      "food_name": "Presidente Marg - Mango",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/presidente-marg-mango",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702556",
+      "food_name": "Presidente Marg - Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/presidente-marg-strawberry",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702558",
+      "food_name": "Presidente Marg - Watermelon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/presidente-marg-watermelon",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702560",
+      "food_name": "Prickly Pear Frozen Marg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/prickly-pear-frozen-marg",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702569",
+      "food_name": "Skinny Marg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/skinny-marg",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702579",
+      "food_name": "Teremana Shot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/teremana-shot",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702580",
+      "food_name": "Patron Silver Shot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/patron-silver-shot",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702593",
+      "food_name": "Jack Daniel's Shot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/jack-daniels-shot",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702618",
+      "food_name": "Red Wine - 9 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/red-wine-9-fl-oz",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702624",
+      "food_name": "White Wine - 6 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/white-wine-6-fl-oz",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702631",
+      "food_name": "White Wine - 9 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/white-wine-9-fl-oz",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702635",
+      "food_name": "Dr Pepper - Regular Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/dr-pepper-regular-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702647",
+      "food_name": "Dr Pepper - Kid Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/dr-pepper-kid-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702651",
+      "food_name": "Dr Pepper - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/dr-pepper-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702680",
+      "food_name": "Watermelon - Regular Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/watermelon-regular-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702684",
+      "food_name": "Ice Tea - Dragon Fruit - Regular Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/ice-tea-dragon-fruit-regular-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702713",
+      "food_name": "Ice Tea - Dragon Fruit - To Go Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/ice-tea-dragon-fruit-to-go-cup",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702724",
+      "food_name": "1% Chocolate Milk - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/1-chocolate-milk-kids",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702737",
+      "food_name": "Double Oldtimer with Cheese Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/double-oldtimer-with-cheese-burger",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702738",
+      "food_name": "The Big QP",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/the-big-qp",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702742",
+      "food_name": "Side Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/side-fries",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702772",
+      "food_name": "Side House BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/side-house-bbq-sauce",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702776",
+      "food_name": "Side Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/side-ranch",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702781",
+      "food_name": "Side Sweet Chili Zing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/side-sweet-chili-zing",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702788",
+      "food_name": "Sizzling Fajitas - Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sizzling-fajitas-grilled-chicken",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702791",
+      "food_name": "Sizzling Fajitas - Grilled Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sizzling-fajitas-grilled-steak",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702795",
+      "food_name": "Sizzling Fajitas - Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sizzling-fajitas-shrimp",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702797",
+      "food_name": "Sizzling Fajitas - Fajita Trio",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sizzling-fajitas-fajita-trio",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702820",
+      "food_name": "Sizzling Fajitas - Seared Shrimp (1 Portion)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sizzling-fajitas-seared-shrimp-(1-portion)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702832",
+      "food_name": "Sizzling Fajitas - Add Guacamole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/sizzling-fajitas-add-guacamole",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702838",
+      "food_name": "Add Queso Blanco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/add-queso-blanco",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702842",
+      "food_name": "Bottomless Chips & Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/bottomless-chips-salsa",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702847",
+      "food_name": "Fried Mozzarella (6 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/fried-mozzarella-(6-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702851",
+      "food_name": "Fried Mozzarella (3 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/fried-mozzarella-(3-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702854",
+      "food_name": "Fried Mozzarella with Honey Chipotle (6 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/fried-mozzarella-with-honey-chipotle-(6-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702863",
+      "food_name": "Fried Mozzarella with Nashville Sauce (3 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/fried-mozzarella-with-nashville-sauce-(3-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702865",
+      "food_name": "Skillet Beef Queso & Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/skillet-beef-queso-chips",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702879",
+      "food_name": "TD Fried Mozzarella with Honey Chipotle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-fried-mozzarella-with-honey-chipotle",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702947",
+      "food_name": "Wings - Honey Chipotle (8 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-honey-chipotle-(8-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702953",
+      "food_name": "Wings - House BBQ (8 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-house-bbq-(8-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702961",
+      "food_name": "Wings - Sweet Chili Zing (8 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-sweet-chili-zing-(8-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703193",
+      "food_name": "Wings - House BBQ (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-house-bbq-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703198",
+      "food_name": "Wings - Sweet Chili Zing (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-sweet-chili-zing-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703205",
+      "food_name": "Boneless Wings - Buffalo (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-buffalo-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703212",
+      "food_name": "Boneless Wings - House BBQ (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-house-bbq-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703214",
+      "food_name": "Boneless Wings - Nashville Hot (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-nashville-hot-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703218",
+      "food_name": "Boneless Wings - Sweet Chili Zing (12 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-sweet-chili-zing-(12-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703219",
+      "food_name": "Wings - Buffalo (16 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-buffalo-(16-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703224",
+      "food_name": "Wings - Honey Chipotle (16 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-honey-chipotle-(16-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703227",
+      "food_name": "Wings - House BBQ (16 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-house-bbq-(16-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703230",
+      "food_name": "Wings - Nashville Hot (16 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-nashville-hot-(16-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703241",
+      "food_name": "Boneless Wings - Nashville Hot (16 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-nashville-hot-(16-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703243",
+      "food_name": "Boneless Wings - Sweet Chili Zing (16 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-sweet-chili-zing-(16-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703251",
+      "food_name": "Guiltless Sirloin (10 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/guiltless-sirloin-(10-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703255",
+      "food_name": "Guiltless Sirloin (6 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/guiltless-sirloin-(6-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703257",
+      "food_name": "Santa Fe Grilled Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/santa-fe-grilled-chicken-salad",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703264",
+      "food_name": "Boneless Wings with House BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-with-house-bbq",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703268",
+      "food_name": "Boneless Wings with Honey Chipotle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-with-honey-chipotle",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703281",
+      "food_name": "Crispy Crispers with Honey Chipotle Sauce (3 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/crispy-crispers-with-honey-chipotle-sauce-(3-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703288",
+      "food_name": "House Salad (LC) w/o Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/house-salad-(lc)-w-o-dressing",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703320",
+      "food_name": "Honey Mustard (1.5 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/honey-mustard-(15-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703338",
+      "food_name": "Thousand Island (1.5 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/thousand-island-(15-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703348",
+      "food_name": "Bacon Guac Chicken Sandwich Grilled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/bacon-guac-chicken-sandwich-grilled",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703374",
+      "food_name": "Mac & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/mac-cheese",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703379",
+      "food_name": "Classic Sirloin (10 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/classic-sirloin-(10-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703382",
+      "food_name": "Classic Sirloin (6 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/classic-sirloin-(6-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703386",
+      "food_name": "Iced Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/iced-tea",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703411",
+      "food_name": "Add Skillet Beef Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/add-skillet-beef-queso",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703445",
+      "food_name": "TD Big Mouth Bites (16 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-big-mouth-bites-(16-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703483",
+      "food_name": "TD Boneless Wings - Honey Chipotle (22 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-boneless-wings-honey-chipotle-(22-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703490",
+      "food_name": "TD Fried Mozzarella (6 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-fried-mozzarella-(6-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703499",
+      "food_name": "TD Southwestern Eggrolls (6 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-southwestern-eggrolls-(6-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703504",
+      "food_name": "Wings - Buffalo (32 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-buffalo-(32-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703507",
+      "food_name": "Wings - House BBQ (32 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-house-bbq-(32-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703514",
+      "food_name": "Boneless Wings - Buffalo (32 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-buffalo-(32-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703518",
+      "food_name": "Boneless Wings - House BBQ (32 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-house-bbq-(32-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703531",
+      "food_name": "Boneless Wings - Sweet Chili Zing (32 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-sweet-chili-zing-(32-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703535",
+      "food_name": "Wings - House BBQ (48 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-house-bbq-(48-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703539",
+      "food_name": "Wings - Nashville Hot (48 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-nashville-hot-(48-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703543",
+      "food_name": "Wings - Sweet Chili Zing (48 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/wings-sweet-chili-zing-(48-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703545",
+      "food_name": "Boneless Wings - Buffalo (48 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-buffalo-(48-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703553",
+      "food_name": "Boneless Wings - Nashville Hot (48 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-nashville-hot-(48-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703555",
+      "food_name": "Boneless Wings - Sweet Chili Zing (48 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/boneless-wings-sweet-chili-zing-(48-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703568",
+      "food_name": "Blue Cheese (4 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/blue-cheese-(4-fl-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703570",
+      "food_name": "Avocado Ranch (8 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/avocado-ranch-(8-fl-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703585",
+      "food_name": "Citrus Balsamic Vinaigrette (8 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/citrus-balsamic-vinaigrette-(8-fl-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703603",
+      "food_name": "Thousand Island (8 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/thousand-island-(8-fl-oz)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703608",
+      "food_name": "PP Fajitas Mix & Match - Fajita Peppers & Onions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/pp-fajitas-mix-match-fajita-peppers-onions",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703610",
+      "food_name": "PP Fajitas Mix & Match - Grilled Chicken (1 Choice)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/pp-fajitas-mix-match-grilled-chicken-(1-choice)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703616",
+      "food_name": "PP Fajitas Mix & Match - Seared Shrimp (1 Choice)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/pp-fajitas-mix-match-seared-shrimp-(1-choice)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703618",
+      "food_name": "PP Fajitas Mix & Match - Fresh Toppings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/pp-fajitas-mix-match-fresh-toppings",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703621",
+      "food_name": "Mini Molten-Cakes (7 ct)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/mini-molten-cakes-(7-ct)",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703629",
+      "food_name": "TD Fried Mozzarella with Nashville Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/td-fried-mozzarella-with-nashville-sauce",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104703384",
+      "food_name": "Peanut Butter Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/peanut-butter-pie",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "274207",
+      "food_name": "4 Star Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/famous-chili/4-star-chili",
+      "brand_name": "Famous Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1595398",
+      "food_name": "Chilito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/chilito",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "436918",
+      "food_name": "Mild Cheddar Finely Shredded Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/mild-cheddar-finely-shredded-cheese",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "724900",
+      "food_name": "Garden Salad with No Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/garden-salad-with-no-dressing",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "724914",
+      "food_name": "Greek Chicken Salad with No Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/greek-chicken-salad-with-no-dressing",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "724930",
+      "food_name": "Southwest Chicken Salad with Tortilla Chips but No Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/southwest-chicken-salad-with-tortilla-chips-but-no-dressing",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "724938",
+      "food_name": "Classic Chicken Wrap with No Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/classic-chicken-wrap-with-no-dressing",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "724956",
+      "food_name": "Southwest Chicken Wrap with No Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/southwest-chicken-wrap-with-no-dressing",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "724959",
+      "food_name": "Honey French Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/honey-french-dressing",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "724978",
+      "food_name": "Greek Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/greek-salad-dressing",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "724999",
+      "food_name": "Black Bean Burrito Deluxe",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/black-bean-burrito-deluxe",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725013",
+      "food_name": "All Chili Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/all-chili-burrito",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725018",
+      "food_name": "All Chili Burrito Deluxe",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/all-chili-burrito-deluxe",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725049",
+      "food_name": "3-Way Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/3-way-potato",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725082",
+      "food_name": "Chili Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/chili-bowl",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725132",
+      "food_name": "Chili Bean Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/chili-bean-bowl",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725151",
+      "food_name": "Loaded Chili Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/loaded-chili-bowl",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725185",
+      "food_name": "Coney Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/coney-bowl",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725206",
+      "food_name": "Regular Coney without Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/regular-coney-without-cheese",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725246",
+      "food_name": "3-Way Chili Spaghetti (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/3-way-chili-spaghetti-(large)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725257",
+      "food_name": "4-Way Onion Chili Spaghetti (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/4-way-onion-chili-spaghetti-(small)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725302",
+      "food_name": "5-Way Chili Spaghetti (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/5-way-chili-spaghetti-(regular)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725313",
+      "food_name": "Chili Spaghetti (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/chili-spaghetti-(small)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725322",
+      "food_name": "Chili Spaghetti (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/chili-spaghetti-(large)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725443",
+      "food_name": "French Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/french-fries",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725457",
+      "food_name": "3-Way Special Spaghetti (Kids)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/3-way-special-spaghetti-(kids)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725476",
+      "food_name": "Single Wiener Hot Doggy Special with Cheese (Kids)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/single-wiener-hot-doggy-special-with-cheese-(kids)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725481",
+      "food_name": "Double Wiener Hot Doggy Special without Cheese (Kids)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/double-wiener-hot-doggy-special-without-cheese-(kids)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66820319",
+      "food_name": "Oyster Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/oyster-crackers",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71309571",
+      "food_name": "Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/crackers",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87711",
+      "food_name": "Original Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/original-chili",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "724892",
+      "food_name": "Greek Salad with No Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/greek-salad-with-no-dressing",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "724920",
+      "food_name": "Buffalo Chicken Salad with No Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/buffalo-chicken-salad-with-no-dressing",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "724926",
+      "food_name": "Southwest Chicken Salad with No Dressing & No Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/southwest-chicken-salad-with-no-dressing-no-tortilla-chips",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "724946",
+      "food_name": "Greek Chicken Wrap with No Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/greek-chicken-wrap-with-no-dressing",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "724953",
+      "food_name": "Buffalo Chicken Wrap with No Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/buffalo-chicken-wrap-with-no-dressing",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "724981",
+      "food_name": "Light Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/light-ranch-dressing",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "724989",
+      "food_name": "Buttermilk Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/buttermilk-ranch-dressing",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725034",
+      "food_name": "Chili Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/chili-potato",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725040",
+      "food_name": "Sour Cream Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/sour-cream-potato",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725075",
+      "food_name": "Vegetarian Black Beans & Rice Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/vegetarian-black-beans-rice-bowl",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725130",
+      "food_name": "Chili Cheese Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/chili-cheese-bowl",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725211",
+      "food_name": "Cheese Coney",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/cheese-coney",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725217",
+      "food_name": "Chili Cheese Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/chili-cheese-sandwich",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725234",
+      "food_name": "3-Way Chili Spaghetti (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/3-way-chili-spaghetti-(small)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725240",
+      "food_name": "3-Way Chili Spaghetti (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/3-way-chili-spaghetti-(regular)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725266",
+      "food_name": "4-Way Onion Chili Spaghetti (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/4-way-onion-chili-spaghetti-(regular)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725275",
+      "food_name": "4-Way Onion Chili Spaghetti (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/4-way-onion-chili-spaghetti-(large)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725281",
+      "food_name": "4-Way Bean Chili Spaghetti (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/4-way-bean-chili-spaghetti-(small)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725285",
+      "food_name": "4-Way Bean Chili Spaghetti (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/4-way-bean-chili-spaghetti-(regular)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725298",
+      "food_name": "5-Way Chili Spaghetti (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/5-way-chili-spaghetti-(small)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725308",
+      "food_name": "5-Way Chili Spaghetti (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/5-way-chili-spaghetti-(large)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725318",
+      "food_name": "Chili Spaghetti (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/chili-spaghetti-(regular)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725352",
+      "food_name": "Chili Spaghetti Bean (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/chili-spaghetti-bean-(regular)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725361",
+      "food_name": "Chili Spaghetti Bean (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/chili-spaghetti-bean-(large)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725465",
+      "food_name": "Single Wiener Hot Doggy Special without Cheese (Kids)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/single-wiener-hot-doggy-special-without-cheese-(kids)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725507",
+      "food_name": "Cheese (Side)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/cheese-(side)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725515",
+      "food_name": "Chili (Side)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/chili-(side)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725522",
+      "food_name": "Garlic Bread (Half)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/garlic-bread-(half)",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "966143",
+      "food_name": "Premium Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dixie-chili/premium-chili",
+      "brand_name": "Dixie Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6418320",
+      "food_name": "Bowl of Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/bowl-of-crackers",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20560431",
+      "food_name": "Chili Cheese Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skyline-chili/chili-cheese-fries",
+      "brand_name": "Skyline Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1250737",
+      "food_name": "Chili Cheese Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-star-chili/chili-cheese-dip",
+      "brand_name": "Gold Star Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60843",
+      "food_name": "Coney Chili (No Beans)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-star-chili/coney-chili-(no-beans)",
+      "brand_name": "Gold Star Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17487216",
+      "food_name": "Beef Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/texas-chili-company/beef-chili",
+      "brand_name": "Texas Chili Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1313054",
+      "food_name": "4-Way (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-star-chili/4-way-(regular)",
+      "brand_name": "Gold Star Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "671113",
+      "food_name": "Cheese Coney",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-star-chili/cheese-coney",
+      "brand_name": "Gold Star Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1036077",
+      "food_name": "3-Way (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-star-chili/3-way-(regular)",
+      "brand_name": "Gold Star Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3596187",
+      "food_name": "Half Smoke All The Way",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bens-chili-bowl/half-smoke-all-the-way",
+      "brand_name": "Ben's Chili Bowl",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3235938",
+      "food_name": "Chili Cheese Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-star-chili/chili-cheese-fries",
+      "brand_name": "Gold Star Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8428204",
+      "food_name": "Original Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-star-chili/original-chili",
+      "brand_name": "Gold Star Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9771246",
+      "food_name": "Chili & Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-star-chili/chili-and-spaghetti",
+      "brand_name": "Gold Star Chili",
+      "food_type": "Brand"
+    }
+  ]
+}

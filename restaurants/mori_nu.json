@@ -1,0 +1,62 @@
+{
+  "restaurant": "Mori-Nu",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:21:03.429Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mori_nu.json",
+  "items": [
+    {
+      "food_id": "63476",
+      "food_name": "Silken Firm Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mori-nu/silken-firm-tofu",
+      "brand_name": "Mori-Nu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63475",
+      "food_name": "Silken Soft Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mori-nu/silken-soft-tofu",
+      "brand_name": "Mori-Nu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63477",
+      "food_name": "Silken Extra Firm Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mori-nu/silken-extra-firm-tofu",
+      "brand_name": "Mori-Nu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63478",
+      "food_name": "Silken Lite Firm Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mori-nu/silken-lite-firm-tofu",
+      "brand_name": "Mori-Nu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63481",
+      "food_name": "Japanese Miso Seasoned Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mori-nu/japanese-miso-seasoned-tofu",
+      "brand_name": "Mori-Nu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63479",
+      "food_name": "Organic Silken Firm Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mori-nu/organic-silken-firm-tofu",
+      "brand_name": "Mori-Nu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63480",
+      "food_name": "Chinese Spice Seasoned Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mori-nu/chinese-spice-seasoned-tofu",
+      "brand_name": "Mori-Nu",
+      "food_type": "Brand"
+    }
+  ]
+}

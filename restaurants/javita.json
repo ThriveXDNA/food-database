@@ -1,0 +1,34 @@
+{
+  "restaurant": "Javita",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:08:45.675Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/javita.json",
+  "items": [
+    {
+      "food_id": "5915350",
+      "food_name": "Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/javita/coffee/1-cup",
+      "brand_name": "Javita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3340925",
+      "food_name": "Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/javita/coffee",
+      "brand_name": "Javita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9596324",
+      "food_name": "Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/javita/green-tea",
+      "brand_name": "Javita",
+      "food_type": "Brand"
+    }
+  ]
+}

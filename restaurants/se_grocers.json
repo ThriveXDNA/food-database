@@ -1,0 +1,363 @@
+{
+  "restaurant": "Se Grocers",
+  "total_items": 50,
+  "pages_extracted": 1,
+  "total_search_results": 50,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:24:50.154Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/se_grocers.json",
+  "items": [
+    {
+      "food_id": "30565515",
+      "food_name": "Sugar Free Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/sugar-free-syrup",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32950231",
+      "food_name": "Garlic Aioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/garlic-aioli",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50147043",
+      "food_name": "Light Mayonaise",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/light-mayonaise",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31540084",
+      "food_name": "Chunk Light Tuna in Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/chunk-light-tuna-in-water",
+      "brand_name": "SE Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69594719",
+      "food_name": "Sour Cream Light",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/sour-cream-light",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25400336",
+      "food_name": "Plain Cream Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/plain-cream-cheese",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90558037",
+      "food_name": "Gold Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/gold-potatoes",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15737298",
+      "food_name": "Mexican Style Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/mexican-style-blend",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26077982",
+      "food_name": "Boneless Center Cut Pork Chops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/boneless-center-cut-pork-chops",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46691149",
+      "food_name": "Extra Crispy Seasoned French Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/extra-crispy-seasoned-french-fries",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21135246",
+      "food_name": "Sharp Cheddar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/sharp-cheddar",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76659818",
+      "food_name": "Off The Bone Turkey Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/off-the-bone-turkey-breast",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33151670",
+      "food_name": "Almond Milk Unsweetened",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/almond-milk-unsweetened",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94942303",
+      "food_name": "Chunky Style Beef with Vegetables Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/chunky-style-beef-with-vegetables-soup",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26079332",
+      "food_name": "Old Fashioned Round Top Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/old-fashioned-round-top-bread",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25005399",
+      "food_name": "No Salt Pretzel Mini Twists",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/no-salt-pretzel-mini-twists",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76016903",
+      "food_name": "American Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/american-cheese",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16927718",
+      "food_name": "100% Whole Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/100%25-whole-wheat-bread",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47546453",
+      "food_name": "Fancy Shredded Parmesan Natural Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/fancy-shredded-parmesan-natural-cheese",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81519885",
+      "food_name": "Red Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/red-potatoes",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16602218",
+      "food_name": "Fancy Shredded Reduced Fat Sharp Cheddar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/fancy-shredded-reduced-fat-sharp-cheddar",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69785302",
+      "food_name": "Double Hardwood Smoked Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/double-hardwood-smoked-ham",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19620382",
+      "food_name": "Kale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/kale",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40590007",
+      "food_name": "Original Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/original-beef-jerky",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24381027",
+      "food_name": "Honey Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/honey-wheat-bread",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24423569",
+      "food_name": "Cream Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/cream-cheese",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23389655",
+      "food_name": "Sriracha Aioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/sriracha-aioli",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55233678",
+      "food_name": "Beets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/beets",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39120691",
+      "food_name": "Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/pepperoni-pizza",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46975864",
+      "food_name": "Baby Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/baby-carrots",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37284923",
+      "food_name": "Oven Roasted Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/oven-roasted-chicken-breast",
+      "brand_name": "SE Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61082995",
+      "food_name": "Petite Diced Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/petite-diced-tomatoes",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57626238",
+      "food_name": "Blueberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/blueberries",
+      "brand_name": "SE Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37275582",
+      "food_name": "Russet Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/russet-potatoes",
+      "brand_name": "SE Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72837445",
+      "food_name": "Green Onion Chicken Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/green-onion-chicken-sausage",
+      "brand_name": "SE Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76800112",
+      "food_name": "Mild Italian Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/mild-italian-meatballs",
+      "brand_name": "SE GROCERS",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23208927",
+      "food_name": "Old Fashioned Potato Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/old-fashioned-potato-salad",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60297834",
+      "food_name": "Creamy Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/creamy-peanut-butter",
+      "brand_name": "SE Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22845749",
+      "food_name": "Fat Free Half & Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/fat-free-half-half",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35708824",
+      "food_name": "Honey Roasted Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/honey-roasted-peanuts",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88435126",
+      "food_name": "Mustard Potato Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/mustard-potato-salad",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23228088",
+      "food_name": "Broccoli Spears",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/broccoli-spears",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67161452",
+      "food_name": "Baby Lima Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/baby-lima-beans",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60015678",
+      "food_name": "Organic Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/organic-black-beans",
+      "brand_name": "SE Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60463968",
+      "food_name": "Buttermilk Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/buttermilk-pancakes",
+      "brand_name": "SE Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68189687",
+      "food_name": "No Added Salt Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/no-added-salt-black-beans",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63663081",
+      "food_name": "Enriched Long Grain White Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/enriched-long-grain-white-rice",
+      "brand_name": "SE Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25772068",
+      "food_name": "Stir Fry Vegetable Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/stir-fry-vegetable-blend",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76290143",
+      "food_name": "Lactose Free Fat Free Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/lactose-free-fat-free-milk",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78545753",
+      "food_name": "Gourmet Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/se-grocers/gourmet-chicken-salad",
+      "brand_name": "Se Grocers",
+      "food_type": "Brand"
+    }
+  ]
+}

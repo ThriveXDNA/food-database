@@ -1,0 +1,20 @@
+{
+  "restaurant": "Cafe al Fresco",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 364,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:40:45.656Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cafe_al_fresco.json",
+  "items": [
+    {
+      "food_id": "3772339",
+      "food_name": "Vanilla Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-al-fresco/vanilla-syrup",
+      "brand_name": "Cafe al Fresco",
+      "food_type": "Brand"
+    }
+  ]
+}

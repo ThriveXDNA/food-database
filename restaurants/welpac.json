@@ -1,0 +1,62 @@
+{
+  "restaurant": "Welpac",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:40:31.282Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/welpac.json",
+  "items": [
+    {
+      "food_id": "3458986",
+      "food_name": "Japanese Udon Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/welpac/japanese-udon-noodles",
+      "brand_name": "Welpac",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80404",
+      "food_name": "Edamame Soybeans in Pod",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/welpac/edamame-soybeans-in-pod",
+      "brand_name": "Welpac",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37903027",
+      "food_name": "Sushi Ginger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/welpac/sushi-ginger",
+      "brand_name": "Welpac",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2724932",
+      "food_name": "Chow Mein Stir-Fry Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/welpac/chow-mein-stir-fry-noodles",
+      "brand_name": "Welpac",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17689785",
+      "food_name": "Lo Mein Egg Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/welpac/lo-mein-egg-noodles",
+      "brand_name": "Welpac",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2675236",
+      "food_name": "Shelled Edamame Soybeans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/welpac/shelled-edamame-soybeans",
+      "brand_name": "Welpac",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9402004",
+      "food_name": "Japanese Soba Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/welpac/japanese-soba-noodles",
+      "brand_name": "Welpac",
+      "food_type": "Brand"
+    }
+  ]
+}

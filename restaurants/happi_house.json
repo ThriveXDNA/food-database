@@ -1,0 +1,55 @@
+{
+  "restaurant": "Happi House",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 387,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:29:09.629Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/happi_house.json",
+  "items": [
+    {
+      "food_id": "5678109",
+      "food_name": "Beef Teriyaki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happi-house/beef-teriyaki",
+      "brand_name": "Happi House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "640125",
+      "food_name": "White Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happi-house/white-rice",
+      "brand_name": "Happi House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "749362",
+      "food_name": "Miso Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happi-house/miso-soup",
+      "brand_name": "Happi House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1433799",
+      "food_name": "Teriyaki Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happi-house/teriyaki-burger",
+      "brand_name": "Happi House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2257954",
+      "food_name": "Beef Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happi-house/beef-rice",
+      "brand_name": "Happi House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "640135",
+      "food_name": "Teriyaki Chicken Tenders",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happi-house/teriyaki-chicken-tenders",
+      "brand_name": "Happi House",
+      "food_type": "Brand"
+    }
+  ]
+}

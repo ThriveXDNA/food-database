@@ -1,0 +1,69 @@
+{
+  "restaurant": "Mason Dixie",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 11,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:55:25.436Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mason_dixie.json",
+  "items": [
+    {
+      "food_id": "49204515",
+      "food_name": "Buttermilk Breakfast Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mason-dixie/buttermilk-breakfast-sandwich",
+      "brand_name": "Mason Dixie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83477733",
+      "food_name": "English Muffin Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mason-dixie/english-muffin-sandwich",
+      "brand_name": "Mason Dixie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76938611",
+      "food_name": "Biscuits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mason-dixie/biscuits",
+      "brand_name": "Mason Dixie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51251175",
+      "food_name": "Cheddar Biscuits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mason-dixie/cheddar-biscuits",
+      "brand_name": "Mason Dixie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "102917918",
+      "food_name": "Pancake Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mason-dixie/pancake-sandwich",
+      "brand_name": "Mason Dixie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82726220",
+      "food_name": "Croissant Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mason-dixie/croissant-sandwich",
+      "brand_name": "Mason Dixie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37936467",
+      "food_name": "Buttermilk Biscuits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mason-dixie/buttermilk-biscuits",
+      "brand_name": "Mason Dixie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76446193",
+      "food_name": "Maple Liège Waffles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mason-dixie/maple-li%C3%A8ge-waffles",
+      "brand_name": "Mason Dixie",
+      "food_type": "Brand"
+    }
+  ]
+}

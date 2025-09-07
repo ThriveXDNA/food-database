@@ -1,0 +1,34 @@
+{
+  "restaurant": "Peanut Patch",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 2923,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:55:38.599Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/peanut_patch.json",
+  "items": [
+    {
+      "food_id": "5782758",
+      "food_name": "Cajun Boiled Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peanut-patch/cajun-boiled-peanuts",
+      "brand_name": "Peanut Patch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24274381",
+      "food_name": "Original Boiled Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peanut-patch/original-boiled-peanuts",
+      "brand_name": "Peanut Patch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2724804",
+      "food_name": "Green Boiled Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peanut-patch/green-boiled-peanuts",
+      "brand_name": "Peanut Patch",
+      "food_type": "Brand"
+    }
+  ]
+}

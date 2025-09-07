@@ -1,0 +1,20 @@
+{
+  "restaurant": "Gracious Grits",
+  "total_items": 1,
+  "pages_extracted": 2,
+  "total_search_results": 86,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:57:29.137Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/gracious_grits.json",
+  "items": [
+    {
+      "food_id": "40170224",
+      "food_name": "Original Creamy Grits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gracious-grits/original-creamy-grits",
+      "brand_name": "Gracious Grits",
+      "food_type": "Brand"
+    }
+  ]
+}

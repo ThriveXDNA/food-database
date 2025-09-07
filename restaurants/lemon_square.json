@@ -1,0 +1,34 @@
+{
+  "restaurant": "Lemon Square",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 1810,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:42:41.454Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/lemon_square.json",
+  "items": [
+    {
+      "food_id": "3426202",
+      "food_name": "Lemon Square",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/market-basket/lemon-square",
+      "brand_name": "Market Basket",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12775967",
+      "food_name": "Cheese Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lemon-square/cheese-cake",
+      "brand_name": "Lemon Square",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37690543",
+      "food_name": "Lava Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lemon-square/lava-cake",
+      "brand_name": "Lemon Square",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "restaurant": "Spice Supreme",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 806,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:03:51.899Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/spice_supreme.json",
+  "items": [
+    {
+      "food_id": "428836",
+      "food_name": "Crushed Red Pepper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spice-supreme/crushed-red-pepper",
+      "brand_name": "Spice Supreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65340928",
+      "food_name": "Everything Bagel Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spice-supreme/everything-bagel-mix",
+      "brand_name": "Spice Supreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2177389",
+      "food_name": "Cinnamon Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spice-supreme/cinnamon-sugar",
+      "brand_name": "Spice Supreme",
+      "food_type": "Brand"
+    }
+  ]
+}

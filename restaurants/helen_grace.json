@@ -1,0 +1,27 @@
+{
+  "restaurant": "Helen Grace",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:04:59.891Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/helen_grace.json",
+  "items": [
+    {
+      "food_id": "627658",
+      "food_name": "Chocolate Almond Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/helen-grace/chocolate-almond-bar",
+      "brand_name": "Helen Grace",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97347",
+      "food_name": "Dark Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/helen-grace/dark-chocolate-bar",
+      "brand_name": "Helen Grace",
+      "food_type": "Brand"
+    }
+  ]
+}

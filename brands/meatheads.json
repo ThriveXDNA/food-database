@@ -1,0 +1,27 @@
+{
+  "brand_name": "Meatheads",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:36:30.158Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/meatheads.json",
+  "items": [
+    {
+      "food_id": "911613",
+      "food_name": "Cheese Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meatheads/cheese-sauce",
+      "brand_name": "Meatheads",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1892488",
+      "food_name": "Fresh Cut Cajun Fries (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meatheads/fresh-cut-cajun-fries-(regular)",
+      "brand_name": "Meatheads",
+      "food_type": "Brand"
+    }
+  ]
+}

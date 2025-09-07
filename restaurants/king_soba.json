@@ -1,0 +1,48 @@
+{
+  "restaurant": "King Soba",
+  "total_items": 5,
+  "pages_extracted": 4,
+  "total_search_results": 173,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:36:13.306Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/king_soba.json",
+  "items": [
+    {
+      "food_id": "61710112",
+      "food_name": "Organic Thai Rice Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soba/organic-thai-rice-noodles",
+      "brand_name": "King Soba",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8620029",
+      "food_name": "Organic Buckwheat Ramen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soba/organic-buckwheat-ramen",
+      "brand_name": "King Soba",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3423392",
+      "food_name": "Black Rice Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soba/black-rice-noodles",
+      "brand_name": "King Soba",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12091554",
+      "food_name": "Organic Brown Rice Ramen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soba/organic-brown-rice-ramen",
+      "brand_name": "King Soba",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21091484",
+      "food_name": "Organic Buckwheat Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-soba/organic-buckwheat-noodles",
+      "brand_name": "King Soba",
+      "food_type": "Brand"
+    }
+  ]
+}

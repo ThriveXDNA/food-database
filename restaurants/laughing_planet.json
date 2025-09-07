@@ -1,0 +1,55 @@
+{
+  "restaurant": "Laughing Planet",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:26:01.617Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/laughing_planet.json",
+  "items": [
+    {
+      "food_id": "29683299",
+      "food_name": "Harvest Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/laughing-planet/harvest-bowl",
+      "brand_name": "Laughing Planet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5700050",
+      "food_name": "Double Chocolate Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/laughing-planet/double-chocolate-cookie",
+      "brand_name": "Laughing Planet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2585305",
+      "food_name": "Grilled Chicken Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/laughing-planet/grilled-chicken-burrito",
+      "brand_name": "Laughing Planet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5541078",
+      "food_name": "Thai Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/laughing-planet/thai-bowl",
+      "brand_name": "Laughing Planet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5693974",
+      "food_name": "Bollywood Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/laughing-planet/bollywood-bowl",
+      "brand_name": "Laughing Planet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6037791",
+      "food_name": "Paleo Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/laughing-planet/paleo-bowl",
+      "brand_name": "Laughing Planet",
+      "food_type": "Brand"
+    }
+  ]
+}

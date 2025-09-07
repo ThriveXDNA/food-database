@@ -1,0 +1,27 @@
+{
+  "restaurant": "Yum Yum Donuts",
+  "total_items": 2,
+  "pages_extracted": 5,
+  "total_search_results": 244,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:06:24.306Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/yum_yum_donuts.json",
+  "items": [
+    {
+      "food_id": "73388831",
+      "food_name": "Cinnamon Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yum-yum-donuts/cinnamon-roll",
+      "brand_name": "Yum Yum Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4595620",
+      "food_name": "Apple Fritter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yum-yum-donuts/apple-fritter",
+      "brand_name": "Yum Yum Donuts",
+      "food_type": "Brand"
+    }
+  ]
+}

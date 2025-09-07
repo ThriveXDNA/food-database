@@ -1,0 +1,55 @@
+{
+  "restaurant": "Nuts Online",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 474,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:02:33.453Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/nuts_online.json",
+  "items": [
+    {
+      "food_id": "2718247",
+      "food_name": "Roasted Golden Chickpeas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nuts-online/roasted-golden-chickpeas",
+      "brand_name": "Nuts Online",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46859",
+      "food_name": "Dark Chocolate Covered Goji Berries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nuts-online/dark-chocolate-covered-goji-berries",
+      "brand_name": "Nuts Online",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2267746",
+      "food_name": "Antioxidant Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nuts-online/antioxidant-mix",
+      "brand_name": "Nuts Online",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "166413",
+      "food_name": "Roasted Fava Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nuts-online/roasted-fava-beans",
+      "brand_name": "Nuts Online",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1995761",
+      "food_name": "Berry Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nuts-online/berry-mix",
+      "brand_name": "Nuts Online",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1050413",
+      "food_name": "Veggie Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nuts-online/veggie-chips",
+      "brand_name": "Nuts Online",
+      "food_type": "Brand"
+    }
+  ]
+}

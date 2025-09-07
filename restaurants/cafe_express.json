@@ -1,0 +1,97 @@
+{
+  "restaurant": "Cafe Express",
+  "total_items": 12,
+  "pages_extracted": 6,
+  "total_search_results": 405,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:25:25.085Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cafe_express.json",
+  "items": [
+    {
+      "food_id": "7756737",
+      "food_name": "Classic Greek Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-express/classic-greek-salad",
+      "brand_name": "Cafe Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5299776",
+      "food_name": "Grilled Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-express/grilled-chicken-breast",
+      "brand_name": "Cafe Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12386430",
+      "food_name": "Grilled Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-express/grilled-chicken-salad",
+      "brand_name": "Cafe Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2690755",
+      "food_name": "Grilled Chicken Sandwhich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-express/grilled-chicken-sandwhich",
+      "brand_name": "Cafe Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2854332",
+      "food_name": "Shrimp & Avocado Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-express/shrimp-and-avocado-salad",
+      "brand_name": "Cafe Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2448049",
+      "food_name": "Breadsticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-express/breadsticks",
+      "brand_name": "Cafe Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9672883",
+      "food_name": "Black Bean Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-express/black-bean-soup",
+      "brand_name": "Cafe Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3137516",
+      "food_name": "Vegetable Tart & Spring Mix Side Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-express/vegetable-tart-and-spring-mix-side-salad",
+      "brand_name": "Cafe Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7673356",
+      "food_name": "Spring Mix Side Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-express/spring-mix-side-salad",
+      "brand_name": "Cafe Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3833684",
+      "food_name": "Spanish Chicken Romesco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-express/spanish-chicken-romesco",
+      "brand_name": "Cafe Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5944284",
+      "food_name": "Smoked Turkey Cobb Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-express/smoked-turkey-cobb-salad",
+      "brand_name": "Cafe Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12386436",
+      "food_name": "Creamy Parmesan Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-express/creamy-parmesan-salad-dressing",
+      "brand_name": "Cafe Express",
+      "food_type": "Brand"
+    }
+  ]
+}

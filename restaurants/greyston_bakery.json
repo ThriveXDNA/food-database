@@ -1,0 +1,48 @@
+{
+  "restaurant": "Greyston Bakery",
+  "total_items": 5,
+  "pages_extracted": 2,
+  "total_search_results": 51,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:12:49.367Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/greyston_bakery.json",
+  "items": [
+    {
+      "food_id": "43403949",
+      "food_name": "Vegan Fudge Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/greyston-bakery/vegan-fudge-brownie",
+      "brand_name": "Greyston Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17853975",
+      "food_name": "Chocolate Fudge Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/greyston-bakery/chocolate-fudge-brownie",
+      "brand_name": "Greyston Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73355686",
+      "food_name": "Vegan Birthday Cake Blondie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/greyston-bakery/vegan-birthday-cake-blondie",
+      "brand_name": "Greyston Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9080020",
+      "food_name": "Toasted Coconut Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/greyston-bakery/toasted-coconut-brownie",
+      "brand_name": "Greyston Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7655852",
+      "food_name": "Classic Fudge Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/greyston-bakery/classic-fudge-brownie",
+      "brand_name": "Greyston Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

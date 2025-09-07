@@ -1,0 +1,20 @@
+{
+  "restaurant": "Pacific Pride",
+  "total_items": 1,
+  "pages_extracted": 2,
+  "total_search_results": 91,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:42:02.645Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pacific_pride.json",
+  "items": [
+    {
+      "food_id": "8800469",
+      "food_name": "Smoked Mussels in Sunflower Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pacific-pride/smoked-mussels-in-sunflower-oil",
+      "brand_name": "Pacific Pride",
+      "food_type": "Brand"
+    }
+  ]
+}

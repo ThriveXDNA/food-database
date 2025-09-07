@@ -1,0 +1,20 @@
+{
+  "restaurant": "Ocean Bonnie",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 43,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:43:32.477Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ocean_bonnie.json",
+  "items": [
+    {
+      "food_id": "14285071",
+      "food_name": "Argentine Red Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-bonnie/argentine-red-shrimp",
+      "brand_name": "Ocean Bonnie",
+      "food_type": "Brand"
+    }
+  ]
+}

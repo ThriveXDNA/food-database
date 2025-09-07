@@ -1,0 +1,76 @@
+{
+  "restaurant": "Great American Deli",
+  "total_items": 9,
+  "pages_extracted": 6,
+  "total_search_results": 1290,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:56:27.504Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/great_american_deli.json",
+  "items": [
+    {
+      "food_id": "40751361",
+      "food_name": "Ham & Swiss Slider",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-deli/ham-swiss-slider",
+      "brand_name": "Great American Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63369265",
+      "food_name": "Turkey and Cheese Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-deli/turkey-and-cheese-sandwich",
+      "brand_name": "Great American Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73702821",
+      "food_name": "Tuna Salad Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-deli/tuna-salad-sandwich",
+      "brand_name": "Great American Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3263478",
+      "food_name": "Chicken Salad Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-deli/chicken-salad-sandwich",
+      "brand_name": "Great American Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6056874",
+      "food_name": "Ham Turkey Bacon Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-deli/ham-turkey-bacon-sub",
+      "brand_name": "Great American Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6442500",
+      "food_name": "Italian Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-deli/italian-sub",
+      "brand_name": "Great American Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1769768",
+      "food_name": "Ham & Cheese Triangle Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-deli/ham-and-cheese-triangle-sandwich",
+      "brand_name": "Great American Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2967787",
+      "food_name": "Hoagie Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-deli/hoagie-burger",
+      "brand_name": "Great American Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51808192",
+      "food_name": "Tuna Salad with Sea Salt Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-deli/tuna-salad-with-sea-salt-crackers",
+      "brand_name": "Great American Deli",
+      "food_type": "Brand"
+    }
+  ]
+}

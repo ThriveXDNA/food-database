@@ -1,0 +1,48 @@
+{
+  "restaurant": "Open Acres",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 18,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:27:56.298Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/open_acres.json",
+  "items": [
+    {
+      "food_id": "24747313",
+      "food_name": "Glazed Devil's Food Donut Holes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/open-acres/glazed-devils-food-donut-holes",
+      "brand_name": "Open Acres",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47115322",
+      "food_name": "Salmon Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/open-acres/salmon-fillets",
+      "brand_name": "Open Acres",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51992715",
+      "food_name": "Golden Mustard Potato Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/open-acres/golden-mustard-potato-salad",
+      "brand_name": "Open Acres",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21353450",
+      "food_name": "Boneless Skinless Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/open-acres/boneless-skinless-chicken-breast",
+      "brand_name": "Open Acres",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45857826",
+      "food_name": "Black Bean Veggie Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/open-acres/black-bean-veggie-burger",
+      "brand_name": "Open Acres",
+      "food_type": "Brand"
+    }
+  ]
+}

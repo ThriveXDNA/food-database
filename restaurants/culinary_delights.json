@@ -1,0 +1,27 @@
+{
+  "restaurant": "Culinary Delights",
+  "total_items": 2,
+  "pages_extracted": 3,
+  "total_search_results": 118,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:38:27.468Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/culinary_delights.json",
+  "items": [
+    {
+      "food_id": "2905080",
+      "food_name": "Shrimp and Sausage Jambalaya",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-delights/shrimp-and-sausage-jambalaya",
+      "brand_name": "Culinary Delights",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2459304",
+      "food_name": "Shrimp Etouffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-delights/shrimp-etouffee",
+      "brand_name": "Culinary Delights",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "restaurant": "Original Gourmet",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 3193,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:49:10.537Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/original_gourmet.json",
+  "items": [
+    {
+      "food_id": "1576668",
+      "food_name": "Double Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-gourmet/double-chocolate-chip-cookie",
+      "brand_name": "Original Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1380642",
+      "food_name": "Gingerbread Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-gourmet/gingerbread-cookie",
+      "brand_name": "Original Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3775352",
+      "food_name": "Lollipop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-gourmet/lollipop",
+      "brand_name": "Original Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3170534",
+      "food_name": "Cream Swirl Lollipop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-gourmet/cream-swirl-lollipop",
+      "brand_name": "Original Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4779804",
+      "food_name": "Premium Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-gourmet/premium-cookies",
+      "brand_name": "Original Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14407097",
+      "food_name": "Chocolate Fusion",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-gourmet/chocolate-fusion",
+      "brand_name": "Original Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29207677",
+      "food_name": "Bite Size Premium Wafers with Chocolate Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-gourmet/bite-size-premium-wafers-with-chocolate-cream",
+      "brand_name": "Original Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63562284",
+      "food_name": "Cookies & Cream Fusion",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-gourmet/cookies-cream-fusion",
+      "brand_name": "Original Gourmet",
+      "food_type": "Brand"
+    }
+  ]
+}

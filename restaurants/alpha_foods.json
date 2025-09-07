@@ -1,0 +1,90 @@
+{
+  "restaurant": "Alpha Foods",
+  "total_items": 11,
+  "pages_extracted": 1,
+  "total_search_results": 31,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:55:59.289Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/alpha_foods.json",
+  "items": [
+    {
+      "food_id": "53890288",
+      "food_name": "Veggie Breakfast Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alpha-foods/veggie-breakfast-burrito",
+      "brand_name": "Alpha Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21975543",
+      "food_name": "Philly Sandwich Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alpha-foods/philly-sandwich-burrito",
+      "brand_name": "Alpha Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44109495",
+      "food_name": "Plant-Protein Crispy Chik'n Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alpha-foods/plant-protein-crispy-chikn-patties",
+      "brand_name": "Alpha Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22853689",
+      "food_name": "Pizza Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alpha-foods/pizza-burrito",
+      "brand_name": "Alpha Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60604789",
+      "food_name": "Chik'n Verde Tamale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alpha-foods/chikn-verde-tamale",
+      "brand_name": "Alpha Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24202986",
+      "food_name": "Chick’N Fajita Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alpha-foods/chick%E2%80%99n-fajita-burrito",
+      "brand_name": "Alpha Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25697090",
+      "food_name": "Mexicali Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alpha-foods/mexicali-burrito",
+      "brand_name": "Alpha Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44486552",
+      "food_name": "Pot Pie Buffalo Chik'n",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alpha-foods/pot-pie-buffalo-chikn",
+      "brand_name": "Alpha Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46616254",
+      "food_name": "Original Breakfast Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alpha-foods/original-breakfast-burrito",
+      "brand_name": "Alpha Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64637740",
+      "food_name": "Meatless Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alpha-foods/meatless-sausage",
+      "brand_name": "Alpha Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41540029",
+      "food_name": "Beefy Cheddar Pot Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alpha-foods/beefy-cheddar-pot-pie",
+      "brand_name": "Alpha Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

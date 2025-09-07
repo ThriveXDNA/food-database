@@ -1,0 +1,34 @@
+{
+  "brand_name": "Crystal Geyser",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 11,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:19:01.646Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/crystal_geyser.json",
+  "items": [
+    {
+      "food_id": "203255",
+      "food_name": "Natural Alpine Spring Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crystal-geyser/natural-alpine-spring-water",
+      "brand_name": "Crystal Geyser",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90302",
+      "food_name": "Tejava Premium Unsweetened Iced Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crystal-geyser/tejava-premium-unsweetened-iced-tea",
+      "brand_name": "Crystal Geyser",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "172911",
+      "food_name": "Sparkling Mineral Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crystal-geyser/sparkling-mineral-water",
+      "brand_name": "Crystal Geyser",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Tasty Bird",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 66,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:36:57.729Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/tasty_bird.json",
+  "items": [
+    {
+      "food_id": "126008",
+      "food_name": "Boneless Skinless Chicken Thighs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tasty-bird/boneless-skinless-chicken-thighs",
+      "brand_name": "Tasty Bird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20100501",
+      "food_name": "Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tasty-bird/chicken-breast",
+      "brand_name": "Tasty Bird",
+      "food_type": "Brand"
+    }
+  ]
+}

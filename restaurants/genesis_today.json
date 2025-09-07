@@ -1,0 +1,48 @@
+{
+  "restaurant": "Genesis Today",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:08:17.016Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/genesis_today.json",
+  "items": [
+    {
+      "food_id": "231324",
+      "food_name": "Acai Berry Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/genesis-today/acai-berry-juice",
+      "brand_name": "Genesis Today",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3199201",
+      "food_name": "Sea Buckthorn 100",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/genesis-today/sea-buckthorn-100",
+      "brand_name": "Genesis Today",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3796708",
+      "food_name": "Acai Berry Classic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/genesis-today/acai-berry-classic",
+      "brand_name": "Genesis Today",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35376507",
+      "food_name": "Pure Collagen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/genesis-today/pure-collagen",
+      "brand_name": "Genesis Today",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4876336",
+      "food_name": "Skinny Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/genesis-today/skinny-coffee",
+      "brand_name": "Genesis Today",
+      "food_type": "Brand"
+    }
+  ]
+}

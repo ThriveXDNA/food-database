@@ -1,0 +1,48 @@
+{
+  "restaurant": "Buona",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:28:24.691Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/buona.json",
+  "items": [
+    {
+      "food_id": "19656152",
+      "food_name": "Italian Style Gravy & Sliced Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buona/italian-style-gravy-sliced-beef",
+      "brand_name": "Buona",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5972850",
+      "food_name": "French Fries (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buona/french-fries-(regular)",
+      "brand_name": "Buona",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94615050",
+      "food_name": "Chicken Avocado Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buona/chicken-avocado-bowl",
+      "brand_name": "Buona",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23408967",
+      "food_name": "Handcrafted Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buona/handcrafted-italian-sausage",
+      "brand_name": "Buona",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28880216",
+      "food_name": "Avocado Jack Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buona/avocado-jack-burger",
+      "brand_name": "Buona",
+      "food_type": "Brand"
+    }
+  ]
+}

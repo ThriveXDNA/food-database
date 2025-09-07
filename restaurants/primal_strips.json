@@ -1,0 +1,55 @@
+{
+  "restaurant": "Primal Strips",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 526,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:49:22.679Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/primal_strips.json",
+  "items": [
+    {
+      "food_id": "1669395",
+      "food_name": "Texas BBQ Meatless Vegan Jerky Soy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primal-strips/texas-bbq-meatless-vegan-jerky-soy",
+      "brand_name": "Primal Strips",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "467324",
+      "food_name": "Hickory Smoked Meatless Vegan Jerky Soy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primal-strips/hickory-smoked-meatless-vegan-jerky-soy",
+      "brand_name": "Primal Strips",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "246382",
+      "food_name": "Thai Peanut Meatless Vegan Jerky Seitan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primal-strips/thai-peanut-meatless-vegan-jerky-seitan",
+      "brand_name": "Primal Strips",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1476433",
+      "food_name": "Hot & Spicy Meatless Vegan Jerky Shiitake Mushrooms",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primal-strips/hot-and-spicy-meatless-vegan-jerky-shiitake-mushrooms",
+      "brand_name": "Primal Strips",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1881602",
+      "food_name": "Teriyaki Meatless Vegan Jerky Seitan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primal-strips/teriyaki-meatless-vegan-jerky-seitan",
+      "brand_name": "Primal Strips",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1516909",
+      "food_name": "Mesquite Lime Meatless Vegan Jerky Seitan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primal-strips/mesquite-lime-meatless-vegan-jerky-seitan",
+      "brand_name": "Primal Strips",
+      "food_type": "Brand"
+    }
+  ]
+}

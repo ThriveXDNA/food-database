@@ -1,0 +1,55 @@
+{
+  "restaurant": "Beef A Roo",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 5215,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:33:53.180Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/beef_a_roo.json",
+  "items": [
+    {
+      "food_id": "2867800",
+      "food_name": "Santa Fe Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beef-a-roo/santa-fe-chicken-salad",
+      "brand_name": "Beef A Roo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4217878",
+      "food_name": "French Fries (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beef-a-roo/french-fries-(large)",
+      "brand_name": "Beef A Roo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1648286",
+      "food_name": "Cheddar Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beef-a-roo/cheddar-fries",
+      "brand_name": "Beef A Roo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6656574",
+      "food_name": "Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beef-a-roo/chili",
+      "brand_name": "Beef A Roo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1552553",
+      "food_name": "Grilled Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beef-a-roo/grilled-chicken-salad",
+      "brand_name": "Beef A Roo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4802304",
+      "food_name": "Chicken Tortilla Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beef-a-roo/chicken-tortilla-soup",
+      "brand_name": "Beef A Roo",
+      "food_type": "Brand"
+    }
+  ]
+}

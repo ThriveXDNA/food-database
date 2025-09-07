@@ -1,0 +1,41 @@
+{
+  "restaurant": "Comida Del Sol",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 44,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:28:03.725Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/comida_del_sol.json",
+  "items": [
+    {
+      "food_id": "3563213",
+      "food_name": "Chicken Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/comida-del-sol/chicken-quesadilla",
+      "brand_name": "Comida Del Sol",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7872491",
+      "food_name": "Grilled Chicken and Quinoa Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/comida-del-sol/grilled-chicken-and-quinoa-bowl",
+      "brand_name": "Comida Del Sol",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4232468",
+      "food_name": "Steak Flautas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/comida-del-sol/steak-flautas",
+      "brand_name": "Comida Del Sol",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7223654",
+      "food_name": "Carnitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/comida-del-sol/carnitas",
+      "brand_name": "Comida Del Sol",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Fast Classics",
+  "total_items": 6,
+  "pages_extracted": 4,
+  "total_search_results": 174,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:12:11.605Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fast_classics.json",
+  "items": [
+    {
+      "food_id": "494370",
+      "food_name": "Chicken Fried Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fast-classics/chicken-fried-chicken-breast",
+      "brand_name": "Fast Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1195491",
+      "food_name": "Country Fried Steaks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fast-classics/country-fried-steaks",
+      "brand_name": "Fast Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1399215",
+      "food_name": "Fully Cooked Beef Burgers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fast-classics/fully-cooked-beef-burgers",
+      "brand_name": "Fast Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4609270",
+      "food_name": "Buffalo Style Chicken Wings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fast-classics/buffalo-style-chicken-wings",
+      "brand_name": "Fast Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "298152",
+      "food_name": "Breakfast Classics Sausage Egg & Cheese Breakfast Panini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lean-cuisine/breakfast-classics-sausage-egg-and-cheese-breakfast-panini",
+      "brand_name": "Lean Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "561079",
+      "food_name": "Breakfast Classics Denver Style Breakfast Panini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lean-cuisine/breakfast-classics-denver-style-breakfast-panini",
+      "brand_name": "Lean Cuisine",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "restaurant": "Island Oasis",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 293,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:07:45.132Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/island_oasis.json",
+  "items": [
+    {
+      "food_id": "2357041",
+      "food_name": "Pina Colada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/island-oasis/pina-colada",
+      "brand_name": "Island Oasis",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "914055",
+      "food_name": "Cappuccino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/island-oasis/cappuccino",
+      "brand_name": "Island Oasis",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3148616",
+      "food_name": "Strawberry Frozen Drink Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/island-oasis/strawberry-frozen-drink-mix",
+      "brand_name": "Island Oasis",
+      "food_type": "Brand"
+    }
+  ]
+}

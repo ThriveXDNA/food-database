@@ -1,0 +1,62 @@
+{
+  "restaurant": "TenderBird",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:35:47.932Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/tenderbird.json",
+  "items": [
+    {
+      "food_id": "3481451",
+      "food_name": "Boneless Skinless Chicken Breast Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tenderbird/boneless-skinless-chicken-breast-fillets",
+      "brand_name": "TenderBird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11378883",
+      "food_name": "Chicken Thighs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tenderbird/chicken-thighs",
+      "brand_name": "TenderBird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58966",
+      "food_name": "Seasoned Roasted Garlic Herb Chicken Breast Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tenderbird/seasoned-roasted-garlic-herb-chicken-breast-fillets",
+      "brand_name": "TenderBird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13218568",
+      "food_name": "Chicken Breast Tenderloins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tenderbird/chicken-breast-tenderloins",
+      "brand_name": "TenderBird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44337602",
+      "food_name": "Boneless Skinless Chicken Thighs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tenderbird/boneless-skinless-chicken-thighs",
+      "brand_name": "TenderBird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3977158",
+      "food_name": "Boneless Skinless Tenderloins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tenderbird/boneless-skinless-tenderloins",
+      "brand_name": "TenderBird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37245983",
+      "food_name": "Chicken Wing Sections",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tenderbird/chicken-wing-sections",
+      "brand_name": "TenderBird",
+      "food_type": "Brand"
+    }
+  ]
+}

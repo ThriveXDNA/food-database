@@ -1,0 +1,27 @@
+{
+  "restaurant": "Grebes Bakery",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 46,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:12:40.020Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/grebes_bakery.json",
+  "items": [
+    {
+      "food_id": "14314169",
+      "food_name": "Hard Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grebes-bakery/hard-roll",
+      "brand_name": "Grebes Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17990700",
+      "food_name": "Chocolate Dipped Cruller Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grebes-bakery/chocolate-dipped-cruller-bites",
+      "brand_name": "Grebes Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

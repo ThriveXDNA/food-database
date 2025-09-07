@@ -1,0 +1,27 @@
+{
+  "restaurant": "Brooklyn Water Bagel",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 1863,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:01:59.619Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/brooklyn_water_bagel.json",
+  "items": [
+    {
+      "food_id": "32993214",
+      "food_name": "Everything Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-water-bagel/everything-bagel",
+      "brand_name": "Brooklyn Water Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23937455",
+      "food_name": "Cinnamon Raisin Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-water-bagel/cinnamon-raisin-bagel",
+      "brand_name": "Brooklyn Water Bagel",
+      "food_type": "Brand"
+    }
+  ]
+}

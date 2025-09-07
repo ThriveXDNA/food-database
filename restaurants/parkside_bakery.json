@@ -1,0 +1,34 @@
+{
+  "restaurant": "Parkside Bakery",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 47,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:12:28.239Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/parkside_bakery.json",
+  "items": [
+    {
+      "food_id": "4644368",
+      "food_name": "Cinnamon Crumb Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/parkside-bakery/cinnamon-crumb-cake",
+      "brand_name": "Parkside Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1970881",
+      "food_name": "Crumb Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/parkside-bakery/crumb-cakes",
+      "brand_name": "Parkside Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6174926",
+      "food_name": "Corn Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/parkside-bakery/corn-bread",
+      "brand_name": "Parkside Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

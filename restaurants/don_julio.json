@@ -1,0 +1,90 @@
+{
+  "restaurant": "Don Julio",
+  "total_items": 11,
+  "pages_extracted": 1,
+  "total_search_results": 24,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:19:58.231Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/don_julio.json",
+  "items": [
+    {
+      "food_id": "3277584",
+      "food_name": "Tequila",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/don-julio/tequila",
+      "brand_name": "Don Julio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46329560",
+      "food_name": "Mexican Style Yellow Corn Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/don-julio/mexican-style-yellow-corn-tortilla-chips",
+      "brand_name": "Don Julio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9094224",
+      "food_name": "Classic Round Yellow Corn Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/don-julio/classic-round-yellow-corn-chips",
+      "brand_name": "Don Julio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50762912",
+      "food_name": "Lightly Seasoned Restaurant Style Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/don-julio/lightly-seasoned-restaurant-style-tortilla-chips",
+      "brand_name": "Don Julio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34796466",
+      "food_name": "Southwest Style White Corn Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/don-julio/southwest-style-white-corn-tortilla-chips",
+      "brand_name": "Don Julio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7872100",
+      "food_name": "Flour Tortilla (39g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/don-julio/flour-tortilla-(39g)",
+      "brand_name": "Don Julio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2909244",
+      "food_name": "Corn Tortilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/don-julio/corn-tortilla",
+      "brand_name": "Don Julio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5072254",
+      "food_name": "Flour Tortillas (53g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/don-julio/flour-tortillas-(53g)",
+      "brand_name": "Don Julio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69706",
+      "food_name": "Whole Wheat Totillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/don-julio/whole-wheat-totillas",
+      "brand_name": "Don Julio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "681814",
+      "food_name": "Flour Tortilla (71g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/don-julio/flour-tortilla-(71g)",
+      "brand_name": "Don Julio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104702316",
+      "food_name": "Don Julio Marg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/don-julio-marg",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "restaurant": "Advanced Health Systems",
+  "total_items": 7,
+  "pages_extracted": 3,
+  "total_search_results": 120,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:05:21.894Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/advanced_health_systems.json",
+  "items": [
+    {
+      "food_id": "4078744",
+      "food_name": "Sweet & Salty Peanut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/advanced-health-systems/sweet-and-salty-peanut-bar",
+      "brand_name": "Advanced Health Systems",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2233250",
+      "food_name": "Fudge Graham Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/advanced-health-systems/fudge-graham-bar",
+      "brand_name": "Advanced Health Systems",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "116181",
+      "food_name": "Chocolate Mint Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/advanced-health-systems/chocolate-mint-bar",
+      "brand_name": "Advanced Health Systems",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8800429",
+      "food_name": "Peppermint Cocoa Crunch Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/advanced-health-systems/peppermint-cocoa-crunch-bar",
+      "brand_name": "Advanced Health Systems",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2632123",
+      "food_name": "Lemon Meringue Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/advanced-health-systems/lemon-meringue-bar",
+      "brand_name": "Advanced Health Systems",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2035522",
+      "food_name": "Butter Pecan Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/advanced-health-systems/butter-pecan-bar",
+      "brand_name": "Advanced Health Systems",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6499444",
+      "food_name": "Double Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/advanced-health-systems/double-chocolate-bar",
+      "brand_name": "Advanced Health Systems",
+      "food_type": "Brand"
+    }
+  ]
+}

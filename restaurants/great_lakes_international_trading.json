@@ -1,0 +1,41 @@
+{
+  "restaurant": "Great Lakes International Trading",
+  "total_items": 4,
+  "pages_extracted": 4,
+  "total_search_results": 170,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:50:35.917Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/great_lakes_international_trading.json",
+  "items": [
+    {
+      "food_id": "7909524",
+      "food_name": "Organic Figs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-lakes-international-trading/organic-figs",
+      "brand_name": "Great Lakes International Trading",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "248870",
+      "food_name": "Premium Sun-Dried Apricots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-lakes-international-trading/premium-sun-dried-apricots",
+      "brand_name": "Great Lakes International Trading",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "458549",
+      "food_name": "Sun-Dried Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-lakes-international-trading/sun-dried-tomatoes",
+      "brand_name": "Great Lakes International Trading",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4302726",
+      "food_name": "Banana Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-lakes-international-trading/banana-chips",
+      "brand_name": "Great Lakes International Trading",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Menu Del Sol",
+  "total_items": 2,
+  "pages_extracted": 3,
+  "total_search_results": 105,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:42:02.134Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/menu_del_sol.json",
+  "items": [
+    {
+      "food_id": "38202640",
+      "food_name": "Beef Taquitos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/menu-del-sol/beef-taquitos",
+      "brand_name": "Menu Del Sol",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43225904",
+      "food_name": "Chicken Taquitos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/menu-del-sol/chicken-taquitos",
+      "brand_name": "Menu Del Sol",
+      "food_type": "Brand"
+    }
+  ]
+}

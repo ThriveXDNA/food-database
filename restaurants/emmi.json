@@ -1,0 +1,83 @@
+{
+  "restaurant": "Emmi",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:07:40.198Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/emmi.json",
+  "items": [
+    {
+      "food_id": "3412462",
+      "food_name": "Le Gruyere",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/emmi/le-gruyere",
+      "brand_name": "Emmi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84344355",
+      "food_name": "Emmentaler Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/emmi/emmentaler-cheese",
+      "brand_name": "Emmi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29309652",
+      "food_name": "Raclette Cheese Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/emmi/raclette-cheese-slices",
+      "brand_name": "Emmi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58143365",
+      "food_name": "Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/emmi/yogurt",
+      "brand_name": "Emmi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1164471",
+      "food_name": "Caffe Latte Light",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/emmi/caffe-latte-light",
+      "brand_name": "Emmi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1076385",
+      "food_name": "Caffe Latte Mocha",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/emmi/caffe-latte-mocha",
+      "brand_name": "Emmi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "630730",
+      "food_name": "Caffe Latte Cappuccino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/emmi/caffe-latte-cappuccino",
+      "brand_name": "Emmi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101241041",
+      "food_name": "Greek Style Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/emmi/greek-style-yogurt",
+      "brand_name": "Emmi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3318619",
+      "food_name": "Swiss Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/emmi/swiss-yogurt",
+      "brand_name": "Emmi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62289624",
+      "food_name": "Emmi Imported Swiss Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/whole-foods-market/emmi-imported-swiss-cheese",
+      "brand_name": "Whole Foods Market",
+      "food_type": "Brand"
+    }
+  ]
+}

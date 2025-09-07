@@ -1,0 +1,62 @@
+{
+  "restaurant": "Precious",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:44:09.015Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/precious.json",
+  "items": [
+    {
+      "food_id": "90970",
+      "food_name": "Low Moisture Part Skim Mozzarella Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/precious/low-moisture-part-skim-mozzarella-cheese",
+      "brand_name": "Precious",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84740",
+      "food_name": "Stringsters Low Moisture Part Skim Mozzarella Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/precious/stringsters-low-moisture-part-skim-mozzarella-cheese",
+      "brand_name": "Precious",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2233958",
+      "food_name": "Shredded Parmesan Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/precious/shredded-parmesan-cheese",
+      "brand_name": "Precious",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "436655",
+      "food_name": "Fresh Mozzarella Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/precious/fresh-mozzarella-cheese",
+      "brand_name": "Precious",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "427897",
+      "food_name": "Low Moisture Whole Milk Mozzarella Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/precious/low-moisture-whole-milk-mozzarella-cheese",
+      "brand_name": "Precious",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41845",
+      "food_name": "Low Fat Ricotta Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/precious/low-fat-ricotta-cheese",
+      "brand_name": "Precious",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "301820",
+      "food_name": "Stringsters Reduced Fat Mozzarella String Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/precious/stringsters-reduced-fat-mozzarella-string-cheese",
+      "brand_name": "Precious",
+      "food_type": "Brand"
+    }
+  ]
+}

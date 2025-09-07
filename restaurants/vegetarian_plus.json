@@ -1,0 +1,55 @@
+{
+  "restaurant": "Vegetarian Plus",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 529,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:05:33.118Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/vegetarian_plus.json",
+  "items": [
+    {
+      "food_id": "374584",
+      "food_name": "Vegan Kung Pao Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vegetarian-plus/vegan-kung-pao-chicken",
+      "brand_name": "Vegetarian Plus",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1033793",
+      "food_name": "Vegan Orange Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vegetarian-plus/vegan-orange-chicken",
+      "brand_name": "Vegetarian Plus",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4946499",
+      "food_name": "Vegan Black Pepper Steaks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vegetarian-plus/vegan-black-pepper-steaks",
+      "brand_name": "Vegetarian Plus",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2067354",
+      "food_name": "Vegan Tuna Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vegetarian-plus/vegan-tuna-rolls",
+      "brand_name": "Vegetarian Plus",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2048290",
+      "food_name": "Vegan Citrus Sparerib Cutlets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vegetarian-plus/vegan-citrus-sparerib-cutlets",
+      "brand_name": "Vegetarian Plus",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10975382",
+      "food_name": "Vegan Ham Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vegetarian-plus/vegan-ham-roll",
+      "brand_name": "Vegetarian Plus",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,2309 @@
+{
+  "restaurant": "Smoothie King",
+  "total_items": 328,
+  "pages_extracted": 8,
+  "total_search_results": 1434,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:04:09.979Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/smoothie_king.json",
+  "items": [
+    {
+      "food_id": "69471644",
+      "food_name": "Slim-N-Trim Strawberry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-strawberry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470483",
+      "food_name": "The Activator Recovery Strawberry Banana - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-strawberry-banana-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84396031",
+      "food_name": "Angel Food Slim - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/angel-food-slim-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471454",
+      "food_name": "Metabolism Boost Mango Ginger - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/metabolism-boost-mango-ginger-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471840",
+      "food_name": "Slim-N-Trim Strawberry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-strawberry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472384",
+      "food_name": "Angel Food - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/angel-food-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471710",
+      "food_name": "Slim-N-Trim Chocolate - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-chocolate-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469223",
+      "food_name": "Go Go Goji Crunch Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/go-go-goji-crunch-bowl",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470528",
+      "food_name": "Peanut Power Plus Chocolate - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/peanut-power-plus-chocolate-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470580",
+      "food_name": "Original High Protein Banana - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/original-high-protein-banana-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471810",
+      "food_name": "Metabolism Boost Strawberry Pineapple - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/metabolism-boost-strawberry-pineapple-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472424",
+      "food_name": "Pineapple Surf - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/pineapple-surf-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472224",
+      "food_name": "Gut Health Papaya Mango Ginger - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gut-health-papaya-mango-ginger-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472547",
+      "food_name": "Banana Boat - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/banana-boat-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472259",
+      "food_name": "Daily Warrior - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/daily-warrior-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470634",
+      "food_name": "The Activator Recovery Strawberry Banana - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-strawberry-banana-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472395",
+      "food_name": "Island Impact - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/island-impact-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469312",
+      "food_name": "Espresso High Protein Almond Mocha - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/espresso-high-protein-almond-mocha-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471439",
+      "food_name": "Metabolism Boost Strawberry Pineapple - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/metabolism-boost-strawberry-pineapple-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472468",
+      "food_name": "Banana Boat - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/banana-boat-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84396905",
+      "food_name": "Fiber Blend - 12oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/fiber-blend-12oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472476",
+      "food_name": "Angel Food - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/angel-food-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469378",
+      "food_name": "Coffee High Protein Almond Mocha - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/coffee-high-protein-almond-mocha-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470622",
+      "food_name": "The Activator Recovery Blueberry Strawberry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-blueberry-strawberry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469256",
+      "food_name": "Gladiator Chocolate Coffee - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-chocolate-coffee-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470804",
+      "food_name": "The Activator Recovery Chocolate - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-chocolate-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470253",
+      "food_name": "The Activator Recovery Coffee - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-coffee-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472397",
+      "food_name": "Caribbean Way - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/caribbean-way-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472016",
+      "food_name": "Slim-N-Trim Chocolate - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-chocolate-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84392294",
+      "food_name": "The Activator Recovery  Pineapple Spinach - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-pineapple-spinach-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84392792",
+      "food_name": "The Hulk  Vanilla - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-hulk-vanilla-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472419",
+      "food_name": "Strawberry-Kiwi Breeze - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/strawberry-kiwi-breeze-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472214",
+      "food_name": "Gut Health Greek Yogurt Strawberry Blueberry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gut-health-greek-yogurt-strawberry-blueberry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472514",
+      "food_name": "Pineapple Surf - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/pineapple-surf-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84393146",
+      "food_name": "Keto Champ Berry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-berry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469233",
+      "food_name": "Berry Goji Getaway Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/berry-goji-getaway-bowl",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469381",
+      "food_name": "The Activator Recovery Coffee - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-coffee-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472254",
+      "food_name": "Vegan Dark Chocolate Banana - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-dark-chocolate-banana-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469363",
+      "food_name": "Pure Recharge Mango Strawberry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/pure-recharge-mango-strawberry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470609",
+      "food_name": "The Activator Recovery Chocolate - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-chocolate-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470822",
+      "food_name": "The Activator Recovery Blueberry Strawberry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-blueberry-strawberry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84388793",
+      "food_name": "Coco Pitaya-Yah Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/coco-pitaya-yah-bowl",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471459",
+      "food_name": "Keto Champ Chocolate - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-chocolate-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471817",
+      "food_name": "Metabolism Boost Mango Ginger - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/metabolism-boost-mango-ginger-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472486",
+      "food_name": "Island Impact - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/island-impact-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469397",
+      "food_name": "Gladiator Chocolate Coffee - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-chocolate-coffee-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470606",
+      "food_name": "The Activator Recovery Pineapple - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-pineapple-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472211",
+      "food_name": "Power Meal Blueberry Raspberry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-blueberry-raspberry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472213",
+      "food_name": "Power Meal Spinach Pineapple - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-spinach-pineapple-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472281",
+      "food_name": "Veggie Lemon Ginger Spinach - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/veggie-lemon-ginger-spinach-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472268",
+      "food_name": "Power Meal Cinnamon Banana - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-cinnamon-banana-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84392574",
+      "food_name": "The Hulk  Vanilla - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-hulk-vanilla-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469405",
+      "food_name": "Espresso High Protein Almond Mocha - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/espresso-high-protein-almond-mocha-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470248",
+      "food_name": "Coffee High Protein Almond Mocha - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/coffee-high-protein-almond-mocha-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472208",
+      "food_name": "Power Meal Cinnamon Banana - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-cinnamon-banana-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472472",
+      "food_name": "Banana Berry Treat - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/banana-berry-treat-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472548",
+      "food_name": "Banana Berry Treat - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/banana-berry-treat-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84395952",
+      "food_name": "Collagen Power Pineapple Kale - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/collagen-power-pineapple-kale-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469400",
+      "food_name": "Gladiator Chocolate Espresso - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-chocolate-espresso-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472220",
+      "food_name": "Gut Health Greek Yogurt Pineapple Mango - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gut-health-greek-yogurt-pineapple-mango-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471747",
+      "food_name": "MangoFest - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/mangofest-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472302",
+      "food_name": "Vegan Dark Chocolate Banana - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-dark-chocolate-banana-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472228",
+      "food_name": "Veggie Lemon Ginger Spinach - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/veggie-lemon-ginger-spinach-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472275",
+      "food_name": "Gut Health Greek Yogurt Strawberry Blueberry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gut-health-greek-yogurt-strawberry-blueberry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472263",
+      "food_name": "Blueberry Heaven - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/blueberry-heaven-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470245",
+      "food_name": "Coffee High Protein Vanilla - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/coffee-high-protein-vanilla-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470783",
+      "food_name": "Original High Protein Banana - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/original-high-protein-banana-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470578",
+      "food_name": "Original High Protein Chocolate - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/original-high-protein-chocolate-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471743",
+      "food_name": "The Shredder Chocolate - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-shredder-chocolate-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472247",
+      "food_name": "Vegan Mango Kale - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-mango-kale-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472092",
+      "food_name": "MangoFest - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/mangofest-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84395995",
+      "food_name": "X-Treme Watermelon - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/x-treme-watermelon-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472509",
+      "food_name": "Strawberry-Kiwi Breeze - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/strawberry-kiwi-breeze-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84393000",
+      "food_name": "The Hulk  Vanilla - 40Oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-hulk-vanilla-40oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470241",
+      "food_name": "Pure Recharge Mango Strawberry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/pure-recharge-mango-strawberry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469258",
+      "food_name": "Gladiator Chocolate Espresso - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-chocolate-espresso-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471822",
+      "food_name": "Keto Champ Chocolate - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-chocolate-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472304",
+      "food_name": "Immune Builder Mixed Berry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/immune-builder-mixed-berry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472243",
+      "food_name": "Vegan Pineapple Spinach - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-pineapple-spinach-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472244",
+      "food_name": "Vegan Nutty Super Grain - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-nutty-super-grain-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472461",
+      "food_name": "Lemon Twist Strawberry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lemon-twist-strawberry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472603",
+      "food_name": "Lil Angel - 12oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lil-angel-12oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84392747",
+      "food_name": "The Activator Recovery  Pineapple Spinach - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-pineapple-spinach-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471734",
+      "food_name": "Slim-N-Trim Blueberry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-blueberry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472271",
+      "food_name": "Power Meal Spinach Pineapple - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-spinach-pineapple-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472278",
+      "food_name": "Gut Health Papaya Mango Ginger - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gut-health-papaya-mango-ginger-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472025",
+      "food_name": "The Shredder Strawberry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-shredder-strawberry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472446",
+      "food_name": "Berry Punch - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/berry-punch-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472489",
+      "food_name": "Caribbean Way - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/caribbean-way-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469388",
+      "food_name": "Keto Champ Espresso - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-espresso-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469263",
+      "food_name": "Espresso High Protein Vanilla - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/espresso-high-protein-vanilla-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469387",
+      "food_name": "Espresso D-Lite Mocha - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/espresso-d-lite-mocha-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472030",
+      "food_name": "The Shredder Chocolate - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-shredder-chocolate-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472408",
+      "food_name": "Strawberry X-Treme - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/strawberry-x-treme-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472231",
+      "food_name": "Veggie Apple Kiwi Kale - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/veggie-apple-kiwi-kale-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472613",
+      "food_name": "Berry Interesting - 12oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/berry-interesting-12oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84393443",
+      "food_name": "Lean1  Pineapple Mango - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lean1-pineapple-mango-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470798",
+      "food_name": "The Activator Recovery Pineapple - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-pineapple-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469313",
+      "food_name": "The Activator Recovery Espresso - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-espresso-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469352",
+      "food_name": "Pure Recharge Pineapple - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/pure-recharge-pineapple-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469358",
+      "food_name": "Pure Recharge Strawberry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/pure-recharge-strawberry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472414",
+      "food_name": "Yogurt D-Lite - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/yogurt-d-lite-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472226",
+      "food_name": "Immune Builder Veggie Superfood - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/immune-builder-veggie-superfood-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472258",
+      "food_name": "Immune Builder Mixed Berry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/immune-builder-mixed-berry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472276",
+      "food_name": "Gut Health Greek Yogurt Pineapple Mango - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gut-health-greek-yogurt-pineapple-mango-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472438",
+      "food_name": "Muscle Punch - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/muscle-punch-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472284",
+      "food_name": "Veggie Apple Kiwi Kale - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/veggie-apple-kiwi-kale-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470739",
+      "food_name": "Power Punch Plus - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-punch-plus-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84394188",
+      "food_name": "Lean1  Strawberry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lean1-strawberry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84395865",
+      "food_name": "Lean1  Pineapple Mango - 40oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lean1-pineapple-mango-40oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469401",
+      "food_name": "Espresso High Protein Vanilla - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/espresso-high-protein-vanilla-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469412",
+      "food_name": "Vegan Coffee Mocha - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-coffee-mocha-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470197",
+      "food_name": "Pure Recharge Pineapple - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/pure-recharge-pineapple-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469314",
+      "food_name": "Vegan Coffee Mocha - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-coffee-mocha-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469374",
+      "food_name": "Coffee High Protein Vanilla - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/coffee-high-protein-vanilla-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470567",
+      "food_name": "Original High Protein Pineapple - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/original-high-protein-pineapple-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470572",
+      "food_name": "Original High Protein Lemon - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/original-high-protein-lemon-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472018",
+      "food_name": "Slim-N-Trim Blueberry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-blueberry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472230",
+      "food_name": "Veggie Carrot Kale Dream - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/veggie-carrot-kale-dream-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472279",
+      "food_name": "Vegan Mixed Berry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-mixed-berry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472269",
+      "food_name": "Power Meal Blueberry Raspberry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-blueberry-raspberry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471738",
+      "food_name": "The Shredder Strawberry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-shredder-strawberry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84395982",
+      "food_name": "Collagen Power Pineapple Kale - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/collagen-power-pineapple-kale-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84396069",
+      "food_name": "X-Treme Watermelon - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/x-treme-watermelon-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472540",
+      "food_name": "Lemon Twist Strawberry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lemon-twist-strawberry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84394198",
+      "food_name": "Lean1  Pineapple Mango - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lean1-pineapple-mango-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84392978",
+      "food_name": "The Activator Recovery  Pineapple Spinach - 40oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-pineapple-spinach-40oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469408",
+      "food_name": "The Activator Recovery Espresso - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-espresso-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470202",
+      "food_name": "Pure Recharge Strawberry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/pure-recharge-strawberry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469249",
+      "food_name": "Keto Champ Espresso - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-espresso-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469321",
+      "food_name": "Vegan Espresso Mocha - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-espresso-mocha-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470777",
+      "food_name": "Original High Protein Chocolate - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/original-high-protein-chocolate-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472225",
+      "food_name": "Vegan Mixed Berry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-mixed-berry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472286",
+      "food_name": "Vegan Pineapple Spinach - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-pineapple-spinach-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472290",
+      "food_name": "Vegan Mango Kale - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-mango-kale-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472537",
+      "food_name": "Berry Punch - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/berry-punch-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470494",
+      "food_name": "Stretch & Flex Pineapple Kale - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/stretch-flex-pineapple-kale-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470831",
+      "food_name": "The Activator Recovery Blueberry Tart Cherry - 40oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-blueberry-tart-cherry-40oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472427",
+      "food_name": "Green Tea Tango - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/green-tea-tango-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84393306",
+      "food_name": "Lean1  Vanilla - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lean1-vanilla-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84393324",
+      "food_name": "Lean1  Strawberry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lean1-strawberry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84395822",
+      "food_name": "Lean1  Vanilla - 40oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lean1-vanilla-40oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84395838",
+      "food_name": "Lean1  Strawberry - 40oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lean1-strawberry-40oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469245",
+      "food_name": "Espresso D-Lite Mocha - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/espresso-d-lite-mocha-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107069946",
+      "food_name": "Hive Five Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/hive-five-bowl",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107069951",
+      "food_name": "PB Swizzle Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/pb-swizzle-bowl",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107069975",
+      "food_name": "Acai­ Cocoa Haze Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/acai%C2%AD-cocoa-haze-bowl",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070094",
+      "food_name": "Coffee D-Lite Mocha - 20Oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/coffee-d-lite-mocha-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107069961",
+      "food_name": "Bee Berry Sting Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/bee-berry-sting-bowl",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070227",
+      "food_name": "Gladiator Chocolate Espresso - 44Oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-chocolate-espresso-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472288",
+      "food_name": "Vegan Nutty Super Grain - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-nutty-super-grain-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472312",
+      "food_name": "Blueberry Heaven - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/blueberry-heaven-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472283",
+      "food_name": "Veggie Carrot Kale Dream - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/veggie-carrot-kale-dream-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472503",
+      "food_name": "Strawberry X-Treme - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/strawberry-x-treme-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076230",
+      "food_name": "Power Meal Slim GLP-1 Vanilla - 20Oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-slim-glp-1-vanilla-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076889",
+      "food_name": "The Shredder Vanilla - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-shredder-vanilla-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131356",
+      "food_name": "Gut Health Greek Yogurt Strawberry Blueberry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gut-health-greek-yogurt-strawberry-blueberry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131377",
+      "food_name": "Power Meal Cinnamon Banana - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-cinnamon-banana-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131312",
+      "food_name": "Veggie Lemon Ginger Spinach - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/veggie-lemon-ginger-spinach-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131318",
+      "food_name": "Immune Builder Veggie Superfood - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/immune-builder-veggie-superfood-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131335",
+      "food_name": "Gut Health Papaya Mango Ginger - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gut-health-papaya-mango-ginger-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131362",
+      "food_name": "Power Meal Spinach Pineapple - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-spinach-pineapple-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131305",
+      "food_name": "Veggie Apple Kiwi Kale - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/veggie-apple-kiwi-kale-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131410",
+      "food_name": "Hydration Pineapple Mango - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/hydration-pineapple-mango-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131456",
+      "food_name": "Lemon Twist Banana - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lemon-twist-banana-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131423",
+      "food_name": "Hydration Pineapple Mango - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/hydration-pineapple-mango-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131438",
+      "food_name": "X-Treme Watermelon - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/x-treme-watermelon-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131465",
+      "food_name": "Island Impact - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/island-impact-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131509",
+      "food_name": "Berry Punch - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/berry-punch-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131447",
+      "food_name": "Angel Food - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/angel-food-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131450",
+      "food_name": "Lemon Twist Banana - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lemon-twist-banana-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131489",
+      "food_name": "Strawberry X-Treme - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/strawberry-x-treme-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076875",
+      "food_name": "Slim-N-Trim Strawberry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-strawberry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076966",
+      "food_name": "The Shredder Vanilla - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-shredder-vanilla-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076847",
+      "food_name": "Slim-N-Trim Vanilla - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-vanilla-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076834",
+      "food_name": "Slim-N-Trim Vanilla - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-vanilla-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076821",
+      "food_name": "Slim-N-Trim Veggie - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-veggie-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107077088",
+      "food_name": "Immune Builder Mixed Berry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/immune-builder-mixed-berry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107077102",
+      "food_name": "Vegan Dark Chocolate Banana - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-dark-chocolate-banana-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131390",
+      "food_name": "Gut Health Greek Watermelon - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gut-health-greek-watermelon-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107077079",
+      "food_name": "Blueberry Heaven - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/blueberry-heaven-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472609",
+      "food_name": "Choc-A-Laka - 12oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/choc-a-laka-12oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107077016",
+      "food_name": "Mangofest - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/mangofest-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107077032",
+      "food_name": "Lean1 Chocolate - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lean1-chocolate-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107077064",
+      "food_name": "Lean1 Chocolate - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lean1-chocolate-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131541",
+      "food_name": "Strawberry Bluegurt Blitz - 12oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/strawberry-bluegurt-blitz-12oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131530",
+      "food_name": "Strawberry-Kiwi Breeze - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/strawberry-kiwi-breeze-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131515",
+      "food_name": "Lemon Twist Strawberry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lemon-twist-strawberry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131397",
+      "food_name": "Gut Health Greek Watermelon - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gut-health-greek-watermelon-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076409",
+      "food_name": "Power Meal Slim Vanilla - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-slim-vanilla-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076428",
+      "food_name": "Power Meal Slim Vanilla - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-slim-vanilla-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076346",
+      "food_name": "Keto Champ GLP-1 Berry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-glp-1-berry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076399",
+      "food_name": "Power Meal Slim Vanilla - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-slim-vanilla-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076262",
+      "food_name": "Power Meal Slim GLP-1 Vanilla - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-slim-glp-1-vanilla-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076298",
+      "food_name": "Keto Champ GLP-1 Chocolate - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-glp-1-chocolate-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076301",
+      "food_name": "Keto Champ GLP-1 Chocolate - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-glp-1-chocolate-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076316",
+      "food_name": "Keto Champ GLP-1 Chocolate - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-glp-1-chocolate-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107077147",
+      "food_name": "Slim-N-Trim Blueberry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-blueberry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076788",
+      "food_name": "Keto Champ Berry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-berry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076527",
+      "food_name": "Power Meal Slim Chocolate - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-slim-chocolate-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075990",
+      "food_name": "Slim-N-Trim GLP-1 Mango Greens - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-glp-1-mango-greens-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076133",
+      "food_name": "Power Meal Slim GLP-1 Strawberry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-slim-glp-1-strawberry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076146",
+      "food_name": "Power Meal Slim GLP-1 Strawberry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-slim-glp-1-strawberry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076194",
+      "food_name": "Power Meal Slim GLP-1 Chocolate - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-slim-glp-1-chocolate-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075952",
+      "food_name": "Power Meal Slim Watermelon - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-slim-watermelon-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075910",
+      "food_name": "The Activator Recovery Watermelon - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-watermelon-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075914",
+      "food_name": "The Activator Recovery Watermelon - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-watermelon-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075923",
+      "food_name": "The Activator Recovery Watermelon - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-watermelon-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075586",
+      "food_name": "Gladiator GLP-1 Chocolate - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-glp-1-chocolate-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075606",
+      "food_name": "Gladiator GLP-1 Strawberry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-glp-1-strawberry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075366",
+      "food_name": "The Hulk Chocolate - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-hulk-chocolate-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107072644",
+      "food_name": "Original High Protein Banana - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/original-high-protein-banana-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107072492",
+      "food_name": "Gladiator Chocolate - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-chocolate-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070363",
+      "food_name": "Gladiator Strawberry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-strawberry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070366",
+      "food_name": "Gladiator Strawberry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-strawberry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107072456",
+      "food_name": "Gladiator Chocolate - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-chocolate-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107072468",
+      "food_name": "Gladiator Chocolate - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-chocolate-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070350",
+      "food_name": "Gladiator Vanilla - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-vanilla-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070298",
+      "food_name": "The Activator Recovery Chocolate - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-chocolate-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070308",
+      "food_name": "The Activator Recovery Pineapple - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-pineapple-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075495",
+      "food_name": "The Hulk Strawberry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-hulk-strawberry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075508",
+      "food_name": "The Activator Recovery Strawberry Banana - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-strawberry-banana-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075547",
+      "food_name": "Gladiator GLP-1 Vanilla - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-glp-1-vanilla-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070287",
+      "food_name": "Espresso D-Lite Mocha - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/espresso-d-lite-mocha-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070151",
+      "food_name": "Vegan Espresso Mocha - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-espresso-mocha-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070162",
+      "food_name": "Vegan Coffee Mocha - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-coffee-mocha-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070126",
+      "food_name": "Pure Recharge Pineapple - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/pure-recharge-pineapple-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070133",
+      "food_name": "Keto Champ Coffee - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-coffee-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070139",
+      "food_name": "Keto Champ Coffee - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-coffee-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070146",
+      "food_name": "Keto Champ Coffee - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-coffee-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070108",
+      "food_name": "Coffee D-Lite Vanilla - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/coffee-d-lite-vanilla-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070013",
+      "food_name": "Pure Recharge Mango Strawberry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/pure-recharge-mango-strawberry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107069998",
+      "food_name": "The Hulk Coffee - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-hulk-coffee-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070237",
+      "food_name": "Gladiator Chocolate Coffee - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-chocolate-coffee-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070262",
+      "food_name": "The Hulk Espresso - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-hulk-espresso-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070181",
+      "food_name": "Espresso High Protein Almond Mocha - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/espresso-high-protein-almond-mocha-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070195",
+      "food_name": "Espresso High Protein Vanilla - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/espresso-high-protein-vanilla-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107069983",
+      "food_name": "The Activator Recovery Coffee - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-coffee-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070269",
+      "food_name": "The Hulk Espresso - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-hulk-espresso-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472432",
+      "food_name": "Passion Passport - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/passion-passport-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84393749",
+      "food_name": "Lean1  Vanilla - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lean1-vanilla-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107069839",
+      "food_name": "Coco Colada Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/coco-colada-bowl",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470190",
+      "food_name": "Vegan Espresso Mocha - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-espresso-mocha-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107069916",
+      "food_name": "PB Delight Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/pb-delight-bowl",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107069909",
+      "food_name": "Go Coconuts Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/go-coconuts-bowl",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070091",
+      "food_name": "Pure Recharge Strawberry - 44Oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/pure-recharge-strawberry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470766",
+      "food_name": "Original High Protein Pineapple - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/original-high-protein-pineapple-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470773",
+      "food_name": "Original High Protein Lemon - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/original-high-protein-lemon-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472280",
+      "food_name": "Immune Builder Veggie Superfood - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/immune-builder-veggie-superfood-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472506",
+      "food_name": "Yogurt D-Lite - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/yogurt-d-lite-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472526",
+      "food_name": "Muscle Punch - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/muscle-punch-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075946",
+      "food_name": "Power Meal Slim Watermelon - 20Oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-slim-watermelon-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131325",
+      "food_name": "Vegan Mixed Berry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-mixed-berry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131330",
+      "food_name": "Collagen Power Pineapple Kale - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/collagen-power-pineapple-kale-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131339",
+      "food_name": "Gut Health Greek Yogurt Pineapple Mango - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gut-health-greek-yogurt-pineapple-mango-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131399",
+      "food_name": "Hydration Berry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/hydration-berry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131307",
+      "food_name": "Veggie Carrot Kale Dream - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/veggie-carrot-kale-dream-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131367",
+      "food_name": "Power Meal Blueberry Raspberry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-blueberry-raspberry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131295",
+      "food_name": "Vegan Pineapple Spinach - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-pineapple-spinach-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131460",
+      "food_name": "Lemon Twist Banana - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lemon-twist-banana-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131469",
+      "food_name": "Caribbean Way - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/caribbean-way-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131475",
+      "food_name": "Angel Food Slim - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/angel-food-slim-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131479",
+      "food_name": "Angel Food Slim - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/angel-food-slim-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131401",
+      "food_name": "Hydration Berry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/hydration-berry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131406",
+      "food_name": "Hydration Berry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/hydration-berry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131494",
+      "food_name": "Pineapple Surf - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/pineapple-surf-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131414",
+      "food_name": "Hydration Pineapple Mango - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/hydration-pineapple-mango-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131392",
+      "food_name": "Gut Health Greek Watermelon - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gut-health-greek-watermelon-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131281",
+      "food_name": "Vegan Nutty Super Grain - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-nutty-super-grain-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107077043",
+      "food_name": "Lean1 Chocolate - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/lean1-chocolate-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076958",
+      "food_name": "The Shredder Vanilla - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-shredder-vanilla-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076987",
+      "food_name": "The Shredder Strawberry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-shredder-strawberry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076997",
+      "food_name": "The Shredder Chocolate - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-shredder-chocolate-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076855",
+      "food_name": "Slim-N-Trim Vanilla - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-vanilla-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472605",
+      "food_name": "CW Jr. - 12oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/cw-jr-12oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472612",
+      "food_name": "Apple Kiwi Bunga - 12oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/apple-kiwi-bunga-12oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131538",
+      "food_name": "Yogurt D-Lite - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/yogurt-d-lite-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076809",
+      "food_name": "Slim-N-Trim Veggie - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-veggie-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131524",
+      "food_name": "Banana Berry Treat - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/banana-berry-treat-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131505",
+      "food_name": "Muscle Punch - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/muscle-punch-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131517",
+      "food_name": "Banana Boat - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/banana-boat-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075969",
+      "food_name": "Metabolism Boost Dark Chocolate Banana - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/metabolism-boost-dark-chocolate-banana-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075972",
+      "food_name": "Metabolism Boost Dark Chocolate Banana - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/metabolism-boost-dark-chocolate-banana-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075980",
+      "food_name": "Slim-N-Trim GLP-1 Mango Greens - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-glp-1-mango-greens-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075962",
+      "food_name": "Metabolism Boost Dark Chocolate Banana - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/metabolism-boost-dark-chocolate-banana-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075954",
+      "food_name": "Power Meal Slim Watermelon - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-slim-watermelon-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075609",
+      "food_name": "Gladiator GLP-1 Strawberry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-glp-1-strawberry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075678",
+      "food_name": "The Activator Recovery GLP-1 Almond Berry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-glp-1-almond-berry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075880",
+      "food_name": "The Activator Recovery GLP-1 Almond Berry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-glp-1-almond-berry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075883",
+      "food_name": "The Activator Recovery GLP-1 Almond Berry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-glp-1-almond-berry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075589",
+      "food_name": "Gladiator GLP-1 Chocolate - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-glp-1-chocolate-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075602",
+      "food_name": "Gladiator GLP-1 Strawberry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-glp-1-strawberry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076329",
+      "food_name": "Keto Champ GLP-1 Berry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-glp-1-berry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076380",
+      "food_name": "Keto Champ GLP-1 Berry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-glp-1-berry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076251",
+      "food_name": "Power Meal Slim GLP-1 Vanilla - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-slim-glp-1-vanilla-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076185",
+      "food_name": "Power Meal Slim GLP-1 Chocolate - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-slim-glp-1-chocolate-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075562",
+      "food_name": "Gladiator GLP-1 Vanilla - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-glp-1-vanilla-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075580",
+      "food_name": "Gladiator GLP-1 Chocolate - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-glp-1-chocolate-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107077119",
+      "food_name": "Vegan Mango Kale - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/vegan-mango-kale-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107077136",
+      "food_name": "Slim-N-Trim Chocolate - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-chocolate-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076578",
+      "food_name": "Keto Champ Chocolate - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-chocolate-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076781",
+      "food_name": "Keto Champ Berry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-berry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076798",
+      "food_name": "Slim-N-Trim Veggie - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-veggie-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075984",
+      "food_name": "Slim-N-Trim GLP-1 Mango Greens - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/slim-n-trim-glp-1-mango-greens-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076210",
+      "food_name": "Power Meal Slim GLP-1 Chocolate - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-slim-glp-1-chocolate-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107076163",
+      "food_name": "Power Meal Slim GLP-1 Strawberry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/power-meal-slim-glp-1-strawberry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070323",
+      "food_name": "Gladiator Vanilla - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-vanilla-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070331",
+      "food_name": "Gladiator Vanilla - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-vanilla-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075358",
+      "food_name": "The Hulk Chocolate - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-hulk-chocolate-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075385",
+      "food_name": "The Hulk Chocolate - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-hulk-chocolate-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075402",
+      "food_name": "The Hulk Strawberry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-hulk-strawberry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075267",
+      "food_name": "Original High Protein Chocolate - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/original-high-protein-chocolate-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075330",
+      "food_name": "Original High Protein Pineapple - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/original-high-protein-pineapple-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070099",
+      "food_name": "Coffee D-Lite Mocha - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/coffee-d-lite-mocha-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070104",
+      "food_name": "Coffee D-Lite Mocha - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/coffee-d-lite-mocha-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075555",
+      "food_name": "Gladiator GLP-1 Vanilla - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-glp-1-vanilla-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070359",
+      "food_name": "Gladiator Strawberry - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/gladiator-strawberry-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070170",
+      "food_name": "The Activator Recovery Espresso - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-espresso-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070117",
+      "food_name": "Coffee D-Lite Vanilla - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/coffee-d-lite-vanilla-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070114",
+      "food_name": "Coffee D-Lite Vanilla - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/coffee-d-lite-vanilla-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107075481",
+      "food_name": "The Hulk Strawberry - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-hulk-strawberry-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070274",
+      "food_name": "The Hulk Espresso - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-hulk-espresso-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070282",
+      "food_name": "Keto Champ Espresso - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/keto-champ-espresso-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070291",
+      "food_name": "The Activator Recovery Blueberry Strawberry - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-activator-recovery-blueberry-strawberry-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107069990",
+      "food_name": "Coffee High Protein Vanilla - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/coffee-high-protein-vanilla-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070004",
+      "food_name": "The Hulk Coffee - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-hulk-coffee-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107070009",
+      "food_name": "The Hulk Coffee - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/the-hulk-coffee-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107069986",
+      "food_name": "Coffee High Protein Almond Mocha - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/coffee-high-protein-almond-mocha-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    }
+  ]
+}

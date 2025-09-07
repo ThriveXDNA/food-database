@@ -1,0 +1,27 @@
+{
+  "restaurant": "King Leo",
+  "total_items": 2,
+  "pages_extracted": 3,
+  "total_search_results": 118,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:04:46.172Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/king_leo.json",
+  "items": [
+    {
+      "food_id": "1457029",
+      "food_name": "Soft Peppermint Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-leo/soft-peppermint-puffs",
+      "brand_name": "King Leo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8639676",
+      "food_name": "Stick Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/king-leo/stick-candy",
+      "brand_name": "King Leo",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "restaurant": "A.C. LaRocco Pizzas",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 25,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:18:52.327Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/a_c_larocco_pizzas.json",
+  "items": [
+    {
+      "food_id": "1384495",
+      "food_name": "Cheese and Garlic Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ac-larocco-pizzas/cheese-and-garlic-pizza",
+      "brand_name": "A.C. LaRocco Pizzas",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1384534",
+      "food_name": "Spinach and Artichoke Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ac-larocco-pizzas/spinach-and-artichoke-pizza",
+      "brand_name": "A.C. LaRocco Pizzas",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1384586",
+      "food_name": "Chicken Garlic Parmesan Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ac-larocco-pizzas/chicken-garlic-parmesan-pizza",
+      "brand_name": "A.C. LaRocco Pizzas",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81061",
+      "food_name": "Bruschetta Style Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ac-larocco-pizzas/bruschetta-style-pizza",
+      "brand_name": "A.C. LaRocco Pizzas",
+      "food_type": "Brand"
+    }
+  ]
+}

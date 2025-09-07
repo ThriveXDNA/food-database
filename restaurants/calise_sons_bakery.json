@@ -1,0 +1,62 @@
+{
+  "restaurant": "Calise & Sons Bakery",
+  "total_items": 7,
+  "pages_extracted": 2,
+  "total_search_results": 61,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:14:59.803Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/calise_sons_bakery.json",
+  "items": [
+    {
+      "food_id": "2010818",
+      "food_name": "Bulkie Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/calise-and-sons-bakery/bulkie-rolls",
+      "brand_name": "Calise & Sons Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1586880",
+      "food_name": "Split Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/calise-and-sons-bakery/split-rolls",
+      "brand_name": "Calise & Sons Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94421",
+      "food_name": "Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/calise-and-sons-bakery/buns",
+      "brand_name": "Calise & Sons Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14737248",
+      "food_name": "Deli Potato Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/calise-and-sons-bakery/deli-potato-rolls",
+      "brand_name": "Calise & Sons Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1639577",
+      "food_name": "Scala Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/calise-and-sons-bakery/scala-bread",
+      "brand_name": "Calise & Sons Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "421589",
+      "food_name": "100% Whole Wheat Kaiser Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/calise-and-sons-bakery/100%25-whole-wheat-kaiser-rolls",
+      "brand_name": "Calise & Sons Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "246660",
+      "food_name": "Onion Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/calise-and-sons-bakery/onion-rolls",
+      "brand_name": "Calise & Sons Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

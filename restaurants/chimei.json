@@ -1,0 +1,69 @@
+{
+  "restaurant": "Chimei",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:44:46.592Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/chimei.json",
+  "items": [
+    {
+      "food_id": "66126757",
+      "food_name": "Bao Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chimei/bao-buns",
+      "brand_name": "Chimei",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62569794",
+      "food_name": "Pineapple Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chimei/pineapple-cake",
+      "brand_name": "Chimei",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2053419",
+      "food_name": "Taro Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chimei/taro-bun",
+      "brand_name": "Chimei",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1234037",
+      "food_name": "Frozen Premium Mantou",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chimei/frozen-premium-mantou",
+      "brand_name": "Chimei",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24520948",
+      "food_name": "Sesame Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chimei/sesame-bun",
+      "brand_name": "Chimei",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49116",
+      "food_name": "Cabbage Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chimei/cabbage-bun",
+      "brand_name": "Chimei",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25109757",
+      "food_name": "Frozen Braised Tofu Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chimei/frozen-braised-tofu-bun",
+      "brand_name": "Chimei",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74982748",
+      "food_name": "Frozen Gua Bao",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chimei/frozen-gua-bao",
+      "brand_name": "Chimei",
+      "food_type": "Brand"
+    }
+  ]
+}

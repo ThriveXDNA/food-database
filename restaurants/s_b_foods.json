@@ -1,0 +1,41 @@
+{
+  "restaurant": "S&B Foods",
+  "total_items": 4,
+  "pages_extracted": 3,
+  "total_search_results": 145,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:00:35.595Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/s_b_foods.json",
+  "items": [
+    {
+      "food_id": "3457266",
+      "food_name": "Golden Curry Sauce Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sandb-foods/golden-curry-sauce-mix",
+      "brand_name": "S&B Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53468528",
+      "food_name": "Crunchy Garlic with Chili Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/s-b-foods/crunchy-garlic-with-chili-oil",
+      "brand_name": "S&B Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82914",
+      "food_name": "Golden Curry Sauce Mix - Hot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sandb-foods/golden-curry-sauce-mix---hot",
+      "brand_name": "S&B Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74514",
+      "food_name": "Tasty Hayashi Rice Sauce Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sandb-foods/tasty-hayashi-rice-sauce-mix",
+      "brand_name": "S&B Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "brand_name": "Zola",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:12:54.558Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/zola.json",
+  "items": [
+    {
+      "food_id": "4287100",
+      "food_name": "Coconut Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/zola/coconut-water",
+      "brand_name": "Zola",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3289740",
+      "food_name": "Organic Acai Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/zola/organic-acai-juice",
+      "brand_name": "Zola",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7948229",
+      "food_name": "Coconut Water Espresso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/zola/coconut-water-espresso",
+      "brand_name": "Zola",
+      "food_type": "Brand"
+    }
+  ]
+}

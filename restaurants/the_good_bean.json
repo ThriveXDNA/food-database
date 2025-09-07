@@ -1,0 +1,83 @@
+{
+  "restaurant": "The Good Bean",
+  "total_items": 10,
+  "pages_extracted": 6,
+  "total_search_results": 2392,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:24:56.254Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_good_bean.json",
+  "items": [
+    {
+      "food_id": "5541550",
+      "food_name": "Sea Salt Chickpea Snacks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-good-bean/sea-salt-chickpea-snacks",
+      "brand_name": "The Good Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18853402",
+      "food_name": "Sea Salt Crunchy Chickpeas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-good-bean/sea-salt-crunchy-chickpeas",
+      "brand_name": "The Good Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68434304",
+      "food_name": "Indian Coconut Curry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-good-bean/indian-coconut-curry",
+      "brand_name": "The Good Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8074606",
+      "food_name": "Smoky Chili & Lime Chickpeas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-good-bean/smoky-chili-and-lime-chickpeas",
+      "brand_name": "The Good Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63924466",
+      "food_name": "Mexican Smoky Chipotle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-good-bean/mexican-smoky-chipotle",
+      "brand_name": "The Good Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42168576",
+      "food_name": "Protein Snack Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-good-bean/protein-snack-mix",
+      "brand_name": "The Good Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63267129",
+      "food_name": "Black Edamame Snacking Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-good-bean/black-edamame-snacking-beans",
+      "brand_name": "The Good Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69227725",
+      "food_name": "Low-Carb Classic Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-good-bean/low-carb-classic-chili",
+      "brand_name": "The Good Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22829285",
+      "food_name": "Crispy Favas & Peas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-good-bean/crispy-favas-peas",
+      "brand_name": "The Good Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48187091",
+      "food_name": "Chocolate Covered Chickpeas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-good-bean/chocolate-covered-chickpeas",
+      "brand_name": "The Good Bean",
+      "food_type": "Brand"
+    }
+  ]
+}

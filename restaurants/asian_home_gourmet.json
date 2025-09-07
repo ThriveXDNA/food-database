@@ -1,0 +1,34 @@
+{
+  "restaurant": "Asian Home Gourmet",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 936,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:38:14.771Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/asian_home_gourmet.json",
+  "items": [
+    {
+      "food_id": "70102",
+      "food_name": "Baby Corn Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/asian-home-gourmet/baby-corn-nuggets",
+      "brand_name": "Asian Home Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70101",
+      "food_name": "Water Chestnuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/asian-home-gourmet/water-chestnuts",
+      "brand_name": "Asian Home Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58010",
+      "food_name": "Indian Korma Curry Paste",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/asian-home-gourmet/indian-korma-curry-paste",
+      "brand_name": "Asian Home Gourmet",
+      "food_type": "Brand"
+    }
+  ]
+}

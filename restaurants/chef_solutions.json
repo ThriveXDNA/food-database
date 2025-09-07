@@ -1,0 +1,55 @@
+{
+  "restaurant": "Chef Solutions",
+  "total_items": 6,
+  "pages_extracted": 3,
+  "total_search_results": 106,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:34:12.853Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/chef_solutions.json",
+  "items": [
+    {
+      "food_id": "2281716",
+      "food_name": "Creamy Short Shred Cole Slaw",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chef-solutions/creamy-short-shred-cole-slaw",
+      "brand_name": "Chef Solutions",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5765499",
+      "food_name": "Sesame Thai Noodle Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chef-solutions/sesame-thai-noodle-salad",
+      "brand_name": "Chef Solutions",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2302735",
+      "food_name": "Cranberry Pecan Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chef-solutions/cranberry-pecan-chicken-salad",
+      "brand_name": "Chef Solutions",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6117489",
+      "food_name": "Cranberry Pecan White Meat Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chef-solutions/cranberry-pecan-white-meat-chicken-salad",
+      "brand_name": "Chef Solutions",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10167803",
+      "food_name": "Broccoli Cheddar Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chef-solutions/broccoli-cheddar-rice",
+      "brand_name": "Chef Solutions",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1822832",
+      "food_name": "Bruschetta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chef-solutions/bruschetta",
+      "brand_name": "Chef Solutions",
+      "food_type": "Brand"
+    }
+  ]
+}

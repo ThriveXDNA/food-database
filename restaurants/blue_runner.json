@@ -1,0 +1,48 @@
+{
+  "restaurant": "Blue Runner",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 723,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:40:39.484Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/blue_runner.json",
+  "items": [
+    {
+      "food_id": "271477",
+      "food_name": "Creole Cream Style Red Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-runner/creole-cream-style-red-beans",
+      "brand_name": "Blue Runner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "271464",
+      "food_name": "Creole Cream Style Navy Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-runner/creole-cream-style-navy-beans",
+      "brand_name": "Blue Runner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "271483",
+      "food_name": "New Orleans Spicy Cream Style Red Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-runner/new-orleans-spicy-cream-style-red-beans",
+      "brand_name": "Blue Runner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "271480",
+      "food_name": "New Orleans Spicy Cream Style Navy Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-runner/new-orleans-spicy-cream-style-navy-beans",
+      "brand_name": "Blue Runner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3134509",
+      "food_name": "Shrimp Creole Base",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-runner/shrimp-creole-base",
+      "brand_name": "Blue Runner",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "restaurant": "1st National Bagel Company",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 867,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:02:04.690Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/1st_national_bagel_company.json",
+  "items": [
+    {
+      "food_id": "54777057",
+      "food_name": "Plain Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/1st-national-bagel-company/plain-bagel",
+      "brand_name": "1st National Bagel Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1034650",
+      "food_name": "Blueberry Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/1st-national-bagel-company/blueberry-bagel",
+      "brand_name": "1st National Bagel Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "247871",
+      "food_name": "Sesame Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/1st-national-bagel-company/sesame-bagel",
+      "brand_name": "1st National Bagel Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "611551",
+      "food_name": "French Toast Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/1st-national-bagel-company/french-toast-bagel",
+      "brand_name": "1st National Bagel Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4624391",
+      "food_name": "Raisin-Cinnamon Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/1st-national-bagel-company/raisin-cinnamon-bagel",
+      "brand_name": "1st National Bagel Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1500179",
+      "food_name": "Multigrain Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/1st-national-bagel-company/multigrain-bagel",
+      "brand_name": "1st National Bagel Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "150088",
+      "food_name": "Onion Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/1st-national-bagel-company/onion-bagel",
+      "brand_name": "1st National Bagel Company",
+      "food_type": "Brand"
+    }
+  ]
+}

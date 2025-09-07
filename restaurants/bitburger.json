@@ -1,0 +1,20 @@
+{
+  "restaurant": "Bitburger",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 1,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:50:32.635Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bitburger.json",
+  "items": [
+    {
+      "food_id": "25303672",
+      "food_name": "Premium Pils Bier",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bitburger/premium-pils-bier",
+      "brand_name": "Bitburger",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "restaurant": "Winking Lizard",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 14,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:11:57.147Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/winking_lizard.json",
+  "items": [
+    {
+      "food_id": "2275584",
+      "food_name": "Strip Steak Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/winking-lizard/strip-steak-wrap",
+      "brand_name": "Winking Lizard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3261743",
+      "food_name": "Boneless Garlic Wings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/winking-lizard/boneless-garlic-wings",
+      "brand_name": "Winking Lizard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3644824",
+      "food_name": "French Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/winking-lizard/french-fries",
+      "brand_name": "Winking Lizard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7155545",
+      "food_name": "Mediterranean Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/winking-lizard/mediterranean-wrap",
+      "brand_name": "Winking Lizard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3032932",
+      "food_name": "Garlic Wings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/winking-lizard/garlic-wings",
+      "brand_name": "Winking Lizard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23910210",
+      "food_name": "Cajun Chicken Spinach Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/winking-lizard/cajun-chicken-spinach-salad",
+      "brand_name": "Winking Lizard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40969944",
+      "food_name": "White Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/winking-lizard/white-pizza",
+      "brand_name": "Winking Lizard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53069306",
+      "food_name": "Skinny Dippers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/winking-lizard/skinny-dippers",
+      "brand_name": "Winking Lizard",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Custom Made Meals",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 305,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:47:43.112Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/custom_made_meals.json",
+  "items": [
+    {
+      "food_id": "4516818",
+      "food_name": "Parmesan Chicken Cutlets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/custom-made-meals/parmesan-chicken-cutlets",
+      "brand_name": "Custom Made Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92086055",
+      "food_name": "Brisket Con Queso Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/custom-made-meals/brisket-con-queso-dip",
+      "brand_name": "Custom Made Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100934802",
+      "food_name": "Korean BBQ-Inspired Pork Skewers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/custom-made-meals/korean-bbq-inspired-pork-skewers",
+      "brand_name": "Custom Made Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34740835",
+      "food_name": "BBQ Seasoned Chicken Grillers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/custom-made-meals/bbq-seasoned-chicken-grillers",
+      "brand_name": "Custom Made Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90313176",
+      "food_name": "Honey Mustard Seasoned Chicken Cutlets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/custom-made-meals/honey-mustard-seasoned-chicken-cutlets",
+      "brand_name": "Custom Made Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13339293",
+      "food_name": "Italian Style Stuffed Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/custom-made-meals/italian-style-stuffed-meatballs",
+      "brand_name": "Custom Made Meals",
+      "food_type": "Brand"
+    }
+  ]
+}

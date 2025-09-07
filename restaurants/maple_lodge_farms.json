@@ -1,0 +1,34 @@
+{
+  "restaurant": "Maple Lodge Farms",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 899,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:56:18.949Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/maple_lodge_farms.json",
+  "items": [
+    {
+      "food_id": "1244788",
+      "food_name": "Chicken Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/maple-lodge-farms/chicken-bacon",
+      "brand_name": "Maple Lodge Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104161",
+      "food_name": "Smoked Chicken Breast Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/maple-lodge-farms/smoked-chicken-breast-roast",
+      "brand_name": "Maple Lodge Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66287",
+      "food_name": "Original Chicken Wiener",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/maple-lodge-farms/original-chicken-wiener",
+      "brand_name": "Maple Lodge Farms",
+      "food_type": "Brand"
+    }
+  ]
+}

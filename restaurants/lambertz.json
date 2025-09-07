@@ -1,0 +1,34 @@
+{
+  "restaurant": "Lambertz",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:47:42.259Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/lambertz.json",
+  "items": [
+    {
+      "food_id": "92222",
+      "food_name": "European Chocolate Cookie Collection",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lambertz/european-chocolate-cookie-collection",
+      "brand_name": "Lambertz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24528399",
+      "food_name": "Coco Fleur",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lambertz/coco-fleur",
+      "brand_name": "Lambertz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2820757",
+      "food_name": "Deluxe Cookie Assortment",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lambertz/deluxe-cookie-assortment",
+      "brand_name": "Lambertz",
+      "food_type": "Brand"
+    }
+  ]
+}

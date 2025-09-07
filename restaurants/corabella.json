@@ -1,0 +1,41 @@
+{
+  "restaurant": "Corabella",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:19:28.212Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/corabella.json",
+  "items": [
+    {
+      "food_id": "30195884",
+      "food_name": "Green Pea Penne Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corabella/green-pea-penne-pasta",
+      "brand_name": "Corabella",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "607829",
+      "food_name": "Tricolor Four Cheese Tortelloni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corabella/tricolor-four-cheese-tortelloni",
+      "brand_name": "Corabella",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "607815",
+      "food_name": "Ricotta & Spinach Tortelloni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corabella/ricotta-and-spinach-tortelloni",
+      "brand_name": "Corabella",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "607805",
+      "food_name": "Classic Four Cheese Tortelloni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corabella/classic-four-cheese-tortelloni",
+      "brand_name": "Corabella",
+      "food_type": "Brand"
+    }
+  ]
+}

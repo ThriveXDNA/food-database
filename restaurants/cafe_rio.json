@@ -1,0 +1,321 @@
+{
+  "restaurant": "Cafe Rio",
+  "total_items": 44,
+  "pages_extracted": 6,
+  "total_search_results": 284,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:39:30.202Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cafe_rio.json",
+  "items": [
+    {
+      "food_id": "74465886",
+      "food_name": "Cilantro Lime Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/cilantro-lime-rice",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3394753",
+      "food_name": "Pico de Gallo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/pico-de-gallo",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "875233",
+      "food_name": "Lettuce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/lettuce",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "756356",
+      "food_name": "Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/black-beans",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465917",
+      "food_name": "Sweet Pork Barbacoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/sweet-pork-barbacoa",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465845",
+      "food_name": "Flour Tortilla - 12 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/flour-tortilla-12-inch",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1172699",
+      "food_name": "Creamy Tomatillo Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/creamy-tomatillo-dressing",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1225815",
+      "food_name": "Shredded Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/shredded-chicken-breast",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465948",
+      "food_name": "Shredded Jack Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/shredded-jack-cheese",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465869",
+      "food_name": "Flour Tortilla - 6 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/flour-tortilla-6-inch",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1026218",
+      "food_name": "Guacamole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/guacamole",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1960229",
+      "food_name": "Tortilla Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/tortilla-strips",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "756350",
+      "food_name": "Pinto Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/pinto-beans",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3766623",
+      "food_name": "Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/queso",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1038481",
+      "food_name": "Cilantro Lime Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/cilantro-lime-dressing",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465887",
+      "food_name": "Carne Asada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/carne-asada",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465944",
+      "food_name": "Cilantro",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/cilantro",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465904",
+      "food_name": "Fire-Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/fire-grilled-chicken",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465910",
+      "food_name": "Fire-Grilled Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/fire-grilled-steak",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465954",
+      "food_name": "Tortilla Soup with Tortilla Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/tortilla-soup-with-tortilla-strips",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1862725",
+      "food_name": "Cotija Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/cotija-cheese",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465959",
+      "food_name": "Tres Leches",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/tres-leches",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "875241",
+      "food_name": "Sour Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/sour-cream",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465938",
+      "food_name": "Tomatillo Sauce - Mild",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/tomatillo-sauce-mild",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465945",
+      "food_name": "Lime Wedge",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/lime-wedge",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465859",
+      "food_name": "Corn Tortilla - 6 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/corn-tortilla-6-inch",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465893",
+      "food_name": "Chile Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/chile-roast-beef",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465876",
+      "food_name": "Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/tortilla-chips",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465914",
+      "food_name": "Pollo Asado",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/pollo-asado",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465918",
+      "food_name": "Green Chile Sauce - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/green-chile-sauce-medium",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465882",
+      "food_name": "Tostada Shell",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/tostada-shell",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1227481",
+      "food_name": "Salsa Fresca",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/salsa-fresca",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1960252",
+      "food_name": "Cheddar Jack Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/cheddar-jack-blend",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465957",
+      "food_name": "Horchata",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/horchata",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465851",
+      "food_name": "Wheat Tortilla - 12 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/wheat-tortilla-12-inch",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465929",
+      "food_name": "Red Chile Sauce - Hot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/red-chile-sauce-hot",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465936",
+      "food_name": "Habanero - Hottest",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/habanero-hottest",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465873",
+      "food_name": "Wheat Tortilla - 6 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/wheat-tortilla-6-inch",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465958",
+      "food_name": "Mint Limeade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/mint-limeade",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465927",
+      "food_name": "Mango Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/mango-salsa",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3797358",
+      "food_name": "Coconut Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/coconut-shrimp",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465903",
+      "food_name": "Baja Citrus Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/baja-citrus-shrimp",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465943",
+      "food_name": "Cabbage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/cabbage",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74465956",
+      "food_name": "Fresh Lime Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-rio/fresh-lime-pie",
+      "brand_name": "Cafe Rio",
+      "food_type": "Brand"
+    }
+  ]
+}

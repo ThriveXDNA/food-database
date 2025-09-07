@@ -1,0 +1,27 @@
+{
+  "restaurant": "Fling",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:38:02.285Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fling.json",
+  "items": [
+    {
+      "food_id": "31736528",
+      "food_name": "Mai Tai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fling/mai-tai",
+      "brand_name": "Fling",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "264521",
+      "food_name": "Fling Dark Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mars/fling-dark-chocolate",
+      "brand_name": "Mars",
+      "food_type": "Brand"
+    }
+  ]
+}

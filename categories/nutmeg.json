@@ -1,0 +1,54 @@
+{
+  "search_term": "nutmeg",
+  "category": "comprehensive",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "last_updated": "2025-09-06T06:20:50.827Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Search term with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/categories/nutmeg.json",
+  "items": [
+    {
+      "food_id": "33887",
+      "food_name": "Nutmeg (Ground)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/nutmeg-(ground)",
+      "food_type": "Generic",
+      "brand_name": null
+    },
+    {
+      "food_id": "34299",
+      "food_name": "Nutmeg Butter Vegetable Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/nutmeg-butter-vegetable-oil",
+      "food_type": "Generic",
+      "brand_name": null
+    },
+    {
+      "food_id": "2005118",
+      "food_name": "Black Cookies Madness",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutrex-research/black-cookies-madness",
+      "food_type": "Brand",
+      "brand_name": "Nutrex Research"
+    },
+    {
+      "food_id": "92515733",
+      "food_name": "Special Edition Bavarian Nutmeg Root Beer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/virgils/special-edition-bavarian-nutmeg-root-beer",
+      "food_type": "Brand",
+      "brand_name": "Virgil's"
+    },
+    {
+      "food_id": "2246094",
+      "food_name": "Muscle Infusion Black",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutrex-research/muscle-infusion-black",
+      "food_type": "Brand",
+      "brand_name": "Nutrex Research"
+    },
+    {
+      "food_id": "29786987",
+      "food_name": "Plant Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutrex-research/plant-protein",
+      "food_type": "Brand",
+      "brand_name": "Nutrex Research"
+    }
+  ]
+}

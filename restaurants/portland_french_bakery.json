@@ -1,0 +1,48 @@
+{
+  "restaurant": "Portland French Bakery",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 2076,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:10:00.065Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/portland_french_bakery.json",
+  "items": [
+    {
+      "food_id": "16866165",
+      "food_name": "Rustic Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/portland-french-bakery/rustic-bread",
+      "brand_name": "Portland French Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4696783",
+      "food_name": "Wheat Sourdough Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/portland-french-bakery/wheat-sourdough-bread",
+      "brand_name": "Portland French Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3245398",
+      "food_name": "Cheesy Garlic Breadsticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/portland-french-bakery/cheesy-garlic-breadsticks",
+      "brand_name": "Portland French Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2874175",
+      "food_name": "Pub Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/portland-french-bakery/pub-buns",
+      "brand_name": "Portland French Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7245145",
+      "food_name": "100% Whole Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/portland-french-bakery/100%25-whole-wheat-bread",
+      "brand_name": "Portland French Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

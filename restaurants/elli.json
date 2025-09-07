@@ -1,0 +1,34 @@
+{
+  "restaurant": "Elli",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:39:48.200Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/elli.json",
+  "items": [
+    {
+      "food_id": "13364455",
+      "food_name": "Quark - Plain",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elli/quark---plain",
+      "brand_name": "Elli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14570934",
+      "food_name": "Quark - Brownie Batter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elli/quark---brownie-batter",
+      "brand_name": "Elli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41444768",
+      "food_name": "Quark - Cafe Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elli/quark-cafe-latte",
+      "brand_name": "Elli",
+      "food_type": "Brand"
+    }
+  ]
+}

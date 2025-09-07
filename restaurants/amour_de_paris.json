@@ -1,0 +1,20 @@
+{
+  "restaurant": "Amour de Paris",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 329,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:00:11.527Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/amour_de_paris.json",
+  "items": [
+    {
+      "food_id": "3129988",
+      "food_name": "Sparkling Cocktail Wine with Peach Flavor Added",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/amour-de-paris/sparkling-cocktail-wine-with-peach-flavor-added",
+      "brand_name": "Amour de Paris",
+      "food_type": "Brand"
+    }
+  ]
+}

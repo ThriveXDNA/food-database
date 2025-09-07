@@ -1,0 +1,20 @@
+{
+  "brand_name": "Yellowstone Brand",
+  "total_items": 1,
+  "pages_extracted": 2,
+  "total_search_results": 62,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:54:48.304Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/yellowstone_brand.json",
+  "items": [
+    {
+      "food_id": "7149766",
+      "food_name": "Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yellowstone-brand/beef-jerky",
+      "brand_name": "Yellowstone Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

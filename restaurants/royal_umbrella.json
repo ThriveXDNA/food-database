@@ -1,0 +1,20 @@
+{
+  "restaurant": "Royal Umbrella",
+  "total_items": 1,
+  "pages_extracted": 2,
+  "total_search_results": 60,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:33:03.157Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/royal_umbrella.json",
+  "items": [
+    {
+      "food_id": "6464430",
+      "food_name": "Thai Jasmine Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/royal-umbrella/thai-jasmine-rice",
+      "brand_name": "Royal Umbrella",
+      "food_type": "Brand"
+    }
+  ]
+}

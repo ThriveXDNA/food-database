@@ -1,0 +1,62 @@
+{
+  "restaurant": "Italpasta",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:19:06.716Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/italpasta.json",
+  "items": [
+    {
+      "food_id": "149574",
+      "food_name": "Fusilli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/italpasta/fusilli",
+      "brand_name": "Italpasta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "185850",
+      "food_name": "Spaghettini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/italpasta/spaghettini",
+      "brand_name": "Italpasta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65945",
+      "food_name": "Capellini Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/italpasta/capellini-pasta",
+      "brand_name": "Italpasta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1634055",
+      "food_name": "Orzo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/italpasta/orzo",
+      "brand_name": "Italpasta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65822",
+      "food_name": "Thin Breadsticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/italpasta/thin-breadsticks",
+      "brand_name": "Italpasta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10130633",
+      "food_name": "100% Whole Grain Whole Wheat Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/italpasta/100%25-whole-grain-whole-wheat-spaghetti",
+      "brand_name": "Italpasta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71552141",
+      "food_name": "Small Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/italpasta/small-shells",
+      "brand_name": "Italpasta",
+      "food_type": "Brand"
+    }
+  ]
+}

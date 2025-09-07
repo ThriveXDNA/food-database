@@ -1,0 +1,76 @@
+{
+  "restaurant": "Love Good Fats",
+  "total_items": 9,
+  "pages_extracted": 5,
+  "total_search_results": 235,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:06:08.939Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/love_good_fats.json",
+  "items": [
+    {
+      "food_id": "40969016",
+      "food_name": "Dark Chocolate Sea Salt & Almond",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/love-good-fats/dark-chocolate-sea-salt-almond",
+      "brand_name": "Love Good Fats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71864815",
+      "food_name": "Salted Caramel Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/love-good-fats/salted-caramel-bar",
+      "brand_name": "Love Good Fats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26655413",
+      "food_name": "Chocolate Chip Cookie Dough Snack Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/love-good-fats/chocolate-chip-cookie-dough-snack-bar",
+      "brand_name": "Love Good Fats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28760500",
+      "food_name": "Coconut Chocolate Chip Snack Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/love-good-fats/coconut-chocolate-chip-snack-bar",
+      "brand_name": "Love Good Fats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30292579",
+      "food_name": "Peanut Butter Chocolatey Snack Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/love-good-fats/peanut-butter-chocolatey-snack-bar",
+      "brand_name": "Love Good Fats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39096918",
+      "food_name": "Rich Chocolatey Almond Snack Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/love-good-fats/rich-chocolatey-almond-snack-bar",
+      "brand_name": "Love Good Fats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38985505",
+      "food_name": "Cookies & Cream Snack Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/love-good-fats/cookies-cream-snack-bar",
+      "brand_name": "Love Good Fats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26641833",
+      "food_name": "Mint Chocolate Chip Snack Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/love-good-fats/mint-chocolate-chip-snack-bar",
+      "brand_name": "Love Good Fats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45393674",
+      "food_name": "Lemon Mousse Snack Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/love-good-fats/lemon-mousse-snack-bar",
+      "brand_name": "Love Good Fats",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "restaurant": "Berks",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:20:32.271Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/berks.json",
+  "items": [
+    {
+      "food_id": "863196",
+      "food_name": "Ring Bologna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/berks/ring-bologna",
+      "brand_name": "Berks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1626429",
+      "food_name": "Beef Franks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/berks/beef-franks",
+      "brand_name": "Berks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6145148",
+      "food_name": "Sliced Breakfast Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/berks/sliced-breakfast-ham",
+      "brand_name": "Berks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2825871",
+      "food_name": "Ham Cubes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/berks/ham-cubes",
+      "brand_name": "Berks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17499877",
+      "food_name": "Cheese Dogs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/berks/cheese-dogs",
+      "brand_name": "Berks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9870851",
+      "food_name": "Original Franks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/berks/original-franks",
+      "brand_name": "Berks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56066479",
+      "food_name": "Grill Franks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/berks/grill-franks",
+      "brand_name": "Berks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24178663",
+      "food_name": "Hickory Smoked Berkshire Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/berks/hickory-smoked-berkshire-ham",
+      "brand_name": "Berks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2534600",
+      "food_name": "Reduced Sodium Ham Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/berks/reduced-sodium-ham-steak",
+      "brand_name": "Berks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77398671",
+      "food_name": "Knockwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/berks/knockwurst",
+      "brand_name": "Berks",
+      "food_type": "Brand"
+    }
+  ]
+}

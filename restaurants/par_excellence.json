@@ -1,0 +1,34 @@
+{
+  "restaurant": "Par Excellence",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 32,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:51:03.470Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/par_excellence.json",
+  "items": [
+    {
+      "food_id": "1978616",
+      "food_name": "Yellow Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/par-excellence/yellow-rice",
+      "brand_name": "Par Excellence",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6452993",
+      "food_name": "Premium Long Grain Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/par-excellence/premium-long-grain-rice",
+      "brand_name": "Par Excellence",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8844372",
+      "food_name": "Enriched White Extra Long Grain Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/par-excellence/enriched-white-extra-long-grain-rice",
+      "brand_name": "Par Excellence",
+      "food_type": "Brand"
+    }
+  ]
+}

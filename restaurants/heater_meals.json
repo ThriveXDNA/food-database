@@ -1,0 +1,20 @@
+{
+  "restaurant": "Heater Meals",
+  "total_items": 1,
+  "pages_extracted": 2,
+  "total_search_results": 59,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:13:28.180Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/heater_meals.json",
+  "items": [
+    {
+      "food_id": "17208294",
+      "food_name": "Mushroom Gravy, Mashed Potatoes & Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heater-meals/mushroom-gravy-mashed-potatoes-and-beef",
+      "brand_name": "Heater Meals",
+      "food_type": "Brand"
+    }
+  ]
+}

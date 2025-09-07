@@ -1,0 +1,20 @@
+{
+  "restaurant": "Black Valley Angus",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 2885,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:15:58.638Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/black_valley_angus.json",
+  "items": [
+    {
+      "food_id": "7857771",
+      "food_name": "Sirloin Steak Skewers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/black-valley-angus/sirloin-steak-skewers",
+      "brand_name": "Black Valley Angus",
+      "food_type": "Brand"
+    }
+  ]
+}

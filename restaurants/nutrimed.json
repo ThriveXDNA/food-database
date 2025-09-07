@@ -1,0 +1,97 @@
+{
+  "restaurant": "Nutrimed",
+  "total_items": 12,
+  "pages_extracted": 1,
+  "total_search_results": 12,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:02:18.304Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/nutrimed.json",
+  "items": [
+    {
+      "food_id": "1937951",
+      "food_name": "Protein Shake - Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutrimed/protein-shake---vanilla",
+      "brand_name": "Nutrimed",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1669827",
+      "food_name": "Nutrimed 130",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutrimed/nutrimed-130",
+      "brand_name": "Nutrimed",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1519327",
+      "food_name": "Protein Shake - Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutrimed/protein-shake---chocolate",
+      "brand_name": "Nutrimed",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1519337",
+      "food_name": "Protein Shake - Mocha",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutrimed/protein-shake---mocha",
+      "brand_name": "Nutrimed",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1610400",
+      "food_name": "Dark Chocolate S'mores Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutrimed/dark-chocolate-smores-bar",
+      "brand_name": "Nutrimed",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9296749",
+      "food_name": "Creamy Chicken Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutrimed/creamy-chicken-soup",
+      "brand_name": "Nutrimed",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1519333",
+      "food_name": "Protein Shake - Berry Creme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutrimed/protein-shake---berry-creme",
+      "brand_name": "Nutrimed",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1394572",
+      "food_name": "Protein Shake - Chocolate Mint",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutrimed/protein-shake---chocolate-mint",
+      "brand_name": "Nutrimed",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2280322",
+      "food_name": "Chocolate Almond Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutrimed/chocolate-almond-bar",
+      "brand_name": "Nutrimed",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38923801",
+      "food_name": "Double Berry Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutrimed/double-berry-bar",
+      "brand_name": "Nutrimed",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1519316",
+      "food_name": "Protein Shake - Strawberry Creme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutrimed/protein-shake---strawberry-creme",
+      "brand_name": "Nutrimed",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2544329",
+      "food_name": "NutriMed 130 RTD Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carbessentials/nutrimed-130-rtd-vanilla",
+      "brand_name": "CarbEssentials",
+      "food_type": "Brand"
+    }
+  ]
+}

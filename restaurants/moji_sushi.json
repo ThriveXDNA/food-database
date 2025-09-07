@@ -1,0 +1,41 @@
+{
+  "restaurant": "Moji Sushi",
+  "total_items": 4,
+  "pages_extracted": 2,
+  "total_search_results": 64,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:41:32.364Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/moji_sushi.json",
+  "items": [
+    {
+      "food_id": "19371525",
+      "food_name": "California Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/moji-sushi/california-roll",
+      "brand_name": "Moji Sushi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10850837",
+      "food_name": "Spicy Tuna Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/moji-sushi/spicy-tuna-roll",
+      "brand_name": "Moji Sushi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12926877",
+      "food_name": "Spicy Crab Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/moji-sushi/spicy-crab-roll",
+      "brand_name": "Moji Sushi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27733304",
+      "food_name": "Classic California Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/moji-sushi/classic-california-roll",
+      "brand_name": "Moji Sushi",
+      "food_type": "Brand"
+    }
+  ]
+}

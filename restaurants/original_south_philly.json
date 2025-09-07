@@ -1,0 +1,27 @@
+{
+  "restaurant": "Original South Philly",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 3021,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:00:14.983Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/original_south_philly.json",
+  "items": [
+    {
+      "food_id": "6554236",
+      "food_name": "Hoagie Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-south-philly/hoagie-roll",
+      "brand_name": "Original South Philly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6102201",
+      "food_name": "Jewish Rye Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-south-philly/jewish-rye-bread",
+      "brand_name": "Original South Philly",
+      "food_type": "Brand"
+    }
+  ]
+}

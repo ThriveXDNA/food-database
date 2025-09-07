@@ -1,0 +1,41 @@
+{
+  "restaurant": "Diamond Bakery",
+  "total_items": 4,
+  "pages_extracted": 2,
+  "total_search_results": 53,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:12:22.855Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/diamond_bakery.json",
+  "items": [
+    {
+      "food_id": "31269686",
+      "food_name": "Hawaiian Shortbread Macadamia Nut Lilikoi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/diamond-bakery/hawaiian-shortbread-macadamia-nut-lilikoi",
+      "brand_name": "Diamond Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "664687",
+      "food_name": "Original Hawaiian Soda Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/diamond-bakery/original-hawaiian-soda-crackers",
+      "brand_name": "Diamond Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "767706",
+      "food_name": "Royal Creem Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/diamond-bakery/royal-creem-crackers",
+      "brand_name": "Diamond Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46208562",
+      "food_name": "Lilikoi Hawaiian Biscuits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/diamond-bakery/lilikoi-hawaiian-biscuits",
+      "brand_name": "Diamond Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

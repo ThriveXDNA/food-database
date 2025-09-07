@@ -1,0 +1,354 @@
+{
+  "restaurant": "Five Guys",
+  "total_items": 49,
+  "pages_extracted": 4,
+  "last_updated": "2025-09-06T06:46:49.902Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Restaurant search with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/five_guys.json",
+  "items": [
+    {
+      "food_id": "74728775",
+      "food_name": "Little Five Guys Style Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/little-five-guys-style-fries",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74728762",
+      "food_name": "Hamburger Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/hamburger-patty",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "207599",
+      "food_name": "Little Bacon Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/little-bacon-burger",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62865",
+      "food_name": "Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/bun",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265203",
+      "food_name": "Cheese - 1 slice (Supplier S)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/cheese-1-slice-(supplier-s)",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74728842",
+      "food_name": "Onions / Grilled Onions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/onions-grilled-onions",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265218",
+      "food_name": "Lettuce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/lettuce",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265180",
+      "food_name": "Little Cajun Style Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/little-cajun-style-fries",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265216",
+      "food_name": "Ketchup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/ketchup",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74728783",
+      "food_name": "Regular Five Guys Style Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/regular-five-guys-style-fries",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265224",
+      "food_name": "Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/tomatoes",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265223",
+      "food_name": "Pickles (Supplier B)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/pickles-(supplier-b)",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74728826",
+      "food_name": "Mayonnaise (Supplier K)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/mayonnaise-(supplier-k)",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265207",
+      "food_name": "Grilled Mushrooms",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/grilled-mushrooms",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74728858",
+      "food_name": "Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/bacon",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265222",
+      "food_name": "Mustard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/mustard",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74728788",
+      "food_name": "Large Five Guys Style Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/large-five-guys-style-fries",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265225",
+      "food_name": "Vanilla Shake Base",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/vanilla-shake-base",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93169524",
+      "food_name": "Grilled Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/grilled-cheese",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265209",
+      "food_name": "Jalapeño Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/jalape%C3%B1o-peppers",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265202",
+      "food_name": "Cheese - 1 slice (Supplier K)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/cheese-1-slice-(supplier-k)",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265196",
+      "food_name": "Regular Cajun Style Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/regular-cajun-style-fries",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265174",
+      "food_name": "Hot Dog (Supplier K)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/hot-dog-(supplier-k)",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74728802",
+      "food_name": "A.1. Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/a1-sauce",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265167",
+      "food_name": "Hot Dog (Supplier H)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/hot-dog-(supplier-h)",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265199",
+      "food_name": "Large Cajun Style Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/large-cajun-style-fries",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265257",
+      "food_name": "Bulk Peanuts (1oz.)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/bulk-peanuts-(1oz)",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265250",
+      "food_name": "Fry Sauce Bulk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/fry-sauce-bulk",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265206",
+      "food_name": "Green Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/green-peppers",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74728808",
+      "food_name": "BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/bbq-sauce",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265162",
+      "food_name": "Bacon - 2 pieces (Supplier S)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/bacon-2-pieces-(supplier-s)",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265229",
+      "food_name": "Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/chocolate",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74728852",
+      "food_name": "Relish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/relish",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265219",
+      "food_name": "Mayonnaise (Supplier S)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/mayonnaise-(supplier-s)",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86296474",
+      "food_name": "Pickles (Supplier M)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/pickles-(supplier-m)",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265228",
+      "food_name": "Banana",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/banana",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265238",
+      "food_name": "Oreo Cookie Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/oreo-cookie-pieces",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265244",
+      "food_name": "Reese’S Peanut Butter Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/reese%E2%80%99s-peanut-butter-cup",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265248",
+      "food_name": "Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/strawberry",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265246",
+      "food_name": "Salted Caramel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/salted-caramel",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265242",
+      "food_name": "Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/peanut-butter",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265265",
+      "food_name": "Fry Sauce PC",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/fry-sauce-pc",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265279",
+      "food_name": "Oreo Crème",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/oreo-cr%C3%A8me",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74728822",
+      "food_name": "Hot Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/hot-sauce",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265165",
+      "food_name": "Bacon - 2 pieces (Supplier D)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/bacon-2-pieces-(supplier-d)",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265226",
+      "food_name": "Whipped Cream (Supplier S)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/whipped-cream-(supplier-s)",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265270",
+      "food_name": "Eggs (2)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/eggs-(2)",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265227",
+      "food_name": "Whipped Cream (Supplier A)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/whipped-cream-(supplier-a)",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76265269",
+      "food_name": "Malt Vinegar (1tbs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/five-guys/malt-vinegar-(1tbs)",
+      "brand_name": "Five Guys",
+      "food_type": "Brand"
+    }
+  ]
+}

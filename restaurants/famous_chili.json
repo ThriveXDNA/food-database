@@ -1,0 +1,580 @@
+{
+  "restaurant": "Famous Chili",
+  "total_items": 81,
+  "pages_extracted": 6,
+  "total_search_results": 1000,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:00:04.784Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/famous_chili.json",
+  "items": [
+    {
+      "food_id": "75420321",
+      "food_name": "Nathan's Famous Chili Fries - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nathans-famous/nathans-famous-chili-fries-regular",
+      "brand_name": "Nathan's Famous",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75420325",
+      "food_name": "Nathan's Famous Chili Fries - Family",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nathans-famous/nathans-famous-chili-fries-family",
+      "brand_name": "Nathan's Famous",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75420323",
+      "food_name": "Nathan's Famous Chili Fries - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nathans-famous/nathans-famous-chili-fries-large",
+      "brand_name": "Nathan's Famous",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75420328",
+      "food_name": "Nathan's Famous Chili Cheese Fries - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nathans-famous/nathans-famous-chili-cheese-fries-large",
+      "brand_name": "Nathan's Famous",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75420965",
+      "food_name": "Nathan's Famous Chili Bowl (12 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nathans-famous/nathans-famous-chili-bowl-(12-oz)",
+      "brand_name": "Nathan's Famous",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75420327",
+      "food_name": "Nathan's Famous Chili Cheese Fries - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nathans-famous/nathans-famous-chili-cheese-fries-regular",
+      "brand_name": "Nathan's Famous",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75420332",
+      "food_name": "Nathan's Famous Chili Cheese Fries - Family",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nathans-famous/nathans-famous-chili-cheese-fries-family",
+      "brand_name": "Nathan's Famous",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75420967",
+      "food_name": "Nathan's Famous Chili Bowl (16 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nathans-famous/nathans-famous-chili-bowl-(16-oz)",
+      "brand_name": "Nathan's Famous",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "274207",
+      "food_name": "4 Star Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/famous-chili/4-star-chili",
+      "brand_name": "Famous Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4750672",
+      "food_name": "Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chili",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "4750693",
+      "food_name": "Chicken Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chicken-chili",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "16889857",
+      "food_name": "Keto Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/keto-chili",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "55592559",
+      "food_name": "Chili Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chili-oil",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "63748041",
+      "food_name": "Pumpkin Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/pumpkin-chili",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "6260",
+      "food_name": "Hot Chili Pepper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/pepper-hot-chili-raw",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2192",
+      "food_name": "Chili Con Carne",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chili-con-carne",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "6165",
+      "food_name": "Tomato Chili Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/tomato-chili-sauce-(catsup-type)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1326",
+      "food_name": "Cheese with Chili Pepper Dip (Chili Con Queso)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/dip-cheese-with-chili-pepper-(chili-con-queso)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "4750683",
+      "food_name": "Turkey Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/turkey-chili",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2193",
+      "food_name": "Chili Con Carne with Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chili-con-carne-with-beans",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "4855",
+      "food_name": "Nachos with Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/nachos-with-chili",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2976",
+      "food_name": "Chili Beef Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chili-beef-soup",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "16648927",
+      "food_name": "White Chicken Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/white-chicken-chili",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "17780115",
+      "food_name": "White Bean Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/white-bean-chili",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2326",
+      "food_name": "Chili Con Carne with Beans and Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chili-con-carne-with-beans-and-rice",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2838",
+      "food_name": "Corny Dog with Chili on Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/corny-dog-with-chili-on-bun",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "1835",
+      "food_name": "Chili-Filled Frankfurter or Hot Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/frankfurter-or-hot-dog-chili-filled",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2196",
+      "food_name": "Chili Con Carne with Beans and Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chili-con-carne-with-beans-and-cheese",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2977",
+      "food_name": "Chunky Style Chili Beef Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chili-beef-soup-chunky-style",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "3337",
+      "food_name": "Vegetarian Chili (with Meat Substitute)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/vegetarian-chili-(made-with-meat-substitute)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2195",
+      "food_name": "Chili Con Carne with Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chili-con-carne-with-cheese",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2194",
+      "food_name": "Chili Con Carne without Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chili-con-carne-without-beans",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2227",
+      "food_name": "Frankfurter or Hot Dog with Chili (No Bun)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/frankfurter-or-hot-dog-with-chili-no-bun",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2246",
+      "food_name": "Chili Con Carne with Venison/Deer and Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chili-con-carne-with-venison-deer-and-beans",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2250",
+      "food_name": "Chili Con Carne with Chicken or Turkey and Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chili-con-carne-with-chicken-or-turkey-and-beans",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2844",
+      "food_name": "Frankfurter or Hot Dog with Chili and Cheese on Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/frankfurter-or-hot-dog-with-chili-and-cheese-on-bun",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "5798",
+      "food_name": "Baked Potato Stuffed with Chili (Peel Not Eaten)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/white-potato-stuffed-baked-peel-not-eaten-stuffed-with-chili",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "6972",
+      "food_name": "Cheese Filled Chiles ellenos ((Stuffed Chili Peppers)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chiles-rellenos-cheese-filled-(stuffed-chili-peppers)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "5570",
+      "food_name": "Guacamole with Tomatoes and Chili Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/guacamole-with-tomatoes-and-chili-peppers",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "5805",
+      "food_name": "Baked Potato Stuffed with Chili (Peel Eaten)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/white-potato-stuffed-baked-peel-eaten-stuffed-with-chili",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2231",
+      "food_name": "Chili Con Carne with Beans and Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chili-con-carne-with-beans-made-with-pork",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2317",
+      "food_name": "Chili Con Carne with Beans and Macaroni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chili-con-carne-with-beans-and-macaroni",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2843",
+      "food_name": "Frankfurter or Hot Dog with Chili on Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/frankfurter-or-hot-dog-with-chili-on-bun",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2229",
+      "food_name": "Pork with Chili and Tomatoes (Mixture) (Puerco Con Chile)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/pork-with-chili-and-tomatoes-(mixture)-(puerco-con-chile)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "3229",
+      "food_name": "Mexican Style Stewed Beans with Pork, Tomatoes and Chili Peppers (Frijoles A La Charra)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/stewed-beans-with-pork-tomatoes-and-chili-peppers-mexican-style-(frijoles-a-la-charra)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "6862",
+      "food_name": "Chiles Rellenos filled with Meat and Cheese (Stuffed Chili Peppers)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chiles-rellenos-filled-with-meat-and-cheese-(stuffed-chili-peppers)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "3214",
+      "food_name": "Barbecue, Ranch Style or Mexican Style Chili Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/chili-beans-barbecue-beans-ranch-style-beans-or-mexican--style-beans",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "3133",
+      "food_name": "Egg Omelet or Scrambled Egg with Chili, Cheese, Tomatoes and Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/egg-omelet-or-scrambled-egg-with-chili-cheese-tomatoes-and-beans",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2191",
+      "food_name": "Mexican Style Beef Stew with Chili Peppers (Carne Guisada Con Chile)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/mexican-style-beef-stew-no-potatoes-with-chili-peppers-tomato-based-sauce-(mixture)-(carne-guisada-con-chile)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "4361",
+      "food_name": "Oriental Party Mix (Chili Rice Crackers, Fried Green Peas Sesame Sticks and Peanuts)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/oriental-party-mix-with-peanuts-sesame-sticks-chili-rice-crackers-and-fried-green-peas",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "5193",
+      "food_name": "Beef Enchilada with Chili Gravy, Rice and Refried Beans (Frozen Meal)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/beef-enchilada-chili-gravy-rice-refried-beans-(frozen-meal)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "38270",
+      "food_name": "Chili with Beans (Canned)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chili-with-beans-(canned)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "39884",
+      "food_name": "Chili Con Carne",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chili-con-carne",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2845",
+      "food_name": "Pochito (Frankfurter or Hot Dog and Beef Chili Wrapped in Tortilla)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/pochito-(frankfurter-or-hot-dog-and-beef-chili-wrapped-in-tortilla)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "36846",
+      "food_name": "Red Hot Chili Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/red-hot-chili-peppers",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "39956",
+      "food_name": "Hotdog with Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/hotdog-with-chili",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "33871",
+      "food_name": "Chili Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chili-powder",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "39904",
+      "food_name": "Burrito with Beef and Chili Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/burrito-with-beef-and-chili-peppers",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "39921",
+      "food_name": "Taco Salad with Chili Con Carne",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/taco-salad-with-chili-con-carne",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "35104",
+      "food_name": "Tomato Chili Sauce (with Salt, Bottled)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/tomato-chili-sauce-(with-salt-bottled)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "40271",
+      "food_name": "Chili No Beans Entree (Canned)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chili-no-beans-entree-(canned)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34745",
+      "food_name": "Chili Beef Soup (Canned, Condensed)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chili-beef-soup-(canned-condensed)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "39909",
+      "food_name": "Chimichanga with Beef and Red Chili Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chimichanga-with-beef-and-red-chili-peppers",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "36718",
+      "food_name": "Green Hot Chili Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/green-hot-chili-peppers",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "36997",
+      "food_name": "Green Chili Peppers (Canned)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/green-chili-peppers-(canned)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "6172",
+      "food_name": "Green Tomato Chile Sauce (Salsa De Tomate Verde Cruda)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/green-tomato-chile-sauce-raw-(salsa-de-tomate-verde-cruda)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "39899",
+      "food_name": "Burrito with Beans and Chili Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/burrito-with-beans-and-chili-peppers",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "39905",
+      "food_name": "Burrito with Beef, Cheese and Chili Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/burrito-with-beef-cheese-and-chili-peppers",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "40688",
+      "food_name": "Barbeque Chili Beans (Ranch Style, Cooked)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/barbeque-chili-beans-(ranch-style-cooked)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "39910",
+      "food_name": "Chimichanga with Beef, Cheese and Red Chili Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chimichanga-with-beef-cheese-and-red-chili-peppers",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "35105",
+      "food_name": "Tomato Chili Sauce (Low Sodium, Bottled)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/tomato-chili-sauce-(low-sodium-bottled)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "36847",
+      "food_name": "Red Hot Chili Peppers (Excluding Seeds, Solids and Liquids, Canned)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/red-hot-chili-peppers-(excluding-seeds-solids-and-liquids-canned)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "36479",
+      "food_name": "Green Hot Chili Peppers (Excluding Seeds, Solids and Liquids, Canned)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/green-hot-chili-peppers-(excluding-seeds-solids-and-liquids-canned)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "39971",
+      "food_name": "Baked Potato Topped with Cheese Sauce and Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/baked-potato-topped-with-cheese-sauce-and-chili",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "35093",
+      "food_name": "Mature Red Chili Hot Peppers (Canned)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/mature-red-chili-hot-peppers-(canned)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "35094",
+      "food_name": "Immature Green Chili Hot Peppers (Canned)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/immature-green-chili-hot-peppers-(canned)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "39902",
+      "food_name": "Burrito with Beans, Cheese and Chili Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/burrito-with-beans-cheese-and-chili-peppers",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "40265",
+      "food_name": "Chili Con Carne with Beans Entree (Canned)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chili-con-carne-with-beans-entree-(canned)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "6173",
+      "food_name": "Green Tomato Chile Sauce (Salsa Verde)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/green-tomato-chile-sauce-cooked-(salsa-verde)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "34968",
+      "food_name": "Chili Beef Soup (with Equal Volume Water, Canned)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/chili-beef-soup-(with-equal-volume-water-canned)",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "36981",
+      "food_name": "Sun-Dried Hot Chile Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/usda/sun-dried-hot-chile-peppers",
+      "brand_name": "Famous Chili",
+      "food_type": "Generic"
+    }
+  ]
+}

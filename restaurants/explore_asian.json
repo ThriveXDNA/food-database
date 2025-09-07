@@ -1,0 +1,48 @@
+{
+  "restaurant": "Explore Asian",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 449,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:35:48.538Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/explore_asian.json",
+  "items": [
+    {
+      "food_id": "9130665",
+      "food_name": "Organic Edamame Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/explore-asian/organic-edamame-spaghetti",
+      "brand_name": "Explore Asian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9750674",
+      "food_name": "Organic Edamame & Mung Bean Fettuccine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/explore-asian/organic-edamame-and-mung-bean-fettuccine",
+      "brand_name": "Explore Asian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4243669",
+      "food_name": "Mung Bean Fettuchini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/explore-asian/mung-bean-fettuchini",
+      "brand_name": "Explore Asian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2342913",
+      "food_name": "Organic Black Bean Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/explore-asian/organic-black-bean-spaghetti",
+      "brand_name": "Explore Asian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13788338",
+      "food_name": "Black Bean Spaghetti with Mild Thai Red Curry Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/explore-asian/black-bean-spaghetti-with-mild-thai-red-curry-sauce",
+      "brand_name": "Explore Asian",
+      "food_type": "Brand"
+    }
+  ]
+}

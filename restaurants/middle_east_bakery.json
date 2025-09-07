@@ -1,0 +1,41 @@
+{
+  "restaurant": "Middle East Bakery",
+  "total_items": 4,
+  "pages_extracted": 2,
+  "total_search_results": 77,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:14:44.163Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/middle_east_bakery.json",
+  "items": [
+    {
+      "food_id": "2850203",
+      "food_name": "Whole Wheat Pita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/middle-east-bakery/whole-wheat-pita/1-pita",
+      "brand_name": "Middle East Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35519595",
+      "food_name": "White Pita Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/middle-east-bakery/white-pita-bread",
+      "brand_name": "Middle East Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3541846",
+      "food_name": "Whole Wheat Lavash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/middle-east-bakery/whole-wheat-lavash",
+      "brand_name": "Middle East Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "798520",
+      "food_name": "Whole Wheat Pita (1 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/middle-east-bakery/whole-wheat-pita-(1-oz)",
+      "brand_name": "Middle East Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

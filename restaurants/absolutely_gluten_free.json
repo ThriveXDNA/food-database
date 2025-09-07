@@ -1,0 +1,55 @@
+{
+  "restaurant": "Absolutely Gluten Free",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 3950,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:53:09.031Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/absolutely_gluten_free.json",
+  "items": [
+    {
+      "food_id": "5943787",
+      "food_name": "Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/absolutely-gluten-free/flatbread",
+      "brand_name": "Absolutely Gluten Free",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38108615",
+      "food_name": "Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/absolutely-gluten-free/crackers",
+      "brand_name": "Absolutely Gluten Free",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8385598",
+      "food_name": "Cauliflower Crust Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/absolutely-gluten-free/cauliflower-crust-pizza",
+      "brand_name": "Absolutely Gluten Free",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24449545",
+      "food_name": "Original Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/absolutely-gluten-free/original-crackers",
+      "brand_name": "Absolutely Gluten Free",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26508884",
+      "food_name": "Raw Coconut Chews",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/absolutely-gluten-free/raw-coconut-chews",
+      "brand_name": "Absolutely Gluten Free",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23426808",
+      "food_name": "Classic Coconut Macaroons Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/absolutely-gluten-free/classic-coconut-macaroons-chocolate",
+      "brand_name": "Absolutely Gluten Free",
+      "food_type": "Brand"
+    }
+  ]
+}

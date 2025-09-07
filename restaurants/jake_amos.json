@@ -1,0 +1,41 @@
+{
+  "restaurant": "Jake & Amos",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:00:06.832Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/jake_amos.json",
+  "items": [
+    {
+      "food_id": "41181010",
+      "food_name": "Pickled Red Beet Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jake-amos/pickled-red-beet-eggs",
+      "brand_name": "Jake & Amos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95493",
+      "food_name": "Pickled Beets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jake-and-amos/pickled-beets",
+      "brand_name": "Jake & Amos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1617804",
+      "food_name": "Corn Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jake-and-amos/corn-salsa",
+      "brand_name": "Jake & Amos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25874134",
+      "food_name": "Sweet & Hot Pepper Relish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jake-amos/sweet-hot-pepper-relish",
+      "brand_name": "Jake & Amos",
+      "food_type": "Brand"
+    }
+  ]
+}

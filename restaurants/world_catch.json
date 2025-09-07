@@ -1,0 +1,48 @@
+{
+  "restaurant": "World Catch",
+  "total_items": 5,
+  "pages_extracted": 2,
+  "total_search_results": 67,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:23:16.033Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/world_catch.json",
+  "items": [
+    {
+      "food_id": "30879",
+      "food_name": "Wild Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-catch/wild-salmon",
+      "brand_name": "World Catch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30427",
+      "food_name": "Wild Alaskan Salmon Burgers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-catch/wild-alaskan-salmon-burgers",
+      "brand_name": "World Catch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32430",
+      "food_name": "Tilapia Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-catch/tilapia-fillets",
+      "brand_name": "World Catch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46397",
+      "food_name": "Thai Citrus Dipping Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-catch/thai-citrus-dipping-sauce",
+      "brand_name": "World Catch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90433",
+      "food_name": "Wild Pacific-Caught Salmon Burgers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-catch/wild-pacific-caught-salmon-burgers",
+      "brand_name": "World Catch",
+      "food_type": "Brand"
+    }
+  ]
+}

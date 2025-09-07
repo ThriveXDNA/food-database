@@ -1,0 +1,69 @@
+{
+  "restaurant": "Authentic Asia",
+  "total_items": 8,
+  "pages_extracted": 2,
+  "total_search_results": 72,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:35:39.139Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/authentic_asia.json",
+  "items": [
+    {
+      "food_id": "61005907",
+      "food_name": "Shrimp Wonton Soup with Noodles (645 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/authentic-asia/shrimp-wonton-soup-with-noodles-(645-g)",
+      "brand_name": "Authentic Asia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17511785",
+      "food_name": "Shrimp Wonton Ramen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/authentic-asia/shrimp-wonton-ramen",
+      "brand_name": "Authentic Asia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6379534",
+      "food_name": "Shrimp Wonton Soup with Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/authentic-asia/shrimp-wonton-soup-with-noodles",
+      "brand_name": "Authentic Asia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80034679",
+      "food_name": "Hand-Wrapped Shrimp Wonton Tom Yum Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/authentic-asia/hand-wrapped-shrimp-wonton-tom-yum-soup",
+      "brand_name": "Authentic Asia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42665854",
+      "food_name": "Vegetable Pad Thai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/authentic-asia/vegetable-pad-thai",
+      "brand_name": "Authentic Asia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32981612",
+      "food_name": "Korean Inspired Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/authentic-asia/korean-inspired-beef",
+      "brand_name": "Authentic Asia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103592680",
+      "food_name": "Mango on A Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/authentic-asia/mango-on-a-stick",
+      "brand_name": "Authentic Asia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85340749",
+      "food_name": "Japanese Inspired Tatsuta-Age",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/authentic-asia/japanese-inspired-tatsuta-age",
+      "brand_name": "Authentic Asia",
+      "food_type": "Brand"
+    }
+  ]
+}

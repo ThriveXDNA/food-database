@@ -1,0 +1,62 @@
+{
+  "restaurant": "Cook House",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 416,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:10:37.132Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cook_house.json",
+  "items": [
+    {
+      "food_id": "35935850",
+      "food_name": "Asian Style Bang Bang Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-house/asian-style-bang-bang-sauce",
+      "brand_name": "Cook House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34088587",
+      "food_name": "Tikka Masala Simmer Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-house/tikka-masala-simmer-sauce",
+      "brand_name": "Cook House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23357416",
+      "food_name": "Korean Style Bulgogi Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-house/korean-style-bulgogi-sauce",
+      "brand_name": "Cook House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41328655",
+      "food_name": "Butter Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-house/butter-chicken",
+      "brand_name": "Cook House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19446783",
+      "food_name": "Slow & Low Chili Verde Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-house/slow-low-chili-verde-sauce",
+      "brand_name": "Cook House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36144454",
+      "food_name": "Slow Cooker Sauce Pub Style Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-house/slow-cooker-sauce-pub-style-pot-roast",
+      "brand_name": "Cook House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60547969",
+      "food_name": "Classic Roasted Chicken Oven Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-house/classic-roasted-chicken-oven-sauce",
+      "brand_name": "Cook House",
+      "food_type": "Brand"
+    }
+  ]
+}

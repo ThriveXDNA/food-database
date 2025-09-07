@@ -1,0 +1,90 @@
+{
+  "restaurant": "Brew Pub",
+  "total_items": 11,
+  "pages_extracted": 6,
+  "total_search_results": 569,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:21:33.190Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/brew_pub.json",
+  "items": [
+    {
+      "food_id": "7452439",
+      "food_name": "Lotzza Motzza Sausage Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brew-pub/lotzza-motzza-sausage-pizza",
+      "brand_name": "Brew Pub",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8802567",
+      "food_name": "Lotzza Motzza Four Meat Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brew-pub/lotzza-motzza-four-meat-pizza",
+      "brand_name": "Brew Pub",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27395169",
+      "food_name": "Lotzza Motzza Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brew-pub/lotzza-motzza-pepperoni-pizza",
+      "brand_name": "Brew Pub",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76848562",
+      "food_name": "BBQ Chicken Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brew-pub/bbq-chicken-pizza",
+      "brand_name": "Brew Pub",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18089811",
+      "food_name": "Lotzza Motzza Supreme Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brew-pub/lotzza-motzza-supreme-pizza",
+      "brand_name": "Brew Pub",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29857120",
+      "food_name": "Lotzza Motzza Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brew-pub/lotzza-motzza-cheese-pizza",
+      "brand_name": "Brew Pub",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25221482",
+      "food_name": "Lotzza Motzza Taco Grande Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brew-pub/lotzza-motzza-taco-grande-pizza",
+      "brand_name": "Brew Pub",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99345283",
+      "food_name": "Jalapeno Popper Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brew-pub/jalapeno-popper-pizza",
+      "brand_name": "Brew Pub",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25704319",
+      "food_name": "Lotzza Motzza Bacon Cheeseburger Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brew-pub/lotzza-motzza-bacon-cheeseburger-pizza",
+      "brand_name": "Brew Pub",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25478639",
+      "food_name": "Lotzza Motzza Chicken Alfredo Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brew-pub/lotzza-motzza-chicken-alfredo-pizza",
+      "brand_name": "Brew Pub",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88210010",
+      "food_name": "Philly Style Cheesesteak Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brew-pub/philly-style-cheesesteak-pizza",
+      "brand_name": "Brew Pub",
+      "food_type": "Brand"
+    }
+  ]
+}

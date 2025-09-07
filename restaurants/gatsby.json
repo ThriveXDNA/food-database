@@ -1,0 +1,55 @@
+{
+  "restaurant": "Gatsby",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:09:04.638Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/gatsby.json",
+  "items": [
+    {
+      "food_id": "64553310",
+      "food_name": "Sea Salt Extra Dark Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gatsby/sea-salt-extra-dark-chocolate",
+      "brand_name": "Gatsby",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76746808",
+      "food_name": "Fudge Brownie Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gatsby/fudge-brownie-chocolate-bar",
+      "brand_name": "Gatsby",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64191735",
+      "food_name": "Almond Dark Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gatsby/almond-dark-chocolate",
+      "brand_name": "Gatsby",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72835412",
+      "food_name": "Fudge Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gatsby/fudge-brownie",
+      "brand_name": "Gatsby",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64739287",
+      "food_name": "Cookies and Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gatsby/cookies-and-cream",
+      "brand_name": "Gatsby",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68229536",
+      "food_name": "Peanut Butter Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gatsby/peanut-butter-cup",
+      "brand_name": "Gatsby",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Rub with Love",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 11189,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:59:09.801Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rub_with_love.json",
+  "items": [
+    {
+      "food_id": "17472992",
+      "food_name": "Salmon Rub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rub-with-love/salmon-rub",
+      "brand_name": "Rub with Love",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70764715",
+      "food_name": "Ginger Pineapple Teriyaki Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rub-with-love/ginger-pineapple-teriyaki-sauce",
+      "brand_name": "Rub with Love",
+      "food_type": "Brand"
+    }
+  ]
+}

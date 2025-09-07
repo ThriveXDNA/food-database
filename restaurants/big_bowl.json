@@ -1,0 +1,55 @@
+{
+  "restaurant": "Big Bowl",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 3289,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:34:10.284Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/big_bowl.json",
+  "items": [
+    {
+      "food_id": "9289164",
+      "food_name": "Yellow Curry Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-bowl/yellow-curry-chicken",
+      "brand_name": "Big Bowl",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3661168",
+      "food_name": "Chicken Pot Stickers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-bowl/chicken-pot-stickers",
+      "brand_name": "Big Bowl",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5372310",
+      "food_name": "Mongolian Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-bowl/mongolian-beef",
+      "brand_name": "Big Bowl",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5203445",
+      "food_name": "Orange Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-bowl/orange-chicken",
+      "brand_name": "Big Bowl",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5203468",
+      "food_name": "Thai Hot Pepper Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-bowl/thai-hot-pepper-chicken",
+      "brand_name": "Big Bowl",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61610245",
+      "food_name": "Ginger Ale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-bowl/ginger-ale",
+      "brand_name": "Big Bowl",
+      "food_type": "Brand"
+    }
+  ]
+}

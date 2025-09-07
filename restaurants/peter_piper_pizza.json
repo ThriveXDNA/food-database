@@ -1,0 +1,67 @@
+{
+  "restaurant": "Peter Piper Pizza",
+  "total_items": 8,
+  "pages_extracted": 50,
+  "last_updated": "2025-09-06T06:55:45.294Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Restaurant search with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/peter_piper_pizza.json",
+  "items": [
+    {
+      "food_id": "3721169",
+      "food_name": "Pepperoni Pizza  (Personal)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-piper-pizza/pepperoni-pizza--(personal)",
+      "brand_name": "Peter Piper Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1277517",
+      "food_name": "Garlic Cheese Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-piper-pizza/garlic-cheese-bread",
+      "brand_name": "Peter Piper Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3135295",
+      "food_name": "Original Crust Pepperoni Pizza (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-piper-pizza/original-crust-pepperoni-pizza-(large)",
+      "brand_name": "Peter Piper Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100938685",
+      "food_name": "Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-piper-pizza/cheese-pizza",
+      "brand_name": "Peter Piper Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1878359",
+      "food_name": "Chicago Classic Pizza (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-piper-pizza/chicago-classic-pizza-(large)",
+      "brand_name": "Peter Piper Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5048224",
+      "food_name": "Chef Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-piper-pizza/chef-salad",
+      "brand_name": "Peter Piper Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7162083",
+      "food_name": "Mandarin Cranberry Salad (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-piper-pizza/mandarin-cranberry-salad-(small)",
+      "brand_name": "Peter Piper Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7937601",
+      "food_name": "Italian Chef Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-piper-pizza/italian-chef-salad",
+      "brand_name": "Peter Piper Pizza",
+      "food_type": "Brand"
+    }
+  ]
+}

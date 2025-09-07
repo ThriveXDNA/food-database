@@ -1,0 +1,90 @@
+{
+  "restaurant": "Flipz",
+  "total_items": 11,
+  "pages_extracted": 1,
+  "total_search_results": 11,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:47:06.872Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/flipz.json",
+  "items": [
+    {
+      "food_id": "989760",
+      "food_name": "Milk Chocolate Covered Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flipz/milk-chocolate-covered-pretzels",
+      "brand_name": "Flipz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54496701",
+      "food_name": "White Fudge Covered Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flipz/white-fudge-covered-pretzels",
+      "brand_name": "Flipz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "290826",
+      "food_name": "Dark Chocolate Covered Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flipz/dark-chocolate-covered-pretzels",
+      "brand_name": "Flipz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11728426",
+      "food_name": "Birthday Cake Covered Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flipz/birthday-cake-covered-pretzels",
+      "brand_name": "Flipz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17631659",
+      "food_name": "Caramel Sea Salt Covered Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flipz/caramel-sea-salt-covered-pretzels",
+      "brand_name": "Flipz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69627862",
+      "food_name": "White Fudge Peanut Butter Filled Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flipz/white-fudge-peanut-butter-filled-pretzels",
+      "brand_name": "Flipz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44866473",
+      "food_name": "Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flipz/bites",
+      "brand_name": "Flipz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53733311",
+      "food_name": "Pumpkin Spice Covered Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flipz/pumpkin-spice-covered-pretzels",
+      "brand_name": "Flipz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1005360",
+      "food_name": "Flipz Double-Dipped Peanut Butter & Chocolate Covered Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/demets/flipz-double-dipped-peanut-butter-and-chocolate-covered-pretzels",
+      "brand_name": "DeMet's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44425",
+      "food_name": "Pretzel Flipz White Fudge Covered Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nestle/pretzel-flipz-white-fudge-covered-pretzels",
+      "brand_name": "Nestle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1434871",
+      "food_name": "Flipz Milk Chocolate Covered Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/demets/flipz-milk-chocolate-covered-pretzels",
+      "brand_name": "DeMet's",
+      "food_type": "Brand"
+    }
+  ]
+}

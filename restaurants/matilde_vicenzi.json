@@ -1,0 +1,55 @@
+{
+  "restaurant": "Matilde Vicenzi",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:46:18.217Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/matilde_vicenzi.json",
+  "items": [
+    {
+      "food_id": "12589092",
+      "food_name": "Assorted Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/matilde-vicenzi/assorted-cookies",
+      "brand_name": "Matilde Vicenzi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72626894",
+      "food_name": "Vicenzovo Lady Fingers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/matilde-vicenzi/vicenzovo-lady-fingers",
+      "brand_name": "Matilde Vicenzi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11088390",
+      "food_name": "Puff Pastry with Fresh Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/matilde-vicenzi/puff-pastry-with-fresh-butter",
+      "brand_name": "Matilde Vicenzi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11088397",
+      "food_name": "Fine Decorated Pastries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/matilde-vicenzi/fine-decorated-pastries",
+      "brand_name": "Matilde Vicenzi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68107010",
+      "food_name": "Amaretto Di Matilde",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/matilde-vicenzi/amaretto-di-matilde",
+      "brand_name": "Matilde Vicenzi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56503945",
+      "food_name": "Magnifico Wafer Cubes Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/matilde-vicenzi/magnifico-wafer-cubes-vanilla",
+      "brand_name": "Matilde Vicenzi",
+      "food_type": "Brand"
+    }
+  ]
+}

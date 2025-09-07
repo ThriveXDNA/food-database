@@ -1,0 +1,27 @@
+{
+  "restaurant": "Emmber",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:13:26.680Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/emmber.json",
+  "items": [
+    {
+      "food_id": "60977",
+      "food_name": "Angus Sliced Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/emmber/angus-sliced-roast-beef",
+      "brand_name": "Emmber",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6202379",
+      "food_name": "Beef Rib Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/emmber/beef-rib-filet",
+      "brand_name": "Emmber",
+      "food_type": "Brand"
+    }
+  ]
+}

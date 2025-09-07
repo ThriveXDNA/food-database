@@ -1,0 +1,48 @@
+{
+  "restaurant": "Kountry Boys",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 14,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:59:42.024Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kountry_boys.json",
+  "items": [
+    {
+      "food_id": "2543146",
+      "food_name": "Smoked Pork and Venison Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kountry-boys/smoked-pork-and-venison-sausage",
+      "brand_name": "Kountry Boys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4574589",
+      "food_name": "Smoked Beef Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kountry-boys/smoked-beef-sausage",
+      "brand_name": "Kountry Boys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44799197",
+      "food_name": "Thick Sliced Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kountry-boys/thick-sliced-bacon",
+      "brand_name": "Kountry Boys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19747755",
+      "food_name": "Jalapeño Smoked Pork & Beef Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kountry-boys/jalape%C3%B1o-smoked-pork-beef-sausage",
+      "brand_name": "Kountry Boys",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82679839",
+      "food_name": "Original Skinless Breakfast Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kountry-boys/original-skinless-breakfast-sausage",
+      "brand_name": "Kountry Boys",
+      "food_type": "Brand"
+    }
+  ]
+}

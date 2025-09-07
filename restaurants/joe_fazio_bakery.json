@@ -1,0 +1,20 @@
+{
+  "restaurant": "Joe Fazio Bakery",
+  "total_items": 1,
+  "pages_extracted": 2,
+  "total_search_results": 97,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:15:46.652Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/joe_fazio_bakery.json",
+  "items": [
+    {
+      "food_id": "27689400",
+      "food_name": "Italian Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joe-fazio-bakery/italian-bread",
+      "brand_name": "Joe Fazio Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

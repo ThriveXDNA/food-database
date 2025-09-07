@@ -1,0 +1,62 @@
+{
+  "restaurant": "Ener-G",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 264,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:50:29.651Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ener_g.json",
+  "items": [
+    {
+      "food_id": "4996829",
+      "food_name": "Bread Crumbs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ener-g/bread-crumbs",
+      "brand_name": "Ener-G",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41085908",
+      "food_name": "Gluten Free Dinner Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ener-g/gluten-free-dinner-rolls",
+      "brand_name": "Ener-G",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45883293",
+      "food_name": "Keto Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ener-g/keto-bread",
+      "brand_name": "Ener-G",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9325104",
+      "food_name": "Sourdough White",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ener-g/sourdough-white",
+      "brand_name": "Ener-G",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33376924",
+      "food_name": "Gluten-Free Classic White Bread with Tapioca",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ener-g/gluten-free-classic-white-bread-with-tapioca",
+      "brand_name": "Ener-G",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30525887",
+      "food_name": "Gluten-Free Multigrain with Brown Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ener-g/gluten-free-multigrain-with-brown-rice",
+      "brand_name": "Ener-G",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44322929",
+      "food_name": "Light Classic White",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ener-g/light-classic-white",
+      "brand_name": "Ener-G",
+      "food_type": "Brand"
+    }
+  ]
+}

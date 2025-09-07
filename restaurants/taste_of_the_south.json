@@ -1,0 +1,69 @@
+{
+  "restaurant": "Taste of The South",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 1841,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:34:30.285Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/taste_of_the_south.json",
+  "items": [
+    {
+      "food_id": "41505232",
+      "food_name": "Fried Pickle & Ranch Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-of-the-south/fried-pickle-ranch-dip",
+      "brand_name": "Taste of the South",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64685192",
+      "food_name": "Caramelized Onion and Bacon Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-of-the-south/caramelized-onion-and-bacon-dip",
+      "brand_name": "Taste of the South",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69689882",
+      "food_name": "Fried Pickle and Ranch Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-of-the-south/fried-pickle-and-ranch-dip",
+      "brand_name": "Taste of the South",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61243426",
+      "food_name": "Slow Cooker Sausage and Cheese Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-of-the-south/slow-cooker-sausage-and-cheese-dip",
+      "brand_name": "Taste of the South",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77049497",
+      "food_name": "Smokehouse Beef Brisket Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-of-the-south/smokehouse-beef-brisket-dip",
+      "brand_name": "Taste of The South",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43996481",
+      "food_name": "Lowcountry Pimento Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-of-the-south/lowcountry-pimento-cheese",
+      "brand_name": "Taste of the South",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80818971",
+      "food_name": "Nashville Hot Chicken Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-of-the-south/nashville-hot-chicken-dip",
+      "brand_name": "Taste of The South",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71622195",
+      "food_name": "Smoked Carnitas Street Taco Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-of-the-south/smoked-carnitas-street-taco-dip",
+      "brand_name": "Taste of The South",
+      "food_type": "Brand"
+    }
+  ]
+}

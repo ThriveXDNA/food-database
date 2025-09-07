@@ -1,0 +1,34 @@
+{
+  "restaurant": "Rainier Organic Bakery",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 5552,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:15:04.233Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rainier_organic_bakery.json",
+  "items": [
+    {
+      "food_id": "5189643",
+      "food_name": "The Original Ezekiel 4:9 Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rainier-organic-bakery/the-original-ezekiel-49-bread",
+      "brand_name": "Rainier Organic Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "108219",
+      "food_name": "Sasquatch Grain & Seed Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rainier-organic-bakery/sasquatch-grain-and-seed-bread",
+      "brand_name": "Rainier Organic Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15210641",
+      "food_name": "Ezekiel 4:9 Deli Loaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rainier-organic-bakery/ezekiel-49-deli-loaf",
+      "brand_name": "Rainier Organic Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

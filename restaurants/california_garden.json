@@ -1,0 +1,62 @@
+{
+  "restaurant": "California Garden",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 1095,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:49:45.640Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/california_garden.json",
+  "items": [
+    {
+      "food_id": "29918530",
+      "food_name": "Premium Fava Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-garden/premium-fava-beans",
+      "brand_name": "California Garden",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3310816",
+      "food_name": "Fava Beans Lebanese Recipe",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-garden/fava-beans-lebanese-recipe",
+      "brand_name": "California Garden",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33065627",
+      "food_name": "Sweet Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-garden/sweet-corn",
+      "brand_name": "California Garden",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46436498",
+      "food_name": "Peeled Fava Beans Egyptian Recipe",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-garden/peeled-fava-beans-egyptian-recipe",
+      "brand_name": "California Garden",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47069573",
+      "food_name": "Tuna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-garden/tuna",
+      "brand_name": "California Garden",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26668537",
+      "food_name": "Peeled Fava Beans with Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-garden/peeled-fava-beans-with-chili",
+      "brand_name": "California Garden",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17006919",
+      "food_name": "Fava Beans Yamani Recipe",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-garden/fava-beans-yamani-recipe",
+      "brand_name": "California Garden",
+      "food_type": "Brand"
+    }
+  ]
+}

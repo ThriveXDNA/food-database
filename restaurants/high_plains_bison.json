@@ -1,0 +1,62 @@
+{
+  "restaurant": "High Plains Bison",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 570,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:14:51.222Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/high_plains_bison.json",
+  "items": [
+    {
+      "food_id": "1599578",
+      "food_name": "Ground Bison",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/high-plains-bison/ground-bison",
+      "brand_name": "High Plains Bison",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18266723",
+      "food_name": "Bison Sirloin Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/high-plains-bison/bison-sirloin-steak",
+      "brand_name": "High Plains Bison",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1571266",
+      "food_name": "Bison Rib Eye",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/high-plains-bison/bison-rib-eye",
+      "brand_name": "High Plains Bison",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2340635",
+      "food_name": "Bison Filet Mignon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/high-plains-bison/bison-filet-mignon",
+      "brand_name": "High Plains Bison",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2159086",
+      "food_name": "N.Y. Strip Bison Steaks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/high-plains-bison/ny-strip-bison-steaks",
+      "brand_name": "High Plains Bison",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1660690",
+      "food_name": "Bison Dogs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/high-plains-bison/bison-dogs",
+      "brand_name": "High Plains Bison",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "358928",
+      "food_name": "Bison Burgers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/high-plains-bison/bison-burgers",
+      "brand_name": "High Plains Bison",
+      "food_type": "Brand"
+    }
+  ]
+}

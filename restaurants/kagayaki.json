@@ -1,0 +1,20 @@
+{
+  "restaurant": "Kagayaki",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 1,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:51:02.124Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kagayaki.json",
+  "items": [
+    {
+      "food_id": "7438790",
+      "food_name": "Premium 6 Grain Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kagayaki/premium-6-grain-rice",
+      "brand_name": "Kagayaki",
+      "food_type": "Brand"
+    }
+  ]
+}

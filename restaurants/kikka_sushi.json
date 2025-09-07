@@ -1,0 +1,27 @@
+{
+  "restaurant": "Kikka Sushi",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 62,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:41:42.560Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kikka_sushi.json",
+  "items": [
+    {
+      "food_id": "29659022",
+      "food_name": "Garden Vegetable Salad Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kikka-sushi/garden-vegetable-salad-roll",
+      "brand_name": "Kikka Sushi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26595677",
+      "food_name": "Tsunami Combo Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kikka-sushi/tsunami-combo-large",
+      "brand_name": "Kikka Sushi",
+      "food_type": "Brand"
+    }
+  ]
+}

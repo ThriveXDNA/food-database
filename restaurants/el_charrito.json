@@ -1,0 +1,62 @@
+{
+  "restaurant": "El Charrito",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 24,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:49:35.974Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/el_charrito.json",
+  "items": [
+    {
+      "food_id": "4741098",
+      "food_name": "Chicken Enchilada Dinner",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-charrito/chicken-enchilada-dinner",
+      "brand_name": "El Charrito",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10654849",
+      "food_name": "Beef Taquitos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-charrito/beef-taquitos",
+      "brand_name": "El Charrito",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36492478",
+      "food_name": "Chicken Taquitos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-charrito/chicken-taquitos",
+      "brand_name": "El Charrito",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13613191",
+      "food_name": "Beef & Cheese Mini Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-charrito/beef-and-cheese-mini-tacos",
+      "brand_name": "El Charrito",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19044361",
+      "food_name": "Nacho Cheese Chicken Mini Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-charrito/nacho-cheese-chicken-mini-tacos",
+      "brand_name": "El Charrito",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2884250",
+      "food_name": "Beef Enchilada Dinner",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-charrito/beef-enchilada-dinner",
+      "brand_name": "El Charrito",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2959100",
+      "food_name": "El Charrito Beef Enchilada Dinner",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/don-miguel/el-charrito-beef-enchilada-dinner",
+      "brand_name": "Don Miguel",
+      "food_type": "Brand"
+    }
+  ]
+}

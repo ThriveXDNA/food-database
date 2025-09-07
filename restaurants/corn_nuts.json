@@ -1,0 +1,83 @@
+{
+  "restaurant": "Corn Nuts",
+  "total_items": 10,
+  "pages_extracted": 6,
+  "total_search_results": 2309,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:51:21.415Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/corn_nuts.json",
+  "items": [
+    {
+      "food_id": "2841231",
+      "food_name": "Corn Nuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corn-nuts/corn-nuts/1-3-cup",
+      "brand_name": "Corn Nuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2064530",
+      "food_name": "Ranch Corn Nuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corn-nuts/ranch-corn-nuts/1-3-cup",
+      "brand_name": "Corn Nuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2100493",
+      "food_name": "Barbecue Corn Nuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corn-nuts/barbecue-corn-nuts",
+      "brand_name": "Corn Nuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99806",
+      "food_name": "Ranch Corn Nuts (Package)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corn-nuts/ranch-corn-nuts-(package)",
+      "brand_name": "Corn Nuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1138552",
+      "food_name": "Chile Picante Con Limon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corn-nuts/chile-picante-con-limon",
+      "brand_name": "Corn Nuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62500",
+      "food_name": "Toasted Corn Snacks - Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corn-nuts/toasted-corn-snacks---original",
+      "brand_name": "Corn Nuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2043647",
+      "food_name": "Corn Nuts (Package)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corn-nuts/corn-nuts-(package)",
+      "brand_name": "Corn Nuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100239",
+      "food_name": "Chile Picante Corn Nuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corn-nuts/chile-picante-corn-nuts",
+      "brand_name": "Corn Nuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28814804",
+      "food_name": "Jalapeno Cheddar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corn-nuts/jalapeno-cheddar",
+      "brand_name": "Corn Nuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85054",
+      "food_name": "Caliente Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/corn-nuts/caliente-mix",
+      "brand_name": "Corn Nuts",
+      "food_type": "Brand"
+    }
+  ]
+}

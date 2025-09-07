@@ -1,0 +1,62 @@
+{
+  "restaurant": "La Moderna",
+  "total_items": 7,
+  "pages_extracted": 2,
+  "total_search_results": 97,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:19:30.436Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/la_moderna.json",
+  "items": [
+    {
+      "food_id": "6719705",
+      "food_name": "Fideo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-moderna/fideo",
+      "brand_name": "La Moderna",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100662996",
+      "food_name": "Shells Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-moderna/shells-pasta",
+      "brand_name": "La Moderna",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3923369",
+      "food_name": "Vermicelli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-moderna/vermicelli",
+      "brand_name": "La Moderna",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13824048",
+      "food_name": "Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-moderna/spaghetti",
+      "brand_name": "La Moderna",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "637576",
+      "food_name": "Alphabet Letters Macaroni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-moderna/alphabet-letters-macaroni",
+      "brand_name": "La Moderna",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20059826",
+      "food_name": "Stars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-moderna/stars",
+      "brand_name": "La Moderna",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "308338",
+      "food_name": "Shortbread Pecan Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-moderna/shortbread-pecan-cookies",
+      "brand_name": "La Moderna",
+      "food_type": "Brand"
+    }
+  ]
+}

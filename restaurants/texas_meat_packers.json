@@ -1,0 +1,41 @@
+{
+  "restaurant": "Texas Meat Packers",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 1315,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:34:34.827Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/texas_meat_packers.json",
+  "items": [
+    {
+      "food_id": "7504783",
+      "food_name": "Sirloin Beef For Fajitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/texas-meat-packers/sirloin-beef-for-fajitas",
+      "brand_name": "Texas Meat Packers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38469999",
+      "food_name": "Beef Street Taco Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/texas-meat-packers/beef-street-taco-meat",
+      "brand_name": "Texas Meat Packers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10257712",
+      "food_name": "Mexican Style Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/texas-meat-packers/mexican-style-beef",
+      "brand_name": "Texas Meat Packers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8026783",
+      "food_name": "Cracked Black Pepper Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/texas-meat-packers/cracked-black-pepper-chicken-breast",
+      "brand_name": "Texas Meat Packers",
+      "food_type": "Brand"
+    }
+  ]
+}

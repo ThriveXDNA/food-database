@@ -1,0 +1,909 @@
+{
+  "brand_name": "A&W",
+  "brand_id": 5,
+  "total_items": 128,
+  "pages_extracted": 20,
+  "last_updated": "2025-09-07T01:55:47.682Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Complete API compliant brand search",
+  "api_requests_used": 20,
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/a_w.json",
+  "items": [
+    {
+      "food_id": "73816709",
+      "food_name": "Root Beer - Kids - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/root-beer-kids-12-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817464",
+      "food_name": "Burger Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/burger-patty",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816967",
+      "food_name": "Root Beer Float - Small 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/root-beer-float-small-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816716",
+      "food_name": "Root Beer - Small - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/root-beer-small-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816688",
+      "food_name": "Diet Root Beer - Kid's - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/diet-root-beer-kids-12-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "170235",
+      "food_name": "Cheeseburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/aandw/cheeseburger",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817589",
+      "food_name": "Coney Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/coney-dog",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816964",
+      "food_name": "Root Beer Float - Regular 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/root-beer-float-regular-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817630",
+      "food_name": "Fries - Regular - 4 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/fries-regular-4-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817604",
+      "food_name": "Footlong Hot Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/footlong-hot-dog",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817585",
+      "food_name": "Pork Tenderloin Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/pork-tenderloin-sandwich",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816712",
+      "food_name": "Root Beer - Regular - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/root-beer-regular-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817497",
+      "food_name": "Papa Burger Double",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/papa-burger-double",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817457",
+      "food_name": "Chicken Sandwich - Hand Breaded",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/chicken-sandwich-hand-breaded",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59203",
+      "food_name": "Onion Rings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/aandw/onion-rings",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816700",
+      "food_name": "Diet Root Beer - Small - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/diet-root-beer-small-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817611",
+      "food_name": "Cheese Curds - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/cheese-curds-regular",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817466",
+      "food_name": "Double Cheeseburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/double-cheeseburger",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817453",
+      "food_name": "Chicken Sandwich - Grilled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/chicken-sandwich-grilled",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816694",
+      "food_name": "Diet Root Beer - Regular - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/diet-root-beer-regular-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817425",
+      "food_name": "Hand-Breaded Chicken Tenders - 3 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/hand-breaded-chicken-tenders-3-pieces",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817512",
+      "food_name": "Papa Burger Single",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/papa-burger-single",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817438",
+      "food_name": "Chicken Club Sandwich - Grilled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/chicken-club-sandwich-grilled",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817633",
+      "food_name": "Fries - Small - 2.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/fries-small-25-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817588",
+      "food_name": "Hot Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/hot-dog",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817591",
+      "food_name": "Coney Cheese Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/coney-cheese-dog",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817618",
+      "food_name": "Chili Cheese Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/chili-cheese-fries",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817482",
+      "food_name": "Original Bacon Cheeseburger - Double",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/original-bacon-cheeseburger-double",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817622",
+      "food_name": "Chili Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/chili-fries",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817597",
+      "food_name": "Corn Dog Nuggets - 10 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/corn-dog-nuggets-10-pieces",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817614",
+      "food_name": "Cheese Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/cheese-fries",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817494",
+      "food_name": "Original Bacon Cheeseburger - Single",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/original-bacon-cheeseburger-single",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "170233",
+      "food_name": "Hamburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/aandw/hamburger",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817514",
+      "food_name": "Mushroom Onion Melt - Burger - Double",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/mushroom-onion-melt-burger-double",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817626",
+      "food_name": "Fries - Large - 5.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/fries-large-55-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817594",
+      "food_name": "Corn Dog Nuggets - 5 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/corn-dog-nuggets-5-pieces",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817600",
+      "food_name": "Footlong Coney Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/footlong-coney-dog",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817599",
+      "food_name": "Footlong Coney Cheese Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/footlong-coney-cheese-dog",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86173022",
+      "food_name": "Hand-Breaded Chicken Tender Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/hand-breaded-chicken-tender-sandwich",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816687",
+      "food_name": "Diet Root Beer - 1 Gallon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/diet-root-beer-1-gallon",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "170237",
+      "food_name": "Crispy Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/aandw/crispy-chicken-sandwich",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816711",
+      "food_name": "Root Beer - Large - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/root-beer-large-32-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18688678",
+      "food_name": "Fish Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/fish-sandwich",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817435",
+      "food_name": "Hand-Breaded Chicken Tenders - 5 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/hand-breaded-chicken-tenders-5-pieces",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816726",
+      "food_name": "Diet Root Beer Float - Small 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/diet-root-beer-float-small-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84577489",
+      "food_name": "on The Go Drink Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/on-the-go-drink-mix",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817665",
+      "food_name": "Hot Fudge Sundae - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/hot-fudge-sundae-regular",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816963",
+      "food_name": "Root Beer Float - Large 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/root-beer-float-large-32-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817159",
+      "food_name": "Root Beer Freeze - Small 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/root-beer-freeze-small-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816724",
+      "food_name": "Diet Root Beer Float - Regular 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/diet-root-beer-float-regular-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817262",
+      "food_name": "Chocolate Sundae - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/chocolate-sundae-regular",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817168",
+      "food_name": "Chocolate Shake - Small 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/chocolate-shake-small-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817462",
+      "food_name": "Crispy Chicken Club",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/crispy-chicken-club",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816691",
+      "food_name": "Diet Root Beer - Large - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/diet-root-beer-large-32-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816721",
+      "food_name": "Diet Root Beer Float - Large 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/diet-root-beer-float-large-32-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817166",
+      "food_name": "Chocolate Shake - Regular 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/chocolate-shake-regular-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817331",
+      "food_name": "Vanilla Cone - Kids - 4 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/vanilla-cone-kids-4-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817524",
+      "food_name": "Mushroom Onion Melt - Burger - Single",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/mushroom-onion-melt-burger-single",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817609",
+      "food_name": "Cheese Curds - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/cheese-curds-large",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817169",
+      "food_name": "Strawberry Shake - Large 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/strawberry-shake-large-32-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817451",
+      "food_name": "Chicken Club Sandwich - Hand Breaded",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/chicken-club-sandwich-hand-breaded",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817625",
+      "food_name": "Coleslaw - 3 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/coleslaw-3-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817177",
+      "food_name": "Strawberry Shake - Regular 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/strawberry-shake-regular-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817380",
+      "food_name": "Vanilla Cone - Regular - 5.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/vanilla-cone-regular-55-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817421",
+      "food_name": "Root Beer Cone - Kids - 4 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/root-beer-cone-kids-4-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96390886",
+      "food_name": "Double Mozza Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/double-mozza-burger",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817155",
+      "food_name": "Root Beer Freeze - Regular 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/root-beer-freeze-regular-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817186",
+      "food_name": "Vanilla Shake - Regular 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/vanilla-shake-regular-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817636",
+      "food_name": "Mott's Applesauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/motts-applesauce",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817637",
+      "food_name": "BBQ Sauce - 1 oz Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/bbq-sauce-1-oz-cup",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817639",
+      "food_name": "Buttermilk Ranch - 1 oz Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/buttermilk-ranch-1-oz-cup",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817197",
+      "food_name": "Cookie Dough Polar Swirl - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/cookie-dough-polar-swirl-12-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817417",
+      "food_name": "Chocolate Cone - Regular - 5.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/chocolate-cone-regular-55-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817643",
+      "food_name": "Honey Mustard - 1 oz Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/honey-mustard-1-oz-cup",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817667",
+      "food_name": "Mushroom Onion Melt - Texas Toast Single",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/mushroom-onion-melt-texas-toast-single",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86173020",
+      "food_name": "Grilled Chicken Tender Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/grilled-chicken-tender-sandwich",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86173031",
+      "food_name": "Straweberry Watermelon Cream Freeze Regular - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/straweberry-watermelon-cream-freeze-regular-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816729",
+      "food_name": "Orange Float - Large 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/orange-float-large-32-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816933",
+      "food_name": "Orange Float - Small - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/orange-float-small-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817090",
+      "food_name": "Orange Freeze - Regular - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/orange-freeze-regular-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817094",
+      "food_name": "Root Beer Freeze - Large 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/root-beer-freeze-large-32-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817191",
+      "food_name": "Cookie Dough Polar Swirl - Mini - 6 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/cookie-dough-polar-swirl-mini-6-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817201",
+      "food_name": "M&M Polar Swirl - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/m-m-polar-swirl-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817249",
+      "food_name": "Oreo Polar Swirl - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/oreo-polar-swirl-12-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817426",
+      "food_name": "Freezer to Fryer Chicken Tenders - 3 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/freezer-to-fryer-chicken-tenders-3-pieces",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817535",
+      "food_name": "Mushroom Onion Melt - Texas Toast Double",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/mushroom-onion-melt-texas-toast-double",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86173025",
+      "food_name": "Cap'n Crunch Cereal Milk Shake Small - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/capn-crunch-cereal-milk-shake-small-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86173027",
+      "food_name": "Boursin Cheeseburger - Double",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/boursin-cheeseburger-double",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86173032",
+      "food_name": "Straweberry Watermelon Cream Freeze Small - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/straweberry-watermelon-cream-freeze-small-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816682",
+      "food_name": "Diet Root Beer - 1/2 Gallon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/diet-root-beer-1-2-gallon",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816930",
+      "food_name": "Orange Float - Regular 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/orange-float-regular-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817162",
+      "food_name": "Chocolate Shake - Large 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/chocolate-shake-large-32-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817264",
+      "food_name": "Hot Caramel Sundae - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/hot-caramel-sundae-regular",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817287",
+      "food_name": "Strawberry Sundae - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/strawberry-sundae-regular",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817412",
+      "food_name": "Chocolate Cone - Kids - 4 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/chocolate-cone-kids-4-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817422",
+      "food_name": "Root Beer Cone - Regular - 5.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/root-beer-cone-regular-55-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817526",
+      "food_name": "Mushroom Onion Melt - Chicken - Grilled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/mushroom-onion-melt-chicken-grilled",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817644",
+      "food_name": "Spicy Papa Sauce - 1 oz Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/spicy-papa-sauce-1-oz-cup",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817657",
+      "food_name": "Diet Root Beer Freeze - Large 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/diet-root-beer-freeze-large-32-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816707",
+      "food_name": "Root Beer - 1 Gallon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/root-beer-1-gallon",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817085",
+      "food_name": "Diet Root Beer Freeze - Small 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/diet-root-beer-freeze-small-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817093",
+      "food_name": "Orange Freeze - Small - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/orange-freeze-small-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817178",
+      "food_name": "Strawberry Shake - Small 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/strawberry-shake-small-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817180",
+      "food_name": "Vanilla Shake - Large 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/vanilla-shake-large-32-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817188",
+      "food_name": "Vanilla Shake - Small 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/vanilla-shake-small-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817189",
+      "food_name": "Cookie Dough Polar Swirl - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/cookie-dough-polar-swirl-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817194",
+      "food_name": "Cookie Dough Polar Swirl - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/cookie-dough-polar-swirl-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817205",
+      "food_name": "M&M Polar Swirl - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/m-m-polar-swirl-12-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817207",
+      "food_name": "Oreo Polar Swirl - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/oreo-polar-swirl-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817209",
+      "food_name": "Oreo Polar Swirl - Mini - 6 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/oreo-polar-swirl-mini-6-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817253",
+      "food_name": "Reese's Peanut Butter Cup Polar Swirl - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/reeses-peanut-butter-cup-polar-swirl-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817257",
+      "food_name": "Reese's Peanut Butter Cup Polar Swirl - Mini - 6 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/reeses-peanut-butter-cup-polar-swirl-mini-6-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817261",
+      "food_name": "Reese's Peanut Butter Cup Polar Swirl - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/reeses-peanut-butter-cup-polar-swirl-12-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817532",
+      "food_name": "Mushroom Onion Melt - Chicken - Hand-Breaded",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/mushroom-onion-melt-chicken-hand-breaded",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817608",
+      "food_name": "Shrimp - 16 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/shrimp-16-pieces",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817658",
+      "food_name": "Diet Root Beer Freeze - Regular 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/diet-root-beer-freeze-regular-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86173023",
+      "food_name": "Cap'n Crunch Cereal Milk Shake Large - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/capn-crunch-cereal-milk-shake-large-32-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86173024",
+      "food_name": "Cap'n Crunch Cereal Milk Shake Medium - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/capn-crunch-cereal-milk-shake-medium-20-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86173036",
+      "food_name": "Tartar Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/tartar-sauce",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82643309",
+      "food_name": "Cream Soda",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/cream-soda",
+      "brand_name": "A&w",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816701",
+      "food_name": "Root Beer - 1/2 Gallon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/root-beer-1-2-gallon",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817087",
+      "food_name": "Orange Freeze - Large - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/orange-freeze-large-32-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817202",
+      "food_name": "M&M Polar Swirl - Mini - 6 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/m-m-polar-swirl-mini-6-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817204",
+      "food_name": "M&M Polar Swirl - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/m-m-polar-swirl-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817210",
+      "food_name": "Oreo Polar Swirl - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/oreo-polar-swirl-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73817259",
+      "food_name": "Reese's Peanut Butter Cup Polar Swirl - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/reeses-peanut-butter-cup-polar-swirl-16-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86173029",
+      "food_name": "Boursin Cheeseburger - Single",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/boursin-cheeseburger-single",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86173030",
+      "food_name": "Straweberry Watermelon Cream Freeze Large - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-w/straweberry-watermelon-cream-freeze-large-32-oz",
+      "brand_name": "A&W",
+      "food_type": "Brand"
+    }
+  ]
+}

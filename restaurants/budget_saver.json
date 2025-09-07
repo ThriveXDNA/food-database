@@ -1,0 +1,55 @@
+{
+  "restaurant": "Budget Saver",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:57:53.372Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/budget_saver.json",
+  "items": [
+    {
+      "food_id": "2098591",
+      "food_name": "Monster Pops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/budget-saver/monster-pops",
+      "brand_name": "Budget Saver",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "568327",
+      "food_name": "Banana Twin Pops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/budget-saver/banana-twin-pops",
+      "brand_name": "Budget Saver",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12525726",
+      "food_name": "Sugar Free Monster Pops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/budget-saver/sugar-free-monster-pops",
+      "brand_name": "Budget Saver",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "568336",
+      "food_name": "Assorted Twin Pops (Orange, Cherry, Grape, Banana, Blue Raspberry, Lime)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/budget-saver/assorted-twin-pops-(orange-cherry-grape-banana-blue-raspberry-lime)",
+      "brand_name": "Budget Saver",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "646120",
+      "food_name": "Sugar Free Twin Pops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/budget-saver/sugar-free-twin-pops",
+      "brand_name": "Budget Saver",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46255402",
+      "food_name": "Monster Cherry-Mango Pops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/budget-saver/monster-cherry-mango-pops",
+      "brand_name": "Budget Saver",
+      "food_type": "Brand"
+    }
+  ]
+}

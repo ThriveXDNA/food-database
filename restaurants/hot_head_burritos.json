@@ -1,0 +1,76 @@
+{
+  "restaurant": "Hot Head Burritos",
+  "total_items": 9,
+  "pages_extracted": 6,
+  "total_search_results": 2941,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:33:46.100Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/hot_head_burritos.json",
+  "items": [
+    {
+      "food_id": "7606759",
+      "food_name": "Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hot-head-burritos/chicken",
+      "brand_name": "Hot Head Burritos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5474422",
+      "food_name": "Shredded Monterey Jack Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hot-head-burritos/shredded-monterey-jack-cheese",
+      "brand_name": "Hot Head Burritos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7122892",
+      "food_name": "Li'l Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hot-head-burritos/lil-bowl",
+      "brand_name": "Hot Head Burritos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5474413",
+      "food_name": "Corn Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hot-head-burritos/corn-salsa",
+      "brand_name": "Hot Head Burritos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7239800",
+      "food_name": "Hot Head Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hot-head-burritos/hot-head-sauce",
+      "brand_name": "Hot Head Burritos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6778703",
+      "food_name": "Li'l Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hot-head-burritos/lil-burrito",
+      "brand_name": "Hot Head Burritos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5474419",
+      "food_name": "Shredded Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hot-head-burritos/shredded-cheddar-cheese",
+      "brand_name": "Hot Head Burritos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5474405",
+      "food_name": "Barbacoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hot-head-burritos/barbacoa",
+      "brand_name": "Hot Head Burritos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5474398",
+      "food_name": "Soft Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hot-head-burritos/soft-taco",
+      "brand_name": "Hot Head Burritos",
+      "food_type": "Brand"
+    }
+  ]
+}

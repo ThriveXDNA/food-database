@@ -1,0 +1,41 @@
+{
+  "brand_name": "Artisan Bakers",
+  "total_items": 4,
+  "pages_extracted": 4,
+  "total_search_results": 190,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:02:35.631Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/artisan_bakers.json",
+  "items": [
+    {
+      "food_id": "38173674",
+      "food_name": "Keto Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-bakers/keto-bread",
+      "brand_name": "Artisan Bakers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55487467",
+      "food_name": "Organic Sourdough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-bakers/organic-sourdough",
+      "brand_name": "Artisan Bakers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35849107",
+      "food_name": "Organic Super Seed Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-bakers/organic-super-seed-bread",
+      "brand_name": "Artisan Bakers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49804340",
+      "food_name": "Multi Seed Keto Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-bakers/multi-seed-keto-bread",
+      "brand_name": "Artisan Bakers",
+      "food_type": "Brand"
+    }
+  ]
+}

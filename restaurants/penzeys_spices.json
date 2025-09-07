@@ -1,0 +1,27 @@
+{
+  "restaurant": "Penzeys Spices",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 47,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:33:33.552Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/penzeys_spices.json",
+  "items": [
+    {
+      "food_id": "4694035",
+      "food_name": "Natural High Fat Cocoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/penzeys-spices/natural-high-fat-cocoa",
+      "brand_name": "Penzeys Spices",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58771415",
+      "food_name": "Original Taco Seasoning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/penzeys-spices/original-taco-seasoning",
+      "brand_name": "Penzeys Spices",
+      "food_type": "Brand"
+    }
+  ]
+}

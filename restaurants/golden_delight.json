@@ -1,0 +1,34 @@
+{
+  "restaurant": "Golden Delight",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 748,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:32:23.665Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/golden_delight.json",
+  "items": [
+    {
+      "food_id": "13415184",
+      "food_name": "Vegetable Potstickers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-delight/vegetable-potstickers",
+      "brand_name": "Golden Delight",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21469479",
+      "food_name": "Chicken Yakitori Potstickers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-delight/chicken-yakitori-potstickers",
+      "brand_name": "Golden Delight",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22352762",
+      "food_name": "Thai Style Chicken Potstickers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-delight/thai-style-chicken-potstickers",
+      "brand_name": "Golden Delight",
+      "food_type": "Brand"
+    }
+  ]
+}

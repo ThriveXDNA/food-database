@@ -1,0 +1,83 @@
+{
+  "restaurant": "Artisan Bistro",
+  "total_items": 10,
+  "pages_extracted": 6,
+  "total_search_results": 295,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:29:17.554Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/artisan_bistro.json",
+  "items": [
+    {
+      "food_id": "7128709",
+      "food_name": "Thai Style Yellow Curry with Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-bistro/thai-style-yellow-curry-with-chicken",
+      "brand_name": "Artisan Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7549901",
+      "food_name": "Ginger Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-bistro/ginger-chicken",
+      "brand_name": "Artisan Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9412416",
+      "food_name": "Wild Alaskan Salmon Bake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-bistro/wild-alaskan-salmon-bake",
+      "brand_name": "Artisan Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8850118",
+      "food_name": "Chicken Romano",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-bistro/chicken-romano",
+      "brand_name": "Artisan Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5213070",
+      "food_name": "Chicken Verde",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-bistro/chicken-verde",
+      "brand_name": "Artisan Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47727259",
+      "food_name": "Grilled Chicken Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-bistro/grilled-chicken-burrito",
+      "brand_name": "Artisan Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8112616",
+      "food_name": "Chicken Parmesan Bake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-bistro/chicken-parmesan-bake",
+      "brand_name": "Artisan Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22229819",
+      "food_name": "Grilled Beef Steak Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-bistro/grilled-beef-steak-burrito",
+      "brand_name": "Artisan Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8058835",
+      "food_name": "Alaskan Salmon Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-bistro/alaskan-salmon-cake",
+      "brand_name": "Artisan Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50065503",
+      "food_name": "3 Bean & Cheddar Cheese Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artisan-bistro/3-bean-cheddar-cheese-burrito",
+      "brand_name": "Artisan Bistro",
+      "food_type": "Brand"
+    }
+  ]
+}

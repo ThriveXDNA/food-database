@@ -1,0 +1,41 @@
+{
+  "restaurant": "Cheeburger Cheeburger",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:12:52.528Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cheeburger_cheeburger.json",
+  "items": [
+    {
+      "food_id": "901952",
+      "food_name": "The Classic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cheeburger-cheeburger/the-classic",
+      "brand_name": "Cheeburger Cheeburger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72005",
+      "food_name": "The Semi Serious (No Bun)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cheeburger-cheeburger/the-semi-serious-(no-bun)",
+      "brand_name": "Cheeburger Cheeburger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3442766",
+      "food_name": "Fries (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cheeburger-cheeburger/fries-(small)",
+      "brand_name": "Cheeburger Cheeburger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2722865",
+      "food_name": "Onion Rings (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cheeburger-cheeburger/onion-rings-(small)",
+      "brand_name": "Cheeburger Cheeburger",
+      "food_type": "Brand"
+    }
+  ]
+}

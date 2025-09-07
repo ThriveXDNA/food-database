@@ -1,0 +1,97 @@
+{
+  "restaurant": "Izzio",
+  "total_items": 12,
+  "pages_extracted": 1,
+  "total_search_results": 12,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:29:20.047Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/izzio.json",
+  "items": [
+    {
+      "food_id": "26507693",
+      "food_name": "Sourdough Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/izzio/sourdough-bread",
+      "brand_name": "Izzio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70936837",
+      "food_name": "Everything Sourdough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/izzio/everything-sourdough",
+      "brand_name": "Izzio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25751832",
+      "food_name": "San Francisco Style Sourdough Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/izzio/san-francisco-style-sourdough-bread",
+      "brand_name": "Izzio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84098225",
+      "food_name": "San Francisco Style Sourdough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/izzio/san-francisco-style-sourdough",
+      "brand_name": "Izzio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78821887",
+      "food_name": "Honey & Oats Sourdough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/izzio/honey-oats-sourdough",
+      "brand_name": "Izzio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77145801",
+      "food_name": "Lucky 7 Multigrain Sourdough (35g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/izzio/lucky-7-multigrain-sourdough-(35g)",
+      "brand_name": "Izzio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75500467",
+      "food_name": "Rustic Potato Sourdough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/izzio/rustic-potato-sourdough",
+      "brand_name": "Izzio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31110854",
+      "food_name": "Lucky Seven Multigrain",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/izzio/lucky-seven-multigrain",
+      "brand_name": "Izzio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20610706",
+      "food_name": "Italian Country Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/izzio/italian-country-bread",
+      "brand_name": "Izzio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74726107",
+      "food_name": "Everything Artisan Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/izzio/everything-artisan-rolls",
+      "brand_name": "Izzio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90551809",
+      "food_name": "Rosemary Garlic Focaccia",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/izzio/rosemary-garlic-focaccia",
+      "brand_name": "Izzio",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21889359",
+      "food_name": "Chia Cracked Rye Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/izzio/chia-cracked-rye-bread",
+      "brand_name": "Izzio",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "restaurant": "River Queen",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 46,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:06:34.520Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/river_queen.json",
+  "items": [
+    {
+      "food_id": "142567",
+      "food_name": "Dry Roasted Unsalted Sunflower Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/river-queen/dry-roasted-unsalted-sunflower-seeds",
+      "brand_name": "River Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1565981",
+      "food_name": "Dry Roasted Unsalted Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/river-queen/dry-roasted-unsalted-peanuts",
+      "brand_name": "River Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58608190",
+      "food_name": "Salted Premium Mixed Nuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/river-queen/salted-premium-mixed-nuts",
+      "brand_name": "River Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1400810",
+      "food_name": "Fancy Salted Cashews",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/river-queen/fancy-salted-cashews",
+      "brand_name": "River Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2793219",
+      "food_name": "Lightly Salted Dry Roasted Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/river-queen/lightly-salted-dry-roasted-peanuts",
+      "brand_name": "River Queen",
+      "food_type": "Brand"
+    }
+  ]
+}

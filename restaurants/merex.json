@@ -1,0 +1,20 @@
+{
+  "restaurant": "Merex",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 1,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:42:26.008Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/merex.json",
+  "items": [
+    {
+      "food_id": "4910465",
+      "food_name": "Fresh Blueberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/merex/fresh-blueberries",
+      "brand_name": "Merex",
+      "food_type": "Brand"
+    }
+  ]
+}

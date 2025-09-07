@@ -1,0 +1,1784 @@
+{
+  "restaurant": "Chick-Fil-A",
+  "total_items": 253,
+  "pages_extracted": 7,
+  "total_search_results": 869,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:30:36.908Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/chick_fil_a.json",
+  "items": [
+    {
+      "food_id": "68721802",
+      "food_name": "Chick-fil-A Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-chicken-sandwich",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752654",
+      "food_name": "12 Ct Grilled Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/12-ct-grilled-nuggets",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752649",
+      "food_name": "8 Ct Grilled Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/8-ct-grilled-nuggets",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3373280",
+      "food_name": "Grilled Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/grilled-chicken-sandwich",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752626",
+      "food_name": "8 ct Chick-fil-A Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/8-ct-chick-fil-a-nuggets",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32997402",
+      "food_name": "Spicy Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-chicken-sandwich",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59517",
+      "food_name": "Chick-fil-A Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-sauce",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752635",
+      "food_name": "12 Ct Chick-Fil-A Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/12-ct-chick-fil-a-nuggets",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33708769",
+      "food_name": "Kale Crunch Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/kale-crunch-side",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27962459",
+      "food_name": "Zesty Buffalo Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/zesty-buffalo-sauce",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13040701",
+      "food_name": "Egg White Grill",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/egg-white-grill",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68722133",
+      "food_name": "5 Ct Chick-Fil-A Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/5-ct-chick-fil-a-nuggets",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058567",
+      "food_name": "Chick-Fil-A Waffle Potato Fries - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-waffle-potato-fries-medium",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720420",
+      "food_name": "Chick-Fil-A Chicken Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-chicken-biscuit",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60127",
+      "food_name": "Honey Mustard Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/honey-mustard-sauce",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706360",
+      "food_name": "Hash Browns - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-browns-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752670",
+      "food_name": "4 Ct Chick-Fil-A Chick-N-Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/4-ct-chick-fil-a-chick-n-strips",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720441",
+      "food_name": "4 Ct Chick-Fil-A Chick-N-Minis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/4-ct-chick-fil-a-chick-n-minis",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752645",
+      "food_name": "5 Ct Grilled Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/5-ct-grilled-nuggets",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52561",
+      "food_name": "Honey Roasted BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/honey-roasted-bbq-sauce",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752664",
+      "food_name": "3 Ct Chick-Fil-A Chick-N-Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/3-ct-chick-fil-a-chick-n-strips",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69234365",
+      "food_name": "Avocado Lime Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/avocado-lime-ranch-dressing",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7180606",
+      "food_name": "Chocolate Chunk Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chocolate-chunk-cookie",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47813",
+      "food_name": "Polynesian Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/polynesian-sauce",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5513824",
+      "food_name": "Cobb Salad w/ Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/cobb-salad-w-nuggets",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754066",
+      "food_name": "Barbeque Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/barbeque-sauce",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68721929",
+      "food_name": "Spicy Deluxe Sandwich w/ Pepper Jack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-deluxe-sandwich-w-pepper-jack",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754070",
+      "food_name": "Garden Herb Ranch Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/garden-herb-ranch-sauce",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058534",
+      "food_name": "Chick-Fil-A Waffle Potato Fries - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-waffle-potato-fries-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720963",
+      "food_name": "Greek Yogurt Parfait w/ Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/greek-yogurt-parfait-w-granola",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752677",
+      "food_name": "Chick-fil-A Cool Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-cool-wrap",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706928",
+      "food_name": "Chick-Fil-A Cool Wrap - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-cool-wrap-half",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8074164",
+      "food_name": "Waffle Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/waffle-potato-chips",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754071",
+      "food_name": "Sweet & Spicy Sriracha Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sweet-spicy-sriracha-sauce",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754097",
+      "food_name": "Grilled Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/grilled-filet",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752659",
+      "food_name": "2 Ct Chick-Fil-A Chick-N-Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/2-ct-chick-fil-a-chick-n-strips",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34385837",
+      "food_name": "Spicy Chicken Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-chicken-biscuit",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68722000",
+      "food_name": "Spicy Deluxe Sandwich w/ American",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-deluxe-sandwich-w-american",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706860",
+      "food_name": "Chick-Fil-A Nugget",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-nugget",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706937",
+      "food_name": "Spicy Cool Wrap - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-cool-wrap-half",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68721854",
+      "food_name": "Chick-fil-A Deluxe Sandwich w/ American",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-deluxe-sandwich-w-american",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68753688",
+      "food_name": "Chick-Fil-A Icedream Cone",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-icedream-cone",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754111",
+      "food_name": "Chick-fil-A Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-filet",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68753521",
+      "food_name": "Cookies & Cream Milkshake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/cookies-cream-milkshake",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058619",
+      "food_name": "Mac & Cheese - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/mac-cheese-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33115206",
+      "food_name": "Side Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/side-salad",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68753612",
+      "food_name": "Chocolate Milkshake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chocolate-milkshake",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706820",
+      "food_name": "Fat-Free Honey Mustard Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/fat-free-honey-mustard-dressing",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36463999",
+      "food_name": "Garden Herb Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/garden-herb-ranch-dressing",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058594",
+      "food_name": "Chick-Fil-A Waffle Potato Fries - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-waffle-potato-fries-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68722077",
+      "food_name": "Grilled Chicken Club w/ American",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/grilled-chicken-club-w-american",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706390",
+      "food_name": "30 ct Grilled Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/30-ct-grilled-nuggets",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41570921",
+      "food_name": "Chocolate Fudge Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chocolate-fudge-brownie",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752691",
+      "food_name": "Cobb Salad w/ Grilled Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/cobb-salad-w-grilled-nuggets",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31849769",
+      "food_name": "Spicy Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-filet",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68722052",
+      "food_name": "Grilled Chicken Club w/ Colby Jack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/grilled-chicken-club-w-colby-jack",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68753691",
+      "food_name": "Chick-fil-A Icedream Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-icedream-cup",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706712",
+      "food_name": "Vanilla Iced Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/vanilla-iced-coffee",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84178582",
+      "food_name": "Peach Milkshake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/peach-milkshake",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720810",
+      "food_name": "Hash Brown Scramble Bowl w/ Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-bowl-w-nuggets",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058665",
+      "food_name": "Mac & Cheese - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/mac-cheese-medium",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754082",
+      "food_name": "Grilled Breakfast Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/grilled-breakfast-filet",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68722081",
+      "food_name": "Grilled Chicken Club w/ Pepper Jack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/grilled-chicken-club-w-pepper-jack",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68753631",
+      "food_name": "Strawberry Milkshake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/strawberry-milkshake",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60095",
+      "food_name": "Bacon, Egg & Cheese Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/bacon-egg-and-cheese-biscuit",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68753503",
+      "food_name": "Frosted Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/frosted-coffee",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4809358",
+      "food_name": "Light Italian Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/light-italian-dressing",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68753682",
+      "food_name": "Vanilla Milkshake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/vanilla-milkshake",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5452872",
+      "food_name": "Zesty Apple Cider Vinaigrette Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/zesty-apple-cider-vinaigrette-dressing",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9601658",
+      "food_name": "Creamy Salsa Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/creamy-salsa-dressing",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720864",
+      "food_name": "Chicken, Egg & Cheese Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chicken-egg-cheese-biscuit",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104055446",
+      "food_name": "Fruit Cup - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/fruit-cup-medium",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11419111",
+      "food_name": "Light Balsamic Vinaigrette Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/light-balsamic-vinaigrette-dressing",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53991202",
+      "food_name": "Hash Brown Scramble Burrito w/ Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-burrito-w-nuggets",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706377",
+      "food_name": "4 ct Mini Yeast Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/4-ct-mini-yeast-rolls",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754117",
+      "food_name": "Tomato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/tomato",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68753492",
+      "food_name": "Frosted Lemonade w/ Diet Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/frosted-lemonade-w-diet-lemonade",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706443",
+      "food_name": "Spicy Southwest Salad w/ Spicy Grilled Filet (Cold)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-southwest-salad-w-spicy-grilled-filet-(cold)",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98232742",
+      "food_name": "Pineapple Dragonfruit Diet Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/pineapple-dragonfruit-diet-lemonade",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706581",
+      "food_name": "Market Salad w/ Grilled Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/market-salad-w-grilled-nuggets",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752641",
+      "food_name": "30 Ct Chick-Fil-A Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/30-ct-chick-fil-a-nuggets",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752827",
+      "food_name": "Spicy Southwest Salad w/ Spicy Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-southwest-salad-w-spicy-filet",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68722009",
+      "food_name": "Spicy Deluxe Sandwich w/ Colby Jack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-deluxe-sandwich-w-colby-jack",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2875368",
+      "food_name": "Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/bacon",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60171",
+      "food_name": "Harvest Nut Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/harvest-nut-granola",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706332",
+      "food_name": "Chicken, Egg & Cheese Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chicken-egg-cheese-muffin",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754085",
+      "food_name": "Chick-fil-A Breakfast Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-breakfast-filet",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752717",
+      "food_name": "Cobb Salad w/ Chick-fil-A Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/cobb-salad-w-chick-fil-a-filet",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720499",
+      "food_name": "10 Ct Chick-Fil-A Chick-N-Minis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/10-ct-chick-fil-a-chick-n-minis",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720947",
+      "food_name": "Greek Yogurt Parfait w/ Cookie Crumbs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/greek-yogurt-parfait-w-cookie-crumbs",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720880",
+      "food_name": "Sausage, Egg & Cheese Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sausage-egg-cheese-biscuit",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104055354",
+      "food_name": "Fruit Cup - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/fruit-cup-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68721859",
+      "food_name": "Chick-fil-A Deluxe Sandwich w/ Colby Jack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-deluxe-sandwich-w-colby-jack",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720562",
+      "food_name": "Hash Brown Scramble Burrito w/ Spicy Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-burrito-w-spicy-chicken",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98970476",
+      "food_name": "Berry Parfait w/ Cookie Crumbs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/berry-parfait-w-cookie-crumbs",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706880",
+      "food_name": "Chilled Chick-n-Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chilled-chick-n-strips",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720904",
+      "food_name": "Bacon, Egg & Cheese Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/bacon-egg-cheese-muffin",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720941",
+      "food_name": "Sausage, Egg & Cheese Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sausage-egg-cheese-muffin",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059206",
+      "food_name": "Chick-Fil-A Diet Lemonade - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-diet-lemonade-medium",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720825",
+      "food_name": "Hash Brown Scramble Bowl w/ Grilled Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-bowl-w-grilled-filet",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68721895",
+      "food_name": "Chick-fil-A Deluxe Sandwich w/ Pepper Jack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-deluxe-sandwich-w-pepper-jack",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48505633",
+      "food_name": "American Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/american-cheese",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754093",
+      "food_name": "Spicy Breakfast Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-breakfast-filet",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68753827",
+      "food_name": "Iced Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/iced-coffee",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706934",
+      "food_name": "Southwest Veggie Wrap - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/southwest-veggie-wrap-half",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752750",
+      "food_name": "Spicy Southwest Salad w/ Grilled Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-southwest-salad-w-grilled-nuggets",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754129",
+      "food_name": "Crispy Bell Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/crispy-bell-peppers",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058785",
+      "food_name": "5 ct Nuggets Kid's Meal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/5-ct-nuggets-kids-meal",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706519",
+      "food_name": "Market Salad w/ Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/market-salad-w-nuggets",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104917315",
+      "food_name": "Grilled Chicken Cool Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/grilled-chicken-cool-wrap",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68722032",
+      "food_name": "Spicy Deluxe Sandwich w/ No Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-deluxe-sandwich-w-no-cheese",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059003",
+      "food_name": "Freshly-Brewed Iced Tea Sweetened - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/freshly-brewed-iced-tea-sweetened-medium",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752697",
+      "food_name": "Cobb Salad w/ Chick-fil-A Chick-n-Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/cobb-salad-w-chick-fil-a-chick-n-strips",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752746",
+      "food_name": "Spicy Southwest Salad w/ Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-southwest-salad-w-nuggets",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706302",
+      "food_name": "Hash Brown Scramble Bowl w/ Grilled Filet - No Hash Browns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-bowl-w-grilled-filet-no-hash-browns",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104055462",
+      "food_name": "Fruit Cup - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/fruit-cup-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720815",
+      "food_name": "Hash Brown Scramble Bowl w/ Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-bowl-w-sausage",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752719",
+      "food_name": "Cobb Salad w/ Spicy Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/cobb-salad-w-spicy-filet",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706607",
+      "food_name": "Market Salad w/ Chick-fil-A Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/market-salad-w-chick-fil-a-filet",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059145",
+      "food_name": "Chick-Fil-A Lemonade - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-lemonade-medium",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68721916",
+      "food_name": "Chick-fil-A Deluxe Sandwich w/ No Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-deluxe-sandwich-w-no-cheese",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720548",
+      "food_name": "Hash Brown Scramble Burrito w/ Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-burrito-w-sausage",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059221",
+      "food_name": "Chick-Fil-A Diet Lemonade - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-diet-lemonade-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059139",
+      "food_name": "Chick-Fil-A Lemonade - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-lemonade-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68075953",
+      "food_name": "Lettuce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/lettuce",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058257",
+      "food_name": "Market Salad w/ Grilled Filet (Cold)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/market-salad-w-grilled-filet-(cold)",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68753872",
+      "food_name": "Simply Orange",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/simply-orange",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754090",
+      "food_name": "Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sausage",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058715",
+      "food_name": "Chicken Noodle Soup - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chicken-noodle-soup-cup",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55062217",
+      "food_name": "English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/english-muffin",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720837",
+      "food_name": "Hash Brown Scramble Bowl w/ Nuggets - No Hash Browns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-bowl-w-nuggets-no-hash-browns",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720833",
+      "food_name": "Hash Brown Scramble Bowl w/ Spicy Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-bowl-w-spicy-chicken",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104055333",
+      "food_name": "Berry Parfait w/ Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/berry-parfait-w-granola",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68722091",
+      "food_name": "Grilled Chicken Club w/ No Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/grilled-chicken-club-w-no-cheese",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45632869",
+      "food_name": "Pepper Jack Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/pepper-jack-cheese",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752757",
+      "food_name": "Spicy Southwest Salad w/ Chick-fil-A Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-southwest-salad-w-chick-fil-a-filet",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60137",
+      "food_name": "1% Chocolate Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/1-chocolate-milk",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53846163",
+      "food_name": "Colby Jack Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/colby-jack-cheese",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720551",
+      "food_name": "Hash Brown Scramble Burrito w/ Grilled Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-burrito-w-grilled-filet",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706635",
+      "food_name": "Market Salad w/ No Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/market-salad-w-no-chicken",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059020",
+      "food_name": "Freshly-Brewed Iced Tea Sweetened - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/freshly-brewed-iced-tea-sweetened-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058789",
+      "food_name": "2 ct Chick-N-Strips Kid's Meal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/2-ct-chick-n-strips%C2%A0kids-meal",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42416675",
+      "food_name": "Gluten Free Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/gluten-free-bun",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752725",
+      "food_name": "Cobb Salad w/ No Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/cobb-salad-w-no-chicken",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104236630",
+      "food_name": "Roasted Almonds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/roasted-almonds",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9449266",
+      "food_name": "Chili Lime Pepitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chili-lime-pepitas",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058702",
+      "food_name": "Mac & Cheese - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/mac-cheese-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68754132",
+      "food_name": "Saltines",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/saltines",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058907",
+      "food_name": "Freshly-Brewed Iced Tea Sweetened - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/freshly-brewed-iced-tea-sweetened-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706496",
+      "food_name": "Market Salad w/ Chick-Fil-A Chick-N-Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/market-salad-w-chick-fil-a-chick-n-strips",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752829",
+      "food_name": "Spicy Southwest Salad w/ No Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-southwest-salad-w-no-chicken",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706940",
+      "food_name": "Chocolate Chunk Cookie and Chocolate Fudge Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chocolate-chunk-cookie-and-chocolate-fudge-brownie",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058804",
+      "food_name": "Peach Frosted Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/peach-frosted-lemonade",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68752754",
+      "food_name": "Spicy Southwest Salad w/ Chick-fil-A Chick-n-Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-southwest-salad-w-chick-fil-a-chick-n-strips",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4505479",
+      "food_name": "Seasoned Tortilla Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/seasoned-tortilla-strips",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68753877",
+      "food_name": "1% Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/1-milk",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706895",
+      "food_name": "Chilled Grilled Chicken Sub Sandwich - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chilled-grilled-chicken-sub-sandwich-half",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104055478",
+      "food_name": "Buttery Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/buttery-biscuit",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68753883",
+      "food_name": "Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/coffee",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104055257",
+      "food_name": "Hash Browns - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-browns-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059562",
+      "food_name": "Coca-Cola - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/coca-cola-medium",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058747",
+      "food_name": "Chicken Noodle Soup - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chicken-noodle-soup-bowl",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059610",
+      "food_name": "Dr Pepper - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/dr-pepper-medium",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059167",
+      "food_name": "Chick-Fil-A Lemonade - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-lemonade-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720775",
+      "food_name": "Hash Brown Scramble Burrito w/ Spicy Chicken - No Hash Browns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-burrito-w-spicy-chicken-no-hash-browns",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058160",
+      "food_name": "Spicy Southwest Salad w/ Grilled Filet (Cold)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-southwest-salad-w-grilled-filet-(cold)",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720705",
+      "food_name": "Hash Brown Scramble Burrito w/ Nuggets - No Hash Browns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-burrito-w-nuggets-no-hash-browns",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30217045",
+      "food_name": "Multigrain Brioche Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/multigrain-brioche-bun",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706294",
+      "food_name": "Hash Brown Scramble Bowl w/ Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-bowl-w-bacon",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059189",
+      "food_name": "Chick-Fil-A Diet Lemonade - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-diet-lemonade-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68753870",
+      "food_name": "Honest Kids Apple Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/honest-kids-apple-juice",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104055516",
+      "food_name": "10 Ct Chick-Fil-A Chick-N-Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/10-ct-chick-fil-a-chick-n-strips",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720741",
+      "food_name": "Hash Brown Scramble Burrito w/ Grilled Filet - No Hash Brown",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-burrito-w-grilled-filet-no-hash-brown",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058508",
+      "food_name": "Market Salad w/ Grilled Filet (Warm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/market-salad-w-grilled-filet-(warm)",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059654",
+      "food_name": "Dr Pepper - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/dr-pepper-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720859",
+      "food_name": "Hash Brown Scramble Bowl w/ Spicy Chicken - No Hash Browns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-bowl-w-spicy-chicken-no-hash-browns",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720722",
+      "food_name": "Hash Brown Scramble Burrito w/ Sausage - No Hash Browns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-burrito-w-sausage-no-hash-browns",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104055647",
+      "food_name": "Cobb Salad w/ Grilled Filet (Cold)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/cobb-salad-w-grilled-filet-(cold)",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104055675",
+      "food_name": "Cobb Salad w/ Grilled Filet (Warm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/cobb-salad-w-grilled-filet-(warm)",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058877",
+      "food_name": "Pineapple Dragonfruit Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/pineapple-dragonfruit-lemonade",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720846",
+      "food_name": "Hash Brown Scramble Bowl w/ Sausage - No Hash Browns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-bowl-w-sausage-no-hash-browns",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059582",
+      "food_name": "Coca-Cola - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/coca-cola-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8652892",
+      "food_name": "Roasted Nut Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/roasted-nut-blend",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059254",
+      "food_name": "Sunjoy (1/2 Sweet Tea, 1/2 Lemonade) - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sunjoy%C2%A0(1-2-sweet-tea-1-2-lemonade)-medium",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059504",
+      "food_name": "Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade) - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sunjoy%C2%A0(1-2-unsweet-tea-1-2-diet-lemonade)-medium",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104060043",
+      "food_name": "Garden Salad Tray - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/garden-salad-tray-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058816",
+      "food_name": "Peach Frosted Diet Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/peach-frosted-diet-lemonade",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706619",
+      "food_name": "Market Salad w/ Spicy Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/market-salad-w-spicy-filet",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059526",
+      "food_name": "Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade) - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sunjoy%C2%A0(1-2-unsweet-tea-1-2-diet-lemonade)-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058797",
+      "food_name": "5 ct Grilled Nuggets Kid's Meal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/5-ct-grilled-nuggets-kids-meal",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059914",
+      "food_name": "Grilled Chicken Bundle Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/grilled-chicken-bundle-sandwich",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87996492",
+      "food_name": "Honey Pepper Pimento Sandwich w/ Chick-Fil-A Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/honey-pepper-pimento-sandwich-w-chick-fil-a-filet",
+      "brand_name": "Chick-fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058868",
+      "food_name": "Pineapple Dragonfruit Sunjoy (Unsweet Tea, Diet Lemonade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/pineapple-dragonfruit-sunjoy%C2%A0(unsweet-tea-diet-lemonade)",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059480",
+      "food_name": "Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade) - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sunjoy%C2%A0(1-2-unsweet-tea-1-2-diet-lemonade)-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706313",
+      "food_name": "Hash Brown Scramble Bowl w/ Bacon - No Hash Browns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-bowl-w-bacon-no-hash-browns",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706913",
+      "food_name": "Spicy Chilled Grilled Chicken Sub Sandwich - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-chilled-grilled-chicken-sub-sandwich-half",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058819",
+      "food_name": "Pineapple Dragonfruit Frosted Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/pineapple-dragonfruit-frosted-lemonade",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058830",
+      "food_name": "Pineapple Dragonfruit Sunjoy (Sweet Tea, Lemonade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/pineapple-dragonfruit-sunjoy%C2%A0(sweet-tea-lemonade)",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059122",
+      "food_name": "Freshly-Brewed Iced Tea Unsweetened - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/freshly-brewed-iced-tea-unsweetened-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706299",
+      "food_name": "Hash Brown Scramble Bowl w/ No Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-bowl-w-no-meat",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058219",
+      "food_name": "Spicy Southwest Salad w/ Grilled Filet (Warm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/spicy-southwest-salad-w-grilled-filet-(warm)",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058887",
+      "food_name": "Pineapple Dragonfruit Sweet Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/pineapple-dragonfruit-sweet-tea",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059938",
+      "food_name": "Chilled Chick-Fil-A Nugget",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chilled-chick-fil-a-nugget",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059273",
+      "food_name": "Sunjoy (1/2 Sweet Tea, 1/2 Lemonade) - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sunjoy%C2%A0(1-2-sweet-tea-1-2-lemonade)-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059409",
+      "food_name": "Sunjoy (1/2 Unsweet Tea, 1/2 Lemonade) - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sunjoy%C2%A0(1-2-unsweet-tea-1-2-lemonade)-medium",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706650",
+      "food_name": "Buddy Fruits Apple Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/buddy-fruits-apple-sauce",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059078",
+      "food_name": "Freshly-Brewed Iced Tea Unsweetened - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/freshly-brewed-iced-tea-unsweetened-medium",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059237",
+      "food_name": "Sunjoy (1/2 Sweet Tea, 1/2 Lemonade) - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sunjoy%C2%A0(1-2-sweet-tea-1-2-lemonade)-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706279",
+      "food_name": "Hash Brown Scramble Burrito w/ No Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-burrito-w-no-meat",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706851",
+      "food_name": "Blue Cheese Crumbles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/blue-cheese-crumbles",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059043",
+      "food_name": "Freshly-Brewed Iced Tea Unsweetened - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/freshly-brewed-iced-tea-unsweetened-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059884",
+      "food_name": "Buttery White Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/buttery-white-bun",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059897",
+      "food_name": "Unbuttered White Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/unbuttered-white-bun",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104060055",
+      "food_name": "Garden Salad Tray - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/garden-salad-tray-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706274",
+      "food_name": "Hash Brown Scramble Burrito w/ Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-burrito-w-bacon",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706282",
+      "food_name": "Hash Brown Scramble Burrito w/ Bacon - No Hash Browns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-burrito-w-bacon-no-hash-browns",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059786",
+      "food_name": "Chick-Fil-A Iced Tea (1/2 Sweet Tea, 1/2 Unsweet Tea) - Gallon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/chick-fil-a-iced-tea-(1-2-sweet-tea-1-2-unsweet-tea)-gallon",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059928",
+      "food_name": "Hot Chick-Fil-A Nugget",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hot-chick-fil-a-nugget",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104055524",
+      "food_name": "Cobb Salad w/ Spicy Grilled Filet (Cold)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/cobb-salad-w-spicy-grilled-filet-(cold)",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058822",
+      "food_name": "Pineapple Dragonfruit Frosted Diet Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/pineapple-dragonfruit-frosted-diet-lemonade",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059362",
+      "food_name": "Sunjoy (1/2 Sweet Tea, 1/2 Diet Lemonade) - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sunjoy%C2%A0(1-2-sweet-tea-1-2-diet-lemonade)-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059333",
+      "food_name": "Sunjoy (1/2 Sweet Tea, 1/2 Diet Lemonade) - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sunjoy%C2%A0(1-2-sweet-tea-1-2-diet-lemonade)-medium",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059546",
+      "food_name": "Coca-Cola - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/coca-cola-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058468",
+      "food_name": "Market Salad w/ Spicy Grilled Filet (Cold)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/market-salad-w-spicy-grilled-filet-(cold)",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059304",
+      "food_name": "Sunjoy (1/2 Sweet Tea, 1/2 Diet Lemonade) - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sunjoy%C2%A0(1-2-sweet-tea-1-2-diet-lemonade)-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059597",
+      "food_name": "Dr Pepper - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/dr-pepper-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706287",
+      "food_name": "Hash Brown Scramble Burrito w/ No Meat - No Hash Browns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-burrito-w-no-meat-no-hash-browns",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059377",
+      "food_name": "Sunjoy (1/2 Unsweet Tea, 1/2 Lemonade) - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sunjoy%C2%A0(1-2-unsweet-tea-1-2-lemonade)-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058859",
+      "food_name": "Pineapple Dragonfruit Sunjoy (Sweet Tea, Diet Lemonade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/pineapple-dragonfruit-sunjoy%C2%A0(sweet-tea-diet-lemonade)",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83706322",
+      "food_name": "Hash Brown Scramble Bowl w/ No Meat - No Hash Browns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/hash-brown-scramble-bowl-w-no-meat-no-hash-browns",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058862",
+      "food_name": "Pineapple Dragonfruit Sunjoy (Unsweet Tea, Lemonade)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/pineapple-dragonfruit-sunjoy%C2%A0(unsweet-tea-lemonade)",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104058901",
+      "food_name": "Pineapple Dragonfruit Unsweet Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/pineapple-dragonfruit-unsweet-tea",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059804",
+      "food_name": "Sunjoy (1/2 Sweet Tea, 1/2 Lemonade) - Gallon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sunjoy%C2%A0(1-2-sweet-tea-1-2-lemonade)-gallon",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059822",
+      "food_name": "Sunjoy (1/2 Sweet Tea, 1/2 Diet Lemonade) - Gallon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sunjoy%C2%A0(1-2-sweet-tea-1-2-diet-lemonade)-gallon",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059864",
+      "food_name": "Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade) - Gallon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sunjoy%C2%A0(1-2-unsweet-tea-1-2-diet-lemonade)-gallon",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059958",
+      "food_name": "Fruit Tray - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/fruit-tray-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059453",
+      "food_name": "Sunjoy (1/2 Unsweet Tea, 1/2 Lemonade) - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sunjoy%C2%A0(1-2-unsweet-tea-1-2-lemonade)-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059694",
+      "food_name": "Pineapple Dragonfruit Sunjoy (1/2 Sweet Tea, 1/2 Lemonade) - Gallon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/pineapple-dragonfruit-sunjoy%C2%A0(1-2-sweet-tea-1-2-lemonade)-gallon",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059701",
+      "food_name": "Pineapple Dragonfruit Sweet Tea - Gallon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/pineapple-dragonfruit-sweet-tea-gallon",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059754",
+      "food_name": "Freshly-Brewed Iced Tea Sweetened - Gallon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/freshly-brewed-iced-tea-sweetened-gallon",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059769",
+      "food_name": "Freshly-Brewed Iced Tea Unsweetened - Gallon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/freshly-brewed-iced-tea-unsweetened-gallon",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104060066",
+      "food_name": "Kale Crunch Side Tray - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/kale-crunch-side-tray-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104060074",
+      "food_name": "Kale Crunch Side Tray - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/kale-crunch-side-tray-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68753869",
+      "food_name": "DASANI Bottled Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/dasani-bottled-water",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059672",
+      "food_name": "Red Flash - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/red-flash-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059677",
+      "food_name": "Red Flash - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/red-flash-medium",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059680",
+      "food_name": "Red Flash - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/red-flash-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059687",
+      "food_name": "Pineapple Dragonfruit Lemonade - Gallon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/pineapple-dragonfruit-lemonade-gallon",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059844",
+      "food_name": "Sunjoy (1/2 Unsweet Tea, 1/2 Lemonade) - Gallon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/sunjoy%C2%A0(1-2-unsweet-tea-1-2-lemonade)-gallon",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104059981",
+      "food_name": "Fruit Tray - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/fruit-tray-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104060001",
+      "food_name": "Mac & Cheese Tray - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/mac-cheese-tray-small",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104060030",
+      "food_name": "Mac & Cheese Tray - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/mac-cheese-tray-large",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106210327",
+      "food_name": "Honey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chick-fil-a/honey",
+      "brand_name": "Chick-Fil-A",
+      "food_type": "Brand"
+    }
+  ]
+}

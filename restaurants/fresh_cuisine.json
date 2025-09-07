@@ -1,0 +1,41 @@
+{
+  "restaurant": "Fresh Cuisine",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 1141,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:34:44.683Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fresh_cuisine.json",
+  "items": [
+    {
+      "food_id": "535471",
+      "food_name": "Spaghetti & Meatballs with Cheese in Tomato Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-cuisine/spaghetti-and-meatballs-with-cheese-in-tomato-sauce",
+      "brand_name": "Fresh Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "535470",
+      "food_name": "Shrimp Fettuccini Alfredo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-cuisine/shrimp-fettuccini-alfredo",
+      "brand_name": "Fresh Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "535472",
+      "food_name": "Lasagna with Meat Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-cuisine/lasagna-with-meat-sauce",
+      "brand_name": "Fresh Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "535469",
+      "food_name": "Grilled Chicken Fettucini Alfredo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-cuisine/grilled-chicken-fettucini-alfredo",
+      "brand_name": "Fresh Cuisine",
+      "food_type": "Brand"
+    }
+  ]
+}

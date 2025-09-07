@@ -1,0 +1,825 @@
+{
+  "restaurant": "Cook Unity",
+  "total_items": 116,
+  "pages_extracted": 3,
+  "total_search_results": 144,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:29:26.864Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cook_unity.json",
+  "items": [
+    {
+      "food_id": "87000646",
+      "food_name": "Jerked Blackened Chicken Rasta Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/jerked-blackened-chicken-rasta-pasta",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39252600",
+      "food_name": "Korean Tofu Rice Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/korean-tofu-rice-bowl",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95805928",
+      "food_name": "Paneer Butter Masala",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/paneer-butter-masala",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75665297",
+      "food_name": "Mexican Chicken Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/mexican-chicken-bowl",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62593463",
+      "food_name": "Pork Al Pastor Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/pork-al-pastor-tacos",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85661152",
+      "food_name": "Grilled Chicken Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/grilled-chicken-caesar-salad",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92176662",
+      "food_name": "Shrimp Pancit Canton Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/shrimp-pancit-canton-noodles",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95197483",
+      "food_name": "Chicken in Mole Poblano",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/chicken-in-mole-poblano",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80081643",
+      "food_name": "Brazilian Fish Stew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/brazilian-fish-stew",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84291182",
+      "food_name": "Seared Salmon Over Farro & White Bean Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/seared-salmon-over-farro-white-bean-salad",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96732073",
+      "food_name": "Mediterranean Chicken Souvlaki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/mediterranean-chicken-souvlaki",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80626064",
+      "food_name": "Sesame Soba Noodle Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/sesame-soba-noodle-salad",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77587942",
+      "food_name": "Grilled Chicken & Quinoa Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/grilled-chicken-quinoa-bowl",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83968526",
+      "food_name": "Masala Beef Kebab",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/masala-beef-kebab",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78466673",
+      "food_name": "Grilled Beef Lula Kabob",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/grilled-beef-lula-kabob",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77002515",
+      "food_name": "Chicken Tinga Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/chicken-tinga-tacos",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100765566",
+      "food_name": "Greek-Style Chicken Gyro Pita Wrap with Handmade Tzatziki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/greek-style-chicken-gyro-pita-wrap-with-handmade-tzatziki",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77108308",
+      "food_name": "Lemon Baked Tilapia with Cajun Cream Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/lemon-baked-tilapia-with-cajun-cream-sauce",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93997811",
+      "food_name": "Pesto Chicken Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/pesto-chicken-bowl",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76871054",
+      "food_name": "Pork Al Pastor Tacos (355g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/pork-al-pastor-tacos-(355g)",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55612549",
+      "food_name": "Thai Basil Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/thai-basil-chicken",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75451418",
+      "food_name": "Peruvian Chicken Fried Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/peruvian-chicken-fried-rice",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81757840",
+      "food_name": "Spicy Braised Beef with Glass Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/spicy-braised-beef-with-glass-noodles",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70822294",
+      "food_name": "Teriyaki Roasted Salmon (with Brown Rice, Roasted Carrots and Brussels Sprouts)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/teriyaki-roasted-salmon-(with-brown-rice-roasted-carrots-and-brussels-sprouts)",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94018148",
+      "food_name": "Caramelized Mushroom Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/caramelized-mushroom-quesadilla",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98971474",
+      "food_name": "Grilled Marinated Flank Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/grilled-marinated-flank-steak",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70059147",
+      "food_name": "Keto Chicken Carnitas Bowl with Cauliflower Rice & Fajita-Style Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/keto-chicken-carnitas-bowl-with-cauliflower-rice-fajita-style-vegetables",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93930941",
+      "food_name": "Adobo-Grilled Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/adobo-grilled-salmon",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87740153",
+      "food_name": "Middle Eastern Marinated Chicken Shawarma",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/middle-eastern-marinated-chicken-shawarma",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75611763",
+      "food_name": "Grilled Vegetable Salad with Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/grilled-vegetable-salad-with-chicken-breast",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55285414",
+      "food_name": "Greek Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/greek-chicken",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58094103",
+      "food_name": "Chicken Tikka Masala",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/chicken-tikka-masala",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61171110",
+      "food_name": "Shrimp Bowl with Tri-Color Quinoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/shrimp-bowl-with-tri-color-quinoa",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75088015",
+      "food_name": "Tex-Mex Salad with Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/tex-mex-salad-with-grilled-chicken",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79072417",
+      "food_name": "Chicken Pepian Stew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/chicken-pepian-stew",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75814029",
+      "food_name": "Shrimp Moilee Coconut Curry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/shrimp-moilee-coconut-curry",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73745413",
+      "food_name": "Grilled Chicken with Spicy Red Curry Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/grilled-chicken-with-spicy-red-curry-sauce",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73782783",
+      "food_name": "Chipotle Lime Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/chipotle-lime-salmon",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82420142",
+      "food_name": "BBQ Chicken with Gooey Mac N' Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/bbq-chicken-with-gooey-mac-n-cheese",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93926018",
+      "food_name": "Jambalaya Pasta & Creamy Creole Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/jambalaya-pasta-creamy-creole-sauce",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96283610",
+      "food_name": "Creamy-Kahlua Tiramisu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/creamy-kahlua-tiramisu",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96726723",
+      "food_name": "Flank Steak & Spinach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/flank-steak-spinach",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70671587",
+      "food_name": "Adobo Pulled Pork Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/adobo-pulled-pork-tacos",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77000987",
+      "food_name": "Grilled Chicken Salad with Poppy Seed Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/grilled-chicken-salad-with-poppy-seed-dressing",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78340932",
+      "food_name": "Quesadilla Reina Pepiada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/quesadilla-reina-pepiada",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78767355",
+      "food_name": "Moroccan Chicken & Couscous Tagine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/moroccan-chicken-couscous-tagine",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81674535",
+      "food_name": "Amma’S Chicken Thighs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/amma%E2%80%99s-chicken-thighs",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72446090",
+      "food_name": "Grilled Chicken & Mushrooms",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/grilled-chicken-mushrooms",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75421519",
+      "food_name": "Grilled Flank Steak Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/grilled-flank-steak-bowl",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83380208",
+      "food_name": "Pulled Pork Vindaloo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/pulled-pork-vindaloo",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77337683",
+      "food_name": "Chicken Paillard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/chicken-paillard",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66719112",
+      "food_name": "Italian Beef Ragu with Zucchini Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/italian-beef-ragu-with-zucchini-noodles",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70128312",
+      "food_name": "Seared Shrimp with Avocado Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/seared-shrimp-with-avocado-sauce",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80083060",
+      "food_name": "Penne with Turkey Bolognese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/penne-with-turkey-bolognese",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80650661",
+      "food_name": "Dragon Bowl with Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/dragon-bowl-with-grilled-chicken",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83447049",
+      "food_name": "Parmesan Crusted Chicken Schnitzel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/parmesan-crusted-chicken-schnitzel",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58125882",
+      "food_name": "Grilled Chicken with Crushed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/grilled-chicken-with-crushed-potatoes",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58311329",
+      "food_name": "Chicken & Israeli Couscous",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/chicken-israeli-couscous",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64897182",
+      "food_name": "Grilled Chicken with Carrot Thyme Purée",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/grilled-chicken-with-carrot-thyme-pur%C3%A9e",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101692566",
+      "food_name": "Orecchiette Bolognese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/orecchiette-bolognese",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98469850",
+      "food_name": "Curried Grilled Chicken with Spiced Cauliflower",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/curried-grilled-chicken-with-spiced-cauliflower",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62067932",
+      "food_name": "Cavatappi Alla Norma",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/cavatappi-alla-norma",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62781093",
+      "food_name": "Garlic Hangar Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/garlic-hangar-steak",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62962471",
+      "food_name": "Fiery Turkey Stuffed Poblano Pepper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/fiery-turkey-stuffed-poblano-pepper",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52162516",
+      "food_name": "Tuscan Butter Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/tuscan-butter-shrimp",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70171895",
+      "food_name": "BBQ Chicken Burrito Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/bbq-chicken-burrito-bowl",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77981705",
+      "food_name": "Baked Swai in Cajun Pan Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/baked-swai-in-cajun-pan-sauce",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59434851",
+      "food_name": "Lemon Pesto Cod",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/lemon-pesto-cod",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56793349",
+      "food_name": "Salmon with Avocado Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/salmon-with-avocado-sauce",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66020059",
+      "food_name": "Quinoa & Veggie Enchiladas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/quinoa-veggie-enchiladas",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70395973",
+      "food_name": "Shrimp Cavatappi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/shrimp-cavatappi",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71404265",
+      "food_name": "Honey Walnut Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/honey-walnut-shrimp",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100738433",
+      "food_name": "Beefy Baked Mac and Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/beefy-baked-mac-and-cheese",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762471",
+      "food_name": "Adobo Chicken Burrito Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/adobo-chicken-burrito-bowl",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85076538",
+      "food_name": "Low Carb Beef Stew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/low-carb-beef-stew",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77343895",
+      "food_name": "Roasted Chicken Over Quinoa, Black Bean & Corn Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/roasted-chicken-over-quinoa-black-bean-corn-salad",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89212758",
+      "food_name": "Mom’S Sunday Sauce Rigatoni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/mom%E2%80%99s-sunday-sauce-rigatoni",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66884628",
+      "food_name": "Adobo Flank Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/adobo-flank-steak",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67856793",
+      "food_name": "Tandoori Chicken & Chickpea Daal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/tandoori-chicken-chickpea-daal",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45813044",
+      "food_name": "Pulled BBQ Chicken with Napa Slaw",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/pulled-bbq-chicken-with-napa-slaw",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71303136",
+      "food_name": "Vegan Mediterranean Spiced Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/vegan-mediterranean-spiced-chili",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74468678",
+      "food_name": "Crispy Tilapia Over Greek Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/crispy-tilapia-over-greek-salad",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76859839",
+      "food_name": "Sri Lankan Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/sri-lankan-chicken",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77846277",
+      "food_name": "Zucchini Balls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/zucchini-balls",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85929228",
+      "food_name": "Yemenite Shrimp Curry w/ Jasmine Rice & Snap Peas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/yemenite-shrimp-curry-w-jasmine-rice-snap-peas",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91229869",
+      "food_name": "Southern Fried Chicken with Spicy Honey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/southern-fried-chicken-with-spicy-honey",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53504292",
+      "food_name": "Wellness Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/wellness-grilled-chicken",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70671571",
+      "food_name": "Beef Empanadas with Chimichurri Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/beef-empanadas-with-chimichurri-sauce",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71804464",
+      "food_name": "Crispy Pork Cutlet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/crispy-pork-cutlet",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354680",
+      "food_name": "Sweet & Sour Chili Shrimp Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/sweet-sour-chili-shrimp-bowl",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83790588",
+      "food_name": "Grilled Sirloin and Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/grilled-sirloin-and-vegetables",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75744354",
+      "food_name": "Chipotle Chicken with Creamy Polenta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/chipotle-chicken-with-creamy-polenta",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85695826",
+      "food_name": "Classic Chicken Cordon Bleu with Peppercorn Sauce & Sautéed Green Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/classic-chicken-cordon-bleu-with-peppercorn-sauce-saut%C3%A9ed-green-beans",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87243246",
+      "food_name": "Chicken Marengo with Rice Pilaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/chicken-marengo-with-rice-pilaf",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88124994",
+      "food_name": "Middle Eastern Pulled Chicken Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/middle-eastern-pulled-chicken-chili",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95478440",
+      "food_name": "Baja Fish Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/baja-fish-tacos",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98903281",
+      "food_name": "Mediterranean Grilled Shrimp Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/mediterranean-grilled-shrimp-grain-bowl",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70904613",
+      "food_name": "Pork Milanese with Onions & Peppers Agrodolce and Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/pork-milanese-with-onions-peppers-agrodolce-and-mashed-potatoes",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71622579",
+      "food_name": "Roasted Chicken in Creamy Mushroom Sauce with Mustard Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/roasted-chicken-in-creamy-mushroom-sauce-with-mustard-mashed-potatoes",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74891360",
+      "food_name": "Seared Chicken with Thai Basil-Coconut Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/seared-chicken-with-thai-basil-coconut-sauce",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62031245",
+      "food_name": "Spicy Yemenite Shrimp Curry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/spicy-yemenite-shrimp-curry",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64399506",
+      "food_name": "Lemon Tilapia with Cauliflower & Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/lemon-tilapia-with-cauliflower-mashed-potatoes",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66425226",
+      "food_name": "Mediterranean Chicken Thighs with Artichokes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/mediterranean-chicken-thighs-with-artichokes",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72137228",
+      "food_name": "Cavatappi with Turkey & Italian Sausage Bolognese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/cavatappi-with-turkey-italian-sausage-bolognese",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73538820",
+      "food_name": "Grilled Chicken with Truffle Risotto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/grilled-chicken-with-truffle-risotto",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87434447",
+      "food_name": "Al Pastor Chicken Bowl with Avocado-Zucchini Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/al-pastor-chicken-bowl-with-avocado-zucchini-sauce",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94001317",
+      "food_name": "Grilled Fajita Chicken & Quinoa Burrito Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/grilled-fajita-chicken-quinoa-burrito-bowl",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88089448",
+      "food_name": "Mexican Pulled Chicken Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/mexican-pulled-chicken-bowl",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80205384",
+      "food_name": "Homestyle Turkey Green Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/homestyle-turkey-green-chili",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82220880",
+      "food_name": "Garlic Butter & Sriracha Shrimp with Blanched Broccoli & Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/garlic-butter-sriracha-shrimp-with-blanched-broccoli-tomatoes",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55450324",
+      "food_name": "Tuscan Butter Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/tuscan-butter-chicken",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55488708",
+      "food_name": "Mushroom Herb Chicken with Cauliflower Mash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/mushroom-herb-chicken-with-cauliflower-mash",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62059220",
+      "food_name": "Walnut Miso Crusted Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/walnut-miso-crusted-salmon",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62800310",
+      "food_name": "Herb & Wine Whole Chicken Leg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/herb-wine-whole-chicken-leg",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82047609",
+      "food_name": "Rainbow Grain Salad with Grilled Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/rainbow-grain-salad-with-grilled-salmon",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82123217",
+      "food_name": "Adobo Chicken Quesadillas with Grilled Cabbage & Ancho Chile Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cook-unity/adobo-chicken-quesadillas-with-grilled-cabbage-ancho-chile-sauce",
+      "brand_name": "Cook Unity",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "restaurant": "Ozark Hearth",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 32,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:54:29.082Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ozark_hearth.json",
+  "items": [
+    {
+      "food_id": "55524929",
+      "food_name": "Sourdough Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ozark-hearth/sourdough-bread",
+      "brand_name": "Ozark Hearth",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7354252",
+      "food_name": "Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ozark-hearth/wheat-bread",
+      "brand_name": "Ozark Hearth",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3666432",
+      "food_name": "Wheat Hamburger Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ozark-hearth/wheat-hamburger-buns",
+      "brand_name": "Ozark Hearth",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5735212",
+      "food_name": "100% Whole Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ozark-hearth/100%25-whole-wheat-bread/2-slices",
+      "brand_name": "Ozark Hearth",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6144850",
+      "food_name": "Wheat Hot Dog Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ozark-hearth/wheat-hot-dog-buns",
+      "brand_name": "Ozark Hearth",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2806597",
+      "food_name": "100% Whole Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ozark-hearth/100%25-whole-wheat-bread",
+      "brand_name": "Ozark Hearth",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5169091",
+      "food_name": "Sandwich Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ozark-hearth/sandwich-rolls",
+      "brand_name": "Ozark Hearth",
+      "food_type": "Brand"
+    }
+  ]
+}

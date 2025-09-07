@@ -1,0 +1,55 @@
+{
+  "restaurant": "Core Bar",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 3493,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:45:48.771Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/core_bar.json",
+  "items": [
+    {
+      "food_id": "47591074",
+      "food_name": "Peanut Butter Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/core-bar/peanut-butter-chocolate",
+      "brand_name": "Core Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79980847",
+      "food_name": "Birthday Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/core-bar/birthday-cake",
+      "brand_name": "Core Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47590904",
+      "food_name": "Blueberry Banana Almond",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/core-bar/blueberry-banana-almond",
+      "brand_name": "Core Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50769935",
+      "food_name": "Coconut Chocolate Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/core-bar/coconut-chocolate-chip",
+      "brand_name": "Core Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48555875",
+      "food_name": "Dark Chocolate Cherry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/core-bar/dark-chocolate-cherry",
+      "brand_name": "Core Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49174291",
+      "food_name": "Peanut Butter Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/core-bar/peanut-butter-crunch",
+      "brand_name": "Core Bar",
+      "food_type": "Brand"
+    }
+  ]
+}

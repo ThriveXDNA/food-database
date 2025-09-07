@@ -1,0 +1,27 @@
+{
+  "restaurant": "Landis",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:16:13.418Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/landis.json",
+  "items": [
+    {
+      "food_id": "11046819",
+      "food_name": "Lean Sirloin Tip Beef Steaks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/landis/lean-sirloin-tip-beef-steaks",
+      "brand_name": "Landis",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5552132",
+      "food_name": "Chicken Breast Sandwich Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/landis/chicken-breast-sandwich-slices",
+      "brand_name": "Landis",
+      "food_type": "Brand"
+    }
+  ]
+}

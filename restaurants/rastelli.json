@@ -1,0 +1,41 @@
+{
+  "restaurant": "Rastelli",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:29:13.733Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rastelli.json",
+  "items": [
+    {
+      "food_id": "63746344",
+      "food_name": "Filet Mignon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rastelli/filet-mignon",
+      "brand_name": "Rastelli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55769944",
+      "food_name": "Ribeye Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rastelli/ribeye-steak",
+      "brand_name": "Rastelli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54824336",
+      "food_name": "Boneless Ribeye",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rastelli/boneless-ribeye",
+      "brand_name": "Rastelli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38377503",
+      "food_name": "All Natural Turkey Breast Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rastelli/all-natural-turkey-breast-burger",
+      "brand_name": "Rastelli",
+      "food_type": "Brand"
+    }
+  ]
+}

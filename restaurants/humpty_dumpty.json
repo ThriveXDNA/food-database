@@ -1,0 +1,83 @@
+{
+  "restaurant": "Humpty Dumpty",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:45:43.622Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/humpty_dumpty.json",
+  "items": [
+    {
+      "food_id": "86361",
+      "food_name": "BBQ Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/humpty-dumpty/bbq-potato-chips",
+      "brand_name": "Humpty Dumpty",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284763",
+      "food_name": "All Dressed Ripples Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/humpty-dumpty/all-dressed-ripples-potato-chips",
+      "brand_name": "Humpty Dumpty",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284767",
+      "food_name": "Sour Cream & Onion Ripples Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/humpty-dumpty/sour-cream-and-onion-ripples-potato-chips",
+      "brand_name": "Humpty Dumpty",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284766",
+      "food_name": "Regular Ripples Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/humpty-dumpty/regular-ripples-potato-chips",
+      "brand_name": "Humpty Dumpty",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "936073",
+      "food_name": "Ringolos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/humpty-dumpty/ringolos",
+      "brand_name": "Humpty Dumpty",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284764",
+      "food_name": "Dill Pickle Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/humpty-dumpty/dill-pickle-potato-chips",
+      "brand_name": "Humpty Dumpty",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2634983",
+      "food_name": "Party Mix Cheesy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/humpty-dumpty/party-mix-cheesy",
+      "brand_name": "Humpty Dumpty",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2467866",
+      "food_name": "Cheese Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/humpty-dumpty/cheese-sticks",
+      "brand_name": "Humpty Dumpty",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71270102",
+      "food_name": "Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/humpty-dumpty/eggs",
+      "brand_name": "Humpty Dumpty",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284768",
+      "food_name": "Salt & Vinegar Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/humpty-dumpty/salt-and-vinegar-potato-chips",
+      "brand_name": "Humpty Dumpty",
+      "food_type": "Brand"
+    }
+  ]
+}

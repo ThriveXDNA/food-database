@@ -1,0 +1,62 @@
+{
+  "restaurant": "Colonial",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:04:13.343Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/colonial.json",
+  "items": [
+    {
+      "food_id": "1807879",
+      "food_name": "Hot Dog Enriched Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/colonial/hot-dog-enriched-buns",
+      "brand_name": "Colonial",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "202777",
+      "food_name": "King Thin Enriched Sandwich Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/colonial/king-thin-enriched-sandwich-bread",
+      "brand_name": "Colonial",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "202776",
+      "food_name": "Giant Enriched Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/colonial/giant-enriched-bread",
+      "brand_name": "Colonial",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17297972",
+      "food_name": "Hot Dog Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/colonial/hot-dog-bun",
+      "brand_name": "Colonial",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71410411",
+      "food_name": "Colonial Salad Dressing - Pick-Two Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bob-evans/colonial-salad-dressing-pick-two-combo",
+      "brand_name": "Bob Evans",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71410413",
+      "food_name": "Colonial Salad Dressing - Entrée",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bob-evans/colonial-salad-dressing-entr%C3%A9e",
+      "brand_name": "Bob Evans",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71410312",
+      "food_name": "Colonial Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bob-evans/colonial-dressing",
+      "brand_name": "Bob Evans",
+      "food_type": "Brand"
+    }
+  ]
+}

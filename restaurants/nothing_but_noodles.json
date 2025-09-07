@@ -1,0 +1,34 @@
+{
+  "restaurant": "Nothing But Noodles",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 691,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:40:21.564Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/nothing_but_noodles.json",
+  "items": [
+    {
+      "food_id": "1763421",
+      "food_name": "Breadsticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nothing-but-noodles/breadsticks",
+      "brand_name": "Nothing But Noodles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "560180",
+      "food_name": "Spicy Cajun Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nothing-but-noodles/spicy-cajun-pasta",
+      "brand_name": "Nothing But Noodles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2746352",
+      "food_name": "Marinara Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nothing-but-noodles/marinara-pasta",
+      "brand_name": "Nothing But Noodles",
+      "food_type": "Brand"
+    }
+  ]
+}

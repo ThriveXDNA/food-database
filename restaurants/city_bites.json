@@ -1,0 +1,41 @@
+{
+  "restaurant": "City Bites",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 1332,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:32:44.864Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/city_bites.json",
+  "items": [
+    {
+      "food_id": "9735180",
+      "food_name": "Turkey Melt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/city-bites/turkey-melt",
+      "brand_name": "City Bites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2770264",
+      "food_name": "California Club",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/city-bites/california-club",
+      "brand_name": "City Bites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72722793",
+      "food_name": "Baja Chicken Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/city-bites/baja-chicken-taco",
+      "brand_name": "City Bites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6699034",
+      "food_name": "Peanut Butter Swirl Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/city-bites/peanut-butter-swirl-cookie",
+      "brand_name": "City Bites",
+      "food_type": "Brand"
+    }
+  ]
+}

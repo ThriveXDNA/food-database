@@ -1,0 +1,34 @@
+{
+  "restaurant": "Prana",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:48:27.104Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/prana.json",
+  "items": [
+    {
+      "food_id": "97076989",
+      "food_name": "Bean Me Up",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/prana/bean-me-up",
+      "brand_name": "Prana",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18303114",
+      "food_name": "Machu Pichu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/prana/machu-pichu",
+      "brand_name": "Prana",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19732307",
+      "food_name": "Kilimanjaro Deluxe Chocolate Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/prana/kilimanjaro-deluxe-chocolate-trail-mix",
+      "brand_name": "Prana",
+      "food_type": "Brand"
+    }
+  ]
+}

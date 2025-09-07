@@ -1,0 +1,62 @@
+{
+  "restaurant": "Hickory River",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 407,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:13:35.584Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/hickory_river.json",
+  "items": [
+    {
+      "food_id": "6450968",
+      "food_name": "Smoked Turkey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hickory-river/smoked-turkey",
+      "brand_name": "Hickory River",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22554966",
+      "food_name": "Cornbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hickory-river/cornbread",
+      "brand_name": "Hickory River",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5491898",
+      "food_name": "Pulled Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hickory-river/pulled-pork",
+      "brand_name": "Hickory River",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1239000",
+      "food_name": "Baby Back Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hickory-river/baby-back-ribs",
+      "brand_name": "Hickory River",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7556379",
+      "food_name": "Coleslaw",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hickory-river/coleslaw",
+      "brand_name": "Hickory River",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1858401",
+      "food_name": "Green Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hickory-river/green-beans",
+      "brand_name": "Hickory River",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "948135",
+      "food_name": "Beef Brisket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hickory-river/beef-brisket",
+      "brand_name": "Hickory River",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "restaurant": "Cava Grill",
+  "total_items": 3,
+  "pages_extracted": 2,
+  "total_search_results": 76,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:22:16.387Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cava_grill.json",
+  "items": [
+    {
+      "food_id": "13322475",
+      "food_name": "Spicy Lamb Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cava-grill/spicy-lamb-meatballs",
+      "brand_name": "Cava Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23973025",
+      "food_name": "Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cava-grill/grilled-chicken",
+      "brand_name": "Cava Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15657561",
+      "food_name": "Braised Lamb",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cava-grill/braised-lamb",
+      "brand_name": "Cava Grill",
+      "food_type": "Brand"
+    }
+  ]
+}

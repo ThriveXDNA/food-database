@@ -1,0 +1,76 @@
+{
+  "restaurant": "Good Day",
+  "total_items": 9,
+  "pages_extracted": 3,
+  "total_search_results": 114,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:09:12.223Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/good_day.json",
+  "items": [
+    {
+      "food_id": "14383023",
+      "food_name": "Cappucino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-day/cappucino",
+      "brand_name": "Good Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70738192",
+      "food_name": "Mocacinno",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-day/mocacinno",
+      "brand_name": "Good Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33165",
+      "food_name": "1% Low Fat Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-day/1%25-low-fat-milk",
+      "brand_name": "Good Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "760857",
+      "food_name": "Fat Free Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-day/fat-free-milk",
+      "brand_name": "Good Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10195278",
+      "food_name": "Avocado Delight Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-day/avocado-delight-coffee",
+      "brand_name": "Good Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13375576",
+      "food_name": "Vanilla Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-day/vanilla-latte",
+      "brand_name": "Good Day",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2434067",
+      "food_name": "Good Day with Strawberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/essential-everyday/good-day-with-strawberries",
+      "brand_name": "Essential Everyday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "621789",
+      "food_name": "Good Day with Strawberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flavorite/good-day-with-strawberries",
+      "brand_name": "Flavorite",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59889940",
+      "food_name": "Good Day Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pastabilities/good-day-pasta",
+      "brand_name": "Pastabilities",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Mr & Mrs T",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 47,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:58:00.529Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mr_mrs_t.json",
+  "items": [
+    {
+      "food_id": "2316881",
+      "food_name": "Original Bloody Mary Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-and-mrs-t/original-bloody-mary-mix",
+      "brand_name": "Mr & Mrs T",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79789",
+      "food_name": "Rich & Spicy Bloody Mary Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-and-mrs-t/rich-and-spicy-bloody-mary-mix",
+      "brand_name": "Mr & Mrs T",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1062643",
+      "food_name": "Sweet & Sour Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-and-mrs-t/sweet-and-sour-mix",
+      "brand_name": "Mr & Mrs T",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22186087",
+      "food_name": "Bold & Spicy Bloody Mary Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-mrs-t/bold-spicy-bloody-mary-mix",
+      "brand_name": "Mr & Mrs T",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "820326",
+      "food_name": "Margarita Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-and-mrs-t/margarita-mix",
+      "brand_name": "Mr & Mrs T",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "825580",
+      "food_name": "Pina Colada Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-mrs-t/pina-colada-mix",
+      "brand_name": "Mr & Mrs T",
+      "food_type": "Brand"
+    }
+  ]
+}

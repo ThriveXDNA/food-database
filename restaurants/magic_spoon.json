@@ -1,0 +1,244 @@
+{
+  "restaurant": "Magic Spoon",
+  "total_items": 33,
+  "pages_extracted": 2,
+  "total_search_results": 92,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:37:49.053Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/magic_spoon.json",
+  "items": [
+    {
+      "food_id": "75680514",
+      "food_name": "Marshmallow Treats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/marshmallow-treats",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29759281",
+      "food_name": "Fruity Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/fruity-cereal",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30605180",
+      "food_name": "Cocoa Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/cocoa-cereal",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92620752",
+      "food_name": "Protein Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/protein-granola",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37937401",
+      "food_name": "Peanut Butter Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/peanut-butter-cereal",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87681162",
+      "food_name": "Chocolate Peanut Butter Cereal Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/chocolate-peanut-butter-cereal-bar",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66388738",
+      "food_name": "Cinnamon Roll Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/cinnamon-roll-cereal",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58407975",
+      "food_name": "Cereal Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/cereal-bars",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83275750",
+      "food_name": "Blueberry Muffin Treat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/blueberry-muffin-treat",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97050598",
+      "food_name": "Chocolate Peanut Butter High Protein Cereal Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/chocolate-peanut-butter-high-protein-cereal-bar",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32966113",
+      "food_name": "Blueberry Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/blueberry-cereal",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46689197",
+      "food_name": "Honey Nut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/honey-nut",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61535573",
+      "food_name": "Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/chocolate-chip-cookie",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83680283",
+      "food_name": "S’mores",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/s%E2%80%99mores",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75244634",
+      "food_name": "Birthday Cake Cereal (39 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/birthday-cake-cereal-(39-g)",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96728860",
+      "food_name": "Dark Chocolate Almond Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/dark-chocolate-almond-granola",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29905640",
+      "food_name": "Cinnamon Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/cinnamon-cereal",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31353419",
+      "food_name": "Frosted Cereal (28g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/frosted-cereal",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "102875127",
+      "food_name": "Protein Granola - Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/protein-granola-peanut-butter",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75582694",
+      "food_name": "Frosted Cereal (37g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/frosted-cereal-(37g)",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37055008",
+      "food_name": "Birthday Cake Cereal (28 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/birthday-cake-cereal",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47586284",
+      "food_name": "Maple Waffle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/maple-waffle",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49887090",
+      "food_name": "Chocolate Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/chocolate-peanut-butter",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53621867",
+      "food_name": "Apple Cinnamon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/apple-cinnamon",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46700071",
+      "food_name": "Cookies & Cream Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/cookies-cream-cereal",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58096936",
+      "food_name": "Honey Graham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/honey-graham",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88462314",
+      "food_name": "Pumpkin Spice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/pumpkin-spice",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65532654",
+      "food_name": "Oatmeal Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/oatmeal-cookie",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63445343",
+      "food_name": "Salted Caramel Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/salted-caramel-cereal",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31912458",
+      "food_name": "Pumpkin Chai Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/pumpkin-chai-cereal",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55402370",
+      "food_name": "Gingerbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/gingerbread",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55890365",
+      "food_name": "Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/original",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93735388",
+      "food_name": "Protein Treat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/magic-spoon/protein-treat",
+      "brand_name": "Magic Spoon",
+      "food_type": "Brand"
+    }
+  ]
+}

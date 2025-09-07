@@ -1,0 +1,34 @@
+{
+  "restaurant": "New England",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 447,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:08:57.032Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/new_england.json",
+  "items": [
+    {
+      "food_id": "1392261",
+      "food_name": "Brown Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-england/brown-bread",
+      "brand_name": "New England",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1803121",
+      "food_name": "Oyster Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-england/oyster-crackers",
+      "brand_name": "New England",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1760202",
+      "food_name": "French Vanilla Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-england/french-vanilla-coffee",
+      "brand_name": "New England",
+      "food_type": "Brand"
+    }
+  ]
+}

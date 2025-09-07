@@ -1,0 +1,20 @@
+{
+  "restaurant": "Artesian Acres",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:17:56.714Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/artesian_acres.json",
+  "items": [
+    {
+      "food_id": "56688",
+      "food_name": "Whole Wheat Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/artesian-acres/whole-wheat-pasta",
+      "brand_name": "Artesian Acres",
+      "food_type": "Brand"
+    }
+  ]
+}

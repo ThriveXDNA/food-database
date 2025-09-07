@@ -1,0 +1,27 @@
+{
+  "restaurant": "Laclare",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:56:12.607Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/laclare.json",
+  "items": [
+    {
+      "food_id": "39022669",
+      "food_name": "Raw Cheddar Goat Milk Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/laclare/raw-cheddar-goat-milk-cheese",
+      "brand_name": "Laclare",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47511331",
+      "food_name": "Original Goat Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/laclare/original-goat-cheese",
+      "brand_name": "Laclare",
+      "food_type": "Brand"
+    }
+  ]
+}

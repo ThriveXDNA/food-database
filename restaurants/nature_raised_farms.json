@@ -1,0 +1,62 @@
+{
+  "restaurant": "Nature Raised Farms",
+  "total_items": 7,
+  "pages_extracted": 2,
+  "total_search_results": 77,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:28:45.635Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/nature_raised_farms.json",
+  "items": [
+    {
+      "food_id": "10408769",
+      "food_name": "Boneless Skinless Chicken Thighs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nature-raised-farms/boneless-skinless-chicken-thighs",
+      "brand_name": "Nature Raised Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6699448",
+      "food_name": "Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nature-raised-farms/chicken-breast",
+      "brand_name": "Nature Raised Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7300178",
+      "food_name": "Gluten Free Grilled Chicken Breast Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nature-raised-farms/gluten-free-grilled-chicken-breast-strips",
+      "brand_name": "Nature Raised Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52344774",
+      "food_name": "Chicken Drumsticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nature-raised-farms/chicken-drumsticks",
+      "brand_name": "Nature Raised Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6274118",
+      "food_name": "Gluten Free Grilled Chicken Breast Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nature-raised-farms/gluten-free-grilled-chicken-breast-fillets",
+      "brand_name": "Nature Raised Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24384264",
+      "food_name": "Grilled Chicken Breast Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nature-raised-farms/grilled-chicken-breast-strips",
+      "brand_name": "Nature Raised Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13807411",
+      "food_name": "Uncured Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nature-raised-farms/uncured-bacon",
+      "brand_name": "Nature Raised Farms",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Moon Cheese",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 12144,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:21:46.713Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/moon_cheese.json",
+  "items": [
+    {
+      "food_id": "12964571",
+      "food_name": "Cheddar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/moon-cheese/cheddar",
+      "brand_name": "Moon Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10904935",
+      "food_name": "Gouda",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/moon-cheese/gouda",
+      "brand_name": "Moon Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11823465",
+      "food_name": "Get Pepper Jacked",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/moon-cheese/get-pepper-jacked",
+      "brand_name": "Moon Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14600621",
+      "food_name": "Mozzarella",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/moon-cheese/mozzarella",
+      "brand_name": "Moon Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39148943",
+      "food_name": "Garlickin' Parmesan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/moon-cheese/garlickin-parmesan",
+      "brand_name": "Moon Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57283465",
+      "food_name": "White Chedda Black Peppa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/moon-cheese/white-chedda-black-peppa",
+      "brand_name": "Moon Cheese",
+      "food_type": "Brand"
+    }
+  ]
+}

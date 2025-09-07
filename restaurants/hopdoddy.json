@@ -1,0 +1,76 @@
+{
+  "restaurant": "Hopdoddy",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:26:14.470Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/hopdoddy.json",
+  "items": [
+    {
+      "food_id": "60661710",
+      "food_name": "Classic Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hopdoddy/classic-burger",
+      "brand_name": "Hopdoddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29579207",
+      "food_name": "Parmesan Truffle Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hopdoddy/parmesan-truffle-fries",
+      "brand_name": "Hopdoddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6003977",
+      "food_name": "Ahi Tuna Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hopdoddy/ahi-tuna-burger",
+      "brand_name": "Hopdoddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28684189",
+      "food_name": "Thunderbird",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hopdoddy/thunderbird",
+      "brand_name": "Hopdoddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27661773",
+      "food_name": "Buffalo Bill Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hopdoddy/buffalo-bill-burger",
+      "brand_name": "Hopdoddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93781544",
+      "food_name": "Egg Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hopdoddy/egg-bun",
+      "brand_name": "Hopdoddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61984778",
+      "food_name": "Green Chile Queso Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hopdoddy/green-chile-queso-fries",
+      "brand_name": "Hopdoddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68077017",
+      "food_name": "Llano Poblano",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hopdoddy/llano-poblano",
+      "brand_name": "Hopdoddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44776753",
+      "food_name": "Magic Shroom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hopdoddy/magic-shroom",
+      "brand_name": "Hopdoddy",
+      "food_type": "Brand"
+    }
+  ]
+}

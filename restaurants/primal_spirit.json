@@ -1,0 +1,34 @@
+{
+  "restaurant": "Primal Spirit",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 16,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:34:26.925Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/primal_spirit.json",
+  "items": [
+    {
+      "food_id": "48149435",
+      "food_name": "Teriyaki Vegan Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primal-spirit/teriyaki-vegan-jerky",
+      "brand_name": "Primal Spirit",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48149610",
+      "food_name": "Thai Peanut Vegan Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primal-spirit/thai-peanut-vegan-jerky",
+      "brand_name": "Primal Spirit",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48149407",
+      "food_name": "Hickory Smoked Vegan Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primal-spirit/hickory-smoked-vegan-jerky",
+      "brand_name": "Primal Spirit",
+      "food_type": "Brand"
+    }
+  ]
+}

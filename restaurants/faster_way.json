@@ -1,0 +1,55 @@
+{
+  "restaurant": "FASTer Way",
+  "total_items": 6,
+  "pages_extracted": 2,
+  "total_search_results": 69,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:40:01.520Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/faster_way.json",
+  "items": [
+    {
+      "food_id": "55804824",
+      "food_name": "Protein - Grass Fed - Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/faster-way/protein-grass-fed-vanilla",
+      "brand_name": "FASTer Way",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55804862",
+      "food_name": "Protein - Grass Fed - Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/faster-way/protein-grass-fed-chocolate",
+      "brand_name": "FASTer Way",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55804880",
+      "food_name": "Protein - Plant-Based - Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/faster-way/protein-plant-based-chocolate",
+      "brand_name": "FASTer Way",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81721766",
+      "food_name": "Protein - Grass Fed - Cafe Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/faster-way/protein-grass-fed-cafe-latte",
+      "brand_name": "FASTer Way",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81727297",
+      "food_name": "Collagen Peptides - Strawberry Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/faster-way/collagen-peptides-strawberry-lemonade",
+      "brand_name": "FASTer Way",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55804870",
+      "food_name": "Protein - Plant-Based - Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/faster-way/protein-plant-based-vanilla",
+      "brand_name": "FASTer Way",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "brand_name": "Crispin",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:19:23.171Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/crispin.json",
+  "items": [
+    {
+      "food_id": "2108367",
+      "food_name": "Natural Hard Apple Cider",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crispin/natural-hard-apple-cider",
+      "brand_name": "Crispin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10655099",
+      "food_name": "Natural Hard Pear Cider",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crispin/natural-hard-pear-cider",
+      "brand_name": "Crispin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13085037",
+      "food_name": "Brut Hard Cider",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crispin/brut-hard-cider",
+      "brand_name": "Crispin",
+      "food_type": "Brand"
+    }
+  ]
+}

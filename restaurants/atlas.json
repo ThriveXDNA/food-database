@@ -1,0 +1,62 @@
+{
+  "restaurant": "Atlas",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:09:47.521Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/atlas.json",
+  "items": [
+    {
+      "food_id": "34110104",
+      "food_name": "Peanut Butter Chocolate Chip Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/atlas/peanut-butter-chocolate-chip-protein-bar",
+      "brand_name": "Atlas",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35147140",
+      "food_name": "Chocolate Cacao Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/atlas/chocolate-cacao-protein-bar",
+      "brand_name": "Atlas",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41929623",
+      "food_name": "Almond Chocolate Chip Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/atlas/almond-chocolate-chip-protein-bar",
+      "brand_name": "Atlas",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35302235",
+      "food_name": "Peanut Butter & Raspberry Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/atlas/peanut-butter-raspberry-protein-bar",
+      "brand_name": "Atlas",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32719423",
+      "food_name": "Vanilla Almond Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/atlas/vanilla-almond-protein-bar",
+      "brand_name": "Atlas",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36137599",
+      "food_name": "Mint Chocolate Chip Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/atlas/mint-chocolate-chip-protein-bar",
+      "brand_name": "Atlas",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57109531",
+      "food_name": "Vanilla Almond Protein Bar (54 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/atlas/vanilla-almond-protein-bar-(54-g)",
+      "brand_name": "Atlas",
+      "food_type": "Brand"
+    }
+  ]
+}

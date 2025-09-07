@@ -1,0 +1,34 @@
+{
+  "restaurant": "Bay Laurel To Go",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 571,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:32:56.633Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bay_laurel_to_go.json",
+  "items": [
+    {
+      "food_id": "11868918",
+      "food_name": "Chipotle Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bay-laurel-to-go/chipotle-chicken-wrap",
+      "brand_name": "Bay Laurel To Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3687812",
+      "food_name": "Thai Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bay-laurel-to-go/thai-chicken-wrap",
+      "brand_name": "Bay Laurel To Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3384114",
+      "food_name": "Turkey & Cranberry on Organic Ciabatta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bay-laurel-to-go/turkey-and-cranberry-on-organic-ciabatta",
+      "brand_name": "Bay Laurel To Go",
+      "food_type": "Brand"
+    }
+  ]
+}

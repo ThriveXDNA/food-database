@@ -1,0 +1,20 @@
+{
+  "restaurant": "Great Canadian Bagel",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 1142,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:03:34.400Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/great_canadian_bagel.json",
+  "items": [
+    {
+      "food_id": "3680100",
+      "food_name": "Cheddar Jalapeno Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-canadian-bagel/cheddar-jalapeno-bagel",
+      "brand_name": "Great Canadian Bagel",
+      "food_type": "Brand"
+    }
+  ]
+}

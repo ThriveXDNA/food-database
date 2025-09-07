@@ -1,0 +1,69 @@
+{
+  "restaurant": "Chicken Shack",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 15839,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:50:54.637Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/chicken_shack.json",
+  "items": [
+    {
+      "food_id": "5574585",
+      "food_name": "Broasted Chicken Thigh",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicken-shack/broasted-chicken-thigh",
+      "brand_name": "Chicken Shack",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13408727",
+      "food_name": "Chicken Tender",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicken-shack/chicken-tender",
+      "brand_name": "Chicken Shack",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5945742",
+      "food_name": "Broasted Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicken-shack/broasted-potatoes",
+      "brand_name": "Chicken Shack",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7216417",
+      "food_name": "Broasted Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicken-shack/broasted-chicken-breast",
+      "brand_name": "Chicken Shack",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5945753",
+      "food_name": "Cole Slaw",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicken-shack/cole-slaw",
+      "brand_name": "Chicken Shack",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4302520",
+      "food_name": "Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicken-shack/roll",
+      "brand_name": "Chicken Shack",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5602914",
+      "food_name": "Butter For Broasted Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicken-shack/butter-for-broasted-potatoes",
+      "brand_name": "Chicken Shack",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13408788",
+      "food_name": "Barbecue Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicken-shack/barbecue-sauce",
+      "brand_name": "Chicken Shack",
+      "food_type": "Brand"
+    }
+  ]
+}

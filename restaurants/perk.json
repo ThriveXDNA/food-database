@@ -1,0 +1,27 @@
+{
+  "restaurant": "Perk",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:24:51.444Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/perk.json",
+  "items": [
+    {
+      "food_id": "34502788",
+      "food_name": "Mexican Hot Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perk/mexican-hot-chocolate",
+      "brand_name": "Perk",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63116685",
+      "food_name": "Chill",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perk/chill",
+      "brand_name": "Perk",
+      "food_type": "Brand"
+    }
+  ]
+}

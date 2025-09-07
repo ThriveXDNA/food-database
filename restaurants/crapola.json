@@ -1,0 +1,20 @@
+{
+  "restaurant": "Crapola",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 1,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:52:10.958Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/crapola.json",
+  "items": [
+    {
+      "food_id": "12187348",
+      "food_name": "Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crapola/original",
+      "brand_name": "Crapola",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "River Gold",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 313,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:03:20.968Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/river_gold.json",
+  "items": [
+    {
+      "food_id": "44291213",
+      "food_name": "Golden Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/river-gold/golden-potatoes",
+      "brand_name": "River Gold",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58701570",
+      "food_name": "Baby Gold Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/river-gold/baby-gold-potatoes",
+      "brand_name": "River Gold",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Dilettante",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:05:53.270Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dilettante.json",
+  "items": [
+    {
+      "food_id": "3488206",
+      "food_name": "Espresso Beans in Premium Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dilettante/espresso-beans-in-premium-chocolate",
+      "brand_name": "Dilettante",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81799",
+      "food_name": "Assorted Truffles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dilettante/assorted-truffles",
+      "brand_name": "Dilettante",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2835762",
+      "food_name": "Almonds in Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dilettante/almonds-in-chocolate",
+      "brand_name": "Dilettante",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3372580",
+      "food_name": "Bing Cherries in Premium Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dilettante/bing-cherries-in-premium-chocolate",
+      "brand_name": "Dilettante",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81698",
+      "food_name": "Fruit Medley Chocolates",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dilettante/fruit-medley-chocolates",
+      "brand_name": "Dilettante",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2007069",
+      "food_name": "Sea Salt Cashews",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dilettante/sea-salt-cashews",
+      "brand_name": "Dilettante",
+      "food_type": "Brand"
+    }
+  ]
+}

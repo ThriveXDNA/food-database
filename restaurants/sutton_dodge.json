@@ -1,0 +1,55 @@
+{
+  "restaurant": "Sutton & Dodge",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:14:45.709Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sutton_dodge.json",
+  "items": [
+    {
+      "food_id": "1518989",
+      "food_name": "Beef Top Round Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sutton-and-dodge/beef-top-round-roast",
+      "brand_name": "Sutton & Dodge",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5916312",
+      "food_name": "Petite Sirloin Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sutton-and-dodge/petite-sirloin-steak",
+      "brand_name": "Sutton & Dodge",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1330989",
+      "food_name": "Beef Sirloin Petite Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sutton-and-dodge/beef-sirloin-petite-steak",
+      "brand_name": "Sutton & Dodge",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3210573",
+      "food_name": "Beef Cubed Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sutton-and-dodge/beef-cubed-steak",
+      "brand_name": "Sutton & Dodge",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16381329",
+      "food_name": "Beef For Sandwich Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sutton-and-dodge/beef-for-sandwich-steak",
+      "brand_name": "Sutton & Dodge",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2167919",
+      "food_name": "Beef Chuck Tender Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sutton-and-dodge/beef-chuck-tender-steak",
+      "brand_name": "Sutton & Dodge",
+      "food_type": "Brand"
+    }
+  ]
+}

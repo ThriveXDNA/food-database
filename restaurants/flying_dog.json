@@ -1,0 +1,48 @@
+{
+  "restaurant": "Flying Dog",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 485,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:01:17.883Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/flying_dog.json",
+  "items": [
+    {
+      "food_id": "2886571",
+      "food_name": "Raging Bitch Belgian IPA",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flying-dog/raging-bitch-belgian-ipa",
+      "brand_name": "Flying Dog",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2261910",
+      "food_name": "Tire Bite Golden Ale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flying-dog/tire-bite-golden-ale",
+      "brand_name": "Flying Dog",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2672653",
+      "food_name": "Gonzo Imperial Porter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flying-dog/gonzo-imperial-porter",
+      "brand_name": "Flying Dog",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2942823",
+      "food_name": "Road Dog Scottish Porter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flying-dog/road-dog-scottish-porter",
+      "brand_name": "Flying Dog",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1762284",
+      "food_name": "Snake Dog IPA",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flying-dog/snake-dog-ipa",
+      "brand_name": "Flying Dog",
+      "food_type": "Brand"
+    }
+  ]
+}

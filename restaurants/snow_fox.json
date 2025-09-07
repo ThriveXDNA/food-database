@@ -1,0 +1,90 @@
+{
+  "restaurant": "Snow Fox",
+  "total_items": 11,
+  "pages_extracted": 2,
+  "total_search_results": 61,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:41:18.083Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/snow_fox.json",
+  "items": [
+    {
+      "food_id": "16176424",
+      "food_name": "California Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snow-fox/california-roll",
+      "brand_name": "Snow Fox",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18771730",
+      "food_name": "Sushi Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snow-fox/sushi-combo",
+      "brand_name": "Snow Fox",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54222542",
+      "food_name": "Spicy Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snow-fox/spicy-combo",
+      "brand_name": "Snow Fox",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14098379",
+      "food_name": "New York Crunch Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snow-fox/new-york-crunch-roll",
+      "brand_name": "Snow Fox",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49902339",
+      "food_name": "Spicy Crunch Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snow-fox/spicy-crunch-roll",
+      "brand_name": "Snow Fox",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14734606",
+      "food_name": "Dragon Roll (9 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snow-fox/dragon-roll",
+      "brand_name": "Snow Fox",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13527130",
+      "food_name": "Summer Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snow-fox/summer-roll",
+      "brand_name": "Snow Fox",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73773970",
+      "food_name": "Smoked Salmon Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snow-fox/smoked-salmon-roll",
+      "brand_name": "Snow Fox",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70695061",
+      "food_name": "Vegan Classic Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snow-fox/vegan-classic-roll",
+      "brand_name": "Snow Fox",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75954265",
+      "food_name": "Dragon Roll (5 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snow-fox/dragon-roll-(5-oz)",
+      "brand_name": "Snow Fox",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64664958",
+      "food_name": "Garden Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snow-fox/garden-wrap",
+      "brand_name": "Snow Fox",
+      "food_type": "Brand"
+    }
+  ]
+}

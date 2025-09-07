@@ -1,0 +1,76 @@
+{
+  "restaurant": "Bakery Street",
+  "total_items": 9,
+  "pages_extracted": 6,
+  "total_search_results": 265,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:12:56.337Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bakery_street.json",
+  "items": [
+    {
+      "food_id": "69471784",
+      "food_name": "Raspberry Lemon Rose Bundt Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakery-street/raspberry-lemon-rose-bundt-cake",
+      "brand_name": "Bakery Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75705923",
+      "food_name": "Gingerbread Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakery-street/gingerbread-cookies",
+      "brand_name": "Bakery Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48620476",
+      "food_name": "Keto Chocolate Chip Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakery-street/keto-chocolate-chip-cookies",
+      "brand_name": "Bakery Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47563860",
+      "food_name": "Keto Protein Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakery-street/keto-protein-bites",
+      "brand_name": "Bakery Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32885244",
+      "food_name": "Almond Keto Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakery-street/almond-keto-bites",
+      "brand_name": "Bakery Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70291869",
+      "food_name": "Banana Walnut Mini-Loaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakery-street/banana-walnut-mini-loaf",
+      "brand_name": "Bakery Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35047760",
+      "food_name": "Cinnamon Pecan Keto Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakery-street/cinnamon-pecan-keto-bites",
+      "brand_name": "Bakery Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46734595",
+      "food_name": "Blueberry Cinnamon Keto Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakery-street/blueberry-cinnamon-keto-bites",
+      "brand_name": "Bakery Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27494284",
+      "food_name": "Toasted Coconut Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bakery-street/toasted-coconut-crisps",
+      "brand_name": "Bakery Street",
+      "food_type": "Brand"
+    }
+  ]
+}

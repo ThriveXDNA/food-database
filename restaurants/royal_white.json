@@ -1,0 +1,20 @@
+{
+  "restaurant": "Royal White",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 3913,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:41:51.784Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/royal_white.json",
+  "items": [
+    {
+      "food_id": "8278252",
+      "food_name": "EZ Peel Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/royal-white/ez-peel-shrimp",
+      "brand_name": "Royal White",
+      "food_type": "Brand"
+    }
+  ]
+}

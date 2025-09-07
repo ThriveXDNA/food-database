@@ -1,0 +1,20 @@
+{
+  "restaurant": "Sunergia Soyfoods",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 1,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:33:58.987Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sunergia_soyfoods.json",
+  "items": [
+    {
+      "food_id": "71422",
+      "food_name": "More than Tofu - Spicy Thai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunergia-soyfoods/more-than-tofu---spicy-thai",
+      "brand_name": "Sunergia Soyfoods",
+      "food_type": "Brand"
+    }
+  ]
+}

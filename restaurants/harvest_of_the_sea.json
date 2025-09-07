@@ -1,0 +1,55 @@
+{
+  "restaurant": "Harvest of the Sea",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 3191,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:39:43.923Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/harvest_of_the_sea.json",
+  "items": [
+    {
+      "food_id": "50940986",
+      "food_name": "Branzino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harvest-of-the-sea/branzino",
+      "brand_name": "Harvest of the Sea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2162032",
+      "food_name": "Cioppino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harvest-of-the-sea/cioppino",
+      "brand_name": "Harvest of the Sea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3504983",
+      "food_name": "Seafood Medley",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harvest-of-the-sea/seafood-medley",
+      "brand_name": "Harvest of the Sea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3335814",
+      "food_name": "Cooked Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harvest-of-the-sea/cooked-shrimp",
+      "brand_name": "Harvest of the Sea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2658241",
+      "food_name": "Raw Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harvest-of-the-sea/raw-shrimp",
+      "brand_name": "Harvest of the Sea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19928207",
+      "food_name": "Raw Calamari Rings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harvest-of-the-sea/raw-calamari-rings",
+      "brand_name": "Harvest of the Sea",
+      "food_type": "Brand"
+    }
+  ]
+}

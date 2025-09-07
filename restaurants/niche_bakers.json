@@ -1,0 +1,27 @@
+{
+  "restaurant": "Niche Bakers",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:47:45.573Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/niche_bakers.json",
+  "items": [
+    {
+      "food_id": "20251483",
+      "food_name": "Black Forest Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/niche-bakers/black-forest-cake",
+      "brand_name": "Niche Bakers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72230580",
+      "food_name": "Cherry Crisp Squares",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/niche-bakers/cherry-crisp-squares",
+      "brand_name": "Niche Bakers",
+      "food_type": "Brand"
+    }
+  ]
+}

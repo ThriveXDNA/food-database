@@ -1,0 +1,2405 @@
+{
+  "restaurant": "IHOP",
+  "total_items": 342,
+  "pages_extracted": 7,
+  "last_updated": "2025-09-06T06:52:08.993Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Restaurant search with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ihop.json",
+  "items": [
+    {
+      "food_id": "84353497",
+      "food_name": "Hash Browns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/hash-browns",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992274",
+      "food_name": "Hash Brown",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/hash-brown",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992539",
+      "food_name": "Crispy Breakfast Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/crispy-breakfast-potatoes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992556",
+      "food_name": "Fresh Fruit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/fresh-fruit",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992084",
+      "food_name": "Belgian Waffle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/belgian-waffle",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1835560",
+      "food_name": "Chicken & Waffles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/chicken-and-waffles",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353811",
+      "food_name": "Poached Egg (1 Egg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/poached-egg-(1-egg)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992696",
+      "food_name": "Buttered Toast with Jam - Sourdough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/buttered-toast-with-jam-sourdough",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350978",
+      "food_name": "Pesto Veggie Egg White Omelette Includes Side of Fresh Fruit.",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/pesto-veggie-egg-white-omelette-includes-side-of-fresh-fruit",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52109570",
+      "food_name": "Big Steak Omelette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/big-steak-omelette",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992413",
+      "food_name": "T-Bone Steak (10 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/t-bone-steak-(10-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353757",
+      "food_name": "Hardboiled Egg (1 Egg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/hardboiled-egg-(1-egg)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1516499",
+      "food_name": "Butter Pecan Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/butter-pecan-syrup",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992143",
+      "food_name": "Huevos Rancheros",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/huevos-rancheros",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60892",
+      "food_name": "Colorado Omelette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/colorado-omelette",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353887",
+      "food_name": "Scrambled Egg (1 Egg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/scrambled-egg-(1-egg)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1821473",
+      "food_name": "Chicken Fajita Omelette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/chicken-fajita-omelette",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992172",
+      "food_name": "Spinach & Mushroom Omelette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/spinach-mushroom-omelette",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992491",
+      "food_name": "55+ BLT",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/55-blt",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1479529",
+      "food_name": "Breakfast Sampler",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/breakfast-sampler",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2408825",
+      "food_name": "Sirloin Tips & Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/sirloin-tips-and-eggs",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992412",
+      "food_name": "Sirloin Steak Tips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/sirloin-steak-tips",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353901",
+      "food_name": "Scrambled Egg White (1 Egg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/scrambled-egg-white-(1-egg)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992145",
+      "food_name": "Loco Moco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/loco-moco",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25125459",
+      "food_name": "French Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/french-fries",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84351094",
+      "food_name": "Classic Benedict",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/classic-benedict",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350583",
+      "food_name": "Classic Thick N Fluffy French Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/classic-thick-n-fluffy-french-toast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992385",
+      "food_name": "Cali Roasted Turkey Melt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/cali-roasted-turkey-melt",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84352456",
+      "food_name": "OREO Cookie Milkshake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/oreo-cookie-milkshake",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1884999",
+      "food_name": "Bacon Temptation Omelette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/bacon-temptation-omelette",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992123",
+      "food_name": "Avocado Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/avocado-toast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992534",
+      "food_name": "Buttered English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/buttered-english-muffin",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992698",
+      "food_name": "Buttered Toast with Jam - White",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/buttered-toast-with-jam-white",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4785247",
+      "food_name": "Strawberry Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/strawberry-syrup",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992164",
+      "food_name": "T-Bone Steak & Eggs (10 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/t-bone-steak-eggs-(10-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68991727",
+      "food_name": "Coffee (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/coffee-(16-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19881023",
+      "food_name": "Spicy Poblano Omelette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/spicy-poblano-omelette",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68991928",
+      "food_name": "Fresh Berry Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/fresh-berry-crepes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992482",
+      "food_name": "55+ 2 x 2 x 2",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/55-2-x-2-x-2",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84352645",
+      "food_name": "House Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/house-salad",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8716179",
+      "food_name": "Blueberry Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/blueberry-syrup",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992483",
+      "food_name": "55+ Breakfast Sampler",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/55-breakfast-sampler",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992693",
+      "food_name": "Buttered Toast with Jam - Multigrain",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/buttered-toast-with-jam-multigrain",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8458385",
+      "food_name": "Onion Rings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/onion-rings",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992568",
+      "food_name": "Slice of Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/slice-of-ham",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992695",
+      "food_name": "Buttered Toast with Jam - Rye Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/buttered-toast-with-jam-rye-bread",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3283041",
+      "food_name": "Appetizer Sampler",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/appetizer-sampler",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992563",
+      "food_name": "Plant-Based Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/plant-based-sausage",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68991920",
+      "food_name": "Cinnamon Bun Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/cinnamon-bun-crepes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992890",
+      "food_name": "Chocolate Milkshake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/chocolate-milkshake",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350977",
+      "food_name": "2 x 2 x 2",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/2-x-2-x-2",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1782839",
+      "food_name": "Split Decision Breakfast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/split-decision-breakfast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68991914",
+      "food_name": "Build Your Combo - Fresh Berry Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-fresh-berry-crepes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992486",
+      "food_name": "55+ French Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/55-french-toast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992893",
+      "food_name": "Strawberry Milkshake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/strawberry-milkshake",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992897",
+      "food_name": "Vanilla Milkshake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/vanilla-milkshake",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992781",
+      "food_name": "Orange Juice (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/orange-juice-(regular)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68991897",
+      "food_name": "Breakfast Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/breakfast-crepes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355458",
+      "food_name": "Vanilla Cold Foam Cold Brew (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/vanilla-cold-foam-cold-brew-(16-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353092",
+      "food_name": "Fisherman's Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/fishermans-platter",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1379908",
+      "food_name": "Orange Juice (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/orange-juice-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992120",
+      "food_name": "2 X 2 X 2 Breakfast Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/2-x-2-x-2-breakfast-combo",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992606",
+      "food_name": "New York Cheesecake Pancakes (3)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/new-york-cheesecake-pancakes-(3)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992131",
+      "food_name": "Chicken & Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/chicken-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353097",
+      "food_name": "French Toast Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/french-toast-sticks",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992728",
+      "food_name": "International House Roast Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/international-house-roast-coffee",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992745",
+      "food_name": "Hot Tea - Decaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/hot-tea-decaf",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7660475",
+      "food_name": "Grits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/grits",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992149",
+      "food_name": "Migas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/migas",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84351118",
+      "food_name": "Spicy Poblano Benedict",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/spicy-poblano-benedict",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992356",
+      "food_name": "Big Brunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/big-brunch",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992339",
+      "food_name": "Chicken Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/chicken-quesadilla",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68991732",
+      "food_name": "Orange Juice (16 Fl Oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/orange-juice-(16-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350589",
+      "food_name": "Strawberry Banana Thick N Fluffy French Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/strawberry-banana-thick-n-fluffy-french-toast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992760",
+      "food_name": "Sweet Tea (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/sweet-tea-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355459",
+      "food_name": "Vanilla Cold Foam Cold Brew (30 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/vanilla-cold-foam-cold-brew-(30-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84348992",
+      "food_name": "Build Your Combo - Belgian Waffle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-belgian-waffle",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1759774",
+      "food_name": "Philly Cheese Steak Stacker",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/philly-cheese-steak-stacker",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992072",
+      "food_name": "Build Your Combo - Strawberry Banana Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-strawberry-banana-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353419",
+      "food_name": "Buttermilk Biscuit with Country Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/buttermilk-biscuit-with-country-gravy",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992747",
+      "food_name": "Hot Tea - English Breakfast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/hot-tea-english-breakfast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355636",
+      "food_name": "1% Milk (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/1-milk-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84348852",
+      "food_name": "3 Pieces Crispy Chicken Strips (No Sauce)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/3-pieces-crispy-chicken-strips-(no-sauce)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992148",
+      "food_name": "Machaca",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/machaca",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992411",
+      "food_name": "Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/salmon",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353417",
+      "food_name": "Buttermilk Biscuit with Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/buttermilk-biscuit-with-butter",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992766",
+      "food_name": "Hot Chocolate (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/hot-chocolate-(regular)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350572",
+      "food_name": "OREO Crumble Waffle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/oreo-crumble-waffle",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353098",
+      "food_name": "Happy Face Pancake with Buttermilk Pancake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/happy-face-pancake-with-buttermilk-pancake",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353367",
+      "food_name": "55+ Crispy Fish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/55-crispy-fish",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992042",
+      "food_name": "Build Your Combo - Double Blueberry Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-double-blueberry-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992344",
+      "food_name": "Mozza Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/mozza-sticks",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353412",
+      "food_name": "Waffle Sundae with Caramel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/waffle-sundae-with-caramel",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992153",
+      "food_name": "Quick 2-Egg Breakfast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/quick-2-egg-breakfast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992331",
+      "food_name": "Buttermilk Crispy Chicken Strips & Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/buttermilk-crispy-chicken-strips-fries",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992067",
+      "food_name": "Build Your Combo - Original Buttermilk Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-original-buttermilk-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992702",
+      "food_name": "Buttered Toast with Jam - Whole Wheat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/buttered-toast-with-jam-whole-wheat",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350576",
+      "food_name": "Strawberry Cheesecake Waflfe",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/strawberry-cheesecake-waflfe",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84351119",
+      "food_name": "Breakfast Biscuit Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/breakfast-biscuit-sandwich",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353427",
+      "food_name": "Buttermilk Biscuit with Sausage Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/buttermilk-biscuit-with-sausage-gravy",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992069",
+      "food_name": "Build Your Combo - Protein Power Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-protein-power-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992488",
+      "food_name": "55+ Rise 'N Shine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/55-rise-n-shine",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357124",
+      "food_name": "Side of Fresh Fruit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/side-of-fresh-fruit",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992150",
+      "food_name": "Plant-Based Power Sausage Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/plant-based-power-sausage-combo",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992451",
+      "food_name": "Silver 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/silver-5",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992795",
+      "food_name": "Blue Raspberry Lemonade Splasher (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/blue-raspberry-lemonade-splasher-(16-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992063",
+      "food_name": "Build Your Combo - New York Cheesecake Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-new-york-cheesecake-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992362",
+      "food_name": "Cowboy BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/cowboy-bbq",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992739",
+      "food_name": "Freshly Brewed Iced Tea (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/freshly-brewed-iced-tea-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992777",
+      "food_name": "Lemonade (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/lemonade-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992722",
+      "food_name": "Iced Cold Brew (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/iced-cold-brew-(16-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355813",
+      "food_name": "Fruit Punch Hi-C (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/fruit-punch-hi-c-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2162611",
+      "food_name": "Smokehouse Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/smokehouse-combo",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992366",
+      "food_name": "Jalapeno Kick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/jalapeno-kick",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992371",
+      "food_name": "The Classic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/the-classic",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355627",
+      "food_name": "Mango Lemonade (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/mango-lemonade-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992697",
+      "food_name": "Buttered Toast with Jam - Wheatberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/buttered-toast-with-jam-wheatberry",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992751",
+      "food_name": "Hot Tea - Green",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/hot-tea-green",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992373",
+      "food_name": "The Classic with Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/the-classic-with-bacon",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355804",
+      "food_name": "Strawberry Lemonade Splasher (30 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/strawberry-lemonade-splasher-(30-fl-oz)",
+      "brand_name": "Ihop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353046",
+      "food_name": "Crispy Fish & Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/crispy-fish-fries",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353376",
+      "food_name": "Cinnamon Dippers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/cinnamon-dippers",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355460",
+      "food_name": "Mango Iced Tea (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/mango-iced-tea-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992809",
+      "food_name": "Cherry Coke (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/cherry-coke-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350581",
+      "food_name": "Build Your Combo - Strawberry Banana Thick N Fluffy French Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-strawberry-banana-thick-n-fluffy-french-toast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992748",
+      "food_name": "Hot Tea - Golden Chamomile",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/hot-tea-golden-chamomile",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355634",
+      "food_name": "Strawberry Lemonade (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/strawberry-lemonade-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353089",
+      "food_name": "Crispy Shrimp & Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/crispy-shrimp-fries",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84352646",
+      "food_name": "Tomato Basil Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/tomato-basil-soup",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992772",
+      "food_name": "Apple Juice (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/apple-juice-(regular)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992828",
+      "food_name": "Mountain Dew (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/mountain-dew-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992834",
+      "food_name": "Pepsi (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/pepsi-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992733",
+      "food_name": "International House Roast Decaf Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/international-house-roast-decaf-coffee",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84348808",
+      "food_name": "Chocolate Milk (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/chocolate-milk-(16-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84351253",
+      "food_name": "Crispy Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/crispy-shrimp",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68991723",
+      "food_name": "Apple Juice (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/apple-juice-(16-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84352651",
+      "food_name": "Honey Mustard (1.5 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/honey-mustard-(15-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355876",
+      "food_name": "Fruit Punch Tropicana (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/fruit-punch-tropicana-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992055",
+      "food_name": "Build Your Combo - Mexican Tres Leches Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-mexican-tres-leches-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68991900",
+      "food_name": "Build Your Combo - Cinnamon Bun Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-cinnamon-bun-crepes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992404",
+      "food_name": "Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/pot-roast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992763",
+      "food_name": "Hot Chocolate (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/hot-chocolate-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992807",
+      "food_name": "Brisk Raspberry Iced Tea (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/brisk-raspberry-iced-tea-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992833",
+      "food_name": "Orange Twister (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/orange-twister-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68991735",
+      "food_name": "Lemonade (30 Fl Oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/lemonade-(30-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992047",
+      "food_name": "Build Your Combo - Gluten-Friendly Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-gluten-friendly-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84343862",
+      "food_name": "1% Milk (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/1-milk-(16-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992756",
+      "food_name": "Sweeter Tea (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/sweeter-tea-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992769",
+      "food_name": "Apple Juice (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/apple-juice-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355466",
+      "food_name": "Strawberry Iced Tea (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/strawberry-iced-tea-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84352940",
+      "food_name": "Balsamic Vinaigrette (3 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/balsamic-vinaigrette-(3-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68991739",
+      "food_name": "Unsweetened Iced Tea (30 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/unsweetened-iced-tea-(30-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992134",
+      "food_name": "Chicken Fried Chicken & Eggs with Country Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/chicken-fried-chicken-eggs-with-country-gravy",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992036",
+      "food_name": "Build Your Combo - Chocolate Chocolate Chip Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-chocolate-chocolate-chip-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353101",
+      "food_name": "Happy Face Pancake with Chocolate Pancake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/happy-face-pancake-with-chocolate-pancake",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353414",
+      "food_name": "Waffle Sundae with Strawberriers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/waffle-sundae-with-strawberriers",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992762",
+      "food_name": "Sweet Tea (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/sweet-tea-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992753",
+      "food_name": "Lemonade Iced Tea (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/lemonade-iced-tea-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992782",
+      "food_name": "Tomato Juice (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/tomato-juice-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992796",
+      "food_name": "Blue Raspberry Lemonade Splasher (30 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/blue-raspberry-lemonade-splasher-(30-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355800",
+      "food_name": "Strawberry Lemonade Splasher (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/strawberry-lemonade-splasher-(16-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84351252",
+      "food_name": "Fresh Strawberries & Cream Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/fresh-strawberries-cream-biscuit",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350566",
+      "food_name": "Build Your Combo - Strawberry Cheesecake Waffle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-strawberry-cheesecake-waffle",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84356284",
+      "food_name": "Cinn-A-Stack Milkshake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/cinn-a-stack-milkshake",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992793",
+      "food_name": "Chocolate Milk (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/chocolate-milk-(regular)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992814",
+      "food_name": "Coke Zero (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/coke-zero-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992815",
+      "food_name": "Diet Coke (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/diet-coke-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992838",
+      "food_name": "Sobe Yumberry Pomegranate Life Water (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/sobe-yumberry-pomegranate-life-water-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350577",
+      "food_name": "Build Your Combo - Classic Thick N Fluffy French Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-classic-thick-n-fluffy-french-toast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68991730",
+      "food_name": "Decaf Coffee (16 Fl Oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/decaf-coffee-(16-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84353372",
+      "food_name": "55+ Crispy Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/55-crispy-shrimp",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355965",
+      "food_name": "Fruit Punch Hi-C (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/fruit-punch-hi-c-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355966",
+      "food_name": "Fruit Punch Tropicana (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/fruit-punch-tropicana-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84356367",
+      "food_name": "Diet Coke (1 Gallon)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/diet-coke-(1-gallon)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84356383",
+      "food_name": "Minute Maid / Tropicana Lemonade (1 Gallon)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/minute-maid-tropicana-lemonade-(1-gallon)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992035",
+      "food_name": "Build Your Combo - Chocolate Chip Pancakes (with Buttermilk)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-chocolate-chip-pancakes-(with-buttermilk)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68959500",
+      "food_name": "Breakfast Family Feast with French Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/breakfast-family-feast-with-french-toast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68959502",
+      "food_name": "Breakfast Family Feast with Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/breakfast-family-feast-with-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350504",
+      "food_name": "Build Your Combo - OREO Crumble Waffle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-oreo-crumble-waffle",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992566",
+      "food_name": "Scrapple",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/scrapple",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992797",
+      "food_name": "Mango Lemonade Splasher (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/mango-lemonade-splasher-(16-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992800",
+      "food_name": "Mango Lemonade Splasher (30 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/mango-lemonade-splasher-(30-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355632",
+      "food_name": "Mango Lemonade (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/mango-lemonade-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355635",
+      "food_name": "Strawberry Lemonade (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/strawberry-lemonade-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84356286",
+      "food_name": "Cupcake Milkshake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/cupcake-milkshake",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694072",
+      "food_name": "Banana Caramel Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/banana-caramel-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694078",
+      "food_name": "Chocolate Chip Pancakes with Buttermilk (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/chocolate-chip-pancakes-with-buttermilk-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694163",
+      "food_name": "Mexican Tres Leches Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/mexican-tres-leches-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694389",
+      "food_name": "Build Your Combo - German Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-german-crepes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694329",
+      "food_name": "Original Buttermilk Pancakes (5)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/original-buttermilk-pancakes-(5)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694200",
+      "food_name": "Snickerdoodle Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/snickerdoodle-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694104",
+      "food_name": "Cinn-A-Stack Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/cinn-a-stack-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694355",
+      "food_name": "Build Your Combo - Blueberry Cheesecake Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-blueberry-cheesecake-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694367",
+      "food_name": "Build Your Combo - Cupcake Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-cupcake-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694372",
+      "food_name": "Build Your Combo - Oreo Cheesecake Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-oreo-cheesecake-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694377",
+      "food_name": "Build Your Combo - Rooty Tooty Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-rooty-tooty-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694383",
+      "food_name": "Build Your Combo - Bananas Foster Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-bananas-foster-crepes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694126",
+      "food_name": "Cupcake Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/cupcake-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694174",
+      "food_name": "Oreo Cheesecake Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/oreo-cheesecake-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694182",
+      "food_name": "Protein Power Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/protein-power-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694168",
+      "food_name": "New York Cheesecake Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/new-york-cheesecake-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694566",
+      "food_name": "French Toast Breakfast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/french-toast-breakfast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694578",
+      "food_name": "House Scramble",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/house-scramble",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694591",
+      "food_name": "Jr. Chicken Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/jr-chicken-strips",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694480",
+      "food_name": "Country Breakfast Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/country-breakfast-burrito",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694485",
+      "food_name": "Southwest Chicken Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/southwest-chicken-burrito",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694493",
+      "food_name": "Spicy Poblano Fajita Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/spicy-poblano-fajita-burrito",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694497",
+      "food_name": "Spicy Shredded Beef Anytime Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/spicy-shredded-beef-anytime-tacos",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694503",
+      "food_name": "Chicken Biscuit Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/chicken-biscuit-sandwich",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694510",
+      "food_name": "Onion Rings Appetizer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/onion-rings-appetizer",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694442",
+      "food_name": "Build Your Own Omelette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-own-omelette",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694449",
+      "food_name": "Cheeseburger Omelette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/cheeseburger-omelette",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694660",
+      "food_name": "Pork Sausage Links (2 pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/pork-sausage-links-(2-pcs)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694395",
+      "food_name": "German Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/german-crepes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694403",
+      "food_name": "Bananas Foster Thick N Fluffy French Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/bananas-foster-thick-n-fluffy-french-toast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694422",
+      "food_name": "Classic Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/classic-bowl",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694431",
+      "food_name": "Pigs in A Blanket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/pigs-in-a-blanket",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694516",
+      "food_name": "Bacon Avocado Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/bacon-avocado-ranch",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694525",
+      "food_name": "Chopped Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/chopped-chicken-salad",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694533",
+      "food_name": "Country Fried Steak Dinner",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/country-fried-steak-dinner",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694536",
+      "food_name": "Grilled Chicken Dinner",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/grilled-chicken-dinner",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694475",
+      "food_name": "Big Breakfast Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/big-breakfast-burrito",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694608",
+      "food_name": "Bacon Strips (2 pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/bacon-strips-(2-pcs)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694557",
+      "food_name": "Breakfast Faves Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/breakfast-faves-combo",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694896",
+      "food_name": "Classic Cheeseburger with Fries For Burger Family Feast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/classic-cheeseburger-with-fries-for-burger-family-feast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694818",
+      "food_name": "Blue Raspberry Lemonade (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/blue-raspberry-lemonade-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694730",
+      "food_name": "Turkey Bacon Strips (2 pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/turkey-bacon-strips-(2-pcs)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694770",
+      "food_name": "Turkey Bacon Strips (4 pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/turkey-bacon-strips-(4-pcs)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694844",
+      "food_name": "Pineapple Splasher (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/pineapple-splasher-(16-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694845",
+      "food_name": "Pineapple Splasher (30 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/pineapple-splasher-(30-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694855",
+      "food_name": "Sobe Yumberry Pomegranate Life Water (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/sobe-yumberry-pomegranate-life-water-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694885",
+      "food_name": "Old-Fashioned Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/old-fashioned-syrup",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694791",
+      "food_name": "Fresh Fruit Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/fresh-fruit-bowl",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694796",
+      "food_name": "Pork Sausage Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/pork-sausage-patties",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694753",
+      "food_name": "Pork Sausage Links (4 pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/pork-sausage-links-(4-pcs)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992811",
+      "food_name": "Coca Cola (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/coca-cola-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992825",
+      "food_name": "Manzanita Sol (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/manzanita-sol-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992831",
+      "food_name": "Orange Fanta (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/orange-fanta-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992844",
+      "food_name": "Barq's Root Beer (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/barqs-root-beer-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992845",
+      "food_name": "Brisk Raspberry Iced Tea (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/brisk-raspberry-iced-tea-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992847",
+      "food_name": "Cherry Coke (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/cherry-coke-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992859",
+      "food_name": "Dr. Pepper (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/dr-pepper-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992866",
+      "food_name": "Manzanita Sol (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/manzanita-sol-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992870",
+      "food_name": "Mug Root Beer (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/mug-root-beer-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355638",
+      "food_name": "1% Milk (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/1-milk-(regular)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84356161",
+      "food_name": "Starry Lemon Lime (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/starry-lemon-lime-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992778",
+      "food_name": "Lemonade (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/lemonade-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992806",
+      "food_name": "Barq's Root Beer (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/barqs-root-beer-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992726",
+      "food_name": "Iced Cold Brew (30 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/iced-cold-brew-(30-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84321274",
+      "food_name": "Family Dinner Feast with French Fries Mac N Cheese & Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/family-dinner-feast-with-french-fries-mac-n-cheese-salad",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84352997",
+      "food_name": "Honey Mustard (3 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/honey-mustard-(3-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68959554",
+      "food_name": "Pancake Creations Family Feast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/pancake-creations-family-feast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68959508",
+      "food_name": "Breakfast Family Feast with Waffles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/breakfast-family-feast-with-waffles",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992742",
+      "food_name": "Freshly Brewed Iced Tea (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/freshly-brewed-iced-tea-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992039",
+      "food_name": "Build Your Combo - Cinn-a-Stack Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-cinn-a-stack-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992421",
+      "food_name": "Macaroni & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/macaroni-cheese",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992755",
+      "food_name": "Lemonade Iced Tea (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/lemonade-iced-tea-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355622",
+      "food_name": "Tomato Juice (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/tomato-juice-(regular)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355461",
+      "food_name": "Mango Iced Tea (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/mango-iced-tea-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694332",
+      "food_name": "Build Your Combo - Cookie Butter Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-cookie-butter-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694348",
+      "food_name": "Build Your Combo - Banana Caramel Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-banana-caramel-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694120",
+      "food_name": "Cinnamon Donut Dippers Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/cinnamon-donut-dippers-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694138",
+      "food_name": "Double Blueberry Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/double-blueberry-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694090",
+      "food_name": "Chocolate Chocolate Chip Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/chocolate-chocolate-chip-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694203",
+      "food_name": "Strawberry Banana Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/strawberry-banana-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694151",
+      "food_name": "Gluten Friendly Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/gluten-friendly-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694188",
+      "food_name": "Rooty Tooty Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/rooty-tooty-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694075",
+      "food_name": "Bananas Foster Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/bananas-foster-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694076",
+      "food_name": "Blueberry Cheesecake Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/blueberry-cheesecake-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694050",
+      "food_name": "Cookie Butter Pancakes (4)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/cookie-butter-pancakes-(4)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694053",
+      "food_name": "Original Buttermilk Pancakes (3)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/original-buttermilk-pancakes-(3)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694361",
+      "food_name": "Build Your Combo - Cinnamon Donut Dippers Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-cinnamon-donut-dippers-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694410",
+      "food_name": "Build Your Combo - Bananas Foster Thick N Fluffy French Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-bananas-foster-thick-n-fluffy-french-toast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694415",
+      "food_name": "Buttermilk Biscuits & Gravy Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/buttermilk-biscuits-gravy-combo",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694428",
+      "food_name": "Country Fried Steak & Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/country-fried-steak-eggs",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694378",
+      "food_name": "Build Your Combo - Snickerdoodle Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/build-your-combo-snickerdoodle-pancakes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694382",
+      "food_name": "Bananas Foster Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/bananas-foster-crepes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694552",
+      "food_name": "Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/smoked-sausage",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694478",
+      "food_name": "Chicken Fajita Anytime Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/chicken-fajita-anytime-tacos",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694519",
+      "food_name": "Classic Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/classic-chicken-sandwich",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694522",
+      "food_name": "Double BLT",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/double-blt",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694531",
+      "food_name": "Fresh Berry Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/fresh-berry-salad",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694549",
+      "food_name": "Sirloin Steak Tips & Crispy Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/sirloin-steak-tips-crispy-shrimp",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694436",
+      "food_name": "Wholesome 2-Egg Breakfast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/wholesome-2-egg-breakfast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694500",
+      "food_name": "Bacon Avocado Benedict",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/bacon-avocado-benedict",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694458",
+      "food_name": "Country Omelette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/country-omelette",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694462",
+      "food_name": "Garden Omelette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/garden-omelette",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694465",
+      "food_name": "Veggie Egg White Omelette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/veggie-egg-white-omelette",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694472",
+      "food_name": "Bacon, Egg & Cheese Anytime Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/bacon-egg-cheese-anytime-tacos",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694392",
+      "food_name": "Chicken Florentine Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/chicken-florentine-crepes",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694786",
+      "food_name": "Turkey Sausage Links (4 pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/turkey-sausage-links-(4-pcs)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694761",
+      "food_name": "Slices of Spam (4 pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/slices-of-spam-(4-pcs)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694594",
+      "food_name": "Jr. Cupcake Pancake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/jr-cupcake-pancake",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694598",
+      "food_name": "Jr. Protein Pancake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/jr-protein-pancake",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694601",
+      "food_name": "Jr. Waffle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/jr-waffle",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694603",
+      "food_name": "Fruit Crepe",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/fruit-crepe",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694606",
+      "food_name": "Ice Cream Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/ice-cream-sundae",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694574",
+      "food_name": "Ham & Cheese Omelette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/ham-cheese-omelette",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694582",
+      "food_name": "All-Natural Black Angus Jr. Cheeseburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/all-natural-black-angus-jr-cheeseburger",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694587",
+      "food_name": "Jr. Breakfast Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/jr-breakfast-quesadilla",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694640",
+      "food_name": "Hard or Soft Boiled Eggs (2 pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/hard-or-soft-boiled-eggs-(2-pcs)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694650",
+      "food_name": "Poached Eggs (2 pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/poached-eggs-(2-pcs)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694696",
+      "food_name": "Scrambled Egg Whites (2 pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/scrambled-egg-whites-(2-pcs)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694710",
+      "food_name": "Slices of Spam (2 pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/slices-of-spam-(2-pcs)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694736",
+      "food_name": "Turkey Sausage Links (2 pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/turkey-sausage-links-(2-pcs)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694745",
+      "food_name": "Bacon Strips (4 pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/bacon-strips-(4-pcs)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694627",
+      "food_name": "Fried Eggs (2 pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/fried-eggs-(2-pcs)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694675",
+      "food_name": "Scrambled Eggs (2 pcs)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/scrambled-eggs-(2-pcs)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992773",
+      "food_name": "Cranberry Juice (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/cranberry-juice-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992775",
+      "food_name": "Cranberry Juice (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/cranberry-juice-(regular)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992790",
+      "food_name": "Chocolate Milk (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/chocolate-milk-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992817",
+      "food_name": "Diet Pepsi (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/diet-pepsi-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992818",
+      "food_name": "Dr. Pepper (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/dr-pepper-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992829",
+      "food_name": "Mug Root Beer (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/mug-root-beer-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992836",
+      "food_name": "Pibb Extra (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/pibb-extra-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992840",
+      "food_name": "Sprite (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/sprite-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992848",
+      "food_name": "Coca Cola (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/coca-cola-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992849",
+      "food_name": "Coke Zero (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/coke-zero-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992851",
+      "food_name": "Diet Coke (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/diet-coke-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992857",
+      "food_name": "Diet Pepsi (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/diet-pepsi-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992758",
+      "food_name": "Sweeter Tea (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/sweeter-tea-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992868",
+      "food_name": "Mountain Dew (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/mountain-dew-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992872",
+      "food_name": "Orange Fanta (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/orange-fanta-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992873",
+      "food_name": "Orange Twister (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/orange-twister-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992874",
+      "food_name": "Pepsi (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/pepsi-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992877",
+      "food_name": "Pibb Extra (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/pibb-extra-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992882",
+      "food_name": "Sprite (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/sprite-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68992884",
+      "food_name": "Wild Cherry Pepsi (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/wild-cherry-pepsi-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68991737",
+      "food_name": "Sweeter Tea (30 Fl Oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/sweeter-tea-(30-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694839",
+      "food_name": "Pepsi Zero Sugar (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/pepsi-zero-sugar-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694840",
+      "food_name": "Pepsi Zero Sugar (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/pepsi-zero-sugar-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694847",
+      "food_name": "Sierra Mist (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/sierra-mist-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694849",
+      "food_name": "Sierra Mist (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/sierra-mist-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694880",
+      "food_name": "Watermelonade Blast (30 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/watermelonade-blast-(30-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694882",
+      "food_name": "Wild Cherry Pepsi (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/wild-cherry-pepsi-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694886",
+      "food_name": "Buttermilk Crispy Chicken Family Feast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/buttermilk-crispy-chicken-family-feast",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694873",
+      "food_name": "Starry Lemon Lime (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/starry-lemon-lime-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694874",
+      "food_name": "Watermelonade Blast (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/watermelonade-blast-(16-fl-oz)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694808",
+      "food_name": "Smoked Sausage Links",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/smoked-sausage-links",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694816",
+      "food_name": "Blue Raspberry Lemonade (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/blue-raspberry-lemonade-(large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105694794",
+      "food_name": "Oatmeal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/oatmeal",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84355620",
+      "food_name": "Strawberry Iced Tea (X-Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ihop/strawberry-iced-tea-(x-large)",
+      "brand_name": "IHOP",
+      "food_type": "Brand"
+    }
+  ]
+}

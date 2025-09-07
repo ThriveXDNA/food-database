@@ -1,0 +1,76 @@
+{
+  "restaurant": "The Pioneer Woman",
+  "total_items": 9,
+  "pages_extracted": 6,
+  "total_search_results": 1130,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:30:48.524Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_pioneer_woman.json",
+  "items": [
+    {
+      "food_id": "34452588",
+      "food_name": "Broccoli Cauliflower Casserole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-pioneer-woman/broccoli-cauliflower-casserole",
+      "brand_name": "The Pioneer Woman",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35585012",
+      "food_name": "Rustic Bolognese Pasta Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-pioneer-woman/rustic-bolognese-pasta-sauce",
+      "brand_name": "The Pioneer Woman",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29309053",
+      "food_name": "Cajun Style Chicken Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-pioneer-woman/cajun-style-chicken-pasta",
+      "brand_name": "The Pioneer Woman",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35584933",
+      "food_name": "Italian Sausage & Peppers Pasta Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-pioneer-woman/italian-sausage-peppers-pasta-sauce",
+      "brand_name": "The Pioneer Woman",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32915201",
+      "food_name": "Chorizo Egg Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-pioneer-woman/chorizo-egg-bites",
+      "brand_name": "The Pioneer Woman",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30152537",
+      "food_name": "Beef Meatloaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-pioneer-woman/beef-meatloaf",
+      "brand_name": "The Pioneer Woman",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30695049",
+      "food_name": "Roasted Veggie Egg Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-pioneer-woman/roasted-veggie-egg-bites",
+      "brand_name": "The Pioneer Woman",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39970371",
+      "food_name": "Goat Cheese Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-pioneer-woman/goat-cheese-bites",
+      "brand_name": "The Pioneer Woman",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46917237",
+      "food_name": "Four Cheese Pasta Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-pioneer-woman/four-cheese-pasta-sauce",
+      "brand_name": "The Pioneer Woman",
+      "food_type": "Brand"
+    }
+  ]
+}

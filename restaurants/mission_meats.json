@@ -1,0 +1,55 @@
+{
+  "restaurant": "Mission Meats",
+  "total_items": 6,
+  "pages_extracted": 4,
+  "total_search_results": 153,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:01:39.804Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mission_meats.json",
+  "items": [
+    {
+      "food_id": "17807780",
+      "food_name": "Turkey Sticks Tasty Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mission-meats/turkey-sticks-tasty-original",
+      "brand_name": "Mission Meats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12663672",
+      "food_name": "Graze Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mission-meats/graze-sticks",
+      "brand_name": "Mission Meats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37666330",
+      "food_name": "Beef Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mission-meats/beef-sticks",
+      "brand_name": "Mission Meats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96781904",
+      "food_name": "Cracked Pepper Pork Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mission-meats/cracked-pepper-pork-stick",
+      "brand_name": "Mission Meats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44578278",
+      "food_name": "Fajita Beef & Veggie Strip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mission-meats/fajita-beef-veggie-strip",
+      "brand_name": "Mission Meats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40938684",
+      "food_name": "Beef Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mission-meats/beef-bar",
+      "brand_name": "Mission Meats",
+      "food_type": "Brand"
+    }
+  ]
+}

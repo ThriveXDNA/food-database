@@ -1,0 +1,48 @@
+{
+  "restaurant": "Bantry Bay",
+  "total_items": 5,
+  "pages_extracted": 2,
+  "total_search_results": 65,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:37:47.794Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bantry_bay.json",
+  "items": [
+    {
+      "food_id": "85155",
+      "food_name": "Mussels in Garlic Butter Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bantry-bay/mussels-in-garlic-butter-sauce",
+      "brand_name": "Bantry Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "718474",
+      "food_name": "Mussels in Tomato & Garlic Butter Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bantry-bay/mussels-in-tomato-and-garlic-butter-sauce",
+      "brand_name": "Bantry Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2145124",
+      "food_name": "Mussels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bantry-bay/mussels",
+      "brand_name": "Bantry Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12896190",
+      "food_name": "Mussel Meats in Thai Curry Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bantry-bay/mussel-meats-in-thai-curry-sauce",
+      "brand_name": "Bantry Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16045535",
+      "food_name": "Mussels in A Creamy Stout Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bantry-bay/mussels-in-a-creamy-stout-sauce",
+      "brand_name": "Bantry Bay",
+      "food_type": "Brand"
+    }
+  ]
+}

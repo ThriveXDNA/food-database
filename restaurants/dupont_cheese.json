@@ -1,0 +1,20 @@
+{
+  "restaurant": "Dupont Cheese",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 12080,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:22:32.995Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dupont_cheese.json",
+  "items": [
+    {
+      "food_id": "33398517",
+      "food_name": "Cheese Curds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dupont-cheese/cheese-curds",
+      "brand_name": "Dupont Cheese",
+      "food_type": "Brand"
+    }
+  ]
+}

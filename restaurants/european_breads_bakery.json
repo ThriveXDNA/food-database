@@ -1,0 +1,27 @@
+{
+  "restaurant": "European Breads Bakery",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 96,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:16:49.398Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/european_breads_bakery.json",
+  "items": [
+    {
+      "food_id": "9503639",
+      "food_name": "Ukrainian 100% Rye Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/european-breads-bakery/ukrainian-100-rye-bread",
+      "brand_name": "European Breads Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12174164",
+      "food_name": "Barley Quinoa Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/european-breads-bakery/barley-quinoa-bread",
+      "brand_name": "European Breads Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "restaurant": "Ginger Evans",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 870,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:05:33.685Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ginger_evans.json",
+  "items": [
+    {
+      "food_id": "8307232",
+      "food_name": "Glazed Donut Holes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ginger-evans/glazed-donut-holes",
+      "brand_name": "Ginger Evans",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43480412",
+      "food_name": "Marshmallows",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ginger-evans/marshmallows",
+      "brand_name": "Ginger Evans",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5138681",
+      "food_name": "Crescent Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ginger-evans/crescent-rolls",
+      "brand_name": "Ginger Evans",
+      "food_type": "Brand"
+    }
+  ]
+}

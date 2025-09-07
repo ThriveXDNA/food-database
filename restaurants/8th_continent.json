@@ -1,0 +1,41 @@
+{
+  "restaurant": "8th Continent",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:52:18.147Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/8th_continent.json",
+  "items": [
+    {
+      "food_id": "54268",
+      "food_name": "Original Soymilk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/8th-continent/original-soymilk",
+      "brand_name": "8th Continent",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45953",
+      "food_name": "Soy Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/8th-continent/soy-milk",
+      "brand_name": "8th Continent",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44343",
+      "food_name": "Light Original Soymilk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/8th-continent/light-original-soymilk",
+      "brand_name": "8th Continent",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54271",
+      "food_name": "Chocolate Soymilk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/8th-continent/chocolate-soymilk",
+      "brand_name": "8th Continent",
+      "food_type": "Brand"
+    }
+  ]
+}

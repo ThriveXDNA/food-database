@@ -1,0 +1,27 @@
+{
+  "restaurant": "Taste Oasis",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 36,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:08:39.365Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/taste_oasis.json",
+  "items": [
+    {
+      "food_id": "11911114",
+      "food_name": "Sweet & Salty Bar Nuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-oasis/sweet-salty-bar-nuts",
+      "brand_name": "Taste Oasis",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13010827",
+      "food_name": "Chili Mango",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-oasis/chili-mango",
+      "brand_name": "Taste Oasis",
+      "food_type": "Brand"
+    }
+  ]
+}

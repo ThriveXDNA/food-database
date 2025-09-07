@@ -1,0 +1,55 @@
+{
+  "restaurant": "Baja Jerky",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 589,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:34:47.015Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/baja_jerky.json",
+  "items": [
+    {
+      "food_id": "39532751",
+      "food_name": "Traditional Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-jerky/traditional-beef-jerky",
+      "brand_name": "Baja Jerky",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62758404",
+      "food_name": "Street Taco Beef Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-jerky/street-taco-beef-stick",
+      "brand_name": "Baja Jerky",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70418866",
+      "food_name": "Crackin' Pepper Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-jerky/crackin-pepper-beef-jerky",
+      "brand_name": "Baja Jerky",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65291615",
+      "food_name": "Lime & Serrano Pepper Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-jerky/lime-serrano-pepper-beef-jerky",
+      "brand_name": "Baja Jerky",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43018612",
+      "food_name": "Sweet Orange Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-jerky/sweet-orange-beef-jerky",
+      "brand_name": "Baja Jerky",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35097611",
+      "food_name": "Salsa Fresca Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baja-jerky/salsa-fresca-beef-jerky",
+      "brand_name": "Baja Jerky",
+      "food_type": "Brand"
+    }
+  ]
+}

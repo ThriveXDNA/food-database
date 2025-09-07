@@ -1,0 +1,55 @@
+{
+  "restaurant": "Yuki & Love",
+  "total_items": 6,
+  "pages_extracted": 4,
+  "total_search_results": 181,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:47:00.736Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/yuki_love.json",
+  "items": [
+    {
+      "food_id": "7719286",
+      "food_name": "Red Bean Mochi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yuki-and-love/red-bean-mochi",
+      "brand_name": "Yuki & Love",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84487144",
+      "food_name": "Snowflake Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yuki-love/snowflake-cake",
+      "brand_name": "Yuki & Love",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44262029",
+      "food_name": "Boba Milk Tea Mochi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yuki-love/boba-milk-tea-mochi",
+      "brand_name": "Yuki & Love",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40628453",
+      "food_name": "Passion Fruit Jelly",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yuki-love/passion-fruit-jelly",
+      "brand_name": "Yuki & Love",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86205564",
+      "food_name": "Strawberry Condensed Milk Snowflake Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yuki-love/strawberry-condensed-milk-snowflake-cake",
+      "brand_name": "Yuki & Love",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5854831",
+      "food_name": "Japanese Style Taro Mochi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yuki-and-love/japanese-style-taro-mochi",
+      "brand_name": "Yuki & Love",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "restaurant": "Value Corner",
+  "total_items": 7,
+  "pages_extracted": 3,
+  "total_search_results": 137,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:07:55.395Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/value_corner.json",
+  "items": [
+    {
+      "food_id": "13763393",
+      "food_name": "2% Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/value-corner/2%25-milk",
+      "brand_name": "Value Corner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21619388",
+      "food_name": "1% Low Fat Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/value-corner/1-low-fat-milk",
+      "brand_name": "Value Corner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16531180",
+      "food_name": "Whole Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/value-corner/whole-milk",
+      "brand_name": "Value Corner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41172508",
+      "food_name": "Fat Free Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/value-corner/fat-free-milk",
+      "brand_name": "Value Corner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18359678",
+      "food_name": "Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/value-corner/wheat-bread",
+      "brand_name": "Value Corner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43957313",
+      "food_name": "Hamburger Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/value-corner/hamburger-buns",
+      "brand_name": "Value Corner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41320553",
+      "food_name": "Large Egg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/value-corner/large-egg",
+      "brand_name": "Value Corner",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "restaurant": "Pride",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:01:04.513Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pride.json",
+  "items": [
+    {
+      "food_id": "274153",
+      "food_name": "Whole Kernel Golden Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pride/whole-kernel-golden-corn",
+      "brand_name": "Pride",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "274142",
+      "food_name": "Cut Green Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pride/cut-green-beans",
+      "brand_name": "Pride",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "274152",
+      "food_name": "Small Very Young Peas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pride/small-very-young-peas",
+      "brand_name": "Pride",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "274140",
+      "food_name": "Cream Style Golden Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pride/cream-style-golden-corn",
+      "brand_name": "Pride",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1893764",
+      "food_name": "Growers' Pride Country Style Orange Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/floridas-natural/growers-pride-country-style-orange-juice",
+      "brand_name": "Florida's Natural",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74655106",
+      "food_name": "Pride Cake (Limited Edition)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-pizza/pride-cake-(limited-edition)",
+      "brand_name": "Mod Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "639776",
+      "food_name": "#4 Pilgrim's Pride",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/milios-sandwiches/4-pilgrims-pride",
+      "brand_name": "Milio's Sandwiches",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105067614",
+      "food_name": "Pride Margarine Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jack-in-the-box/pride-margarine-spread",
+      "brand_name": "Jack in the Box",
+      "food_type": "Brand"
+    }
+  ]
+}

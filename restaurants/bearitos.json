@@ -1,0 +1,83 @@
+{
+  "restaurant": "Bearitos",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:30:10.931Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bearitos.json",
+  "items": [
+    {
+      "food_id": "5774470",
+      "food_name": "Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bearitos/tortilla-chips",
+      "brand_name": "Bearitos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "409617",
+      "food_name": "Fat Free Black Bean Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bearitos/fat-free-black-bean-refried-beans",
+      "brand_name": "Bearitos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76039",
+      "food_name": "Organic No Salt No Oil Microwave Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bearitos/organic-no-salt-no-oil-microwave-popcorn",
+      "brand_name": "Bearitos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76041",
+      "food_name": "Taco Seasoning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bearitos/taco-seasoning",
+      "brand_name": "Bearitos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75969",
+      "food_name": "Fat Free Traditional Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bearitos/fat-free-traditional-refried-beans",
+      "brand_name": "Bearitos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76038",
+      "food_name": "Low Fat Black Bean Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bearitos/low-fat-black-bean-refried-beans",
+      "brand_name": "Bearitos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8091924",
+      "food_name": "Veggie Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bearitos/veggie-puffs",
+      "brand_name": "Bearitos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6496520",
+      "food_name": "Cheddar Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bearitos/cheddar-puffs",
+      "brand_name": "Bearitos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76040",
+      "food_name": "Organic No Oil Added Lightly Salted Microwave Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bearitos/organic-no-oil-added-lightly-salted-microwave-popcorn",
+      "brand_name": "Bearitos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15835154",
+      "food_name": "White Corn Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bearitos/white-corn-tortilla-chips",
+      "brand_name": "Bearitos",
+      "food_type": "Brand"
+    }
+  ]
+}

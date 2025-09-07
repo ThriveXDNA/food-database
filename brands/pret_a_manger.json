@@ -1,0 +1,1622 @@
+{
+  "brand_name": "Pret a Manger",
+  "brand_id": 448,
+  "total_items": 230,
+  "pages_extracted": 17,
+  "last_updated": "2025-09-06T20:40:54.948Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Brand-specific search with filtering",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/pret_a_manger.json",
+  "items": [
+    {
+      "food_id": "69401091",
+      "food_name": "Chicken Caesar Salad with Caesar Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chicken-caesar-salad-with-caesar-dressing",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400706",
+      "food_name": "Cinnamon Kouign Amann (queen a-mahn)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/cinnamon-kouign-amann-(queen-a-mahn)",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4688337",
+      "food_name": "Almond Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/almond-croissant",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400409",
+      "food_name": "Flat White",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/flat-white",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84351071",
+      "food_name": "Mocha",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/mocha",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350851",
+      "food_name": "Raspberry Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/raspberry-cheesecake",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400386",
+      "food_name": "Americano",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/americano",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350751",
+      "food_name": "Pret's Chicken Bánh Mi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/prets-chicken-b%C3%A1nh-mi",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401085",
+      "food_name": "Chicken Avocado Salad with Pret's Simple Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chicken-avocado-salad-with-prets-simple-vinaigrette",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400405",
+      "food_name": "Espresso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/espresso",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32063987",
+      "food_name": "Egg White Greek Frittata",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/egg-white-greek-frittata",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3292972",
+      "food_name": "Chicken & Bacon Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chicken-bacon-sandwich",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400791",
+      "food_name": "Banana",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/banana",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84305427",
+      "food_name": "Michel & Augustin Milk Chocolate Caramel Cookie Squares",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/michel-augustin-milk-chocolate-caramel-cookie-squares",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400460",
+      "food_name": "Iced Americano",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/iced-americano",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14934536",
+      "food_name": "Bircher Muesli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/bircher-muesli",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350771",
+      "food_name": "Blackened Salmon, Avo & Quinoa Salad with Pret's Simple Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/blackened-salmon-avo-quinoa-salad-with-prets-simple-vinaigrette",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400484",
+      "food_name": "Iced Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/iced-latte",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401009",
+      "food_name": "Falafel & Hummus Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/falafel-hummus-wrap",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54388169",
+      "food_name": "Crunchy Chipotle Chicken & Avo Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/crunchy-chipotle-chicken-avo-wrap",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400993",
+      "food_name": "Pret’s Famous Ham & Cheese Baguette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/pret%E2%80%99s-famous-ham-cheese-baguette",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400160",
+      "food_name": "Pret's Tuna & Cucumber Sandwich Slim",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/prets-tuna-cucumber-sandwich-slim",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400173",
+      "food_name": "Pret’s Famous Ham & Cheese Baguette Slim",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/pret%E2%80%99s-famous-ham-cheese-baguette-slim",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400701",
+      "food_name": "Chocolate Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chocolate-croissant",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400986",
+      "food_name": "Pret's Tuna & Cucumber Baguette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/prets-tuna-cucumber-baguette",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87697568",
+      "food_name": "Chicken, Elote Corn & Avocado Salad with Herb Yogurt Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chicken-elote-corn-avocado-salad-with-herb-yogurt-dressing",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401049",
+      "food_name": "Pret’s Chicken Parm Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/pret%E2%80%99s-chicken-parm-wrap",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401206",
+      "food_name": "Kettle Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/kettle-corn",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6546894",
+      "food_name": "Bang Bang Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/bang-bang-chicken-wrap",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400086",
+      "food_name": "Chicken & Bacon Sandwich Slim",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chicken-bacon-sandwich-slim",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400944",
+      "food_name": "Pesto Caprese Baguette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/pesto-caprese-baguette",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244356",
+      "food_name": "Culture Pop Soda - Black Cherry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/culture-pop-soda-black-cherry",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12054070",
+      "food_name": "Brownie Bite",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/brownie-bite",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400625",
+      "food_name": "Ham & Cheddar Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/ham-cheddar-croissant",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84305431",
+      "food_name": "Mezcla Mexican Hot Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/mezcla-mexican-hot-chocolate-bar",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401217",
+      "food_name": "Sea Salt & Vinegar Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/sea-salt-vinegar-chips",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244316",
+      "food_name": "Jackson's Sweet Potato Chips - Farmhouse Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/jacksons-sweet-potato-chips-farmhouse-ranch",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350816",
+      "food_name": "Iced Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/iced-chocolate",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401111",
+      "food_name": "Mediterranean Mezze Salad with Pret's Simple Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/mediterranean-mezze-salad-with-prets-simple-vinaigrette",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69402668",
+      "food_name": "Daily Greens Cold Pressed Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/daily-greens-cold-pressed-juice",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350683",
+      "food_name": "Pret's Chicken Bánh Mi Slim",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/prets-chicken-b%C3%A1nh-mi-slim",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400999",
+      "food_name": "Romesco Chicken & Mozzarella Baguette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/romesco-chicken-mozzarella-baguette",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400197",
+      "food_name": "Moroccan Lentil Soup - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/moroccan-lentil-soup-small",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401178",
+      "food_name": "Turmeric Chicken & Farro Soup - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/turmeric-chicken-farro-soup-large",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401200",
+      "food_name": "Honey BBQ Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/honey-bbq-chips",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69402827",
+      "food_name": "Lime Spindrift Sparkling Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/lime-spindrift-sparkling-water",
+      "brand_name": "Pret A Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84305426",
+      "food_name": "Peeled Snacks Organic Dried Mango",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/peeled-snacks-organic-dried-mango",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4688290",
+      "food_name": "Plain Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/plain-croissant",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400058",
+      "food_name": "Cheddar & Tomato Sandwich Slim",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/cheddar-tomato-sandwich-slim",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400111",
+      "food_name": "Pesto Caprese Baguette Slim",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/pesto-caprese-baguette-slim",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400351",
+      "food_name": "Tomato & Feta Soup - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/tomato-feta-soup-small",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400361",
+      "food_name": "Turmeric Chicken & Farro Soup - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/turmeric-chicken-farro-soup-small",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400744",
+      "food_name": "Chocolate Brownie Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chocolate-brownie-cookie",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350843",
+      "food_name": "Spiced Lentil & Chickpea Hot Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/spiced-lentil-chickpea-hot-wrap",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400614",
+      "food_name": "Egg Salad & Avocado Breakfast Baguette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/egg-salad-avocado-breakfast-baguette",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400660",
+      "food_name": "Southwestern Breakfast Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/southwestern-breakfast-wrap",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400862",
+      "food_name": "Cheddar & Tomato Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/cheddar-tomato-sandwich",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400878",
+      "food_name": "Pret's Chicken Salad & Avo Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/prets-chicken-salad-avo-sandwich",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69402814",
+      "food_name": "Lemon Spindrift Sparkling Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/lemon-spindrift-sparkling-water",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84305460",
+      "food_name": "Dragon Fruit Mango Sunshine Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/dragon-fruit-mango-sunshine-green-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244255",
+      "food_name": "Oat Matcha Iced Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/oat-matcha-iced-latte",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84305461",
+      "food_name": "Dragon Fruit Mango Sunshine Black Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/dragon-fruit-mango-sunshine-black-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5472996",
+      "food_name": "Egg & Spinach Pot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/egg-spinach-pot",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4199429",
+      "food_name": "Chocolate Chunk Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chocolate-chunk-cookie",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400139",
+      "food_name": "Pret's Egg Salad & Arugula Sandwich Slim",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/prets-egg-salad-arugula-sandwich-slim",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400423",
+      "food_name": "Macchiato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/macchiato",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401185",
+      "food_name": "Classic Mac and Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/classic-mac-and-cheese",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84305467",
+      "food_name": "Dragon Fruit Mango Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/dragon-fruit-mango-green-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400893",
+      "food_name": "Pret's Tuna & Cucumber Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/prets-tuna-cucumber-sandwich",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84305462",
+      "food_name": "Dragon Fruit Mango Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/dragon-fruit-mango-lemonade",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350829",
+      "food_name": "Pink Guava Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/pink-guava-lemonade",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244218",
+      "food_name": "Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/latte",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400133",
+      "food_name": "Pret's Chicken Salad & Avo Sandwich Slim",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/prets-chicken-salad-avo-sandwich-slim",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400885",
+      "food_name": "Pret's Egg Salad & Arugula Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/prets-egg-salad-arugula-sandwich",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400932",
+      "food_name": "Rainbow Veggie Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/rainbow-veggie-sandwich",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401518",
+      "food_name": "Cayenne Shot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/cayenne-shot",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243467",
+      "food_name": "Bread Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/bread-roll",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400600",
+      "food_name": "Egg & Cheddar Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/egg-cheddar-roll",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400754",
+      "food_name": "Double Chocolate Pecan Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/double-chocolate-pecan-cookie",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400800",
+      "food_name": "Blueberry & Granola Pot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/blueberry-granola-pot",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69402769",
+      "food_name": "Coke Zero",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/coke-zero",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84305456",
+      "food_name": "Everything Cream Cheese Swirl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/everything-cream-cheese-swirl",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350853",
+      "food_name": "Key Lime Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/key-lime-cheesecake",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243539",
+      "food_name": "Smoked Salmon Nicoise Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/smoked-salmon-nicoise-dressing",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244217",
+      "food_name": "Cappuccino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/cappuccino",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244361",
+      "food_name": "Culture Pop Soda - Orange Mango & Lime",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/culture-pop-soda-orange-mango-lime",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9641723",
+      "food_name": "Harvest Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/harvest-cookie",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31263365",
+      "food_name": "Sunshine Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/sunshine-bowl",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400189",
+      "food_name": "Romesco Chicken & Mozzarella Baguette Slim",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/romesco-chicken-mozzarella-baguette-slim",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401258",
+      "food_name": "Dark Chocolate Almonds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/dark-chocolate-almonds",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401276",
+      "food_name": "Dark Chocolate with Sea Salt Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/dark-chocolate-with-sea-salt-bar",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69402750",
+      "food_name": "Super Reds Cold Pressed Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/super-reds-cold-pressed-juice",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84305470",
+      "food_name": "Dragon Fruit Mango Black Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/dragon-fruit-mango-black-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350239",
+      "food_name": "Veggie Breakfast Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/veggie-breakfast-roll",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243406",
+      "food_name": "Classic Sandwich Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/classic-sandwich-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243814",
+      "food_name": "Croutons, Lemon & Herbs Soup Topper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/croutons-lemon-herbs-soup-topper",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244282",
+      "food_name": "Guava Coconut Chia Pot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/guava-coconut-chia-pot",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2867538",
+      "food_name": "Little Cup of Goodness",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/little-cup-of-goodness",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400178",
+      "food_name": "Rainbow Veggie Sandwich Slim",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/rainbow-veggie-sandwich-slim",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400450",
+      "food_name": "Pret's Organic Single Origin Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/prets-organic-single-origin-coffee",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400722",
+      "food_name": "Blueberry Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/blueberry-muffin",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401524",
+      "food_name": "Classic Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/classic-lemonade",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350830",
+      "food_name": "Pink Guava Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/pink-guava-green-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84351074",
+      "food_name": "Strawberry Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/strawberry-lemonade",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243996",
+      "food_name": "Iced Matcha Chai Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/iced-matcha-chai-latte",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244029",
+      "food_name": "Strawberry Lavender Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/strawberry-lavender-lemonade",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244110",
+      "food_name": "Pret's Italian Turkey Club Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/prets-italian-turkey-club-sandwich",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244213",
+      "food_name": "Lemon Arugula Side Salad with Pret's Simple Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/lemon-arugula-side-salad-with-prets-simple-vinaigrette",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244260",
+      "food_name": "Pink Guava Matcha Iced Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/pink-guava-matcha-iced-latte",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244270",
+      "food_name": "Strawberry Yogurt Pot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/strawberry-yogurt-pot",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244274",
+      "food_name": "Dragon Fruit Coconut Chia Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/dragon-fruit-coconut-chia-bowl",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244339",
+      "food_name": "Tiramisu Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/tiramisu-cheesecake",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400151",
+      "food_name": "Pret's Tuna & Cucumber Baguette Slim",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/prets-tuna-cucumber-baguette-slim",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400504",
+      "food_name": "Organic Cold Brew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/organic-cold-brew",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401133",
+      "food_name": "Moroccan Lentil Soup - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/moroccan-lentil-soup-large",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401153",
+      "food_name": "Tomato & Feta Soup - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/tomato-feta-soup-large",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401241",
+      "food_name": "Simply Sea Salt Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/simply-sea-salt-chips",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84305454",
+      "food_name": "Spicy Chicken Caesar Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/spicy-chicken-caesar-wrap",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350818",
+      "food_name": "Sunshine Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/sunshine-green-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243504",
+      "food_name": "Mediterranean Mezze Salad Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/mediterranean-mezze-salad-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243730",
+      "food_name": "Mediterranean Mezze Salad Lunch Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/mediterranean-mezze-salad-lunch-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243737",
+      "food_name": "Blackened Salmon, Avo & Quinoa Salad Lunch Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/blackened-salmon-avo-quinoa-salad-lunch-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244001",
+      "food_name": "Pesto Marinated White Bean & Avocado Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/pesto-marinated-white-bean-avocado-salad",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244117",
+      "food_name": "Roast Beef, Arugula & Parmesan Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/roast-beef-arugula-parmesan-sandwich",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244222",
+      "food_name": "Oat Matcha Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/oat-matcha-latte",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400479",
+      "food_name": "Iced Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/iced-coffee",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400488",
+      "food_name": "Iced Mocha",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/iced-mocha",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401235",
+      "food_name": "Sea Salt Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/sea-salt-popcorn",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69402688",
+      "food_name": "Orange Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/orange-juice",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69402775",
+      "food_name": "Diet Coke",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/diet-coke",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350827",
+      "food_name": "Pink Guava Sunshine Black Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/pink-guava-sunshine-black-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350832",
+      "food_name": "Pink Guava Black Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/pink-guava-black-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350833",
+      "food_name": "Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/lemonade",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84351069",
+      "food_name": "Hot Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/hot-chocolate",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243294",
+      "food_name": "Butter Croissant Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/butter-croissant-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243300",
+      "food_name": "Pret’s Bakery Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/pret%E2%80%99s-bakery-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243309",
+      "food_name": "Yogurt Pot Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/yogurt-pot-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243332",
+      "food_name": "Harvest Cookie Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/harvest-cookie-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243339",
+      "food_name": "Brownie Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/brownie-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243344",
+      "food_name": "Cookie & Brownie Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/cookie-brownie-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243397",
+      "food_name": "Egg & Cheddar Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/egg-cheddar-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243413",
+      "food_name": "Veggie Sandwich Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/veggie-sandwich-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243435",
+      "food_name": "Salad Wrap Selection Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/salad-wrap-selection-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243444",
+      "food_name": "Chicken Avocado Salad Platter - No Dressing & Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chicken-avocado-salad-platter-no-dressing-roll",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243471",
+      "food_name": "Chicken Caesar Salad Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chicken-caesar-salad-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243512",
+      "food_name": "Mediterranean Mezze Salad Platter Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/mediterranean-mezze-salad-platter-dressing",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243532",
+      "food_name": "Greek Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/greek-salad-dressing",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243720",
+      "food_name": "Chicken Avocado Salad Lunch Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chicken-avocado-salad-lunch-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243744",
+      "food_name": "Crunchy Chipotle Chicken & Avo Wrap Lunch Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/crunchy-chipotle-chicken-avo-wrap-lunch-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243748",
+      "food_name": "Falafel & Hummus Wrap Lunch Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/falafel-hummus-wrap-lunch-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243758",
+      "food_name": "Romesco Chicken Baguette Lunch Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/romesco-chicken-baguette-lunch-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243762",
+      "food_name": "Pesto Caprese Baguette Lunch Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/pesto-caprese-baguette-lunch-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243774",
+      "food_name": "Chicken & Bacon Sandwich Lunch Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chicken-bacon-sandwich-lunch-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243793",
+      "food_name": "Cheddar & Tomato Sandwich Lunch Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/cheddar-tomato-sandwich-lunch-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243798",
+      "food_name": "Kid's Cheddar & Mayo Sandwich Lunch Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/kids-cheddar-mayo-sandwich-lunch-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243806",
+      "food_name": "Kid's Turkey & Cheddar Sandwich Lunch Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/kids-turkey-cheddar-sandwich-lunch-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243857",
+      "food_name": "Coffee Box Organic Classic Blend Extra Milk - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/coffee-box-organic-classic-blend-extra-milk-whole",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243865",
+      "food_name": "Coffee Box Organic Classic Blend Extra Milk - Almond",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/coffee-box-organic-classic-blend-extra-milk-almond",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243920",
+      "food_name": "Tea Box English Breakfast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/tea-box-english-breakfast",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243925",
+      "food_name": "Tea Box Earl Grey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/tea-box-earl-grey",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243952",
+      "food_name": "Iced Tea Box - Green",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/iced-tea-box-green",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244010",
+      "food_name": "Summer Berries Pot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/summer-berries-pot",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244023",
+      "food_name": "Strawberry Lavender Black Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/strawberry-lavender-black-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244045",
+      "food_name": "Power Breakfast Frittata",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/power-breakfast-frittata",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244127",
+      "food_name": "BBQ Pulled Pork Melt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/bbq-pulled-pork-melt",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244129",
+      "food_name": "Buffalo Chicken Melt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/buffalo-chicken-melt",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244210",
+      "food_name": "Turkey & Cheddar Sandwich Slim",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/turkey-cheddar-sandwich-slim",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244224",
+      "food_name": "Chai Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chai-latte",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244230",
+      "food_name": "Organic English Breakfast Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/organic-english-breakfast-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244241",
+      "food_name": "Matcha Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/matcha-lemonade",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244267",
+      "food_name": "Mango & Lime Pot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/mango-lime-pot",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244325",
+      "food_name": "Late July Jalapeno Lime Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/late-july-jalapeno-lime-chips",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244336",
+      "food_name": "Chocolove Toffee & Almonds in Milk Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chocolove-toffee-almonds-in-milk-chocolate",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244365",
+      "food_name": "Grapefruit Spindrift Sparkling Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/grapefruit-spindrift-sparkling-water",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400383",
+      "food_name": "Pret's Greek Side Salad with Herb Yogurt Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/prets-greek-side-salad-with-herb-yogurt-dressing",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400442",
+      "food_name": "Pret's Organic Classic Blend Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/prets-organic-classic-blend-coffee",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400527",
+      "food_name": "Organic Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/organic-green-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400534",
+      "food_name": "Organic Peppermint Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/organic-peppermint-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69400829",
+      "food_name": "Cantaloupe & Blueberry Pot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/cantaloupe-blueberry-pot",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401126",
+      "food_name": "Pret's Chicken Tikka Masala Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/prets-chicken-tikka-masala-grain-bowl",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69401351",
+      "food_name": "Raw Almonds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/raw-almonds",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350295",
+      "food_name": "Bacon, Egg & Cheddar Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/bacon-egg-cheddar-roll",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350821",
+      "food_name": "Sunshine Black Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/sunshine-black-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350824",
+      "food_name": "Pink Guava Sunshine Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/pink-guava-sunshine-green-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84350856",
+      "food_name": "Omega-3 Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/omega-3-mix",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243053",
+      "food_name": "Fruit Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/fruit-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243237",
+      "food_name": "Croissant Selection Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/croissant-selection-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243311",
+      "food_name": "Breakfast Pot Selection Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/breakfast-pot-selection-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243316",
+      "food_name": "King of Cookie Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/king-of-cookie-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243322",
+      "food_name": "Chocolate Chip Cookie Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chocolate-chip-cookie-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243351",
+      "food_name": "Breakfast Tea Sandwich Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/breakfast-tea-sandwich-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243361",
+      "food_name": "Pret’s Bacon, Egg & Cheddar Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/pret%E2%80%99s-bacon-egg-cheddar-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243402",
+      "food_name": "Hot Breakfast Sandwich Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/hot-breakfast-sandwich-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243425",
+      "food_name": "Smoked Salmon & Cream Cheese Roll Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/smoked-salmon-cream-cheese-roll-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243430",
+      "food_name": "Baguette Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/baguette-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243460",
+      "food_name": "Chicken Avocado Salad Dressing Pot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chicken-avocado-salad-dressing-pot",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243496",
+      "food_name": "Chicken Caesar Salad Platter Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chicken-caesar-salad-platter-dressing",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243520",
+      "food_name": "Greek Salad Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/greek-salad-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243536",
+      "food_name": "Smoked Salmon Nicoise Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/smoked-salmon-nicoise-platter",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243741",
+      "food_name": "Bang Bang Chicken Wrap Lunch Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/bang-bang-chicken-wrap-lunch-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243752",
+      "food_name": "Ham & Cheese Baguette Lunch Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/ham-cheese-baguette-lunch-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243777",
+      "food_name": "Chicken Salad Avocado Sandwich Lunch Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chicken-salad-avocado-sandwich-lunch-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243795",
+      "food_name": "Kid's Ham & Cheese Sandwich Lunch Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/kids-ham-cheese-sandwich-lunch-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243845",
+      "food_name": "Coffee Box Organic Classic Blend Extra Milk - Half and Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/coffee-box-organic-classic-blend-extra-milk-half-and-half",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243861",
+      "food_name": "Coffee Box Organic Classic Blend Extra Milk  - Oat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/coffee-box-organic-classic-blend-extra-milk-oat",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243878",
+      "food_name": "Coffee Box Organic Classic Blend Extra Milk - Skim Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/coffee-box-organic-classic-blend-extra-milk-skim-milk",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243929",
+      "food_name": "Tea Box Mixed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/tea-box-mixed",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243932",
+      "food_name": "Tea Box Peppermint",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/tea-box-peppermint",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243940",
+      "food_name": "Tea Box Tropical Green",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/tea-box-tropical-green",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243943",
+      "food_name": "Iced Tea Box - Black",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/iced-tea-box-black",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243958",
+      "food_name": "Iced Coffee Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/iced-coffee-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243960",
+      "food_name": "Lemonade Box",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/lemonade-box",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243964",
+      "food_name": "Avocado Veggie Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/avocado-veggie-sandwich",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104243987",
+      "food_name": "Chicken & Strawberry Summer Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chicken-strawberry-summer-salad",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244025",
+      "food_name": "Strawberry Lavender Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/strawberry-lavender-green-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244032",
+      "food_name": "Strawberry Lavender Sunshine Black Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/strawberry-lavender-sunshine-black-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244036",
+      "food_name": "Strawberry Lavender Sunshine Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/strawberry-lavender-sunshine-green-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244123",
+      "food_name": "Turkey & Cheddar Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/turkey-cheddar-sandwich",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244133",
+      "food_name": "Roasted Mushroom & Swiss Melt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/roasted-mushroom-swiss-melt",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244162",
+      "food_name": "Crunchy Miso Mushroom Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/crunchy-miso-mushroom-wrap",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244166",
+      "food_name": "Roast Beef and Carrot Slaw Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/roast-beef-and-carrot-slaw-wrap",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244229",
+      "food_name": "Organic Earl Grey Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/organic-earl-grey-tea",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244232",
+      "food_name": "Iced Espresso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/iced-espresso",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244306",
+      "food_name": "Broccoli Cheddar & Chive Quiche",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/broccoli-cheddar-chive-quiche",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244311",
+      "food_name": "Spinach & Fontina Quiche",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/spinach-fontina-quiche",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244330",
+      "food_name": "Chocolove Rich Dark Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/chocolove-rich-dark-chocolate",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244346",
+      "food_name": "Pink Grapefruit Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/pink-grapefruit-juice",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244351",
+      "food_name": "Coke",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/coke",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244373",
+      "food_name": "Raspberry Lime Spindrift Sparkling Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/raspberry-lime-spindrift-sparkling-water",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104244458",
+      "food_name": "Coffee Box Organic Single Origin - Skim Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pret-a-manger/coffee-box-organic-single-origin-skim-milk",
+      "brand_name": "Pret a Manger",
+      "food_type": "Brand"
+    }
+  ]
+}

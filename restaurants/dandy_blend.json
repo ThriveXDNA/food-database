@@ -1,0 +1,20 @@
+{
+  "restaurant": "Dandy Blend",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 1310,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:08:21.753Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dandy_blend.json",
+  "items": [
+    {
+      "food_id": "5384328",
+      "food_name": "Dandy Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dandy-blend/dandy-blend",
+      "brand_name": "Dandy Blend",
+      "food_type": "Brand"
+    }
+  ]
+}

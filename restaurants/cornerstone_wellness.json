@@ -1,0 +1,20 @@
+{
+  "restaurant": "Cornerstone Wellness",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 35,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:07:00.070Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cornerstone_wellness.json",
+  "items": [
+    {
+      "food_id": "2798935",
+      "food_name": "High Protein Meal Replacement Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cornerstone-wellness/high-protein-meal-replacement-shake",
+      "brand_name": "Cornerstone Wellness",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Ovaltine",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:54:48.997Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ovaltine.json",
+  "items": [
+    {
+      "food_id": "3252817",
+      "food_name": "Rich Chocolate Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ovaltine/rich-chocolate-mix",
+      "brand_name": "Ovaltine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6212306",
+      "food_name": "Chocolate Malt Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ovaltine/chocolate-malt-mix/2-tbsp",
+      "brand_name": "Ovaltine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "468672",
+      "food_name": "Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ovaltine/cookies",
+      "brand_name": "Ovaltine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2774011",
+      "food_name": "Classic Malt Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ovaltine/classic-malt-mix/2-tbsp",
+      "brand_name": "Ovaltine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24070",
+      "food_name": "Choc Mint Instant Hot Chocolate Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ovaltine/choc-mint-instant-hot-chocolate-drink",
+      "brand_name": "Ovaltine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17196996",
+      "food_name": "Sandwich Cookies with Chocolate Malt Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ovaltine/sandwich-cookies-with-chocolate-malt-cream",
+      "brand_name": "Ovaltine",
+      "food_type": "Brand"
+    }
+  ]
+}

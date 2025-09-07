@@ -1,0 +1,41 @@
+{
+  "restaurant": "Iltaco",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:30:30.755Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/iltaco.json",
+  "items": [
+    {
+      "food_id": "2576899",
+      "food_name": "Pizza Puff",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/iltaco/pizza-puff",
+      "brand_name": "Iltaco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67085406",
+      "food_name": "Taco Puff",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/iltaco/taco-puff",
+      "brand_name": "Iltaco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51084265",
+      "food_name": "Ham and Cheese Puff",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/iltaco/ham-and-cheese-puff",
+      "brand_name": "Iltaco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72298408",
+      "food_name": "Sausage Breakfast Puff",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/iltaco/sausage-breakfast-puff",
+      "brand_name": "Iltaco",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,678 @@
+{
+  "restaurant": "Rebel",
+  "total_items": 95,
+  "pages_extracted": 2,
+  "total_search_results": 95,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:57:34.644Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rebel.json",
+  "items": [
+    {
+      "food_id": "37497098",
+      "food_name": "Triple Chocolate Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/triple-chocolate-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92426140",
+      "food_name": "Pistachio Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/pistachio-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28427405",
+      "food_name": "Butter Pecan Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/butter-pecan-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29252988",
+      "food_name": "Mint Chip Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/mint-chip-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28601208",
+      "food_name": "Vanilla Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/vanilla-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46992596",
+      "food_name": "Peanut Butter Caramel Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/peanut-butter-caramel-chip",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31544142",
+      "food_name": "Salted Caramel Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/salted-caramel-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29334115",
+      "food_name": "Cookie Dough Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/cookie-dough-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35682253",
+      "food_name": "Coffee Chip Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/coffee-chip-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31870776",
+      "food_name": "Cherry Chip Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/cherry-chip-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28387004",
+      "food_name": "Chocolate Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/chocolate-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34156367",
+      "food_name": "Mint Chocolate Chip Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/mint-chocolate-chip-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50507713",
+      "food_name": "Orange Cream Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/orange-cream-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38379857",
+      "food_name": "Black Raspberry Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/black-raspberry-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32204295",
+      "food_name": "Cookies & Cream Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/cookies-cream-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32126328",
+      "food_name": "Strawberry Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/strawberry-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53478439",
+      "food_name": "Chocolate Chip Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/chocolate-chip-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54701082",
+      "food_name": "Chocolate Peanut Butter Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/chocolate-peanut-butter-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25321697",
+      "food_name": "Peanut Butter Fudge Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/peanut-butter-fudge-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50095509",
+      "food_name": "Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/ice-cream-sandwich",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51047077",
+      "food_name": "Snickerdoodle Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/snickerdoodle-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56128239",
+      "food_name": "Birthday Cake Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/birthday-cake-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92518423",
+      "food_name": "Peanut Butter Cookies & Peanut Butter Chip Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/peanut-butter-cookies-peanut-butter-chip-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36707619",
+      "food_name": "Coconut Almond Swirl Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/coconut-almond-swirl-ice-cream",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76171239",
+      "food_name": "Chocolate Cream Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/chocolate-cream-milk",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66486886",
+      "food_name": "Plain Cream Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/plain-cream-milk",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44624974",
+      "food_name": "Cereal Whey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rebel/cereal-whey",
+      "brand_name": "Rebel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70830299",
+      "food_name": "Samuel Adams Rebel IPA, Bottle, 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/outback-steakhouse/samuel-adams-rebel-ipa-bottle-12-oz",
+      "brand_name": "Outback Steakhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849391",
+      "food_name": "Poppin' Boba Fire Lizard Rebel Blended Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/poppin-boba-fire-lizard-rebel-blended-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849394",
+      "food_name": "Poppin' Boba Fire Lizard Rebel Blended Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/poppin-boba-fire-lizard-rebel-blended-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849396",
+      "food_name": "Poppin' Boba Fire Lizard Rebel Iced Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/poppin-boba-fire-lizard-rebel-iced-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849399",
+      "food_name": "Poppin' Boba Fire Lizard Rebel Iced Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/poppin-boba-fire-lizard-rebel-iced-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849393",
+      "food_name": "Poppin' Boba Fire Lizard Rebel Blended Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/poppin-boba-fire-lizard-rebel-blended-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849398",
+      "food_name": "Poppin' Boba Fire Lizard Rebel Iced Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/poppin-boba-fire-lizard-rebel-iced-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018625",
+      "food_name": "Blended Zero Sugar Strawberry Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-zero-sugar-strawberry-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018626",
+      "food_name": "Blended Zero Sugar Strawberry Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-zero-sugar-strawberry-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018646",
+      "food_name": "Iced Zero Sugar Strawberry Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-zero-sugar-strawberry-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018624",
+      "food_name": "Blended Zero Sugar Strawberry Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-zero-sugar-strawberry-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018630",
+      "food_name": "Iced Zero Sugar Strawberry Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-zero-sugar-strawberry-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018647",
+      "food_name": "Iced Zero Sugar Strawberry Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-zero-sugar-strawberry-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018526",
+      "food_name": "Blended Plain Blended Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-plain-blended-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018539",
+      "food_name": "Blended Double Rainbro Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-double-rainbro-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018547",
+      "food_name": "Blended Double Rainbro Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-double-rainbro-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018551",
+      "food_name": "Iced Double Rainbro Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-double-rainbro-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018553",
+      "food_name": "Blended Electric Berry Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-electric-berry-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018554",
+      "food_name": "Blended Electric Berry Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-electric-berry-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018555",
+      "food_name": "Blended Electric Berry Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-electric-berry-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018580",
+      "food_name": "Blended Shark Attack Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-shark-attack-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018582",
+      "food_name": "Blended Shark Attack Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-shark-attack-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018585",
+      "food_name": "Iced Shark Attack Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-shark-attack-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70830184",
+      "food_name": "Rebel IPA, Can, 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/outback-steakhouse/rebel-ipa-can-16-oz",
+      "brand_name": "Outback Steakhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018525",
+      "food_name": "Blended Plain Blended Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-plain-blended-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018527",
+      "food_name": "Blended Plain Blended Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-plain-blended-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018538",
+      "food_name": "Blended Double Rainbro Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-double-rainbro-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018549",
+      "food_name": "Iced Double Rainbro Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-double-rainbro-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018550",
+      "food_name": "Iced Double Rainbro Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-double-rainbro-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018556",
+      "food_name": "Iced Electric Berry Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-electric-berry-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018557",
+      "food_name": "Iced Electric Berry Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-electric-berry-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018558",
+      "food_name": "Iced Electric Berry Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-electric-berry-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018581",
+      "food_name": "Blended Shark Attack Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-shark-attack-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018583",
+      "food_name": "Iced Shark Attack Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-shark-attack-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018584",
+      "food_name": "Iced Shark Attack Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-shark-attack-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018532",
+      "food_name": "Blended Aftershock Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-aftershock-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018535",
+      "food_name": "Iced Aftershock Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-aftershock-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018573",
+      "food_name": "Blended Peach Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-peach-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018574",
+      "food_name": "Blended Peach Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-peach-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018575",
+      "food_name": "Blended Peach Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-peach-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018576",
+      "food_name": "Iced Peach Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-peach-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018577",
+      "food_name": "Iced Peach Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-peach-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018602",
+      "food_name": "Iced Strawberry Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-strawberry-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018605",
+      "food_name": "Blended Watermelon Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-watermelon-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018608",
+      "food_name": "Blended Watermelon Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-watermelon-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018609",
+      "food_name": "Iced Watermelon Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-watermelon-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018611",
+      "food_name": "Iced Watermelon Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-watermelon-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849656",
+      "food_name": "Blended Sherbet Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-sherbet-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849661",
+      "food_name": "Blended Sherbet Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-sherbet-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849662",
+      "food_name": "Iced Sherbet Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-sherbet-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018529",
+      "food_name": "Blended Aftershock Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-aftershock-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018533",
+      "food_name": "Blended Aftershock Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-aftershock-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018536",
+      "food_name": "Iced Aftershock Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-aftershock-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018537",
+      "food_name": "Iced Aftershock Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-aftershock-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018579",
+      "food_name": "Iced Peach Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-peach-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018586",
+      "food_name": "Blended Strawberry Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-strawberry-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018599",
+      "food_name": "Blended Strawberry Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-strawberry-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018600",
+      "food_name": "Blended Strawberry Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-strawberry-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018601",
+      "food_name": "Iced Strawberry Rebel Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-strawberry-rebel-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018603",
+      "food_name": "Iced Strawberry Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-strawberry-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018607",
+      "food_name": "Blended Watermelon Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-watermelon-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81018613",
+      "food_name": "Iced Watermelon Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-watermelon-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849658",
+      "food_name": "Blended Sherbet Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-sherbet-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849663",
+      "food_name": "Iced Sherbet Rebel Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-sherbet-rebel-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849664",
+      "food_name": "Iced Sherbet Rebel Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-sherbet-rebel-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6130739",
+      "food_name": "Rebel Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/life-alive/rebel-bowl",
+      "brand_name": "Life Alive",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10155579",
+      "food_name": "Rebel IPA",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/samuel-adams/rebel-ipa",
+      "brand_name": "Samuel Adams",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49569593",
+      "food_name": "Rebel Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flower-child/rebel-wrap",
+      "brand_name": "Flower Child",
+      "food_type": "Brand"
+    }
+  ]
+}

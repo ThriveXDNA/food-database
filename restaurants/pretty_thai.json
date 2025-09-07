@@ -1,0 +1,27 @@
+{
+  "restaurant": "Pretty Thai",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 740,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:53:02.891Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pretty_thai.json",
+  "items": [
+    {
+      "food_id": "51058294",
+      "food_name": "Thai Peanut Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pretty-thai/thai-peanut-sauce",
+      "brand_name": "Pretty Thai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57391076",
+      "food_name": "Sweet Chili Stir Fry & Barbecue Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pretty-thai/sweet-chili-stir-fry-barbecue-sauce",
+      "brand_name": "Pretty Thai",
+      "food_type": "Brand"
+    }
+  ]
+}

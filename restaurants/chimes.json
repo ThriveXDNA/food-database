@@ -1,0 +1,27 @@
+{
+  "restaurant": "Chimes",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:21:22.929Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/chimes.json",
+  "items": [
+    {
+      "food_id": "2813588",
+      "food_name": "Ginger Chews",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chimes/ginger-chews",
+      "brand_name": "Chimes",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84347437",
+      "food_name": "Toasted Coconut Hard Toffee with Sea Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chimes/toasted-coconut-hard-toffee-with-sea-salt",
+      "brand_name": "Chimes",
+      "food_type": "Brand"
+    }
+  ]
+}

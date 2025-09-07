@@ -1,0 +1,27 @@
+{
+  "restaurant": "Honey Bunchies",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 2973,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:02:13.006Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/honey_bunchies.json",
+  "items": [
+    {
+      "food_id": "27163742",
+      "food_name": "Gourmet Honey Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/honey-bunchies/gourmet-honey-bar",
+      "brand_name": "Honey Bunchies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35644966",
+      "food_name": "Peanut Pecan Honey Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/honey-bunchies/peanut-pecan-honey-bar",
+      "brand_name": "Honey Bunchies",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Busken Bakery",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 46,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:13:32.701Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/busken_bakery.json",
+  "items": [
+    {
+      "food_id": "4469321",
+      "food_name": "Tea Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/busken-bakery/tea-cookies",
+      "brand_name": "Busken Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3211798",
+      "food_name": "Original Iced Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/busken-bakery/original-iced-cookie",
+      "brand_name": "Busken Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

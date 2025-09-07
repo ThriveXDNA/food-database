@@ -1,0 +1,62 @@
+{
+  "restaurant": "Egglife",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:04:38.081Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/egglife.json",
+  "items": [
+    {
+      "food_id": "38229434",
+      "food_name": "Egg White Wraps - Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/egglife/egg-white-wraps-original",
+      "brand_name": "Egglife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98279742",
+      "food_name": "Roasted Garlic Herb Egg White Wraps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/egglife/roasted-garlic-herb-egg-white-wraps",
+      "brand_name": "Egglife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54492452",
+      "food_name": "Egg White Wraps - Everything Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/egglife/egg-white-wraps-everything-bagel",
+      "brand_name": "Egglife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83790070",
+      "food_name": "Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/egglife/wrap",
+      "brand_name": "Egglife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35823406",
+      "food_name": "Egg White Wraps - Southwest Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/egglife/egg-white-wraps-southwest-style",
+      "brand_name": "Egglife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67960417",
+      "food_name": "Egg White Wraps - Sweet Cinnamon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/egglife/egg-white-wraps-sweet-cinnamon",
+      "brand_name": "Egglife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74641110",
+      "food_name": "Egg White Wraps - Garden Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/egglife/egg-white-wraps-garden-salsa",
+      "brand_name": "Egglife",
+      "food_type": "Brand"
+    }
+  ]
+}

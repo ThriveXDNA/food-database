@@ -1,0 +1,55 @@
+{
+  "restaurant": "Yankee Trader",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 15,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:43:06.891Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/yankee_trader.json",
+  "items": [
+    {
+      "food_id": "25959490",
+      "food_name": "Crab Rangoon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yankee-trader/crab-rangoon",
+      "brand_name": "Yankee Trader",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44060853",
+      "food_name": "Lobster Spring Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yankee-trader/lobster-spring-rolls",
+      "brand_name": "Yankee Trader",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1017475",
+      "food_name": "Crab Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yankee-trader/crab-cake",
+      "brand_name": "Yankee Trader",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67599925",
+      "food_name": "Lobster Rangoon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yankee-trader/lobster-rangoon",
+      "brand_name": "Yankee Trader",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46952277",
+      "food_name": "Lobster Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yankee-trader/lobster-cake",
+      "brand_name": "Yankee Trader",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2916488",
+      "food_name": "Fish Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yankee-trader/fish-cakes",
+      "brand_name": "Yankee Trader",
+      "food_type": "Brand"
+    }
+  ]
+}

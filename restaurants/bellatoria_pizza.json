@@ -1,0 +1,76 @@
+{
+  "restaurant": "Bellatoria Pizza",
+  "total_items": 9,
+  "pages_extracted": 6,
+  "total_search_results": 6385,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:18:45.509Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bellatoria_pizza.json",
+  "items": [
+    {
+      "food_id": "70756",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bellatoria-pizza/margherita-pizza",
+      "brand_name": "Bellatoria Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70757",
+      "food_name": "Ultimate Supreme Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bellatoria-pizza/ultimate-supreme-pizza",
+      "brand_name": "Bellatoria Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70758",
+      "food_name": "Garlic Chicken Alfredo Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bellatoria-pizza/garlic-chicken-alfredo-pizza",
+      "brand_name": "Bellatoria Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70759",
+      "food_name": "Sweet Italian Sausage Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bellatoria-pizza/sweet-italian-sausage-pizza",
+      "brand_name": "Bellatoria Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70276",
+      "food_name": "Ultimate Pepperoni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bellatoria-pizza/ultimate-pepperoni",
+      "brand_name": "Bellatoria Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762",
+      "food_name": "BBQ Recipe Chicken Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bellatoria-pizza/bbq-recipe-chicken-pizza",
+      "brand_name": "Bellatoria Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761",
+      "food_name": "Roasted Vegetable Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bellatoria-pizza/roasted-vegetable-pizza",
+      "brand_name": "Bellatoria Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70760",
+      "food_name": "Chicken Fajita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bellatoria-pizza/chicken-fajita-pizza",
+      "brand_name": "Bellatoria Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52946032",
+      "food_name": "Pan Pizza Chicken Carbonara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bellatoria-pizza/pan-pizza-chicken-carbonara",
+      "brand_name": "Bellatoria Pizza",
+      "food_type": "Brand"
+    }
+  ]
+}

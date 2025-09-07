@@ -1,0 +1,41 @@
+{
+  "restaurant": "Musashi",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:01:41.091Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/musashi.json",
+  "items": [
+    {
+      "food_id": "91914779",
+      "food_name": "Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/musashi/protein-bar",
+      "brand_name": "Musashi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17022501",
+      "food_name": "Japanese Spicy Mayo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/musashi/japanese-spicy-mayo",
+      "brand_name": "Musashi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47947204",
+      "food_name": "Protein Wafer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/musashi/protein-wafer",
+      "brand_name": "Musashi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31086",
+      "food_name": "Peanut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/musashi/peanut-bar",
+      "brand_name": "Musashi",
+      "food_type": "Brand"
+    }
+  ]
+}

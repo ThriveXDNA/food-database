@@ -1,0 +1,41 @@
+{
+  "restaurant": "Cambridge & Thames",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:59:11.778Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cambridge_thames.json",
+  "items": [
+    {
+      "food_id": "46618925",
+      "food_name": "Blackberry Preserves",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cambridge-thames/blackberry-preserves",
+      "brand_name": "Cambridge & Thames",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54647967",
+      "food_name": "Danish Style Butter Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cambridge-thames/danish-style-butter-cookies",
+      "brand_name": "Cambridge & Thames",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2796841",
+      "food_name": "Original Creme Thin Mints",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cambridge-and-thames/original-creme-thin-mints",
+      "brand_name": "Cambridge & Thames",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1476776",
+      "food_name": "Mixed Fruit Drops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cambridge-and-thames/mixed-fruit-drops",
+      "brand_name": "Cambridge & Thames",
+      "food_type": "Brand"
+    }
+  ]
+}

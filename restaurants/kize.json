@@ -1,0 +1,76 @@
+{
+  "restaurant": "KiZE",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:08:04.883Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kize.json",
+  "items": [
+    {
+      "food_id": "32690715",
+      "food_name": "Raw Energy Bar Cookie Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kize/raw-energy-bar-cookie-dough",
+      "brand_name": "KiZE",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13852657",
+      "food_name": "Raw Energy Bar Cocoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kize/raw-energy-bar-cocoa",
+      "brand_name": "KiZE",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78981178",
+      "food_name": "Peanut Butter Chocolate Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kize/peanut-butter-chocolate-chip",
+      "brand_name": "KiZE",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45333589",
+      "food_name": "Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kize/peanut-butter",
+      "brand_name": "KiZE",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99034665",
+      "food_name": "Oatmeal Chocolate Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kize/oatmeal-chocolate-chip",
+      "brand_name": "KiZE",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101127760",
+      "food_name": "Peanut Butter Honey Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kize/peanut-butter-honey-bar",
+      "brand_name": "KiZE",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45888650",
+      "food_name": "Chocolate Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kize/chocolate-brownie",
+      "brand_name": "KiZE",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88086564",
+      "food_name": "Almond Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kize/almond-butter",
+      "brand_name": "KiZE",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43729443",
+      "food_name": "Almond Butter Chocolate Sea Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kize/almond-butter-chocolate-sea-salt",
+      "brand_name": "KiZE",
+      "food_type": "Brand"
+    }
+  ]
+}

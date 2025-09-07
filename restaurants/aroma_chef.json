@@ -1,0 +1,20 @@
+{
+  "restaurant": "Aroma Chef",
+  "total_items": 1,
+  "pages_extracted": 3,
+  "total_search_results": 101,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:33:26.482Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/aroma_chef.json",
+  "items": [
+    {
+      "food_id": "652968",
+      "food_name": "Thai Sweet Chili Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/aroma-chef/thai-sweet-chili-sauce",
+      "brand_name": "Aroma Chef",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,1665 @@
+{
+  "restaurant": "Progresso",
+  "total_items": 236,
+  "pages_extracted": 5,
+  "total_search_results": 236,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:29:29.794Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/progresso.json",
+  "items": [
+    {
+      "food_id": "74499",
+      "food_name": "Light Chicken Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-chicken-noodle-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78273",
+      "food_name": "Chicken Noodle with White Meat Chicken Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chicken-noodle-with-white-meat-chicken-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "615974",
+      "food_name": "Breadcrumbs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/breadcrumbs",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75815063",
+      "food_name": "Tomato Basil Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/tomato-basil-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28073",
+      "food_name": "Traditional Chicken Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-chicken-noodle-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80684",
+      "food_name": "Light Beef Pot Roast Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-beef-pot-roast-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77436",
+      "food_name": "Italian Style Bread Crumbs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/italian-style-bread-crumbs",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69197",
+      "food_name": "Vegetable Classics Minestrone Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-minestrone-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5304953",
+      "food_name": "New England Clam Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/new-england-clam-chowder",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "334747",
+      "food_name": "Traditional Split Pea with Ham Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-split-pea-with-ham-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13359645",
+      "food_name": "Chicken & Wild Rice Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chicken-and-wild-rice-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74729615",
+      "food_name": "Mediterranean-Style Lentil Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/mediterranean-style-lentil-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57266",
+      "food_name": "Traditional Italian-style Wedding Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-italian-style-wedding-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5120466",
+      "food_name": "Chicken & Homestyle Noodles Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chicken-homestyle-noodles-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71435122",
+      "food_name": "Light Zesty! Santa Fe Style Chicken Soup (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-zesty-santa-fe-style-chicken-soup-(can)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76317270",
+      "food_name": "Southwest Style Black Bean",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/southwest-style-black-bean",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44992437",
+      "food_name": "Traditional Italian-style Wedding Soup (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-italian-style-wedding-soup-(can)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284592",
+      "food_name": "Traditional Beef Barley Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-beef-barley-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73945565",
+      "food_name": "Italian-Style Bean & Pasta Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/italian-style-bean-pasta-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7148517",
+      "food_name": "Rich & Hearty Beef Pot Roast with Country Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-beef-pot-roast-with-country-vegetables",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7494602",
+      "food_name": "Creamy Tomato with Basil Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/creamy-tomato-with-basil-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57463329",
+      "food_name": "Light Chicken Pot Pie Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-chicken-pot-pie-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94880",
+      "food_name": "Canned Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/canned-black-beans",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1001373",
+      "food_name": "Light New England Clam Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-new-england-clam-chowder",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31009",
+      "food_name": "Vegetable Classics Garden Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-garden-vegetable-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28220",
+      "food_name": "Vegetable Classics Tomato Basil Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-tomato-basil-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75416538",
+      "food_name": "Chickpea & Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chickpea-noodle-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27167",
+      "food_name": "Vegetable Classics Lentil Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-lentil-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "677651",
+      "food_name": "Light Chicken & Dumpling Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-chicken-and-dumpling-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56036925",
+      "food_name": "Reduced Sodium Southwest Style Black Bean & Vegetable",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/reduced-sodium-southwest-style-black-bean-vegetable",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25375198",
+      "food_name": "Broccoli Cheese Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/broccoli-cheese-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42819500",
+      "food_name": "Light Creamy Chicken Noodle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-creamy-chicken-noodle",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284585",
+      "food_name": "Traditional Chicken & Wild Rice Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-chicken-and-wild-rice-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24611540",
+      "food_name": "Reduced Sodium Savory Chicken & Wild Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/reduced-sodium-savory-chicken-wild-rice",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4242319",
+      "food_name": "Light Creamy Potato with Bacon & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-creamy-potato-with-bacon-and-cheese",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54159210",
+      "food_name": "Vegetable Classics Minestrone Soup (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-minestrone-soup-(can)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88171",
+      "food_name": "Traditional Chickarina Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-chickarina-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49208",
+      "food_name": "Italian-Style Wedding Soup (45% Less Sodium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/italian-style-wedding-soup-(45%25-less-sodium)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32521",
+      "food_name": "Light Savory Vegetable Barley Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-savory-vegetable-barley-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31188340",
+      "food_name": "Lasagna Style Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/lasagna-style-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284595",
+      "food_name": "Vegetable Classics Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-vegetable-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45986865",
+      "food_name": "Vegetable Soup (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-soup-(can)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62290",
+      "food_name": "Chicken & Herb Dumplings Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chicken-and-herb-dumplings-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4477323",
+      "food_name": "Chicken Tortilla Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chicken-tortilla-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11048166",
+      "food_name": "Traditional Chicken & Orzo with Lemon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-chicken-and-orzo-with-lemon",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24793885",
+      "food_name": "Creamy Chicken Noodle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/creamy-chicken-noodle",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "673452",
+      "food_name": "Traditional Beef & Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-beef-and-vegetable-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284587",
+      "food_name": "Rich & Hearty Chicken Corn Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-chicken-corn-chowder",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3014852",
+      "food_name": "Vegetable Classics Hearty Tomato Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-hearty-tomato-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43565",
+      "food_name": "Chicken & Sausage Gumbo Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chicken-and-sausage-gumbo-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17150162",
+      "food_name": "Green Split Pea Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/green-split-pea-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10716496",
+      "food_name": "Traditional Creamy Tomato with Penne",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-creamy-tomato-with-penne",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284583",
+      "food_name": "Traditional Chicken & Sausage Gumbo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-chicken-and-sausage-gumbo",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30449769",
+      "food_name": "Three Cheese Tortellini in A Creamy Soup with Spinach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/three-cheese-tortellini-in-a-creamy-soup-with-spinach",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33156",
+      "food_name": "Rich & Hearty Beef Pot Roast Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-beef-pot-roast-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70820033",
+      "food_name": "Lentil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/lentil",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1527772",
+      "food_name": "Chickarina",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chickarina",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24522414",
+      "food_name": "Cheese Tortellini in Garden Vegetable Tomato Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/cheese-tortellini-in-garden-vegetable-tomato-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9084782",
+      "food_name": "Vegetable Classics Lentil with Roasted Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-lentil-with-roasted-vegetables",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101524",
+      "food_name": "Traditional Chicken Barley Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-chicken-barley-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14555637",
+      "food_name": "Reduced Sodium Roasted Chicken Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/reduced-sodium-roasted-chicken-noodle-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2404978",
+      "food_name": "Rich & Hearty Creamy Roasted Chicken Wild Rice Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-creamy-roasted-chicken-wild-rice-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68356690",
+      "food_name": "Light Italian-Style Wedding Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-italian-style-wedding-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21467968",
+      "food_name": "Loaded Potato with Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/loaded-potato-with-bacon",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "632204",
+      "food_name": "Light Italian Style Meatball Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-italian-style-meatball-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284072",
+      "food_name": "Light Zesty! Santa Fe Style Chicken Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-zesty-santa-fe-style-chicken-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284589",
+      "food_name": "Traditional Manhattan Clam Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-manhattan-clam-chowder",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6149863",
+      "food_name": "Lentil & Andouille Sausage Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/lentil-and-andouille-sausage-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24013564",
+      "food_name": "Light Broccoli Cheese Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-broccoli-cheese-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76314910",
+      "food_name": "Chicken & Herb Dumplings Soup (468g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chicken-herb-dumplings-soup-(468g)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57485247",
+      "food_name": "French Onion Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/french-onion-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70048",
+      "food_name": "Traditional Chicken Rice with Vegetables Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-chicken-rice-with-vegetables-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2654815",
+      "food_name": "Rich & Hearty Loaded Potato with Bacon Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-loaded-potato-with-bacon-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3014377",
+      "food_name": "Traditional Hearty Chicken & Rotini Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-hearty-chicken-and-rotini-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "423870",
+      "food_name": "Creamy Mushroom Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/creamy-mushroom-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49276983",
+      "food_name": "Hearty Chicken & Rotini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/hearty-chicken-rotini",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87641224",
+      "food_name": "Hearty Grain Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/hearty-grain-vegetable-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87797011",
+      "food_name": "Broccoli Cheese with Brown Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/broccoli-cheese-with-brown-rice",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84528",
+      "food_name": "Rich & Hearty Chicken Pot Pie Style Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-chicken-pot-pie-style-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8172496",
+      "food_name": "Heart Healthy Vegetable Beef Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/heart-healthy-vegetable-beef-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284088",
+      "food_name": "Traditional New England Clam Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-new-england-clam-chowder",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "102776",
+      "food_name": "Traditional Homestyle Chicken With Vegetables & Pearl Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-homestyle-chicken-with-vegetables-and-pearl-pasta",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28325",
+      "food_name": "Vegetable Classics Vegetarian Vegetable with Barley Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-vegetarian-vegetable-with-barley-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6260823",
+      "food_name": "Heart Healthy Southwest Style Black Bean & Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/heart-healthy-southwest-style-black-bean-and-vegetable-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3585823",
+      "food_name": "Roasted Red Pepper Pesto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/roasted-red-pepper-pesto",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43610",
+      "food_name": "Vegetable Classics Split Pea with Bacon Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-split-pea-with-bacon-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63532909",
+      "food_name": "Creamy Chicken & Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/creamy-chicken-broccoli",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76390236",
+      "food_name": "Rich & Hearty Beef Pot Roast with Country Vegetables (524g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-hearty-beef-pot-roast-with-country-vegetables-(524g)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43586",
+      "food_name": "Vegetable Classics French Onion Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-french-onion-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81047",
+      "food_name": "Chicken Noodle Soup (50% Less Sodium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chicken-noodle-soup-(50%25-less-sodium)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31779",
+      "food_name": "Rich & Hearty Slow Cooked Vegetable Beef Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-slow-cooked-vegetable-beef-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "821060",
+      "food_name": "Plain Bread Crumbs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/plain-bread-crumbs",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7590036",
+      "food_name": "Creamy Garlic Parmesan Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/creamy-garlic-parmesan-pasta",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13933676",
+      "food_name": "Reduced Sodium Creamy Tomato with Basil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/reduced-sodium-creamy-tomato-with-basil",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6778718",
+      "food_name": "Heart Healthy Minestrone Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/heart-healthy-minestrone-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55532583",
+      "food_name": "Chicken Tortilla Soup (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chicken-tortilla-soup-(can)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4152410",
+      "food_name": "Light Chicken Pot Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-chicken-pot-pie",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33323826",
+      "food_name": "Traditional Creamy Chicken Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-creamy-chicken-noodle-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1824537",
+      "food_name": "Vegetable Classics Macaroni & Bean",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-macaroni-and-bean",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19758894",
+      "food_name": "99% Fat Free Chicken Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/99-fat-free-chicken-noodle-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7202537",
+      "food_name": "Rich & Hearty Savory Beef Barley Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-savory-beef-barley-vegetable-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47318",
+      "food_name": "Chicken & Wild Rice Soup (Low Sodium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chicken-and-wild-rice-soup-(low-sodium)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42538278",
+      "food_name": "Creamy Chicken & Mushroom with Barley",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/creamy-chicken-mushroom-with-barley",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1329674",
+      "food_name": "Panko Crispy Plain Bread Crumbs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/panko-crispy-plain-bread-crumbs",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50412614",
+      "food_name": "Traditional Creamy Tomato with Penne (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-creamy-tomato-with-penne-(can)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64531193",
+      "food_name": "Italian Sausage & Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/italian-sausage-potato",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31554",
+      "food_name": "White Clam Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/white-clam-sauce",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77879704",
+      "food_name": "Rigati Pasta and Meatball Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rigati-pasta-and-meatball-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50478",
+      "food_name": "Rich & Hearty Chicken & Homestyle Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-chicken-and-homestyle-noodles",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6232133",
+      "food_name": "Traditional Chicken Cheese Enchilada Flavor Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-chicken-cheese-enchilada-flavor-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51109852",
+      "food_name": "Hearty Chicken Pot Pie Style with Dumplings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/hearty-chicken-pot-pie-style-with-dumplings",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4577834",
+      "food_name": "Light Creamy Potato Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-creamy-potato-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44823917",
+      "food_name": "Chicken Noodle Soup with Oyster Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chicken-noodle-soup-with-oyster-crackers",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2002168",
+      "food_name": "Cannellini White Kidney Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/cannellini-white-kidney-beans",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31663374",
+      "food_name": "Broccoli Cheese with Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/broccoli-cheese-with-bacon",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7124180",
+      "food_name": "Light Savory Beef Barley Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-savory-beef-barley-vegetable-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2715412",
+      "food_name": "Meatball & Rice Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/meatball-and-rice-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23698486",
+      "food_name": "Chicken Corn Chowder Flavored with Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chicken-corn-chowder-flavored-with-bacon",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87605",
+      "food_name": "Beef & Vegetable Soup (Microwave Bowl)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/beef-and-vegetable-soup-(microwave-bowl)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43839089",
+      "food_name": "Light New England Clam Chowder (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-new-england-clam-chowder-(can)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19760586",
+      "food_name": "Organic Tomato Basil Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/organic-tomato-basil-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27142",
+      "food_name": "Beef Barley Soup 99% Fat Free",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/beef-barley-soup-99%25-fat-free",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "227016",
+      "food_name": "Light Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-vegetable-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54876499",
+      "food_name": "Spicy Jambalaya with Sausage and Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/spicy-jambalaya-with-sausage-and-ham",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "612634",
+      "food_name": "Reduced Sodium Chicken Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/reduced-sodium-chicken-noodle-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6689353",
+      "food_name": "Heart Healthy Roasted Chicken Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/heart-healthy-roasted-chicken-noodle-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18085032",
+      "food_name": "Organic Minestrone Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/organic-minestrone-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19795948",
+      "food_name": "Organic Chicken Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/organic-chicken-noodle-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23134369",
+      "food_name": "Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19494306",
+      "food_name": "Italian-Style White Bean & Chicken Sausage Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/italian-style-white-bean-chicken-sausage-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55119470",
+      "food_name": "Spicy Chicken Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/spicy-chicken-noodle-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3566442",
+      "food_name": "Unsalted Chicken Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/unsalted-chicken-broth",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8410759",
+      "food_name": "Vegetable Classics Tuscan Style White Bean",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-tuscan-style-white-bean",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1254284",
+      "food_name": "Reduced Sodium Minestrone",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/reduced-sodium-minestrone",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86967",
+      "food_name": "Reduced Sodium Chicken Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/reduced-sodium-chicken-broth",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45367",
+      "food_name": "Light Vegetable & Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-vegetable-and-noodle-soup/1-cup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284085",
+      "food_name": "Rich & Hearty Steak & Roasted Russet Potatoes Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-steak-and-roasted-russet-potatoes-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28323",
+      "food_name": "Vegetable Classics Hearty Penne in Chicken Broth Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-hearty-penne-in-chicken-broth-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11463018",
+      "food_name": "Rich & Hearty Steak & Vegetables Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-steak-and-vegetables-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85037195",
+      "food_name": "Panko Crispy Bread Crumbs Italian Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/panko-crispy-bread-crumbs-italian-style",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9540836",
+      "food_name": "Artisan Hearty Pasta E Fagioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/artisan-hearty-pasta-e-fagioli",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9172574",
+      "food_name": "Vegetable Classics Creamy Mushroom Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-creamy-mushroom-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80711",
+      "food_name": "Vegetable Classics Hearty Black Bean with Bacon Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-hearty-black-bean-with-bacon-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17071399",
+      "food_name": "Hearty Lentil with Garden Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/hearty-lentil-with-garden-vegetables",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39347935",
+      "food_name": "Rich & Hearty New England Clam Chowder (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-hearty-new-england-clam-chowder-(can)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25397",
+      "food_name": "Light Vegetable & Noodle Soup (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-vegetable-and-noodle-soup-(can)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5999001",
+      "food_name": "Reduced Sodium Chicken & Wild Rice Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/reduced-sodium-chicken-and-wild-rice-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6032301",
+      "food_name": "Bread Crumbs Parmesan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/bread-crumbs-parmesan",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44660253",
+      "food_name": "Reduced Sodium Creamy Tomato with Basil (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/reduced-sodium-creamy-tomato-with-basil-(can)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72512007",
+      "food_name": "Spicy Tomato Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/spicy-tomato-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284073",
+      "food_name": "Healthy Favorites Chicken & Wild Rice Soup (45% Less Sodium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/healthy-favorites-chicken-and-wild-rice-soup-(45%25-less-sodium)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13864160",
+      "food_name": "Artisan Creamy Tomato with Roasted Red Pepper Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/artisan-creamy-tomato-with-roasted-red-pepper-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31144",
+      "food_name": "Balsamic Vinegar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/balsamic-vinegar",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30816",
+      "food_name": "Rich & Hearty Sirloin Steak & Vegetables Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-sirloin-steak-and-vegetables-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76896380",
+      "food_name": "Gluten Free Homestyle Chicken Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/gluten-free-homestyle-chicken-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1647071",
+      "food_name": "Dark Red Kidney Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/dark-red-kidney-beans",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4627358",
+      "food_name": "Chicken Alfredo with Linguine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chicken-alfredo-with-linguine",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25203535",
+      "food_name": "Vegetable Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-broth",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23600061",
+      "food_name": "Tomato & Roasted Red Pepper Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/tomato-roasted-red-pepper-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87816",
+      "food_name": "Light Zesty! Southwestern Style Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-zesty-southwestern-style-vegetable-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22040985",
+      "food_name": "Organic Chicken & Wild Rice Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/organic-chicken-wild-rice-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1499425",
+      "food_name": "Vegetable Classics Tomato Rotini Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-tomato-rotini-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3042971",
+      "food_name": "Beef Burgundy Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/beef-burgundy-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17730317",
+      "food_name": "Hearty Corn & Chipotle Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/hearty-corn-and-chipotle-chowder",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11526968",
+      "food_name": "Traditional Chicken & Herb Dumplings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-chicken-and-herb-dumplings",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67265340",
+      "food_name": "Gluten Free Minestrone",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/gluten-free-minestrone",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28245",
+      "food_name": "99% Fat Free Minestrone Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/99%25-fat-free-minestrone-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44648569",
+      "food_name": "Creamy Potato & Ham with Chives",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/creamy-potato-ham-with-chives",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "253132",
+      "food_name": "Chicken Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chicken-broth",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1128820",
+      "food_name": "World Recipes - Albondigas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/world-recipes---albondigas",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7317353",
+      "food_name": "Rustic Marinara Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rustic-marinara-pasta",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "253131",
+      "food_name": "Beef Flavored Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/beef-flavored-broth",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42315762",
+      "food_name": "Chicken Tortilla Soup with Tortilla Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chicken-tortilla-soup-with-tortilla-strips",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "772189",
+      "food_name": "Chick Peas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chick-peas",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53570536",
+      "food_name": "Tomato Basil with Cheddar Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/tomato-basil-with-cheddar-crackers",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284588",
+      "food_name": "Traditional Beef & Baked Potato Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-beef-and-baked-potato-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28320",
+      "food_name": "Traditional 99% Fat Free Chicken Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-99%25-fat-free-chicken-noodle-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73928",
+      "food_name": "Traditional Southwestern-Style Chicken Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-southwestern-style-chicken-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8190855",
+      "food_name": "Creamy Roasted Chicken with Herb Dumplings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/creamy-roasted-chicken-with-herb-dumplings",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284077",
+      "food_name": "Zesty Chicken Gumbo Soup (50% Less Sodium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/zesty-chicken-gumbo-soup-(50%25-less-sodium)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91258",
+      "food_name": "Light Chicken Vegetable Rotini Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-chicken-vegetable-rotini-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1769153",
+      "food_name": "Vegetable Classics Vegetable Italiano Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-vegetable-italiano-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1165820",
+      "food_name": "Artichoke Hearts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/artichoke-hearts",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47437",
+      "food_name": "Light Homestyle Vegetable & Rice Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-homestyle-vegetable-and-rice-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "581078",
+      "food_name": "Traditional Roasted Chicken Rotini Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-roasted-chicken-rotini-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6454349",
+      "food_name": "Rich & Hearty Creamy Alfredo with Penne & Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-creamy-alfredo-with-penne-and-chicken",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6699353",
+      "food_name": "Creole-Style Chicken Gumbo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/creole-style-chicken-gumbo",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4977721",
+      "food_name": "Reduced Sodium Italian-Style Wedding with Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/reduced-sodium-italian-style-wedding-with-meatballs",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6762195",
+      "food_name": "Artisan Masala Curry Butternut Squash Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/artisan-masala-curry-butternut-squash-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5998747",
+      "food_name": "Light Chicken Corn Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-chicken-corn-chowder",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16938995",
+      "food_name": "Good Natured Soup Hearty Tomato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/good-natured-soup-hearty-tomato",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62835923",
+      "food_name": "Keto Friendly Creamy Tomato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/keto-friendly-creamy-tomato",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19979228",
+      "food_name": "Light Roasted Chicken & Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-roasted-chicken-vegetable-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "109959",
+      "food_name": "Traditional Minestrone with Chicken Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-minestrone-with-chicken-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6774159",
+      "food_name": "Light Creamy Chicken Alfredo Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-creamy-chicken-alfredo-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18189019",
+      "food_name": "Organic Savory Lentil Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/organic-savory-lentil-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3224270",
+      "food_name": "Fava Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/fava-beans",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54647304",
+      "food_name": "Toppers Broccoli Cheese Soup with Oyster Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/toppers-broccoli-cheese-soup-with-oyster-crackers",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49083",
+      "food_name": "Rich & Hearty New England Clam Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-new-england-clam-chowder",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284594",
+      "food_name": "Traditional Potato, Broccoli, & Cheese Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-potato-broccoli-and-cheese-chowder",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "223652",
+      "food_name": "High Fiber Creamy Tomato Basil Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/high-fiber-creamy-tomato-basil-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1795994",
+      "food_name": "Marinated Artichoke Hearts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/marinated-artichoke-hearts",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1924167",
+      "food_name": "Light Italian-Style Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-italian-style-vegetable-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43561",
+      "food_name": "Low Sodium Garden Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/low-sodium-garden-vegetable-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2653019",
+      "food_name": "Reduced Sodium Beef & Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/reduced-sodium-beef-and-vegetable-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11486586",
+      "food_name": "Rich & Hearty Creamy Roasted Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-creamy-roasted-vegetable-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9123590",
+      "food_name": "Rich & Hearty Lentil & Andouille Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-lentil-and-andouille-sausage",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44773177",
+      "food_name": "Loaded Potato Soup with Fried Onion Strings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/loaded-potato-soup-with-fried-onion-strings",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43810",
+      "food_name": "Traditional Roasted Garlic Chicken Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-roasted-garlic-chicken-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7006818",
+      "food_name": "Heart Healthy Creamy Tomato with Basil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/heart-healthy-creamy-tomato-with-basil",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6445736",
+      "food_name": "Heart Healthy Italian-Style Wedding Soup with Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/heart-healthy-italian-style-wedding-soup-with-meatballs",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12271498",
+      "food_name": "Unsalted Chicken Cooking Stock",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/unsalted-chicken-cooking-stock",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11693222",
+      "food_name": "Rich & Hearty Minestrone with Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-minestrone-with-italian-sausage",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6634274",
+      "food_name": "Rich & Hearty Tomato Florentine with Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/rich-and-hearty-tomato-florentine-with-italian-sausage",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7089285",
+      "food_name": "White Chicken Chili with Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/white-chicken-chili-with-beans",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41532854",
+      "food_name": "Zesty Tomato Dumpling with Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/zesty-tomato-dumpling-with-vegetables",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7067477",
+      "food_name": "Traditional Creamy Roasted Chicken with Herb Dumplings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-creamy-roasted-chicken-with-herb-dumplings",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5384403",
+      "food_name": "Vegetable Classics 99% Fat Free Lentil Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-99%25-fat-free-lentil-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6546958",
+      "food_name": "Artisan Rustic Tomato with Chicken & Dumplings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/artisan-rustic-tomato-with-chicken-and-dumplings",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5312737",
+      "food_name": "Chef's Select Roasted Italian Sausage & Tomato Florentine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/chefs-select-roasted-italian-sausage-and-tomato-florentine",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4033109",
+      "food_name": "Light Chicken Pot Pie Style Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-chicken-pot-pie-style-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10255627",
+      "food_name": "Vegetable Classics Southwestern-Style Corn with Potatoes & Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-southwestern-style-corn-with-potatoes-and-peppers",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9791753",
+      "food_name": "Light Chicken & Cheese Enchilada Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-chicken-and-cheese-enchilada-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24033145",
+      "food_name": "Butternut Squash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/butternut-squash",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72586095",
+      "food_name": "Keto Friendly Creamy Cauliflower Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/keto-friendly-creamy-cauliflower-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104808136",
+      "food_name": "Pitmaster BBQ Style Grilled Chicken & Fire Roasted Corn Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/pitmaster-bbq-style-grilled-chicken-fire-roasted-corn-soup",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88008",
+      "food_name": "Vegetable Soup (Microwave Bowl)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-soup-(microwave-bowl)",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1173448",
+      "food_name": "World Recipes - Caldo de Pollo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/world-recipes---caldo-de-pollo",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2680365",
+      "food_name": "Red Clam Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/red-clam-sauce",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12955621",
+      "food_name": "Vegetable Classics 99% Fat Free Minestrone",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/vegetable-classics-99%25-fat-free-minestrone",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75313286",
+      "food_name": "Spicy New England Clam Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/spicy-new-england-clam-chowder",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1220540",
+      "food_name": "High Fiber Three-Bean Chili with Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/high-fiber-three-bean-chili-with-beef",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2607025",
+      "food_name": "Traditional Roasted Chicken Primavera",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-roasted-chicken-primavera",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5155837",
+      "food_name": "Creamy Basil Parmesan Chicken & Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/creamy-basil-parmesan-chicken-and-pasta",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12038199",
+      "food_name": "Traditional Italian-Style White Bean & Chicken Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/traditional-italian-style-white-bean-and-chicken-sausage",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9031637",
+      "food_name": "Light Creamy Roasted Chicken with Herb Dumplings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/progresso/light-creamy-roasted-chicken-with-herb-dumplings",
+      "brand_name": "Progresso",
+      "food_type": "Brand"
+    }
+  ]
+}

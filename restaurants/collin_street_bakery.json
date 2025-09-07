@@ -1,0 +1,20 @@
+{
+  "restaurant": "Collin Street Bakery",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 257,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:16:57.711Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/collin_street_bakery.json",
+  "items": [
+    {
+      "food_id": "10723284",
+      "food_name": "Apricot Pecan Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/collin-street-bakery/apricot-pecan-cake",
+      "brand_name": "Collin Street Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

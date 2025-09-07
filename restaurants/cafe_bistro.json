@@ -1,0 +1,48 @@
+{
+  "restaurant": "Cafe Bistro",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 337,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:39:16.800Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cafe_bistro.json",
+  "items": [
+    {
+      "food_id": "1240043",
+      "food_name": "Soft Gingerbread Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-bistro/soft-gingerbread-cookies",
+      "brand_name": "Cafe Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1395904",
+      "food_name": "Dark Chocolate Coated Butter Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-bistro/dark-chocolate-coated-butter-cookies",
+      "brand_name": "Cafe Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6573500",
+      "food_name": "Spekulatius Spiced Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-bistro/spekulatius-spiced-cookies",
+      "brand_name": "Cafe Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4683349",
+      "food_name": "Dark Chocolate Covered Gingerbread Assortment",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-bistro/dark-chocolate-covered-gingerbread-assortment",
+      "brand_name": "Cafe Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3560529",
+      "food_name": "Dark Chocolate Covered Gingerbread Hearts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-bistro/dark-chocolate-covered-gingerbread-hearts",
+      "brand_name": "Cafe Bistro",
+      "food_type": "Brand"
+    }
+  ]
+}

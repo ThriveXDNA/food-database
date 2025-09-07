@@ -1,0 +1,48 @@
+{
+  "restaurant": "Super Seedz",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 643,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:51:57.989Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/super_seedz.json",
+  "items": [
+    {
+      "food_id": "4210143",
+      "food_name": "Pumpkin Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-seedz/pumpkin-seeds",
+      "brand_name": "Super Seedz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17006429",
+      "food_name": "Pumpkin Seeds Sea Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-seedz/pumpkin-seeds-sea-salt",
+      "brand_name": "Super Seedz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13384250",
+      "food_name": "Somewhat Spicy Pumpkin Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-seedz/somewhat-spicy-pumpkin-seeds",
+      "brand_name": "Super Seedz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13313148",
+      "food_name": "Cinnamon Sugar Gourmet Pumpkin Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-seedz/cinnamon-sugar-gourmet-pumpkin-seeds",
+      "brand_name": "Super Seedz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24681437",
+      "food_name": "Premium Select Dark Chocolate & Sea Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-seedz/premium-select-dark-chocolate-sea-salt",
+      "brand_name": "Super Seedz",
+      "food_type": "Brand"
+    }
+  ]
+}

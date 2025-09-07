@@ -1,0 +1,769 @@
+{
+  "restaurant": "Tijuana Flats",
+  "total_items": 108,
+  "pages_extracted": 3,
+  "total_search_results": 133,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:31:49.352Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/tijuana_flats.json",
+  "items": [
+    {
+      "food_id": "73141260",
+      "food_name": "Dos Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/dos-tacos",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141373",
+      "food_name": "Coke - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/coke-large",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141267",
+      "food_name": "Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/quesadilla",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85163690",
+      "food_name": "Burrito Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/burrito-bowl",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141323",
+      "food_name": "Gold Queso - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/gold-queso-small",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85163693",
+      "food_name": "Garlic Lime Shrimp Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/garlic-lime-shrimp-tacos",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141236",
+      "food_name": "Chips + Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/chips-salsa",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72936166",
+      "food_name": "Chips + Guac",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/chips-guac",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141248",
+      "food_name": "Atom Bombs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/atom-bombs",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85163686",
+      "food_name": "Chips + Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/chips-queso",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141269",
+      "food_name": "Flautas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/flautas",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141271",
+      "food_name": "Nachos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/nachos",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85163709",
+      "food_name": "Churro Fries With Chocolate Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/churro-fries-with-chocolate-sauce",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141273",
+      "food_name": "Cheesy Steak Flautas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/cheesy-steak-flautas",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141338",
+      "food_name": "Cilantro Lime Rice - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/cilantro-lime-rice-small",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141326",
+      "food_name": "Gold Queso - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/gold-queso-large",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141327",
+      "food_name": "Guac - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/guac-small",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141333",
+      "food_name": "Guac - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/guac-large",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141359",
+      "food_name": "Refried Beans - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/refried-beans-large",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141371",
+      "food_name": "Coke",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/coke",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141354",
+      "food_name": "Cilantro Lime Rice - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/cilantro-lime-rice-large",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141383",
+      "food_name": "Sprite - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/sprite-large",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141256",
+      "food_name": "Double Stack Cheesy Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/double-stack-cheesy-tacos",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141387",
+      "food_name": "Kids Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/kids-burrito",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141312",
+      "food_name": "Fresh Red Salsa - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/fresh-red-salsa-small",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141314",
+      "food_name": "Fresh Red Salsa - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/fresh-red-salsa-large",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141360",
+      "food_name": "Black Beans - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/black-beans-small",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141375",
+      "food_name": "Diet Coke",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/diet-coke",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141384",
+      "food_name": "Dasani",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/dasani",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141386",
+      "food_name": "Apple Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/apple-juice",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424132",
+      "food_name": "Mexican Rice - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/mexican-rice-small",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141388",
+      "food_name": "Kids Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/kids-taco",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424353",
+      "food_name": "Kids Burrito - Blackened Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/kids-burrito-blackened-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424341",
+      "food_name": "Kids Taco - Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/kids-taco-black-beans",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424307",
+      "food_name": "Cookie Dough Flautas - 6 Pcs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/cookie-dough-flautas-6-pcs",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424324",
+      "food_name": "Kids Taco - Classic Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/kids-taco-classic-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424332",
+      "food_name": "Kids Taco - Blackened Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/kids-taco-blackened-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424631",
+      "food_name": "Kids Quesadilla - Ground Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/kids-quesadilla-ground-beef",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424643",
+      "food_name": "Street Taco - Ground Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/street-taco-ground-beef",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424581",
+      "food_name": "Kids Burrito - Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/kids-burrito-refried-beans",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424596",
+      "food_name": "Kids Chicken Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/kids-chicken-nuggets",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424606",
+      "food_name": "Kids Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/kids-quesadilla",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424624",
+      "food_name": "Kids Quesadilla - Blackened Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/kids-quesadilla-blackened-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424291",
+      "food_name": "Chocolate Chip Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/chocolate-chip-cookies",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424756",
+      "food_name": "Burrito - Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/burrito-steak",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424758",
+      "food_name": "Burrito - Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/burrito-black-beans",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424773",
+      "food_name": "Burrito - Poblano Peppers and Onions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/burrito-poblano-peppers-and-onions",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424692",
+      "food_name": "Bangin Chicken Bowl - Cilantro Lime Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/bangin-chicken-bowl-cilantro-lime-rice",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424703",
+      "food_name": "Salad - Classic Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/salad-classic-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424722",
+      "food_name": "Salad - Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/salad-black-beans",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424865",
+      "food_name": "Flautas - Classic Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/flautas-classic-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424869",
+      "food_name": "Flautas - Ground Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/flautas-ground-beef",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424882",
+      "food_name": "Flautas - Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/flautas-refried-beans",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424892",
+      "food_name": "Burrito Bowl - Cilantro Lime Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/burrito-bowl-cilantro-lime-rice",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424897",
+      "food_name": "Burrito Bowl - Mexican Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/burrito-bowl-mexican-rice",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424827",
+      "food_name": "Quesadilla - Blackened Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/quesadilla-blackened-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424841",
+      "food_name": "Quesadilla - Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/quesadilla-steak",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424785",
+      "food_name": "Chimichanga",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/chimichanga",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424795",
+      "food_name": "Chimichanga - Ground Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/chimichanga-ground-beef",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424851",
+      "food_name": "Quesadilla - Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/quesadilla-black-beans",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424859",
+      "food_name": "Quesadilla - Poblano Peppers and Onions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/quesadilla-poblano-peppers-and-onions",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424864",
+      "food_name": "Flautas - Blackened Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/flautas-blackened-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424802",
+      "food_name": "Chimichanga - Classic Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/chimichanga-classic-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141356",
+      "food_name": "Refried Beans - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/refried-beans-small",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141363",
+      "food_name": "Black Beans - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/black-beans-large",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141311",
+      "food_name": "Bangin Chicken Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/bangin-chicken-burrito",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85163697",
+      "food_name": "Bangin Chicken Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/bangin-chicken-quesadilla",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85163684",
+      "food_name": "Beefy Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/beefy-queso",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141378",
+      "food_name": "Diet Coke - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/diet-coke-large",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141380",
+      "food_name": "Sprite",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/sprite",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424243",
+      "food_name": "Mexican Rice - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/mexican-rice-large",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424248",
+      "food_name": "Pico De Gallo - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/pico-de-gallo-small",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424252",
+      "food_name": "Pico De Gallo - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/pico-de-gallo-large",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424614",
+      "food_name": "Kids Quesadilla - Classic Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/kids-quesadilla-classic-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424637",
+      "food_name": "Street Taco Trio",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/street-taco-trio",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424645",
+      "food_name": "Street Taco - Blackened Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/street-taco-blackened-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424657",
+      "food_name": "Street Taco - Classic Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/street-taco-classic-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424667",
+      "food_name": "Street Taco - Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/street-taco-shrimp",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424280",
+      "food_name": "Corn Salsa - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/corn-salsa-large",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424300",
+      "food_name": "Cookie Dough Flautas - 3 Pcs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/cookie-dough-flautas-3-pcs",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424732",
+      "food_name": "Salad - Poblano Peppers and Onions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/salad-poblano-peppers-and-onions",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424737",
+      "food_name": "Salad - Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/salad-shrimp",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424744",
+      "food_name": "Garlic Lime Shrimp Bowl - Cilantro Lime Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/garlic-lime-shrimp-bowl-cilantro-lime-rice",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424746",
+      "food_name": "Burrito - Classic Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/burrito-classic-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424337",
+      "food_name": "Kids Taco - Ground Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/kids-taco-ground-beef",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424681",
+      "food_name": "Bangin Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/bangin-chicken-salad",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424687",
+      "food_name": "Bangin Chicken Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/bangin-chicken-bowl",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424699",
+      "food_name": "Bangin Chicken Bowl - Mexican Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/bangin-chicken-bowl-mexican-rice",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424706",
+      "food_name": "Salad - Blackened Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/salad-blackened-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424345",
+      "food_name": "Kids Taco - Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/kids-taco-refried-beans",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424348",
+      "food_name": "Kids Burrito - Classic Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/kids-burrito-classic-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424573",
+      "food_name": "Kids Burrito - Ground Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/kids-burrito-ground-beef",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424588",
+      "food_name": "Kids Burrito - Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/kids-burrito-black-beans",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424263",
+      "food_name": "Corn Salsa - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/corn-salsa-small",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424751",
+      "food_name": "Burrito - Blackened Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/burrito-blackened-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424754",
+      "food_name": "Burrito - Ground Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/burrito-ground-beef",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424765",
+      "food_name": "Burrito - Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/burrito-refried-beans",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424768",
+      "food_name": "Burrito - Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/burrito-shrimp",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424806",
+      "food_name": "Chimichanga - Blackened Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/chimichanga-blackened-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424811",
+      "food_name": "Chimichanga - Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/chimichanga-steak",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424818",
+      "food_name": "Quesadilla - Classic Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/quesadilla-classic-chicken",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424832",
+      "food_name": "Quesadilla - Ground Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/quesadilla-ground-beef",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424846",
+      "food_name": "Quesadilla - Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/quesadilla-shrimp",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424875",
+      "food_name": "Flautas - Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/flautas-steak",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424878",
+      "food_name": "Flautas - Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/flautas-black-beans",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424889",
+      "food_name": "Flautas - Poblano Peppers and Onions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/flautas-poblano-peppers-and-onions",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107424855",
+      "food_name": "Quesadilla - Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/quesadilla-refried-beans",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73141246",
+      "food_name": "Tijuana Trio",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tijuana-flats/tijuana-trio",
+      "brand_name": "Tijuana Flats",
+      "food_type": "Brand"
+    }
+  ]
+}

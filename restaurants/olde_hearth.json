@@ -1,0 +1,20 @@
+{
+  "restaurant": "Olde Hearth",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 34,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:03:39.894Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/olde_hearth.json",
+  "items": [
+    {
+      "food_id": "2481153",
+      "food_name": "Very Berry Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olde-hearth/very-berry-bagel",
+      "brand_name": "Olde Hearth",
+      "food_type": "Brand"
+    }
+  ]
+}

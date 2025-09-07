@@ -1,0 +1,34 @@
+{
+  "restaurant": "Peter Luger",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:55:51.134Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/peter_luger.json",
+  "items": [
+    {
+      "food_id": "2496839",
+      "food_name": "Steak House Old Fashioned Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-luger/steak-house-old-fashioned-sauce",
+      "brand_name": "Peter Luger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12760290",
+      "food_name": "Thick Cut Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-luger/thick-cut-bacon",
+      "brand_name": "Peter Luger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5864680",
+      "food_name": "Creamed Spinach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peter-luger/creamed-spinach",
+      "brand_name": "Peter Luger",
+      "food_type": "Brand"
+    }
+  ]
+}

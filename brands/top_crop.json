@@ -1,0 +1,34 @@
+{
+  "brand_name": "Top Crop",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 309,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:28:54.546Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/top_crop.json",
+  "items": [
+    {
+      "food_id": "6041909",
+      "food_name": "Blueberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/top-crop/blueberries",
+      "brand_name": "Top Crop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15805270",
+      "food_name": "Sweet Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/top-crop/sweet-potato",
+      "brand_name": "Top Crop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "236162",
+      "food_name": "Fresh Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/top-crop/fresh-salsa",
+      "brand_name": "Top Crop",
+      "food_type": "Brand"
+    }
+  ]
+}

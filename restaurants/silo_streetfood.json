@@ -1,0 +1,34 @@
+{
+  "restaurant": "Silo Streetfood",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:35:01.991Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/silo_streetfood.json",
+  "items": [
+    {
+      "food_id": "88750113",
+      "food_name": "Korean Japchae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/silo-streetfood/korean-japchae",
+      "brand_name": "Silo Streetfood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80603051",
+      "food_name": "Thai Sweet Chili Dipping Sauce and Marinade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/silo-streetfood/thai-sweet-chili-dipping-sauce-and-marinade",
+      "brand_name": "Silo Streetfood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44822621",
+      "food_name": "Thai Vegetable Curry Red Curry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/silo-streetfood/thai-vegetable-curry-red-curry",
+      "brand_name": "Silo Streetfood",
+      "food_type": "Brand"
+    }
+  ]
+}

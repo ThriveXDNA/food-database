@@ -1,0 +1,76 @@
+{
+  "restaurant": "UCAN",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:01:06.031Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ucan.json",
+  "items": [
+    {
+      "food_id": "72149799",
+      "food_name": "Edge",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ucan/edge",
+      "brand_name": "UCAN",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54103438",
+      "food_name": "Energy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ucan/energy",
+      "brand_name": "UCAN",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44577297",
+      "food_name": "Chocolate Almond Butter Energy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ucan/chocolate-almond-butter-energy-bar",
+      "brand_name": "UCAN",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15761258",
+      "food_name": "Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ucan/chocolate-bar",
+      "brand_name": "UCAN",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7271774",
+      "food_name": "Generation",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ucan/generation",
+      "brand_name": "UCAN",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9045941",
+      "food_name": "Chocolate Peanut Butter Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ucan/chocolate-peanut-butter-bar",
+      "brand_name": "UCAN",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58939035",
+      "food_name": "100% Pure Superstarch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ucan/100-pure-superstarch",
+      "brand_name": "UCAN",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58613824",
+      "food_name": "Energy & Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ucan/energy-protein",
+      "brand_name": "UCAN",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44175499",
+      "food_name": "Cherry Berry Almond Energy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ucan/cherry-berry-almond-energy-bar",
+      "brand_name": "UCAN",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Queso-Melt",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 700,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:19:54.806Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/queso_melt.json",
+  "items": [
+    {
+      "food_id": "18175122",
+      "food_name": "Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/queso-melt/queso",
+      "brand_name": "Queso-Melt",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58736968",
+      "food_name": "Original Restaurant Style Cheese Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/queso-melt/original-restaurant-style-cheese-dip",
+      "brand_name": "Queso-Melt",
+      "food_type": "Brand"
+    }
+  ]
+}

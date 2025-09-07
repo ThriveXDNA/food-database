@@ -1,0 +1,76 @@
+{
+  "restaurant": "Haitai",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:00:23.619Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/haitai.json",
+  "items": [
+    {
+      "food_id": "26383013",
+      "food_name": "Vegetable Dumpling",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/haitai/vegetable-dumpling",
+      "brand_name": "Haitai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29779740",
+      "food_name": "Honey Butter Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/haitai/honey-butter-chip",
+      "brand_name": "Haitai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1008065",
+      "food_name": "Oh Yes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/haitai/oh-yes",
+      "brand_name": "Haitai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8459040",
+      "food_name": "Ace Cracker",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/haitai/ace-cracker",
+      "brand_name": "Haitai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62997848",
+      "food_name": "Nougat Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/haitai/nougat-bar",
+      "brand_name": "Haitai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1663440",
+      "food_name": "Sanuki Udon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/haitai/sanuki-udon",
+      "brand_name": "Haitai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39941010",
+      "food_name": "Homerun Ball",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/haitai/homerun-ball",
+      "brand_name": "Haitai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82378707",
+      "food_name": "Zaru Soba",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/haitai/zaru-soba",
+      "brand_name": "Haitai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2636070",
+      "food_name": "Matdongsan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/haitai/matdongsan",
+      "brand_name": "Haitai",
+      "food_type": "Brand"
+    }
+  ]
+}

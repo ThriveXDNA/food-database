@@ -1,0 +1,76 @@
+{
+  "restaurant": "Sticky Fingers",
+  "total_items": 9,
+  "pages_extracted": 3,
+  "total_search_results": 113,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:51:04.227Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sticky_fingers.json",
+  "items": [
+    {
+      "food_id": "40433286",
+      "food_name": "Sugar Free Original Barbecue Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sticky-fingers/sugar-free-original-barbecue-sauce",
+      "brand_name": "Sticky Fingers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6696900",
+      "food_name": "Carolina Classic Barbecue Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sticky-fingers/carolina-classic-barbecue-sauce",
+      "brand_name": "Sticky Fingers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3357977",
+      "food_name": "Jumbo Wings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sticky-fingers/jumbo-wings",
+      "brand_name": "Sticky Fingers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2412250",
+      "food_name": "Memphis Original Barbecue Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sticky-fingers/memphis-original-barbecue-sauce",
+      "brand_name": "Sticky Fingers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51678126",
+      "food_name": "Sweet Southern Heat BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sticky-fingers/sweet-southern-heat-bbq-sauce",
+      "brand_name": "Sticky Fingers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2537263",
+      "food_name": "Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sticky-fingers/fries",
+      "brand_name": "Sticky Fingers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2793037",
+      "food_name": "Potato Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sticky-fingers/potato-salad",
+      "brand_name": "Sticky Fingers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6533647",
+      "food_name": "Habanero Hot Barbecue Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sticky-fingers/habanero-hot-barbecue-sauce",
+      "brand_name": "Sticky Fingers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1568844",
+      "food_name": "Sticky Fingers (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wingers/sticky-fingers-(regular)",
+      "brand_name": "Winger's",
+      "food_type": "Brand"
+    }
+  ]
+}

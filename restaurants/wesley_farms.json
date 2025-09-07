@@ -1,0 +1,41 @@
+{
+  "restaurant": "Wesley Farms",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 14,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:01:36.601Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/wesley_farms.json",
+  "items": [
+    {
+      "food_id": "92913453",
+      "food_name": "Organic Spring Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wesley-farms/organic-spring-mix",
+      "brand_name": "Wesley Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37929315",
+      "food_name": "Granola Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wesley-farms/granola-bar",
+      "brand_name": "Wesley Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35012743",
+      "food_name": "Almond Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wesley-farms/almond-butter",
+      "brand_name": "Wesley Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103359693",
+      "food_name": "Atlantic Salmon Burgers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wesley-farms/atlantic-salmon-burgers",
+      "brand_name": "Wesley Farms",
+      "food_type": "Brand"
+    }
+  ]
+}

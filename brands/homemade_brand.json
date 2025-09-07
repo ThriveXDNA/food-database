@@ -1,0 +1,27 @@
+{
+  "brand_name": "HomeMade Brand",
+  "total_items": 2,
+  "pages_extracted": 3,
+  "total_search_results": 145,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:54:54.982Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/homemade_brand.json",
+  "items": [
+    {
+      "food_id": "14072332",
+      "food_name": "Cherry Cordial Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/homemade-brand/cherry-cordial-ice-cream",
+      "brand_name": "HomeMade Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14357026",
+      "food_name": "Chocolate Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/homemade-brand/chocolate-ice-cream",
+      "brand_name": "HomeMade Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

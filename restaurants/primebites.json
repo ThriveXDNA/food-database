@@ -1,0 +1,83 @@
+{
+  "restaurant": "Primebites",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:05:34.994Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/primebites.json",
+  "items": [
+    {
+      "food_id": "63318330",
+      "food_name": "Protein Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primebites/protein-brownie",
+      "brand_name": "Primebites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63443177",
+      "food_name": "Protein Brownie Chocolate Peanut Butter Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primebites/protein-brownie-chocolate-peanut-butter-chip",
+      "brand_name": "Primebites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88889282",
+      "food_name": "Chocolate Glazed Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primebites/chocolate-glazed-donut",
+      "brand_name": "Primebites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72978416",
+      "food_name": "Glazed Cinnamon Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primebites/glazed-cinnamon-roll",
+      "brand_name": "Primebites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57520985",
+      "food_name": "Cookies & Cream Blondie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primebites/cookies-cream-blondie",
+      "brand_name": "Primebites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70740228",
+      "food_name": "Protein Brownie Chocolate Cookie Monster",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primebites/protein-brownie-chocolate-cookie-monster",
+      "brand_name": "Primebites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86531489",
+      "food_name": "Birthday Cake Blondie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primebites/birthday-cake-blondie",
+      "brand_name": "Primebites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83352641",
+      "food_name": "Protein Brownie Peanut Butter Candy Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primebites/protein-brownie-peanut-butter-candy-crunch",
+      "brand_name": "Primebites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96874935",
+      "food_name": "Protein Mini Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primebites/protein-mini-muffins",
+      "brand_name": "Primebites",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80920334",
+      "food_name": "Protein Brownie Blueberry Cobbler",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primebites/protein-brownie-blueberry-cobbler",
+      "brand_name": "Primebites",
+      "food_type": "Brand"
+    }
+  ]
+}

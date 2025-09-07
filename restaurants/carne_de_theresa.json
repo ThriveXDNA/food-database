@@ -1,0 +1,20 @@
+{
+  "restaurant": "Carne de Theresa",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 538,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:08:57.797Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/carne_de_theresa.json",
+  "items": [
+    {
+      "food_id": "18674434",
+      "food_name": "Pollo Adobado",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carne-de-theresa/pollo-adobado",
+      "brand_name": "Carne de Theresa",
+      "food_type": "Brand"
+    }
+  ]
+}

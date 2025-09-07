@@ -1,0 +1,20 @@
+{
+  "restaurant": "Simply Bar",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 3860,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:58:24.652Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/simply_bar.json",
+  "items": [
+    {
+      "food_id": "1694291",
+      "food_name": "Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-bar/protein-bar",
+      "brand_name": "Simply Bar",
+      "food_type": "Brand"
+    }
+  ]
+}

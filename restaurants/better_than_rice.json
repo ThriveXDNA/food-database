@@ -1,0 +1,20 @@
+{
+  "restaurant": "Better Than Rice",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 4330,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:37:09.635Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/better_than_rice.json",
+  "items": [
+    {
+      "food_id": "25502069",
+      "food_name": "Better Than Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/better-than-rice/better-than-rice",
+      "brand_name": "Better Than Rice",
+      "food_type": "Brand"
+    }
+  ]
+}

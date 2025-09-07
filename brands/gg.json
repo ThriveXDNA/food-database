@@ -1,0 +1,55 @@
+{
+  "brand_name": "GG",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:50:50.020Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/gg.json",
+  "items": [
+    {
+      "food_id": "1908415",
+      "food_name": "Scandinavian Bran Crispbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gg/scandinavian-bran-crispbread",
+      "brand_name": "GG",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41752103",
+      "food_name": "Fiber Crispbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gg/fiber-crispbread",
+      "brand_name": "GG",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88842",
+      "food_name": "Chocolate Malt Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gg/chocolate-malt-milk",
+      "brand_name": "GG",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76946",
+      "food_name": "Scandinavian Bran Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gg/scandinavian-bran-crisps",
+      "brand_name": "GG",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16656941",
+      "food_name": "Scandinavian Thins with Pumpkin Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gg/scandinavian-thins-with-pumpkin-seeds",
+      "brand_name": "GG",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51252242",
+      "food_name": "Scandinavian Fiber Crispbread Raisin & Honey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gg/scandinavian-fiber-crispbread-raisin-honey",
+      "brand_name": "GG",
+      "food_type": "Brand"
+    }
+  ]
+}

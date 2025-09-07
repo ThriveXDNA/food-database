@@ -1,0 +1,41 @@
+{
+  "restaurant": "Smithfield Farms",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 14,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:44:26.066Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/smithfield_farms.json",
+  "items": [
+    {
+      "food_id": "682003",
+      "food_name": "BBQ Pork Rinds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smithfield-farms/bbq-pork-rinds",
+      "brand_name": "Smithfield Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4939503",
+      "food_name": "Hot & Spicy Pork Rinds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smithfield-farms/hot-and-spicy-pork-rinds",
+      "brand_name": "Smithfield Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15476912",
+      "food_name": "Original Pork Rinds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smithfield-farms/original-pork-rinds",
+      "brand_name": "Smithfield Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725014",
+      "food_name": "Pork Cracklins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smithfield-farms/pork-cracklins",
+      "brand_name": "Smithfield Farms",
+      "food_type": "Brand"
+    }
+  ]
+}

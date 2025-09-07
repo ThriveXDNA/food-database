@@ -1,0 +1,27 @@
+{
+  "restaurant": "Black Jewell",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 2613,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:48:58.512Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/black_jewell.json",
+  "items": [
+    {
+      "food_id": "88021",
+      "food_name": "Premium Natural Flavor Microwave Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/black-jewell/premium-natural-flavor-microwave-popcorn",
+      "brand_name": "Black Jewell",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7817531",
+      "food_name": "Premium Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/black-jewell/premium-popcorn",
+      "brand_name": "Black Jewell",
+      "food_type": "Brand"
+    }
+  ]
+}

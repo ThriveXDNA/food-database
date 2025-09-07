@@ -1,0 +1,34 @@
+{
+  "restaurant": "Simply Spuds",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 409,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:02:38.307Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/simply_spuds.json",
+  "items": [
+    {
+      "food_id": "5219775",
+      "food_name": "Steamables Petite Sweet Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-spuds/steamables-petite-sweet-potatoes",
+      "brand_name": "Simply Spuds",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6583688",
+      "food_name": "Steamables Red Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-spuds/steamables-red-potatoes",
+      "brand_name": "Simply Spuds",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6602858",
+      "food_name": "Steamables Golden Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-spuds/steamables-golden-potatoes",
+      "brand_name": "Simply Spuds",
+      "food_type": "Brand"
+    }
+  ]
+}

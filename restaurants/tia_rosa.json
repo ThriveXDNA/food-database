@@ -1,0 +1,69 @@
+{
+  "restaurant": "Tia Rosa",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 27,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:34:22.007Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/tia_rosa.json",
+  "items": [
+    {
+      "food_id": "3888047",
+      "food_name": "Flour Tortillas (Burrito Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tia-rosa/flour-tortillas-(burrito-size)",
+      "brand_name": "Tia Rosa",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86985",
+      "food_name": "Flour Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tia-rosa/flour-tortillas",
+      "brand_name": "Tia Rosa",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "575390",
+      "food_name": "Tortilla Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tia-rosa/tortilla-bread",
+      "brand_name": "Tia Rosa",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "169142",
+      "food_name": "Flour Tortillas (Soft Taco Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tia-rosa/flour-tortillas-(soft-taco-size)",
+      "brand_name": "Tia Rosa",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2708583",
+      "food_name": "Yellow Corn Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tia-rosa/yellow-corn-tortillas",
+      "brand_name": "Tia Rosa",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "306105",
+      "food_name": "100% White Corn Mega Thin Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tia-rosa/100%25-white-corn-mega-thin-tortilla-chips",
+      "brand_name": "Tia Rosa",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69988935",
+      "food_name": "Burrera Tamaño Grande",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tia-rosa/burrera-tama%C3%B1o-grande",
+      "brand_name": "Tia Rosa",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "675634",
+      "food_name": "100% Whole Wheat Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tia-rosa/100%25-whole-wheat-tortillas",
+      "brand_name": "Tia Rosa",
+      "food_type": "Brand"
+    }
+  ]
+}

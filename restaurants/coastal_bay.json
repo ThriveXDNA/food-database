@@ -1,0 +1,76 @@
+{
+  "restaurant": "Coastal Bay",
+  "total_items": 9,
+  "pages_extracted": 2,
+  "total_search_results": 84,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:12:41.474Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/coastal_bay.json",
+  "items": [
+    {
+      "food_id": "63313827",
+      "food_name": "Strawberry Hard Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coastal-bay/strawberry-hard-candy",
+      "brand_name": "Coastal Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1339116",
+      "food_name": "Sugar Free Fruit Medley Flavored Hard Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coastal-bay/sugar-free-fruit-medley-flavored-hard-candy",
+      "brand_name": "Coastal Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48442961",
+      "food_name": "Creamy Delight Hard Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coastal-bay/creamy-delight-hard-candy",
+      "brand_name": "Coastal Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52185865",
+      "food_name": "Butterscotch Hard Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coastal-bay/butterscotch-hard-candy",
+      "brand_name": "Coastal Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1981405",
+      "food_name": "Sugar Free Butterscotch Hard Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coastal-bay/sugar-free-butterscotch-hard-candy",
+      "brand_name": "Coastal Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34301539",
+      "food_name": "Cherry Sours",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coastal-bay/cherry-sours",
+      "brand_name": "Coastal Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20136266",
+      "food_name": "Peach Rings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coastal-bay/peach-rings",
+      "brand_name": "Coastal Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6483243",
+      "food_name": "Fruit Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coastal-bay/fruit-slices",
+      "brand_name": "Coastal Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3797282",
+      "food_name": "Sugar Free French Vanilla Coffee Hard Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coastal-bay/sugar-free-french-vanilla-coffee-hard-candy",
+      "brand_name": "Coastal Bay",
+      "food_type": "Brand"
+    }
+  ]
+}

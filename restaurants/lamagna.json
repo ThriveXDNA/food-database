@@ -1,0 +1,34 @@
+{
+  "restaurant": "Lamagna",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:44:05.252Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/lamagna.json",
+  "items": [
+    {
+      "food_id": "436265",
+      "food_name": "Ricotta Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lamagna/ricotta-cheese",
+      "brand_name": "Lamagna",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11100208",
+      "food_name": "Fresh Mozzarella Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lamagna/fresh-mozzarella-cheese",
+      "brand_name": "Lamagna",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13142516",
+      "food_name": "Part Skim Ricotta Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lamagna/part-skim-ricotta-cheese",
+      "brand_name": "Lamagna",
+      "food_type": "Brand"
+    }
+  ]
+}

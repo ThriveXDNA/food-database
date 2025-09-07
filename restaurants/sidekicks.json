@@ -1,0 +1,76 @@
+{
+  "restaurant": "Sidekicks",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:18:13.979Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sidekicks.json",
+  "items": [
+    {
+      "food_id": "77380",
+      "food_name": "Butter & Herb Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sidekicks/butter-and-herb-noodles",
+      "brand_name": "Sidekicks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3464293",
+      "food_name": "Garlic Alfredo Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sidekicks/garlic-alfredo-spaghetti",
+      "brand_name": "Sidekicks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4881339",
+      "food_name": "Singapore Curry Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sidekicks/singapore-curry-noodles",
+      "brand_name": "Sidekicks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46833",
+      "food_name": "Creamy Tomato & Parmesan Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sidekicks/creamy-tomato-and-parmesan-spaghetti",
+      "brand_name": "Sidekicks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2955434",
+      "food_name": "Creamy Parmesan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sidekicks/creamy-parmesan",
+      "brand_name": "Sidekicks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47150",
+      "food_name": "Brown & Wild Rice with Roasted Garlic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sidekicks/brown-and-wild-rice-with-roasted-garlic",
+      "brand_name": "Sidekicks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6172450",
+      "food_name": "Pedia Sure Sidekicks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pedia-sure/pedia-sure-sidekicks",
+      "brand_name": "Pedia Sure",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55465888",
+      "food_name": "Rustic Tuscany Sidekicks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bushs-best/rustic-tuscany-sidekicks",
+      "brand_name": "Bush's Best",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50687572",
+      "food_name": "Sidekicks Taco Fiesta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bushs-best/sidekicks-taco-fiesta",
+      "brand_name": "Bush's Best",
+      "food_type": "Brand"
+    }
+  ]
+}

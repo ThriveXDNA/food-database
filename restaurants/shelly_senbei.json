@@ -1,0 +1,27 @@
+{
+  "restaurant": "Shelly Senbei",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:39:59.531Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/shelly_senbei.json",
+  "items": [
+    {
+      "food_id": "309228",
+      "food_name": "Japanese Style Rice Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/shelly-senbei/japanese-style-rice-crackers",
+      "brand_name": "Shelly Senbei",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77420257",
+      "food_name": "Rice Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/shelly-senbei/rice-crackers",
+      "brand_name": "Shelly Senbei",
+      "food_type": "Brand"
+    }
+  ]
+}

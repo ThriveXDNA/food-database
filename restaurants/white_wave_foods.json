@@ -1,0 +1,27 @@
+{
+  "restaurant": "White Wave Foods",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 3890,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:32:08.595Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/white_wave_foods.json",
+  "items": [
+    {
+      "food_id": "234876",
+      "food_name": "Delight French Vanilla Creamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/white-wave-foods/delight-french-vanilla-creamer",
+      "brand_name": "White Wave Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74566",
+      "food_name": "Thai Sesame Peanut Baked Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/white-wave-foods/thai-sesame-peanut-baked-tofu",
+      "brand_name": "White Wave Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

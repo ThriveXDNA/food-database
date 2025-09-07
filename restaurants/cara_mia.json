@@ -1,0 +1,48 @@
+{
+  "restaurant": "Cara Mia",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:00:04.300Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cara_mia.json",
+  "items": [
+    {
+      "food_id": "1046465",
+      "food_name": "Artichoke Hearts in Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cara-mia/artichoke-hearts-in-water",
+      "brand_name": "Cara Mia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58651283",
+      "food_name": "Sun Dried Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cara-mia/sun-dried-tomatoes",
+      "brand_name": "Cara Mia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2137103",
+      "food_name": "Marinated Artichoke Hearts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cara-mia/marinated-artichoke-hearts",
+      "brand_name": "Cara Mia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99865035",
+      "food_name": "Artichoke Hearts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cara-mia/artichoke-hearts",
+      "brand_name": "Cara Mia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45434022",
+      "food_name": "Artichoke Bruschetta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cara-mia/artichoke-bruschetta",
+      "brand_name": "Cara Mia",
+      "food_type": "Brand"
+    }
+  ]
+}

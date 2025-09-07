@@ -1,0 +1,27 @@
+{
+  "restaurant": "La Romanella",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 92,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:54:37.615Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/la_romanella.json",
+  "items": [
+    {
+      "food_id": "5078707",
+      "food_name": "Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-romanella/ravioli",
+      "brand_name": "La Romanella",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16844137",
+      "food_name": "Sandwich Pepperoni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-romanella/sandwich-pepperoni",
+      "brand_name": "La Romanella",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Vici",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:50:23.846Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/vici.json",
+  "items": [
+    {
+      "food_id": "55215582",
+      "food_name": "Atlantic Herring Fillet in Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vici/atlantic-herring-fillet-in-oil",
+      "brand_name": "VICI",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68264083",
+      "food_name": "Premium Surimi Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vici/premium-surimi-sticks",
+      "brand_name": "Vici",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44827184",
+      "food_name": "Cold Smoked Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vici/cold-smoked-salmon",
+      "brand_name": "VICI",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57079801",
+      "food_name": "Snow crab",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vici/snow-crab",
+      "brand_name": "VICI",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59678511",
+      "food_name": "Frozen Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vici/frozen-crepes",
+      "brand_name": "Vici",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55734251",
+      "food_name": "Fish Protein Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vici/fish-protein-noodles",
+      "brand_name": "VICI",
+      "food_type": "Brand"
+    }
+  ]
+}

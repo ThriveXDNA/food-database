@@ -1,0 +1,41 @@
+{
+  "restaurant": "California Chips",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 3233,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:47:30.702Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/california_chips.json",
+  "items": [
+    {
+      "food_id": "461918",
+      "food_name": "Honey BBQ Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-chips/honey-bbq-potato-chips",
+      "brand_name": "California Chips",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1184117",
+      "food_name": "Earthquake Chips Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-chips/earthquake-chips-potato-chips",
+      "brand_name": "California Chips",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "862916",
+      "food_name": "Sea Salted All Natural Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-chips/sea-salted-all-natural-potato-chips",
+      "brand_name": "California Chips",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2776364",
+      "food_name": "Sea Salted All Natural Potato Chips (Bag)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-chips/sea-salted-all-natural-potato-chips-(bag)",
+      "brand_name": "California Chips",
+      "food_type": "Brand"
+    }
+  ]
+}

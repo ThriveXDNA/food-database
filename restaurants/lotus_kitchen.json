@@ -1,0 +1,27 @@
+{
+  "restaurant": "Lotus Kitchen",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 55,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:54:52.239Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/lotus_kitchen.json",
+  "items": [
+    {
+      "food_id": "33330264",
+      "food_name": "Butter Masala Simmer Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lotus-kitchen/butter-masala-simmer-sauce",
+      "brand_name": "Lotus Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68753857",
+      "food_name": "Goan Coconut Simmer Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lotus-kitchen/goan-coconut-simmer-sauce",
+      "brand_name": "Lotus Kitchen",
+      "food_type": "Brand"
+    }
+  ]
+}

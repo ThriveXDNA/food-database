@@ -1,0 +1,41 @@
+{
+  "restaurant": "Palmetto Cheese",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 12080,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:21:41.638Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/palmetto_cheese.json",
+  "items": [
+    {
+      "food_id": "16384408",
+      "food_name": "Pimento Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palmetto-cheese/pimento-cheese",
+      "brand_name": "Palmetto Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "443917",
+      "food_name": "Palmetto Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palmetto-cheese/palmetto-cheese",
+      "brand_name": "Palmetto Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4080779",
+      "food_name": "Pimento Cheese with Jalapenos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palmetto-cheese/pimento-cheese-with-jalapenos",
+      "brand_name": "Palmetto Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1970021",
+      "food_name": "Palmetto Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pawleys-island/palmetto-cheese",
+      "brand_name": "Pawley's Island",
+      "food_type": "Brand"
+    }
+  ]
+}

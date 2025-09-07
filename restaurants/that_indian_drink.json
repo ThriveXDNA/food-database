@@ -1,0 +1,27 @@
+{
+  "restaurant": "That Indian Drink",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 960,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:38:47.091Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/that_indian_drink.json",
+  "items": [
+    {
+      "food_id": "7716601",
+      "food_name": "Mango Rosewater Lassi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/that-indian-drink/mango-rosewater-lassi",
+      "brand_name": "That Indian Drink",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22717266",
+      "food_name": "Blueberry Cardamom Lassi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/that-indian-drink/blueberry-cardamom-lassi",
+      "brand_name": "That Indian Drink",
+      "food_type": "Brand"
+    }
+  ]
+}

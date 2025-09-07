@@ -1,0 +1,41 @@
+{
+  "restaurant": "Power Provisions",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 381,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:36:52.756Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/power_provisions.json",
+  "items": [
+    {
+      "food_id": "58994915",
+      "food_name": "Chicken Vegetable Bone Broth Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/power-provisions/chicken-vegetable-bone-broth-soup",
+      "brand_name": "Power Provisions",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48718536",
+      "food_name": "Cheddar Broccoli Bone Broth Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/power-provisions/cheddar-broccoli-bone-broth-soup",
+      "brand_name": "Power Provisions",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48721900",
+      "food_name": "Coconut Milk Thai Bone Broth Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/power-provisions/coconut-milk-thai-bone-broth-soup",
+      "brand_name": "Power Provisions",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53145517",
+      "food_name": "Creamy Tomato Bone Broth Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/power-provisions/creamy-tomato-bone-broth-soup",
+      "brand_name": "Power Provisions",
+      "food_type": "Brand"
+    }
+  ]
+}

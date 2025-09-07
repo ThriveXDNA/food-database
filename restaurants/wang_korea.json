@@ -1,0 +1,55 @@
+{
+  "restaurant": "Wang Korea",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:47:10.223Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/wang_korea.json",
+  "items": [
+    {
+      "food_id": "73289198",
+      "food_name": "Gochujang",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wang-korea/gochujang",
+      "brand_name": "Wang Korea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103564205",
+      "food_name": "Fish Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wang-korea/fish-cake",
+      "brand_name": "Wang Korea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44703164",
+      "food_name": "Kimchi Dumpling",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wang-korea/kimchi-dumpling",
+      "brand_name": "Wang Korea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37538638",
+      "food_name": "Puffed Cereal Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wang-korea/puffed-cereal-cookie",
+      "brand_name": "Wang Korea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59939360",
+      "food_name": "Korean Fresh Noodle (Udon)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wang-korea/korean-fresh-noodle-(udon)",
+      "brand_name": "Wang Korea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52917063",
+      "food_name": "Red Pepper Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wang-korea/red-pepper-powder",
+      "brand_name": "Wang Korea",
+      "food_type": "Brand"
+    }
+  ]
+}

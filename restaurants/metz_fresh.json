@@ -1,0 +1,20 @@
+{
+  "restaurant": "Metz Fresh",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 1130,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:43:24.213Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/metz_fresh.json",
+  "items": [
+    {
+      "food_id": "3050815",
+      "food_name": "Fresh Spinach Leaves",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/metz-fresh/fresh-spinach-leaves",
+      "brand_name": "Metz Fresh",
+      "food_type": "Brand"
+    }
+  ]
+}

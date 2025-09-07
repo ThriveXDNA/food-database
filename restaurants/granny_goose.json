@@ -1,0 +1,55 @@
+{
+  "restaurant": "Granny Goose",
+  "total_items": 6,
+  "pages_extracted": 2,
+  "total_search_results": 57,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:52:57.982Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/granny_goose.json",
+  "items": [
+    {
+      "food_id": "196751",
+      "food_name": "Cheese Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granny-goose/cheese-puffs",
+      "brand_name": "Granny Goose",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "330469",
+      "food_name": "Dip Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granny-goose/dip-chips",
+      "brand_name": "Granny Goose",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2619751",
+      "food_name": "Kettle Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granny-goose/kettle-corn",
+      "brand_name": "Granny Goose",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18145074",
+      "food_name": "Sour Cream & Onion Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granny-goose/sour-cream-and-onion-chips",
+      "brand_name": "Granny Goose",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3965251",
+      "food_name": "Barbeque Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granny-goose/barbeque-chips",
+      "brand_name": "Granny Goose",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74847",
+      "food_name": "Cheese Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granny-goose/cheese-popcorn",
+      "brand_name": "Granny Goose",
+      "food_type": "Brand"
+    }
+  ]
+}

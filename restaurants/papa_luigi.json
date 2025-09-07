@@ -1,0 +1,20 @@
+{
+  "restaurant": "Papa Luigi",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 17,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:29:47.559Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/papa_luigi.json",
+  "items": [
+    {
+      "food_id": "31662835",
+      "food_name": "Italian Style Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/papa-luigi/italian-style-meatballs",
+      "brand_name": "Papa Luigi",
+      "food_type": "Brand"
+    }
+  ]
+}

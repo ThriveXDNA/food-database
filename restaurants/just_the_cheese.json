@@ -1,0 +1,34 @@
+{
+  "restaurant": "Just the Cheese",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 13284,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:35:57.651Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/just_the_cheese.json",
+  "items": [
+    {
+      "food_id": "14988983",
+      "food_name": "Grilled Cheese Crunchy Baked Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-the-cheese/grilled-cheese-crunchy-baked-cheese",
+      "brand_name": "Just the Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "567188",
+      "food_name": "Crunchy Baked Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-the-cheese/crunchy-baked-cheese",
+      "brand_name": "Just the Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2734271",
+      "food_name": "Frying Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-the-cheese/frying-cheese",
+      "brand_name": "Just the Cheese",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "restaurant": "Juice Press",
+  "total_items": 10,
+  "pages_extracted": 6,
+  "total_search_results": 1655,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:47:04.587Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/juice_press.json",
+  "items": [
+    {
+      "food_id": "88886044",
+      "food_name": "Chia Seed Pudding",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/juice-press/chia-seed-pudding",
+      "brand_name": "Juice Press",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31849599",
+      "food_name": "Doctor Green Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/juice-press/doctor-green-juice",
+      "brand_name": "Juice Press",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24540443",
+      "food_name": "Blue Magic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/juice-press/blue-magic",
+      "brand_name": "Juice Press",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25261336",
+      "food_name": "Clean Green Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/juice-press/clean-green-protein",
+      "brand_name": "Juice Press",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22229654",
+      "food_name": "Roasted Veggie Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/juice-press/roasted-veggie-salad",
+      "brand_name": "Juice Press",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41109524",
+      "food_name": "Cacao Overnight Oats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/juice-press/cacao-overnight-oats",
+      "brand_name": "Juice Press",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20367925",
+      "food_name": "Vanilla Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/juice-press/vanilla-protein",
+      "brand_name": "Juice Press",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20072879",
+      "food_name": "Simple Green",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/juice-press/simple-green",
+      "brand_name": "Juice Press",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18285149",
+      "food_name": "Greens + Earth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/juice-press/greens-earth",
+      "brand_name": "Juice Press",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19123482",
+      "food_name": "Sin-O-Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/juice-press/sin-o-bun",
+      "brand_name": "Juice Press",
+      "food_type": "Brand"
+    }
+  ]
+}

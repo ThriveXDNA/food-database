@@ -1,0 +1,55 @@
+{
+  "restaurant": "Sangaria",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:07:34.098Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sangaria.json",
+  "items": [
+    {
+      "food_id": "14585622",
+      "food_name": "Royal Milk Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sangaria/royal-milk-tea",
+      "brand_name": "Sangaria",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "230051",
+      "food_name": "Milk Coffee made from Freshly Roasted and Ground Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sangaria/milk-coffee-made-from-freshly-roasted-and-ground-coffee",
+      "brand_name": "Sangaria",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38802457",
+      "food_name": "Strawberry Ramu Bottle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sangaria/strawberry-ramu-bottle",
+      "brand_name": "Sangaria",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96129435",
+      "food_name": "Peach Ramune",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sangaria/peach-ramune",
+      "brand_name": "Sangaria",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38763433",
+      "food_name": "Melon Ramu Bottle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sangaria/melon-ramu-bottle",
+      "brand_name": "Sangaria",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34366091",
+      "food_name": "Strawberry Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sangaria/strawberry-milk",
+      "brand_name": "Sangaria",
+      "food_type": "Brand"
+    }
+  ]
+}

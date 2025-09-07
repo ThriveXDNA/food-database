@@ -1,0 +1,62 @@
+{
+  "restaurant": "Real Coco",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 334,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:58:35.900Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/real_coco.json",
+  "items": [
+    {
+      "food_id": "25213125",
+      "food_name": "Original Organic Coconut Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/real-coco/original-organic-coconut-milk",
+      "brand_name": "Real Coco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22061932",
+      "food_name": "Organic Pure Coconut Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/real-coco/organic-pure-coconut-water",
+      "brand_name": "Real Coco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16359613",
+      "food_name": "Pineapple Coconut Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/real-coco/pineapple-coconut-water",
+      "brand_name": "Real Coco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4237748",
+      "food_name": "Real Coconut Water (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-nirvana/real-coconut-water-(can)",
+      "brand_name": "Taste Nirvana",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13025844",
+      "food_name": "Real Coconut Whipped Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gay-lea/real-coconut-whipped-topping",
+      "brand_name": "Gay Lea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94406344",
+      "food_name": "Real Cocoa Sunflower Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seven-sundays/real-cocoa-sunflower-cereal",
+      "brand_name": "Seven Sundays",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53644687",
+      "food_name": "Real Coconut Melts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tru-fru/real-coconut-melts",
+      "brand_name": "Tru Fru",
+      "food_type": "Brand"
+    }
+  ]
+}

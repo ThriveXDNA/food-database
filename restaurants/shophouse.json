@@ -1,0 +1,34 @@
+{
+  "restaurant": "ShopHouse",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:36:33.755Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/shophouse.json",
+  "items": [
+    {
+      "food_id": "9992652",
+      "food_name": "Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/shophouse/salad",
+      "brand_name": "ShopHouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8884846",
+      "food_name": "Grilled Chicken Satay",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/shophouse/grilled-chicken-satay",
+      "brand_name": "ShopHouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8884897",
+      "food_name": "Charred Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/shophouse/charred-corn",
+      "brand_name": "ShopHouse",
+      "food_type": "Brand"
+    }
+  ]
+}

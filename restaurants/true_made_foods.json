@@ -1,0 +1,34 @@
+{
+  "restaurant": "True Made Foods",
+  "total_items": 3,
+  "pages_extracted": 5,
+  "total_search_results": 250,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:49:57.750Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/true_made_foods.json",
+  "items": [
+    {
+      "food_id": "34086686",
+      "food_name": "Ketchup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/true-made-foods/ketchup",
+      "brand_name": "True Made Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95013173",
+      "food_name": "Kansas City Bbq Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/true-made-foods/kansas-city-bbq-sauce",
+      "brand_name": "True Made Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69560283",
+      "food_name": "Carolina Red BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/true-made-foods/carolina-red-bbq-sauce",
+      "brand_name": "True Made Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Burger 21",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 1157,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:24:03.127Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/burger_21.json",
+  "items": [
+    {
+      "food_id": "22833646",
+      "food_name": "Super Burger Bowl (including Beef Patty)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burger-21/super-burger-bowl-(including-beef-patty)",
+      "brand_name": "Burger 21",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85691493",
+      "food_name": "Beef Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burger-21/beef-patty",
+      "brand_name": "Burger 21",
+      "food_type": "Brand"
+    }
+  ]
+}

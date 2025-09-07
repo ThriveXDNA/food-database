@@ -1,0 +1,20 @@
+{
+  "restaurant": "Quaker Maid",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 282,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:15:20.254Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/quaker_maid.json",
+  "items": [
+    {
+      "food_id": "3742968",
+      "food_name": "Pure Beef Sandwich Steaks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quaker-maid/pure-beef-sandwich-steaks",
+      "brand_name": "Quaker Maid",
+      "food_type": "Brand"
+    }
+  ]
+}

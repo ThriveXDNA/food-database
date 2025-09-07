@@ -1,0 +1,48 @@
+{
+  "restaurant": "Colcafe",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:07:07.285Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/colcafe.json",
+  "items": [
+    {
+      "food_id": "229934",
+      "food_name": "Cappuccino Mix French Vanilla Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/colcafe/cappuccino-mix-french-vanilla-coffee",
+      "brand_name": "Colcafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "229942",
+      "food_name": "Todo En 1 3 In 1 Instant Coffee, Creamer & Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/colcafe/todo-en-1-3-in-1-instant-coffee-creamer-and-sugar",
+      "brand_name": "Colcafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "229930",
+      "food_name": "Cappuccino Mix Classic Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/colcafe/cappuccino-mix-classic-coffee",
+      "brand_name": "Colcafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "229935",
+      "food_name": "Cappuccino Mix Mocha Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/colcafe/cappuccino-mix-mocha-coffee",
+      "brand_name": "Colcafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "229947",
+      "food_name": "Todo En 1 Instant Light Coffee & Creamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/colcafe/todo-en-1-instant-light-coffee-and-creamer",
+      "brand_name": "Colcafe",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "restaurant": "Malta India",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 22,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:39:06.696Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/malta_india.json",
+  "items": [
+    {
+      "food_id": "6056494",
+      "food_name": "Malta India (207ml)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/malta-india/malta-india-(207ml)",
+      "brand_name": "Malta India",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8955959",
+      "food_name": "Malta India (355ml)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/malta-india/malta-india-(355ml)",
+      "brand_name": "Malta India",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1971690",
+      "food_name": "Malta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/india/malta",
+      "brand_name": "India",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5900820",
+      "food_name": "Malta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/malta-india-light/malta",
+      "brand_name": "Malta India Light",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "restaurant": "Breadko Bakery",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 45,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:11:56.253Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/breadko_bakery.json",
+  "items": [
+    {
+      "food_id": "283885",
+      "food_name": "100% Whole Wheat Pita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/breadko-bakery/100%25-whole-wheat-pita",
+      "brand_name": "Breadko Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

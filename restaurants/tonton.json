@@ -1,0 +1,27 @@
+{
+  "restaurant": "Tonton",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:40:24.136Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/tonton.json",
+  "items": [
+    {
+      "food_id": "1009337",
+      "food_name": "Hibachi Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tonton/hibachi-sauce",
+      "brand_name": "Tonton",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1783961",
+      "food_name": "Ginger Japanese Dressing & Marinade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tonton/ginger-japanese-dressing-and-marinade",
+      "brand_name": "Tonton",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "restaurant": "Dolly Madison",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:06:01.775Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dolly_madison.json",
+  "items": [
+    {
+      "food_id": "773151",
+      "food_name": "Powdered Donut Gems",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dolly-madison/powdered-donut-gems",
+      "brand_name": "Dolly Madison",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "692002",
+      "food_name": "Cinnamon Coffee Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dolly-madison/cinnamon-coffee-cakes",
+      "brand_name": "Dolly Madison",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3143368",
+      "food_name": "Zingers - Iced Chocolate Cakes with Creme Filling",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dolly-madison/zingers---iced-chocolate-cakes-with-creme-filling",
+      "brand_name": "Dolly Madison",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "210183",
+      "food_name": "Sweet Cinnamon Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dolly-madison/sweet-cinnamon-rolls",
+      "brand_name": "Dolly Madison",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "945033",
+      "food_name": "Ice Cream Sandwiches",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dolly-madison/ice-cream-sandwiches",
+      "brand_name": "Dolly Madison",
+      "food_type": "Brand"
+    }
+  ]
+}

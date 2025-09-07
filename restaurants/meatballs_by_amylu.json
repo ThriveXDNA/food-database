@@ -1,0 +1,55 @@
+{
+  "restaurant": "Meatballs by Amylu",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 717,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:30:25.210Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/meatballs_by_amylu.json",
+  "items": [
+    {
+      "food_id": "80652660",
+      "food_name": "Chicken Meatballs with Basil and Parmesan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meatballs-by-amylu/chicken-meatballs-with-basil-and-parmesan",
+      "brand_name": "Meatballs by Amylu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51806895",
+      "food_name": "Teriyaki Pineapple Chicken Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meatballs-by-amylu/teriyaki-pineapple-chicken-meatballs",
+      "brand_name": "Meatballs by Amylu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56826620",
+      "food_name": "Italian-Style Chicken Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meatballs-by-amylu/italian-style-chicken-meatballs",
+      "brand_name": "Meatballs by Amylu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73816025",
+      "food_name": "Amylu Mango Jalapeno Chicken Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meatballs-by-amylu/amylu-mango-jalapeno-chicken-meatballs",
+      "brand_name": "Meatballs by Amylu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4836233",
+      "food_name": "Kickin' Cranberry Chicken Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meatballs-by-amylu/kickin-cranberry-chicken-meatballs",
+      "brand_name": "Meatballs by Amylu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89837800",
+      "food_name": "Cranberry & Jalapeno Chicken Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meatballs-by-amylu/cranberry-jalapeno-chicken-meatballs",
+      "brand_name": "Meatballs by Amylu",
+      "food_type": "Brand"
+    }
+  ]
+}

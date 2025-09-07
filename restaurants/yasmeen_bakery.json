@@ -1,0 +1,27 @@
+{
+  "restaurant": "Yasmeen Bakery",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 46,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:12:35.325Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/yasmeen_bakery.json",
+  "items": [
+    {
+      "food_id": "5340921",
+      "food_name": "Pita Bread (56g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yasmeen-bakery/pita-bread-(56g)",
+      "brand_name": "Yasmeen Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7503767",
+      "food_name": "Pita Bread (65g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yasmeen-bakery/pita-bread-(65g)",
+      "brand_name": "Yasmeen Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

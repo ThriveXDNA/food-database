@@ -1,0 +1,83 @@
+{
+  "restaurant": "Boboli",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:20:02.944Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/boboli.json",
+  "items": [
+    {
+      "food_id": "2056049",
+      "food_name": "Mini 8\" Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boboli/mini-8-crust",
+      "brand_name": "Boboli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "125970",
+      "food_name": "Original Pizza Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boboli/original-pizza-crust",
+      "brand_name": "Boboli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "599725",
+      "food_name": "Thin Crust Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boboli/thin-crust-pizza",
+      "brand_name": "Boboli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1827558",
+      "food_name": "Original Pizza Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boboli/original-pizza-sauce",
+      "brand_name": "Boboli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "185956",
+      "food_name": "100% Whole Wheat Thin Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boboli/100%25-whole-wheat-thin-crust",
+      "brand_name": "Boboli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7265894",
+      "food_name": "Ultra Thin Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boboli/ultra-thin-crust",
+      "brand_name": "Boboli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72211",
+      "food_name": "Pizza Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boboli/pizza-sauce",
+      "brand_name": "Boboli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9680180",
+      "food_name": "100% Whole Wheat Pizza Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boboli/100%25-whole-wheat-pizza-crust",
+      "brand_name": "Boboli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1429628",
+      "food_name": "Whole Wheat Pizza Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boboli/whole-wheat-pizza-crust",
+      "brand_name": "Boboli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50388734",
+      "food_name": "Cauliflower Thin Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boboli/cauliflower-thin-crust",
+      "brand_name": "Boboli",
+      "food_type": "Brand"
+    }
+  ]
+}

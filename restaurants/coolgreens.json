@@ -1,0 +1,55 @@
+{
+  "restaurant": "Coolgreens",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:57:02.869Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/coolgreens.json",
+  "items": [
+    {
+      "food_id": "3353267",
+      "food_name": "Margarita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coolgreens/margarita-pizza",
+      "brand_name": "Coolgreens",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25171690",
+      "food_name": "Southwest Spicy Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coolgreens/southwest-spicy-chicken-salad",
+      "brand_name": "Coolgreens",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53370761",
+      "food_name": "Pesto Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coolgreens/pesto-chicken-sandwich",
+      "brand_name": "Coolgreens",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3446538",
+      "food_name": "Cous Cous",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coolgreens/cous-cous",
+      "brand_name": "Coolgreens",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62489827",
+      "food_name": "Peanut Butter Energy Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coolgreens/peanut-butter-energy-bites",
+      "brand_name": "Coolgreens",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62489803",
+      "food_name": "Superfood Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coolgreens/superfood-bowl",
+      "brand_name": "Coolgreens",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "restaurant": "Unique Pretzel Bakery",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 693,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:14:42.223Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/unique_pretzel_bakery.json",
+  "items": [
+    {
+      "food_id": "23757858",
+      "food_name": "Original Splits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/unique-pretzel-bakery/original-splits",
+      "brand_name": "Unique Pretzel Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "493170",
+      "food_name": "Extra Dark Splits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/unique-pretzel-bakery/extra-dark-splits",
+      "brand_name": "Unique Pretzel Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3194498",
+      "food_name": "Unique Pretzel Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/unique-pretzel-bakery/unique-pretzel-shells",
+      "brand_name": "Unique Pretzel Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

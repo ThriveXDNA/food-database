@@ -1,0 +1,27 @@
+{
+  "brand_name": "Baker Brand",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 74,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:54:24.138Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/baker_brand.json",
+  "items": [
+    {
+      "food_id": "427985",
+      "food_name": "Smoked String Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baker-brand/smoked-string-cheese",
+      "brand_name": "Baker Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3209095",
+      "food_name": "String Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baker-brand/string-cheese",
+      "brand_name": "Baker Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

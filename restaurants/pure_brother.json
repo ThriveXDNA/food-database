@@ -1,0 +1,41 @@
+{
+  "restaurant": "Pure Brother",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 1000,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:35:20.370Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pure_brother.json",
+  "items": [
+    {
+      "food_id": "6177",
+      "food_name": "Tomato Puree",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/tomato-puree",
+      "brand_name": "Pure Brother",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "3594",
+      "food_name": "Fried Whole Wheat Puri or Poori Bread (Indian Puffed Bread)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/bread-puri-or-poori-(indian-puffed-bread)-whole-wheat-fried",
+      "brand_name": "Pure Brother",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "7345",
+      "food_name": "Pre-Lightened Coffee (No Sugar)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/coffee-pre-lightened-no-sugar",
+      "brand_name": "Pure Brother",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "7447",
+      "food_name": "Pre-Lightened Presweetened Coffee with Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/coffee-presweetened-with-sugar-pre-lightened",
+      "brand_name": "Pure Brother",
+      "food_type": "Generic"
+    }
+  ]
+}

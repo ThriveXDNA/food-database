@@ -1,0 +1,55 @@
+{
+  "restaurant": "Louis Kemp",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 39,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:37:29.640Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/louis_kemp.json",
+  "items": [
+    {
+      "food_id": "26500",
+      "food_name": "Imitation Crabmeat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/louis-kemp/imitation-crabmeat",
+      "brand_name": "Louis Kemp",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1207852",
+      "food_name": "Crab Delights Flake Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/louis-kemp/crab-delights-flake-style",
+      "brand_name": "Louis Kemp",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5601349",
+      "food_name": "Crab Delights Leg Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/louis-kemp/crab-delights-leg-style",
+      "brand_name": "Louis Kemp",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79851",
+      "food_name": "Fat Free Lobster Delights",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/louis-kemp/fat-free-lobster-delights",
+      "brand_name": "Louis Kemp",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1790934",
+      "food_name": "Crab Snack Delights",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/louis-kemp/crab-snack-delights",
+      "brand_name": "Louis Kemp",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53274",
+      "food_name": "Fat Free Crab Delights",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/louis-kemp/fat-free-crab-delights",
+      "brand_name": "Louis Kemp",
+      "food_type": "Brand"
+    }
+  ]
+}

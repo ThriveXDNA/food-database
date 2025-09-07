@@ -1,0 +1,34 @@
+{
+  "restaurant": "Meica",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:26:33.047Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/meica.json",
+  "items": [
+    {
+      "food_id": "1171770",
+      "food_name": "Real German Sausages",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meica/real-german-sausages",
+      "brand_name": "Meica",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5195940",
+      "food_name": "Weisswurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meica/weisswurst",
+      "brand_name": "Meica",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24225007",
+      "food_name": "Pork Frankfurter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meica/pork-frankfurter",
+      "brand_name": "Meica",
+      "food_type": "Brand"
+    }
+  ]
+}

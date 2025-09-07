@@ -1,0 +1,20 @@
+{
+  "restaurant": "Indian Valley Farms",
+  "total_items": 1,
+  "pages_extracted": 4,
+  "total_search_results": 176,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:38:25.844Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/indian_valley_farms.json",
+  "items": [
+    {
+      "food_id": "1143749",
+      "food_name": "Sliced Turkey Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indian-valley-farms/sliced-turkey-bacon",
+      "brand_name": "Indian Valley Farms",
+      "food_type": "Brand"
+    }
+  ]
+}

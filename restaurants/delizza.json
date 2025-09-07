@@ -1,0 +1,62 @@
+{
+  "restaurant": "Delizza",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:06:32.973Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/delizza.json",
+  "items": [
+    {
+      "food_id": "48098772",
+      "food_name": "Macarons",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/delizza/macarons",
+      "brand_name": "Delizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1855212",
+      "food_name": "Belgian Mini Cream Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/delizza/belgian-mini-cream-puffs",
+      "brand_name": "Delizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2078965",
+      "food_name": "Belgian Mini Eclairs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/delizza/belgian-mini-eclairs",
+      "brand_name": "Delizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2362364",
+      "food_name": "Belgian Double Chocolate Mini Eclairs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/delizza/belgian-double-chocolate-mini-eclairs",
+      "brand_name": "Delizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96257358",
+      "food_name": "Mini Filled Donuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/delizza/mini-filled-donuts",
+      "brand_name": "Delizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40655673",
+      "food_name": "Mini Chocolate Mousse",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/delizza/mini-chocolate-mousse",
+      "brand_name": "Delizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41566490",
+      "food_name": "Gluten Free Mini Cream Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/delizza/gluten-free-mini-cream-puffs",
+      "brand_name": "Delizza",
+      "food_type": "Brand"
+    }
+  ]
+}

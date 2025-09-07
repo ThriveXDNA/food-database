@@ -1,0 +1,83 @@
+{
+  "restaurant": "Trubar",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:58:03.497Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/trubar.json",
+  "items": [
+    {
+      "food_id": "96633890",
+      "food_name": "Get in My Belly, Pb & Jelly",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trubar/get-in-my-belly-pb-jelly",
+      "brand_name": "Trubar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95603435",
+      "food_name": "Oh Oh Cookie Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trubar/oh-oh-cookie-dough",
+      "brand_name": "Trubar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92920436",
+      "food_name": "PB & Jelly Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trubar/pb-jelly-protein-bar",
+      "brand_name": "Trubar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87335808",
+      "food_name": "Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trubar/bar",
+      "brand_name": "Trubar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94867775",
+      "food_name": "Plant Based Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trubar/plant-based-protein-bar",
+      "brand_name": "Trubar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98394291",
+      "food_name": "Ohoh Cookie Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trubar/ohoh-cookie-dough",
+      "brand_name": "Trubar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80326616",
+      "food_name": "Daydreaming About Donuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trubar/daydreaming-about-donuts",
+      "brand_name": "Trubar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87904146",
+      "food_name": "Mint Chip Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trubar/mint-chip-protein-bar",
+      "brand_name": "Trubar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97765126",
+      "food_name": "Saltylicious Almond Love",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trubar/saltylicious-almond-love",
+      "brand_name": "Trubar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100873393",
+      "food_name": "Whole Lotta Macchiato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trubar/whole-lotta-macchiato",
+      "brand_name": "Trubar",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "restaurant": "Apollo Burger",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 1095,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:23:10.714Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/apollo_burger.json",
+  "items": [
+    {
+      "food_id": "15052431",
+      "food_name": "Apollo Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/apollo-burger/apollo-burger",
+      "brand_name": "Apollo Burger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75712883",
+      "food_name": "Hawaiian Teriyaki Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/apollo-burger/hawaiian-teriyaki-burger",
+      "brand_name": "Apollo Burger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28004278",
+      "food_name": "Cheeseburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/apollo-burger/cheeseburger",
+      "brand_name": "Apollo Burger",
+      "food_type": "Brand"
+    }
+  ]
+}

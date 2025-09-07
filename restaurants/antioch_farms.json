@@ -1,0 +1,27 @@
+{
+  "restaurant": "Antioch Farms",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 12,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:36:12.047Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/antioch_farms.json",
+  "items": [
+    {
+      "food_id": "76482",
+      "food_name": "Chicken Breast Cordon Bleu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/antioch-farms/chicken-breast-cordon-bleu",
+      "brand_name": "Antioch Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76484",
+      "food_name": "Raw Stuffed Chicken Breast Broccoli & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/antioch-farms/raw-stuffed-chicken-breast-broccoli-cheese",
+      "brand_name": "Antioch Farms",
+      "food_type": "Brand"
+    }
+  ]
+}

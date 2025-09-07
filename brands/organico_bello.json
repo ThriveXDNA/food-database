@@ -1,0 +1,27 @@
+{
+  "brand_name": "Organico Bello",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:58:49.740Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/organico_bello.json",
+  "items": [
+    {
+      "food_id": "32920470",
+      "food_name": "Tomato Basil Organic Pasta Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/organico-bello/tomato-basil-organic-pasta-sauce",
+      "brand_name": "Organico Bello",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15749997",
+      "food_name": "Organic Spicy Marinara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/organico-bello/organic-spicy-marinara",
+      "brand_name": "Organico Bello",
+      "food_type": "Brand"
+    }
+  ]
+}

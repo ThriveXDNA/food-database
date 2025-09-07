@@ -1,0 +1,83 @@
+{
+  "restaurant": "Vermont Smoke and Cure",
+  "total_items": 10,
+  "pages_extracted": 6,
+  "total_search_results": 2257,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:46:05.235Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/vermont_smoke_and_cure.json",
+  "items": [
+    {
+      "food_id": "12871114",
+      "food_name": "Cracked Pepper Beef & Pork Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vermont-smoke-and-cure/cracked-pepper-beef-and-pork-stick",
+      "brand_name": "Vermont Smoke and Cure",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8483529",
+      "food_name": "Turkey Uncured Pepperoni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vermont-smoke-and-cure/turkey-uncured-pepperoni",
+      "brand_name": "Vermont Smoke and Cure",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18971597",
+      "food_name": "BBQ Beef Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vermont-smoke-and-cure/bbq-beef-stick",
+      "brand_name": "Vermont Smoke and Cure",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10120274",
+      "food_name": "BBQ Realsticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vermont-smoke-and-cure/bbq-realsticks",
+      "brand_name": "Vermont Smoke and Cure",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2714479",
+      "food_name": "Uncured Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vermont-smoke-and-cure/uncured-bacon",
+      "brand_name": "Vermont Smoke and Cure",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14146544",
+      "food_name": "Ancho Pepper Turkey Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vermont-smoke-and-cure/ancho-pepper-turkey-stick",
+      "brand_name": "Vermont Smoke and Cure",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10129588",
+      "food_name": "Turkey Honey Mustard Realsticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vermont-smoke-and-cure/turkey-honey-mustard-realsticks",
+      "brand_name": "Vermont Smoke and Cure",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23618822",
+      "food_name": "Maple Teriyaki Beef Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vermont-smoke-and-cure/maple-teriyaki-beef-stick",
+      "brand_name": "Vermont Smoke and Cure",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14891981",
+      "food_name": "Spicy Italian Pork Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vermont-smoke-and-cure/spicy-italian-pork-stick",
+      "brand_name": "Vermont Smoke and Cure",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8065820",
+      "food_name": "Chipotle Realsticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vermont-smoke-and-cure/chipotle-realsticks",
+      "brand_name": "Vermont Smoke and Cure",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Twin Star",
+  "total_items": 6,
+  "pages_extracted": 2,
+  "total_search_results": 89,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:27:19.344Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/twin_star.json",
+  "items": [
+    {
+      "food_id": "3937186",
+      "food_name": "Grilled Vegetable Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/twin-star/grilled-vegetable-blend",
+      "brand_name": "Twin Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4245994",
+      "food_name": "Grilled Red and Yellow Pepper Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/twin-star/grilled-red-and-yellow-pepper-blend",
+      "brand_name": "Twin Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4432618",
+      "food_name": "Broccoli and Cauliflower with Cheese Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/twin-star/broccoli-and-cauliflower-with-cheese-sauce",
+      "brand_name": "Twin Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4449664",
+      "food_name": "Roasted Red Potatoes and Green Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/twin-star/roasted-red-potatoes-and-green-beans",
+      "brand_name": "Twin Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4521308",
+      "food_name": "Broccoli with Cheese Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/twin-star/broccoli-with-cheese-sauce",
+      "brand_name": "Twin Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3993536",
+      "food_name": "Corn in Butter Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/twin-star/corn-in-butter-sauce",
+      "brand_name": "Twin Star",
+      "food_type": "Brand"
+    }
+  ]
+}

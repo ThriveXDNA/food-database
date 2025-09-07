@@ -1,0 +1,20 @@
+{
+  "restaurant": "A Taste of India",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 1316,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:39:26.901Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/a_taste_of_india.json",
+  "items": [
+    {
+      "food_id": "16320536",
+      "food_name": "Masala Rice & Lentils",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-taste-of-india/masala-rice-and-lentils",
+      "brand_name": "A Taste of India",
+      "food_type": "Brand"
+    }
+  ]
+}

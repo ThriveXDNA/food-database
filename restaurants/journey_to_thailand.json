@@ -1,0 +1,55 @@
+{
+  "restaurant": "Journey to Thailand",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 359,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:33:01.190Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/journey_to_thailand.json",
+  "items": [
+    {
+      "food_id": "18163161",
+      "food_name": "Thai Peanut Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/journey-to-thailand/thai-peanut-sauce",
+      "brand_name": "Journey to Thailand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23443711",
+      "food_name": "Pad Thai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/journey-to-thailand/pad-thai",
+      "brand_name": "Journey to Thailand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23777285",
+      "food_name": "Red Curry Rice Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/journey-to-thailand/red-curry-rice-noodle-soup",
+      "brand_name": "Journey to Thailand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16222591",
+      "food_name": "Red Thai Curry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/journey-to-thailand/red-thai-curry",
+      "brand_name": "Journey to Thailand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23745200",
+      "food_name": "Thai Red Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/journey-to-thailand/thai-red-sauce",
+      "brand_name": "Journey to Thailand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23746104",
+      "food_name": "Green Curry Rice Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/journey-to-thailand/green-curry-rice-noodle-soup",
+      "brand_name": "Journey to Thailand",
+      "food_type": "Brand"
+    }
+  ]
+}

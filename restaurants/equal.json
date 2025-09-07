@@ -1,0 +1,41 @@
+{
+  "restaurant": "Equal",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:46:10.931Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/equal.json",
+  "items": [
+    {
+      "food_id": "3880217",
+      "food_name": "Equal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/equal/equal",
+      "brand_name": "Equal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4887928",
+      "food_name": "Equal Sucralose Granulated",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/equal/equal-sucralose-granulated",
+      "brand_name": "Equal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15416830",
+      "food_name": "Cafe Creamers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/equal/cafe-creamers",
+      "brand_name": "Equal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75279513",
+      "food_name": "Equal (1 Packet)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/raising-canes/equal-(1-packet)",
+      "brand_name": "Raising Cane's",
+      "food_type": "Brand"
+    }
+  ]
+}

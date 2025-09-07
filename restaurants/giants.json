@@ -1,0 +1,62 @@
+{
+  "restaurant": "Giants",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:54:38.536Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/giants.json",
+  "items": [
+    {
+      "food_id": "2265153",
+      "food_name": "Dill Pickle Sunflower Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/giants/dill-pickle-sunflower-seeds",
+      "brand_name": "Giants",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34551855",
+      "food_name": "Dill Pickle Cashews",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/giants/dill-pickle-cashews",
+      "brand_name": "Giants",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1524100",
+      "food_name": "Original Sunflower Seeds (Package)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/giants/original-sunflower-seeds-(package)",
+      "brand_name": "Giants",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5622698",
+      "food_name": "Toasted Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/giants/toasted-corn",
+      "brand_name": "Giants",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11425385",
+      "food_name": "Bacon Ranch Sunflower Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/giants/bacon-ranch-sunflower-seeds",
+      "brand_name": "Giants",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1321013",
+      "food_name": "Original Sunflower Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/giants/original-sunflower-seeds",
+      "brand_name": "Giants",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7868275",
+      "food_name": "Pumpkin Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/giants/pumpkin-seeds",
+      "brand_name": "Giants",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Bon Sole",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 34,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:06:25.626Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bon_sole.json",
+  "items": [
+    {
+      "food_id": "2375209",
+      "food_name": "Iced Honey Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bon-sole/iced-honey-bun",
+      "brand_name": "Bon Sole",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6725082",
+      "food_name": "Chocolate Donuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bon-sole/chocolate-donuts",
+      "brand_name": "Bon Sole",
+      "food_type": "Brand"
+    }
+  ]
+}

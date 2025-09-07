@@ -1,0 +1,69 @@
+{
+  "restaurant": "Fresh Choice",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 1579,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:20:45.012Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fresh_choice.json",
+  "items": [
+    {
+      "food_id": "2240165",
+      "food_name": "Chinese Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-choice/chinese-chicken-salad",
+      "brand_name": "Fresh Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89747",
+      "food_name": "Blue Cheese Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-choice/blue-cheese-dressing",
+      "brand_name": "Fresh Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7560712",
+      "food_name": "Double Cheese Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-choice/double-cheese-burger",
+      "brand_name": "Fresh Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "880710",
+      "food_name": "Tapioca Pudding",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-choice/tapioca-pudding",
+      "brand_name": "Fresh Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2419537",
+      "food_name": "Chicken Pozole Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-choice/chicken-pozole-soup",
+      "brand_name": "Fresh Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3179005",
+      "food_name": "Harvest Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-choice/harvest-bread",
+      "brand_name": "Fresh Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89748",
+      "food_name": "Butternut Squash Bisque",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-choice/butternut-squash-bisque",
+      "brand_name": "Fresh Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89749",
+      "food_name": "Brownie Chip Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-choice/brownie-chip-muffin",
+      "brand_name": "Fresh Choice",
+      "food_type": "Brand"
+    }
+  ]
+}

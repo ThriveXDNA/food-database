@@ -1,0 +1,62 @@
+{
+  "restaurant": "Ocean Jewel",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 49,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:32:34.973Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ocean_jewel.json",
+  "items": [
+    {
+      "food_id": "12040413",
+      "food_name": "Frozen Seafood Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-jewel/frozen-seafood-mix",
+      "brand_name": "Ocean Jewel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2949921",
+      "food_name": "Frozen Tilapia Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-jewel/frozen-tilapia-fillets",
+      "brand_name": "Ocean Jewel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7714195",
+      "food_name": "Fish Taco Mahi Chunks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-jewel/fish-taco-mahi-chunks",
+      "brand_name": "Ocean Jewel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39497924",
+      "food_name": "Raw Bay Scallops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-jewel/raw-bay-scallops",
+      "brand_name": "Ocean Jewel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3240629",
+      "food_name": "Cooked Pacific White Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-jewel/cooked-pacific-white-shrimp",
+      "brand_name": "Ocean Jewel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4554049",
+      "food_name": "White Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-jewel/white-shrimp",
+      "brand_name": "Ocean Jewel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2486247",
+      "food_name": "Haddock Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-jewel/haddock-fillets",
+      "brand_name": "Ocean Jewel",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "restaurant": "Bare Naked",
+  "total_items": 7,
+  "pages_extracted": 3,
+  "total_search_results": 114,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:07:11.443Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bare_naked.json",
+  "items": [
+    {
+      "food_id": "2824142",
+      "food_name": "Vanilla Almond Crunch Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bare-naked/vanilla-almond-crunch-granola",
+      "brand_name": "Bare Naked",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5572607",
+      "food_name": "Heavenly Chocolate Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bare-naked/heavenly-chocolate-granola",
+      "brand_name": "Bare Naked",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "942636",
+      "food_name": "Fruit & Nut Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bare-naked/fruit-and-nut-granola",
+      "brand_name": "Bare Naked",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3927465",
+      "food_name": "Peak Protein Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bare-naked/peak-protein-granola",
+      "brand_name": "Bare Naked",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3478040",
+      "food_name": "Triple Berry Crunch Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bare-naked/triple-berry-crunch-granola",
+      "brand_name": "Bare Naked",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15989376",
+      "food_name": "Granola Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bare-naked/granola-bites",
+      "brand_name": "Bare Naked",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70831445",
+      "food_name": "Sydney's Cosmo with Skinnygirl Bare Naked Vodka",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/outback-steakhouse/sydneys-cosmo-with-skinnygirl-bare-naked-vodka",
+      "brand_name": "Outback Steakhouse",
+      "food_type": "Brand"
+    }
+  ]
+}

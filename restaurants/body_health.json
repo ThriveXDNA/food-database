@@ -1,0 +1,41 @@
+{
+  "restaurant": "Body Health",
+  "total_items": 4,
+  "pages_extracted": 2,
+  "total_search_results": 96,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:07:22.876Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/body_health.json",
+  "items": [
+    {
+      "food_id": "63322218",
+      "food_name": "Perfect Amino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/body-health/perfect-amino",
+      "brand_name": "Body Health",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81572547",
+      "food_name": "Perfect Amino Blondie Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/body-health/perfect-amino-blondie-bar",
+      "brand_name": "Body Health",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67433425",
+      "food_name": "Perfect Amino Power Meal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/body-health/perfect-amino-power-meal",
+      "brand_name": "Body Health",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22872598",
+      "food_name": "Perfect Greens",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/body-health/perfect-greens",
+      "brand_name": "Body Health",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Hartville Kitchen",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 47,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:54:36.066Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/hartville_kitchen.json",
+  "items": [
+    {
+      "food_id": "6534832",
+      "food_name": "Sweet & Sour Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hartville-kitchen/sweet-and-sour-salad-dressing",
+      "brand_name": "Hartville Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "523476",
+      "food_name": "Fruit Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hartville-kitchen/fruit-dip",
+      "brand_name": "Hartville Kitchen",
+      "food_type": "Brand"
+    }
+  ]
+}

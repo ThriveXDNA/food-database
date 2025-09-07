@@ -1,0 +1,41 @@
+{
+  "restaurant": "Schweid & Sons",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 14,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:22:39.055Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/schweid_sons.json",
+  "items": [
+    {
+      "food_id": "12909580",
+      "food_name": "Chuck Brisket Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/schweid-and-sons/chuck-brisket-burger",
+      "brand_name": "Schweid & Sons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75563427",
+      "food_name": "The Butcher's Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/schweid-sons/the-butchers-blend",
+      "brand_name": "Schweid & Sons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23852881",
+      "food_name": "The Prime Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/schweid-sons/the-prime-burger",
+      "brand_name": "Schweid & Sons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103932870",
+      "food_name": "Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/schweid-sons/burger",
+      "brand_name": "Schweid & Sons",
+      "food_type": "Brand"
+    }
+  ]
+}

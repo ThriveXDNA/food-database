@@ -1,0 +1,1222 @@
+{
+  "restaurant": "Ruby Tuesday",
+  "total_items": 173,
+  "pages_extracted": 5,
+  "last_updated": "2025-09-06T06:52:29.013Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Restaurant search with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ruby_tuesday.json",
+  "items": [
+    {
+      "food_id": "76673",
+      "food_name": "French Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/french-fries",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047617",
+      "food_name": "Tater Tots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/tater-tots",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047626",
+      "food_name": "Grilled Zucchini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/grilled-zucchini",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152973",
+      "food_name": "Fresh Steamed Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/fresh-steamed-broccoli",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85393819",
+      "food_name": "Fish & Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/fish-chips",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047635",
+      "food_name": "Loaded Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/loaded-fries",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047637",
+      "food_name": "Loaded Tater Tots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/loaded-tater-tots",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047624",
+      "food_name": "Baked Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/baked-potato",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152967",
+      "food_name": "Grilled Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/grilled-salmon",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85393812",
+      "food_name": "Hickory Bourbon Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/hickory-bourbon-chicken",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047611",
+      "food_name": "Philly Cheesesteak Hoagie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/philly-cheesesteak-hoagie",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "153217",
+      "food_name": "Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/ranch-dressing",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5133753",
+      "food_name": "Hickory Bourbon Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/hickory-bourbon-salmon",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "153022",
+      "food_name": "Broccoli & Cheese Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/broccoli-and-cheese-soup",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16596633",
+      "food_name": "Rice Pilaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/rice-pilaf",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56584",
+      "food_name": "New Orleans Seafood",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/new-orleans-seafood",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85393810",
+      "food_name": "Deconstructed Kabobs - Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/deconstructed-kabobs-chicken",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "153199",
+      "food_name": "New York Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/new-york-cheesecake",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047603",
+      "food_name": "Chicken Carbonara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/chicken-carbonara",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85432710",
+      "food_name": "Deconstructed Kabobs - Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/deconstructed-kabobs-steak",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85394327",
+      "food_name": "Blackened Tilapia",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/blackened-tilapia",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "153124",
+      "food_name": "Parmesan Shrimp Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/parmesan-shrimp-pasta",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047493",
+      "food_name": "Half-Rack Baby-Back Ribs - Classic Barbecue",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/half-rack-baby-back-ribs-classic-barbecue",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6964504",
+      "food_name": "Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/mashed-potatoes",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047616",
+      "food_name": "Loaded Baked Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/loaded-baked-potato",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "153040",
+      "food_name": "Chicken & Broccoli Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/chicken-and-broccoli-pasta",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047308",
+      "food_name": "Full-Rack Baby-Back Ribs - Classic Barbecue",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/full-rack-baby-back-ribs-classic-barbecue",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047652",
+      "food_name": "Kids Cheeseburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/kids-cheeseburger",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047620",
+      "food_name": "Coleslaw",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/coleslaw",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85393821",
+      "food_name": "Coconut Shrimp Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/coconut-shrimp-platter",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047632",
+      "food_name": "Roasted Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/roasted-corn",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85432767",
+      "food_name": "Thousand Island",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/thousand-island",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85432755",
+      "food_name": "Five-Cheese Cheesesteak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/five-cheese-cheesesteak",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85432728",
+      "food_name": "Cajun Chicken Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/cajun-chicken-pasta",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047709",
+      "food_name": "Honey Mustard Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/honey-mustard-dressing",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047707",
+      "food_name": "Golden Italian",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/golden-italian",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85432739",
+      "food_name": "Chicken Pasta Marinara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/chicken-pasta-marinara",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047302",
+      "food_name": "Crispy Chicken Tenders",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/crispy-chicken-tenders",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047641",
+      "food_name": "Carrot Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/carrot-cake",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047644",
+      "food_name": "Chocolate Chip Cookie Skillet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/chocolate-chip-cookie-skillet",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047619",
+      "food_name": "Onion Rings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/onion-rings",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85432766",
+      "food_name": "Ultimate Chocolate Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/ultimate-chocolate-cake",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85432738",
+      "food_name": "Pasta Marinara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/pasta-marinara",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047622",
+      "food_name": "Mac 'N Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/mac-n-cheese",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047704",
+      "food_name": "French Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/french-dressing",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85431465",
+      "food_name": "Half-Rack Baby-Back Ribs - Hickory Bourbon BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/half-rack-baby-back-ribs-hickory-bourbon-bbq",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047568",
+      "food_name": "Crispy Chicken Mac 'n Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/crispy-chicken-mac-n-cheese",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047650",
+      "food_name": "Kids Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/kids-grilled-chicken",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85432757",
+      "food_name": "Hickory Bourbon Cheesesteak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/hickory-bourbon-cheesesteak",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85393777",
+      "food_name": "Rib Eye Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/rib-eye-caesar-salad",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85432707",
+      "food_name": "Steak Tacodilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/steak-tacodilla",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047314",
+      "food_name": "Full-Rack Baby-Back Ribs - Texas Dusted",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/full-rack-baby-back-ribs-texas-dusted",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85393808",
+      "food_name": "Salmon Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/salmon-caesar-salad",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047655",
+      "food_name": "Kids Mac n Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/kids-mac-n-cheese",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85432148",
+      "food_name": "Full-Rack Baby-Back Ribs - Hickory Bourbon BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/full-rack-baby-back-ribs-hickory-bourbon-bbq",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047307",
+      "food_name": "Asiago Bacon Chicken - Double",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/asiago-bacon-chicken-double",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047256",
+      "food_name": "Honey-Glazed Salmon Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/honey-glazed-salmon-bowl",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047658",
+      "food_name": "Kids Crispy Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/kids-crispy-shrimp",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047671",
+      "food_name": "Kids Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/kids-cheese-pizza",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047688",
+      "food_name": "Balsamic Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/balsamic-vinaigrette",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047691",
+      "food_name": "Balsamic Vinegar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/balsamic-vinegar",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047667",
+      "food_name": "Kids Strawberry Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/kids-strawberry-sundae",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047495",
+      "food_name": "Half-Rack Baby-Back Ribs - Texas Dusted",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/half-rack-baby-back-ribs-texas-dusted",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85431966",
+      "food_name": "Half-Rack Baby-Back Ribs - Chili Lime",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/half-rack-baby-back-ribs-chili-lime",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85431971",
+      "food_name": "Full-Rack Baby-Back Ribs - Nashville Hot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/full-rack-baby-back-ribs-nashville-hot",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185641",
+      "food_name": "Ribs & Crispy Shrimp - Texas Dusted",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/ribs-crispy-shrimp-texas-dusted",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85393822",
+      "food_name": "Crispy Shrimp Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/crispy-shrimp-platter",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185613",
+      "food_name": "Ribs & Crispy Shrimp - Classic Barbecue",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/ribs-crispy-shrimp-classic-barbecue",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85394326",
+      "food_name": "Half-Rack Baby-Back Ribs - Nashville Hot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/half-rack-baby-back-ribs-nashville-hot",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185644",
+      "food_name": "Ribs & Crispy Shrimp - Nashville Hot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/ribs-crispy-shrimp-nashville-hot",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185650",
+      "food_name": "Ribs & Crispy Shrimp - Hickory Bourbon BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/ribs-crispy-shrimp-hickory-bourbon-bbq",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185914",
+      "food_name": "6 oz Rib Eye & Half-Rack Ribs Combo - Hickory Bourbon BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/6-oz-rib-eye-half-rack-ribs-combo-hickory-bourbon-bbq",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185761",
+      "food_name": "Rib Eye, Ribs, and Crispy Shrimp Combo - Nashville Hot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/rib-eye-ribs-and-crispy-shrimp-combo-nashville-hot",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185899",
+      "food_name": "6 oz Rib Eye & Half-Rack Ribs Combo - Texas Dusted",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/6-oz-rib-eye-half-rack-ribs-combo-texas-dusted",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185998",
+      "food_name": "New York Strip + Grilled Shrimp Combo - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/new-york-strip-grilled-shrimp-combo-12-oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185980",
+      "food_name": "New York Strip + Crispy Shrimp Combo - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/new-york-strip-crispy-shrimp-combo-12-oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185682",
+      "food_name": "Triple Play - Classic Barbecue",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/triple-play-classic-barbecue",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185702",
+      "food_name": "Triple Play - Nashville Hot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/triple-play-nashville-hot",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185747",
+      "food_name": "Rib Eye, Ribs, and Crispy Shrimp Combo - Texas Dusted",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/rib-eye-ribs-and-crispy-shrimp-combo-texas-dusted",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186012",
+      "food_name": "New York Strip + Hickory Bourbon Chicken Combo - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/new-york-strip-hickory-bourbon-chicken-combo-12-oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186182",
+      "food_name": "Rib Eye + Hickory Bourbon Chicken Combo - 6 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/rib-eye-hickory-bourbon-chicken-combo-6-oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186026",
+      "food_name": "New York Strip + Half-Rack of Ribs - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/new-york-strip-half-rack-of-ribs-12-oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186129",
+      "food_name": "Top Sirloin + Grilled Shrimp Combo - 6 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/top-sirloin-grilled-shrimp-combo-6-oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186224",
+      "food_name": "Top Sirloin + Grilled Shrimp Combo - 8Oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/top-sirloin-grilled-shrimp-combo-8oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186275",
+      "food_name": "Top Sirloin - 8 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/top-sirloin-8-oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186088",
+      "food_name": "Rib Eye - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/rib-eye-12-oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186268",
+      "food_name": "New York Strip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/new-york-strip",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186111",
+      "food_name": "Top Sirloin + Crispy Shrimp Combo - 6 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/top-sirloin-crispy-shrimp-combo-6-oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186517",
+      "food_name": "Bacon Cheeseburger - Gluten-Free Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/bacon-cheeseburger-gluten-free-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186521",
+      "food_name": "Bacon Cheeseburger - No Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/bacon-cheeseburger-no-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186469",
+      "food_name": "Jalapeño Bacon Queso Burger - Gluten-Free Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/jalape%C3%B1o-bacon-queso-burger-gluten-free-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186368",
+      "food_name": "Loaded Guac Smashed Burger - Gluten-Free Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/loaded-guac-smashed-burger-gluten-free-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186490",
+      "food_name": "Smokehouse Cheeseburger - Gluten-Free Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/smokehouse-cheeseburger-gluten-free-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186298",
+      "food_name": "12 oz Rib Eye + Grilled Shrimp Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/12-oz-rib-eye-grilled-shrimp-combo",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186289",
+      "food_name": "12 oz Rib Eye + Crispy Shrimp Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/12-oz-rib-eye-crispy-shrimp-combo",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186537",
+      "food_name": "Ruby's Cheeseburger - Brioche Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/rubys-cheeseburger-brioche-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186450",
+      "food_name": "American Smashed Burger - No Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/american-smashed-burger-no-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186457",
+      "food_name": "Jalapeño Bacon Queso Burger - Brioche Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/jalape%C3%B1o-bacon-queso-burger-brioche-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186610",
+      "food_name": "Classic Burger - No Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/classic-burger-no-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186618",
+      "food_name": "Chicken Parmesan Hoagie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/chicken-parmesan-hoagie",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186642",
+      "food_name": "Ultimate Crispy Chicken Sandwich - Brioche Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/ultimate-crispy-chicken-sandwich-brioche-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186682",
+      "food_name": "Grilled Chicken Sandwich - Gluten-Free Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/grilled-chicken-sandwich-gluten-free-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186632",
+      "food_name": "Chicken Parmesan Hoagie - Gluten-Free Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/chicken-parmesan-hoagie-gluten-free-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186672",
+      "food_name": "Grilled Chicken Sandwich - Brioche Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/grilled-chicken-sandwich-brioche-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186603",
+      "food_name": "Classic Burger - Gluten-Free Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/classic-burger-gluten-free-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186553",
+      "food_name": "Ruby's Cheeseburger - No Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/rubys-cheeseburger-no-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186691",
+      "food_name": "Mild Buffalo Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/mild-buffalo-sauce",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186596",
+      "food_name": "Classic Burger - Brioche Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/classic-burger-brioche-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186787",
+      "food_name": "Funnel Cake Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/funnel-cake-sundae",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186791",
+      "food_name": "Chocolate Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/chocolate-sundae",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186804",
+      "food_name": "Chocolate Brownie Explosion Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/chocolate-brownie-explosion-sundae",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186767",
+      "food_name": "Roasted Mushrooms",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/roasted-mushrooms",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186782",
+      "food_name": "Hot Buffalo Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/hot-buffalo-sauce",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186799",
+      "food_name": "Dulce De Leche Cheesecake Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/dulce-de-leche-cheesecake-sundae",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047264",
+      "food_name": "Chicken Parmesan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/chicken-parmesan",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047668",
+      "food_name": "Kids Chocolate Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/kids-chocolate-sundae",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047661",
+      "food_name": "Kids Buttery Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/kids-buttery-pasta",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047692",
+      "food_name": "Extra Virgin Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/extra-virgin-olive-oil",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047702",
+      "food_name": "Caesar Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/caesar-dressing",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85432764",
+      "food_name": "Bacon Club",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/bacon-club",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185175",
+      "food_name": "Loaded Potato Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/loaded-potato-soup",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85432520",
+      "food_name": "Full-Rack Baby-Back Ribs - Chili Lime",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/full-rack-baby-back-ribs-chili-lime",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185561",
+      "food_name": "French Quarter Chicken & Shrimp - Single",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/french-quarter-chicken-shrimp-single",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185569",
+      "food_name": "French Quarter Chicken & Shrimp - Double",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/french-quarter-chicken-shrimp-double",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185427",
+      "food_name": "Ruby's Chicken Caesar Salad - Grilled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/rubys-chicken-caesar-salad-grilled",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185545",
+      "food_name": "Ruby's Chicken Caesar Salad - Crispy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/rubys-chicken-caesar-salad-crispy",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185553",
+      "food_name": "Blue Cheese Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/blue-cheese-dressing",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185848",
+      "food_name": "Rib Eye, Ribs, and Crispy Shrimp Combo - Chili Lime Rub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/rib-eye-ribs-and-crispy-shrimp-combo-chili-lime-rub",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185765",
+      "food_name": "Rib Eye, Ribs, and Crispy Shrimp Combo - Hickory Bourbon BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/rib-eye-ribs-and-crispy-shrimp-combo-hickory-bourbon-bbq",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185726",
+      "food_name": "Rib Eye, Ribs, and Crispy Shrimp Combo - Classic Barbecue",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/rib-eye-ribs-and-crispy-shrimp-combo-classic-barbecue",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185690",
+      "food_name": "Triple Play - Chili Lime Rub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/triple-play-chili-lime-rub",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185696",
+      "food_name": "Triple Play - Hickory Bourbon BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/triple-play-hickory-bourbon-bbq",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185600",
+      "food_name": "Deconstructed Kabobs with Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/deconstructed-kabobs-with-shrimp",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185580",
+      "food_name": "Asiago Bacon Chicken - Single",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/asiago-bacon-chicken-single",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185709",
+      "food_name": "Triple Play - Texas Dusted",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/triple-play-texas-dusted",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185595",
+      "food_name": "Chicken Tacodilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/chicken-tacodilla",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185660",
+      "food_name": "Ribs & Crispy Shrimp - Chili Lime Rub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/ribs-crispy-shrimp-chili-lime-rub",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186173",
+      "food_name": "Rib Eye + Grilled Shrimp Combo - 6 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/rib-eye-grilled-shrimp-combo-6-oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185879",
+      "food_name": "6 oz Rib Eye & Half-Rack Ribs Combo - Classic Barbecue",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/6-oz-rib-eye-half-rack-ribs-combo-classic-barbecue",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185904",
+      "food_name": "6 oz Rib Eye & Half-Rack Ribs Combo - Nashville Hot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/6-oz-rib-eye-half-rack-ribs-combo-nashville-hot",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186148",
+      "food_name": "Top Sirloin + Half-Rack of Ribs Combo - 6 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/top-sirloin-half-rack-of-ribs-combo-6-oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185934",
+      "food_name": "Top Sirloin - 6 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/top-sirloin-6-oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185924",
+      "food_name": "6 oz Rib Eye & Half-Rack Ribs Combo - Chili Lime Rub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/6-oz-rib-eye-half-rack-ribs-combo-chili-lime-rub",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185930",
+      "food_name": "T-Bone Steak - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/t-bone-steak-16-oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186136",
+      "food_name": "Top Sirloin + Hickory Bourbon Chicken Combo - 6 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/top-sirloin-hickory-bourbon-chicken-combo-6-oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186168",
+      "food_name": "Rib Eye + Crispy Shrimp Combo - 6 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/rib-eye-crispy-shrimp-combo-6-oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106185854",
+      "food_name": "Hickory Bourbon Pork Chop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/hickory-bourbon-pork-chop",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186251",
+      "food_name": "Top Sirloin + Hickory Bourbon Chicken Combo - 8Oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/top-sirloin-hickory-bourbon-chicken-combo-8oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186261",
+      "food_name": "Top Sirloin + Half-Rack of Ribs Combo - 8Oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/top-sirloin-half-rack-of-ribs-combo-8oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186408",
+      "food_name": "Mushroom Swiss Smashed Burger - Gluten-Free Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/mushroom-swiss-smashed-burger-gluten-free-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186308",
+      "food_name": "12 oz Rib Eye + Hickory Bourbon Chicken Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/12-oz-rib-eye-hickory-bourbon-chicken-combo",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186186",
+      "food_name": "Rib Eye + Half-Rack of Ribs Combo - 6 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/rib-eye-half-rack-of-ribs-combo-6-oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186341",
+      "food_name": "Loaded Guac Smashed Burger - Brioche Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/loaded-guac-smashed-burger-brioche-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186318",
+      "food_name": "12 oz Rib Eye + Half-Rack of Ribs Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/12-oz-rib-eye-half-rack-of-ribs-combo",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186380",
+      "food_name": "Loaded Guac Smashed Burger - No Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/loaded-guac-smashed-burger-no-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186205",
+      "food_name": "Rib Eye - 6 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/rib-eye-6-oz",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186432",
+      "food_name": "American Smashed Burger - Brioche Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/american-smashed-burger-brioche-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186445",
+      "food_name": "American Smashed Burger - Gluten-Free Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/american-smashed-burger-gluten-free-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186659",
+      "food_name": "Ultimate Crispy Chicken Sandwich - Gluten-Free Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/ultimate-crispy-chicken-sandwich-gluten-free-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186423",
+      "food_name": "Mushroom Swiss Smashed Burger - No Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/mushroom-swiss-smashed-burger-no-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186473",
+      "food_name": "Jalapeño Bacon Queso Burger - No Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/jalape%C3%B1o-bacon-queso-burger-no-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186480",
+      "food_name": "Smokehouse Cheeseburger - Brioche Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/smokehouse-cheeseburger-brioche-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186528",
+      "food_name": "Impossible Burger - Gluten-Free Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/impossible-burger-gluten-free-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186506",
+      "food_name": "Bacon Cheeseburger - Brioche Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/bacon-cheeseburger-brioche-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186496",
+      "food_name": "Smokehouse Cheeseburger - No Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/smokehouse-cheeseburger-no-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186524",
+      "food_name": "Impossible Burger - Brioche Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/impossible-burger-brioche-bun",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186715",
+      "food_name": "Hickory Bourbon BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/hickory-bourbon-bbq-sauce",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186833",
+      "food_name": "Kids Chicken Tenders",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/kids-chicken-tenders",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186818",
+      "food_name": "Kids Marinara Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/kids-marinara-pasta",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186808",
+      "food_name": "Strawberry Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/strawberry-sundae",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186697",
+      "food_name": "BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/bbq-sauce",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186795",
+      "food_name": "Funnel Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/funnel-cake",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106186830",
+      "food_name": "Kids Cheese Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ruby-tuesday/kids-cheese-quesadilla",
+      "brand_name": "Ruby Tuesday",
+      "food_type": "Brand"
+    }
+  ]
+}

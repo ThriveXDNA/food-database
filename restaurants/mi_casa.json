@@ -1,0 +1,55 @@
+{
+  "restaurant": "Mi Casa",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 45,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:34:37.428Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mi_casa.json",
+  "items": [
+    {
+      "food_id": "100997",
+      "food_name": "Yellow Corn Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mi-casa/yellow-corn-tortillas",
+      "brand_name": "Mi Casa",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "770717",
+      "food_name": "White Corn Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mi-casa/white-corn-tortillas",
+      "brand_name": "Mi Casa",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "554615",
+      "food_name": "Flour Tortillas - Burrito Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mi-casa/flour-tortillas---burrito-style",
+      "brand_name": "Mi Casa",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4684442",
+      "food_name": "Flour Tortillas - Soft Taco Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mi-casa/flour-tortillas---soft-taco-style",
+      "brand_name": "Mi Casa",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "360153",
+      "food_name": "Flour Tortillas - Fajita Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mi-casa/flour-tortillas---fajita-style",
+      "brand_name": "Mi Casa",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1748823",
+      "food_name": "Wheat Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mi-casa/wheat-tortillas",
+      "brand_name": "Mi Casa",
+      "food_type": "Brand"
+    }
+  ]
+}

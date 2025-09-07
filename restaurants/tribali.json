@@ -1,0 +1,41 @@
+{
+  "restaurant": "Tribali",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:33:19.296Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/tribali.json",
+  "items": [
+    {
+      "food_id": "85195504",
+      "food_name": "Tikka Masala Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tribali/tikka-masala-chicken",
+      "brand_name": "Tribali",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55370894",
+      "food_name": "Thai Turkey Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tribali/thai-turkey-patty",
+      "brand_name": "Tribali",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28166678",
+      "food_name": "Chipotle Chicken Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tribali/chipotle-chicken-patty",
+      "brand_name": "Tribali",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60363116",
+      "food_name": "Coconut Chipotle Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tribali/coconut-chipotle-chicken",
+      "brand_name": "Tribali",
+      "food_type": "Brand"
+    }
+  ]
+}

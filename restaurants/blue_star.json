@@ -1,0 +1,27 @@
+{
+  "restaurant": "Blue Star",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 779,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:37:37.601Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/blue_star.json",
+  "items": [
+    {
+      "food_id": "86431",
+      "food_name": "Crabmeat Claw Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-star/crabmeat-claw-meat",
+      "brand_name": "Blue Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7459805",
+      "food_name": "Lump Crabmeat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-star/lump-crabmeat",
+      "brand_name": "Blue Star",
+      "food_type": "Brand"
+    }
+  ]
+}

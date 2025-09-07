@@ -1,0 +1,20 @@
+{
+  "restaurant": "Formaggio Cheese",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 12094,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:20:13.935Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/formaggio_cheese.json",
+  "items": [
+    {
+      "food_id": "18740715",
+      "food_name": "Charcuterie Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/formaggio-cheese/charcuterie-bites",
+      "brand_name": "Formaggio Cheese",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "restaurant": "BurgerFi",
+  "total_items": 12,
+  "pages_extracted": 1,
+  "total_search_results": 12,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:22:48.109Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/burgerfi.json",
+  "items": [
+    {
+      "food_id": "8791879",
+      "food_name": "Burgerfi Fries (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burgerfi/burgerfi-fries-(regular)",
+      "brand_name": "BurgerFi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9564239",
+      "food_name": "Burgerfi Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burgerfi/burgerfi-burger",
+      "brand_name": "BurgerFi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8350440",
+      "food_name": "Burgerfi Cheeseburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burgerfi/burgerfi-cheeseburger",
+      "brand_name": "BurgerFi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23267535",
+      "food_name": "CEO Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burgerfi/ceo-burger",
+      "brand_name": "BurgerFi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70788336",
+      "food_name": "Cheeseburger (Single)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burgerfi/cheeseburger-(single)",
+      "brand_name": "BurgerFi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20406464",
+      "food_name": "Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burgerfi/chicken-sandwich",
+      "brand_name": "BurgerFi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25751268",
+      "food_name": "Beyond Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burgerfi/beyond-burger",
+      "brand_name": "BurgerFi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14106935",
+      "food_name": "Onion Rings (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burgerfi/onion-rings-(regular)",
+      "brand_name": "BurgerFi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13033030",
+      "food_name": "Cheeseburger Green Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burgerfi/cheeseburger-green-style",
+      "brand_name": "BurgerFi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16458928",
+      "food_name": "Conflicted Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burgerfi/conflicted-burger",
+      "brand_name": "BurgerFi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18357672",
+      "food_name": "Burgerfi Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burgerfi/burgerfi-sauce",
+      "brand_name": "BurgerFi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5446595",
+      "food_name": "Vegifi Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/burgerfi/vegifi-burger",
+      "brand_name": "BurgerFi",
+      "food_type": "Brand"
+    }
+  ]
+}

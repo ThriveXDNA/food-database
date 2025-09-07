@@ -1,0 +1,41 @@
+{
+  "restaurant": "Raised & Rooted",
+  "total_items": 4,
+  "pages_extracted": 2,
+  "total_search_results": 60,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:27:18.234Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/raised_rooted.json",
+  "items": [
+    {
+      "food_id": "49320938",
+      "food_name": "Spicy Plant Based Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/raised-rooted/spicy-plant-based-nuggets",
+      "brand_name": "Raised & Rooted",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34038937",
+      "food_name": "Nuggets Made with Plants",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/raised-rooted/nuggets-made-with-plants",
+      "brand_name": "Raised & Rooted",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74497527",
+      "food_name": "Plant Based Filets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/raised-rooted/plant-based-filets",
+      "brand_name": "Raised & Rooted",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65323260",
+      "food_name": "Plant Based Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/raised-rooted/plant-based-burger",
+      "brand_name": "Raised & Rooted",
+      "food_type": "Brand"
+    }
+  ]
+}

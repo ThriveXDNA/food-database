@@ -1,0 +1,48 @@
+{
+  "restaurant": "National Coney Island",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 302,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:36:58.271Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/national_coney_island.json",
+  "items": [
+    {
+      "food_id": "5411772",
+      "food_name": "Coney Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/national-coney-island/coney-dog",
+      "brand_name": "National Coney Island",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1199263",
+      "food_name": "Hot Dog Chili Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/national-coney-island/hot-dog-chili-sauce",
+      "brand_name": "National Coney Island",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4839291",
+      "food_name": "Greek Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/national-coney-island/greek-dressing",
+      "brand_name": "National Coney Island",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4044512",
+      "food_name": "Hani (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/national-coney-island/hani-(large)",
+      "brand_name": "National Coney Island",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22662326",
+      "food_name": "Grilled Chicken Gyro",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/national-coney-island/grilled-chicken-gyro",
+      "brand_name": "National Coney Island",
+      "food_type": "Brand"
+    }
+  ]
+}

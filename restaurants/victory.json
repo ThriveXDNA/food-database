@@ -1,0 +1,41 @@
+{
+  "restaurant": "Victory",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:03:25.015Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/victory.json",
+  "items": [
+    {
+      "food_id": "3982980",
+      "food_name": "Golden Monkey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/victory/golden-monkey",
+      "brand_name": "Victory",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1392111",
+      "food_name": "Victory Lager",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/victory/victory-lager",
+      "brand_name": "Victory",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17378339",
+      "food_name": "Prima Pils",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/victory/prima-pils",
+      "brand_name": "Victory",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3066698",
+      "food_name": "Hop Devil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/victory/hop-devil",
+      "brand_name": "Victory",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "restaurant": "Wild Blue",
+  "total_items": 11,
+  "pages_extracted": 8,
+  "total_search_results": 1783,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:41:58.309Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/wild_blue.json",
+  "items": [
+    {
+      "food_id": "53236833",
+      "food_name": "California Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-blue/california-roll",
+      "brand_name": "Wild Blue",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27340",
+      "food_name": "Heart to Heart Cereal - Oat Flakes & Wild Blueberry Clusters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kashi/heart-to-heart-cereal---oat-flakes-and-wild-blueberry-clusters",
+      "brand_name": "Kashi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30937745",
+      "food_name": "No Junk Raw Protein Bars - Wild Blueberry Almond",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/papa-steves/no-junk-raw-protein-bars-wild-blueberry-almond",
+      "brand_name": "Papa Steve's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1405777",
+      "food_name": "True Delights Instant Oatmeal - Wild Blueberry Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quaker/true-delights-instant-oatmeal---wild-blueberry-muffin",
+      "brand_name": "Quaker",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "604550",
+      "food_name": "Wild Blueberries N Sweet Cream Frozen Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kemps/wild-blueberries-n-sweet-cream-frozen-yogurt",
+      "brand_name": "Kemps",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49216",
+      "food_name": "Fat Free Wild Blueberry Supreme Muffin Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krusteaz/fat-free-wild-blueberry-supreme-muffin-mix",
+      "brand_name": "Krusteaz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "177732",
+      "food_name": "Whole Wheat Wild Blueberry Muffin Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hodgson-mill/whole-wheat-wild-blueberry-muffin-mix",
+      "brand_name": "Hodgson Mill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9345739",
+      "food_name": "Greek Vanilla Yogurt & Wild Blueberry Parfait",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/au-bon-pain/greek-vanilla-yogurt-and-wild-blueberry-parfait",
+      "brand_name": "Au Bon Pain",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "233557",
+      "food_name": "Wild Blueberry Black Currant 100% Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wymans/wild-blueberry-black-currant-100%25-juice",
+      "brand_name": "Wyman's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "878119",
+      "food_name": "Wild Blueberry White Chocolate Chunk Scones",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/archer-farms/wild-blueberry-white-chocolate-chunk-scones",
+      "brand_name": "Archer Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25784959",
+      "food_name": "Less Sugar Greek Yogurt Wild Blueberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/less-sugar-greek-yogurt-wild-blueberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    }
+  ]
+}

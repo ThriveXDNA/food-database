@@ -1,0 +1,83 @@
+{
+  "restaurant": "Blue Dragon",
+  "total_items": 10,
+  "pages_extracted": 6,
+  "total_search_results": 855,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:32:40.258Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/blue_dragon.json",
+  "items": [
+    {
+      "food_id": "7795508",
+      "food_name": "Spring Roll Wrappers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-dragon/spring-roll-wrappers",
+      "brand_name": "Blue Dragon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46817879",
+      "food_name": "Cantonese Egg Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-dragon/cantonese-egg-noodles",
+      "brand_name": "Blue Dragon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68404217",
+      "food_name": "Sushi Nori",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-dragon/sushi-nori",
+      "brand_name": "Blue Dragon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71138834",
+      "food_name": "Thai Sweet Chili Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-dragon/thai-sweet-chili-sauce",
+      "brand_name": "Blue Dragon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27658951",
+      "food_name": "Thai Red Curry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-dragon/thai-red-curry",
+      "brand_name": "Blue Dragon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62501398",
+      "food_name": "Unsweetened Coconut Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-dragon/unsweetened-coconut-milk",
+      "brand_name": "Blue Dragon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8163091",
+      "food_name": "General Tao Stir Fry Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-dragon/general-tao-stir-fry-sauce",
+      "brand_name": "Blue Dragon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78379948",
+      "food_name": "Rice Paper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-dragon/rice-paper",
+      "brand_name": "Blue Dragon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13107495",
+      "food_name": "Pad Thai Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-dragon/pad-thai-sauce",
+      "brand_name": "Blue Dragon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15077684",
+      "food_name": "Broccoli Beef Stir Fry Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-dragon/broccoli-beef-stir-fry-sauce",
+      "brand_name": "Blue Dragon",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "restaurant": "Southern Belle",
+  "total_items": 8,
+  "pages_extracted": 5,
+  "total_search_results": 236,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:41:25.924Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/southern_belle.json",
+  "items": [
+    {
+      "food_id": "2316778",
+      "food_name": "Cod & Potato Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/southern-belle/cod-and-potato-cakes",
+      "brand_name": "Southern Belle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6895605",
+      "food_name": "Original Crab Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/southern-belle/original-crab-cakes",
+      "brand_name": "Southern Belle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4096907",
+      "food_name": "Seafood Crab Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/southern-belle/seafood-crab-cakes",
+      "brand_name": "Southern Belle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4790178",
+      "food_name": "Lobster Mac & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/southern-belle/lobster-mac-and-cheese",
+      "brand_name": "Southern Belle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13811635",
+      "food_name": "Grouper Burgers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/southern-belle/grouper-burgers",
+      "brand_name": "Southern Belle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2129209",
+      "food_name": "Maryland Style Crab Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/southern-belle/maryland-style-crab-cakes",
+      "brand_name": "Southern Belle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8649589",
+      "food_name": "Seafood Lobster Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/southern-belle/seafood-lobster-bites",
+      "brand_name": "Southern Belle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2290690",
+      "food_name": "Seafood Lobster Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/southern-belle/seafood-lobster-cakes",
+      "brand_name": "Southern Belle",
+      "food_type": "Brand"
+    }
+  ]
+}

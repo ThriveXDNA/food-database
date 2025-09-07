@@ -1,0 +1,76 @@
+{
+  "restaurant": "Festive",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:31:08.285Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/festive.json",
+  "items": [
+    {
+      "food_id": "466866",
+      "food_name": "Ground Turkey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/festive/ground-turkey",
+      "brand_name": "Festive",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20427270",
+      "food_name": "Turkey Breakfast Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/festive/turkey-breakfast-sausage",
+      "brand_name": "Festive",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7964866",
+      "food_name": "Taco Seasoned Ground Turkey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/festive/taco-seasoned-ground-turkey",
+      "brand_name": "Festive",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14970278",
+      "food_name": "Italian Style Ground Turkey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/festive/italian-style-ground-turkey",
+      "brand_name": "Festive",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11980846",
+      "food_name": "Turkey Loaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/festive/turkey-loaf",
+      "brand_name": "Festive",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33175366",
+      "food_name": "Turkey Loaf and Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/festive/turkey-loaf-and-gravy",
+      "brand_name": "Festive",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55195278",
+      "food_name": "Pure Butter Shortbread Festive Shapes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/walkers/pure-butter-shortbread-festive-shapes",
+      "brand_name": "Walkers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4811196",
+      "food_name": "Shortbread Festive Shapes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/walkers/shortbread-festive-shapes",
+      "brand_name": "Walkers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4668617",
+      "food_name": "Festive Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/voortman/festive-cookies",
+      "brand_name": "Voortman",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "restaurant": "Ligo",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:43:05.523Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ligo.json",
+  "items": [
+    {
+      "food_id": "3114041",
+      "food_name": "Seedless California Raisins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ligo/seedless-california-raisins",
+      "brand_name": "Ligo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2077636",
+      "food_name": "Sardines in Tomato Sauce Chili Added",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ligo/sardines-in-tomato-sauce-chili-added",
+      "brand_name": "Ligo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41419454",
+      "food_name": "Sardines in Tomato Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ligo/sardines-in-tomato-sauce",
+      "brand_name": "Ligo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13270672",
+      "food_name": "Squid in Natural Ink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ligo/squid-in-natural-ink",
+      "brand_name": "Ligo",
+      "food_type": "Brand"
+    }
+  ]
+}

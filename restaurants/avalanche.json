@@ -1,0 +1,48 @@
+{
+  "restaurant": "Avalanche",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:22:17.930Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/avalanche.json",
+  "items": [
+    {
+      "food_id": "25007992",
+      "food_name": "Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/avalanche/pizza",
+      "brand_name": "Avalanche",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50487971",
+      "food_name": "99% Sugar Free Drinking Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/avalanche/99-sugar-free-drinking-chocolate",
+      "brand_name": "Avalanche",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29938813",
+      "food_name": "Swiss Granola Red Berries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/avalanche/swiss-granola-red-berries",
+      "brand_name": "Avalanche",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "521564",
+      "food_name": "Danimals Smoothies - Strawberry Explosion & Berry Avalanche",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dannon/danimals-smoothies---strawberry-explosion-and-berry-avalanche",
+      "brand_name": "Dannon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46245",
+      "food_name": "Payday Avalanche Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hersheys/payday-avalanche-bar",
+      "brand_name": "Hershey's",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "restaurant": "Tasty Classics",
+  "total_items": 7,
+  "pages_extracted": 4,
+  "total_search_results": 195,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:38:37.856Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/tasty_classics.json",
+  "items": [
+    {
+      "food_id": "7548538",
+      "food_name": "Meatballs & Rice Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tasty-classics/meatballs-and-rice-soup",
+      "brand_name": "Tasty Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1455457",
+      "food_name": "Chicken & Wild Rice Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tasty-classics/chicken-and-wild-rice-soup",
+      "brand_name": "Tasty Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2040271",
+      "food_name": "Cream of Jalapeno Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tasty-classics/cream-of-jalapeno-soup",
+      "brand_name": "Tasty Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1998565",
+      "food_name": "Cream of Poblano Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tasty-classics/cream-of-poblano-soup",
+      "brand_name": "Tasty Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1597617",
+      "food_name": "Chicken Corn Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tasty-classics/chicken-corn-chowder",
+      "brand_name": "Tasty Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3111483",
+      "food_name": "East Indian Style Curry Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tasty-classics/east-indian-style-curry-soup",
+      "brand_name": "Tasty Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2841707",
+      "food_name": "Minestrone Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tasty-classics/minestrone-soup",
+      "brand_name": "Tasty Classics",
+      "food_type": "Brand"
+    }
+  ]
+}

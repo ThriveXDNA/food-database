@@ -1,0 +1,20 @@
+{
+  "restaurant": "Green Cactus Grill",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 2497,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:33:08.509Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/green_cactus_grill.json",
+  "items": [
+    {
+      "food_id": "4053466",
+      "food_name": "Taco Ranchero",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-cactus-grill/taco-ranchero",
+      "brand_name": "Green Cactus Grill",
+      "food_type": "Brand"
+    }
+  ]
+}

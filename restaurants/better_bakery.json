@@ -1,0 +1,41 @@
+{
+  "restaurant": "Better Bakery",
+  "total_items": 4,
+  "pages_extracted": 2,
+  "total_search_results": 90,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:12:38.727Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/better_bakery.json",
+  "items": [
+    {
+      "food_id": "73171157",
+      "food_name": "Italian Style Flatbread Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/better-bakery/italian-style-flatbread-sandwich",
+      "brand_name": "Better Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8723204",
+      "food_name": "Bacon & Chicken Club Melt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/better-bakery/bacon-and-chicken-club-melt",
+      "brand_name": "Better Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5127367",
+      "food_name": "Turkey & Provolone Pretzel Melt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/better-bakery/turkey-and-provolone-pretzel-melt",
+      "brand_name": "Better Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6689488",
+      "food_name": "Philly Cheesesteak Pretzel Melt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/better-bakery/philly-cheesesteak-pretzel-melt",
+      "brand_name": "Better Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "restaurant": "Engine 2",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 2285,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:53:59.001Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/engine_2.json",
+  "items": [
+    {
+      "food_id": "6676618",
+      "food_name": "Ancient Grains Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/engine-2/ancient-grains-blend",
+      "brand_name": "Engine 2",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14554225",
+      "food_name": "Firehouse Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/engine-2/firehouse-chili",
+      "brand_name": "Engine 2",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28997834",
+      "food_name": "Vegetable Stock",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/engine-2/vegetable-stock",
+      "brand_name": "Engine 2",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19377726",
+      "food_name": "Apple Pumpkin Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/engine-2/apple-pumpkin-granola",
+      "brand_name": "Engine 2",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28261639",
+      "food_name": "Tempeh Ranchero Squarito Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/engine-2/tempeh-ranchero-squarito-burrito",
+      "brand_name": "Engine 2",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34504513",
+      "food_name": "Garbanzo Spinach Whole Wheat Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/engine-2/garbanzo-spinach-whole-wheat-ravioli",
+      "brand_name": "Engine 2",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16930184",
+      "food_name": "Organic Wild Rice Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/engine-2/organic-wild-rice-blend",
+      "brand_name": "Engine 2",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19089656",
+      "food_name": "Original Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/engine-2/original-granola",
+      "brand_name": "Engine 2",
+      "food_type": "Brand"
+    }
+  ]
+}

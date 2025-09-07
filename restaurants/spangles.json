@@ -1,0 +1,48 @@
+{
+  "restaurant": "Spangles",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:24:23.030Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/spangles.json",
+  "items": [
+    {
+      "food_id": "128738",
+      "food_name": "Jell-O",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spangles/jell-o",
+      "brand_name": "Spangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61657568",
+      "food_name": "Classic Steakburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spangles/classic-steakburger",
+      "brand_name": "Spangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1876836",
+      "food_name": "Grilled Chicken on Pita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spangles/grilled-chicken-on-pita",
+      "brand_name": "Spangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2275134",
+      "food_name": "Turkey Turkey on Pita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spangles/turkey-turkey-on-pita",
+      "brand_name": "Spangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4260727",
+      "food_name": "Hamburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spangles/hamburger",
+      "brand_name": "Spangles",
+      "food_type": "Brand"
+    }
+  ]
+}

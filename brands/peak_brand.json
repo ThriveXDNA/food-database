@@ -1,0 +1,20 @@
+{
+  "brand_name": "Peak Brand",
+  "total_items": 1,
+  "pages_extracted": 4,
+  "total_search_results": 154,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:55:49.966Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/peak_brand.json",
+  "items": [
+    {
+      "food_id": "2686665",
+      "food_name": "Caramel Apple",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/peak-brand/caramel-apple",
+      "brand_name": "Peak Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

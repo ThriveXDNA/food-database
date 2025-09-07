@@ -1,0 +1,48 @@
+{
+  "restaurant": "Rio Mare",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 19,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:26:49.578Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rio_mare.json",
+  "items": [
+    {
+      "food_id": "4827415",
+      "food_name": "Solid Light Tuna in Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rio-mare/solid-light-tuna-in-olive-oil",
+      "brand_name": "Rio Mare",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59055733",
+      "food_name": "Solid Light Tuna in Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rio-mare/solid-light-tuna-in-water",
+      "brand_name": "Rio Mare",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82859",
+      "food_name": "Insalatissime Mexican Tuna Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rio-mare/insalatissime-mexican-tuna-salad",
+      "brand_name": "Rio Mare",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17705830",
+      "food_name": "Insalatissime Cous Cous & Light Tuna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rio-mare/insalatissime-cous-cous-light-tuna",
+      "brand_name": "Rio Mare",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103176230",
+      "food_name": "Light Tuna Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rio-mare/light-tuna-salad",
+      "brand_name": "Rio Mare",
+      "food_type": "Brand"
+    }
+  ]
+}

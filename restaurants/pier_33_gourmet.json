@@ -1,0 +1,69 @@
+{
+  "restaurant": "Pier 33 Gourmet",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 407,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:41:14.461Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pier_33_gourmet.json",
+  "items": [
+    {
+      "food_id": "33526085",
+      "food_name": "Bourbon Glazed Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pier-33-gourmet/bourbon-glazed-salmon",
+      "brand_name": "Pier 33 Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8949641",
+      "food_name": "Langostino Lobster Tails",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pier-33-gourmet/langostino-lobster-tails",
+      "brand_name": "Pier 33 Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12579961",
+      "food_name": "Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pier-33-gourmet/salmon",
+      "brand_name": "Pier 33 Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29728461",
+      "food_name": "Blackened Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pier-33-gourmet/blackened-salmon",
+      "brand_name": "Pier 33 Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19230756",
+      "food_name": "Mussels in White Wine Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pier-33-gourmet/mussels-in-white-wine-sauce",
+      "brand_name": "Pier 33 Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37340545",
+      "food_name": "Organic Mussels in Natural Sea Brine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pier-33-gourmet/organic-mussels-in-natural-sea-brine",
+      "brand_name": "Pier 33 Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1015794",
+      "food_name": "Mussel Meat in Butter Garlic Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pier-33-gourmet/mussel-meat-in-butter-garlic-sauce",
+      "brand_name": "Pier 33 Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30592685",
+      "food_name": "Mussels in Tomato Garlic Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pier-33-gourmet/mussels-in-tomato-garlic-sauce",
+      "brand_name": "Pier 33 Gourmet",
+      "food_type": "Brand"
+    }
+  ]
+}

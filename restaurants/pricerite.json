@@ -1,0 +1,34 @@
+{
+  "restaurant": "PriceRite",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:28:14.487Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pricerite.json",
+  "items": [
+    {
+      "food_id": "78843",
+      "food_name": "Roasted Garlic Instant Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pricerite/roasted-garlic-instant-mashed-potatoes",
+      "brand_name": "PriceRite",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "115665",
+      "food_name": "Iodized Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pricerite/iodized-salt",
+      "brand_name": "PriceRite",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45384",
+      "food_name": "Italian Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pricerite/italian-dressing",
+      "brand_name": "PriceRite",
+      "food_type": "Brand"
+    }
+  ]
+}

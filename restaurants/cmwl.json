@@ -1,0 +1,76 @@
+{
+  "restaurant": "CMWL",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:47:16.641Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cmwl.json",
+  "items": [
+    {
+      "food_id": "780784",
+      "food_name": "Peanut Butter Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cmwl/peanut-butter-protein-bar",
+      "brand_name": "CMWL",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1151742",
+      "food_name": "Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cmwl/crisps",
+      "brand_name": "CMWL",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3302463",
+      "food_name": "Cafe Mocha",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cmwl/cafe-mocha",
+      "brand_name": "CMWL",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1155115",
+      "food_name": "160 Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cmwl/160-shake",
+      "brand_name": "CMWL",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "316484",
+      "food_name": "Vanilla Protein Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cmwl/vanilla-protein-shake",
+      "brand_name": "CMWL",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "316932",
+      "food_name": "Chocolate Protein Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cmwl/chocolate-protein-shake",
+      "brand_name": "CMWL",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1906794",
+      "food_name": "Cookies and Cream Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cmwl/cookies-and-cream-bar",
+      "brand_name": "CMWL",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2815162",
+      "food_name": "Caramel Peanut Chew Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cmwl/caramel-peanut-chew-bar",
+      "brand_name": "CMWL",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2766586",
+      "food_name": "Cinnamon Crunch Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cmwl/cinnamon-crunch-bar",
+      "brand_name": "CMWL",
+      "food_type": "Brand"
+    }
+  ]
+}

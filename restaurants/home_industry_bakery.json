@@ -1,0 +1,27 @@
+{
+  "restaurant": "Home Industry Bakery",
+  "total_items": 2,
+  "pages_extracted": 3,
+  "total_search_results": 145,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:14:13.924Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/home_industry_bakery.json",
+  "items": [
+    {
+      "food_id": "227095",
+      "food_name": "Pepperoni & Cheese Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-industry-bakery/pepperoni-and-cheese-roll",
+      "brand_name": "Home Industry Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "227093",
+      "food_name": "Hot Cheese Pepperoni Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-industry-bakery/hot-cheese-pepperoni-rolls",
+      "brand_name": "Home Industry Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

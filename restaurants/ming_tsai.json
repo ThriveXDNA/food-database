@@ -1,0 +1,41 @@
+{
+  "restaurant": "Ming Tsai",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:33:50.392Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ming_tsai.json",
+  "items": [
+    {
+      "food_id": "86903",
+      "food_name": "Chicken Spring Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ming-tsai/chicken-spring-rolls",
+      "brand_name": "Ming Tsai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86902",
+      "food_name": "Chicken Pad Thai Noodle Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ming-tsai/chicken-pad-thai-noodle-bowl",
+      "brand_name": "Ming Tsai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86906",
+      "food_name": "Thai-style Basil Chicken & Rice Noodle Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ming-tsai/thai-style-basil-chicken-and-rice-noodle-bowl",
+      "brand_name": "Ming Tsai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86905",
+      "food_name": "Thai Lime Rice Corn Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ming-tsai/thai-lime-rice-corn-chips",
+      "brand_name": "Ming Tsai",
+      "food_type": "Brand"
+    }
+  ]
+}

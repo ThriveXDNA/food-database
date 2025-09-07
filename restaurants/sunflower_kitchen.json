@@ -1,0 +1,20 @@
+{
+  "restaurant": "Sunflower Kitchen",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 346,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:54:34.751Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sunflower_kitchen.json",
+  "items": [
+    {
+      "food_id": "835877",
+      "food_name": "Babaghanouj",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunflower-kitchen/babaghanouj",
+      "brand_name": "Sunflower Kitchen",
+      "food_type": "Brand"
+    }
+  ]
+}

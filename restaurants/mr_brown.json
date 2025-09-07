@@ -1,0 +1,48 @@
+{
+  "restaurant": "Mr. Brown",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 1801,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:08:33.876Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mr_brown.json",
+  "items": [
+    {
+      "food_id": "9552711",
+      "food_name": "Iced Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-brown/iced-coffee",
+      "brand_name": "Mr. Brown",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62413275",
+      "food_name": "Caramel Latte Iced Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-brown/caramel-latte-iced-coffee",
+      "brand_name": "Mr. Brown",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2457963",
+      "food_name": "Macadamia Nut Iced Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-brown/macadamia-nut-iced-coffee",
+      "brand_name": "Mr. Brown",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23228124",
+      "food_name": "Blue Mountain Blend Iced Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-brown/blue-mountain-blend-iced-coffee",
+      "brand_name": "Mr. Brown",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12092872",
+      "food_name": "Cappuccino Iced Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-brown/cappuccino-iced-coffee",
+      "brand_name": "Mr. Brown",
+      "food_type": "Brand"
+    }
+  ]
+}

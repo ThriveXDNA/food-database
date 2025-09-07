@@ -1,0 +1,69 @@
+{
+  "restaurant": "Roncadin",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:22:14.624Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/roncadin.json",
+  "items": [
+    {
+      "food_id": "76969321",
+      "food_name": "Mushroom and Truffle Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roncadin/mushroom-and-truffle-pizza",
+      "brand_name": "Roncadin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63650646",
+      "food_name": "Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roncadin/cheese-pizza",
+      "brand_name": "Roncadin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93043220",
+      "food_name": "Sopressata Bacon Mushroom Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roncadin/sopressata-bacon-mushroom-pizza",
+      "brand_name": "Roncadin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61411240",
+      "food_name": "Organic Arugula Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roncadin/organic-arugula-pizza",
+      "brand_name": "Roncadin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52297670",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roncadin/margherita-pizza",
+      "brand_name": "Roncadin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29541837",
+      "food_name": "Organic Spinach Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roncadin/organic-spinach-pizza",
+      "brand_name": "Roncadin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21993915",
+      "food_name": "Organic Tuscan Garden Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roncadin/organic-tuscan-garden-pizza",
+      "brand_name": "Roncadin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47118638",
+      "food_name": "Garden Vegetable Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roncadin/garden-vegetable-pizza",
+      "brand_name": "Roncadin",
+      "food_type": "Brand"
+    }
+  ]
+}

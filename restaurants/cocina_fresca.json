@@ -1,0 +1,20 @@
+{
+  "restaurant": "Cocina Fresca",
+  "total_items": 1,
+  "pages_extracted": 2,
+  "total_search_results": 86,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:17:09.075Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cocina_fresca.json",
+  "items": [
+    {
+      "food_id": "10115759",
+      "food_name": "Salsa Cantina Style Serrano Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cocina-fresca/salsa-cantina-style-serrano-medium",
+      "brand_name": "Cocina Fresca",
+      "food_type": "Brand"
+    }
+  ]
+}

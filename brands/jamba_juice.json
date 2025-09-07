@@ -1,0 +1,1783 @@
+{
+  "brand_name": "Jamba Juice",
+  "brand_id": 270,
+  "total_items": 253,
+  "pages_extracted": 20,
+  "last_updated": "2025-09-06T20:26:33.651Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Brand-specific search with filtering",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/jamba_juice.json",
+  "items": [
+    {
+      "food_id": "69404725",
+      "food_name": "Ginger Shot, RTD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/ginger-shot-rtd",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2707117",
+      "food_name": "Whey Protein Boost",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/whey-protein-boost",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619997",
+      "food_name": "PB + Banana Protein Whey Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-whey-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469593",
+      "food_name": "Lemon Ginger Cayenne Shot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/lemon-ginger-cayenne-shot",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620042",
+      "food_name": "Peanut Butter Moo'd Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-mood-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620000",
+      "food_name": "PB + Banana Protein Whey Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-whey-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620036",
+      "food_name": "Peanut Butter Moo'd Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-mood-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619995",
+      "food_name": "PB + Banana Protein Whey Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-whey-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620104",
+      "food_name": "Protein Berry Workout Whey Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/protein-berry-workout-whey-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619882",
+      "food_name": "Caribbean Passion Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/caribbean-passion-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471358",
+      "food_name": "Spring Veggie Egg Bake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/spring-veggie-egg-bake",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619904",
+      "food_name": "Mango-A-Go-Go Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mango-a-go-go-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620028",
+      "food_name": "Peanut Butter Moo'd Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-mood-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69403935",
+      "food_name": "Acai Super-Antioxidant Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-super-antioxidant-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620148",
+      "food_name": "Strawberries Wild Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberries-wild-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619896",
+      "food_name": "Mango-A-Go-Go Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mango-a-go-go-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619906",
+      "food_name": "Mango-A-Go-Go Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mango-a-go-go-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619984",
+      "food_name": "PB + Banana Protein Soy Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-soy-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620109",
+      "food_name": "Protein Berry Workout Whey Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/protein-berry-workout-whey-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69404076",
+      "food_name": "Apple ‘n Greens Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/apple-%E2%80%98n-greens-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620144",
+      "food_name": "Strawberries Wild Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberries-wild-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69403923",
+      "food_name": "Acai Super-Antioxidant Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-super-antioxidant-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620123",
+      "food_name": "Razzmatazz Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/razzmatazz-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64081",
+      "food_name": "Soy Protein Boost",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/soy-protein-boost",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "708888",
+      "food_name": "Sourdough Parmesan Pretzel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/sourdough-parmesan-pretzel",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69403947",
+      "food_name": "Acai Super-Antioxidant Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-super-antioxidant-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619890",
+      "food_name": "Greens ‘n Ginger Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/greens-%E2%80%98n-ginger-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619962",
+      "food_name": "Orange Dream Machine Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-dream-machine-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69404010",
+      "food_name": "Apple ‘n Greens Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/apple-%E2%80%98n-greens-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619935",
+      "food_name": "Mega Mango Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mega-mango-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619991",
+      "food_name": "PB + Banana Protein Soy Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-soy-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620093",
+      "food_name": "Protein Berry Workout Soy Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/protein-berry-workout-soy-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69404001",
+      "food_name": "Aloha Pineapple Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/aloha-pineapple-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619891",
+      "food_name": "Greens ‘n Ginger Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/greens-%E2%80%98n-ginger-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620154",
+      "food_name": "Strawberries Wild Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberries-wild-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620202",
+      "food_name": "White Gummi Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/white-gummi-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619924",
+      "food_name": "Mega Mango Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mega-mango-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69405101",
+      "food_name": "Impossible Handwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/impossible-handwich",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470182",
+      "food_name": "Orange Ginger Cayenne Shot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-ginger-cayenne-shot",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619793",
+      "food_name": "Southwest Turkey Sausage Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/southwest-turkey-sausage-wrap",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619883",
+      "food_name": "Greens ‘n Ginger Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/greens-%E2%80%98n-ginger-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620094",
+      "food_name": "Protein Berry Workout Soy Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/protein-berry-workout-soy-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620112",
+      "food_name": "Protein Berry Workout Whey Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/protein-berry-workout-whey-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620162",
+      "food_name": "Strawberry Surf Rider Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-surf-rider-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620325",
+      "food_name": "Watermelon Breeze Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/watermelon-breeze-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471500",
+      "food_name": "Turkey Sausage ‘n Cheese Breakfast Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/turkey-sausage-%E2%80%98n-cheese-breakfast-wrap",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620100",
+      "food_name": "Protein Berry Workout Soy Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/protein-berry-workout-soy-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620119",
+      "food_name": "Razzmatazz Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/razzmatazz-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469981",
+      "food_name": "Oatmeal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/oatmeal",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619919",
+      "food_name": "Mega Mango Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mega-mango-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620199",
+      "food_name": "White Gummi Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/white-gummi-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619913",
+      "food_name": "Matcha Green Tea Blast Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-green-tea-blast-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619957",
+      "food_name": "Orange Dream Machine Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-dream-machine-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620012",
+      "food_name": "PB Chocolate Love Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-chocolate-love-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619774",
+      "food_name": "Caribbean Passion Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/caribbean-passion-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619909",
+      "food_name": "Matcha Green Tea Blast Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-green-tea-blast-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620211",
+      "food_name": "Blueberry Strawberry Blast-off Smoothie, 10 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/blueberry-strawberry-blast-off-smoothie-10-fl-oz",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620171",
+      "food_name": "Strawberry Whirl Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-whirl-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620209",
+      "food_name": "White Gummi Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/white-gummi-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472618",
+      "food_name": "Wheatgrass Juice Shot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/wheatgrass-juice-shot",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69403991",
+      "food_name": "Aloha Pineapple Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/aloha-pineapple-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469584",
+      "food_name": "Kale Boost",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/kale-boost",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619979",
+      "food_name": "PB + Banana Protein Soy Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-banana-protein-soy-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620026",
+      "food_name": "Peach Perfection Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peach-perfection-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620163",
+      "food_name": "Strawberry Surf Rider Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-surf-rider-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620321",
+      "food_name": "Watermelon Breeze Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/watermelon-breeze-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "498633",
+      "food_name": "Apple Cinnamon Pretzel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/apple-cinnamon-pretzel",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619965",
+      "food_name": "Orange Dream Machine Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-dream-machine-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620114",
+      "food_name": "Razzmatazz Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/razzmatazz-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620156",
+      "food_name": "Strawberry Surf Rider Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-surf-rider-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521248",
+      "food_name": "Acai Primo (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-primo-(regular)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69404360",
+      "food_name": "Coconut Flakes, Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/coconut-flakes-topping",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620003",
+      "food_name": "PB Chocolate Love Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-chocolate-love-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620015",
+      "food_name": "Peach Perfection Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peach-perfection-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620021",
+      "food_name": "Peach Perfection Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peach-perfection-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620318",
+      "food_name": "Watermelon Breeze Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/watermelon-breeze-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620169",
+      "food_name": "Strawberry Whirl Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-whirl-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "753512",
+      "food_name": "Cheddar Tomato Twist",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cheddar-tomato-twist",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69403977",
+      "food_name": "Aloha Pineapple Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/aloha-pineapple-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619938",
+      "food_name": "Orange C-Booster Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-c-booster-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69404222",
+      "food_name": "Blue Spirulina Boost",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/blue-spirulina-boost",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620187",
+      "food_name": "Vanilla Blue Sky Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/vanilla-blue-sky-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521531",
+      "food_name": "Belgian Style Waffle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/belgian-style-waffle",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620849",
+      "food_name": "Veggie Vitality Juice (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/veggie-vitality-juice-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69403853",
+      "food_name": "2% Milk, 8 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/2-milk-8-fl-oz",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69404086",
+      "food_name": "Apple ‘n Greens Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/apple-%E2%80%98n-greens-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69404257",
+      "food_name": "Blueberry, Fresh, Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/blueberry-fresh-topping",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470214",
+      "food_name": "Organic Agave, Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/organic-agave-topping",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620081",
+      "food_name": "Chocolate Moo'd Powder, Soy Scoop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/chocolate-mood-powder-soy-scoop",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620166",
+      "food_name": "Strawberry Whirl Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-whirl-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620232",
+      "food_name": "Electric Berry Lemonade Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/electric-berry-lemonade-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620366",
+      "food_name": "Cold Brew Over Ice w/Sweet Cloud Whip Foam (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-w-sweet-cloud-whip-foam-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620728",
+      "food_name": "Matcha Over Ice w/Sweet Cloud Whip Foam (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-over-ice-w-sweet-cloud-whip-foam-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620760",
+      "food_name": "Matcha Over Ice (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-over-ice-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521270",
+      "food_name": "Chunky Strawberry (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/chunky-strawberry-(regular)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69403881",
+      "food_name": "3G Energy + Green Caffeine Boost",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/3g-energy-green-caffeine-boost",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619876",
+      "food_name": "Caribbean Passion Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/caribbean-passion-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619951",
+      "food_name": "Orange C-Booster Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-c-booster-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620737",
+      "food_name": "Matcha Over Ice w/Sweet Cloud Whip Foam (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-over-ice-w-sweet-cloud-whip-foam-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620754",
+      "food_name": "Matcha Over Ice (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-over-ice-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521484",
+      "food_name": "Berry Brown Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/berry-brown-sugar",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472544",
+      "food_name": "Vanilla Coconutmilk, 8 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/vanilla-coconutmilk-8-fl-oz",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620006",
+      "food_name": "PB Chocolate Love Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pb-chocolate-love-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620196",
+      "food_name": "Vanilla Blue Sky Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/vanilla-blue-sky-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620692",
+      "food_name": "Cold Brew Over Ice w/Sweet Cloud Whip Foam (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-w-sweet-cloud-whip-foam-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620747",
+      "food_name": "Matcha Over Ice w/Sweet Cloud Whip Foam (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-over-ice-w-sweet-cloud-whip-foam-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620875",
+      "food_name": "Fat Free Vanilla Frozen Yogurt (Green Scoop)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/fat-free-vanilla-frozen-yogurt-(green-scoop)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104520377",
+      "food_name": "Coffee Dream Machine Blended Coffee (Small, 2% Milk)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/coffee-dream-machine-blended-coffee-(small-2-milk)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521257",
+      "food_name": "Acai Peanut Butter Plus Nutella (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-peanut-butter-plus-nutella-(regular)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521287",
+      "food_name": "Dragon Fruit Delight (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/dragon-fruit-delight-(regular)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521476",
+      "food_name": "Peanut Butter Banana Nutella, Greek Yogurt (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-banana-nutella-greek-yogurt-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521557",
+      "food_name": "Coffee Dream Machine Blended Coffee (Large, 2% Milk)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/coffee-dream-machine-blended-coffee-(large-2-milk)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521760",
+      "food_name": "Nutella, Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/nutella-topping",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521901",
+      "food_name": "Berry Fresh Fruit Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/berry-fresh-fruit-cup",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471355",
+      "food_name": "Spinach Boost",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/spinach-boost",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471424",
+      "food_name": "Strawberry, Fresh, Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-fresh-topping",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619915",
+      "food_name": "Matcha Green Tea Blast Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-green-tea-blast-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620219",
+      "food_name": "Strawberries Gone Bananas Smoothie, 10 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberries-gone-bananas-smoothie-10-fl-oz",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620338",
+      "food_name": "Plant-Based Watermelon Breeze Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/plant-based-watermelon-breeze-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620726",
+      "food_name": "Matcha Over Ice + Agave (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-over-ice-agave-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620881",
+      "food_name": "Oatmilk Frozen Dessert (Blue Scoop)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/oatmilk-frozen-dessert-(blue-scoop)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84621042",
+      "food_name": "Red Gummi Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/red-gummi-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521496",
+      "food_name": "Strawberry + Nutella & Coconut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-nutella-coconut",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521808",
+      "food_name": "Tajin (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/tajin-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620771",
+      "food_name": "Cucumber Orange Cooler Juice (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cucumber-orange-cooler-juice-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620782",
+      "food_name": "Great Greens Juice (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/great-greens-juice-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620832",
+      "food_name": "Purely Carrot Juice (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/purely-carrot-juice-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620851",
+      "food_name": "Veggie Vitality Juice (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/veggie-vitality-juice-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620856",
+      "food_name": "Veggie Vitality Juice (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/veggie-vitality-juice-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620813",
+      "food_name": "Orange Supreme Juice (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-supreme-juice-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620823",
+      "food_name": "Purely Carrot Juice (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/purely-carrot-juice-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69404936",
+      "food_name": "Granola, Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/granola-topping",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69405081",
+      "food_name": "Honey, Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/honey-topping",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469970",
+      "food_name": "Non-fat Greek Yogurt Boost",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/non-fat-greek-yogurt-boost",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69470030",
+      "food_name": "Oatmilk, 8 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/oatmilk-8-fl-oz",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69471353",
+      "food_name": "Soymilk, 8 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/soymilk-8-fl-oz",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620046",
+      "food_name": "Pomegranate Paradise Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pomegranate-paradise-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620176",
+      "food_name": "The Go Getter Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/the-go-getter-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620182",
+      "food_name": "The Go Getter Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/the-go-getter-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620247",
+      "food_name": "Plant-Based Pumpkin Smash Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/plant-based-pumpkin-smash-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620268",
+      "food_name": "Pumpkin Smash Classic Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pumpkin-smash-classic-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620314",
+      "food_name": "Pumpkin Smash Classic Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pumpkin-smash-classic-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620342",
+      "food_name": "Cold Brew Over Ice + Agave (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-agave-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620360",
+      "food_name": "Cold Brew Over Ice w/Sweet Cloud Whip Foam (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-w-sweet-cloud-whip-foam-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620971",
+      "food_name": "Pink Star Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pink-star-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84621001",
+      "food_name": "Fruity Rocks Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/fruity-rocks-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84621020",
+      "food_name": "Fruity Rocks Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/fruity-rocks-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84621040",
+      "food_name": "Red Gummi Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/red-gummi-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84621045",
+      "food_name": "Sour Gummi Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/sour-gummi-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84621056",
+      "food_name": "Sour Gummi Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/sour-gummi-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521249",
+      "food_name": "Acai Primo (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-primo-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521263",
+      "food_name": "Acai Peanut Butter Plus Nutella (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-peanut-butter-plus-nutella-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521278",
+      "food_name": "Vanilla Blue Sky (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/vanilla-blue-sky-(regular)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521395",
+      "food_name": "Dragon Fruit Delight (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/dragon-fruit-delight-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521438",
+      "food_name": "Strawberry Blueberry Greek Yogurt (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-blueberry-greek-yogurt-(regular)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521439",
+      "food_name": "Strawberry Blueberry Greek Yogurt (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-blueberry-greek-yogurt-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521455",
+      "food_name": "Strawberry Blueberry, Cocowhip (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-blueberry-cocowhip-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521462",
+      "food_name": "Peanut Butter Banana Plus Nutella, Cocowhip (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-banana-plus-nutella-cocowhip-(regular)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521464",
+      "food_name": "Peanut Butter Banana Plus Nutella, Cocowhip (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-banana-plus-nutella-cocowhip-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521471",
+      "food_name": "Peanut Butter Banana Nutella, Greek Yogurt (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-banana-nutella-greek-yogurt-(regular)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521503",
+      "food_name": "Classic Sausage, Egg + Cheese Handwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/classic-sausage-egg-cheese-handwich",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521546",
+      "food_name": "Buzzin' Mocha Moo'd Blended Coffee (Large, 2% Milk)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/buzzin-mocha-mood-blended-coffee-(large-2-milk)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521550",
+      "food_name": "Buzzin' Mocha Moo'd Blended Coffee (Medium, 2% Milk)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/buzzin-mocha-mood-blended-coffee-(medium-2-milk)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521572",
+      "food_name": "Blue Lava (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/blue-lava-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521582",
+      "food_name": "Dragonberry Blitz (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/dragonberry-blitz-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521604",
+      "food_name": "Dragonberry Blitz (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/dragonberry-blitz-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521615",
+      "food_name": "Electric Ice (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/electric-ice-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521623",
+      "food_name": "Lemonberry Twist (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/lemonberry-twist-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521627",
+      "food_name": "Lemonberry Twist (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/lemonberry-twist-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521637",
+      "food_name": "Mangomorphosis (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mangomorphosis-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521642",
+      "food_name": "Mangomorphosis (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mangomorphosis-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521653",
+      "food_name": "Peachberry Blast (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peachberry-blast-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521740",
+      "food_name": "Cocowhip, Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cocowhip-topping",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521797",
+      "food_name": "Multivitamins (Daily Vitamin + Zinc Boost)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/multivitamins-(daily-vitamin-zinc-boost)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521814",
+      "food_name": "Tajin (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/tajin-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521916",
+      "food_name": "Tropical Greek Yogurt Granola Parfait",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/tropical-greek-yogurt-granola-parfait",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104936596",
+      "food_name": "Lime Sherbet (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/lime-sherbet-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104936618",
+      "food_name": "Lime Sherbet (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/-lime-sherbet-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104936645",
+      "food_name": "Lime Sherbet (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/lime-sherbet-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104936719",
+      "food_name": "Pineapple Sherbet (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pineapple-sherbet-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104936803",
+      "food_name": "Raspberry Sherbet (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/raspberry-sherbet-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69404181",
+      "food_name": "Banana, Fresh, Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/banana-fresh-topping",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69404719",
+      "food_name": "Ginger Puree Boost",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/ginger-puree-boost",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619943",
+      "food_name": "Orange C-Booster Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-c-booster-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620051",
+      "food_name": "Pomegranate Paradise Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pomegranate-paradise-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620053",
+      "food_name": "Pomegranate Paradise Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pomegranate-paradise-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620132",
+      "food_name": "Smooth Talkin Mango Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/smooth-talkin-mango-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620134",
+      "food_name": "Smooth Talkin Mango Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/smooth-talkin-mango-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620137",
+      "food_name": "Smooth Talkin Mango Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/smooth-talkin-mango-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620178",
+      "food_name": "The Go Getter Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/the-go-getter-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620192",
+      "food_name": "Vanilla Blue Sky Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/vanilla-blue-sky-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620237",
+      "food_name": "Electric Berry Lemonade Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/electric-berry-lemonade-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620253",
+      "food_name": "Plant-Based Pumpkin Smash Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/plant-based-pumpkin-smash-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620259",
+      "food_name": "Plant-Based Pumpkin Smash Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/plant-based-pumpkin-smash-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620263",
+      "food_name": "Pumpkin Smash Classic Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pumpkin-smash-classic-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620326",
+      "food_name": "Plant-Based Watermelon Breeze Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/plant-based-watermelon-breeze-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620330",
+      "food_name": "Plant-Based Watermelon Breeze Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/plant-based-watermelon-breeze-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620347",
+      "food_name": "Cold Brew Over Ice + Agave (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-agave-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620354",
+      "food_name": "Cold Brew Over Ice + Agave (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-agave-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620696",
+      "food_name": "Cold Brew Over Ice (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620700",
+      "food_name": "Cold Brew Over Ice (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620704",
+      "food_name": "Cold Brew Over Ice (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cold-brew-over-ice-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620711",
+      "food_name": "Matcha Over Ice + Agave (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-over-ice-agave-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620717",
+      "food_name": "Matcha Over Ice + Agave (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/matcha-over-ice-agave-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620867",
+      "food_name": "Fat Free Vanilla Frozen Yogurt (Blue Scoop)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/fat-free-vanilla-frozen-yogurt-(blue-scoop)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620878",
+      "food_name": "Fat Free Vanilla Frozen Yogurt (Red Scoop)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/fat-free-vanilla-frozen-yogurt-(red-scoop)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620884",
+      "food_name": "Oatmilk Frozen Dessert (Green Scoop)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/oatmilk-frozen-dessert-(green-scoop)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620889",
+      "food_name": "Oatmilk Frozen Dessert (Red Scoop)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/oatmilk-frozen-dessert-(red-scoop)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620961",
+      "food_name": "Pink Star Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pink-star-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620966",
+      "food_name": "Pink Star Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pink-star-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84621012",
+      "food_name": "Fruity Rocks Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/fruity-rocks-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84621024",
+      "food_name": "Peenya Kowlada Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peenya-kowlada-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84621028",
+      "food_name": "Peenya Kowlada Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peenya-kowlada-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84621035",
+      "food_name": "Peenya Kowlada Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peenya-kowlada-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84621038",
+      "food_name": "Red Gummi Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/red-gummi-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84621055",
+      "food_name": "Sour Gummi Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/sour-gummi-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521253",
+      "food_name": "Acai Primo Bowl (Mini)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-primo-bowl-(mini)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521284",
+      "food_name": "Vanilla Blue Sky (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/vanilla-blue-sky-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521450",
+      "food_name": "Strawberry Blueberry, Cocowhip (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/strawberry-blueberry-cocowhip-(regular)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521490",
+      "food_name": "Peanut Butter Banana Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-banana-crunch",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521553",
+      "food_name": "Buzzin' Mocha Moo'd Blended Coffee (Small, 2% Milk)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/buzzin-mocha-mood-blended-coffee-(small-2-milk)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521563",
+      "food_name": "Coffee Dream Machine Blended Coffee (Medium, 2% Milk)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/coffee-dream-machine-blended-coffee-(medium-2-milk)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521565",
+      "food_name": "Blue Lava (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/blue-lava-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521579",
+      "food_name": "Blue Lava (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/blue-lava-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521613",
+      "food_name": "Electric Ice (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/electric-ice-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521620",
+      "food_name": "Electric Ice (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/electric-ice-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521625",
+      "food_name": "Lemonberry Twist (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/lemonberry-twist-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521630",
+      "food_name": "Mangomorphosis (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/mangomorphosis-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521647",
+      "food_name": "Peachberry Blast (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peachberry-blast-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521650",
+      "food_name": "Peachberry Blast (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peachberry-blast-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521805",
+      "food_name": "Peanut Butter Boost",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-boost",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521806",
+      "food_name": "Tajin (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/tajin-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521906",
+      "food_name": "Berry Greek Yogurt Granola Parfait",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/berry-greek-yogurt-granola-parfait",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521941",
+      "food_name": "Peanut Butter, Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/peanut-butter-topping",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104930632",
+      "food_name": "Almond Milk, 8 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/almond-milk-8-fl-oz",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104936655",
+      "food_name": "Orange Sherbet (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-sherbet-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104936678",
+      "food_name": "Orange Sherbet (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-sherbet-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104936695",
+      "food_name": "Orange Sherbet (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-sherbet-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104936739",
+      "food_name": "Pineapple Sherbet (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pineapple-sherbet-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104936748",
+      "food_name": "Pineapple Sherbet (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/pineapple-sherbet-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104936772",
+      "food_name": "Raspberry Sherbet (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/raspberry-sherbet-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104936785",
+      "food_name": "Raspberry Sherbet (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/raspberry-sherbet-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620795",
+      "food_name": "Orange Carrot Twist Juice (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-carrot-twist-juice-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620800",
+      "food_name": "Orange Carrot Twist Juice (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-carrot-twist-juice-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620769",
+      "food_name": "Cucumber Orange Cooler Juice (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cucumber-orange-cooler-juice-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521685",
+      "food_name": "Cucumber Orange Cooler Juice (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/cucumber-orange-cooler-juice-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620774",
+      "food_name": "Great Greens Juice (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/great-greens-juice-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620802",
+      "food_name": "Orange Supreme Juice (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-supreme-juice-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620808",
+      "food_name": "Orange Supreme Juice (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-supreme-juice-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620828",
+      "food_name": "Purely Carrot Juice (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/purely-carrot-juice-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620835",
+      "food_name": "Purely Orange Juice (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/purely-orange-juice-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84620845",
+      "food_name": "Purely Orange Juice (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/purely-orange-juice-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521717",
+      "food_name": "Orange Carrot Juice (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-carrot-juice-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    }
+  ]
+}

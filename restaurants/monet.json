@@ -1,0 +1,41 @@
+{
+  "restaurant": "Monet",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:54:35.956Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/monet.json",
+  "items": [
+    {
+      "food_id": "1502014",
+      "food_name": "Original Entertainer Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monet/original-entertainer-crackers",
+      "brand_name": "Monet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "884458",
+      "food_name": "Stone Ground Wheat Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monet/stone-ground-wheat-crackers",
+      "brand_name": "Monet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "955614",
+      "food_name": "Original Water Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monet/original-water-crackers",
+      "brand_name": "Monet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1978112",
+      "food_name": "Vegetable Entertainer Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monet/vegetable-entertainer-crackers",
+      "brand_name": "Monet",
+      "food_type": "Brand"
+    }
+  ]
+}

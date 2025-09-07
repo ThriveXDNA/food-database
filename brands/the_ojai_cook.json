@@ -1,0 +1,34 @@
+{
+  "brand_name": "The Ojai Cook",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 1152,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:00:38.437Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/the_ojai_cook.json",
+  "items": [
+    {
+      "food_id": "13621459",
+      "food_name": "Organic Mayonnaise",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-ojai-cook/organic-mayonnaise",
+      "brand_name": "The Ojai Cook",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1742829",
+      "food_name": "Lemonaise",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-ojai-cook/lemonaise",
+      "brand_name": "The Ojai Cook",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1804386",
+      "food_name": "Lemonaise Light",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-ojai-cook/lemonaise-light",
+      "brand_name": "The Ojai Cook",
+      "food_type": "Brand"
+    }
+  ]
+}

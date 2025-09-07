@@ -1,0 +1,27 @@
+{
+  "restaurant": "Vinacafe",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:06:42.393Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/vinacafe.json",
+  "items": [
+    {
+      "food_id": "84728",
+      "food_name": "Premium Instant Coffee Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vinacafe/premium-instant-coffee-mix",
+      "brand_name": "Vinacafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6415982",
+      "food_name": "Ca Phe Hoa Tan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vinacafe/ca-phe-hoa-tan",
+      "brand_name": "Vinacafe",
+      "food_type": "Brand"
+    }
+  ]
+}

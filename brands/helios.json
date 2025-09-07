@@ -1,0 +1,41 @@
+{
+  "brand_name": "Helios",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:09:04.723Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/helios.json",
+  "items": [
+    {
+      "food_id": "2994706",
+      "food_name": "Spreadable Quince Paste Fruit Wheels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/helios/spreadable-quince-paste-fruit-wheels",
+      "brand_name": "Helios",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62041",
+      "food_name": "Organic Plain Kefir",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/helios/organic-plain-kefir",
+      "brand_name": "Helios",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103181",
+      "food_name": "Organic Vanilla Kefir",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/helios/organic-vanilla-kefir",
+      "brand_name": "Helios",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13312836",
+      "food_name": "Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/helios/granola",
+      "brand_name": "Helios",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "restaurant": "Good Catch",
+  "total_items": 5,
+  "pages_extracted": 2,
+  "total_search_results": 70,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:25:41.345Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/good_catch.json",
+  "items": [
+    {
+      "food_id": "63343496",
+      "food_name": "Fish Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-catch/fish-burger",
+      "brand_name": "Good Catch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31776078",
+      "food_name": "Fish-Free Tuna Naked in Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-catch/fish-free-tuna-naked-in-water",
+      "brand_name": "Good Catch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60197352",
+      "food_name": "Plant-Based Fish Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-catch/plant-based-fish-fillets",
+      "brand_name": "Good Catch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56163656",
+      "food_name": "Plant-Based Tuna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-catch/plant-based-tuna",
+      "brand_name": "Good Catch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45746379",
+      "food_name": "Plant-Based Crab Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-catch/plant-based-crab-cakes",
+      "brand_name": "Good Catch",
+      "food_type": "Brand"
+    }
+  ]
+}

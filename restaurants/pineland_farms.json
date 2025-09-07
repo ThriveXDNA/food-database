@@ -1,0 +1,55 @@
+{
+  "restaurant": "Pineland Farms",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 16,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:30:35.255Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pineland_farms.json",
+  "items": [
+    {
+      "food_id": "40149998",
+      "food_name": "Ground Beef 90/10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pineland-farms/ground-beef-90-10",
+      "brand_name": "Pineland Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53540152",
+      "food_name": "Striploin Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pineland-farms/striploin-steak",
+      "brand_name": "Pineland Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27806612",
+      "food_name": "Swedish Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pineland-farms/swedish-meatballs",
+      "brand_name": "Pineland Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5746055",
+      "food_name": "Naturally Potatoes Homestyle Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pineland-farms/naturally-potatoes-homestyle-mashed-potatoes",
+      "brand_name": "Pineland Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59733862",
+      "food_name": "Italian Style Beef Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pineland-farms/italian-style-beef-meatballs",
+      "brand_name": "Pineland Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47185241",
+      "food_name": "Ribeye Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pineland-farms/ribeye-steak",
+      "brand_name": "Pineland Farms",
+      "food_type": "Brand"
+    }
+  ]
+}

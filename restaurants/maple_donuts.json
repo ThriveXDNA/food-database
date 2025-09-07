@@ -1,0 +1,20 @@
+{
+  "restaurant": "Maple Donuts",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 1076,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:06:39.026Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/maple_donuts.json",
+  "items": [
+    {
+      "food_id": "13598134",
+      "food_name": "Glazed Donuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/maple-donuts/glazed-donuts",
+      "brand_name": "Maple Donuts",
+      "food_type": "Brand"
+    }
+  ]
+}

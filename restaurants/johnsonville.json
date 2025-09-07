@@ -1,0 +1,930 @@
+{
+  "restaurant": "Johnsonville",
+  "total_items": 131,
+  "pages_extracted": 3,
+  "total_search_results": 131,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:23:30.233Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/johnsonville.json",
+  "items": [
+    {
+      "food_id": "573486",
+      "food_name": "Sausage Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/sausage-patty",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27098",
+      "food_name": "Original Bratwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/original-bratwurst",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3178619",
+      "food_name": "Original Recipe Breakfast Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/original-recipe-breakfast-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3201356",
+      "food_name": "Beddar with Cheddar Smoked Sausage & Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/beddar-with-cheddar-smoked-sausage-cheddar-cheese",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2836983",
+      "food_name": "Beef Brats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/beef-brats",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "774208",
+      "food_name": "Ground Mild Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/ground-mild-italian-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "212486",
+      "food_name": "Stadium Style Brats Cooked Bratwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/stadium-style-brats-cooked-bratwurst",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32369839",
+      "food_name": "Turkey Breakfast Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/turkey-breakfast-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84360",
+      "food_name": "Mild Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/mild-italian-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82925",
+      "food_name": "Hot Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/hot-italian-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4309393",
+      "food_name": "Jalapeño & Cheddar Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/jalapeno-and-cheddar-smoked-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66125",
+      "food_name": "Cheddar Brats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/cheddar-brats",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4281846",
+      "food_name": "Original Recipe Breakfast Sausage Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/original-recipe-breakfast-sausage-patty/1-patty",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21419155",
+      "food_name": "Turkey Breakfast Sausage Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/turkey-breakfast-sausage-patties",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3477353",
+      "food_name": "Andouille Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/andouille-smoked-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4574502",
+      "food_name": "Beer Brat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/beer-brat",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54645",
+      "food_name": "Brats Beer 'n Bratwurst Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/brats-beer-n-bratwurst-style",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40833505",
+      "food_name": "Cheddar Bratwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/cheddar-bratwurst",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53667",
+      "food_name": "Turkey Sausage with Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/turkey-sausage-with-cheddar-cheese",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11946869",
+      "food_name": "Fully Cooked Breakfast Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/fully-cooked-breakfast-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3241356",
+      "food_name": "Polish Kielbasa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/polish-kielbasa",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "138641",
+      "food_name": "Sweet Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/sweet-italian-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2430602",
+      "food_name": "Original Summer Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/original-summer-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "551994",
+      "food_name": "Smoked Bratwurst Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/smoked-bratwurst-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2424963",
+      "food_name": "Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/italian-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1185147",
+      "food_name": "Ground Hot Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/ground-hot-italian-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2233613",
+      "food_name": "Smoked Brats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/smoked-brats",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79611",
+      "food_name": "Vermont Maple Syrup Breakfast Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/vermont-maple-syrup-breakfast-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2060991",
+      "food_name": "Smoked Bratwurst Sausage in a Soft Baked Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/smoked-bratwurst-sausage-in-a-soft-baked-roll",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8387496",
+      "food_name": "Fully Cooked Breakfast Sausage Turkey (45g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/fully-cooked-breakfast-sausage-turkey-(45g)",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30378117",
+      "food_name": "Stadium Brat Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/stadium-brat-buns",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8800461",
+      "food_name": "Brats Cheddar & Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/brats-cheddar-and-bacon",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7605042",
+      "food_name": "Jalapeño & Cheddar Bratwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/jalape%C3%B1o-cheddar-bratwurst",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3905108",
+      "food_name": "Polish Kielbasa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/polish-kielbasa/2-oz",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67517",
+      "food_name": "New Orleans Andouille Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/new-orleans-andouille-smoked-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57751",
+      "food_name": "Smoked Turkey Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/smoked-turkey-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "521062",
+      "food_name": "Maple Syrup Breakfast Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/maple-syrup-breakfast-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56387284",
+      "food_name": "Turkey Breakfast Sausage Sandwich Size",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/turkey-breakfast-sausage-sandwich-size",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1350455",
+      "food_name": "Brown Sugar & Honey Flavor Breakfast Links",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/brown-sugar-and-honey-flavor-breakfast-links",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24509083",
+      "food_name": "Beef Hot Links",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/beef-hot-links",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15134531",
+      "food_name": "Vermont Maple Syrup Breakfast Sausage Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/vermont-maple-syrup-breakfast-sausage-patties",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6371629",
+      "food_name": "Sausage Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/sausage-roll",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2755649",
+      "food_name": "Beef Summer Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/beef-summer-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80349709",
+      "food_name": "Polish Kielbasa (Turkey)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/polish-kielbasa-(turkey)",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3976776",
+      "food_name": "Bratwurst Patty (86g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/bratwurst-patty-(86g)/1-patty",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1734880",
+      "food_name": "Ground Sweet Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/ground-sweet-italian-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71620587",
+      "food_name": "Chicken Cheddar Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/chicken-cheddar-smoked-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2273407",
+      "food_name": "Chili Cheese Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/chili-cheese-smoked-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23920214",
+      "food_name": "Queso with Pepper Jack Cheese Bratwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/queso-with-pepper-jack-cheese-bratwurst",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13134340",
+      "food_name": "Naturals Original Bratwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/naturals-original-bratwurst",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78109",
+      "food_name": "Original Ring Bologna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/original-ring-bologna",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16093697",
+      "food_name": "Firecracker Spicy Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/firecracker-spicy-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54165672",
+      "food_name": "Cracked Black Pepper Smoked Beef Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/cracked-black-pepper-smoked-beef-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15192112",
+      "food_name": "Stadium Burger Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/stadium-burger-bun",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92066247",
+      "food_name": "Brown Sugar & Honey Breakfast Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/brown-sugar-honey-breakfast-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "882521",
+      "food_name": "Garlic Summer Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/garlic-summer-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7547353",
+      "food_name": "Chorizo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/chorizo",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "524835",
+      "food_name": "Bold Beef Hot Links Smoked Sausage with Jalapeno & Red Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/bold-beef-hot-links-smoked-sausage-with-jalapeno-red-peppers",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76171822",
+      "food_name": "Smoked Chicken Sausage (57g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/smoked-chicken-sausage-(57g)",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28700540",
+      "food_name": "Turkey Original Breakfast Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/turkey-original-breakfast-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19042165",
+      "food_name": "Smoked Rope Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/smoked-rope-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85468188",
+      "food_name": "Queso Blanco Recipe Con Jalapeño Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/queso-blanco-recipe-con-jalape%C3%B1o-smoked-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90543",
+      "food_name": "Bold Jalapeno & Cheese Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/bold-jalapeno-and-cheese-smoked-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "145022",
+      "food_name": "Original Breakfast Sausage Rounds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/original-breakfast-sausage-rounds",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7156430",
+      "food_name": "Three Cheese Italian Style Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/three-cheese-italian-style-meatballs",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16685279",
+      "food_name": "Smoked Chicken Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/smoked-chicken-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8683914",
+      "food_name": "Andouille Chicken Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/andouille-chicken-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36156771",
+      "food_name": "Brats Tailgate Cheddar & Beer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/brats-tailgate-cheddar-beer",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22295190",
+      "food_name": "Stadium Hot Dog Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/stadium-hot-dog-buns",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21186894",
+      "food_name": "Flame Grilled Original Bratwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/flame-grilled-original-bratwurst",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "119151",
+      "food_name": "Irish O'Garlic Sausage Links",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/irish-ogarlic-sausage-links",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22811494",
+      "food_name": "Turkey Bratwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/turkey-bratwurst",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7844307",
+      "food_name": "Cheddar Cheese & Bacon Grillers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/cheddar-cheese-and-bacon-grillers",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4170766",
+      "food_name": "Bratwurst Patty (115g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/bratwurst-patty-(115g)/1-patty",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74848656",
+      "food_name": "Chicken Jalapeño Cheddar Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/chicken-jalape%C3%B1o-cheddar-smoked-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "141525",
+      "food_name": "Butcher Shop Style Cooked Bratwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/butcher-shop-style-cooked-bratwurst",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16559046",
+      "food_name": "Flame Grilled Honey Mustard Glazed Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/flame-grilled-honey-mustard-glazed-chicken-breast",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13266783",
+      "food_name": "Fully Cooked Breakfast Sausage Turkey (68g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/fully-cooked-breakfast-sausage-turkey-(68g)",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75414270",
+      "food_name": "Original Recipe Fully Cooked Breakfast Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/original-recipe-fully-cooked-breakfast-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43806930",
+      "food_name": "Naturals Maple Breakfast Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/naturals-maple-breakfast-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2891542",
+      "food_name": "Hot'n Spicy Bratwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/hotn-spicy-bratwurst",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15223953",
+      "food_name": "Pepper Jack Cheese Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/pepper-jack-cheese-smoked-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13033985",
+      "food_name": "Grillers Original Bratwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/grillers-original-bratwurst",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2366423",
+      "food_name": "Chicken Sausage with Real Apples",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/chicken-sausage-with-real-apples",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71410862",
+      "food_name": "Smoked Sausage Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/smoked-sausage-slices",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1260789",
+      "food_name": "Deli Bites Original Summer Sausage Snack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/deli-bites-original-summer-sausage-snack",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64024920",
+      "food_name": "Sausage Strips - Maple",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/sausage-strips-maple",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4792743",
+      "food_name": "Chicken Sausage Cajun Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/chicken-sausage-cajun-style",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18279501",
+      "food_name": "Naturals Original Breakfast Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/naturals-original-breakfast-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35788452",
+      "food_name": "Flame Grilled Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/flame-grilled-italian-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74908359",
+      "food_name": "Vermont Maple Syrup Breakfast Sausage (55 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/vermont-maple-syrup-breakfast-sausage-(55-g)",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4117407",
+      "food_name": "Cheddar Bratwurst Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/cheddar-bratwurst-patties",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45331914",
+      "food_name": "Chorizo Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/chorizo-smoked-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37986429",
+      "food_name": "Sausage Strips - Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/sausage-strips-original",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6720057",
+      "food_name": "Homestyle Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/homestyle-meatballs",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16258720",
+      "food_name": "Ultimate Brat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/ultimate-brat",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24833254",
+      "food_name": "Turkey Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/turkey-italian-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3354534",
+      "food_name": "Four Cheese Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/four-cheese-italian-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28751190",
+      "food_name": "Garlic Brats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/garlic-brats",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "470039",
+      "food_name": "Stadium Style Beef Franks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/stadium-style-beef-franks",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98847",
+      "food_name": "Cured, Cooked & Smoked Brats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/cured-cooked-and-smoked-brats",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12588616",
+      "food_name": "White Cheddar Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/white-cheddar-smoked-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3318490",
+      "food_name": "Chicken Sausage with Cheese & Chipotle Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/chicken-sausage-with-cheese-and-chipotle-peppers",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9968198",
+      "food_name": "Italian Sausage Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/italian-sausage-slices",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46487783",
+      "food_name": "Roasted Garlic Smoked Turkey Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/roasted-garlic-smoked-turkey-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16209676",
+      "food_name": "Flame Grilled Teriyaki Glazed Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/flame-grilled-teriyaki-glazed-chicken-breast",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103007114",
+      "food_name": "Chicken Apple Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/chicken-apple-smoked-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "534399",
+      "food_name": "Hearty Beef Ring Bologna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/hearty-beef-ring-bologna/n",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12199021",
+      "food_name": "Lemon & Herb Chicken Kabobs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/lemon-and-herb-chicken-kabobs",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11248877",
+      "food_name": "Naturals Mild Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/naturals-mild-italian-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92087736",
+      "food_name": "Original Recipe Breakfast Sausage Sandwich Size",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/original-recipe-breakfast-sausage-sandwich-size",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1895328",
+      "food_name": "Chipotle Monterey Jack Cheese Chicken Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/chipotle-monterey-jack-cheese-chicken-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2792912",
+      "food_name": "Pork & Chicken Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/pork-and-chicken-italian-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5778483",
+      "food_name": "Chicken Sausage Italian Style with Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/chicken-sausage-italian-style-with-cheese",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22376312",
+      "food_name": "Smokey Cheddar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/smokey-cheddar",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88169",
+      "food_name": "Grilling Chorizo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/grilling-chorizo",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15257122",
+      "food_name": "Teriyaki Glazed Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/teriyaki-glazed-chicken-breast",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19636005",
+      "food_name": "Flame Grilled Cheddar Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/flame-grilled-cheddar-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4034747",
+      "food_name": "Pizza Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/pizza-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17096324",
+      "food_name": "Chipotle & Monterey Jack Brats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/chipotle-and-monterey-jack-brats",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10029586",
+      "food_name": "Steakhouse Onion",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/steakhouse-onion",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2514147",
+      "food_name": "Wisconsin Cheddar Cheese Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/wisconsin-cheddar-cheese-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3243135",
+      "food_name": "Old World Recipe Summer Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/old-world-recipe-summer-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31225936",
+      "food_name": "Flame Grilled Sweet & Spicy Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/flame-grilled-sweet-spicy-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23388039",
+      "food_name": "Hatch Green Chile Seasoned Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/hatch-green-chile-seasoned-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17069374",
+      "food_name": "Sausage & Gravy Stuffed Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/sausage-and-gravy-stuffed-biscuit",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50933457",
+      "food_name": "Sausage Strips - Chorizo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/sausage-strips-chorizo",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "144256",
+      "food_name": "Heat 'n Serve Frozen Brats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/heat-n-serve-frozen-brats",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3049658",
+      "food_name": "Pork & Chicken Bratwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/pork-and-chicken-bratwurst",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2522154",
+      "food_name": "Mild Italian Sausage Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/mild-italian-sausage-patties",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14731570",
+      "food_name": "Flame Grilled Garlic & Herb Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/flame-grilled-garlic-and-herb-chicken-breast",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    }
+  ]
+}

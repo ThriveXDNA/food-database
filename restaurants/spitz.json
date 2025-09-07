@@ -1,0 +1,76 @@
+{
+  "restaurant": "Spitz",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:48:01.661Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/spitz.json",
+  "items": [
+    {
+      "food_id": "1859702",
+      "food_name": "Cracked Pepper Sunflower Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spitz/cracked-pepper-sunflower-seeds",
+      "brand_name": "Spitz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3961750",
+      "food_name": "Sunflower Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spitz/sunflower-seeds",
+      "brand_name": "Spitz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "966899",
+      "food_name": "Dill Pickle Sunflower Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spitz/dill-pickle-sunflower-seeds",
+      "brand_name": "Spitz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1868965",
+      "food_name": "Smoky BBQ Sunflower Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spitz/smoky-bbq-sunflower-seeds",
+      "brand_name": "Spitz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1937663",
+      "food_name": "Seasoned Sunflower Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spitz/seasoned-sunflower-seeds",
+      "brand_name": "Spitz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3467447",
+      "food_name": "Dill Pickle Pumpkin Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spitz/dill-pickle-pumpkin-seeds",
+      "brand_name": "Spitz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2395552",
+      "food_name": "Hot & Spicy Sunflower Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spitz/hot-and-spicy-sunflower-seeds",
+      "brand_name": "Spitz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2369636",
+      "food_name": "Salted Sunflower Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spitz/salted-sunflower-seeds",
+      "brand_name": "Spitz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "719141",
+      "food_name": "Chili Lime Sunflower Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spitz/chili-lime-sunflower-seeds",
+      "brand_name": "Spitz",
+      "food_type": "Brand"
+    }
+  ]
+}

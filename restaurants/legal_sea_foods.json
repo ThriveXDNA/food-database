@@ -1,0 +1,55 @@
+{
+  "restaurant": "Legal Sea Foods",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 1060,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:39:21.547Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/legal_sea_foods.json",
+  "items": [
+    {
+      "food_id": "3570800",
+      "food_name": "Lobster Bisque",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/legal-sea-foods/lobster-bisque",
+      "brand_name": "Legal Sea Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2321828",
+      "food_name": "Salad Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/legal-sea-foods/salad-shrimp",
+      "brand_name": "Legal Sea Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1464391",
+      "food_name": "New England Clam Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/legal-sea-foods/new-england-clam-chowder",
+      "brand_name": "Legal Sea Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24874785",
+      "food_name": "Shrimp Risotto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/legal-sea-foods/shrimp-risotto",
+      "brand_name": "Legal Sea Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50879",
+      "food_name": "Cocktail Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/legal-sea-foods/cocktail-sauce",
+      "brand_name": "Legal Sea Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4497549",
+      "food_name": "Crab & Sweet Corn Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/legal-sea-foods/crab-and-sweet-corn-chowder",
+      "brand_name": "Legal Sea Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

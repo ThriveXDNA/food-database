@@ -1,0 +1,538 @@
+{
+  "restaurant": "South Beach Diet",
+  "total_items": 75,
+  "pages_extracted": 6,
+  "total_search_results": 1163,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:59:14.974Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/south_beach_diet.json",
+  "items": [
+    {
+      "food_id": "7719279",
+      "food_name": "Oven Roasted Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/oven-roasted-vegetables",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57697",
+      "food_name": "Cranberry Walnut Chicken Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/cranberry-walnut-chicken-salad-kit",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26339",
+      "food_name": "Beef & Bean Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/beef-and-bean-chili",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37376698",
+      "food_name": "Meat Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/meat-stick",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62984",
+      "food_name": "Whole Wheat Wraps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/whole-wheat-wraps",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1393342",
+      "food_name": "Swiss Cheese & Vegetable Omelet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/swiss-cheese-and-vegetable-omelet",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68758",
+      "food_name": "Deli Ham & Turkey Wrap Sandwich Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/deli-ham-and-turkey-wrap-sandwich-kit",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1195445",
+      "food_name": "Creamy Cauliflower Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/creamy-cauliflower-soup",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1883602",
+      "food_name": "Western Egg White Omelet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/western-egg-white-omelet",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2499602",
+      "food_name": "Cannellini Bean Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/cannellini-bean-salad",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3097365",
+      "food_name": "Warm Spinach Salad with Mushrooms",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/warm-spinach-salad-with-mushrooms",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "337635",
+      "food_name": "Coconut Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/coconut-chicken",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44570",
+      "food_name": "Granola Clusters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/granola-clusters",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4889461",
+      "food_name": "Indian Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/indian-chicken",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19087800",
+      "food_name": "Turkey Roll Ups",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/turkey-roll-ups",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23937351",
+      "food_name": "Cheeseburger Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/cheeseburger-soup",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25978",
+      "food_name": "Italian Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/italian-salad-dressing",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27836",
+      "food_name": "Pepperoni Pizza with Harvest Wheat Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/pepperoni-pizza-with-harvest-wheat-crust",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2274233",
+      "food_name": "Mexican Chicken Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/mexican-chicken-soup",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28016",
+      "food_name": "Thai Shrimp Soup with Lime & Cilantro",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/thai-shrimp-soup-with-lime-cilantro",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4122574",
+      "food_name": "Vegetable Quiche Cups",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/vegetable-quiche-cups",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31498",
+      "food_name": "Harvest Wheat Crust Grilled Chicken & Vegetable Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/harvest-wheat-crust-grilled-chicken-and-vegetable-pizza",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29163973",
+      "food_name": "Shrimp & Chicken Stir-Fry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/shrimp-chicken-stir-fry",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5021227",
+      "food_name": "Jicama, Tomato, & Black Bean Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/jicama-tomato-and-black-bean-salad",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54433",
+      "food_name": "Vegetable Quiche Cups To Go",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/vegetable-quiche-cups-to-go",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54587",
+      "food_name": "Dark Chocolate Fudge Covered Wafer Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/dark-chocolate-fudge-covered-wafer-sticks",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4034933",
+      "food_name": "Crab Cobb Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/crab-cobb-salad",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21093251",
+      "food_name": "Texas Style Chili Sauce with Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/texas-style-chili-sauce-with-meat",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37369859",
+      "food_name": "Creamy Cauliflower & Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/creamy-cauliflower-chicken",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101412",
+      "food_name": "Fiber Fit Granola Bars - Mocha",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/fiber-fit-granola-bars---mocha",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46249579",
+      "food_name": "Baked Pesto Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/baked-pesto-chicken",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43189968",
+      "food_name": "Just Add Eggs! Ham & Cheese Scramble",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/just-add-eggs-ham-cheese-scramble",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70591",
+      "food_name": "Vanilla Almond Crunch Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/vanilla-almond-crunch-cereal",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27384",
+      "food_name": "Oatmeal Chocolate Chip Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/oatmeal-chocolate-chip-cookies",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28472",
+      "food_name": "Santa Fe Style Chicken Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/santa-fe-style-chicken-salad-kit",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "848861",
+      "food_name": "Balsamic Glazed Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/balsamic-glazed-salmon",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29216762",
+      "food_name": "Turkey Sausage & Egg Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/turkey-sausage-egg-muffin",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23166153",
+      "food_name": "Beef 'n' Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/beef-n-beans",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42605244",
+      "food_name": "Peanut Butter Cookie Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/peanut-butter-cookie-bites",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28164",
+      "food_name": "Balsamic Dressing with Extra Virgin Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/balsamic-dressing-with-extra-virgin-olive-oil",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28478",
+      "food_name": "Snack Bars - Peanut Butter (100 Calorie)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/snack-bars---peanut-butter-(100-calorie)",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50381",
+      "food_name": "Meal Replacement Bar - Chocolate Peanut Butter Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/meal-replacement-bar---chocolate-peanut-butter-bar",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19352426",
+      "food_name": "Broccoli & Cheese Stuffed Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/broccoli-cheese-stuffed-chicken-breast",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23736509",
+      "food_name": "Dark Chocolate Nut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/dark-chocolate-nut-bar",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43124687",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/margherita-pizza",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25824",
+      "food_name": "Garlic Herb Chicken with Green Beans Almondine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/garlic-herb-chicken-with-green-beans-almondine",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26746",
+      "food_name": "Ranch Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/ranch-salad-dressing",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32280",
+      "food_name": "Mixed Berry Granola Clusters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/mixed-berry-granola-clusters",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5024234",
+      "food_name": "Peanut Butter Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/peanut-butter-muffins",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19151133",
+      "food_name": "High Protein Chocolate Shake Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/high-protein-chocolate-shake-mix",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29298386",
+      "food_name": "Pancake Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/pancake-mix",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23359163",
+      "food_name": "White Bean Chicken Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/white-bean-chicken-chili",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39176393",
+      "food_name": "Mushroom Parmesan Soup with Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/mushroom-parmesan-soup-with-chicken",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52704",
+      "food_name": "Roasted Turkey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/roasted-turkey",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25361",
+      "food_name": "Cereal Bar - Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/cereal-bar---chocolate",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27406",
+      "food_name": "Southwestern-Style Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/southwestern-style-chicken-wrap",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29915",
+      "food_name": "Peanut Butter Cookies (100 Calorie Pack)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/peanut-butter-cookies-(100-calorie-pack)",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31515",
+      "food_name": "Garlic Parmesan Chicken with Penne",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/garlic-parmesan-chicken-with-penne",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2210867",
+      "food_name": "Chock-Full-of-Veggies Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/chock-full-of-veggies-chili",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22528617",
+      "food_name": "Chicken Fajita Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/chicken-fajita-bowl",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1372885",
+      "food_name": "Two Bean Chili Con Carne",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/two-bean-chili-con-carne",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5585444",
+      "food_name": "Snack Bars - Whipped Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/snack-bars---whipped-peanut-butter",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16752223",
+      "food_name": "Vanilla Ricotta Creme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/vanilla-ricotta-creme",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19165247",
+      "food_name": "Florentine Omelet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/florentine-omelet",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23408390",
+      "food_name": "Tilapia Cacciatore",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/tilapia-cacciatore",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29932100",
+      "food_name": "Lemongrass Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/lemongrass-chicken",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19931779",
+      "food_name": "Chicken & Beans in A Tangy BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/chicken-beans-in-a-tangy-bbq-sauce",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8927534",
+      "food_name": "Greek Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/greek-salad",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20826613",
+      "food_name": "Tandoori Style Seasoned Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/tandoori-style-seasoned-chicken",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23404096",
+      "food_name": "Lunch Bar - Double Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/lunch-bar-double-chocolate",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23957660",
+      "food_name": "Just in Thyme Beef Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/just-in-thyme-beef-soup",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29268246",
+      "food_name": "Fudgy Graham Crumble Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/fudgy-graham-crumble-bar",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29305321",
+      "food_name": "Tuna Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/tuna-salad",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29932014",
+      "food_name": "Roasted Turkey with Herb Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/roasted-turkey-with-herb-gravy",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42605285",
+      "food_name": "Double Chocolate Cookie Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/south-beach-diet/double-chocolate-cookie-bites",
+      "brand_name": "South Beach Diet",
+      "food_type": "Brand"
+    }
+  ]
+}

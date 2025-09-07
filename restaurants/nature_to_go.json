@@ -1,0 +1,34 @@
+{
+  "restaurant": "Nature to Go",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 517,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:12:57.360Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/nature_to_go.json",
+  "items": [
+    {
+      "food_id": "86610138",
+      "food_name": "Chili Tamarind Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nature-to-go/chili-tamarind-bites",
+      "brand_name": "Nature to Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28494280",
+      "food_name": "Apple Rings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nature-to-go/apple-rings",
+      "brand_name": "Nature to Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28687816",
+      "food_name": "Dark Chocolate Covered Coconut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nature-to-go/dark-chocolate-covered-coconut",
+      "brand_name": "Nature to Go",
+      "food_type": "Brand"
+    }
+  ]
+}

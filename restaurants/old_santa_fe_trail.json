@@ -1,0 +1,27 @@
+{
+  "restaurant": "Old Santa Fe Trail",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 1175,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:56:33.581Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/old_santa_fe_trail.json",
+  "items": [
+    {
+      "food_id": "1878307",
+      "food_name": "Original Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-santa-fe-trail/original-beef-jerky",
+      "brand_name": "Old Santa Fe Trail",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2231725",
+      "food_name": "Green Chile Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-santa-fe-trail/green-chile-beef-jerky",
+      "brand_name": "Old Santa Fe Trail",
+      "food_type": "Brand"
+    }
+  ]
+}

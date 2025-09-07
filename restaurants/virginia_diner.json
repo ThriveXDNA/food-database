@@ -1,0 +1,55 @@
+{
+  "restaurant": "Virginia Diner",
+  "total_items": 6,
+  "pages_extracted": 2,
+  "total_search_results": 58,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:51:51.894Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/virginia_diner.json",
+  "items": [
+    {
+      "food_id": "43739441",
+      "food_name": "Salted Virginia Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/virginia-diner/salted-virginia-peanuts",
+      "brand_name": "Virginia Diner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91265251",
+      "food_name": "Unsalted Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/virginia-diner/unsalted-peanuts",
+      "brand_name": "Virginia Diner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39087903",
+      "food_name": "Old Bay Seasoned Virginia Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/virginia-diner/old-bay-seasoned-virginia-peanuts",
+      "brand_name": "Virginia Diner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4410448",
+      "food_name": "Smoked Cajun Virginia Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/virginia-diner/smoked-cajun-virginia-peanuts",
+      "brand_name": "Virginia Diner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4921323",
+      "food_name": "Gourmet Salted Virginia Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/virginia-diner/gourmet-salted-virginia-peanuts",
+      "brand_name": "Virginia Diner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72231072",
+      "food_name": "Peanut Butter Power Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/virginia-diner/peanut-butter-power-mix",
+      "brand_name": "Virginia Diner",
+      "food_type": "Brand"
+    }
+  ]
+}

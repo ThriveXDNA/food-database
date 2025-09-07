@@ -1,0 +1,76 @@
+{
+  "restaurant": "Nanak",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:47:05.571Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/nanak.json",
+  "items": [
+    {
+      "food_id": "2755244",
+      "food_name": "Paneer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nanak/paneer",
+      "brand_name": "Nanak",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15651311",
+      "food_name": "Pure Desi Ghee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nanak/pure-desi-ghee",
+      "brand_name": "Nanak",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2649495",
+      "food_name": "Kaju Katli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nanak/kaju-katli",
+      "brand_name": "Nanak",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3096226",
+      "food_name": "Aloo Tikki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nanak/aloo-tikki",
+      "brand_name": "Nanak",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65050128",
+      "food_name": "Moong Daal Halwa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nanak/moong-daal-halwa",
+      "brand_name": "Nanak",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2505168",
+      "food_name": "Ras Malai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nanak/ras-malai",
+      "brand_name": "Nanak",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91139314",
+      "food_name": "Milk Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nanak/milk-cake",
+      "brand_name": "Nanak",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4743295",
+      "food_name": "Gulabjamun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nanak/gulabjamun",
+      "brand_name": "Nanak",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2675887",
+      "food_name": "Kaju Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nanak/kaju-roll",
+      "brand_name": "Nanak",
+      "food_type": "Brand"
+    }
+  ]
+}

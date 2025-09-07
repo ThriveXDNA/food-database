@@ -1,0 +1,62 @@
+{
+  "restaurant": "Lilydale",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:35:38.750Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/lilydale.json",
+  "items": [
+    {
+      "food_id": "51705",
+      "food_name": "Sliced Turkey Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lilydale/sliced-turkey-breast",
+      "brand_name": "Lilydale",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14007795",
+      "food_name": "Turkey Sausages",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lilydale/turkey-sausages",
+      "brand_name": "Lilydale",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54539",
+      "food_name": "Skinless Chicken Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lilydale/skinless-chicken-strips",
+      "brand_name": "Lilydale",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56689910",
+      "food_name": "Turkey Breast Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lilydale/turkey-breast-strips",
+      "brand_name": "Lilydale",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77797",
+      "food_name": "Daystarters Cooked Turkey Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lilydale/daystarters-cooked-turkey-slices",
+      "brand_name": "Lilydale",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "787103",
+      "food_name": "Extra Lean Ground Turkey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lilydale/extra-lean-ground-turkey",
+      "brand_name": "Lilydale",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2727835",
+      "food_name": "Turkey Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lilydale/turkey-bacon",
+      "brand_name": "Lilydale",
+      "food_type": "Brand"
+    }
+  ]
+}

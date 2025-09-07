@@ -1,0 +1,69 @@
+{
+  "restaurant": "Ocho",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:00:41.268Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ocho.json",
+  "items": [
+    {
+      "food_id": "52529804",
+      "food_name": "Caramel & Peanut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocho/caramel-peanut-bar",
+      "brand_name": "Ocho",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24236455",
+      "food_name": "PB&J Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocho/pb-j-bar",
+      "brand_name": "Ocho",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26035196",
+      "food_name": "Milk Chocolate Peanut Butter Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocho/milk-chocolate-peanut-butter-bar",
+      "brand_name": "Ocho",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60139765",
+      "food_name": "Dark Chocolate Peanut Butter Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocho/dark-chocolate-peanut-butter-bar",
+      "brand_name": "Ocho",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11870329",
+      "food_name": "Coconut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocho/coconut-bar",
+      "brand_name": "Ocho",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25876849",
+      "food_name": "Coconut Minis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocho/coconut-minis",
+      "brand_name": "Ocho",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63951032",
+      "food_name": "Caramel Minis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocho/caramel-minis",
+      "brand_name": "Ocho",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46108684",
+      "food_name": "PB&J Minis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocho/pb-j-minis",
+      "brand_name": "Ocho",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "restaurant": "Karen & Sisters",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:32:10.645Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/karen_sisters.json",
+  "items": [
+    {
+      "food_id": "2427578",
+      "food_name": "Sweet & Salty Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/karen-and-sisters/sweet-and-salty-trail-mix",
+      "brand_name": "Karen & Sisters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2729614",
+      "food_name": "Thai Veggie Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/karen-and-sisters/thai-veggie-chicken",
+      "brand_name": "Karen & Sisters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "977106",
+      "food_name": "Chickpea Masala",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/karen-and-sisters/chickpea-masala",
+      "brand_name": "Karen & Sisters",
+      "food_type": "Brand"
+    }
+  ]
+}

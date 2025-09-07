@@ -1,0 +1,34 @@
+{
+  "brand_name": "YummyEarth",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:04:12.865Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/yummyearth.json",
+  "items": [
+    {
+      "food_id": "1430796",
+      "food_name": "Organic Lollipops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yummyearth/organic-lollipops",
+      "brand_name": "YummyEarth",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1536011",
+      "food_name": "Organic Gummy Bears",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yummyearth/organic-gummy-bears",
+      "brand_name": "YummyEarth",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72609742",
+      "food_name": "Organic Lollipops (12.4g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yummyearth/organic-lollipops-(124g)",
+      "brand_name": "YummyEarth",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "restaurant": "Venice Bakery",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 46,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:13:46.163Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/venice_bakery.json",
+  "items": [
+    {
+      "food_id": "20139905",
+      "food_name": "Gluten-Free Vegan Pizza Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/venice-bakery/gluten-free-vegan-pizza-crust",
+      "brand_name": "Venice Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "brand_name": "Hiram Walker",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:45:52.146Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/hiram_walker.json",
+  "items": [
+    {
+      "food_id": "26214916",
+      "food_name": "Blackberry Brandy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hiram-walker/blackberry-brandy",
+      "brand_name": "Hiram Walker",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35524186",
+      "food_name": "Peppermint Schnapps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hiram-walker/peppermint-schnapps",
+      "brand_name": "Hiram Walker",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "restaurant": "Los Angeles Salad Company",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 5576,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:20:09.401Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/los_angeles_salad_company.json",
+  "items": [
+    {
+      "food_id": "87752",
+      "food_name": "Trimmed Chinese Snow Peas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/los-angeles-salad-company/trimmed-chinese-snow-peas",
+      "brand_name": "Los Angeles Salad Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87750",
+      "food_name": "Fresh Shelled English Peas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/los-angeles-salad-company/fresh-shelled-english-peas",
+      "brand_name": "Los Angeles Salad Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87751",
+      "food_name": "Sweet Baby Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/los-angeles-salad-company/sweet-baby-corn",
+      "brand_name": "Los Angeles Salad Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40502765",
+      "food_name": "Organic Butternut Squash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/los-angeles-salad-company/organic-butternut-squash",
+      "brand_name": "Los Angeles Salad Company",
+      "food_type": "Brand"
+    }
+  ]
+}

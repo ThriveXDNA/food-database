@@ -1,0 +1,76 @@
+{
+  "restaurant": "Sky Valley",
+  "total_items": 9,
+  "pages_extracted": 3,
+  "total_search_results": 101,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:30:54.481Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sky_valley.json",
+  "items": [
+    {
+      "food_id": "3888774",
+      "food_name": "Sriracha Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sky-valley/sriracha-sauce",
+      "brand_name": "Sky Valley",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97852689",
+      "food_name": "Sambal Oelek Chili Paste",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sky-valley/sambal-oelek-chili-paste",
+      "brand_name": "Sky Valley",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16736150",
+      "food_name": "Teriyaki Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sky-valley/teriyaki-sauce",
+      "brand_name": "Sky Valley",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18501263",
+      "food_name": "Thai Peanut Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sky-valley/thai-peanut-sauce",
+      "brand_name": "Sky Valley",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56900055",
+      "food_name": "Taco Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sky-valley/taco-sauce",
+      "brand_name": "Sky Valley",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18501220",
+      "food_name": "General Tso Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sky-valley/general-tso-sauce",
+      "brand_name": "Sky Valley",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25901120",
+      "food_name": "Sweet Chili Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sky-valley/sweet-chili-sauce",
+      "brand_name": "Sky Valley",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11202816",
+      "food_name": "Mole Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sky-valley/mole-sauce",
+      "brand_name": "Sky Valley",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13073776",
+      "food_name": "Korean BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sky-valley/korean-bbq-sauce",
+      "brand_name": "Sky Valley",
+      "food_type": "Brand"
+    }
+  ]
+}

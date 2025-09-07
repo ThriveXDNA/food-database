@@ -1,0 +1,34 @@
+{
+  "restaurant": "Gourmet Basics",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 400,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:47:36.696Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/gourmet_basics.json",
+  "items": [
+    {
+      "food_id": "638960",
+      "food_name": "Smart Fries - Classic Sea Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gourmet-basics/smart-fries---classic-sea-salt",
+      "brand_name": "Gourmet Basics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1698931",
+      "food_name": "Smart Fries - Honey BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gourmet-basics/smart-fries---honey-bbq",
+      "brand_name": "Gourmet Basics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "660681",
+      "food_name": "Smart Fries - Jalapeno Heat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gourmet-basics/smart-fries---jalapeno-heat",
+      "brand_name": "Gourmet Basics",
+      "food_type": "Brand"
+    }
+  ]
+}

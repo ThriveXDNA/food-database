@@ -1,0 +1,580 @@
+{
+  "restaurant": "Freshii",
+  "total_items": 81,
+  "pages_extracted": 2,
+  "total_search_results": 81,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:49:30.165Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/freshii.json",
+  "items": [
+    {
+      "food_id": "74049272",
+      "food_name": "2 Hard Boiled Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/2-hard-boiled-eggs",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049239",
+      "food_name": "Chia Pudding",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/chia-pudding",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049357",
+      "food_name": "Spicy Yogurt Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/spicy-yogurt-sauce",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024038",
+      "food_name": "Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/burrito",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049265",
+      "food_name": "Cali Smoothie Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/cali-smoothie-bowl",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024057",
+      "food_name": "Tahini Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/tahini-sauce",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049204",
+      "food_name": "Chocolate Peanut Butter Smoothie 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/chocolate-peanut-butter-smoothie-12-oz",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049279",
+      "food_name": "Green Genius Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/green-genius-juice",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14183868",
+      "food_name": "Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/tofu",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049354",
+      "food_name": "Spicy Peanut Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/spicy-peanut-sauce",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024026",
+      "food_name": "Mezze Deliight Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/mezze-deliight-bowl",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11249502",
+      "food_name": "Fiesta Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/fiesta-salad",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049360",
+      "food_name": "Frank's Hot Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/franks-hot-sauce",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049267",
+      "food_name": "Greek Yogurt Parfait",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/greek-yogurt-parfait",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049342",
+      "food_name": "Greek Yogurt Caesar Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/greek-yogurt-caesar-dressing",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049346",
+      "food_name": "Greek Yogurt Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/greek-yogurt-ranch",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049115",
+      "food_name": "Sesame Crunch Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/sesame-crunch-wrap",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5238921",
+      "food_name": "Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/chicken",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049130",
+      "food_name": "Buddha’S Satay Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/buddha%E2%80%99s-satay-bowl",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4009212",
+      "food_name": "Cobb Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/cobb-salad",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049217",
+      "food_name": "Chocolate Peanut Butter Smoothie 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/chocolate-peanut-butter-smoothie-24-oz",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049334",
+      "food_name": "Creamy Chipotle Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/creamy-chipotle-sauce",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4669051",
+      "food_name": "Spicy Lemongrass Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/spicy-lemongrass-soup",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049200",
+      "food_name": "Creamy Tomato Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/creamy-tomato-soup",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049350",
+      "food_name": "Salsa Fresca",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/salsa-fresca",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024055",
+      "food_name": "Lemon Za'atar Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/lemon-zaatar-vinaigrette",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049359",
+      "food_name": "Sweet Sesame Soy Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/sweet-sesame-soy-sauce",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049362",
+      "food_name": "Teriyaki Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/teriyaki-sauce",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024028",
+      "food_name": "Chocolate Peanut Butter Smoothie 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/chocolate-peanut-butter-smoothie-16-oz",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024060",
+      "food_name": "Tikka Masala Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/tikka-masala-sauce",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049212",
+      "food_name": "Strawberrii Banana Smoothie 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/strawberrii-banana-smoothie-12-oz",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049228",
+      "food_name": "Whey Protein Powder Smoothie Add on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/whey-protein-powder-smoothie-add-on",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049230",
+      "food_name": "Vegan Protein Powder Smoothie Add on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/vegan-protein-powder-smoothie-add-on",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049259",
+      "food_name": "Green Eggs & Kale Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/green-eggs-kale-bowl",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049289",
+      "food_name": "Cheesy Chicken Pocket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/cheesy-chicken-pocket",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13990560",
+      "food_name": "Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/steak",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19103257",
+      "food_name": "Teriyaki Twist Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/teriyaki-twist-bowl",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12466357",
+      "food_name": "Falafel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/falafel",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049209",
+      "food_name": "Tropical Mango Smoothie 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/tropical-mango-smoothie-12-oz",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049286",
+      "food_name": "Antioxidant Elixir Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/antioxidant-elixir-juice",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049221",
+      "food_name": "Freshii Green Smoothie 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/freshii-green-smoothie-24-oz",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049205",
+      "food_name": "Freshii Green Smoothie 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/freshii-green-smoothie-12-oz",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049119",
+      "food_name": "Chipotle Cheddar Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/chipotle-cheddar-bowl",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049287",
+      "food_name": "Immune Elixir Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/immune-elixir-juice",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049301",
+      "food_name": "Super Kids Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/super-kids-salad",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024023",
+      "food_name": "Chicken Tiika Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/chicken-tiika-bowl",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27998857",
+      "food_name": "Kale Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/kale-caesar-salad",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049121",
+      "food_name": "Oaxaca Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/oaxaca-bowl",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049224",
+      "food_name": "Tropical Mango Smoothie 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/tropical-mango-smoothie-24-oz",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049236",
+      "food_name": "Cocoa Energii Bites - 3 Bites (54G)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/cocoa-energii-bites-3-bites-(54g)",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049257",
+      "food_name": "Huevos Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/huevos-bowl",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049295",
+      "food_name": "Kids Power Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/kids-power-bowl",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049309",
+      "food_name": "Cilantro Lime Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/cilantro-lime-vinaigrette",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024017",
+      "food_name": "Zesty Za'atar Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/zesty-zaatar-roll",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74048919",
+      "food_name": "Strawberrii Banana Smoothie 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/strawberrii-banana-smoothie-24-oz",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049192",
+      "food_name": "Spicy Buffalo Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/spicy-buffalo-burrito",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049196",
+      "food_name": "Large Spicy Lemongrass Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/large-spicy-lemongrass-soup",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049306",
+      "food_name": "Balsamic Vinegar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/balsamic-vinegar",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049335",
+      "food_name": "Fiery BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/fiery-bbq-sauce",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049348",
+      "food_name": "Lemon Juice Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/lemon-juice-sauce",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049351",
+      "food_name": "Spicy Lemongrass Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/spicy-lemongrass-sauce",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049373",
+      "food_name": "Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/olive-oil",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86023988",
+      "food_name": "Greek Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/greek-salad",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86023989",
+      "food_name": "Berrii Crunchii Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/berrii-crunchii-salad",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024012",
+      "food_name": "Texas Smokehouse Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/texas-smokehouse-roll",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024034",
+      "food_name": "Strawberrii Banana Smoothie 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/strawberrii-banana-smoothie-16-oz",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024036",
+      "food_name": "Tropical Mango Smoothie 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/tropical-mango-smoothie-16-oz",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024053",
+      "food_name": "Greek Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/greek-dressing",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024061",
+      "food_name": "Za'atar Garlic Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/zaatar-garlic-sauce",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049215",
+      "food_name": "Mixed Berrii Smoothie 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/mixed-berrii-smoothie-12-oz",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049227",
+      "food_name": "Mixed Berrii Smoothie 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/mixed-berrii-smoothie-24-oz",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049233",
+      "food_name": "Peanut Butter Energii Bites - 3 Bites (54G)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/peanut-butter-energii-bites-3-bites-(54g)",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049245",
+      "food_name": "Veggii & Egg Pocket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/veggii-egg-pocket",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049250",
+      "food_name": "Bacon, Egg & Cheese Pocket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/bacon-egg-cheese-pocket",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049275",
+      "food_name": "Beta Boost Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/beta-boost-juice",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049282",
+      "food_name": "Recharge Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/recharge-juice",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74049304",
+      "food_name": "Balsamic Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/balsamic-vinaigrette",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024020",
+      "food_name": "Italiian Market Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/italiian-market-roll",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024032",
+      "food_name": "Mixed Berrii Smoothie 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/mixed-berrii-smoothie-16-oz",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024068",
+      "food_name": "Get Glowing Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/get-glowing-juice",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024031",
+      "food_name": "Freshii Green Smoothie 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshii/freshii-green-smoothie-16-oz",
+      "brand_name": "Freshii",
+      "food_type": "Brand"
+    }
+  ]
+}

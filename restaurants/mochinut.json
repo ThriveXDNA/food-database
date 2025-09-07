@@ -1,0 +1,27 @@
+{
+  "restaurant": "Mochinut",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:04:39.361Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mochinut.json",
+  "items": [
+    {
+      "food_id": "77384772",
+      "food_name": "Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mochinut/donut",
+      "brand_name": "Mochinut",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96116348",
+      "food_name": "Milk Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mochinut/milk-tea",
+      "brand_name": "Mochinut",
+      "food_type": "Brand"
+    }
+  ]
+}

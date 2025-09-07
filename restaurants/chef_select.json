@@ -1,0 +1,34 @@
+{
+  "restaurant": "Chef Select",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 474,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:41:22.585Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/chef_select.json",
+  "items": [
+    {
+      "food_id": "4016618",
+      "food_name": "Spicy Salmon Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chef-select/spicy-salmon-roll",
+      "brand_name": "Chef Select",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1633997",
+      "food_name": "Philadelphia Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chef-select/philadelphia-roll",
+      "brand_name": "Chef Select",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3515360",
+      "food_name": "Brown Rice Vegetable Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chef-select/brown-rice-vegetable-roll",
+      "brand_name": "Chef Select",
+      "food_type": "Brand"
+    }
+  ]
+}

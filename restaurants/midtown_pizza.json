@@ -1,0 +1,55 @@
+{
+  "restaurant": "Midtown Pizza",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 6389,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:30:39.640Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/midtown_pizza.json",
+  "items": [
+    {
+      "food_id": "29758666",
+      "food_name": "Goat Cheese & Roasted Veggie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/midtown-pizza/goat-cheese-roasted-veggie",
+      "brand_name": "Midtown Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56134535",
+      "food_name": "Uncured Pepperoni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/midtown-pizza/uncured-pepperoni",
+      "brand_name": "Midtown Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61761145",
+      "food_name": "Jalapeno Popper Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/midtown-pizza/jalapeno-popper-pizza",
+      "brand_name": "Midtown Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39713256",
+      "food_name": "Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/midtown-pizza/margherita",
+      "brand_name": "Midtown Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53572332",
+      "food_name": "Italian Sausage & Red Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/midtown-pizza/italian-sausage-red-peppers",
+      "brand_name": "Midtown Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51193532",
+      "food_name": "Smoked Brisket & Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/midtown-pizza/smoked-brisket-sausage",
+      "brand_name": "Midtown Pizza",
+      "food_type": "Brand"
+    }
+  ]
+}

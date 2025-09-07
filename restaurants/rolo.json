@@ -1,0 +1,69 @@
+{
+  "restaurant": "Rolo",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:56:04.485Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rolo.json",
+  "items": [
+    {
+      "food_id": "40048317",
+      "food_name": "Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rolo/candy",
+      "brand_name": "Rolo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21845197",
+      "food_name": "Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rolo/ice-cream",
+      "brand_name": "Rolo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31043279",
+      "food_name": "Ice Cream Cone",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rolo/ice-cream-cone",
+      "brand_name": "Rolo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25455521",
+      "food_name": "Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rolo/ice-cream-sandwich",
+      "brand_name": "Rolo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52386121",
+      "food_name": "Colliders",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rolo/colliders",
+      "brand_name": "Rolo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59033720",
+      "food_name": "Rolo Dark Salted Caramel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hersheys/rolo-dark-salted-caramel",
+      "brand_name": "Hershey's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63116",
+      "food_name": "Rolo Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nestle/rolo-bar",
+      "brand_name": "Nestle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3817420",
+      "food_name": "Rolo Dessert",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nestle/rolo-dessert",
+      "brand_name": "Nestle",
+      "food_type": "Brand"
+    }
+  ]
+}

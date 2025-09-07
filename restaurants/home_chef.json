@@ -1,0 +1,1917 @@
+{
+  "restaurant": "Home Chef",
+  "total_items": 272,
+  "pages_extracted": 7,
+  "total_search_results": 471,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:30:01.204Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/home_chef.json",
+  "items": [
+    {
+      "food_id": "61862971",
+      "food_name": "Grilled Atlantic Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/grilled-atlantic-salmon",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25683297",
+      "food_name": "Spicy Cajun Shrimp & White Cheddar Grits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/spicy-cajun-shrimp-white-cheddar-grits",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45476271",
+      "food_name": "Thai Style Chicken Coconut Curry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/thai-style-chicken-coconut-curry",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39444500",
+      "food_name": "Baja Fish Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/baja-fish-tacos",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43107648",
+      "food_name": "Beef Stroganoff with Egg Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/beef-stroganoff-with-egg-noodles",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27519537",
+      "food_name": "Shrimp Florentine Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/shrimp-florentine-pasta",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61766141",
+      "food_name": "Smoked St. Louis Style BBQ Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/smoked-st-louis-style-bbq-ribs",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55338922",
+      "food_name": "Chicken Dumpling Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-dumpling-soup",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92213877",
+      "food_name": "Cheesy Chicken Broccoli Rice Casserole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/cheesy-chicken-broccoli-rice-casserole",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43605183",
+      "food_name": "Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/mashed-potatoes",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70100911",
+      "food_name": "Meat Lover's Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/meat-lovers-pizza",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36707427",
+      "food_name": "Al Pastor Pork Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/al-pastor-pork-tacos",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97726823",
+      "food_name": "Beef Kofta with Tzatziki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/beef-kofta-with-tzatziki",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78111629",
+      "food_name": "Creamy Chicken Wild Rice Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/creamy-chicken-wild-rice-soup",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26079842",
+      "food_name": "Shrimp Pad Thai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/shrimp-pad-thai",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62107879",
+      "food_name": "Chicken Bacon Ranch Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-bacon-ranch-pasta",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70665888",
+      "food_name": "Chicken Saltimbocca",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-saltimbocca",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43747186",
+      "food_name": "Sweet Potato Souffle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/sweet-potato-souffle",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55049917",
+      "food_name": "Grilled Chicken Breast with Teriyaki Glaze",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/grilled-chicken-breast-with-teriyaki-glaze",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70795537",
+      "food_name": "Garlic Herb Butter Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/garlic-herb-butter-salmon",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49726052",
+      "food_name": "Farmhouse Potato Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/farmhouse-potato-soup",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67755708",
+      "food_name": "Tuscan-Style Sausage Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/tuscan-style-sausage-soup",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76946045",
+      "food_name": "Cheesy Beef Taco Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/cheesy-beef-taco-pasta",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45278449",
+      "food_name": "Beef Chili with Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/beef-chili-with-beans",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61271273",
+      "food_name": "Grilled Lemon Basil Chicken with Roasted Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/grilled-lemon-basil-chicken-with-roasted-potatoes",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74728279",
+      "food_name": "Beef and Pork Bolognese Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/beef-and-pork-bolognese-pasta",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55024404",
+      "food_name": "Chicken Paillard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-paillard",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67359086",
+      "food_name": "Sweet Chili Pork & Broccoli Stir-Fry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/sweet-chili-pork-broccoli-stir-fry",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74644428",
+      "food_name": "Beef Ragout & Pappardelle Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/beef-ragout-pappardelle-pasta",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67371952",
+      "food_name": "Zesty Chicken Tortilla Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/zesty-chicken-tortilla-soup",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82173707",
+      "food_name": "Teriyaki Flavored Beef with Udon Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/teriyaki-flavored-beef-with-udon-noodles",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53597324",
+      "food_name": "Blackened White Meat Chicken with Mashed Potatoes & Sweet Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/blackened-white-meat-chicken-with-mashed-potatoes-sweet-corn",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90355608",
+      "food_name": "Mozzarella-Stuffed Beef Meatloaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/mozzarella-stuffed-beef-meatloaf",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54480950",
+      "food_name": "Hot Honey Crispy Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/hot-honey-crispy-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75844563",
+      "food_name": "Scalloped Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/scalloped-potatoes",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74428925",
+      "food_name": "Teriyaki Salmon Rice Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/teriyaki-salmon-rice-bowl",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74928094",
+      "food_name": "Pork Pozole Soup with Hominy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/pork-pozole-soup-with-hominy",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82786223",
+      "food_name": "Italian Sausage & Onion Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/italian-sausage-onion-pizza",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73946876",
+      "food_name": "Chicken Fettuccine Alfredo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-fettuccine-alfredo",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91715324",
+      "food_name": "Minestrone Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/minestrone-soup",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55800012",
+      "food_name": "Tomato Bisque",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/tomato-bisque",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38174655",
+      "food_name": "Grilled Chicken with BBQ Sauce & Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/grilled-chicken-with-bbq-sauce-mashed-potatoes",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95070116",
+      "food_name": "Chicken Street Taco Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-street-taco-kit",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42506218",
+      "food_name": "Turkey Burrito Skillet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/turkey-burrito-skillet",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70582274",
+      "food_name": "Pepperoni & Mozzarella Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/pepperoni-mozzarella-flatbread",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33931340",
+      "food_name": "Japanese Steak Bento Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/japanese-steak-bento-bowl",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73347006",
+      "food_name": "Cavatappi & Beef Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/cavatappi-beef-meatballs",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93054823",
+      "food_name": "Baja Inspired Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/baja-inspired-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68718072",
+      "food_name": "Sun-Dried Tomato Shrimp Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/sun-dried-tomato-shrimp-pasta",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48992296",
+      "food_name": "Lasagna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/lasagna",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727607",
+      "food_name": "Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/pepperoni-pizza",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51283746",
+      "food_name": "Grilled Pesto Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/grilled-pesto-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46584447",
+      "food_name": "BBQ Pulled Pork Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/bbq-pulled-pork-tacos",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36867985",
+      "food_name": "Chicken Parmigiana",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-parmigiana",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59297996",
+      "food_name": "Creamy Garlic Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/creamy-garlic-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52274328",
+      "food_name": "Creamy Macaroni & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/creamy-macaroni-cheese",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49567219",
+      "food_name": "Sweet Chili Ginger Pork & Broccoli Stir Fry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/sweet-chili-ginger-pork-broccoli-stir-fry",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44912682",
+      "food_name": "Classic Chicken Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/classic-chicken-noodle-soup",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98889451",
+      "food_name": "Ricotta and Spinach Raviolis with Marinara Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/ricotta-and-spinach-raviolis-with-marinara-sauce",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81294496",
+      "food_name": "Creamy Gnocchi Soup with Spinach and Parmesan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/creamy-gnocchi-soup-with-spinach-and-parmesan",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39766952",
+      "food_name": "Steak with Garlic Chive Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/steak-with-garlic-chive-butter",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40945444",
+      "food_name": "Cajun Shrimp Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/cajun-shrimp-tacos",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70102235",
+      "food_name": "Chipotle Ground Turkey Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chipotle-ground-turkey-tacos",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70878746",
+      "food_name": "Chicken Bowl with Teriyaki Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-bowl-with-teriyaki-sauce",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69295339",
+      "food_name": "Cheddar BBQ Chicken Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/cheddar-bbq-chicken-tacos",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69469588",
+      "food_name": "Philly Cheesesteak Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/philly-cheesesteak-pizza",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82884007",
+      "food_name": "Breaded Chicken with Penne Marinara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/breaded-chicken-with-penne-marinara",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84298959",
+      "food_name": "Cheeseburger Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/cheeseburger-pizza",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97225853",
+      "food_name": "Chimichurri Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chimichurri-salmon",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25026684",
+      "food_name": "Marsala Mushroom Smothered Pork Chops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/marsala-mushroom-smothered-pork-chops",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82000418",
+      "food_name": "One-Pan Buffalo-Style Chicken Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/one-pan-buffalo-style-chicken-quesadilla",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37345280",
+      "food_name": "Pork Egg Roll in A Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/pork-egg-roll-in-a-bowl",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78602681",
+      "food_name": "Green Chicken Enchiladas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/green-chicken-enchiladas",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88477494",
+      "food_name": "Chipotle Chicken Empanadas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chipotle-chicken-empanadas",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35065530",
+      "food_name": "Blackened Chicken Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/blackened-chicken-strips",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54410359",
+      "food_name": "Southwest-Style Guacamole Steak Taco Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/southwest-style-guacamole-steak-taco-salad",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61215066",
+      "food_name": "Chicken & Feta Gyros",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-feta-gyros",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47942619",
+      "food_name": "Hoisin-Ginger Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/hoisin-ginger-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44994397",
+      "food_name": "Mojo Pork Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/mojo-pork-tacos",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75683500",
+      "food_name": "Cheesy Spinach Artichoke Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/cheesy-spinach-artichoke-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80396166",
+      "food_name": "Italian Sausage and Red Pepper Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/italian-sausage-and-red-pepper-pasta",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42569318",
+      "food_name": "Broccoli Cheddar Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/broccoli-cheddar-soup",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46329045",
+      "food_name": "Chicken Kiev",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-kiev",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70358160",
+      "food_name": "Florentine-Style Chicken & Tomato Penne",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/florentine-style-chicken-tomato-penne",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68004886",
+      "food_name": "Szechuan-Style Pork Noodle Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/szechuan-style-pork-noodle-bowl",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64300337",
+      "food_name": "Lemon Shrimp Alfredo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/lemon-shrimp-alfredo",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30550311",
+      "food_name": "Sunday Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/sunday-beef-pot-roast",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87342399",
+      "food_name": "Butter Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/butter-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25628320",
+      "food_name": "Chicken Dijonnaise",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-dijonnaise",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61143403",
+      "food_name": "Beef Bowl with General Tso's Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/beef-bowl-with-general-tsos-sauce",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66125610",
+      "food_name": "Indian-Style Chicken Curry Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/indian-style-chicken-curry-soup",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45987571",
+      "food_name": "Apricot & Onion-Crusted Pork Chop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/apricot-onion-crusted-pork-chop",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46918442",
+      "food_name": "Fire-Roasted Beef & Poblano Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/fire-roasted-beef-poblano-chili",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79294437",
+      "food_name": "Broccoli Cheddar Stuffed Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/broccoli-cheddar-stuffed-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80079375",
+      "food_name": "Asian Bbq Style Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/asian-bbq-style-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80867534",
+      "food_name": "Creamy Garlic Pork Medallions with Bacon Honey Mustard Brussels Sprouts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/creamy-garlic-pork-medallions-with-bacon-honey-mustard-brussels-sprouts",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85541655",
+      "food_name": "Popcorn Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/popcorn-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27689401",
+      "food_name": "Acapulco Fajita Beef Skillet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/acapulco-fajita-beef-skillet",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44822820",
+      "food_name": "Garlic-Ginger Shrimp & Coconut Risotto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/garlic-ginger-shrimp-coconut-risotto",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52746290",
+      "food_name": "Creamy Garlic Parmesan Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/creamy-garlic-parmesan-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58556712",
+      "food_name": "Fajita Chicken with Yellow Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/fajita-chicken-with-yellow-rice",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55700186",
+      "food_name": "Lemon Pepper Chicken with Rice & Honey Roasted Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/lemon-pepper-chicken-with-rice-honey-roasted-carrots",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39736203",
+      "food_name": "Parmesan-Crusted Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/parmesan-crusted-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72110550",
+      "food_name": "Lemon and Herb Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/lemon-and-herb-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74581977",
+      "food_name": "Parmesan Breaded Chicken Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/parmesan-breaded-chicken-bites",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79477241",
+      "food_name": "Creamy Butternut Squash and Sausage Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/creamy-butternut-squash-and-sausage-soup",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75991439",
+      "food_name": "Chicken Chili Verde Soup with Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-chili-verde-soup-with-beans",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "102740681",
+      "food_name": "Chicken Burrito Bowl Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-burrito-bowl-kit",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68465163",
+      "food_name": "Sunday Braised Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/sunday-braised-beef",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26845145",
+      "food_name": "Chicken with Poblano Cream Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-with-poblano-cream-sauce",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44412117",
+      "food_name": "Pulled Pork Enchilada Skillet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/pulled-pork-enchilada-skillet",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45666931",
+      "food_name": "Gourmet Chicken Grain Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/gourmet-chicken-grain-bowl",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46107764",
+      "food_name": "Pork & Tomatillo Chili Verde",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/pork-tomatillo-chili-verde",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37685437",
+      "food_name": "Creamy Basil Pesto Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/creamy-basil-pesto-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98240832",
+      "food_name": "Pepperoni & Banana Pepper Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/pepperoni-banana-pepper-pizza",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57166575",
+      "food_name": "Creamy Sun-Dried Tomato Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/creamy-sun-dried-tomato-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64687037",
+      "food_name": "Souvlaki-Style Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/souvlaki-style-chicken-breast",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47202899",
+      "food_name": "Italian Sausage Cowboy Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/italian-sausage-cowboy-pie",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70729609",
+      "food_name": "Italian Sausage-Stuffed Pizza Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/italian-sausage-stuffed-pizza-peppers",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72541775",
+      "food_name": "Honey Mustard Baked Salmon with Garlic Mashed Potatoes and Brussels Sprouts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/honey-mustard-baked-salmon-with-garlic-mashed-potatoes-and-brussels-sprouts",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73050199",
+      "food_name": "Mozzarella & Turkey Meatloaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/mozzarella-turkey-meatloaf",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101411948",
+      "food_name": "Beef Meatloaf with Loaded Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/beef-meatloaf-with-loaded-mashed-potatoes",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22337110",
+      "food_name": "Ranch-Crusted Pork Chop with Green Beans & Tomato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/ranch-crusted-pork-chop-with-green-beans-tomato",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43921352",
+      "food_name": "Chicken Tikka Masala with Basmati Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-tikka-masala-with-basmati-rice",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44337180",
+      "food_name": "Salmon with Cranberry Chutney & Roasted Butternut Squash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/salmon-with-cranberry-chutney-roasted-butternut-squash",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54777756",
+      "food_name": "Mushroom & Swiss Beef Cavatappi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/mushroom-swiss-beef-cavatappi",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68405348",
+      "food_name": "Southwest-Style Chicken Caesar Lettuce Wraps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/southwest-style-chicken-caesar-lettuce-wraps",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38895142",
+      "food_name": "Cuban Avocado Black Bean Quinoa Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/cuban-avocado-black-bean-quinoa-bowl",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48484053",
+      "food_name": "Herbes De Provence Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/herbes-de-provence-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36781103",
+      "food_name": "Pork Tenderloin Marsala with Roasted Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/pork-tenderloin-marsala-with-roasted-broccoli",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936034",
+      "food_name": "Cranberry BBQ Turkey Meatloaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/cranberry-bbq-turkey-meatloaf",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70553309",
+      "food_name": "Italian-Style Supreme Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/italian-style-supreme-pizza",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70684769",
+      "food_name": "Beef & Poblano Tamale Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/beef-poblano-tamale-pie",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62964884",
+      "food_name": "BBQ Chicken & Ranch Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/bbq-chicken-ranch-salad",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50123150",
+      "food_name": "Cilantro Lime Chicken & Rice with Corn Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/cilantro-lime-chicken-rice-with-corn-salsa",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38140785",
+      "food_name": "Chimichurri Steak Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chimichurri-steak-flatbread",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45706698",
+      "food_name": "Garlic-Sesame Steak Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/garlic-sesame-steak-noodles",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45858461",
+      "food_name": "Pork Shumai Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/pork-shumai-meatballs",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35583610",
+      "food_name": "Steak Strip Marsala Risotto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/steak-strip-marsala-risotto",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81104081",
+      "food_name": "Five Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/five-cheese-pizza",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45749381",
+      "food_name": "Bo Ssam Korean Fish Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/bo-ssam-korean-fish-cakes",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54051743",
+      "food_name": "Sweet Chili Ginger Chicken Lettuce Cups",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/sweet-chili-ginger-chicken-lettuce-cups",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66577300",
+      "food_name": "Chesapeake-Style Shrimp Pot Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chesapeake-style-shrimp-pot-pie",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39586678",
+      "food_name": "Greek Spinach & Feta Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/greek-spinach-feta-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34147309",
+      "food_name": "Sausage & Mushroom Stuffed Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/sausage-mushroom-stuffed-peppers",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37868953",
+      "food_name": "Chicken Teriyaki Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-teriyaki-bowl",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80701724",
+      "food_name": "Slow Cooked Braised Beef with Mashed Potatoesn Burgundy Sauce, Carrots and Truffle Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/slow-cooked-braised-beef-with-mashed-potatoesn-burgundy-sauce-carrots-and-truffle-butter",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81875876",
+      "food_name": "Creamy Garlic Turkey Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/creamy-garlic-turkey-breast",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66543958",
+      "food_name": "Cheesy Tex-Mex Style Chicken Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/cheesy-tex-mex-style-chicken-pasta",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68638953",
+      "food_name": "Salsa Chicken Enchiladas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/salsa-chicken-enchiladas",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40877843",
+      "food_name": "Piri Piri Chicken & Feta with Lemon-Herb Green Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/piri-piri-chicken-feta-with-lemon-herb-green-beans",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43304485",
+      "food_name": "Mushroom-Smothered Salisbury Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/mushroom-smothered-salisbury-steak",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45705994",
+      "food_name": "Bacon & Gruyere-Crusted Pork Chop with Honey Mustard Green Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/bacon-gruyere-crusted-pork-chop-with-honey-mustard-green-beans",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46537837",
+      "food_name": "Coconut Jasmine Rice Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/coconut-jasmine-rice-bowl",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70478686",
+      "food_name": "Spicy Chipotle BBQ Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/spicy-chipotle-bbq-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69828650",
+      "food_name": "Steak Strip Fajita Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/steak-strip-fajita-tacos",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43701143",
+      "food_name": "Salmon with Brown-Butter Tomato Relish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/salmon-with-brown-butter-tomato-relish",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44533096",
+      "food_name": "Basil Parmesan Chicken with Zucchini & Grape Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/basil-parmesan-chicken-with-zucchini-grape-tomatoes",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52744983",
+      "food_name": "Pesto Chicken Sicilian Style Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/pesto-chicken-sicilian-style-pizza",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53268383",
+      "food_name": "Bruschetta Chicken Fettuccine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/bruschetta-chicken-fettuccine",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53949327",
+      "food_name": "Sliced Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/sliced-steak",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54935044",
+      "food_name": "Santa Fe Pork & Potato Stew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/santa-fe-pork-potato-stew",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60666170",
+      "food_name": "Lemon Chicken Couscous Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/lemon-chicken-couscous-soup",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50182663",
+      "food_name": "Shrimp Campanelle Primavera",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/shrimp-campanelle-primavera",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55763566",
+      "food_name": "Bacon Florentine Pork Medallions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/bacon-florentine-pork-medallions",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40939885",
+      "food_name": "Cheddar Bacon Crusted Chicken with Ranch Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/cheddar-bacon-crusted-chicken-with-ranch-potatoes",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40999006",
+      "food_name": "Steak Au Poivre with Roasted Onion Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/steak-au-poivre-with-roasted-onion-mashed-potatoes",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46665474",
+      "food_name": "Chicken & Tuscan Herb Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-tuscan-herb-sauce",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34497884",
+      "food_name": "Chicken Scampi Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-scampi-spaghetti",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37644388",
+      "food_name": "Pimento Cheese Steak Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/pimento-cheese-steak-sandwich",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25978131",
+      "food_name": "Chicken Taco Stuffed Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-taco-stuffed-peppers",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95986515",
+      "food_name": "Pineapple Under The Sea Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/pineapple-under-the-sea-burger",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104163747",
+      "food_name": "Pepperoni and Cheese Calzone",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/pepperoni-and-cheese-calzone",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22461130",
+      "food_name": "Creamy Parmesan Steak Penne",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/creamy-parmesan-steak-penne",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54194927",
+      "food_name": "Sirloin Steak with White Wine Demi-Glace",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/sirloin-steak-with-white-wine-demi-glace",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55051495",
+      "food_name": "Korean-Style Steak Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/korean-style-steak-tacos",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60229134",
+      "food_name": "Blue Cheese-Crusted Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/blue-cheese-crusted-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60944620",
+      "food_name": "Apple Cider Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/apple-cider-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52389449",
+      "food_name": "Classic Chicken Fajitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/classic-chicken-fajitas",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47943882",
+      "food_name": "Baked French Onion Penne",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/baked-french-onion-penne",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38342413",
+      "food_name": "Japanese Steak Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/japanese-steak-tacos",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39471480",
+      "food_name": "Peach BBQ Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/peach-bbq-chicken-breast",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39583740",
+      "food_name": "French Onion Crusted Beef Meatloaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/french-onion-crusted-beef-meatloaf",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44522346",
+      "food_name": "Crispy Onion-Crusted Chicken with Creamy Mushroom Sauce & Green Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/crispy-onion-crusted-chicken-with-creamy-mushroom-sauce-green-beans",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44913056",
+      "food_name": "BBQ Cheddar Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/bbq-cheddar-meatballs",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32273717",
+      "food_name": "Crispy Orange Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/crispy-orange-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46867872",
+      "food_name": "Roasted Salmon with Ginger-Scallion Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/roasted-salmon-with-ginger-scallion-sauce",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68736122",
+      "food_name": "Philly-Style Beef Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/philly-style-beef-chowder",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82014984",
+      "food_name": "Chicken and Vegetables Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-and-vegetables-tacos",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53761135",
+      "food_name": "Chicken Scallopini & Lemon Herb Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-scallopini-lemon-herb-butter",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54853153",
+      "food_name": "Picadillo Pork Stuffed Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/picadillo-pork-stuffed-peppers",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49871712",
+      "food_name": "Cherry Glazed Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/cherry-glazed-grilled-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38568728",
+      "food_name": "Rigatoni Meatball Bake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/rigatoni-meatball-bake",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38575261",
+      "food_name": "Honey-Ginger Chicken Katsu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/honey-ginger-chicken-katsu",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41749355",
+      "food_name": "Beef Stroganoff Penne",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/beef-stroganoff-penne",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46623986",
+      "food_name": "Chicken Lorraine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-lorraine",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47057057",
+      "food_name": "Marsala Mushroom Chicken Skillet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/marsala-mushroom-chicken-skillet",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49251357",
+      "food_name": "Grilled BBQ Chicken with Green Beans & Onions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/grilled-bbq-chicken-with-green-beans-onions",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46072811",
+      "food_name": "Orange Chicken Lettuce Wraps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/orange-chicken-lettuce-wraps",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42601281",
+      "food_name": "Steak with Horseradish Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/steak-with-horseradish-butter",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75845184",
+      "food_name": "Roasted Chicken Wings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/roasted-chicken-wings",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80302244",
+      "food_name": "One-Pot Creamy Poblano and Chicken Thigh Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/one-pot-creamy-poblano-and-chicken-thigh-soup",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84349513",
+      "food_name": "Italian Sausage Fettuccine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/italian-sausage-fettuccine",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98000894",
+      "food_name": "Cheesy Pasta with Chicken and Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/cheesy-pasta-with-chicken-and-broccoli",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101295383",
+      "food_name": "Lemon Chicken and Quinoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/lemon-chicken-and-quinoa",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93293852",
+      "food_name": "Pretzel Crusted Pork Medallions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/pretzel-crusted-pork-medallions",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23665836",
+      "food_name": "Ginger Steak & Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/ginger-steak-peppers",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53936771",
+      "food_name": "Shrimp Chile Verde Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/shrimp-chile-verde-tacos",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54029796",
+      "food_name": "Garlic Pepper Chicken & Honey BBQ Sauce with Cheddar Bacon Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/garlic-pepper-chicken-honey-bbq-sauce-with-cheddar-bacon-broccoli",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54523540",
+      "food_name": "Mediterranean-Style Steak Strip Wraps with Dill Crema",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/mediterranean-style-steak-strip-wraps-with-dill-crema",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55233981",
+      "food_name": "Mushroom-Smothered Turkey Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/mushroom-smothered-turkey-meatballs",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58769813",
+      "food_name": "Sunday Beef Pot Roast with Roasted Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/sunday-beef-pot-roast-with-roasted-vegetables",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62598594",
+      "food_name": "Peach Balsamic Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/peach-balsamic-salmon",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38027551",
+      "food_name": "Tomato Cream Shrimp Campanelle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/tomato-cream-shrimp-campanelle",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43432693",
+      "food_name": "Blackened Pork Tenderloin in Adobo Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/blackened-pork-tenderloin-in-adobo-cream",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43996250",
+      "food_name": "Honey Garlic Chicken with Broccoli & Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/honey-garlic-chicken-with-broccoli-carrots",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44138676",
+      "food_name": "Blackened Scallop Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/blackened-scallop-pasta",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44141460",
+      "food_name": "Thai Fish Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/thai-fish-cakes",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44619376",
+      "food_name": "Rockefeller Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/rockefeller-salmon",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45987344",
+      "food_name": "Cheddar & Bacon-Crusted Chicken with Caramelized Onion Roasted Zucchini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/cheddar-bacon-crusted-chicken-with-caramelized-onion-roasted-zucchini",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45988374",
+      "food_name": "Steak with Tuscan Corn Sauté",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/steak-with-tuscan-corn-saut%C3%A9",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46683755",
+      "food_name": "Turkey & Butternut Squash Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/turkey-butternut-squash-chili",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42194958",
+      "food_name": "Roasted Red Pepper Chicken with Onion Jam Brussels Sprouts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/roasted-red-pepper-chicken-with-onion-jam-brussels-sprouts",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70827075",
+      "food_name": "Creamy Blackened Chicken Thigh Alfredo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/creamy-blackened-chicken-thigh-alfredo",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71395557",
+      "food_name": "Hawaiian-Style Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/hawaiian-style-pizza",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68718590",
+      "food_name": "Fiesta Shrimp Street Corn Risotto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/fiesta-shrimp-street-corn-risotto",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69375356",
+      "food_name": "Brussels Sprouts and Brown Butter Risotto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/brussels-sprouts-and-brown-butter-risotto",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76428622",
+      "food_name": "Chicken with Fig Bacon Jam",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-with-fig-bacon-jam",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103511671",
+      "food_name": "Hearty Turkey and Root Vegetable Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/hearty-turkey-and-root-vegetable-chowder",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103645980",
+      "food_name": "Breaded Pork Chops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/breaded-pork-chops",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52480793",
+      "food_name": "Pecan Butter Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/pecan-butter-salmon",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53345820",
+      "food_name": "Tzatziki Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/tzatziki-salmon",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65951643",
+      "food_name": "Guacamole Crema Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/guacamole-crema-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67269466",
+      "food_name": "Sunday Beef Pot Roast (340g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/sunday-beef-pot-roast-(340g)",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67853641",
+      "food_name": "Classic Chicken Piccata",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/classic-chicken-piccata",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59755138",
+      "food_name": "Sofrito Turkey Stuffed Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/sofrito-turkey-stuffed-peppers",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41301219",
+      "food_name": "Shrimp De Jonghe Penne",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/shrimp-de-jonghe-penne",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46784705",
+      "food_name": "Crispy Prosciutto & Pesto Penne",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/crispy-prosciutto-pesto-penne",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47601716",
+      "food_name": "Bacon & Green Onion-Crusted Steak with Loaded Cheddar-Jack Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/bacon-green-onion-crusted-steak-with-loaded-cheddar-jack-potatoes",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45821079",
+      "food_name": "Pineapple Pepper Jelly Pork Chops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/pineapple-pepper-jelly-pork-chops",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45987901",
+      "food_name": "Greek Herb Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/greek-herb-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37716943",
+      "food_name": "Salmon Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/salmon-tacos",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70880220",
+      "food_name": "BBQ Brisket with Cheesy Grits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/bbq-brisket-with-cheesy-grits",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69759588",
+      "food_name": "Pork Spring Roll Skillet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/pork-spring-roll-skillet",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81574352",
+      "food_name": "Beef Cheddar Melt and Potato Wedges",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/beef-cheddar-melt-and-potato-wedges",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62457153",
+      "food_name": "Cheesy Italian Bolognese Risotto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/cheesy-italian-bolognese-risotto",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50064430",
+      "food_name": "Turkey & Guacamole Tostadas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/turkey-guacamole-tostadas",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65737013",
+      "food_name": "Skinny Taste Basil Parmesan Crusted Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/skinny-taste-basil-parmesan-crusted-salmon",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40505617",
+      "food_name": "Crispy Boom Boom Shrimp Rice Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/crispy-boom-boom-shrimp-rice-bowl",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46107837",
+      "food_name": "Goat Cheese & Lemon Buttered Sirloin Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/goat-cheese-lemon-buttered-sirloin-steak",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20502527",
+      "food_name": "Shrimp Farfalle Calabrese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/shrimp-farfalle-calabrese",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70849508",
+      "food_name": "Spicy Chipotle Mac Penne",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/spicy-chipotle-mac-penne",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75240769",
+      "food_name": "Chicken Breast with Cilantro Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-breast-with-cilantro-butter",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69161063",
+      "food_name": "Chicken Scaloppini with Roasted Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-scaloppini-with-roasted-potatoes",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79210017",
+      "food_name": "Chipotle-Lime Chicken Cutlet with Squashlotes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chipotle-lime-chicken-cutlet-with-squashlotes",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79895306",
+      "food_name": "Steak Strip and Gnocchi Gratin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/steak-strip-and-gnocchi-gratin",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87390744",
+      "food_name": "Mexican Style Street Corn Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/mexican-style-street-corn-flatbread",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85620544",
+      "food_name": "Roasted Garlic Butter Sirloin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/roasted-garlic-butter-sirloin",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44578020",
+      "food_name": "Creamy Truffle Steak Penne",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/creamy-truffle-steak-penne",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44581177",
+      "food_name": "Creamy Truffle Chicken Skillet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/creamy-truffle-chicken-skillet",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54442292",
+      "food_name": "Dijon-Cider Vinaigrette Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/dijon-cider-vinaigrette-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65031493",
+      "food_name": "Fig Mostarda Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/fig-mostarda-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62067855",
+      "food_name": "Swiss Chicken with Honey Mustard Green Beans & Crispy Onions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/swiss-chicken-with-honey-mustard-green-beans-crispy-onions",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31995059",
+      "food_name": "Chicken Adobo Flautas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/chicken-adobo-flautas",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47276528",
+      "food_name": "Teriyaki Steak Pad Thai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/teriyaki-steak-pad-thai",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33807987",
+      "food_name": "Asiago Turkey Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/asiago-turkey-meatballs",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25728609",
+      "food_name": "Hot Honey Salmon with Zucchini & Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/hot-honey-salmon-with-zucchini-tomatoes",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72693370",
+      "food_name": "Finger Lickin' Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/finger-lickin-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73947682",
+      "food_name": "Loaded Cavatappi & Cheese with Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/loaded-cavatappi-cheese-with-chicken",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85817011",
+      "food_name": "Piri-Piri Steak Strip Naan Wraps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/piri-piri-steak-strip-naan-wraps",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106238495",
+      "food_name": "Beef and Cheese Empanadas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/beef-and-cheese-empanadas",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106216320",
+      "food_name": "Ground Beef Puerto Rican Bake with Plantains",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/home-chef/ground-beef-puerto-rican-bake-with-plantains",
+      "brand_name": "Home Chef",
+      "food_type": "Brand"
+    }
+  ]
+}

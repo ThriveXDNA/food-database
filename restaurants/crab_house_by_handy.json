@@ -1,0 +1,20 @@
+{
+  "restaurant": "Crab House by Handy",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 781,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:43:22.041Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/crab_house_by_handy.json",
+  "items": [
+    {
+      "food_id": "13927631",
+      "food_name": "Crab Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crab-house-by-handy/crab-cakes",
+      "brand_name": "Crab House by Handy",
+      "food_type": "Brand"
+    }
+  ]
+}

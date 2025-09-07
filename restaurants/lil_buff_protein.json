@@ -1,0 +1,20 @@
+{
+  "restaurant": "Lil Buff Protein",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 4191,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:10:52.677Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/lil_buff_protein.json",
+  "items": [
+    {
+      "food_id": "23543440",
+      "food_name": "Original Cake Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lil-buff-protein/original-cake-mix",
+      "brand_name": "Lil Buff Protein",
+      "food_type": "Brand"
+    }
+  ]
+}

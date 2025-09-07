@@ -1,0 +1,27 @@
+{
+  "restaurant": "Kam Yen Jan",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:20:34.557Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kam_yen_jan.json",
+  "items": [
+    {
+      "food_id": "3689148",
+      "food_name": "Chinese Style Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kam-yen-jan/chinese-style-sausage",
+      "brand_name": "Kam Yen Jan",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56268721",
+      "food_name": "Chinese Style Cured Pork Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kam-yen-jan/chinese-style-cured-pork-strips",
+      "brand_name": "Kam Yen Jan",
+      "food_type": "Brand"
+    }
+  ]
+}

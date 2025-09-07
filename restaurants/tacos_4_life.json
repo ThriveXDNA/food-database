@@ -1,0 +1,34 @@
+{
+  "restaurant": "Tacos 4 Life",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 1646,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:30:00.637Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/tacos_4_life.json",
+  "items": [
+    {
+      "food_id": "89064033",
+      "food_name": "Fajita Chicken Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tacos-4-life/fajita-chicken-taco",
+      "brand_name": "Tacos 4 Life",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86019238",
+      "food_name": "Chipotle Steak Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tacos-4-life/chipotle-steak-taco",
+      "brand_name": "Tacos 4 Life",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100446418",
+      "food_name": "Classic Beef Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tacos-4-life/classic-beef-taco",
+      "brand_name": "Tacos 4 Life",
+      "food_type": "Brand"
+    }
+  ]
+}

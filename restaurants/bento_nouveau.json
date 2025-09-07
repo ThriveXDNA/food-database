@@ -1,0 +1,62 @@
+{
+  "restaurant": "Bento Nouveau",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 20,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:41:03.093Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bento_nouveau.json",
+  "items": [
+    {
+      "food_id": "1677379",
+      "food_name": "Spicy Salmon Sushi Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bento-nouveau/spicy-salmon-sushi-roll",
+      "brand_name": "Bento Nouveau",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89138",
+      "food_name": "Inari Sushi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bento-nouveau/inari-sushi",
+      "brand_name": "Bento Nouveau",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75384",
+      "food_name": "Shrimp Fresh Spring Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bento-nouveau/shrimp-fresh-spring-roll",
+      "brand_name": "Bento Nouveau",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61132",
+      "food_name": "Kappamaki Cucumber Sushi Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bento-nouveau/kappamaki-cucumber-sushi-roll",
+      "brand_name": "Bento Nouveau",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57288",
+      "food_name": "Vegetarian Futomaki Sushi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bento-nouveau/vegetarian-futomaki-sushi",
+      "brand_name": "Bento Nouveau",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47997",
+      "food_name": "Vegetable Fresh Spring Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bento-nouveau/vegetable-fresh-spring-roll",
+      "brand_name": "Bento Nouveau",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75385",
+      "food_name": "Brown Rice Vegetarian California Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bento-nouveau/brown-rice-vegetarian-california-roll",
+      "brand_name": "Bento Nouveau",
+      "food_type": "Brand"
+    }
+  ]
+}

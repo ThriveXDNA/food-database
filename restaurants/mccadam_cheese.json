@@ -1,0 +1,41 @@
+{
+  "restaurant": "McCadam Cheese",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 12080,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:21:37.237Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mccadam_cheese.json",
+  "items": [
+    {
+      "food_id": "427835",
+      "food_name": "Extra Sharp New York Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mccadam-cheese/extra-sharp-new-york-cheddar-cheese",
+      "brand_name": "McCadam Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "436362",
+      "food_name": "New York Muenster Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mccadam-cheese/new-york-muenster-cheese",
+      "brand_name": "McCadam Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "427836",
+      "food_name": "Wicked Sharp Adirondack New York Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mccadam-cheese/wicked-sharp-adirondack-new-york-cheddar-cheese",
+      "brand_name": "McCadam Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "436377",
+      "food_name": "Sharp New York Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mccadam-cheese/sharp-new-york-cheddar-cheese",
+      "brand_name": "McCadam Cheese",
+      "food_type": "Brand"
+    }
+  ]
+}

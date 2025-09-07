@@ -1,0 +1,76 @@
+{
+  "restaurant": "The Coffee Bean and Tea",
+  "total_items": 9,
+  "pages_extracted": 6,
+  "total_search_results": 8508,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:07:03.280Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_coffee_bean_and_tea.json",
+  "items": [
+    {
+      "food_id": "41558",
+      "food_name": "Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-coffee-bean-and-tea/green-tea",
+      "brand_name": "The Coffee Bean and Tea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41540",
+      "food_name": "Winter Dream Tea Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-coffee-bean-and-tea/winter-dream-tea-latte",
+      "brand_name": "The Coffee Bean and Tea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171802",
+      "food_name": "Moroccan Mint Tea Latte with Chocolate Powder - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/moroccan-mint-tea-latte-with-chocolate-powder-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171805",
+      "food_name": "Moroccan Mint Tea Latte with Chocolate Powder - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/moroccan-mint-tea-latte-with-chocolate-powder-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172077",
+      "food_name": "Iced Moroccan Mint Tea Latte with Chocolate - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-moroccan-mint-tea-latte-with-chocolate-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172079",
+      "food_name": "Iced Moroccan Mint Tea Latte with Chocolate - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-moroccan-mint-tea-latte-with-chocolate-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171803",
+      "food_name": "Moroccan Mint Tea Latte with Chocolate Powder - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/moroccan-mint-tea-latte-with-chocolate-powder-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172073",
+      "food_name": "Iced Moroccan Mint Tea Latte with Chocolate - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-moroccan-mint-tea-latte-with-chocolate-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172081",
+      "food_name": "Iced Moroccan Mint Tea Latte with Chocolate - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-moroccan-mint-tea-latte-with-chocolate-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    }
+  ]
+}

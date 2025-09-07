@@ -1,0 +1,83 @@
+{
+  "restaurant": "Joyva",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:12:25.371Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/joyva.json",
+  "items": [
+    {
+      "food_id": "59546",
+      "food_name": "Sesame Tahini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joyva/sesame-tahini",
+      "brand_name": "Joyva",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2578259",
+      "food_name": "Jelly Rings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joyva/jelly-rings",
+      "brand_name": "Joyva",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1058512",
+      "food_name": "Marble Halvah",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joyva/marble-halvah",
+      "brand_name": "Joyva",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "570807",
+      "food_name": "Chocolate Covered Marshmallow Twists",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joyva/chocolate-covered-marshmallow-twists",
+      "brand_name": "Joyva",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "821072",
+      "food_name": "Chocolate Covered Halvah",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joyva/chocolate-covered-halvah",
+      "brand_name": "Joyva",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56853185",
+      "food_name": "Chocolate Covered Jelle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joyva/chocolate-covered-jelle",
+      "brand_name": "Joyva",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "321835",
+      "food_name": "Sesame Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joyva/sesame-crunch",
+      "brand_name": "Joyva",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100512360",
+      "food_name": "Marshmallow Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joyva/marshmallow-puffs",
+      "brand_name": "Joyva",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2769834",
+      "food_name": "Sesame Crunch Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joyva/sesame-crunch-bar",
+      "brand_name": "Joyva",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1134495",
+      "food_name": "Original Halvah",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joyva/original-halvah",
+      "brand_name": "Joyva",
+      "food_type": "Brand"
+    }
+  ]
+}

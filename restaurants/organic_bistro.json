@@ -1,0 +1,62 @@
+{
+  "restaurant": "Organic Bistro",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 5610,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:11:31.245Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/organic_bistro.json",
+  "items": [
+    {
+      "food_id": "1752551",
+      "food_name": "Thai Style Yellow Curry with Chicken Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/organic-bistro/thai-style-yellow-curry-with-chicken-bowl",
+      "brand_name": "Organic Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3529454",
+      "food_name": "Wild Alaskan Salmon Bake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/organic-bistro/wild-alaskan-salmon-bake",
+      "brand_name": "Organic Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1700911",
+      "food_name": "Thai Style Red Curry with Beef Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/organic-bistro/thai-style-red-curry-with-beef-bowl",
+      "brand_name": "Organic Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1699708",
+      "food_name": "Pasta Puttanesca Meal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/organic-bistro/pasta-puttanesca-meal",
+      "brand_name": "Organic Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1819204",
+      "food_name": "Sesame Ginger Wild Salmon Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/organic-bistro/sesame-ginger-wild-salmon-bowl",
+      "brand_name": "Organic Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2529888",
+      "food_name": "Wild Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/organic-bistro/wild-salmon",
+      "brand_name": "Organic Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5040902",
+      "food_name": "Chicken Parmesan Bake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/organic-bistro/chicken-parmesan-bake",
+      "brand_name": "Organic Bistro",
+      "food_type": "Brand"
+    }
+  ]
+}

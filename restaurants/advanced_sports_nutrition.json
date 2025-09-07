@@ -1,0 +1,34 @@
+{
+  "restaurant": "Advanced Sports Nutrition",
+  "total_items": 3,
+  "pages_extracted": 4,
+  "total_search_results": 179,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:04:34.445Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/advanced_sports_nutrition.json",
+  "items": [
+    {
+      "food_id": "30096964",
+      "food_name": "Whey Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/advanced-sports-nutrition/whey-protein",
+      "brand_name": "Advanced Sports Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12913735",
+      "food_name": "Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/advanced-sports-nutrition/protein-bar",
+      "brand_name": "Advanced Sports Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40061472",
+      "food_name": "Advanced Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/advanced-sports-nutrition/advanced-protein-bar",
+      "brand_name": "Advanced Sports Nutrition",
+      "food_type": "Brand"
+    }
+  ]
+}

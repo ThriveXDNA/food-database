@@ -1,0 +1,20 @@
+{
+  "restaurant": "Fractured Prune",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 15,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:44:26.352Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fractured_prune.json",
+  "items": [
+    {
+      "food_id": "7504361",
+      "food_name": "Cake Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fractured-prune/cake-donut",
+      "brand_name": "Fractured Prune",
+      "food_type": "Brand"
+    }
+  ]
+}

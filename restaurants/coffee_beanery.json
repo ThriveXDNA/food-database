@@ -1,0 +1,20 @@
+{
+  "restaurant": "Coffee Beanery",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 1631,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:40:12.821Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/coffee_beanery.json",
+  "items": [
+    {
+      "food_id": "70175",
+      "food_name": "Cafe Carmel (Tall)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-beanery/cafe-carmel-(tall)",
+      "brand_name": "Coffee Beanery",
+      "food_type": "Brand"
+    }
+  ]
+}

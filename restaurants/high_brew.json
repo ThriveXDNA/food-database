@@ -1,0 +1,62 @@
+{
+  "restaurant": "High Brew",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 941,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:09:18.075Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/high_brew.json",
+  "items": [
+    {
+      "food_id": "16343023",
+      "food_name": "Cold Brew Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/high-brew/cold-brew-coffee",
+      "brand_name": "High Brew",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77174333",
+      "food_name": "Cold Brew Coffee (13.5oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/high-brew/cold-brew-coffee-(135oz)",
+      "brand_name": "High Brew",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9418699",
+      "food_name": "Cold Brew Double Espresso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/high-brew/cold-brew-double-espresso",
+      "brand_name": "High Brew",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9419042",
+      "food_name": "Cold Brew Mexican Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/high-brew/cold-brew-mexican-vanilla",
+      "brand_name": "High Brew",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10002836",
+      "food_name": "Cold Brew Coffee Salted Caramel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/high-brew/cold-brew-coffee-salted-caramel",
+      "brand_name": "High Brew",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15505915",
+      "food_name": "Creamy Cappuccino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/high-brew/creamy-cappuccino",
+      "brand_name": "High Brew",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10293398",
+      "food_name": "Cold Brew Dark Chocolate Mocha",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/high-brew/cold-brew-dark-chocolate-mocha",
+      "brand_name": "High Brew",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "restaurant": "Big Spoon Roasters",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 722,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:37:40.872Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/big_spoon_roasters.json",
+  "items": [
+    {
+      "food_id": "57315683",
+      "food_name": "Maple Cinnamon Peanut & Pecan Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-spoon-roasters/maple-cinnamon-peanut-pecan-butter",
+      "brand_name": "Big Spoon Roasters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35610074",
+      "food_name": "Chocolate Sea Salt Almond Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-spoon-roasters/chocolate-sea-salt-almond-butter",
+      "brand_name": "Big Spoon Roasters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50858317",
+      "food_name": "Apricot Pepita Peanut Butter Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-spoon-roasters/apricot-pepita-peanut-butter-bar",
+      "brand_name": "Big Spoon Roasters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68265132",
+      "food_name": "Cashew Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-spoon-roasters/cashew-butter",
+      "brand_name": "Big Spoon Roasters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13057791",
+      "food_name": "Chai Spice Nut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-spoon-roasters/chai-spice-nut-butter",
+      "brand_name": "Big Spoon Roasters",
+      "food_type": "Brand"
+    }
+  ]
+}

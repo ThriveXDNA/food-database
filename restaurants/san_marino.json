@@ -1,0 +1,27 @@
+{
+  "restaurant": "San Marino",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 50,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:07:23.518Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/san_marino.json",
+  "items": [
+    {
+      "food_id": "28155095",
+      "food_name": "Corned Tuna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/san-marino/corned-tuna",
+      "brand_name": "San Marino",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "294415",
+      "food_name": "San Marino Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-attitude/san-marino-mix",
+      "brand_name": "Fresh Attitude",
+      "food_type": "Brand"
+    }
+  ]
+}

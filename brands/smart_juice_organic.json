@@ -1,0 +1,27 @@
+{
+  "brand_name": "Smart Juice Organic",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 7267,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:07:14.548Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/smart_juice_organic.json",
+  "items": [
+    {
+      "food_id": "8850801",
+      "food_name": "Tart Cherry 100% Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smart-juice-organic/tart-cherry-100%25-juice",
+      "brand_name": "Smart Juice Organic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14190386",
+      "food_name": "Organic Pomegranate Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smart-juice-organic/organic-pomegranate-juice",
+      "brand_name": "Smart Juice Organic",
+      "food_type": "Brand"
+    }
+  ]
+}

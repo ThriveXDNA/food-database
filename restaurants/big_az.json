@@ -1,0 +1,55 @@
+{
+  "restaurant": "Big AZ",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 703,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:55:54.283Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/big_az.json",
+  "items": [
+    {
+      "food_id": "18482413",
+      "food_name": "Cheeseburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-az/cheeseburger",
+      "brand_name": "Big AZ",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2577717",
+      "food_name": "Chicken Cheese Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-az/chicken-cheese-sandwich",
+      "brand_name": "Big AZ",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21832961",
+      "food_name": "Spicy Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-az/spicy-chicken-sandwich",
+      "brand_name": "Big AZ",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31523040",
+      "food_name": "Western Style Omelet Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-az/western-style-omelet-wrap",
+      "brand_name": "Big AZ",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27168311",
+      "food_name": "Bacon Addict Cheeseburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-az/bacon-addict-cheeseburger",
+      "brand_name": "Big AZ",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24854462",
+      "food_name": "Biscuit Stacker",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-az/biscuit-stacker",
+      "brand_name": "Big AZ",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Chicago Town",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 524,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:41:40.506Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/chicago_town.json",
+  "items": [
+    {
+      "food_id": "80739",
+      "food_name": "Chocolate Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicago-town/chocolate-cake",
+      "brand_name": "Chicago Town",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21153350",
+      "food_name": "Deep Dish Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicago-town/deep-dish-pepperoni-pizza",
+      "brand_name": "Chicago Town",
+      "food_type": "Brand"
+    }
+  ]
+}

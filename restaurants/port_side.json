@@ -1,0 +1,69 @@
+{
+  "restaurant": "Port Side",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 1002,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:40:29.303Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/port_side.json",
+  "items": [
+    {
+      "food_id": "404477",
+      "food_name": "Chunk Light Tuna in Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-side/chunk-light-tuna-in-water",
+      "brand_name": "Port Side",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28490959",
+      "food_name": "Beer Battered Fish Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-side/beer-battered-fish-fillets",
+      "brand_name": "Port Side",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1231141",
+      "food_name": "Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-side/salmon",
+      "brand_name": "Port Side",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "758603",
+      "food_name": "Crunchy Breaded Fish Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-side/crunchy-breaded-fish-fillets",
+      "brand_name": "Port Side",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9680571",
+      "food_name": "Swai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-side/swai",
+      "brand_name": "Port Side",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2185748",
+      "food_name": "Imitation Crab Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-side/imitation-crab-meat",
+      "brand_name": "Port Side",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1282384",
+      "food_name": "Tilapia",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-side/tilapia",
+      "brand_name": "Port Side",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4072438",
+      "food_name": "Fish Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/port-side/fish-sticks",
+      "brand_name": "Port Side",
+      "food_type": "Brand"
+    }
+  ]
+}

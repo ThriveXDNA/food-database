@@ -1,0 +1,48 @@
+{
+  "restaurant": "Bays",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:54:37.244Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bays.json",
+  "items": [
+    {
+      "food_id": "1151105",
+      "food_name": "Original English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bays/original-english-muffin",
+      "brand_name": "Bays",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1081966",
+      "food_name": "Sourdough English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bays/sourdough-english-muffin",
+      "brand_name": "Bays",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1068754",
+      "food_name": "Multi-Grain English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bays/multi-grain-english-muffin",
+      "brand_name": "Bays",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77093034",
+      "food_name": "Cinnamon Raisin English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bays/cinnamon-raisin-english-muffin",
+      "brand_name": "Bays",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "869847",
+      "food_name": "Honey Wheat English Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bays/honey-wheat-english-muffin",
+      "brand_name": "Bays",
+      "food_type": "Brand"
+    }
+  ]
+}

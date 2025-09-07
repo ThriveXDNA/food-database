@@ -1,0 +1,510 @@
+{
+  "restaurant": "Sprinkles",
+  "total_items": 71,
+  "pages_extracted": 2,
+  "total_search_results": 71,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:08:11.843Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sprinkles.json",
+  "items": [
+    {
+      "food_id": "74857040",
+      "food_name": "Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-corral/sprinkles",
+      "brand_name": "Golden Corral",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72353",
+      "food_name": "Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brachs/sprinkles",
+      "brand_name": "Brach's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74964743",
+      "food_name": "Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freddys-frozen-custard/sprinkles",
+      "brand_name": "Freddy's Frozen Custard",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1151544",
+      "food_name": "Red Velvet Cupcake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sprinkles/red-velvet-cupcake",
+      "brand_name": "Sprinkles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "555831",
+      "food_name": "Chocolate Cupcake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sprinkles/chocolate-cupcake",
+      "brand_name": "Sprinkles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81971716",
+      "food_name": "Red Velvet Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sprinkles/red-velvet-chocolate-bar",
+      "brand_name": "Sprinkles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8510222",
+      "food_name": "Strawberry Cupcake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sprinkles/strawberry-cupcake",
+      "brand_name": "Sprinkles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105812968",
+      "food_name": "Cupcake Cups Birthday Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sprinkles/cupcake-cups-birthday-cake",
+      "brand_name": "Sprinkles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "465495",
+      "food_name": "Chocolate Cake Donut - Chocolate Iced with Rainbow Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/winchells/chocolate-cake-donut---chocolate-iced-with-rainbow-sprinkles",
+      "brand_name": "Winchell's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "465730",
+      "food_name": "White Cake Donut - Vanilla Iced with Chocolate Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/winchells/white-cake-donut---vanilla-iced-with-chocolate-sprinkles",
+      "brand_name": "Winchell's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "465491",
+      "food_name": "Chocolate Cake Donut - Chocolate Iced with Chocolate Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/winchells/chocolate-cake-donut---chocolate-iced-with-chocolate-sprinkles",
+      "brand_name": "Winchell's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "465704",
+      "food_name": "White Cake Donut - Cherry Iced with Rainbow Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/winchells/white-cake-donut---cherry-iced-with-rainbow-sprinkles",
+      "brand_name": "Winchell's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "465744",
+      "food_name": "White Cake Donut - Vanilla Iced with Rainbow Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/winchells/white-cake-donut---vanilla-iced-with-rainbow-sprinkles",
+      "brand_name": "Winchell's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1714819",
+      "food_name": "Cinnamon Graham Dunkaroos with Vanilla Frosting & Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/betty-crocker/cinnamon-graham-dunkaroos-with-vanilla-frosting-and-sprinkles",
+      "brand_name": "Betty Crocker",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75586715",
+      "food_name": "Cookie Sandwich Oreo - Vanilla Custard Rainbow Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/cookie-sandwich-oreo-vanilla-custard-rainbow-sprinkles",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38038636",
+      "food_name": "These Sprinkles Walk Into A Sandwich Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/these-sprinkles-walk-into-a-sandwich-cookie",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87313753",
+      "food_name": "Oreo - Vanilla Custard Rainbow Sprinkles Cookie Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/oreo-vanilla-custard-rainbow-sprinkles-cookie-sandwich",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71035146",
+      "food_name": "White Creme with Sprinkles & Popping Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hersheys/white-creme-with-sprinkles-popping-candy",
+      "brand_name": "Hershey's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248796",
+      "food_name": "Mini Strawberry Iced Doughnuts with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/mini-strawberry-iced-doughnuts-with-sprinkles",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68720817",
+      "food_name": "Chocolate Frosted with Chocolate Sprinkles Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunkin-donuts/chocolate-frosted-with-chocolate-sprinkles-donut",
+      "brand_name": "Dunkin' Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248748",
+      "food_name": "Chocolate Iced Glazed Doughnut with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/chocolate-iced-glazed-doughnut-with-sprinkles",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248795",
+      "food_name": "Mini Chocolate Iced Doughnuts with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/mini-chocolate-iced-doughnuts-with-sprinkles",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104519585",
+      "food_name": "Chocolate Frosted with Patriot Sprinkles Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunkin-donuts/chocolate-frosted-with-patriot-sprinkles-donut",
+      "brand_name": "Dunkin' Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104519595",
+      "food_name": "Strawberry Frosted with Patriot Sprinkles Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunkin-donuts/strawberry-frosted-with-patriot-sprinkles-donut",
+      "brand_name": "Dunkin' Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104519596",
+      "food_name": "White Frosted with Patriot Sprinkles Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunkin-donuts/white-frosted-with-patriot-sprinkles-donut",
+      "brand_name": "Dunkin' Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55358421",
+      "food_name": "Yogurt Covered Pretzels with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/imperfect-foods/yogurt-covered-pretzels-with-sprinkles",
+      "brand_name": "Imperfect Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248750",
+      "food_name": "Strawberry Iced Doughnut with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/strawberry-iced-doughnut-with-sprinkles",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87296680",
+      "food_name": "Custard Blendini Sprinkles, Chocolate (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/custard-blendini-sprinkles-chocolate-(regular)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87296688",
+      "food_name": "Custard Blendini Sprinkles, Rainbow (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/custard-blendini-sprinkles-rainbow-(regular)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68721413",
+      "food_name": "Chocolate Frosted with Sprinkles Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunkin-donuts/chocolate-frosted-with-sprinkles-donut",
+      "brand_name": "Dunkin' Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68721589",
+      "food_name": "Strawberry Frosted with Sprinkles Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunkin-donuts/strawberry-frosted-with-sprinkles-donut",
+      "brand_name": "Dunkin' Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86296922",
+      "food_name": "Fancy Waffle Cone with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baskin-robbins/fancy-waffle-cone-with-sprinkles",
+      "brand_name": "Baskin-Robbins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1433291",
+      "food_name": "Yogurt Pretzels with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/creative-snacks-co/yogurt-pretzels-with-sprinkles",
+      "brand_name": "Creative Snacks Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1113286",
+      "food_name": "Sugar Cookie with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/publix/sugar-cookie-with-sprinkles",
+      "brand_name": "Publix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4493628",
+      "food_name": "Caramel Apple with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kroger/caramel-apple-with-sprinkles",
+      "brand_name": "Kroger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50167669",
+      "food_name": "Birthday Cake with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/built-bar/birthday-cake-with-sprinkles",
+      "brand_name": "Built Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95806324",
+      "food_name": "Spring Sprinkles Big Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/reeses/spring-sprinkles-big-cup",
+      "brand_name": "Reese's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "465530",
+      "food_name": "Donut Holes with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/winchells/donut-holes-with-sprinkles",
+      "brand_name": "Winchell's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6676351",
+      "food_name": "Shortbread Cookies with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/market-pantry/shortbread-cookies-with-sprinkles",
+      "brand_name": "Market Pantry",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6057531",
+      "food_name": "Parlor Perfect Confetti Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/betty-crocker/parlor-perfect-confetti-sprinkles",
+      "brand_name": "Betty Crocker",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68722254",
+      "food_name": "Vanilla Frosted Sprinkles Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunkin-donuts/vanilla-frosted-sprinkles-donut",
+      "brand_name": "Dunkin' Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1468527",
+      "food_name": "Butter Flavor Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/molly-mcbutter/butter-flavor-sprinkles",
+      "brand_name": "Molly McButter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6028640",
+      "food_name": "Rainbow Jimmies Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wilton/rainbow-jimmies-sprinkles",
+      "brand_name": "Wilton",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12918687",
+      "food_name": "Real Bacon Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hormel/real-bacon-sprinkles",
+      "brand_name": "Hormel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74857068",
+      "food_name": "Truffles with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-corral/truffles-with-sprinkles",
+      "brand_name": "Golden Corral",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85202600",
+      "food_name": "Yellow & Blue Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/yellow-blue-sprinkles",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87341491",
+      "food_name": "Sprinkles, Chocolate (Toppings)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/sprinkles-chocolate-(toppings)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54472",
+      "food_name": "Butter Buds Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/butter-buds/butter-buds-sprinkles",
+      "brand_name": "Butter Buds",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76367869",
+      "food_name": "Black Pepper Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cosmcs/black-pepper-sprinkles",
+      "brand_name": "CosMc's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76367876",
+      "food_name": "Caramel Toffee Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cosmcs/caramel-toffee-sprinkles",
+      "brand_name": "CosMc's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87341494",
+      "food_name": "Sprinkles, Rainbow (Toppings)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/sprinkles-rainbow-(toppings)",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1929007",
+      "food_name": "Chocolate Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cake-mate/chocolate-sprinkles",
+      "brand_name": "Cake Mate",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1268556",
+      "food_name": "Rainbow Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/souper-salad/rainbow-sprinkles",
+      "brand_name": "Souper Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2234528",
+      "food_name": "Rainbow Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cake-mate/rainbow-sprinkles",
+      "brand_name": "Cake Mate",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3791447",
+      "food_name": "Chocolate Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/betty-crocker/chocolate-sprinkles",
+      "brand_name": "Betty Crocker",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4193630",
+      "food_name": "Rainbow Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wilton/rainbow-sprinkles",
+      "brand_name": "Wilton",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11903613",
+      "food_name": "Rainbow Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/breyers/rainbow-sprinkles",
+      "brand_name": "Breyers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9743979",
+      "food_name": "Cheese Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kroger/cheese-sprinkles",
+      "brand_name": "Kroger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70586215",
+      "food_name": "Rainbow Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-dees/rainbow-sprinkles",
+      "brand_name": "Good Dee's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72448246",
+      "food_name": "Chocolate Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/chocolate-sprinkles",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75518723",
+      "food_name": "Sprinkles, Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/sprinkles-chocolate",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75518736",
+      "food_name": "Sprinkles, Rainbow",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ritas/sprinkles-rainbow",
+      "brand_name": "Rita's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837741",
+      "food_name": "DQ Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dq-sprinkles",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1965750",
+      "food_name": "Rainbow Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/rainbow-sprinkles",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7229706",
+      "food_name": "Rainbow Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stop-and-shop/rainbow-sprinkles",
+      "brand_name": "Stop & Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41087289",
+      "food_name": "Rainbow Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/supreme-tradition/rainbow-sprinkles",
+      "brand_name": "Supreme Tradition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42816170",
+      "food_name": "Rainbow Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/365/rainbow-sprinkles",
+      "brand_name": "365",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43847854",
+      "food_name": "Rainbow Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/betty-crocker/rainbow-sprinkles",
+      "brand_name": "Betty Crocker",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31992593",
+      "food_name": "Chocolate Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-value/chocolate-sprinkles",
+      "brand_name": "Great Value",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32108780",
+      "food_name": "Chocolate Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spice-farms/chocolate-sprinkles",
+      "brand_name": "Spice Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76367887",
+      "food_name": "Cinnamon Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cosmcs/cinnamon-sprinkles",
+      "brand_name": "CosMc's",
+      "food_type": "Brand"
+    }
+  ]
+}

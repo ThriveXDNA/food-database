@@ -1,0 +1,69 @@
+{
+  "restaurant": "Wayback Burgers",
+  "total_items": 8,
+  "pages_extracted": 5,
+  "total_search_results": 218,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:38:06.816Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/wayback_burgers.json",
+  "items": [
+    {
+      "food_id": "28720230",
+      "food_name": "Fries (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wayback-burgers/fries-(regular)",
+      "brand_name": "Wayback Burgers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12970882",
+      "food_name": "Single Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wayback-burgers/single-burger",
+      "brand_name": "Wayback Burgers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30552613",
+      "food_name": "Double Bacon Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wayback-burgers/double-bacon-burger",
+      "brand_name": "Wayback Burgers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28720267",
+      "food_name": "Tangy BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wayback-burgers/tangy-bbq-sauce",
+      "brand_name": "Wayback Burgers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18607948",
+      "food_name": "Veggie Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wayback-burgers/veggie-burger",
+      "brand_name": "Wayback Burgers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28720255",
+      "food_name": "Onion Rings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wayback-burgers/onion-rings",
+      "brand_name": "Wayback Burgers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30552641",
+      "food_name": "Bacon Cheese Fries (Full)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wayback-burgers/bacon-cheese-fries-(full)",
+      "brand_name": "Wayback Burgers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72296331",
+      "food_name": "Grilled Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wayback-burgers/grilled-chicken-sandwich",
+      "brand_name": "Wayback Burgers",
+      "food_type": "Brand"
+    }
+  ]
+}

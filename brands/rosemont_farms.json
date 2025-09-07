@@ -1,0 +1,27 @@
+{
+  "brand_name": "Rosemont Farms",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 12,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:30:33.512Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/rosemont_farms.json",
+  "items": [
+    {
+      "food_id": "1624159",
+      "food_name": "Sugar Snap Peas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rosemont-farms/sugar-snap-peas",
+      "brand_name": "Rosemont Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1722375",
+      "food_name": "Fresh Brussels Sprouts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rosemont-farms/fresh-brussels-sprouts",
+      "brand_name": "Rosemont Farms",
+      "food_type": "Brand"
+    }
+  ]
+}

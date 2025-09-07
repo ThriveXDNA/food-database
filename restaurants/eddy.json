@@ -1,0 +1,69 @@
+{
+  "restaurant": "Eddy",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:11:50.364Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/eddy.json",
+  "items": [
+    {
+      "food_id": "1011577",
+      "food_name": "Beef Brisket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eddy/beef-brisket",
+      "brand_name": "Eddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42987599",
+      "food_name": "Pulled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eddy/pulled-chicken",
+      "brand_name": "Eddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54579246",
+      "food_name": "Jalapeño Cheddar Texas Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eddy/jalape%C3%B1o-cheddar-texas-smoked-sausage",
+      "brand_name": "Eddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17777045",
+      "food_name": "Cilantro Lime Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eddy/cilantro-lime-chicken-breast",
+      "brand_name": "Eddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2063958",
+      "food_name": "Smoked Turkey Wings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eddy/smoked-turkey-wings",
+      "brand_name": "Eddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23032712",
+      "food_name": "Southwest Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eddy/southwest-chicken-breast",
+      "brand_name": "Eddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11719311",
+      "food_name": "Smoked Turkey Drumsticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eddy/smoked-turkey-drumsticks",
+      "brand_name": "Eddy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84304268",
+      "food_name": "Deep Eddy Strawberry Texas Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chilis/deep-eddy-strawberry-texas-lemonade",
+      "brand_name": "Chili's",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Hargis House",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 387,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:51:20.264Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/hargis_house.json",
+  "items": [
+    {
+      "food_id": "8804199",
+      "food_name": "Vienna Sausages",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hargis-house/vienna-sausages",
+      "brand_name": "Hargis House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1983747",
+      "food_name": "Beef Stew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hargis-house/beef-stew",
+      "brand_name": "Hargis House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13534781",
+      "food_name": "Sausage Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hargis-house/sausage-gravy",
+      "brand_name": "Hargis House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2306534",
+      "food_name": "Chicken Vienna Sausages",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hargis-house/chicken-vienna-sausages",
+      "brand_name": "Hargis House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47032460",
+      "food_name": "Premium Chunk Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hargis-house/premium-chunk-chicken-breast",
+      "brand_name": "Hargis House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34770917",
+      "food_name": "Chili with Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hargis-house/chili-with-beans",
+      "brand_name": "Hargis House",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "restaurant": "Middle Eastern Delites",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 21,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:16:26.223Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/middle_eastern_delites.json",
+  "items": [
+    {
+      "food_id": "780385",
+      "food_name": "Fattoush Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/middle-eastern-delites/fattoush-dressing",
+      "brand_name": "Middle Eastern Delites",
+      "food_type": "Brand"
+    }
+  ]
+}

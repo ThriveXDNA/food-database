@@ -1,0 +1,76 @@
+{
+  "restaurant": "Delba",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:59:53.100Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/delba.json",
+  "items": [
+    {
+      "food_id": "86476367",
+      "food_name": "Famous German Whole Rye Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/delba/famous-german-whole-rye-bread",
+      "brand_name": "Delba",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29925826",
+      "food_name": "Famous German Fitness Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/delba/famous-german-fitness-bread",
+      "brand_name": "Delba",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17566353",
+      "food_name": "Three Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/delba/three-grain-bread",
+      "brand_name": "Delba",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13983233",
+      "food_name": "German Pumpernickel Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/delba/german-pumpernickel-bread",
+      "brand_name": "Delba",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30742366",
+      "food_name": "Protein Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/delba/protein-bread",
+      "brand_name": "Delba",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11503044",
+      "food_name": "Flaxseed Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/delba/flaxseed-bread",
+      "brand_name": "Delba",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6110913",
+      "food_name": "Organic Sunflower Seed Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/delba/organic-sunflower-seed-bread",
+      "brand_name": "Delba",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73837339",
+      "food_name": "Vegan Oat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/delba/vegan-oat-bread",
+      "brand_name": "Delba",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52375153",
+      "food_name": "Whole Rye Bread with Muesli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/delba/whole-rye-bread-with-muesli",
+      "brand_name": "Delba",
+      "food_type": "Brand"
+    }
+  ]
+}

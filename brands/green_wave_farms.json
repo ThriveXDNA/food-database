@@ -1,0 +1,34 @@
+{
+  "brand_name": "Green Wave Farms",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 2443,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:14:52.583Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/green_wave_farms.json",
+  "items": [
+    {
+      "food_id": "29455386",
+      "food_name": "Organic Mixed Squash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-wave-farms/organic-mixed-squash",
+      "brand_name": "Green Wave Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32243860",
+      "food_name": "Organic Green Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-wave-farms/organic-green-beans",
+      "brand_name": "Green Wave Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12486735",
+      "food_name": "Brussels Sprouts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-wave-farms/brussels-sprouts",
+      "brand_name": "Green Wave Farms",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "brand_name": "Gemini",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:52:45.700Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/gemini.json",
+  "items": [
+    {
+      "food_id": "16283381",
+      "food_name": "Rice Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gemini/rice-cakes",
+      "brand_name": "Gemini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53868470",
+      "food_name": "Sliced Tigernuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gemini/sliced-tigernuts",
+      "brand_name": "Gemini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47649531",
+      "food_name": "Multigrain Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gemini/multigrain-cakes",
+      "brand_name": "Gemini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56904680",
+      "food_name": "Cakes with Chia",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gemini/cakes-with-chia",
+      "brand_name": "Gemini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107719024",
+      "food_name": "Cakes With Quinoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gemini/cakes-with-quinoa",
+      "brand_name": "Gemini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68533053",
+      "food_name": "Cakes with Oat Bran",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gemini/cakes-with-oat-bran",
+      "brand_name": "Gemini",
+      "food_type": "Brand"
+    }
+  ]
+}

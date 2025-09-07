@@ -1,0 +1,55 @@
+{
+  "restaurant": "Teeccino",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:07:05.877Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/teeccino.json",
+  "items": [
+    {
+      "food_id": "88474",
+      "food_name": "Vanilla Nut Herbal Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/teeccino/vanilla-nut-herbal-coffee",
+      "brand_name": "Teeccino",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22336141",
+      "food_name": "Dandelion Dark Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/teeccino/dandelion-dark-roast",
+      "brand_name": "Teeccino",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4047356",
+      "food_name": "Hazelnut Tee-Bag",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/teeccino/hazelnut-tee-bag",
+      "brand_name": "Teeccino",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88470",
+      "food_name": "Original Herbal Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/teeccino/original-herbal-coffee",
+      "brand_name": "Teeccino",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88475",
+      "food_name": "Java Herbal Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/teeccino/java-herbal-coffee",
+      "brand_name": "Teeccino",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3031940",
+      "food_name": "French Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/teeccino/french-roast",
+      "brand_name": "Teeccino",
+      "food_type": "Brand"
+    }
+  ]
+}

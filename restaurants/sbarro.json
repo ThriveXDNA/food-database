@@ -1,0 +1,746 @@
+{
+  "restaurant": "Sbarro",
+  "total_items": 105,
+  "pages_extracted": 3,
+  "last_updated": "2025-09-06T06:54:17.658Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Restaurant search with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sbarro.json",
+  "items": [
+    {
+      "food_id": "75958392",
+      "food_name": "NY Pepperoni Pizza Slice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/ny-pepperoni-pizza-slice",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191513",
+      "food_name": "Sbarro 17-inch NY Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-17-inch-ny-cheese-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191952",
+      "food_name": "Sbarro Sicilian Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-sicilian-cheese-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192092",
+      "food_name": "Sbarro Baked Ziti Pasta Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-baked-ziti-pasta-side",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191972",
+      "food_name": "Sbarro Stromboli Pepperoni and Cheese (Full Log)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-stromboli-pepperoni-and-cheese-(full-log)",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192003",
+      "food_name": "Sbarro Stromboli Sausage, Pepperoni and Bacon (Full Log)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-stromboli-sausage-pepperoni-and-bacon-(full-log)",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192123",
+      "food_name": "Sbarro Baked Ziti Pasta Entree",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-baked-ziti-pasta-entree",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191984",
+      "food_name": "Sbarro Stromboli Spinach and Cheese (Full Log)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-stromboli-spinach-and-cheese-(full-log)",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192040",
+      "food_name": "Sbarro Garlic Breadsticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-garlic-breadsticks",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191744",
+      "food_name": "Sbarro 14-inch NY 4 Cheese White Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-14-inch-ny-4-cheese-white-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191559",
+      "food_name": "Sbarro 17-inch NY Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-17-inch-ny-pepperoni-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191720",
+      "food_name": "Sbarro 14-inch NY Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-14-inch-ny-pepperoni-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192014",
+      "food_name": "Sbarro Stromboli Meat Primo (Full Log)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-stromboli-meat-primo-(full-log)",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192028",
+      "food_name": "Sbarro Stromboli Supremo (Full Log)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-stromboli-supremo-(full-log)",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192012",
+      "food_name": "Sbarro Stromboli Veggie (Full Log)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-stromboli-veggie-(full-log)",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191903",
+      "food_name": "Sbarro Roman Supremo Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-roman-supremo-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191685",
+      "food_name": "Sbarro 17-inch NY 4 Cheese White Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-17-inch-ny-4-cheese-white-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191718",
+      "food_name": "Sbarro 14-inch NY Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-14-inch-ny-cheese-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191733",
+      "food_name": "Sbarro 14-inch NY Supremo Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-14-inch-ny-supremo-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192016",
+      "food_name": "Sbarro Stromboli Buffalo Chicken (Full Log)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-stromboli-buffalo-chicken-(full-log)",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192532",
+      "food_name": "Sbarro Desserts Cannoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-desserts-cannoli",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191928",
+      "food_name": "Sbarro Pan Spinach and Mushroom Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-pan-spinach-and-mushroom-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191941",
+      "food_name": "Sbarro Pan Chicken and Broccoli Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-pan-chicken-and-broccoli-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191989",
+      "food_name": "Sbarro Stromboli Fresh Spinach and Cheese (Full Log)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-stromboli-fresh-spinach-and-cheese-(full-log)",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192118",
+      "food_name": "Sbarro Baked Ziti Pasta Side with Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-baked-ziti-pasta-side-with-meatballs",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191572",
+      "food_name": "Sbarro 17-inch NY Sausage Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-17-inch-ny-sausage-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191804",
+      "food_name": "Sbarro Roman Pepperoni and Bacon Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-roman-pepperoni-and-bacon-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191955",
+      "food_name": "Sbarro Sicilian Sausage and Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-sicilian-sausage-and-pepperoni-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191917",
+      "food_name": "Sbarro Pan Classic Hawaiian Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-pan-classic-hawaiian-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192202",
+      "food_name": "Sbarro Roasted Potatoes Reg Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-roasted-potatoes-reg-side",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192218",
+      "food_name": "Sbarro Roasted Carrots Large Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-roasted-carrots-large-side",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192137",
+      "food_name": "Sbarro Spaghetti with Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-spaghetti-with-meatballs",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192426",
+      "food_name": "Sbarro Garden Salad Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-garden-salad-side",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192143",
+      "food_name": "Sbarro Steam Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-steam-meatballs",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191696",
+      "food_name": "Sbarro 17-inch NY Meat Primo Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-17-inch-ny-meat-primo-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192098",
+      "food_name": "Sbarro Baked Ziti Pasta Side with Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-baked-ziti-pasta-side-with-chicken",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192447",
+      "food_name": "Sbarro Tomato Cucumber Salad 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-tomato-cucumber-salad-12-oz",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191890",
+      "food_name": "Sbarro Roman Meat Primo Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-roman-meat-primo-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192185",
+      "food_name": "Sbarro Steam Chicken Parmesan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-steam-chicken-parmesan",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192044",
+      "food_name": "Sbarro Pasta Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-pasta-sauce",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192280",
+      "food_name": "Sbarro Steam Service Sausage and Peppers Entrée with Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-steam-service-sausage-and-peppers-entr%C3%A9e-with-spaghetti",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192005",
+      "food_name": "Sbarro Stromboli Chicken and Four Cheese (Full Log)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-stromboli-chicken-and-four-cheese-(full-log)",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192183",
+      "food_name": "Sbarro Steam Service Chicken Parmesan Entrée with Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-steam-service-chicken-parmesan-entr%C3%A9e-with-spaghetti",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191675",
+      "food_name": "Sbarro 17-inch NY Buffalo Chicken Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-17-inch-ny-buffalo-chicken-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192364",
+      "food_name": "Sbarro Steam Service Mac and Cheese Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-steam-service-mac-and-cheese-side",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191681",
+      "food_name": "Sbarro 17-inch NY Classic Hawaiian Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-17-inch-ny-classic-hawaiian-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192382",
+      "food_name": "Sbarro Mushroom & Three Pepper Salad 10 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-mushroom-three-pepper-salad-10-oz",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191566",
+      "food_name": "Sbarro 17-inch NY Supremo Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-17-inch-ny-supremo-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191608",
+      "food_name": "Sbarro 17-inch NY Mushroom Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-17-inch-ny-mushroom-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192023",
+      "food_name": "Sbarro Stromboli Classic Hawaiian (Full Log)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-stromboli-classic-hawaiian-(full-log)",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192472",
+      "food_name": "Sbarro Pasta Primavera Salad 10 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-pasta-primavera-salad-10-oz",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192495",
+      "food_name": "Sbarro Pasta Primavera Salad 14 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-pasta-primavera-salad-14-oz",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191691",
+      "food_name": "Sbarro 17-inch NY Veggie Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-17-inch-ny-veggie-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191737",
+      "food_name": "Sbarro 14-inch NY Veggie Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-14-inch-ny-veggie-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191896",
+      "food_name": "Sbarro Roman Buffalo Chicken Ranch Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-roman-buffalo-chicken-ranch-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192458",
+      "food_name": "Sbarro Tomato Cucumber Salad 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-tomato-cucumber-salad-16-oz",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191798",
+      "food_name": "Sbarro Roman Classic Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-roman-classic-cheese-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191914",
+      "food_name": "Sbarro Roman Classic Hawaiian Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-roman-classic-hawaiian-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192502",
+      "food_name": "Sbarro Greek Salad 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-greek-salad-12-oz",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192511",
+      "food_name": "Sbarro Fruit Salad 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-fruit-salad-12-oz",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192553",
+      "food_name": "Sbarro Lemonade 12 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-lemonade-12-fl-oz",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191831",
+      "food_name": "Sbarro Roman Veggie Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-roman-veggie-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191935",
+      "food_name": "Sbarro Pan Veggie Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-pan-veggie-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192522",
+      "food_name": "Sbarro Desserts NY Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-desserts-ny-cheesecake",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192524",
+      "food_name": "Sbarro Desserts Chocolate Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-desserts-chocolate-cake",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192526",
+      "food_name": "Sbarro Desserts Carrot Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-desserts-carrot-cake",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192439",
+      "food_name": "Sbarro Caesar Salad Entrée",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-caesar-salad-entr%C3%A9e",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192537",
+      "food_name": "Sbarro Desserts NY Tiramisu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-desserts-ny-tiramisu",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192131",
+      "food_name": "Sbarro Spaghetti Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-spaghetti-side",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192279",
+      "food_name": "Sbarro Steam Service Sausage and Peppers Entrée with Baked Ziti Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-steam-service-sausage-and-peppers-entr%C3%A9e-with-baked-ziti-pasta",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191638",
+      "food_name": "Sbarro 17-inch NY Chicken, Bacon and Ranch Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-17-inch-ny-chicken-bacon-and-ranch-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192156",
+      "food_name": "Sbarro Steam Service Chicken Parmesan Entrée Baked Ziti Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-steam-service-chicken-parmesan-entr%C3%A9e-baked-ziti-pasta",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191633",
+      "food_name": "Sbarro 17-inch NY Spinach and Tomato Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-17-inch-ny-spinach-and-tomato-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192148",
+      "food_name": "Sbarro Steam Service Chicken Parmesan A la Carte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-steam-service-chicken-parmesan-a-la-carte",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192241",
+      "food_name": "Sbarro Steam Sausage and Peppers (1 Full Tray)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-steam-sausage-and-peppers-(1-full-tray)",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192011",
+      "food_name": "Sbarro Stromboli Chicken, Pepper and Onion (Full Log)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-stromboli-chicken-pepper-and-onion-(full-log)",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191707",
+      "food_name": "Sbarro 17-inch NY Mama’s Meatball Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-17-inch-ny-mama%E2%80%99s-meatball-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191741",
+      "food_name": "Sbarro 14-inch NY Classic Hawaiian Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-14-inch-ny-classic-hawaiian-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191783",
+      "food_name": "Sbarro 14-inch NY Mama’s Meatball Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-14-inch-ny-mama%E2%80%99s-meatball-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192400",
+      "food_name": "Sbarro Mushroom & Three Pepper Salad 14 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-mushroom-three-pepper-salad-14-oz",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192552",
+      "food_name": "Sbarro Sweet Iced Tea 12 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-sweet-iced-tea-12-fl-oz",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191833",
+      "food_name": "Sbarro Roman Double Duo Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-roman-double-duo-pepperoni-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191921",
+      "food_name": "Sbarro Pan Spinach and Tomato Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-pan-spinach-and-tomato-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192375",
+      "food_name": "Sbarro Steam Macaroni and Cheese Entree",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-steam-macaroni-and-cheese-entree",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192541",
+      "food_name": "Sbarro Iced Tea 12 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-iced-tea-12-fl-oz",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191911",
+      "food_name": "Sbarro Roman Sausage and Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-roman-sausage-and-pepperoni-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191939",
+      "food_name": "Sbarro Pan Sausage and Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-pan-sausage-and-pepperoni-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191957",
+      "food_name": "Sbarro Stuffed Sausage and Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-stuffed-sausage-and-pepperoni-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191964",
+      "food_name": "Sbarro Stuffed Spinach and Broccoli Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-stuffed-spinach-and-broccoli-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192305",
+      "food_name": "Sbarro Yellow Rice 10 oz Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-yellow-rice-10-oz-side",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192309",
+      "food_name": "Sbarro Yellow Rice 16 oz Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-yellow-rice-16-oz-large",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191944",
+      "food_name": "Sbarro Pan Double Duo Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-pan-double-duo-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192190",
+      "food_name": "Sbarro Roasted Potatoes Large Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-roasted-potatoes-large-side",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192228",
+      "food_name": "Sbarro Roasted Carrots Reg Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-roasted-carrots-reg-side",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192299",
+      "food_name": "Sbarro Vegetable Rice 14 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-vegetable-rice-14-oz",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192503",
+      "food_name": "Sbarro Greek Salad 8 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-greek-salad-8-oz",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191931",
+      "food_name": "Sbarro Pan Meat Primo Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-pan-meat-primo-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192287",
+      "food_name": "Sbarro Vegetable Rice 10 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-vegetable-rice-10-oz",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192518",
+      "food_name": "Sbarro Fruit Salad 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-fruit-salad-16-oz",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192410",
+      "food_name": "Sbarro Garden Salad Entrée",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-garden-salad-entr%C3%A9e",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192144",
+      "food_name": "Sbarro Steam Baked Lasagna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-steam-baked-lasagna",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192427",
+      "food_name": "Sbarro Caesar Salad Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-caesar-salad-side",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192523",
+      "food_name": "Sbarro Desserts Strawberry Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-desserts-strawberry-cheesecake",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192129",
+      "food_name": "Sbarro Spaghetti Entrée",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-spaghetti-entr%C3%A9e",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192346",
+      "food_name": "Sbarro Mixed Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-mixed-vegetables",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    }
+  ]
+}

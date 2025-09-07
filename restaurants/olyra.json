@@ -1,0 +1,62 @@
+{
+  "restaurant": "Olyra",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:57:39.300Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/olyra.json",
+  "items": [
+    {
+      "food_id": "87167716",
+      "food_name": "Raspberry Biscuits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olyra/raspberry-biscuits",
+      "brand_name": "Olyra",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60117822",
+      "food_name": "Dark Chocolate Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olyra/dark-chocolate-sandwich",
+      "brand_name": "Olyra",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58462885",
+      "food_name": "Hazelnut Cocoa Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olyra/hazelnut-cocoa-sandwich",
+      "brand_name": "Olyra",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33178215",
+      "food_name": "Cinnamon Tahini Breakfast Biscuits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olyra/cinnamon-tahini-breakfast-biscuits",
+      "brand_name": "Olyra",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33500022",
+      "food_name": "Hazelnut Carob Breakfast Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olyra/hazelnut-carob-breakfast-biscuit",
+      "brand_name": "Olyra",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54566662",
+      "food_name": "Greek Yogurt Blueberry Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olyra/greek-yogurt-blueberry-sandwich",
+      "brand_name": "Olyra",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54126245",
+      "food_name": "Fig Anise",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olyra/fig-anise",
+      "brand_name": "Olyra",
+      "food_type": "Brand"
+    }
+  ]
+}

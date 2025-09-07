@@ -1,0 +1,62 @@
+{
+  "restaurant": "Natural Sea",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 2563,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:50:08.159Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/natural_sea.json",
+  "items": [
+    {
+      "food_id": "4697843",
+      "food_name": "Wild Alaskan Salmon Fillet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-sea/wild-alaskan-salmon-fillet",
+      "brand_name": "Natural Sea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91133",
+      "food_name": "Canned Pink Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-sea/canned-pink-salmon",
+      "brand_name": "Natural Sea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1016767",
+      "food_name": "Premium Cod Fish Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-sea/premium-cod-fish-sticks",
+      "brand_name": "Natural Sea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1016713",
+      "food_name": "Solid White Albacore Tuna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-sea/solid-white-albacore-tuna",
+      "brand_name": "Natural Sea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1352911",
+      "food_name": "Chunk Light Tuna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-sea/chunk-light-tuna",
+      "brand_name": "Natural Sea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76450760",
+      "food_name": "Chunk Light Tuna (108g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-sea/chunk-light-tuna-(108g)",
+      "brand_name": "Natural Sea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15379634",
+      "food_name": "Premium Pink Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-sea/premium-pink-salmon",
+      "brand_name": "Natural Sea",
+      "food_type": "Brand"
+    }
+  ]
+}

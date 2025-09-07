@@ -1,0 +1,83 @@
+{
+  "restaurant": "Just the Basics",
+  "total_items": 10,
+  "pages_extracted": 6,
+  "total_search_results": 1258,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:13:02.863Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/just_the_basics.json",
+  "items": [
+    {
+      "food_id": "4043758",
+      "food_name": "Strawberry Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-the-basics/strawberry-cookies",
+      "brand_name": "Just the Basics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2315517",
+      "food_name": "Peach Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-the-basics/peach-slices",
+      "brand_name": "Just the Basics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1958451",
+      "food_name": "Kettle Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-the-basics/kettle-corn",
+      "brand_name": "Just the Basics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1885269",
+      "food_name": "Frosted Flakes Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-the-basics/frosted-flakes-cereal",
+      "brand_name": "Just the Basics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9213508",
+      "food_name": "Mini Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-the-basics/mini-pretzels",
+      "brand_name": "Just the Basics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2315507",
+      "food_name": "Mixed Fruit Light Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-the-basics/mixed-fruit-light-syrup",
+      "brand_name": "Just the Basics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15876716",
+      "food_name": "Onion Flavored Rings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-the-basics/onion-flavored-rings",
+      "brand_name": "Just the Basics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1992031",
+      "food_name": "Fuji Apples Slices in Light Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-the-basics/fuji-apples-slices-in-light-syrup",
+      "brand_name": "Just the Basics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6950496",
+      "food_name": "Corn Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-the-basics/corn-chips",
+      "brand_name": "Just the Basics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19245275",
+      "food_name": "Cheese Twists",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-the-basics/cheese-twists",
+      "brand_name": "Just the Basics",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,1621 @@
+{
+  "restaurant": "Dairy Queen",
+  "total_items": 230,
+  "pages_extracted": 11,
+  "last_updated": "2025-09-06T06:44:26.009Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Restaurant search with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dairy_queen.json",
+  "items": [
+    {
+      "food_id": "69938179",
+      "food_name": "Vanilla Cone - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/vanilla-cone-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84265419",
+      "food_name": "Vanilla Cone - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/vanilla-cone-kids",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937495",
+      "food_name": "Hot Fudge Sundae - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/hot-fudge-sundae-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936725",
+      "food_name": "OREO Cookie Blizzard - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/oreo-cookie-blizzard-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936334",
+      "food_name": "Butterfinger Blizzard - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/butterfinger-blizzard-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "168935",
+      "food_name": "Banana Split",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/banana-split",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938013",
+      "food_name": "Strawberry Sundae - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/strawberry-sundae-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936720",
+      "food_name": "OREO Cookie Blizzard - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/oreo-cookie-blizzard-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937486",
+      "food_name": "Hot Fudge Sundae - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/hot-fudge-sundae-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937326",
+      "food_name": "Chocolate Sundae - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/chocolate-sundae-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5982988",
+      "food_name": "Peanut Buster Parfait",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/peanut-buster-parfait",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936426",
+      "food_name": "Chocolate Chip Cookie Dough Blizzard - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/chocolate-chip-cookie-dough-blizzard-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936322",
+      "food_name": "Butterfinger Blizzard - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/butterfinger-blizzard-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938258",
+      "food_name": "Vanilla Cone - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/vanilla-cone-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936731",
+      "food_name": "OREO Cookie Blizzard - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/oreo-cookie-blizzard-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936391",
+      "food_name": "Choco Brownie Extreme Blizzard - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/choco-brownie-extreme-blizzard-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937283",
+      "food_name": "Caramel Sundae - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/caramel-sundae-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936680",
+      "food_name": "Heath Blizzard - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/heath-blizzard-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936802",
+      "food_name": "Snickers Blizzard - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/snickers-blizzard-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936809",
+      "food_name": "Snickers Blizzard - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/snickers-blizzard-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936414",
+      "food_name": "Chocolate Chip Cookie Dough Blizzard - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/chocolate-chip-cookie-dough-blizzard-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937027",
+      "food_name": "Chocolate Shake - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/chocolate-shake-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936343",
+      "food_name": "Butterfinger Blizzard - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/butterfinger-blizzard-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936828",
+      "food_name": "Turtle Pecan Cluster Blizzard - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/turtle-pecan-cluster-blizzard-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938137",
+      "food_name": "Dipped Cone, Cherry - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dipped-cone-cherry-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87390002",
+      "food_name": "Backyard Bacon Ranch Burger - Double",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/backyard-bacon-ranch-burger-double",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937332",
+      "food_name": "Hot Fudge Sundae - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/hot-fudge-sundae-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834304",
+      "food_name": "Buffalo Sauced & Tossed Chicken Strip Basket - 4 pc",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/buffalo-sauced-tossed-chicken-strip-basket-4-pc",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936440",
+      "food_name": "Heath Blizzard - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/heath-blizzard-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937621",
+      "food_name": "Strawberry Sundae - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/strawberry-sundae-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936204",
+      "food_name": "Cotton Candy Blizzard - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/cotton-candy-blizzard-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936399",
+      "food_name": "Choco Brownie Extreme Blizzard - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/choco-brownie-extreme-blizzard-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837928",
+      "food_name": "Dipped Cone, Chocolate - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dipped-cone-chocolate-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936380",
+      "food_name": "Choco Brownie Extreme Blizzard - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/choco-brownie-extreme-blizzard-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837760",
+      "food_name": "Chocolate Cone - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/chocolate-cone-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938718",
+      "food_name": "Buster Bar - 6 Pack - Store Made",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/buster-bar-6-pack-store-made",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936430",
+      "food_name": "Chocolate Chip Cookie Dough Blizzard - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/chocolate-chip-cookie-dough-blizzard-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936685",
+      "food_name": "Heath Blizzard - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/heath-blizzard-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84265258",
+      "food_name": "Brownie and OREO Cupfection",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/brownie-and-oreo-cupfection",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936709",
+      "food_name": "M&M’s Chocolate Candy Blizzard - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/m-m%E2%80%99s-chocolate-candy-blizzard-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937018",
+      "food_name": "Chocolate Shake - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/chocolate-shake-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937317",
+      "food_name": "Chocolate Sundae - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/chocolate-sundae-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938604",
+      "food_name": "Chocolate Cone - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/chocolate-cone-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936355",
+      "food_name": "Butterfinger Blizzard - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/butterfinger-blizzard-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937111",
+      "food_name": "Strawberry Shake - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/strawberry-shake-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938575",
+      "food_name": "Dipped Cone, Cherry - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dipped-cone-cherry-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103835254",
+      "food_name": "Reese’S PB Cups Blizzard - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/reese%E2%80%99s-pb-cups-blizzard-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936738",
+      "food_name": "OREO Cookie Blizzard - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/oreo-cookie-blizzard-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84306369",
+      "food_name": "Cookie Dough Pieces - Mini/Small Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/cookie-dough-pieces-mini-small-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937132",
+      "food_name": "Vanilla Shake - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/vanilla-shake-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936436",
+      "food_name": "Chocolate Chip Cookie Dough Blizzard - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/chocolate-chip-cookie-dough-blizzard-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936834",
+      "food_name": "Turtle Pecan Cluster Blizzard - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/turtle-pecan-cluster-blizzard-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937101",
+      "food_name": "Strawberry Shake - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/strawberry-shake-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937129",
+      "food_name": "Vanilla Shake - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/vanilla-shake-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103835591",
+      "food_name": "Superman Cake Batter Cookie Dough Blizzard - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/superman-cake-batter-cookie-dough-blizzard-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937616",
+      "food_name": "Strawberry Sundae - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/strawberry-sundae-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6084481",
+      "food_name": "Crispy Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/crispy-chicken-salad",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936213",
+      "food_name": "Cotton Candy Blizzard - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/cotton-candy-blizzard-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103835102",
+      "food_name": "S’Mores Blizzard - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/s%E2%80%99mores-blizzard-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837591",
+      "food_name": "Superman Cake Batter Cookie Dough Blizzard - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/superman-cake-batter-cookie-dough-blizzard-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937276",
+      "food_name": "Caramel Sundae - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/caramel-sundae-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834384",
+      "food_name": "Buffalo Sauced & Tossed Chicken Strip Basket - 6 pc",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/buffalo-sauced-tossed-chicken-strip-basket-6-pc",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837757",
+      "food_name": "Chocolate Cone - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/chocolate-cone-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834798",
+      "food_name": "Dipped Strawberry Cheesecake Blizzard - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dipped-strawberry-cheesecake-blizzard-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101286398",
+      "food_name": "Cotton Candy Blizzard - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/cotton-candy-blizzard-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936411",
+      "food_name": "Choco Brownie Extreme Blizzard - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/choco-brownie-extreme-blizzard-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87390014",
+      "food_name": "Backyard Bacon Ranch Burger - Triple",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/backyard-bacon-ranch-burger-triple",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936897",
+      "food_name": "Chocolate Shake - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/chocolate-shake-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103835583",
+      "food_name": "S’Mores Blizzard - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/s%E2%80%99mores-blizzard-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837911",
+      "food_name": "Dipped Cone, Chocolate - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dipped-cone-chocolate-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937237",
+      "food_name": "Misty Slush - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/misty-slush-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937089",
+      "food_name": "Strawberry Shake - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/strawberry-shake-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87390992",
+      "food_name": "Shredded Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/shredded-cheese",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937248",
+      "food_name": "Misty Slush - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/misty-slush-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838023",
+      "food_name": "Dilly Bar - 6 Pack - Manufactured",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dilly-bar-6-pack-manufactured",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103835174",
+      "food_name": "Reese’S PB Cups Blizzard - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/reese%E2%80%99s-pb-cups-blizzard-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936715",
+      "food_name": "M&M’s Chocolate Candy Blizzard - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/m-m%E2%80%99s-chocolate-candy-blizzard-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937126",
+      "food_name": "Vanilla Shake - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/vanilla-shake-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937233",
+      "food_name": "Misty Freeze - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/misty-freeze-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937045",
+      "food_name": "Hot Fudge Shake - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/hot-fudge-shake-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834561",
+      "food_name": "Dipped Strawberry Cheesecake Blizzard - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dipped-strawberry-cheesecake-blizzard-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936838",
+      "food_name": "Turtle Pecan Cluster Blizzard - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/turtle-pecan-cluster-blizzard-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103835342",
+      "food_name": "Chocolate Cone - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/chocolate-cone-kids",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936694",
+      "food_name": "Heath Blizzard - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/heath-blizzard-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834559",
+      "food_name": "Dipped Strawberry Cheesecake Blizzard - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dipped-strawberry-cheesecake-blizzard-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103835589",
+      "food_name": "Superman Cake Batter Cookie Dough Blizzard - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/superman-cake-batter-cookie-dough-blizzard-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936889",
+      "food_name": "Caramel Shake - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/caramel-shake-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84306366",
+      "food_name": "Cookie Dough Pieces - Medium/Large Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/cookie-dough-pieces-medium-large-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103835586",
+      "food_name": "Superman Cake Batter Cookie Dough Blizzard - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/superman-cake-batter-cookie-dough-blizzard-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103835229",
+      "food_name": "Reese’S PB Cups Blizzard - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/reese%E2%80%99s-pb-cups-blizzard-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837604",
+      "food_name": "M&M’S Chocolate Candy Blizzard - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/m-m%E2%80%99s-chocolate-candy-blizzard-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937225",
+      "food_name": "Misty Freeze - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/misty-freeze-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938636",
+      "food_name": "Dipped Cone, Cherry - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dipped-cone-cherry-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84306312",
+      "food_name": "Brownie Pieces - Mini/Small Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/brownie-pieces-mini-small-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84306334",
+      "food_name": "Cheesecake Pieces - Mini/Small Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/cheesecake-pieces-mini-small-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87390771",
+      "food_name": "Pineapple Sundae - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/pineapple-sundae-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87470453",
+      "food_name": "Grilled Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/grilled-chicken-sandwich",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837596",
+      "food_name": "M&M’S Chocolate Candy Blizzard - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/m-m%E2%80%99s-chocolate-candy-blizzard-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936885",
+      "food_name": "Caramel Shake - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/caramel-shake-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937240",
+      "food_name": "Misty Slush - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/misty-slush-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837649",
+      "food_name": "Snickers Blizzard - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/snickers-blizzard-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838051",
+      "food_name": "Dilly Bar - 6 Pack - Store Made",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dilly-bar-6-pack-store-made",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838340",
+      "food_name": "Reese’s Peanut Butter Cup Pieces - Medium/Large Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/reese%E2%80%99s-peanut-butter-cup-pieces-medium-large-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937263",
+      "food_name": "Caramel Sundae - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/caramel-sundae-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837783",
+      "food_name": "Dipped Cone, Chocolate - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dipped-cone-chocolate-kids",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937039",
+      "food_name": "Hot Fudge Shake - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/hot-fudge-shake-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937180",
+      "food_name": "Mocha MooLatte - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mocha-moolatte-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99604050",
+      "food_name": "Cotton Candy Blizzard - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/cotton-candy-blizzard-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834994",
+      "food_name": "S’Mores Blizzard - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/s%E2%80%99mores-blizzard-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103835287",
+      "food_name": "Turtle Pecan Cluster Blizzard - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/turtle-pecan-cluster-blizzard-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937219",
+      "food_name": "Misty Freeze - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/misty-freeze-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84265088",
+      "food_name": "Frosted Animal Cookie Blizzard - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/frosted-animal-cookie-blizzard-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84306389",
+      "food_name": "OREO Cookie Pieces - Mini/Small Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/oreo-cookie-pieces-mini-small-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936877",
+      "food_name": "Caramel Shake - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/caramel-shake-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938738",
+      "food_name": "Mango Pineapple Smoothie - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mango-pineapple-smoothie-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834893",
+      "food_name": "Mixing Bowl Mashup Blizzard - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mixing-bowl-mashup-blizzard-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838288",
+      "food_name": "Reese’S Peanut Butter Cup Pieces - Mini/Small Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/reese%E2%80%99s-peanut-butter-cup-pieces-mini-small-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834619",
+      "food_name": "Reese’S PB Cups Blizzard - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/reese%E2%80%99s-pb-cups-blizzard-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834896",
+      "food_name": "Mixing Bowl Mashup Blizzard - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mixing-bowl-mashup-blizzard-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837607",
+      "food_name": "Royal NY Cheesecake Blizzard with Strawberry - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/royal-ny-cheesecake-blizzard-with-strawberry-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837646",
+      "food_name": "Snickers Blizzard - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/snickers-blizzard-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837942",
+      "food_name": "Sheet Cake Multi Color Icing Quins and Streamers - RTD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/sheet-cake-multi-color-icing-quins-and-streamers-rtd",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937301",
+      "food_name": "Chocolate Sundae - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/chocolate-sundae-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938760",
+      "food_name": "Strawberry Banana Smoothie - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/strawberry-banana-smoothie-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834549",
+      "food_name": "Dipped Strawberry Cheesecake Blizzard - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dipped-strawberry-cheesecake-blizzard-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837608",
+      "food_name": "Royal NY Cheesecake Blizzard with Strawberry - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/royal-ny-cheesecake-blizzard-with-strawberry-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837741",
+      "food_name": "DQ Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dq-sprinkles",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837876",
+      "food_name": "Dipped Cone, Chocolate - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dipped-cone-chocolate-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937197",
+      "food_name": "Vanilla MooLatte - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/vanilla-moolatte-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837944",
+      "food_name": "Sheet Cake Multi Color Icing Quins and Streamers - Store Made",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/sheet-cake-multi-color-icing-quins-and-streamers-store-made",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837967",
+      "food_name": "Buster Bar - 6 Pack - Manufactured",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/buster-bar-6-pack-manufactured",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103998217",
+      "food_name": "Jalitos Ranch Hungr-Buster",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/jalitos-ranch-hungr-buster",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937149",
+      "food_name": "Caramel MooLatte - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/caramel-moolatte-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938813",
+      "food_name": "Orange Julius - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/orange-julius-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84306328",
+      "food_name": "Cheesecake Pieces - Medium/Large Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/cheesecake-pieces-medium-large-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104045606",
+      "food_name": "Orange Cream Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/orange-cream-shake",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937167",
+      "food_name": "Mocha MooLatte - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mocha-moolatte-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937193",
+      "food_name": "Vanilla MooLatte - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/vanilla-moolatte-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938734",
+      "food_name": "Mango Pineapple Smoothie - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mango-pineapple-smoothie-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938736",
+      "food_name": "Mango Pineapple Smoothie - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mango-pineapple-smoothie-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938756",
+      "food_name": "Strawberry Banana Smoothie - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/strawberry-banana-smoothie-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84265316",
+      "food_name": "Cherry Sundae - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/cherry-sundae-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84306386",
+      "food_name": "OREO Cookie Pieces - Medium/Large Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/oreo-cookie-pieces-medium-large-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834889",
+      "food_name": "Mixing Bowl Mashup Blizzard - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mixing-bowl-mashup-blizzard-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837613",
+      "food_name": "Royal NY Cheesecake Blizzard with Strawberry - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/royal-ny-cheesecake-blizzard-with-strawberry-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838176",
+      "food_name": "M&M’s Candies - Mini/Small Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/m-m%E2%80%99s-candies-mini-small-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938727",
+      "food_name": "DQ Sandwich - 6 Pack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dq-sandwich-6-pack",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834514",
+      "food_name": "Dipped Cone, Cherry - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dipped-cone-cherry-kids",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834877",
+      "food_name": "Crunchin’ Cookie Dipped Cone - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/crunchin%E2%80%99-cookie-dipped-cone-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103835265",
+      "food_name": "Royal NY Cheesecake Blizzard with Strawberry - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/royal-ny-cheesecake-blizzard-with-strawberry-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937139",
+      "food_name": "Caramel MooLatte - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/caramel-moolatte-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84306354",
+      "food_name": "Choco Chunks - Mini/Small Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/choco-chunks-mini-small-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834882",
+      "food_name": "Mixing Bowl Mashup Blizzard - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mixing-bowl-mashup-blizzard-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834986",
+      "food_name": "S’Mores Blizzard - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/s%E2%80%99mores-blizzard-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837623",
+      "food_name": "Royal Ultimate Choco Brownie Blizzard with Fudge - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/royal-ultimate-choco-brownie-blizzard-with-fudge-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837657",
+      "food_name": "Banana Shake - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/banana-shake-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837666",
+      "food_name": "Make It A Malt Adds - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/make-it-a-malt-adds-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837750",
+      "food_name": "Peanut Butter Sundae - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/peanut-butter-sundae-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838504",
+      "food_name": "10-inch Dots Blue Orange Yellow Green Icing - Store Made",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/10-inch-dots-blue-orange-yellow-green-icing-store-made",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838596",
+      "food_name": "8-inch  Dots Blue Orange Yellow Green Icing - Store Made",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/8-inch-dots-blue-orange-yellow-green-icing-store-made",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937036",
+      "food_name": "Hot Fudge Shake - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/hot-fudge-shake-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937157",
+      "food_name": "Caramel MooLatte - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/caramel-moolatte-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937185",
+      "food_name": "Vanilla MooLatte - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/vanilla-moolatte-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938809",
+      "food_name": "Orange Julius - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/orange-julius-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69939125",
+      "food_name": "Pineapple Topping - Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/pineapple-topping-sundae",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84306350",
+      "food_name": "Choco Chunks - Medium/Large Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/choco-chunks-medium-large-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837625",
+      "food_name": "Royal Ultimate Choco Brownie Blizzard with Fudge - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/royal-ultimate-choco-brownie-blizzard-with-fudge-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838162",
+      "food_name": "Fudge - Medium/Large Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/fudge-medium-large-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938752",
+      "food_name": "Strawberry Banana Smoothie - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/strawberry-banana-smoothie-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84265310",
+      "food_name": "Cherry Sundae - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/cherry-sundae-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84306306",
+      "food_name": "Tripleberry Julius - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/tripleberry-julius-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84306409",
+      "food_name": "Strawberry Topping - Mini/Small Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/strawberry-topping-mini-small-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87390763",
+      "food_name": "Pineapple Sundae - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/pineapple-sundae-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834878",
+      "food_name": "Crunchin’ Cookie Dipped Cone - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/crunchin%E2%80%99-cookie-dipped-cone-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103835557",
+      "food_name": "Dipped Cone, Cherry - Large (Limited Time Offering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dipped-cone-cherry-large-(limited-time-offering)",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837730",
+      "food_name": "Mango Misty Slush - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mango-misty-slush-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837748",
+      "food_name": "Peanut Butter Sundae - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/peanut-butter-sundae-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838307",
+      "food_name": "Strawberry Topping - Sundae, Shake, Malt, Medium/Large Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/strawberry-topping-sundae-shake-malt-medium-large-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84306310",
+      "food_name": "Brownie Pieces - Medium/Large Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/brownie-pieces-medium-large-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84306356",
+      "food_name": "Chocolate Topping - Mini/Small Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/chocolate-topping-mini-small-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87390769",
+      "food_name": "Pineapple Sundae - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/pineapple-sundae-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103835551",
+      "food_name": "Dipped Cone, Cherry - Kids (Limited Time Offering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dipped-cone-cherry-kids-(limited-time-offering)",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837669",
+      "food_name": "Make It A Malt Adds - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/make-it-a-malt-adds-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837683",
+      "food_name": "Peanut Butter Shake - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/peanut-butter-shake-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837727",
+      "food_name": "Mango Misty Slush - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mango-misty-slush-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938746",
+      "food_name": "Mango Pineapple Smoothie - XLarge",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mango-pineapple-smoothie-xlarge",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84265198",
+      "food_name": "Pineapple Sunrise PFS - Extra Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/pineapple-sunrise-pfs-extra-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87390946",
+      "food_name": "Store Made Dilly Bar - 6 Pack - Mobile Add Ons",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/store-made-dilly-bar-6-pack-mobile-add-ons",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837629",
+      "food_name": "Royal Ultimate Choco Brownie Blizzard with Fudge - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/royal-ultimate-choco-brownie-blizzard-with-fudge-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837677",
+      "food_name": "Peanut Butter Shake - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/peanut-butter-shake-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837693",
+      "food_name": "Mango Misty Freeze - Extra Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mango-misty-freeze-extra-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837696",
+      "food_name": "Mango Misty Freeze - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mango-misty-freeze-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837699",
+      "food_name": "Mango Misty Freeze - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mango-misty-freeze-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837723",
+      "food_name": "Mango Misty Slush - Extra Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mango-misty-slush-extra-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837752",
+      "food_name": "Peanut Butter Sundae - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/peanut-butter-sundae-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838074",
+      "food_name": "Tripleberry Smoothie - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/tripleberry-smoothie-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838098",
+      "food_name": "Banana - Shake, Malt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/banana-shake-malt",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838106",
+      "food_name": "Butterfinger Pieces - Medium/Large Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/butterfinger-pieces-medium-large-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838111",
+      "food_name": "Butterfinger Pieces - Mini/Small Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/butterfinger-pieces-mini-small-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838130",
+      "food_name": "Caramel Topping - Sundae, Shake, Malt, Moolatte, Medium/Large Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/caramel-topping-sundae-shake-malt-moolatte-medium-large-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838165",
+      "food_name": "Fudge - Mini/Small Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/fudge-mini-small-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838170",
+      "food_name": "M&M’s Candies - Medium/Large Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/m-m%E2%80%99s-candies-medium-large-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838324",
+      "food_name": "Vanilla Syrup - Shake, Malt, Moolatte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/vanilla-syrup-shake-malt-moolatte",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838493",
+      "food_name": "10-inch Dots Blue Orange Yellow Green Icing - RTD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/10-inch-dots-blue-orange-yellow-green-icing-rtd",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106169869",
+      "food_name": "Fries - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/fries-regular",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69937163",
+      "food_name": "Mocha MooLatte - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mocha-moolatte-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69938819",
+      "food_name": "Orange Julius - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/orange-julius-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84265269",
+      "food_name": "Cherry Sundae - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/cherry-sundae-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84306322",
+      "food_name": "Caramel Topping - Mini/Small Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/caramel-topping-mini-small-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87390851",
+      "food_name": "Strawberry Banana Smoothie - XLarge",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/strawberry-banana-smoothie-xlarge",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103834871",
+      "food_name": "Crunchin’ Cookie Dipped Cone - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/crunchin%E2%80%99-cookie-dipped-cone-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103835567",
+      "food_name": "Dipped Cone, Cherry - Medium (Limited Time Offering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dipped-cone-cherry-medium-(limited-time-offering)",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103835581",
+      "food_name": "Dipped Cone, Cherry - Small (Limited Time Offering)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/dipped-cone-cherry-small-(limited-time-offering)",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837619",
+      "food_name": "Royal Ultimate Choco Brownie Blizzard with Fudge - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/royal-ultimate-choco-brownie-blizzard-with-fudge-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837656",
+      "food_name": "Banana Shake - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/banana-shake-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837658",
+      "food_name": "Banana Shake - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/banana-shake-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837663",
+      "food_name": "Make It A Malt Adds - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/make-it-a-malt-adds-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837675",
+      "food_name": "Peanut Butter Shake - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/peanut-butter-shake-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837701",
+      "food_name": "Mango Misty Freeze - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mango-misty-freeze-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837734",
+      "food_name": "Mango Misty Slush - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/mango-misty-slush-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838072",
+      "food_name": "Tripleberry Smoothie - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/tripleberry-smoothie-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838077",
+      "food_name": "Tripleberry Smoothie - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/tripleberry-smoothie-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838080",
+      "food_name": "Tripleberry Smoothie - Xlarge",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/tripleberry-smoothie-xlarge",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838088",
+      "food_name": "Strawberry Banana Julius - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/strawberry-banana-julius-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838090",
+      "food_name": "Strawberry Banana Julius - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/strawberry-banana-julius-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838091",
+      "food_name": "Strawberry Banana Julius - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/strawberry-banana-julius-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838148",
+      "food_name": "Chocolate Topping - Sundae, Shake, Malt, Medium/Large Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/chocolate-topping-sundae-shake-malt-medium-large-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838189",
+      "food_name": "Peanut Butter Topping - Mini/Small Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/peanut-butter-topping-mini-small-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838347",
+      "food_name": "Peanut Butter Topping - Sundae, Shake, Malt, Medium/Large Blizzard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/peanut-butter-topping-sundae-shake-malt-medium-large-blizzard",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103838594",
+      "food_name": "8-inch  Dots Blue Orange Yellow Green Icing - RTD",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/8-inch-dots-blue-orange-yellow-green-icing-rtd",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    }
+  ]
+}

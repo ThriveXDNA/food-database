@@ -1,0 +1,48 @@
+{
+  "restaurant": "Main St Bistro",
+  "total_items": 5,
+  "pages_extracted": 4,
+  "total_search_results": 157,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:11:39.089Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/main_st_bistro.json",
+  "items": [
+    {
+      "food_id": "51588830",
+      "food_name": "Baked Macaroni and Cheese (220g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/main-st-bistro/baked-macaroni-and-cheese-(220g)",
+      "brand_name": "Main St Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51421566",
+      "food_name": "Roasted Garlic & Rosemary Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/main-st-bistro/roasted-garlic-rosemary-potatoes",
+      "brand_name": "Main St Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99144462",
+      "food_name": "Baked Scalloped Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/main-st-bistro/baked-scalloped-potatoes",
+      "brand_name": "Main St Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59997560",
+      "food_name": "Roasted Sea Salt & Black Pepper Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/main-st-bistro/roasted-sea-salt-black-pepper-potatoes",
+      "brand_name": "Main St Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39888761",
+      "food_name": "Macaroni & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/main-st-bistro/macaroni-cheese",
+      "brand_name": "Main St Bistro",
+      "food_type": "Brand"
+    }
+  ]
+}

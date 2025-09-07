@@ -1,0 +1,41 @@
+{
+  "restaurant": "Joy Cone",
+  "total_items": 4,
+  "pages_extracted": 5,
+  "total_search_results": 242,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:08:36.756Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/joy_cone.json",
+  "items": [
+    {
+      "food_id": "604176",
+      "food_name": "Classic Waffle Cones",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joy-cone/classic-waffle-cones",
+      "brand_name": "Joy Cone",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68541",
+      "food_name": "Old-fashioned Sugar Cones",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joy-cone/old-fashioned-sugar-cones",
+      "brand_name": "Joy Cone",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1206690",
+      "food_name": "Ice Cream Cups",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joy-cone/ice-cream-cups",
+      "brand_name": "Joy Cone",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76923221",
+      "food_name": "Old-Fashioned Sugar Cones (15g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/joy-cone/old-fashioned-sugar-cones-(15g)",
+      "brand_name": "Joy Cone",
+      "food_type": "Brand"
+    }
+  ]
+}

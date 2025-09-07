@@ -1,0 +1,34 @@
+{
+  "brand_name": "Fairbury Brand",
+  "total_items": 3,
+  "pages_extracted": 2,
+  "total_search_results": 64,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:54:32.922Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/fairbury_brand.json",
+  "items": [
+    {
+      "food_id": "525030",
+      "food_name": "Tomboy Stadium Hot Dogs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fairbury-brand/tomboy-stadium-hot-dogs",
+      "brand_name": "Fairbury Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "525023",
+      "food_name": "Beef Hot Dogs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fairbury-brand/beef-hot-dogs",
+      "brand_name": "Fairbury Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "525027",
+      "food_name": "Hot Dogs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fairbury-brand/hot-dogs",
+      "brand_name": "Fairbury Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

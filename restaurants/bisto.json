@@ -1,0 +1,41 @@
+{
+  "restaurant": "Bisto",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:11:26.891Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bisto.json",
+  "items": [
+    {
+      "food_id": "4540205",
+      "food_name": "Brown Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bisto/brown-gravy",
+      "brand_name": "Bisto",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93170",
+      "food_name": "Chicken Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bisto/chicken-gravy",
+      "brand_name": "Bisto",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43932",
+      "food_name": "Onion Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bisto/onion-gravy",
+      "brand_name": "Bisto",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3372747",
+      "food_name": "Cheese Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bisto/cheese-sauce",
+      "brand_name": "Bisto",
+      "food_type": "Brand"
+    }
+  ]
+}

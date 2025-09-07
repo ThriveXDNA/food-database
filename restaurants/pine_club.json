@@ -1,0 +1,20 @@
+{
+  "restaurant": "Pine Club",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 493,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:57:02.255Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pine_club.json",
+  "items": [
+    {
+      "food_id": "5019243",
+      "food_name": "House Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pine-club/house-dressing",
+      "brand_name": "Pine Club",
+      "food_type": "Brand"
+    }
+  ]
+}

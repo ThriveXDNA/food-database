@@ -1,0 +1,55 @@
+{
+  "restaurant": "Steak-Eze",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 2002,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:56:52.372Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/steak_eze.json",
+  "items": [
+    {
+      "food_id": "736067",
+      "food_name": "Sirloin Beef Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/steak-eze/sirloin-beef-steak",
+      "brand_name": "Steak-Eze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10419600",
+      "food_name": "Steak Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/steak-eze/steak-strips",
+      "brand_name": "Steak-Eze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4159912",
+      "food_name": "Thinly Sliced Sirloin Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/steak-eze/thinly-sliced-sirloin-beef",
+      "brand_name": "Steak-Eze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1858646",
+      "food_name": "Philly Beef Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/steak-eze/philly-beef-steak",
+      "brand_name": "Steak-Eze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12385737",
+      "food_name": "Steak & Cheese Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/steak-eze/steak-cheese-sandwich",
+      "brand_name": "Steak-Eze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2144802",
+      "food_name": "Angus Philly Cheese Steak Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/steak-eze/angus-philly-cheese-steak-kit",
+      "brand_name": "Steak-Eze",
+      "food_type": "Brand"
+    }
+  ]
+}

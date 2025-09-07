@@ -1,0 +1,34 @@
+{
+  "brand_name": "East Wind",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 22,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:13:18.611Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/east_wind.json",
+  "items": [
+    {
+      "food_id": "10194184",
+      "food_name": "Almond Butter Smooth No Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/east-wind/almond-butter-smooth-no-salt",
+      "brand_name": "East Wind",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100484",
+      "food_name": "Cashew Butter Raw",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/east-wind/cashew-butter-raw",
+      "brand_name": "East Wind",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3128632",
+      "food_name": "Organic Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/east-wind/organic-peanut-butter",
+      "brand_name": "East Wind",
+      "food_type": "Brand"
+    }
+  ]
+}

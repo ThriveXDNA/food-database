@@ -1,0 +1,20 @@
+{
+  "restaurant": "Natural Touch",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 1542,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:08:09.186Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/natural_touch.json",
+  "items": [
+    {
+      "food_id": "3875347",
+      "food_name": "Kaffree Roma",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-touch/kaffree-roma",
+      "brand_name": "Natural Touch",
+      "food_type": "Brand"
+    }
+  ]
+}

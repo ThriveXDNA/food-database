@@ -1,0 +1,20 @@
+{
+  "restaurant": "Boomi Bar",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 3467,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:58:33.963Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/boomi_bar.json",
+  "items": [
+    {
+      "food_id": "3120225",
+      "food_name": "Rise Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boomi-bar/rise-protein-bar",
+      "brand_name": "Boomi Bar",
+      "food_type": "Brand"
+    }
+  ]
+}

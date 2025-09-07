@@ -1,0 +1,76 @@
+{
+  "restaurant": "Chabaso Bakery",
+  "total_items": 9,
+  "pages_extracted": 2,
+  "total_search_results": 53,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:12:01.377Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/chabaso_bakery.json",
+  "items": [
+    {
+      "food_id": "5558142",
+      "food_name": "Classic Ciabatta Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chabaso-bakery/classic-ciabatta-roll",
+      "brand_name": "Chabaso Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3531492",
+      "food_name": "Rainin' Grains Ciabatta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chabaso-bakery/rainin-grains-ciabatta",
+      "brand_name": "Chabaso Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1711722",
+      "food_name": "Roasted Garlic Ciabatta Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chabaso-bakery/roasted-garlic-ciabatta-bread",
+      "brand_name": "Chabaso Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1748053",
+      "food_name": "Olive Oil Ciabatta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chabaso-bakery/olive-oil-ciabatta",
+      "brand_name": "Chabaso Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1311653",
+      "food_name": "Classic Baguette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chabaso-bakery/classic-baguette",
+      "brand_name": "Chabaso Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1679081",
+      "food_name": "Classic Ciabatta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chabaso-bakery/classic-ciabatta",
+      "brand_name": "Chabaso Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3319368",
+      "food_name": "Wheat Ciabatta Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chabaso-bakery/wheat-ciabatta-roll",
+      "brand_name": "Chabaso Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1882008",
+      "food_name": "Ciabatta Stix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chabaso-bakery/ciabatta-stix",
+      "brand_name": "Chabaso Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "994154",
+      "food_name": "Wheat Ciabatta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chabaso-bakery/wheat-ciabatta",
+      "brand_name": "Chabaso Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

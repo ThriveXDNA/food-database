@@ -1,0 +1,55 @@
+{
+  "restaurant": "Ducktrap",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:38:24.783Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ducktrap.json",
+  "items": [
+    {
+      "food_id": "1431905",
+      "food_name": "Smoked Atlantic Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ducktrap/smoked-atlantic-salmon",
+      "brand_name": "Ducktrap",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41285910",
+      "food_name": "Sockeye Wild Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ducktrap/sockeye-wild-salmon",
+      "brand_name": "Ducktrap",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1840689",
+      "food_name": "Smoked Wild Sockeye Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ducktrap/smoked-wild-sockeye-salmon",
+      "brand_name": "Ducktrap",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1840642",
+      "food_name": "Smoked Rainbow Trout Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ducktrap/smoked-rainbow-trout-fillets",
+      "brand_name": "Ducktrap",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1349107",
+      "food_name": "Mustard Dill Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ducktrap/mustard-dill-sauce",
+      "brand_name": "Ducktrap",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "333409",
+      "food_name": "Smoked Mussels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ducktrap/smoked-mussels",
+      "brand_name": "Ducktrap",
+      "food_type": "Brand"
+    }
+  ]
+}

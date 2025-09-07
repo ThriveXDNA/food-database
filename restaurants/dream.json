@@ -1,0 +1,741 @@
+{
+  "restaurant": "Dream",
+  "total_items": 104,
+  "pages_extracted": 3,
+  "total_search_results": 104,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:09:31.338Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dream.json",
+  "items": [
+    {
+      "food_id": "45668351",
+      "food_name": "Unsweetened Oat Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dream/unsweetened-oat-milk",
+      "brand_name": "Dream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7159498",
+      "food_name": "Latte Mocha Coffee & Almond Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dream/latte-mocha-coffee-and-almond-drink",
+      "brand_name": "Dream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8812507",
+      "food_name": "Sea Salt Caramel Gelato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dream/sea-salt-caramel-gelato",
+      "brand_name": "Dream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34581173",
+      "food_name": "Oat Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dream/oat-milk",
+      "brand_name": "Dream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25086790",
+      "food_name": "Whey Protein Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dream/whey-protein-powder",
+      "brand_name": "Dream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72448941",
+      "food_name": "Reese's Chocolate Peanut Butter Dream with Whipped Topping - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/reeses-chocolate-peanut-butter-dream-with-whipped-topping-12-oz",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72448942",
+      "food_name": "Reese's Chocolate Peanut Butter Dream with Whipped Topping - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/reeses-chocolate-peanut-butter-dream-with-whipped-topping-20-oz",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72448993",
+      "food_name": "Reese's Chocolate Peanut Butter Dream without Whipped Topping - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/reeses-chocolate-peanut-butter-dream-without-whipped-topping-20-oz",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72448991",
+      "food_name": "Reese's Chocolate Peanut Butter Dream without Whipped Topping - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/reeses-chocolate-peanut-butter-dream-without-whipped-topping-12-oz",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75623099",
+      "food_name": "Stephen Colbert's Americone Dream Non-Dairy Frozen Dessert",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ben-jerrys/stephen-colberts-americone-dream-non-dairy-frozen-dessert",
+      "brand_name": "Ben & Jerry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104302432",
+      "food_name": "Dirty MTN Dew Baja Blast Dream Soda - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-bell/dirty-mtn-dew-baja-blast-dream-soda-medium",
+      "brand_name": "Taco Bell",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104520377",
+      "food_name": "Coffee Dream Machine Blended Coffee (Small, 2% Milk)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/coffee-dream-machine-blended-coffee-(small-2-milk)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521557",
+      "food_name": "Coffee Dream Machine Blended Coffee (Large, 2% Milk)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/coffee-dream-machine-blended-coffee-(large-2-milk)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73483325",
+      "food_name": "Premium Dream Cooler - Ice Cream Hand-Packed Pint",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/braums/premium-dream-cooler-ice-cream-hand-packed-pint",
+      "brand_name": "Braum's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104302386",
+      "food_name": "Dirty MTN Dew Baja Blast Dream Soda - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-bell/dirty-mtn-dew-baja-blast-dream-soda-large",
+      "brand_name": "Taco Bell",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104302439",
+      "food_name": "Dirty MTN Dew Baja Blast Dream Soda - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-bell/dirty-mtn-dew-baja-blast-dream-soda-small",
+      "brand_name": "Taco Bell",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521563",
+      "food_name": "Coffee Dream Machine Blended Coffee (Medium, 2% Milk)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/coffee-dream-machine-blended-coffee-(medium-2-milk)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7707477",
+      "food_name": "Protein Energy Crisp Bar - Sweet Vanilla Dream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/power-crunch/protein-energy-crisp-bar---sweet-vanilla-dream",
+      "brand_name": "Power Crunch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73476689",
+      "food_name": "Premium Dream Cooler - Ice Cream Junior Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/braums/premium-dream-cooler-ice-cream-junior-dip",
+      "brand_name": "Braum's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75623314",
+      "food_name": "Oatmeal Dream Pie Non-Dairy Frozen Dessert",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/100414226_106718183_2410191037_Oatmeal+Dream+Pie+Non-Dairy+Frozen+Dessert",
+      "brand_name": "Ben & Jerry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84625735",
+      "food_name": "Dream Cookie Made with M&M’s Minis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tim-hortons/dream-cookie-made-with-m-m%E2%80%99s-minis",
+      "brand_name": "Tim Hortons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84625743",
+      "food_name": "Dream Cookie Made with Pecans & Reese's Minis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tim-hortons/dream-cookie-made-with-pecans-reeses-minis",
+      "brand_name": "Tim Hortons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73147383",
+      "food_name": "Chocolate Dream - Sogno Di Cioccolata - Party Pans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carrabbas-italian-grill/chocolate-dream-sogno-di-cioccolata-party-pans",
+      "brand_name": "Carrabba's Italian Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73477116",
+      "food_name": "Premium Dream Cooler - Ice Cream Single Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/braums/premium-dream-cooler-ice-cream-single-dip",
+      "brand_name": "Braum's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75623598",
+      "food_name": "Oatmeal Dream Pie Ice Cream - 1 Scoop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ben-jerrys/oatmeal-dream-pie-ice-cream-1-scoop",
+      "brand_name": "Ben & Jerry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60550996",
+      "food_name": "Optimal Health Dark Chocolate Dream Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/optavia/optimal-health-dark-chocolate-dream-bar",
+      "brand_name": "Optavia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171366",
+      "food_name": "Malibu Dream Ice Blended - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/malibu-dream-ice-blended-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171371",
+      "food_name": "Malibu Dream Ice Blended - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/malibu-dream-ice-blended-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171372",
+      "food_name": "Malibu Dream Ice Blended - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/malibu-dream-ice-blended-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172158",
+      "food_name": "Malibu Dream Ice Blended - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/malibu-dream-ice-blended-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106595786",
+      "food_name": "Americone Dream Ice Cream - Mini Cups",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ben-jerrys/americone-dream-ice-cream-mini-cups",
+      "brand_name": "Ben & Jerry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "161865",
+      "food_name": "Sublime White Vanilla Dream Chocolate Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ghirardelli/sublime-white-vanilla-dream-chocolate-bars",
+      "brand_name": "Ghirardelli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "162435",
+      "food_name": "Intense Dark Evening Dream 60% Cacao",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ghirardelli/intense-dark-evening-dream-60%25-cacao",
+      "brand_name": "Ghirardelli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11821345",
+      "food_name": "Vanilla Bean Dream Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/skinny-cow/vanilla-bean-dream-ice-cream-sandwich",
+      "brand_name": "Skinny Cow",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84625739",
+      "food_name": "Rocky Road Dream Cookie with Pecans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tim-hortons/rocky-road-dream-cookie-with-pecans",
+      "brand_name": "Tim Hortons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84850351",
+      "food_name": "Peanut Butter and Banana Dream Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/peanut-butter-and-banana-dream-mix",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106595940",
+      "food_name": "Americone Dream Ice Cream - Scoop Shop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ben-jerrys/americone-dream-ice-cream-scoop-shop",
+      "brand_name": "Ben & Jerry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2122079",
+      "food_name": "Nutritional Shake Mix - Vanilla Dream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/herbalife/nutritional-shake-mix---vanilla-dream",
+      "brand_name": "Herbalife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61888534",
+      "food_name": "Blueberry Dream Frozen Dessert Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/blueberry-dream-frozen-dessert-bars",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49145864",
+      "food_name": "American Dream Triopolitan Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/american-dream-triopolitan-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73483693",
+      "food_name": "Premium Dream Cooler - Malt Jr.",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/braums/premium-dream-cooler-malt-jr",
+      "brand_name": "Braum's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73513009",
+      "food_name": "Premium Dream Cooler - Shakes Jr.",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/braums/premium-dream-cooler-shakes-jr",
+      "brand_name": "Braum's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73146008",
+      "food_name": "Chocolate Dream - Sogno Di Cioccolata",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carrabbas-italian-grill/chocolate-dream-sogno-di-cioccolata",
+      "brand_name": "Carrabba's Italian Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619962",
+      "food_name": "Orange Dream Machine Smoothie (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-dream-machine-smoothie-(medium)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104519607",
+      "food_name": "Mango Pineapple Dream Refresher - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunkin-donuts/mango-pineapple-dream-refresher-large",
+      "brand_name": "Dunkin' Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104519609",
+      "food_name": "Mango Pineapple Dream Refresher - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunkin-donuts/mango-pineapple-dream-refresher-medium",
+      "brand_name": "Dunkin' Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104519626",
+      "food_name": "Tropical Guava Dream Refresher - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunkin-donuts/tropical-guava-dream-refresher-medium",
+      "brand_name": "Dunkin' Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472230",
+      "food_name": "Veggie Carrot Kale Dream - 20oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/veggie-carrot-kale-dream-20oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69472283",
+      "food_name": "Veggie Carrot Kale Dream - 32oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/veggie-carrot-kale-dream-32oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20229887",
+      "food_name": "Sports Protein Powder - Vanilla Dream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/xs/sports-protein-powder-vanilla-dream",
+      "brand_name": "XS",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51724947",
+      "food_name": "I Dream of Cookies & Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/american-dream-nut-butter/i-dream-of-cookies-cream",
+      "brand_name": "American Dream Nut Butter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73483981",
+      "food_name": "Premium Dream Cooler - Malt Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/braums/premium-dream-cooler-malt-small",
+      "brand_name": "Braum's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73484419",
+      "food_name": "Premium Dream Cooler - Malt Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/braums/premium-dream-cooler-malt-medium",
+      "brand_name": "Braum's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73486264",
+      "food_name": "Premium Dream Cooler - Malt Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/braums/premium-dream-cooler-malt-large",
+      "brand_name": "Braum's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73513150",
+      "food_name": "Premium Dream Cooler - Shakes Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/braums/premium-dream-cooler-shakes-small",
+      "brand_name": "Braum's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73513768",
+      "food_name": "Premium Dream Cooler - Shakes Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/braums/premium-dream-cooler-shakes-medium",
+      "brand_name": "Braum's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73513885",
+      "food_name": "Premium Dream Cooler - Shakes Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/braums/premium-dream-cooler-shakes-large",
+      "brand_name": "Braum's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619957",
+      "food_name": "Orange Dream Machine Smoothie (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-dream-machine-smoothie-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84619965",
+      "food_name": "Orange Dream Machine Smoothie (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/orange-dream-machine-smoothie-(small)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76196834",
+      "food_name": "Buck Bar Protein (Dream Bar)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bucked-up/buck-bar-protein-(dream-bar)",
+      "brand_name": "bucked up",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104519612",
+      "food_name": "Mango Pineapple Dream Refresher - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunkin-donuts/mango-pineapple-dream-refresher-small",
+      "brand_name": "Dunkin' Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104519625",
+      "food_name": "Tropical Guava Dream Refresher - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunkin-donuts/tropical-guava-dream-refresher-large",
+      "brand_name": "Dunkin' Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104519634",
+      "food_name": "Tropical Guava Dream Refresher - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunkin-donuts/tropical-guava-dream-refresher-small",
+      "brand_name": "Dunkin' Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131307",
+      "food_name": "Veggie Carrot Kale Dream - 44oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smoothie-king/veggie-carrot-kale-dream-44oz",
+      "brand_name": "Smoothie King",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "202085",
+      "food_name": "Triple Chocolate Dream Pudding",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/swiss-miss/triple-chocolate-dream-pudding",
+      "brand_name": "Swiss Miss",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1060827",
+      "food_name": "Orange Dream Gourmet Soda",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sprecher/orange-dream-gourmet-soda",
+      "brand_name": "Sprecher",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8789335",
+      "food_name": "Banana Cream Dream Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sharis/banana-cream-dream-pie",
+      "brand_name": "Shari's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10470800",
+      "food_name": "Flip Peanut Butter Dream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-peanut-butter-dream",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8861787",
+      "food_name": "Maple Pecan Dream Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sprouts-farmers-market/maple-pecan-dream-granola",
+      "brand_name": "Sprouts Farmers Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40969947",
+      "food_name": "Protein Bar Chocolate Dream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/genius-gourmet/protein-bar-chocolate-dream",
+      "brand_name": "Genius Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104498776",
+      "food_name": "Green Dream Smoothie Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seasons-choice/green-dream-smoothie-blend",
+      "brand_name": "Season's Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104519614",
+      "food_name": "Strawberry Dream Refresher - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunkin-donuts/strawberry-dream-refresher-large",
+      "brand_name": "Dunkin' Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104519619",
+      "food_name": "Strawberry Dream Refresher - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunkin-donuts/strawberry-dream-refresher-small",
+      "brand_name": "Dunkin' Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105404176",
+      "food_name": "Sundae Dream Caramel Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hersheys/sundae-dream-caramel-syrup",
+      "brand_name": "Hershey's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75623554",
+      "food_name": "Americone Dream Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ben-jerrys/americone-dream-ice-cream",
+      "brand_name": "Ben & Jerry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41540",
+      "food_name": "Winter Dream Tea Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-coffee-bean-and-tea/winter-dream-tea-latte",
+      "brand_name": "The Coffee Bean and Tea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "659116",
+      "food_name": "Summer's Dream Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/schwans/summers-dream-ice-cream",
+      "brand_name": "Schwan's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6299317",
+      "food_name": "Orange Dream Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/our-family/orange-dream-ice-cream",
+      "brand_name": "Our Family",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7832628",
+      "food_name": "Honey Nut Dream Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/open-nature/honey-nut-dream-granola/1-4-cup",
+      "brand_name": "Open Nature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104519618",
+      "food_name": "Strawberry Dream Refresher - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunkin-donuts/strawberry-dream-refresher-medium",
+      "brand_name": "Dunkin' Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30275294",
+      "food_name": "Oreo Dream Extreme Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/oreo-dream-extreme-cheesecake",
+      "brand_name": "Cheesecake Factory",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2379811",
+      "food_name": "Orange Dream Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/meadow-gold/orange-dream-bar",
+      "brand_name": "Meadow Gold",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2233843",
+      "food_name": "Cherry Dream Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/earth-cafe/cherry-dream-cheesecake",
+      "brand_name": "Earth Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54756792",
+      "food_name": "Rainbow Dream Sherbet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/publix/rainbow-dream-sherbet",
+      "brand_name": "Publix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84625715",
+      "food_name": "Oreo Dream Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tim-hortons/oreo-dream-cookie",
+      "brand_name": "Tim Hortons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "800360",
+      "food_name": "Marshmallow Dream Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/starbucks/marshmallow-dream-bar",
+      "brand_name": "Starbucks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "960963",
+      "food_name": "Orange Dream Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-bunny/orange-dream-bar",
+      "brand_name": "Blue Bunny",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9893829",
+      "food_name": "Chocolate Dream Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chocolate-dream-shake",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62790865",
+      "food_name": "Mini Dark Dream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crumbl-cookies/mini-dark-dream",
+      "brand_name": "Crumbl Cookies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78415833",
+      "food_name": "Day Dream Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seven-sundays/day-dream-mix",
+      "brand_name": "Seven Sundays",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42990",
+      "food_name": "Dream Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/north-star/dream-bars",
+      "brand_name": "North Star",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7641554",
+      "food_name": "Dream Whip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kraft/dream-whip",
+      "brand_name": "Kraft",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58192091",
+      "food_name": "Dark Dream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crumbl-cookies/dark-dream",
+      "brand_name": "Crumbl Cookies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67975857",
+      "food_name": "Dark Dream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crumbl-cookies/dark-dream/1-cookie",
+      "brand_name": "Crumbl Cookies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76915739",
+      "food_name": "Dream Supreme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/caulipower/dream-supreme",
+      "brand_name": "Caulipower",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1415150",
+      "food_name": "Mint Dream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/russell-stover/mint-dream",
+      "brand_name": "Russell Stover",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2607376",
+      "food_name": "Dream Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/greens-first/dream-protein",
+      "brand_name": "Greens First",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4030057",
+      "food_name": "Dream Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-bell/dream-bars",
+      "brand_name": "Blue Bell",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23066618",
+      "food_name": "Orange Dream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-ribbon/orange-dream",
+      "brand_name": "Blue Ribbon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52443273",
+      "food_name": "Strawnana Dream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/koia/strawnana-dream",
+      "brand_name": "Koia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60388952",
+      "food_name": "Dream Float",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alani-nu/dream-float",
+      "brand_name": "Alani Nu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33635056",
+      "food_name": "Mocha Dream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oats-overnight/mocha-dream",
+      "brand_name": "Oats Overnight",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85347316",
+      "food_name": "Strawberry Dream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bjs-restaurant-brewhouse/strawberry-dream",
+      "brand_name": "BJ's Restaurant & Brewhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1691230",
+      "food_name": "Dream Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/potbelly/dream-bar",
+      "brand_name": "Potbelly",
+      "food_type": "Brand"
+    }
+  ]
+}

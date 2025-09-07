@@ -1,0 +1,48 @@
+{
+  "restaurant": "Commensal",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:24:19.986Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/commensal.json",
+  "items": [
+    {
+      "food_id": "1826504",
+      "food_name": "Moussaka",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/commensal/moussaka",
+      "brand_name": "Commensal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98538",
+      "food_name": "Carrot Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/commensal/carrot-soup",
+      "brand_name": "Commensal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2143786",
+      "food_name": "Pea Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/commensal/pea-soup",
+      "brand_name": "Commensal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1947573",
+      "food_name": "Three-Bean Mexican Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/commensal/three-bean-mexican-chili",
+      "brand_name": "Commensal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84891",
+      "food_name": "Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/commensal/vegetable-soup",
+      "brand_name": "Commensal",
+      "food_type": "Brand"
+    }
+  ]
+}

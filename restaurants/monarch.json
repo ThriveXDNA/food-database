@@ -1,0 +1,41 @@
+{
+  "restaurant": "Monarch",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:02:47.887Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/monarch.json",
+  "items": [
+    {
+      "food_id": "7976494",
+      "food_name": "Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monarch/ranch-dressing",
+      "brand_name": "Monarch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17192426",
+      "food_name": "Fat Free Italian Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monarch/fat-free-italian-dressing",
+      "brand_name": "Monarch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21571984",
+      "food_name": "Golden Italian Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monarch/golden-italian-dressing",
+      "brand_name": "Monarch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22983140",
+      "food_name": "Light Meat Tuna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monarch/light-meat-tuna",
+      "brand_name": "Monarch",
+      "food_type": "Brand"
+    }
+  ]
+}

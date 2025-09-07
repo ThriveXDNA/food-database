@@ -1,0 +1,34 @@
+{
+  "brand_name": "Red Bird Brand",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 2295,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:57:22.979Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/red_bird_brand.json",
+  "items": [
+    {
+      "food_id": "24546022",
+      "food_name": "Soft Peppermint Puffs (1)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-bird-brand/soft-peppermint-puffs-(1)",
+      "brand_name": "Red Bird Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1847207",
+      "food_name": "Soft Peppermint Puffs (3)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-bird-brand/soft-peppermint-puffs-(3)",
+      "brand_name": "Red Bird Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6684360",
+      "food_name": "Peppermint Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-bird-brand/peppermint-puffs",
+      "brand_name": "Red Bird Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

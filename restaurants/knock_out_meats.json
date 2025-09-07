@@ -1,0 +1,20 @@
+{
+  "restaurant": "Knock Out Meats",
+  "total_items": 1,
+  "pages_extracted": 4,
+  "total_search_results": 194,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:49:53.746Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/knock_out_meats.json",
+  "items": [
+    {
+      "food_id": "29130360",
+      "food_name": "Sweet Hickory BBQ Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/knock-out-meats/sweet-hickory-bbq-ribs",
+      "brand_name": "Knock Out Meats",
+      "food_type": "Brand"
+    }
+  ]
+}

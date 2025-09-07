@@ -1,0 +1,34 @@
+{
+  "brand_name": "Inspired Organics",
+  "total_items": 3,
+  "pages_extracted": 4,
+  "total_search_results": 174,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:06:53.765Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/inspired_organics.json",
+  "items": [
+    {
+      "food_id": "43402536",
+      "food_name": "Organic Chia Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/inspired-organics/organic-chia-seeds",
+      "brand_name": "Inspired Organics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24295016",
+      "food_name": "Sunflower Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/inspired-organics/sunflower-butter",
+      "brand_name": "Inspired Organics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39914711",
+      "food_name": "Roasted Red Pepper Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/inspired-organics/roasted-red-pepper-hummus",
+      "brand_name": "Inspired Organics",
+      "food_type": "Brand"
+    }
+  ]
+}

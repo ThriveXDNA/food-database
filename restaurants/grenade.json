@@ -1,0 +1,83 @@
+{
+  "restaurant": "Grenade",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:04:43.737Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/grenade.json",
+  "items": [
+    {
+      "food_id": "71810730",
+      "food_name": "Oreo Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grenade/oreo-protein-bar",
+      "brand_name": "Grenade",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14323442",
+      "food_name": "Carb Killa Peanut Nutter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grenade/carb-killa-peanut-nutter",
+      "brand_name": "Grenade",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11176148",
+      "food_name": "Carb Killa Caramel Chaos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grenade/carb-killa-caramel-chaos",
+      "brand_name": "Grenade",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15080291",
+      "food_name": "Carb Killa White Chocolate Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grenade/carb-killa-white-chocolate-cookie",
+      "brand_name": "Grenade",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23479474",
+      "food_name": "Carb Killa Chocolate Chip Cookie Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grenade/carb-killa-chocolate-chip-cookie-dough",
+      "brand_name": "Grenade",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28113961",
+      "food_name": "Protein Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grenade/protein-spread",
+      "brand_name": "Grenade",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41136088",
+      "food_name": "Carb Killa Dark Chocolate Raspberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grenade/carb-killa-dark-chocolate-raspberry",
+      "brand_name": "Grenade",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18019046",
+      "food_name": "Carb Killa Chocolate Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grenade/carb-killa-chocolate-crunch",
+      "brand_name": "Grenade",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30234501",
+      "food_name": "Carb Killa Go Nuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grenade/carb-killa-go-nuts",
+      "brand_name": "Grenade",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34258480",
+      "food_name": "Carb Killa Chocolate Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grenade/carb-killa-chocolate-cream",
+      "brand_name": "Grenade",
+      "food_type": "Brand"
+    }
+  ]
+}

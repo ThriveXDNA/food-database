@@ -1,0 +1,62 @@
+{
+  "restaurant": "Baba Foods",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 36,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:45:25.104Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/baba_foods.json",
+  "items": [
+    {
+      "food_id": "4517210",
+      "food_name": "Tabouli Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baba-foods/tabouli-salad",
+      "brand_name": "Baba Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6839105",
+      "food_name": "Roasted Garlic Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baba-foods/roasted-garlic-hummus",
+      "brand_name": "Baba Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6018157",
+      "food_name": "Pita Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baba-foods/pita-chips",
+      "brand_name": "Baba Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1443232",
+      "food_name": "Avocado & Cilantro Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baba-foods/avocado-and-cilantro-hummus",
+      "brand_name": "Baba Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3798627",
+      "food_name": "Three Layer Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baba-foods/three-layer-dip",
+      "brand_name": "Baba Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "202153",
+      "food_name": "Fresh Cilantro & Jalapeno Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baba-foods/fresh-cilantro-and-jalapeno-hummus",
+      "brand_name": "Baba Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7310984",
+      "food_name": "Sun Dried Tomato & Basil Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/baba-foods/sun-dried-tomato-and-basil-hummus",
+      "brand_name": "Baba Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

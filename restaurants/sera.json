@@ -1,0 +1,48 @@
+{
+  "restaurant": "Sera",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:37:43.554Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sera.json",
+  "items": [
+    {
+      "food_id": "11002642",
+      "food_name": "Roasted Eggplant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sera/roasted-eggplant",
+      "brand_name": "Sera",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41961318",
+      "food_name": "Grilled Eggplant Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sera/grilled-eggplant-salad",
+      "brand_name": "Sera",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39297908",
+      "food_name": "Mild Pepper Paste",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sera/mild-pepper-paste",
+      "brand_name": "Sera",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16310740",
+      "food_name": "Pomegranate Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sera/pomegranate-salad-dressing",
+      "brand_name": "Sera",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73143696",
+      "food_name": "Bella Sera Pinot Grigio",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perkins-restaurant/bella-sera-pinot-grigio",
+      "brand_name": "Perkins Restaurant",
+      "food_type": "Brand"
+    }
+  ]
+}

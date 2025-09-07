@@ -1,0 +1,41 @@
+{
+  "restaurant": "Marinos",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:28:36.994Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/marinos.json",
+  "items": [
+    {
+      "food_id": "683487",
+      "food_name": "Lemon Italian Ice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marinos/lemon-italian-ice",
+      "brand_name": "Marinos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "422113",
+      "food_name": "Cherry Italian Ice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marinos/cherry-italian-ice",
+      "brand_name": "Marinos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21073029",
+      "food_name": "Watermelon Ice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marinos/watermelon-ice",
+      "brand_name": "Marinos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "893124",
+      "food_name": "Chocolate Italian Ice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marinos/chocolate-italian-ice",
+      "brand_name": "Marinos",
+      "food_type": "Brand"
+    }
+  ]
+}

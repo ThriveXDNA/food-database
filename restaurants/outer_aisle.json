@@ -1,0 +1,48 @@
+{
+  "restaurant": "Outer Aisle",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 49,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:21:38.884Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/outer_aisle.json",
+  "items": [
+    {
+      "food_id": "16050481",
+      "food_name": "Cauliflower Sandwich Thins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/outer-aisle/cauliflower-sandwich-thins",
+      "brand_name": "Outer Aisle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24546722",
+      "food_name": "Cauliflower Pizza Crusts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/outer-aisle/cauliflower-pizza-crusts",
+      "brand_name": "Outer Aisle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29981185",
+      "food_name": "Plantpower Sandwich Thins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/outer-aisle/plantpower-sandwich-thins",
+      "brand_name": "Outer Aisle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17528431",
+      "food_name": "Cauliflower Pizza Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/outer-aisle/cauliflower-pizza-crust",
+      "brand_name": "Outer Aisle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60092353",
+      "food_name": "Broccoli Sandwich Thins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/outer-aisle/broccoli-sandwich-thins",
+      "brand_name": "Outer Aisle",
+      "food_type": "Brand"
+    }
+  ]
+}

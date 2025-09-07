@@ -1,0 +1,48 @@
+{
+  "restaurant": "Chameleon",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:09:36.511Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/chameleon.json",
+  "items": [
+    {
+      "food_id": "43813184",
+      "food_name": "Oat Milk Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chameleon/oat-milk-latte",
+      "brand_name": "Chameleon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12918411",
+      "food_name": "Cold-Brew Black Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chameleon/cold-brew-black-coffee",
+      "brand_name": "Chameleon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12952868",
+      "food_name": "Cold-Brew Vanilla Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chameleon/cold-brew-vanilla-coffee",
+      "brand_name": "Chameleon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18289515",
+      "food_name": "Cold-Brew Mexican Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chameleon/cold-brew-mexican-coffee",
+      "brand_name": "Chameleon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84893039",
+      "food_name": "Chameleon - Ready-to-Drink Cold Brew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snap-kitchen/chameleon-ready-to-drink-cold-brew",
+      "brand_name": "Snap Kitchen",
+      "food_type": "Brand"
+    }
+  ]
+}

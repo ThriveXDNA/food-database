@@ -1,0 +1,48 @@
+{
+  "restaurant": "Killer Creamery",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 43,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:58:03.116Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/killer_creamery.json",
+  "items": [
+    {
+      "food_id": "67682102",
+      "food_name": "Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/killer-creamery/ice-cream-sandwich",
+      "brand_name": "Killer Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29683983",
+      "food_name": "No Judge Mint",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/killer-creamery/no-judge-mint",
+      "brand_name": "Killer Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41257102",
+      "food_name": "Peanut Blubber",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/killer-creamery/peanut-blubber",
+      "brand_name": "Killer Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30832613",
+      "food_name": "Brownie Points",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/killer-creamery/brownie-points",
+      "brand_name": "Killer Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70669409",
+      "food_name": "Quadruple Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/killer-creamery/quadruple-chocolate",
+      "brand_name": "Killer Creamery",
+      "food_type": "Brand"
+    }
+  ]
+}

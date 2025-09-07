@@ -1,0 +1,41 @@
+{
+  "restaurant": "Parrillo",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:05:27.735Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/parrillo.json",
+  "items": [
+    {
+      "food_id": "2373647",
+      "food_name": "Protein Chew Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/parrillo/protein-chew-bar",
+      "brand_name": "Parrillo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "580159",
+      "food_name": "Hi-Protein Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/parrillo/hi-protein-powder",
+      "brand_name": "Parrillo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1538208",
+      "food_name": "Captri",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/parrillo/captri",
+      "brand_name": "Parrillo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3069976",
+      "food_name": "Vanilla Creme Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/parrillo/vanilla-creme-protein-bar",
+      "brand_name": "Parrillo",
+      "food_type": "Brand"
+    }
+  ]
+}

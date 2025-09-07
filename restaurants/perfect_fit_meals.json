@@ -1,0 +1,62 @@
+{
+  "restaurant": "Perfect Fit Meals",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 402,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:53:17.456Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/perfect_fit_meals.json",
+  "items": [
+    {
+      "food_id": "5813332",
+      "food_name": "Mediterranean Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perfect-fit-meals/mediterranean-chicken",
+      "brand_name": "Perfect Fit Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7262298",
+      "food_name": "Barbeque Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perfect-fit-meals/barbeque-chicken",
+      "brand_name": "Perfect Fit Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4464961",
+      "food_name": "Citrus Baked Tilapia",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perfect-fit-meals/citrus-baked-tilapia",
+      "brand_name": "Perfect Fit Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6659779",
+      "food_name": "Spaghetti & Turkey Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perfect-fit-meals/spaghetti-and-turkey-meatballs",
+      "brand_name": "Perfect Fit Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17466725",
+      "food_name": "Tandoori Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perfect-fit-meals/tandoori-chicken",
+      "brand_name": "Perfect Fit Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20095102",
+      "food_name": "Jamaican Style Jerk Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perfect-fit-meals/jamaican-style-jerk-chicken",
+      "brand_name": "Perfect Fit Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5839244",
+      "food_name": "Stacked Enchilada Turkey Casserole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perfect-fit-meals/stacked-enchilada-turkey-casserole",
+      "brand_name": "Perfect Fit Meals",
+      "food_type": "Brand"
+    }
+  ]
+}

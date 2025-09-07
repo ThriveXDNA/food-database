@@ -1,0 +1,54 @@
+{
+  "brand_name": "Heineken",
+  "brand_id": 241,
+  "total_items": 6,
+  "pages_extracted": 1,
+  "last_updated": "2025-09-06T20:23:05.366Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Brand-specific search with filtering",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/heineken.json",
+  "items": [
+    {
+      "food_id": "25805111",
+      "food_name": "0.0 Beer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heineken/00-beer",
+      "brand_name": "Heineken",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82480",
+      "food_name": "Heineken Beer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heineken/heineken-beer",
+      "brand_name": "Heineken",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "409007",
+      "food_name": "Light Beer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heineken/light-beer",
+      "brand_name": "Heineken",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69969942",
+      "food_name": "Silver",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heineken/silver",
+      "brand_name": "Heineken",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "600461",
+      "food_name": "Special Dark Lager",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heineken/special-dark-lager",
+      "brand_name": "Heineken",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "853593",
+      "food_name": "New Castle Brown Ale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heineken/new-castle-brown-ale",
+      "brand_name": "Heineken",
+      "food_type": "Brand"
+    }
+  ]
+}

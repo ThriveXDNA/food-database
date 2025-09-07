@@ -1,0 +1,76 @@
+{
+  "restaurant": "Rhythm Superfoods",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 31,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:57:03.081Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rhythm_superfoods.json",
+  "items": [
+    {
+      "food_id": "6172483",
+      "food_name": "Mango Habanero Kale Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rhythm-superfoods/mango-habanero-kale-chips",
+      "brand_name": "Rhythm Superfoods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1531515",
+      "food_name": "Zesty Nacho Kale Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rhythm-superfoods/zesty-nacho-kale-chips",
+      "brand_name": "Rhythm Superfoods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14724713",
+      "food_name": "Original Kale Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rhythm-superfoods/original-kale-chips",
+      "brand_name": "Rhythm Superfoods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19420150",
+      "food_name": "Organic Roasted Kale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rhythm-superfoods/organic-roasted-kale",
+      "brand_name": "Rhythm Superfoods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18336141",
+      "food_name": "Beet Chips Naked",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rhythm-superfoods/beet-chips-naked",
+      "brand_name": "Rhythm Superfoods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1964824",
+      "food_name": "Kool Ranch Kale Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rhythm-superfoods/kool-ranch-kale-chips",
+      "brand_name": "Rhythm Superfoods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28383111",
+      "food_name": "Carrot Sticks Naked",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rhythm-superfoods/carrot-sticks-naked",
+      "brand_name": "Rhythm Superfoods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22767799",
+      "food_name": "Organic Carrot Sticks Sea Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rhythm-superfoods/organic-carrot-sticks-sea-salt",
+      "brand_name": "Rhythm Superfoods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37494303",
+      "food_name": "Organic Cauliflower Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rhythm-superfoods/organic-cauliflower-bites",
+      "brand_name": "Rhythm Superfoods",
+      "food_type": "Brand"
+    }
+  ]
+}

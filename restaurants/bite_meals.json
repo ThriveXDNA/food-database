@@ -1,0 +1,76 @@
+{
+  "restaurant": "Bite Meals",
+  "total_items": 9,
+  "pages_extracted": 5,
+  "total_search_results": 246,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:17:08.515Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bite_meals.json",
+  "items": [
+    {
+      "food_id": "26798692",
+      "food_name": "Chicken Teriyaki Mixed Rice Grilled Veggies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bite-meals/chicken-teriyaki-mixed-rice-grilled-veggies",
+      "brand_name": "Bite Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28131860",
+      "food_name": "Soy Glazed Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bite-meals/soy-glazed-salmon",
+      "brand_name": "Bite Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18201382",
+      "food_name": "Chicken & Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bite-meals/chicken-rice",
+      "brand_name": "Bite Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28041950",
+      "food_name": "Ground Beef Bite Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bite-meals/ground-beef-bite-bowl",
+      "brand_name": "Bite Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14687989",
+      "food_name": "Biscuits & Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bite-meals/biscuits-gravy",
+      "brand_name": "Bite Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34213813",
+      "food_name": "Steak Chimichurri",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bite-meals/steak-chimichurri",
+      "brand_name": "Bite Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26560848",
+      "food_name": "Homestyle Chicken Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bite-meals/homestyle-chicken-bowl",
+      "brand_name": "Bite Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27539151",
+      "food_name": "Lemon Dill Tilapia",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bite-meals/lemon-dill-tilapia",
+      "brand_name": "Bite Meals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23791829",
+      "food_name": "Chicken Bite Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bite-meals/chicken-bite-bowl",
+      "brand_name": "Bite Meals",
+      "food_type": "Brand"
+    }
+  ]
+}

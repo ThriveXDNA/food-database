@@ -1,0 +1,41 @@
+{
+  "restaurant": "Bush Brothers",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:56:41.242Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bush_brothers.json",
+  "items": [
+    {
+      "food_id": "55686",
+      "food_name": "Original Baked Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bush-brothers/original-baked-beans",
+      "brand_name": "Bush Brothers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25370",
+      "food_name": "Pinto Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bush-brothers/pinto-beans",
+      "brand_name": "Bush Brothers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "409501",
+      "food_name": "Cut Green & Shelly Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bush-brothers/cut-green-and-shelly-beans",
+      "brand_name": "Bush Brothers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "274184",
+      "food_name": "Showboat in Tomato Sauce Pork & Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bush-brothers/showboat-in-tomato-sauce-pork-and-beans",
+      "brand_name": "Bush Brothers",
+      "food_type": "Brand"
+    }
+  ]
+}

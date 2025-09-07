@@ -1,0 +1,27 @@
+{
+  "brand_name": "Life Brand",
+  "total_items": 2,
+  "pages_extracted": 3,
+  "total_search_results": 134,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:54:17.524Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/life_brand.json",
+  "items": [
+    {
+      "food_id": "2980932",
+      "food_name": "Dried Mango",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/life-brand/dried-mango",
+      "brand_name": "Life Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57516",
+      "food_name": "Snack Crackers - Savory Seeds & Grains",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/life-brand/snack-crackers---savory-seeds-and-grains",
+      "brand_name": "Life Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

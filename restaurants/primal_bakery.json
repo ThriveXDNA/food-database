@@ -1,0 +1,41 @@
+{
+  "restaurant": "Primal Bakery",
+  "total_items": 4,
+  "pages_extracted": 2,
+  "total_search_results": 60,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:13:08.654Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/primal_bakery.json",
+  "items": [
+    {
+      "food_id": "75527073",
+      "food_name": "Protein Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primal-bakery/protein-bread",
+      "brand_name": "Primal Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65540579",
+      "food_name": "Protein Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primal-bakery/protein-crackers",
+      "brand_name": "Primal Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75046707",
+      "food_name": "Protein Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primal-bakery/protein-wrap",
+      "brand_name": "Primal Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047395",
+      "food_name": "Protein Crackers Himalayan Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primal-bakery/protein-crackers-himalayan-salt",
+      "brand_name": "Primal Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Core Power",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 397,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:08:41.499Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/core_power.json",
+  "items": [
+    {
+      "food_id": "11881576",
+      "food_name": "Elite Chocolate Protein Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/core-power/elite-chocolate-protein-shake",
+      "brand_name": "Core Power",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27927397",
+      "food_name": "High Protein Milk Shake Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/core-power/high-protein-milk-shake-chocolate",
+      "brand_name": "Core Power",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12704690",
+      "food_name": "Elite Vanilla Protein Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/core-power/elite-vanilla-protein-shake",
+      "brand_name": "Core Power",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34120117",
+      "food_name": "Elite Strawberry Protein Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/core-power/elite-strawberry-protein-shake",
+      "brand_name": "Core Power",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6560017",
+      "food_name": "High Protein Milk Shake Strawberry Banana",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/core-power/high-protein-milk-shake-strawberry-banana",
+      "brand_name": "Core Power",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39054227",
+      "food_name": "High Protein Milk Shake Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/core-power/high-protein-milk-shake-vanilla",
+      "brand_name": "Core Power",
+      "food_type": "Brand"
+    }
+  ]
+}

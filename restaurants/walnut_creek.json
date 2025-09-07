@@ -1,0 +1,90 @@
+{
+  "restaurant": "Walnut Creek",
+  "total_items": 11,
+  "pages_extracted": 6,
+  "total_search_results": 373,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:46:48.513Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/walnut_creek.json",
+  "items": [
+    {
+      "food_id": "73079757",
+      "food_name": "Cinnamon Toast Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/walnut-creek/cinnamon-toast-bread",
+      "brand_name": "Walnut Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4004721",
+      "food_name": "Horseradish Cheese Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/walnut-creek/horseradish-cheese-spread",
+      "brand_name": "Walnut Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19814503",
+      "food_name": "Black Forest Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/walnut-creek/black-forest-ham",
+      "brand_name": "Walnut Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1059123",
+      "food_name": "Apple Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/walnut-creek/apple-butter",
+      "brand_name": "Walnut Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59457916",
+      "food_name": "Cheese Balls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/walnut-creek/cheese-balls",
+      "brand_name": "Walnut Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91079326",
+      "food_name": "Corn Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/walnut-creek/corn-chips",
+      "brand_name": "Walnut Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26209729",
+      "food_name": "BBQ Corn Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/walnut-creek/bbq-corn-chips",
+      "brand_name": "Walnut Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19545029",
+      "food_name": "Muenster Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/walnut-creek/muenster-cheese",
+      "brand_name": "Walnut Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50537427",
+      "food_name": "Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/walnut-creek/peanut-butter",
+      "brand_name": "Walnut Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75984174",
+      "food_name": "Summer Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/walnut-creek/summer-sausage",
+      "brand_name": "Walnut Creek",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14346770",
+      "food_name": "Corn Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/walnut-creek/corn-salsa",
+      "brand_name": "Walnut Creek",
+      "food_type": "Brand"
+    }
+  ]
+}

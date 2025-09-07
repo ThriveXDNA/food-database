@@ -1,0 +1,34 @@
+{
+  "restaurant": "Umami Burger",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 1103,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:23:51.619Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/umami_burger.json",
+  "items": [
+    {
+      "food_id": "12386131",
+      "food_name": "Umami Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/umami-burger/umami-burger",
+      "brand_name": "Umami Burger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12180373",
+      "food_name": "Truffle Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/umami-burger/truffle-fries",
+      "brand_name": "Umami Burger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9151576",
+      "food_name": "Manly Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/umami-burger/manly-burger",
+      "brand_name": "Umami Burger",
+      "food_type": "Brand"
+    }
+  ]
+}

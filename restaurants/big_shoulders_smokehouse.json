@@ -1,0 +1,55 @@
+{
+  "restaurant": "Big Shoulders Smokehouse",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 792,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:14:03.084Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/big_shoulders_smokehouse.json",
+  "items": [
+    {
+      "food_id": "20083988",
+      "food_name": "Pulled Chicken in BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-shoulders-smokehouse/pulled-chicken-in-bbq-sauce",
+      "brand_name": "Big Shoulders Smokehouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32485308",
+      "food_name": "Pulled Pork in BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-shoulders-smokehouse/pulled-pork-in-bbq-sauce",
+      "brand_name": "Big Shoulders Smokehouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25485649",
+      "food_name": "Pulled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-shoulders-smokehouse/pulled-chicken",
+      "brand_name": "Big Shoulders Smokehouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37971417",
+      "food_name": "Boneless Pork Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-shoulders-smokehouse/boneless-pork-ribs",
+      "brand_name": "Big Shoulders Smokehouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29070080",
+      "food_name": "Boneless Pork Loin Chop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-shoulders-smokehouse/boneless-pork-loin-chop",
+      "brand_name": "Big Shoulders Smokehouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88839177",
+      "food_name": "Pork Belly Burnt Ends",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-shoulders-smokehouse/pork-belly-burnt-ends",
+      "brand_name": "Big Shoulders Smokehouse",
+      "food_type": "Brand"
+    }
+  ]
+}

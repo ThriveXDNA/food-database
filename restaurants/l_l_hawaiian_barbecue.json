@@ -1,0 +1,55 @@
+{
+  "restaurant": "L&L Hawaiian Barbecue",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 631,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:36:16.744Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/l_l_hawaiian_barbecue.json",
+  "items": [
+    {
+      "food_id": "1684073",
+      "food_name": "Chicken Katsu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/landl-hawaiian-barbecue/chicken-katsu",
+      "brand_name": "L&L Hawaiian Barbecue",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1610668",
+      "food_name": "Spa, Musubi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/l-l-hawaiian-barbecue/spa-musubi",
+      "brand_name": "L&L Hawaiian Barbecue",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76726",
+      "food_name": "Macaroni Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/landl-hawaiian-barbecue/macaroni-salad",
+      "brand_name": "L&L Hawaiian Barbecue",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76725",
+      "food_name": "BBQ Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/landl-hawaiian-barbecue/bbq-chicken",
+      "brand_name": "L&L Hawaiian Barbecue",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "618277",
+      "food_name": "BBQ Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/landl-hawaiian-barbecue/bbq-beef",
+      "brand_name": "L&L Hawaiian Barbecue",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6318806",
+      "food_name": "Healthy Garlic Ahi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/landl-hawaiian-barbecue/healthy-garlic-ahi",
+      "brand_name": "L&L Hawaiian Barbecue",
+      "food_type": "Brand"
+    }
+  ]
+}

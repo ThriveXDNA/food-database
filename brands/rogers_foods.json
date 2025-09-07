@@ -1,0 +1,41 @@
+{
+  "brand_name": "Rogers Foods",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 17,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:46:40.076Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/rogers_foods.json",
+  "items": [
+    {
+      "food_id": "80129",
+      "food_name": "Porridge Oats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rogers-foods/porridge-oats",
+      "brand_name": "Rogers Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3125753",
+      "food_name": "Oat Bran",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rogers-foods/oat-bran",
+      "brand_name": "Rogers Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30272653",
+      "food_name": "Wheat Bran",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rogers-foods/wheat-bran",
+      "brand_name": "Rogers Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67256",
+      "food_name": "9 Grain Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rogers-foods/9-grain-cereal",
+      "brand_name": "Rogers Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

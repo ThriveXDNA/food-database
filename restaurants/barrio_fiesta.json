@@ -1,0 +1,20 @@
+{
+  "restaurant": "Barrio Fiesta",
+  "total_items": 1,
+  "pages_extracted": 5,
+  "total_search_results": 211,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:41:59.410Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/barrio_fiesta.json",
+  "items": [
+    {
+      "food_id": "4747736",
+      "food_name": "Shrimp Paste",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/barrio-fiesta/shrimp-paste",
+      "brand_name": "Barrio Fiesta",
+      "food_type": "Brand"
+    }
+  ]
+}

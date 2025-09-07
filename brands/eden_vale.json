@@ -1,0 +1,34 @@
+{
+  "brand_name": "Eden Vale",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:27:28.960Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/eden_vale.json",
+  "items": [
+    {
+      "food_id": "2870499",
+      "food_name": "Goat Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eden-vale/goat-cheese",
+      "brand_name": "Eden Vale",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2657076",
+      "food_name": "Fresh Mozzarella",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eden-vale/fresh-mozzarella",
+      "brand_name": "Eden Vale",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3274668",
+      "food_name": "Wild Blueberry-Vanilla Goat Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eden-vale/wild-blueberry-vanilla-goat-cheese",
+      "brand_name": "Eden Vale",
+      "food_type": "Brand"
+    }
+  ]
+}

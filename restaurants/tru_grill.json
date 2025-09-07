@@ -1,0 +1,27 @@
+{
+  "restaurant": "Tru Grill",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 75,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:22:14.491Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/tru_grill.json",
+  "items": [
+    {
+      "food_id": "15465153",
+      "food_name": "Grilled Chicken Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tru-grill/grilled-chicken-strips",
+      "brand_name": "Tru Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14813262",
+      "food_name": "Fire Grilled Chicken Breasts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tru-grill/fire-grilled-chicken-breasts",
+      "brand_name": "Tru Grill",
+      "food_type": "Brand"
+    }
+  ]
+}

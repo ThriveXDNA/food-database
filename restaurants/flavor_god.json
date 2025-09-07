@@ -1,0 +1,34 @@
+{
+  "restaurant": "Flavor God",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 487,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:31:21.430Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/flavor_god.json",
+  "items": [
+    {
+      "food_id": "43588464",
+      "food_name": "Buttery Cinnamon Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flavor-god/buttery-cinnamon-roll",
+      "brand_name": "Flavor God",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84805878",
+      "food_name": "Garlic Lovers Seasoning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flavor-god/garlic-lovers-seasoning",
+      "brand_name": "Flavor God",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20364687",
+      "food_name": "Taco Tuesday Seasoning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flavor-god/taco-tuesday-seasoning",
+      "brand_name": "Flavor God",
+      "food_type": "Brand"
+    }
+  ]
+}

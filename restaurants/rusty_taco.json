@@ -1,0 +1,27 @@
+{
+  "restaurant": "Rusty Taco",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 1337,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:32:28.149Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rusty_taco.json",
+  "items": [
+    {
+      "food_id": "57791375",
+      "food_name": "Fried Chicken Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rusty-taco/fried-chicken-taco",
+      "brand_name": "Rusty Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28023676",
+      "food_name": "Chicken Fajita Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rusty-taco/chicken-fajita-taco",
+      "brand_name": "Rusty Taco",
+      "food_type": "Brand"
+    }
+  ]
+}

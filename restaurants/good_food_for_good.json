@@ -1,0 +1,27 @@
+{
+  "restaurant": "Good Food For Good",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 607,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:45:06.237Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/good_food_for_good.json",
+  "items": [
+    {
+      "food_id": "67406421",
+      "food_name": "BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-food-for-good/bbq-sauce",
+      "brand_name": "Good Food For Good",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31854604",
+      "food_name": "Organic Ketchup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-food-for-good/organic-ketchup",
+      "brand_name": "Good Food For Good",
+      "food_type": "Brand"
+    }
+  ]
+}

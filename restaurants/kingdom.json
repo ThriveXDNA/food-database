@@ -1,0 +1,27 @@
+{
+  "restaurant": "Kingdom",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:05:01.522Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kingdom.json",
+  "items": [
+    {
+      "food_id": "81102252",
+      "food_name": "Organic Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingdom/organic-cheddar-cheese",
+      "brand_name": "Kingdom",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12854859",
+      "food_name": "Organic Sharp Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingdom/organic-sharp-cheddar-cheese",
+      "brand_name": "Kingdom",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "restaurant": "Duck Donuts",
+  "total_items": 10,
+  "pages_extracted": 5,
+  "total_search_results": 232,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:05:00.109Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/duck_donuts.json",
+  "items": [
+    {
+      "food_id": "40061009",
+      "food_name": "Maple Bacon Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duck-donuts/maple-bacon-donut",
+      "brand_name": "Duck Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40935683",
+      "food_name": "Bare Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duck-donuts/bare-donut",
+      "brand_name": "Duck Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39548147",
+      "food_name": "Chocolate Icing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duck-donuts/chocolate-icing",
+      "brand_name": "Duck Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18699592",
+      "food_name": "Vanilla Icing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duck-donuts/vanilla-icing",
+      "brand_name": "Duck Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18699611",
+      "food_name": "Oreo Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duck-donuts/oreo-topping",
+      "brand_name": "Duck Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20301850",
+      "food_name": "Maple Icing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duck-donuts/maple-icing",
+      "brand_name": "Duck Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34081368",
+      "food_name": "Hot Fudge Drizzle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duck-donuts/hot-fudge-drizzle",
+      "brand_name": "Duck Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39502165",
+      "food_name": "Salted Caramel Drizzle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duck-donuts/salted-caramel-drizzle",
+      "brand_name": "Duck Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23422959",
+      "food_name": "Raspberry Drizzle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duck-donuts/raspberry-drizzle",
+      "brand_name": "Duck Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39548048",
+      "food_name": "Marshmallow Drizzle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duck-donuts/marshmallow-drizzle",
+      "brand_name": "Duck Donuts",
+      "food_type": "Brand"
+    }
+  ]
+}

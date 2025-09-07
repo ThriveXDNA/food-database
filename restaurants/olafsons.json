@@ -1,0 +1,55 @@
+{
+  "restaurant": "Olafsons",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:02:10.754Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/olafsons.json",
+  "items": [
+    {
+      "food_id": "61653",
+      "food_name": "Naan Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olafsons/naan-bread",
+      "brand_name": "Olafsons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61649",
+      "food_name": "Greek Pita Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olafsons/greek-pita-bread",
+      "brand_name": "Olafsons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61658",
+      "food_name": "Pita Pockets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olafsons/pita-pockets",
+      "brand_name": "Olafsons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61655",
+      "food_name": "Original New York Style Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olafsons/original-new-york-style-bagels",
+      "brand_name": "Olafsons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61659",
+      "food_name": "Sundried Tomato Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olafsons/sundried-tomato-tortillas",
+      "brand_name": "Olafsons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61660",
+      "food_name": "Veggie Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olafsons/veggie-tortillas",
+      "brand_name": "Olafsons",
+      "food_type": "Brand"
+    }
+  ]
+}

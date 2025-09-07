@@ -1,0 +1,34 @@
+{
+  "restaurant": "Perfection Snacks",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 346,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:59:37.357Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/perfection_snacks.json",
+  "items": [
+    {
+      "food_id": "22653638",
+      "food_name": "Snack Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perfection-snacks/snack-mix",
+      "brand_name": "Perfection Snacks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69143457",
+      "food_name": "Mustard and Onion Pretzel Twists",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perfection-snacks/mustard-and-onion-pretzel-twists",
+      "brand_name": "Perfection Snacks",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67936633",
+      "food_name": "Original Cheddar Snack Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perfection-snacks/original-cheddar-snack-mix",
+      "brand_name": "Perfection Snacks",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "restaurant": "Ponchartrain Blue Crab",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 1074,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:37:26.459Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ponchartrain_blue_crab.json",
+  "items": [
+    {
+      "food_id": "90088",
+      "food_name": "Pasteurized Blue Crab Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ponchartrain-blue-crab/pasteurized-blue-crab-meat",
+      "brand_name": "Ponchartrain Blue Crab",
+      "food_type": "Brand"
+    }
+  ]
+}

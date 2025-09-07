@@ -1,0 +1,20 @@
+{
+  "restaurant": "Askegaard Organic",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 5503,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:01:13.113Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/askegaard_organic.json",
+  "items": [
+    {
+      "food_id": "1272375",
+      "food_name": "Organic Ground Golden Flax",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/askegaard-organic/organic-ground-golden-flax",
+      "brand_name": "Askegaard Organic",
+      "food_type": "Brand"
+    }
+  ]
+}

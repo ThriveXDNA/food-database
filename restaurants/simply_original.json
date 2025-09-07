@@ -1,0 +1,27 @@
+{
+  "restaurant": "Simply Original",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 3214,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:48:16.295Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/simply_original.json",
+  "items": [
+    {
+      "food_id": "40584256",
+      "food_name": "Strawberry Shortcake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-original/strawberry-shortcake",
+      "brand_name": "Simply Original",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40584404",
+      "food_name": "Tiramisu Layer Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-original/tiramisu-layer-cake",
+      "brand_name": "Simply Original",
+      "food_type": "Brand"
+    }
+  ]
+}

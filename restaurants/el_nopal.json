@@ -1,0 +1,41 @@
+{
+  "restaurant": "El Nopal",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 23,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:27:00.996Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/el_nopal.json",
+  "items": [
+    {
+      "food_id": "694999",
+      "food_name": "Mexican Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-nopal/mexican-rice",
+      "brand_name": "El Nopal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14993664",
+      "food_name": "Cheese Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-nopal/cheese-dip",
+      "brand_name": "El Nopal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "695020",
+      "food_name": "Chicken Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-nopal/chicken-burrito",
+      "brand_name": "El Nopal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "695055",
+      "food_name": "Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-nopal/refried-beans",
+      "brand_name": "El Nopal",
+      "food_type": "Brand"
+    }
+  ]
+}

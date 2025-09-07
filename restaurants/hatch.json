@@ -1,0 +1,636 @@
+{
+  "restaurant": "Hatch",
+  "total_items": 89,
+  "pages_extracted": 2,
+  "total_search_results": 89,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:30:47.134Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/hatch.json",
+  "items": [
+    {
+      "food_id": "1629009",
+      "food_name": "Diced Green Chiles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hatch/diced-green-chiles",
+      "brand_name": "Hatch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7082430",
+      "food_name": "Green Chili Enchilada Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hatch/green-chili-enchilada-sauce",
+      "brand_name": "Hatch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2989558",
+      "food_name": "Whole Green Chiles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hatch/whole-green-chiles",
+      "brand_name": "Hatch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6387885",
+      "food_name": "Red Enchilada Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hatch/red-enchilada-sauce",
+      "brand_name": "Hatch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28077488",
+      "food_name": "Diced Tomatoes & Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hatch/diced-tomatoes-green-chilies",
+      "brand_name": "Hatch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50148944",
+      "food_name": "Organic Medium Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hatch/organic-medium-salsa",
+      "brand_name": "Hatch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8235622",
+      "food_name": "Taco Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hatch/taco-sauce",
+      "brand_name": "Hatch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75050040",
+      "food_name": "Hatch Green Chile and Pork Stew (8 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kneaders/hatch-green-chile-and-pork-stew-(8-oz)",
+      "brand_name": "Kneaders",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103005077",
+      "food_name": "Hatch Green Chile & Cheddar Cheese Smoked Chicken Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-gather/hatch-green-chile-cheddar-cheese-smoked-chicken-sausage",
+      "brand_name": "Good & Gather",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75050041",
+      "food_name": "Hatch Green Chile and Pork Stew (12 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kneaders/hatch-green-chile-and-pork-stew-(12-oz)",
+      "brand_name": "Kneaders",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75050042",
+      "food_name": "Hatch Green Chile and Pork Stew (32 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kneaders/hatch-green-chile-and-pork-stew-(32-oz)",
+      "brand_name": "Kneaders",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15404113",
+      "food_name": "Hatch Green Chiles & Provolone Angus Beef Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/private-selection/hatch-green-chiles-and-provolone-angus-beef-patties",
+      "brand_name": "Private Selection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106519870",
+      "food_name": "Hatch Green Chile Boneless Skinless Chicken Thigh",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/calle-sabor/hatch-green-chile-boneless-skinless-chicken-thigh",
+      "brand_name": "Calle Sabor",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24015195",
+      "food_name": "Petite Potatoes with Hatch Green Chile Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/private-selection/petite-potatoes-with-hatch-green-chile-ranch",
+      "brand_name": "Private Selection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69793076",
+      "food_name": "Hatch Chile Chicken Egg Cheese Breakfast Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/members-mark/hatch-chile-chicken-egg-cheese-breakfast-sausage",
+      "brand_name": "Member's Mark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7855435",
+      "food_name": "Hatch Green Chile & Cheddar Chicken Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sausages-by-amylu/hatch-green-chile-and-cheddar-chicken-sausage",
+      "brand_name": "Sausages By Amylu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68181623",
+      "food_name": "Hatch Chile Pasta Salad with Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/hatch-chile-pasta-salad-with-chicken",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70483946",
+      "food_name": "Add Guacamole - Hatch Queso with Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buffalo-wild-wings/add-guacamole-hatch-queso-with-chips",
+      "brand_name": "Buffalo Wild Wings",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70517865",
+      "food_name": "Hatch Queso with Chips (Bar Food)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buffalo-wild-wings/hatch-queso-with-chips-(bar-food)",
+      "brand_name": "Buffalo Wild Wings",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78557641",
+      "food_name": "Roasted Hatch Chile & Jalapeño Cheese Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/roasted-hatch-chile-jalape%C3%B1o-cheese-dip",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80648827",
+      "food_name": "Grass-Fed Beef Jerky Hatch Chile",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/country-archer/grass-fed-beef-jerky-hatch-chile",
+      "brand_name": "Country Archer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "532349",
+      "food_name": "Organic Hatch Green Chile Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/central-market/organic-hatch-green-chile-tortilla-chips",
+      "brand_name": "Central Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16577423",
+      "food_name": "Hatch Green Chile Smoked Shorty Sausages",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dukes/hatch-green-chile-smoked-shorty-sausages",
+      "brand_name": "Duke's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15461787",
+      "food_name": "Hatch Valley Flame Roasted Green Chile",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/505-southwestern/hatch-valley-flame-roasted-green-chile",
+      "brand_name": "505 Southwestern",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33352002",
+      "food_name": "Hatch Green Chile Beef Biltong Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stryve/hatch-green-chile-beef-biltong-stick",
+      "brand_name": "Stryve",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48762190",
+      "food_name": "Chicken Hatch Green Chile Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/members-mark/chicken-hatch-green-chile-smoked-sausage",
+      "brand_name": "Member's Mark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70483945",
+      "food_name": "Add Chili - Hatch Queso with Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buffalo-wild-wings/add-chili-hatch-queso-with-chips",
+      "brand_name": "Buffalo Wild Wings",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69181817",
+      "food_name": "Hatch Green Chile Cheeseburger With Mustard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sonic/hatch-green-chile-cheeseburger-with-mustard",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "955838",
+      "food_name": "Hatch Green Chile Salsa Roja",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/central-market/hatch-green-chile-salsa-roja",
+      "brand_name": "Central Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14856790",
+      "food_name": "Hatch Green Chili Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/opas/hatch-green-chili-smoked-sausage",
+      "brand_name": "Opa's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19882653",
+      "food_name": "Hatch Green Chile Cheddar Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-moose-of-boulder/hatch-green-chile-cheddar-spread",
+      "brand_name": "Blue Moose of Boulder",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20374122",
+      "food_name": "Hatch Green Chile Smoked Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/private-selection/hatch-green-chile-smoked-sausage",
+      "brand_name": "Private Selection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27340476",
+      "food_name": "Garlic Hatch Creamy Hot Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-top-brand/garlic-hatch-creamy-hot-sauce",
+      "brand_name": "Blue Top Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23132791",
+      "food_name": "Hatch Green Chile Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/hatch-green-chile-chicken-salad",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53144737",
+      "food_name": "Hatch Chile and Chicken Enchiladas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/members-mark/hatch-chile-and-chicken-enchiladas",
+      "brand_name": "Member's Mark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46062862",
+      "food_name": "Bacon Smashed Hatch Chile Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buffalo-wild-wings/bacon-smashed-hatch-chile-burger",
+      "brand_name": "Buffalo Wild Wings",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43546689",
+      "food_name": "Hint of Hatch Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/505-southwestern/hint-of-hatch-tortilla-chips",
+      "brand_name": "505 Southwestern",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71555652",
+      "food_name": "Harvest Peach & Hatch Pepper Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fischer-wieser/harvest-peach-hatch-pepper-sauce",
+      "brand_name": "Fischer & Wieser",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72957023",
+      "food_name": "Hatch Green Chile Cheddar Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/aldi/hatch-green-chile-cheddar-dip",
+      "brand_name": "Aldi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84808227",
+      "food_name": "Hatch Green Chile Chicken Enchiladas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/don-pancho/hatch-green-chile-chicken-enchiladas",
+      "brand_name": "Don Pancho",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95947317",
+      "food_name": "Hatch Green Chile Chicken Tamales",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bueno/hatch-green-chile-chicken-tamales",
+      "brand_name": "Bueno",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33673240",
+      "food_name": "Premium Smoked Sausage Hatch Pepper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/premium-smoked-sausage-hatch-pepper",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1097821",
+      "food_name": "Hatch Green Chile Salsa Verde",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/central-market/hatch-green-chile-salsa-verde",
+      "brand_name": "Central Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17044702",
+      "food_name": "Hatch Pepper Shredded Monterey Jack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/hatch-pepper-shredded-monterey-jack",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11684636",
+      "food_name": "Hatch Valley Green Chile Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/505-southwestern/hatch-valley-green-chile-salsa",
+      "brand_name": "505 Southwestern",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11294593",
+      "food_name": "Hatch Green Chile & Pork Stew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bistro-md/hatch-green-chile-pork-stew",
+      "brand_name": "Bistro MD",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8252566",
+      "food_name": "Hatch Chile Harvest Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/paqui/hatch-chile-harvest-tortilla-chips",
+      "brand_name": "Paqui",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23388039",
+      "food_name": "Hatch Green Chile Seasoned Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/johnsonville/hatch-green-chile-seasoned-sausage",
+      "brand_name": "Johnsonville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55563399",
+      "food_name": "Roasted Hatch Chili Chicken Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/whole-simple/roasted-hatch-chili-chicken-bowl",
+      "brand_name": "Whole & Simple",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52102693",
+      "food_name": "Hatch Chile Cheddar Seasoned Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/hatch-chile-cheddar-seasoned-popcorn",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71443370",
+      "food_name": "Hatch Chile & White Cheddar Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/members-mark/hatch-chile-white-cheddar-puffs",
+      "brand_name": "Member's Mark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71921623",
+      "food_name": "Hatch BBQ Seasoned Shredded Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cantellas/hatch-bbq-seasoned-shredded-chicken",
+      "brand_name": "Cantella's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71951489",
+      "food_name": "Braised Pork with Hatch Chile",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/members-mark/braised-pork-with-hatch-chile",
+      "brand_name": "Member's Mark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7199438",
+      "food_name": "Hatch Green Chili Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/hatch-green-chili-sausage",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5595881",
+      "food_name": "Hatch Green Chile Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/central-market/hatch-green-chile-queso",
+      "brand_name": "Central Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15391781",
+      "food_name": "Hatch Green Chile Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marketside/hatch-green-chile-hummus",
+      "brand_name": "Marketside",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14959536",
+      "food_name": "Hatch Verde Tortilla Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cookwell-company/hatch-verde-tortilla-soup",
+      "brand_name": "Cookwell & Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16358247",
+      "food_name": "Mac & Cheese Hatch Chile",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wicked-kitchen/mac-cheese-hatch-chile",
+      "brand_name": "Wicked Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8020224",
+      "food_name": "Hatch Chile Pepper Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/central-market/hatch-chile-pepper-hummus",
+      "brand_name": "Central Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27965112",
+      "food_name": "Hatch Green Chile Tamales",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/texas-tamale-company/hatch-green-chile-tamales",
+      "brand_name": "Texas Tamale Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52325159",
+      "food_name": "Chorizo Hatch Chile Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-mamita/chorizo-hatch-chile-ravioli",
+      "brand_name": "Casa Mamita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54933107",
+      "food_name": "Spicy Hatch Chile Jalapeno",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-gather/spicy-hatch-chile-jalapeno",
+      "brand_name": "Good & Gather",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51191487",
+      "food_name": "Hatch Chile & Cheddar Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/verde/hatch-chile-cheddar-sausage",
+      "brand_name": "Verde",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50114356",
+      "food_name": "Hatch Chile Chicken Wraps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/hatch-chile-chicken-wraps",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41506230",
+      "food_name": "Mild Hatch Chile Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lantana/mild-hatch-chile-hummus",
+      "brand_name": "Lantana",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42252883",
+      "food_name": "Hatch Queso with Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buffalo-wild-wings/hatch-queso-with-chips",
+      "brand_name": "Buffalo Wild Wings",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73325007",
+      "food_name": "Hatch Chile Jalapeño Jam",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fischer-wieser/hatch-chile-jalape%C3%B1o-jam",
+      "brand_name": "Fischer & Wieser",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82235171",
+      "food_name": "Hatch Chili Chicken Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/members-mark/hatch-chili-chicken-burrito",
+      "brand_name": "Member's Mark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99601206",
+      "food_name": "Hatch Chile Dark Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/central-market/hatch-chile-dark-chocolate",
+      "brand_name": "Central Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11921056",
+      "food_name": "Hatch Chile Mac & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/hatch-chile-mac-and-cheese",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12064594",
+      "food_name": "Hatch Chile Pita Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/hatch-chile-pita-chips",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20481242",
+      "food_name": "Hatch Pepper Turkey Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/hatch-pepper-turkey-burger",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70101739",
+      "food_name": "Hatch Green Chile Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/members-mark/hatch-green-chile-cheese",
+      "brand_name": "Member's Mark",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86161927",
+      "food_name": "Hatch Chili Seasoned Cashews",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natures-eats/hatch-chili-seasoned-cashews",
+      "brand_name": "Nature's Eats",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8797699",
+      "food_name": "Hatch Valley Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joses/hatch-valley-salsa",
+      "brand_name": "Trader Jose's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11974144",
+      "food_name": "Hatch Valley Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/hatch-valley-salsa",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32919463",
+      "food_name": "Crispy Hatch Chiles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-gourmet/crispy-hatch-chiles",
+      "brand_name": "Fresh Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70486553",
+      "food_name": "Hatch Queso (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buffalo-wild-wings/hatch-queso-(large)",
+      "brand_name": "Buffalo Wild Wings",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70517927",
+      "food_name": "Add Hatch Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buffalo-wild-wings/add-hatch-queso",
+      "brand_name": "Buffalo Wild Wings",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77497649",
+      "food_name": "Hatch Chile Guacamole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sprouts-farmers-market/hatch-chile-guacamole",
+      "brand_name": "Sprouts Farmers Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65304572",
+      "food_name": "Down The Hatch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/goodles/down-the-hatch",
+      "brand_name": "Goodles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10276593",
+      "food_name": "Hatch Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/hatch-ranch-dressing",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10360887",
+      "food_name": "Hatch Brisket Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/hatch-brisket-burger",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70486552",
+      "food_name": "Hatch Queso (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/buffalo-wild-wings/hatch-queso-(regular)",
+      "brand_name": "Buffalo Wild Wings",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85975501",
+      "food_name": "Hatch Pepper Gouda",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beemster/hatch-pepper-gouda",
+      "brand_name": "Beemster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101067724",
+      "food_name": "Hatch Chile Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cookwell-company/hatch-chile-vinaigrette",
+      "brand_name": "Cookwell & Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69182159",
+      "food_name": "Hatch Green Chiles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sonic/hatch-green-chiles",
+      "brand_name": "Sonic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18516730",
+      "food_name": "Hatch Chile",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wholly-guacamole/hatch-chile",
+      "brand_name": "Wholly Guacamole",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8588782",
+      "food_name": "Hatch Chile",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stubbs/hatch-chile",
+      "brand_name": "Stubb's",
+      "food_type": "Brand"
+    }
+  ]
+}

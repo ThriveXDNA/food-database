@@ -1,0 +1,41 @@
+{
+  "restaurant": "St Dalfour",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 48,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:03:58.001Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/st_dalfour.json",
+  "items": [
+    {
+      "food_id": "83076152",
+      "food_name": "Black Cherry Fruit Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/black-cherry-fruit-spread",
+      "brand_name": "St Dalfour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79742205",
+      "food_name": "Apricot Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/apricot-spread",
+      "brand_name": "St Dalfour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5223041",
+      "food_name": "Royal Fig",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/royal-fig",
+      "brand_name": "St Dalfour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103521718",
+      "food_name": "Red Raspberry Fruit Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/red-raspberry-fruit-spread",
+      "brand_name": "St Dalfour",
+      "food_type": "Brand"
+    }
+  ]
+}

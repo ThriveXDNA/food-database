@@ -1,0 +1,69 @@
+{
+  "restaurant": "Urban Pie",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 1175,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:46:12.340Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/urban_pie.json",
+  "items": [
+    {
+      "food_id": "62143039",
+      "food_name": "Thin Crust Cauliflower Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/urban-pie/thin-crust-cauliflower-margherita-pizza",
+      "brand_name": "Urban Pie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75245909",
+      "food_name": "Uncured Pepperoni & Sliced Chicken Sausage Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/urban-pie/uncured-pepperoni-sliced-chicken-sausage-pizza",
+      "brand_name": "Urban Pie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39738669",
+      "food_name": "Pesto Fresh Mozzarella Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/urban-pie/pesto-fresh-mozzarella-pizza",
+      "brand_name": "Urban Pie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19268316",
+      "food_name": "Little Italy Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/urban-pie/little-italy-pizza",
+      "brand_name": "Urban Pie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60031056",
+      "food_name": "Bianco Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/urban-pie/bianco-pizza",
+      "brand_name": "Urban Pie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15973552",
+      "food_name": "Mission District Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/urban-pie/mission-district-pizza",
+      "brand_name": "Urban Pie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100199752",
+      "food_name": "Uncured Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/urban-pie/uncured-pepperoni-pizza",
+      "brand_name": "Urban Pie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12988513",
+      "food_name": "North End Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/urban-pie/north-end-pizza",
+      "brand_name": "Urban Pie",
+      "food_type": "Brand"
+    }
+  ]
+}

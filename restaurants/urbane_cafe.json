@@ -1,0 +1,55 @@
+{
+  "restaurant": "Urbane Cafe",
+  "total_items": 6,
+  "pages_extracted": 5,
+  "total_search_results": 237,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:56:50.070Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/urbane_cafe.json",
+  "items": [
+    {
+      "food_id": "65369748",
+      "food_name": "Salmon Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/urbane-cafe/salmon-bowl",
+      "brand_name": "Urbane Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66279679",
+      "food_name": "Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/urbane-cafe/chocolate-chip-cookie",
+      "brand_name": "Urbane Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11889182",
+      "food_name": "So-Cal Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/urbane-cafe/so-cal-sandwich",
+      "brand_name": "Urbane Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66279529",
+      "food_name": "Crunchy Peanut Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/urbane-cafe/crunchy-peanut-salad",
+      "brand_name": "Urbane Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25771274",
+      "food_name": "Southwest Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/urbane-cafe/southwest-chicken",
+      "brand_name": "Urbane Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103833293",
+      "food_name": "House Side Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/urbane-cafe/house-side-salad",
+      "brand_name": "Urbane Cafe",
+      "food_type": "Brand"
+    }
+  ]
+}

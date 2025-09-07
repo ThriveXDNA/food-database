@@ -1,0 +1,76 @@
+{
+  "restaurant": "Screamin Sicilian",
+  "total_items": 9,
+  "pages_extracted": 2,
+  "total_search_results": 80,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:30:28.290Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/screamin_sicilian.json",
+  "items": [
+    {
+      "food_id": "74387789",
+      "food_name": "Supremus Maximus Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/screamin-sicilian/supremus-maximus-pizza",
+      "brand_name": "Screamin Sicilian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45434238",
+      "food_name": "Mother of Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/screamin-sicilian/mother-of-meat",
+      "brand_name": "Screamin Sicilian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89985747",
+      "food_name": "Pepperoni & Sausage Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/screamin-sicilian/pepperoni-sausage-pizza",
+      "brand_name": "Screamin Sicilian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94141841",
+      "food_name": "Detroit Style Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/screamin-sicilian/detroit-style-pepperoni-pizza",
+      "brand_name": "Screamin Sicilian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62869545",
+      "food_name": "Holy Pepperoni Stromboli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/screamin-sicilian/holy-pepperoni-stromboli",
+      "brand_name": "Screamin Sicilian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74554421",
+      "food_name": "I'm Stuffed Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/screamin-sicilian/im-stuffed-cheese-pizza",
+      "brand_name": "Screamin Sicilian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45781634",
+      "food_name": "Brazen Buffalo Chicken Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/screamin-sicilian/brazen-buffalo-chicken-pizza",
+      "brand_name": "Screamin Sicilian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94171741",
+      "food_name": "Italian Meatball Pizza Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/screamin-sicilian/italian-meatball-pizza-bowl",
+      "brand_name": "Screamin Sicilian",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103300391",
+      "food_name": "I’M Stuffed Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/screamin-sicilian/i%E2%80%99m-stuffed-pepperoni-pizza",
+      "brand_name": "Screamin Sicilian",
+      "food_type": "Brand"
+    }
+  ]
+}

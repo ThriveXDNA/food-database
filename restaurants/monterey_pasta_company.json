@@ -1,0 +1,62 @@
+{
+  "restaurant": "Monterey Pasta Company",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 2118,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:18:59.458Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/monterey_pasta_company.json",
+  "items": [
+    {
+      "food_id": "1273499",
+      "food_name": "Butternut Squash Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monterey-pasta-company/butternut-squash-ravioli",
+      "brand_name": "Monterey Pasta Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "391514",
+      "food_name": "Portobello Mushroom Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monterey-pasta-company/portobello-mushroom-ravioli",
+      "brand_name": "Monterey Pasta Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3121147",
+      "food_name": "Roasted Chicken & Mozzarella Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monterey-pasta-company/roasted-chicken-and-mozzarella-ravioli",
+      "brand_name": "Monterey Pasta Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1654961",
+      "food_name": "Italian Sausage Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monterey-pasta-company/italian-sausage-ravioli",
+      "brand_name": "Monterey Pasta Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "244518",
+      "food_name": "Potato Parmesan Gnocchi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monterey-pasta-company/potato-parmesan-gnocchi",
+      "brand_name": "Monterey Pasta Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1624769",
+      "food_name": "Spinach & Cheese Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monterey-pasta-company/spinach-and-cheese-ravioli",
+      "brand_name": "Monterey Pasta Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79336",
+      "food_name": "Whole Wheat Tortellini - Classic Italian Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monterey-pasta-company/whole-wheat-tortellini---classic-italian-cheese",
+      "brand_name": "Monterey Pasta Company",
+      "food_type": "Brand"
+    }
+  ]
+}

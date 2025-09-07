@@ -1,0 +1,622 @@
+{
+  "restaurant": "Litehouse Foods",
+  "total_items": 87,
+  "pages_extracted": 2,
+  "total_search_results": 99,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:51:55.962Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/litehouse_foods.json",
+  "items": [
+    {
+      "food_id": "54126",
+      "food_name": "Homestyle Ranch Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/homestyle-ranch-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "702477",
+      "food_name": "Chunky Blue Cheese Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/chunky-blue-cheese-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54127",
+      "food_name": "Jalapeno Ranch Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/jalapeno-ranch-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54143",
+      "food_name": "Caesar Caesar Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/caesar-caesar-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54152",
+      "food_name": "Organic Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/organic-ranch-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54128",
+      "food_name": "Lite Ranch Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/lite-ranch-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54122",
+      "food_name": "Chunky Bleu Cheese Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/chunky-bleu-cheese-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54157",
+      "food_name": "Garden Ranch Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/garden-ranch-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61582683",
+      "food_name": "Dill Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/dill-ranch-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12812524",
+      "food_name": "Blue Cheese Crumbles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/blue-cheese-crumbles",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36545500",
+      "food_name": "Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "788804",
+      "food_name": "Thousand Island Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/thousand-island-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54168",
+      "food_name": "Strawberry Glaze",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/strawberry-glaze",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50213375",
+      "food_name": "Cilantro Lime Greek Yogurt Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/cilantro-lime-greek-yogurt-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54145",
+      "food_name": "Coleslaw Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/coleslaw-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34604020",
+      "food_name": "Avocado Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/avocado-ranch",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54147",
+      "food_name": "Sesame Ginger Dressing & Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/sesame-ginger-dressing-and-sauce",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54133",
+      "food_name": "Balsamic Vinaigrette Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/balsamic-vinaigrette-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54121",
+      "food_name": "Big Bleu Cheese Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/big-bleu-cheese-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2254098",
+      "food_name": "Pear Gorgonzola Vinaigrette Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/pear-gorgonzola-vinaigrette-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "317883",
+      "food_name": "Creamy Cilantro Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/creamy-cilantro-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54172",
+      "food_name": "Low Fat Caramel Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/low-fat-caramel-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54175",
+      "food_name": "Idaho Bleu Cheese Crumbles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/idaho-bleu-cheese-crumbles",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44577879",
+      "food_name": "Caesar Dressing & Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/caesar-dressing-spread",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54149",
+      "food_name": "Original Thousand Island Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/original-thousand-island-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3021162",
+      "food_name": "Parmesan Caesar Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/parmesan-caesar-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54124",
+      "food_name": "Original Bleu Cheese Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/original-bleu-cheese-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54123",
+      "food_name": "Lite Bleu Cheese Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/lite-bleu-cheese-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54140",
+      "food_name": "Raspberry Walnut Vinaigrette Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/raspberry-walnut-vinaigrette-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19495995",
+      "food_name": "Opa Ranch Greek Yogurt Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/opa-ranch-greek-yogurt-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54134",
+      "food_name": "Bleu Cheese Vinaigrette Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/bleu-cheese-vinaigrette-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75000",
+      "food_name": "Poppyseed Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/poppyseed-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6111253",
+      "food_name": "Greek Vinaigrette Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/greek-vinaigrette-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54156",
+      "food_name": "Dilly Veggie Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/dilly-veggie-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54161",
+      "food_name": "Homestyle Ranch Veggie Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/homestyle-ranch-veggie-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18234682",
+      "food_name": "Opa Avocado Cilantro Greek Yogurt Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/opa-avocado-cilantro-greek-yogurt-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54159",
+      "food_name": "Lite Thousand Island Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/lite-thousand-island-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54164",
+      "food_name": "Strawberry Yogurt Fruit Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/strawberry-yogurt-fruit-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "347965",
+      "food_name": "Creamy Vanilla Yogurt Fruit Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/creamy-vanilla-yogurt-fruit-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54142",
+      "food_name": "Red Wine & Olive Oil Vinaigrette Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/red-wine-and-olive-oil-vinaigrette-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54148",
+      "food_name": "Sweet French Style Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/sweet-french-style-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54173",
+      "food_name": "Original Caramel Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/original-caramel-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1496852",
+      "food_name": "Zesty Italian Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/zesty-italian-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77205944",
+      "food_name": "Raspberry Dressing & Marinade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/raspberry-dressing-marinade",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38665038",
+      "food_name": "Sweet Onion Dressing & Marinade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/sweet-onion-dressing-marinade",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87814",
+      "food_name": "Lite Dilly Veggie Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/lite-dilly-veggie-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54132",
+      "food_name": "Salsa Ranch Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/salsa-ranch-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54138",
+      "food_name": "Lite Honey Dijon Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/lite-honey-dijon-vinaigrette",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54151",
+      "food_name": "Organic Caesar Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/organic-caesar-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54139",
+      "food_name": "Pomegranate Blueberry Vinaigrette Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/pomegranate-blueberry-vinaigrette-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54146",
+      "food_name": "Honey Mustard Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/honey-mustard-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24990981",
+      "food_name": "Chocolate Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/chocolate-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23071517",
+      "food_name": "Opa Tzatziki Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/opa-tzatziki-ranch",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "263204",
+      "food_name": "Country Buttermilk Ranch Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/country-buttermilk-ranch-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54150",
+      "food_name": "Organic Balsamic Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/organic-balsamic-vinaigrette",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54135",
+      "food_name": "Harvest Cranberry Vinaigrette Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/harvest-cranberry-vinaigrette-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "263200",
+      "food_name": "Barbecue Ranch Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/barbecue-ranch-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54120",
+      "food_name": "Bacon Bleu Cheese Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/bacon-bleu-cheese-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2655879",
+      "food_name": "Yogurt Ranch with Kefir",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/yogurt-ranch-with-kefir",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62993725",
+      "food_name": "Old Fashioned Caramel Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/old-fashioned-caramel-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54170",
+      "food_name": "Sugar Free Strawberry Glaze",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/sugar-free-strawberry-glaze",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54153",
+      "food_name": "Organic Raspberry Lime Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/organic-raspberry-lime-vinaigrette",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54158",
+      "food_name": "Lite Ranch Veggie Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/lite-ranch-veggie-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "811441",
+      "food_name": "Mild Thai Peanut Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/mild-thai-peanut-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6476109",
+      "food_name": "Opa Greek Yogurt Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/opa-greek-yogurt-ranch",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54155",
+      "food_name": "Avocado Veggie Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/avocado-veggie-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10032051",
+      "food_name": "Opa Greek Yogurt Caesar Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/opa-greek-yogurt-caesar-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54137",
+      "food_name": "Huckleberry Vinaigrette Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/huckleberry-vinaigrette-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54160",
+      "food_name": "Organic Ranch Veggie Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/organic-ranch-veggie-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1068120",
+      "food_name": "Toasted Sesame Ginger Dressing, Sauce & Marinade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/toasted-sesame-ginger-dressing-sauce-and-marinade",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "943728",
+      "food_name": "Spinach Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/spinach-salad-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7814205",
+      "food_name": "Opa Greek Yogurt Feta Dill Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/opa-greek-yogurt-feta-dill-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22571747",
+      "food_name": "Opa Jalapeño Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/opa-jalape%C3%B1o-ranch",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98467",
+      "food_name": "Reduced Sugar Caramel Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/reduced-sugar-caramel-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54162",
+      "food_name": "Southwest Ranch Veggie Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/southwest-ranch-veggie-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8465381",
+      "food_name": "Opa Greek Yogurt Blue Cheese Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/opa-greek-yogurt-blue-cheese-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9262755",
+      "food_name": "Sweet Onion Dressing with Dijon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/sweet-onion-dressing-with-dijon",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28241131",
+      "food_name": "Mango Habanero",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/mango-habanero",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54174",
+      "food_name": "Toffee Caramel Dip (Heath)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/toffee-caramel-dip-(heath)",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11353836",
+      "food_name": "Feta Cheese Crumbles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/feta-cheese-crumbles",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28547860",
+      "food_name": "Zesty Italian Dressing (Packet)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/zesty-italian-dressing-(packet)",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2779247",
+      "food_name": "Apple Cider",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/apple-cider",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20679311",
+      "food_name": "Opa Greek Yogurt Strawberry Poppyseed Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/opa-greek-yogurt-strawberry-poppyseed-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1827912",
+      "food_name": "Low Fat Peppercorn Ranch Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/low-fat-peppercorn-ranch-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11131908",
+      "food_name": "Avocado Ranch with Bacon Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/avocado-ranch-with-bacon-dressing",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50738721",
+      "food_name": "Purely Balanced Garden Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/purely-balanced-garden-ranch",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54144",
+      "food_name": "Chunky Garlic Caesar Dressing & Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/litehouse-foods/chunky-garlic-caesar-dressing-and-dip",
+      "brand_name": "Litehouse Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

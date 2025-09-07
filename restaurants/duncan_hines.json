@@ -1,0 +1,580 @@
+{
+  "restaurant": "Duncan Hines",
+  "total_items": 81,
+  "pages_extracted": 2,
+  "total_search_results": 81,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:45:09.714Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/duncan_hines.json",
+  "items": [
+    {
+      "food_id": "2070837",
+      "food_name": "Chewy Fudge Premium Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/chewy-fudge-premium-brownie",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2827762",
+      "food_name": "Creamy Home-Style Frosting - Buttercream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/creamy-home-style-frosting---buttercream",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51805",
+      "food_name": "Chocolate Lover's Brownie Mixes - Walnut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/chocolate-lovers-brownie-mixes---walnut",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51158759",
+      "food_name": "Keto Friendly Chewy Fudge Brownies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/keto-friendly-chewy-fudge-brownies",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51823",
+      "food_name": "Moist Deluxe Cake Mix - Strawberry Supreme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/moist-deluxe-cake-mix---strawberry-supreme",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51821",
+      "food_name": "Moist Deluxe Cake Mix - Pineapple Supreme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/moist-deluxe-cake-mix---pineapple-supreme",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7754966",
+      "food_name": "Chewy Fudge Brownie Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/chewy-fudge-brownie-mix",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40411449",
+      "food_name": "Creamy Chocolate Frosting",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/creamy-chocolate-frosting",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51809",
+      "food_name": "Angel Food Cake Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/angel-food-cake-mix",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4543937",
+      "food_name": "Apple Cinnamon Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/apple-cinnamon-muffins",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "227586",
+      "food_name": "Tres Leches Cake Mix - Three Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/tres-leches-cake-mix---three-milk",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10818304",
+      "food_name": "Classic Yellow Cake Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/classic-yellow-cake-mix",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51819",
+      "food_name": "Moist Deluxe Cake Mix - Devil's Food",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/moist-deluxe-cake-mix---devils-food",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2592894",
+      "food_name": "Moist Deluxe Cake Mix - Confetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/moist-deluxe-cake-mix---confetti",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54245653",
+      "food_name": "Keto Friendly Classic Yellow Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/keto-friendly-classic-yellow-cake",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16372866",
+      "food_name": "Whipped Cream Cheese Frosting",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/whipped-cream-cheese-frosting",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10250411",
+      "food_name": "Lemon Supreme Cake Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/lemon-supreme-cake-mix",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82130614",
+      "food_name": "Dolly Parton’S Sweet Cornbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/dolly-parton%E2%80%99s-sweet-cornbread",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95321616",
+      "food_name": "Keto Blueberry Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/keto-blueberry-muffins",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51811",
+      "food_name": "Moist Deluxe Cake Mix - Fudge Marble",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/moist-deluxe-cake-mix---fudge-marble",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51812",
+      "food_name": "Moist Deluxe Cake Mix - German Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/moist-deluxe-cake-mix---german-chocolate",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85557",
+      "food_name": "Dark Chocolate Fudge Creamy Home-Style Frosting",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/dark-chocolate-fudge-creamy-home-style-frosting",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4642607",
+      "food_name": "Simple Mornings Blueberry Streusel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/simple-mornings-blueberry-streusel",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51814",
+      "food_name": "Moist Deluxe Cake Mix - Spice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/moist-deluxe-cake-mix---spice",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5666917",
+      "food_name": "Dark Chocolate Fudge Brownies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/dark-chocolate-fudge-brownies",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3892475",
+      "food_name": "Chocolate Peanut Butter Brownies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/chocolate-peanut-butter-brownies",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14071853",
+      "food_name": "No Sugar Added Cherry Pie Filling",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/no-sugar-added-cherry-pie-filling",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35937099",
+      "food_name": "Keto Friendly Walnut Fudge Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/keto-friendly-walnut-fudge-brownie",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "596530",
+      "food_name": "Whipped Fluffy White Frosting",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/whipped-fluffy-white-frosting",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51810",
+      "food_name": "Moist Deluxe Cake Mix - Classic Yellow",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/moist-deluxe-cake-mix---classic-yellow",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1545060",
+      "food_name": "Whipped Chocolate Frosting",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/whipped-chocolate-frosting",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "227582",
+      "food_name": "Chocolate Lover's Turtle Brownies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/chocolate-lovers-turtle-brownies",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51801",
+      "food_name": "Family Style Brownie Mixes - Chewy Fudge",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/family-style-brownie-mixes---chewy-fudge",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3930405",
+      "food_name": "Classic Carrot Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/classic-carrot-cake",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22729000",
+      "food_name": "Perfect Size For 1 Confetti Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/perfect-size-for-1-confetti-cake",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51813",
+      "food_name": "Moist Deluxe Cake Mix - Dark Chocolate Fudge",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/moist-deluxe-cake-mix---dark-chocolate-fudge",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7842876",
+      "food_name": "Salted Caramel Decadent Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/salted-caramel-decadent-brownie",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59321886",
+      "food_name": "Whipped Chocolate Frosting  (26 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/whipped-chocolate-frosting-(26-g)",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58117518",
+      "food_name": "Keto Friendly Chocolate Chip Cookie Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/keto-friendly-chocolate-chip-cookie-mix",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2103690",
+      "food_name": "Lemon Supreme Frosting",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/lemon-supreme-frosting",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42022550",
+      "food_name": "Keto Friendly Double Chocolate Cake Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/keto-friendly-double-chocolate-cake-mix",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6368755",
+      "food_name": "California Walnut Decadent Brownie Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/california-walnut-decadent-brownie-mix",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104176",
+      "food_name": "Creamy Home-Style Frosting - Cream Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/creamy-home-style-frosting---cream-cheese",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1734413",
+      "food_name": "Creamy Home-Style Frosting - Classic Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/creamy-home-style-frosting---classic-vanilla",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4536854",
+      "food_name": "Family Style Brownie Mixes - Dark Chocolate Fudge",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/family-style-brownie-mixes---dark-chocolate-fudge",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51817",
+      "food_name": "Moist Deluxe Cake Mix - Butter Recipe Golden",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/moist-deluxe-cake-mix---butter-recipe-golden",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "273059",
+      "food_name": "Chocolate Butter Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/chocolate-butter-cream",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34581432",
+      "food_name": "Keto Friendly Birthday Cake Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/keto-friendly-birthday-cake-mix",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70183805",
+      "food_name": "Keto Friendly Vanilla Frosting",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/keto-friendly-vanilla-frosting",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51818",
+      "food_name": "Moist Deluxe Cake Mix - Classic White",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/moist-deluxe-cake-mix---classic-white",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49110",
+      "food_name": "Whipped Vanilla Frosting",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/whipped-vanilla-frosting",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "227585",
+      "food_name": "Family Style Milk Chocolate Brownies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/family-style-milk-chocolate-brownies",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79619294",
+      "food_name": "Keto Friendly Chocolate Frosting",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/keto-friendly-chocolate-frosting",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1273787",
+      "food_name": "Triple Chocolate Decadent Cake Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/triple-chocolate-decadent-cake-mix",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51820",
+      "food_name": "Moist Deluxe Cake Mix - French Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/moist-deluxe-cake-mix---french-vanilla",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51808",
+      "food_name": "Chocolate Lover's Brownie Mixes - Triple Chocolate Decadence",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/chocolate-lovers-brownie-mixes---triple-chocolate-decadence",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51803",
+      "food_name": "Chocolate Lover's Brownie Mixes - Double Fudge",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/chocolate-lovers-brownie-mixes---double-fudge",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51804",
+      "food_name": "Chocolate Lover's Brownie Mixes - Milk Chocolate Chunk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/chocolate-lovers-brownie-mixes---milk-chocolate-chunk",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51816",
+      "food_name": "Moist Deluxe Cake Mix - Banana Supreme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/moist-deluxe-cake-mix---banana-supreme",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2807958",
+      "food_name": "Amazing Glazes Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/amazing-glazes-vanilla",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69501514",
+      "food_name": "Blueberry Pie Filling",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/blueberry-pie-filling",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51815",
+      "food_name": "Moist Deluxe Cake Mix - Swiss Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/moist-deluxe-cake-mix---swiss-chocolate",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1883546",
+      "food_name": "100% Whole Grain Blueberry Streusel Muffin Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/100%25-whole-grain-blueberry-streusel-muffin-mix",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15378888",
+      "food_name": "Chocolate Lovers Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/chocolate-lovers-cake",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51799",
+      "food_name": "Candy Shop Brownie Mixes - Peanut Butter Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/candy-shop-brownie-mixes---peanut-butter-cake",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51802",
+      "food_name": "Chocolate Lover's Brownie Mixes - Chewy Fudge",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/chocolate-lovers-brownie-mixes---chewy-fudge",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51822",
+      "food_name": "Moist Deluxe Cake Mix - Red Velvet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/moist-deluxe-cake-mix---red-velvet",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2679251",
+      "food_name": "Creamy Home-Style Frosting - Classic Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/creamy-home-style-frosting---classic-chocolate",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16801448",
+      "food_name": "Perfect Size For 1 Blueberry Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/perfect-size-for-1-blueberry-muffin",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4144962",
+      "food_name": "Frosting Creations - Frosting Starter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/frosting-creations---frosting-starter",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49496355",
+      "food_name": "Mega Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/mega-cookie",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75991389",
+      "food_name": "Whipped Vanilla Frosting (27 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/whipped-vanilla-frosting-(27-g)",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14995091",
+      "food_name": "Perfect Size For 1 Pineapple Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/perfect-size-for-1-pineapple-cake",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3123657",
+      "food_name": "Apple Caramel Cake Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/apple-caramel-cake-mix",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12039795",
+      "food_name": "Red Velvet Decadent Brownie Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/red-velvet-decadent-brownie-mix",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38463687",
+      "food_name": "Gooey Confetti Sugar Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/gooey-confetti-sugar-cookie",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76895599",
+      "food_name": "Moist Deluxe Cake Mix - Red Velvet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/moist-deluxe-cake-mix-red-velvet",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15752334",
+      "food_name": "Perfect Size For 1 Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/perfect-size-for-1-brownie",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40064194",
+      "food_name": "Perfect Size For 1 Oreo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/perfect-size-for-1-oreo",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29814981",
+      "food_name": "Perfect Size For 1 Strawberry Shortcake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/perfect-size-for-1-strawberry-shortcake",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33593068",
+      "food_name": "Perfect Size For 1 Cinnamon French Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/duncan-hines/perfect-size-for-1-cinnamon-french-toast",
+      "brand_name": "Duncan Hines",
+      "food_type": "Brand"
+    }
+  ]
+}

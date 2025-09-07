@@ -1,0 +1,69 @@
+{
+  "restaurant": "Stryve",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:59:40.714Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/stryve.json",
+  "items": [
+    {
+      "food_id": "30006856",
+      "food_name": "Beef Biltong Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stryve/beef-biltong-original",
+      "brand_name": "Stryve",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76014062",
+      "food_name": "Thinly Sliced Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stryve/thinly-sliced-steak",
+      "brand_name": "Stryve",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30217983",
+      "food_name": "Beef Biltong Smoked",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stryve/beef-biltong-smoked",
+      "brand_name": "Stryve",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33352002",
+      "food_name": "Hatch Green Chile Beef Biltong Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stryve/hatch-green-chile-beef-biltong-stick",
+      "brand_name": "Stryve",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21443562",
+      "food_name": "Baked Chicken Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stryve/baked-chicken-bites",
+      "brand_name": "Stryve",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33524394",
+      "food_name": "Original Beef Biltong Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stryve/original-beef-biltong-stick",
+      "brand_name": "Stryve",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63219483",
+      "food_name": "Mini Air-Dried Beef Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stryve/mini-air-dried-beef-sticks",
+      "brand_name": "Stryve",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32930894",
+      "food_name": "Biltong Sticks Minis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stryve/biltong-sticks-minis",
+      "brand_name": "Stryve",
+      "food_type": "Brand"
+    }
+  ]
+}

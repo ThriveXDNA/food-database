@@ -1,0 +1,69 @@
+{
+  "restaurant": "Yucatan",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:19:46.658Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/yucatan.json",
+  "items": [
+    {
+      "food_id": "104005",
+      "food_name": "Guacamole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yucatan/guacamole",
+      "brand_name": "Yucatan",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11408908",
+      "food_name": "Guacamole (Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yucatan/guacamole-(cup)",
+      "brand_name": "Yucatan",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81873670",
+      "food_name": "Guacamole Restaurant Style Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yucatan/guacamole-restaurant-style-medium",
+      "brand_name": "Yucatan",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5531470",
+      "food_name": "Guacamole Spicy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yucatan/guacamole-spicy",
+      "brand_name": "Yucatan",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14868903",
+      "food_name": "Avocado Pulp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yucatan/avocado-pulp",
+      "brand_name": "Yucatan",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46141",
+      "food_name": "Rosa Mexicano Chicken Breasts with Yucatan Spices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/rosa-mexicano-chicken-breasts-with-yucatan-spices",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12822278",
+      "food_name": "Yucatan Chicken Tortilla Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-zupas/yucatan-chicken-tortilla-soup",
+      "brand_name": "Cafe Zupas",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "376876",
+      "food_name": "Yucatan Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dos-coyotes/yucatan-chicken-salad",
+      "brand_name": "Dos Coyotes",
+      "food_type": "Brand"
+    }
+  ]
+}

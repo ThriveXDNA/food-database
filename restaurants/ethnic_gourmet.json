@@ -1,0 +1,83 @@
+{
+  "restaurant": "Ethnic Gourmet",
+  "total_items": 10,
+  "pages_extracted": 6,
+  "total_search_results": 401,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:18:36.120Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ethnic_gourmet.json",
+  "items": [
+    {
+      "food_id": "1132553",
+      "food_name": "Shahi Paneer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ethnic-gourmet/shahi-paneer",
+      "brand_name": "Ethnic Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5601366",
+      "food_name": "Punjab Saag",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ethnic-gourmet/punjab-saag",
+      "brand_name": "Ethnic Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "509913",
+      "food_name": "Chicken Korma",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ethnic-gourmet/chicken-korma",
+      "brand_name": "Ethnic Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "326675",
+      "food_name": "Vegetable Korma",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ethnic-gourmet/vegetable-korma",
+      "brand_name": "Ethnic Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "618165",
+      "food_name": "Chicken Biryani",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ethnic-gourmet/chicken-biryani",
+      "brand_name": "Ethnic Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46898",
+      "food_name": "Palak Paneer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ethnic-gourmet/palak-paneer",
+      "brand_name": "Ethnic Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "155763",
+      "food_name": "Eggplant Bhartha",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ethnic-gourmet/eggplant-bhartha",
+      "brand_name": "Ethnic Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "596896",
+      "food_name": "Chicken Pad Thai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ethnic-gourmet/chicken-pad-thai",
+      "brand_name": "Ethnic Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82146",
+      "food_name": "Pad Thai with Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ethnic-gourmet/pad-thai-with-tofu",
+      "brand_name": "Ethnic Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83180",
+      "food_name": "Butternut Squash Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ethnic-gourmet/butternut-squash-ravioli",
+      "brand_name": "Ethnic Gourmet",
+      "food_type": "Brand"
+    }
+  ]
+}

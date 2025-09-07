@@ -1,0 +1,27 @@
+{
+  "restaurant": "Dairy Farmers",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 337,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:06:51.780Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dairy_farmers.json",
+  "items": [
+    {
+      "food_id": "23347793",
+      "food_name": "Thick & Creamy Caramelised Fig Yoghurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-farmers/thick-creamy-caramelised-fig-yoghurt",
+      "brand_name": "Dairy Farmers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29076",
+      "food_name": "Dare Iced Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-farmers/dare-iced-coffee",
+      "brand_name": "Dairy Farmers",
+      "food_type": "Brand"
+    }
+  ]
+}

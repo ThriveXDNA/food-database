@@ -1,0 +1,20 @@
+{
+  "restaurant": "Batter Blaster",
+  "total_items": 1,
+  "pages_extracted": 5,
+  "total_search_results": 218,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:57:37.902Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/batter_blaster.json",
+  "items": [
+    {
+      "food_id": "48608",
+      "food_name": "Original Pancake & Waffle Batter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/batter-blaster/original-pancake-and-waffle-batter",
+      "brand_name": "Batter Blaster",
+      "food_type": "Brand"
+    }
+  ]
+}

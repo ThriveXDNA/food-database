@@ -1,0 +1,76 @@
+{
+  "restaurant": "Cafe Bustelo",
+  "total_items": 9,
+  "pages_extracted": 5,
+  "total_search_results": 236,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:38:19.194Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cafe_bustelo.json",
+  "items": [
+    {
+      "food_id": "229927",
+      "food_name": "French Vanilla Cappuccino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-bustelo/french-vanilla-cappuccino",
+      "brand_name": "Cafe Bustelo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75722736",
+      "food_name": "Sweet & Creamy Cafe Con Leche",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-bustelo/sweet-creamy-cafe-con-leche",
+      "brand_name": "Cafe Bustelo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8528781",
+      "food_name": "Bustelo Cool - Cafe Con Leche",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-bustelo/bustelo-cool---cafe-con-leche",
+      "brand_name": "Cafe Bustelo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "229915",
+      "food_name": "Classic Flavor Cappuccino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-bustelo/classic-flavor-cappuccino",
+      "brand_name": "Cafe Bustelo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39354984",
+      "food_name": "Cafe Con Chocolate K-Cups",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-bustelo/cafe-con-chocolate-k-cups",
+      "brand_name": "Cafe Bustelo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "229923",
+      "food_name": "Classic Flavor Sugar Free Cappuccino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-bustelo/classic-flavor-sugar-free-cappuccino",
+      "brand_name": "Cafe Bustelo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39571855",
+      "food_name": "Cafe Con Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-bustelo/cafe-con-chocolate",
+      "brand_name": "Cafe Bustelo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "229916",
+      "food_name": "Classic Flavor Decaffeinated Cappuccino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-bustelo/classic-flavor-decaffeinated-cappuccino",
+      "brand_name": "Cafe Bustelo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "229928",
+      "food_name": "Mocha Cappuccino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-bustelo/mocha-cappuccino",
+      "brand_name": "Cafe Bustelo",
+      "food_type": "Brand"
+    }
+  ]
+}

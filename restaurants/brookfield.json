@@ -1,0 +1,55 @@
+{
+  "restaurant": "Brookfield",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:03:02.742Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/brookfield.json",
+  "items": [
+    {
+      "food_id": "33005330",
+      "food_name": "Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brookfield/cheddar-cheese",
+      "brand_name": "Brookfield",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41381699",
+      "food_name": "Cream Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brookfield/cream-cheese",
+      "brand_name": "Brookfield",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20508455",
+      "food_name": "Mozzarella Shredded Natural Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brookfield/mozzarella-shredded-natural-cheese",
+      "brand_name": "Brookfield",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100531694",
+      "food_name": "Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brookfield/butter",
+      "brand_name": "Brookfield",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1707705",
+      "food_name": "Golden Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brookfield/golden-spread",
+      "brand_name": "Brookfield",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1018915",
+      "food_name": "American Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brookfield/american-cheese",
+      "brand_name": "Brookfield",
+      "food_type": "Brand"
+    }
+  ]
+}

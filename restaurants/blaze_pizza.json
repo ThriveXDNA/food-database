@@ -1,0 +1,734 @@
+{
+  "restaurant": "Blaze Pizza",
+  "total_items": 103,
+  "pages_extracted": 6,
+  "total_search_results": 6474,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:11:50.192Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/blaze_pizza.json",
+  "items": [
+    {
+      "food_id": "74730483",
+      "food_name": "White Top Pizza - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/white-top-pizza-large",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730413",
+      "food_name": "Meat Eater Pizza - 11 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/meat-eater-pizza-11-inch",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730422",
+      "food_name": "Simple Pie Pizza - 11 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/simple-pie-pizza-11-inch",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730505",
+      "food_name": "Simple Pie - Half Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/simple-pie-half-pizza",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730464",
+      "food_name": "BBQ CHKN Pizza - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/bbq-chkn-pizza-large",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005535",
+      "food_name": "Carnivore - Half Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/carnivore-half-pizza",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730390",
+      "food_name": "BBQ CHKN Pizza - 11 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/bbq-chkn-pizza-11-inch",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730431",
+      "food_name": "Vegetarian Pizza Pizza - 11 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/vegetarian-pizza-pizza-11-inch",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730547",
+      "food_name": "Cheesy Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/cheesy-bread",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730411",
+      "food_name": "Keto Pizza Pizza - 11 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/keto-pizza-pizza-11-inch",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13364072",
+      "food_name": "S'more Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/smore-pie",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005542",
+      "food_name": "Meat Eater Pizza - Half Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/meat-eater-pizza-half-pizza",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730601",
+      "food_name": "Barqs Rootbeer - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/barqs-rootbeer-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730550",
+      "food_name": "Barqs Rootbeer - Large - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/barqs-rootbeer-large-24-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730474",
+      "food_name": "Meat Eater Pizza - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/meat-eater-pizza-large",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005516",
+      "food_name": "Spicy Double Pepperoni - 11 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/spicy-double-pepperoni-11-inch",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005510",
+      "food_name": "Carnivore - 11 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/carnivore-11-inch",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730579",
+      "food_name": "Mango Agua Fresca - Large - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/mango-agua-fresca-large-24-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730534",
+      "food_name": "Classic Caesar Salad - Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/classic-caesar-salad-side",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005513",
+      "food_name": "Herbivore - 11 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/herbivore-11-inch",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730663",
+      "food_name": "Chocolate Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/chocolate-brownie",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005515",
+      "food_name": "Meatball Pie - 11 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/meatball-pie-11-inch",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005511",
+      "food_name": "Four Cheese - 11 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/four-cheese-11-inch",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730537",
+      "food_name": "Classic Greek Salad - Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/classic-greek-salad-side",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730539",
+      "food_name": "Fresh Berry Salad - Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/fresh-berry-salad-side",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730548",
+      "food_name": "Cheesy Pesto Garlic Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/cheesy-pesto-garlic-bread",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730582",
+      "food_name": "Pear Cucumber Agua Fresca - Large - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/pear-cucumber-agua-fresca-large-24-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730611",
+      "food_name": "Blood Orange Lemonade - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/blood-orange-lemonade-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730637",
+      "food_name": "Strawberry Agua Fresca - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/strawberry-agua-fresca-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730489",
+      "food_name": "BBQ CHKN - Half Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/bbq-chkn-half-pizza",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005540",
+      "food_name": "Meatball Pie - Half Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/meatball-pie-half-pizza",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730478",
+      "food_name": "Simple Pie Pizza - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/simple-pie-pizza-large",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005509",
+      "food_name": "Blazed BBQ - 11 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/blazed-bbq-11-inch",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005543",
+      "food_name": "Spicy Double Pepperoni - Half Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/spicy-double-pepperoni-half-pizza",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730503",
+      "food_name": "Red Vine - Half Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/red-vine-half-pizza",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005532",
+      "food_name": "Blazed BBQ - Half Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/blazed-bbq-half-pizza",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730630",
+      "food_name": "Mango Agua Fresca - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/mango-agua-fresca-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005556",
+      "food_name": "Single Meatball",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/single-meatball",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730445",
+      "food_name": "White Top Pizza - 11 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/white-top-pizza-11-inch",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005528",
+      "food_name": "Meatball Pie - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/meatball-pie-large",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730481",
+      "food_name": "Veg Out Pizza - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/veg-out-pizza-large",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730572",
+      "food_name": "Coke - Large - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/coke-large-24-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730597",
+      "food_name": "Strawberry Agua Fresca - Large - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/strawberry-agua-fresca-large-24-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730654",
+      "food_name": "Milk - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/milk-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005530",
+      "food_name": "Spicy Double Pepperoni - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/spicy-double-pepperoni-large",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730519",
+      "food_name": "Classic Caesar Salad - Entrée",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/classic-caesar-salad-entr%C3%A9e",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730578",
+      "food_name": "Lemonade - Large - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/lemonade-large-24-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730612",
+      "food_name": "Coke - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/coke-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730633",
+      "food_name": "Pear Cucumber Agua Fresca - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/pear-cucumber-agua-fresca-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005548",
+      "food_name": "Fast Fire'd Meatball Trio",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/fast-fired-meatball-trio",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005561",
+      "food_name": "Cinnamon Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/cinnamon-bread",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730513",
+      "food_name": "BLT Wedge - Entrée",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/blt-wedge-entr%C3%A9e",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730518",
+      "food_name": "Buffalo Blue Salad - Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/buffalo-blue-salad-side",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730535",
+      "food_name": "Classic Greek Salad - Entrée",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/classic-greek-salad-entr%C3%A9e",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730538",
+      "food_name": "Fresh Berry Salad - Entrée",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/fresh-berry-salad-entr%C3%A9e",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730554",
+      "food_name": "Blood Orange Lemonade - Large - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/blood-orange-lemonade-large-24-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730656",
+      "food_name": "Bottled Beer - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/bottled-beer-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005560",
+      "food_name": "Chocolate Chunk Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/chocolate-chunk-cookie",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730406",
+      "food_name": "Hot Link Pizza - 11 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/hot-link-pizza-11-inch",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730434",
+      "food_name": "Veg Out Pizza - 11 Inch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/veg-out-pizza-11-inch",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730495",
+      "food_name": "Green Stripe - Half Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/green-stripe-half-pizza",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005539",
+      "food_name": "Herbivore - Half Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/herbivore-half-pizza",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730574",
+      "food_name": "Coke Zero - Large - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/coke-zero-large-24-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005518",
+      "food_name": "Blazed BBQ - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/blazed-bbq-large",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005527",
+      "food_name": "Herbivore - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/herbivore-large",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005553",
+      "food_name": "Caprese Salad - Entrée",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/caprese-salad-entr%C3%A9e",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730552",
+      "food_name": "Blackberry Basil Agua Fresca - Large - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/blackberry-basil-agua-fresca-large-24-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730593",
+      "food_name": "Pomegranate Limeade Agua Fresca - Large - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/pomegranate-limeade-agua-fresca-large-24-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005523",
+      "food_name": "Carnivore - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/carnivore-large",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005524",
+      "food_name": "Four Cheese - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/four-cheese-large",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005552",
+      "food_name": "Spicy Pepperoni Fold",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/spicy-pepperoni-fold",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005557",
+      "food_name": "Spicy Cheesy Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/spicy-cheesy-bread",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730498",
+      "food_name": "Hot Link - Half Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/hot-link-half-pizza",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730510",
+      "food_name": "White Top - Half Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/white-top-half-pizza",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730473",
+      "food_name": "Hot Link Pizza - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/hot-link-pizza-large",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730475",
+      "food_name": "Red Vine Pizza - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/red-vine-pizza-large",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730508",
+      "food_name": "Veg Out - Half Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/veg-out-half-pizza",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730511",
+      "food_name": "BLT Cobb - Entrée",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/blt-cobb-entr%C3%A9e",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730512",
+      "food_name": "BLT Cobb - Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/blt-cobb-side",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730514",
+      "food_name": "BLT Wedge - Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/blt-wedge-side",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730553",
+      "food_name": "Black Cherry Blue Sky - Large - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/black-cherry-blue-sky-large-24-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730580",
+      "food_name": "Mango Blue Sky - Large - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/mango-blue-sky-large-24-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730599",
+      "food_name": "Unsweetened Iced Tea - Large - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/unsweetened-iced-tea-large-24-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730609",
+      "food_name": "Black Cherry Blue Sky - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/black-cherry-blue-sky-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730613",
+      "food_name": "Coke Zero - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/coke-zero-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730634",
+      "food_name": "Pomegranate Limeade Agua Fresca - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/pomegranate-limeade-agua-fresca-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730635",
+      "food_name": "Root Beer Blue Sky - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/root-beer-blue-sky-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730638",
+      "food_name": "Tangerine Passionfruit Agua Fresca - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/tangerine-passionfruit-agua-fresca-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730659",
+      "food_name": "Red Wine - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/red-wine-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730660",
+      "food_name": "White Wine - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/white-wine-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005551",
+      "food_name": "Spicy Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/spicy-meatballs",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88005554",
+      "food_name": "Caprese Salad - Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/caprese-salad-side",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730516",
+      "food_name": "Buffalo Blue Salad - Entrée",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/buffalo-blue-salad-entr%C3%A9e",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730549",
+      "food_name": "Fast Fire'd Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/fast-fired-meatballs",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730576",
+      "food_name": "Diet Coke - Large - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/diet-coke-large-24-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730596",
+      "food_name": "Sprite - Large - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/sprite-large-24-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730598",
+      "food_name": "Tangerine Passionfruit Agua Fresca - Large - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/tangerine-passionfruit-agua-fresca-large-24-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730608",
+      "food_name": "Blackberry Basil Agua Fresca - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/blackberry-basil-agua-fresca-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730616",
+      "food_name": "Diet Coke - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/diet-coke-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730618",
+      "food_name": "Lemonade - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/lemonade-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730632",
+      "food_name": "Mango Blue Sky - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/mango-blue-sky-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730636",
+      "food_name": "Sprite - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/sprite-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74730653",
+      "food_name": "Unsweetened Iced Tea - Regular - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blaze-pizza/unsweetened-iced-tea-regular-16-oz",
+      "brand_name": "Blaze Pizza",
+      "food_type": "Brand"
+    }
+  ]
+}

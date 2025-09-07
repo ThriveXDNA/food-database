@@ -1,0 +1,979 @@
+{
+  "restaurant": "Krispy Kreme",
+  "total_items": 138,
+  "pages_extracted": 4,
+  "total_search_results": 170,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:57:08.534Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/krispy_kreme.json",
+  "items": [
+    {
+      "food_id": "3680492",
+      "food_name": "Original Glazed Doughnut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/original-glazed-doughnut",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "142842",
+      "food_name": "Chocolate Iced Glazed Doughnut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/chocolate-iced-glazed-doughnut",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75384481",
+      "food_name": "Chocolate Iced Doughnut with Kreme Filling",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/chocolate-iced-doughnut-with-kreme-filling",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "142848",
+      "food_name": "Glazed Raspberry Filled Doughnut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/glazed-raspberry-filled-doughnut",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8705301",
+      "food_name": "Chocolate Iced Custard Filled Doughnut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/chocolate-iced-custard-filled-doughnut",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248750",
+      "food_name": "Strawberry Iced Doughnut with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/strawberry-iced-doughnut-with-sprinkles",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1006954",
+      "food_name": "Glazed Blueberry Cake Doughnut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/glazed-blueberry-cake-doughnut",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "142845",
+      "food_name": "Glazed Lemon Filled Doughnut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/glazed-lemon-filled-doughnut",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248484",
+      "food_name": "Kreme Filled Football Doughnut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/kreme-filled-football-doughnut",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248748",
+      "food_name": "Chocolate Iced Glazed Doughnut with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/chocolate-iced-glazed-doughnut-with-sprinkles",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248758",
+      "food_name": "Mini Original Glazed Doughnuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/mini-original-glazed-doughnuts",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248571",
+      "food_name": "Original Glazed Doughnut Dots - 1 Piece",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/original-glazed-doughnut-dots-1-piece",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37055638",
+      "food_name": "Cake Batter Doughnut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/cake-batter-doughnut",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75384500",
+      "food_name": "Mini Chocolate Iced Glazed Doughnut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/mini-chocolate-iced-glazed-doughnut",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75384502",
+      "food_name": "Original Glazed Cinnamon Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/original-glazed-cinnamon-roll",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248796",
+      "food_name": "Mini Strawberry Iced Doughnuts with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/mini-strawberry-iced-doughnuts-with-sprinkles",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248795",
+      "food_name": "Mini Chocolate Iced Doughnuts with Sprinkles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/mini-chocolate-iced-doughnuts-with-sprinkles",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248567",
+      "food_name": "Buttercreme Goals Doughnut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/buttercreme-goals-doughnut",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248579",
+      "food_name": "Original Glazed Doughnut Dots - 10 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/original-glazed-doughnut-dots-10-pieces",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87249047",
+      "food_name": "Caramel Mocha Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/caramel-mocha-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248745",
+      "food_name": "Assorted Doughnut Dots - 10 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/assorted-doughnut-dots-10-pieces",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248433",
+      "food_name": "Dr Pepper Kickoff Doughnut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/dr-pepper-kickoff-doughnut",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250639",
+      "food_name": "Caramel Mocha Iced Coffee (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/caramel-mocha-iced-coffee-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248935",
+      "food_name": "Vanilla Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/vanilla-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252703",
+      "food_name": "Krispy Kreme Classic Decaf K-Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/krispy-kreme-classic-decaf-k-cup",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88849",
+      "food_name": "Pumpkin Spice Cake Doughnut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/pumpkin-spice-cake-doughnut",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250604",
+      "food_name": "Vanilla Iced Coffee (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/vanilla-iced-coffee-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87249042",
+      "food_name": "Caramel Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/caramel-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250567",
+      "food_name": "Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250636",
+      "food_name": "Caramel Mocha Iced Coffee (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/caramel-mocha-iced-coffee-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252669",
+      "food_name": "Strawberry Chiller (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/strawberry-chiller-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252701",
+      "food_name": "Krispy Kreme Classic K-Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/krispy-kreme-classic-k-cup",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248920",
+      "food_name": "Classic Brewed Coffee (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/classic-brewed-coffee-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248932",
+      "food_name": "Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248934",
+      "food_name": "Vanilla Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/vanilla-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251437",
+      "food_name": "Frozen Vanilla Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-vanilla-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251445",
+      "food_name": "Frozen Caramel Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-caramel-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248661",
+      "food_name": "Original Glazed Doughnut Dots - 24 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/original-glazed-doughnut-dots-24-pieces",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250624",
+      "food_name": "Caramel Iced Coffee (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/caramel-iced-coffee-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250729",
+      "food_name": "Iced Caramel Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-caramel-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87249050",
+      "food_name": "Mocha Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/mocha-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250626",
+      "food_name": "Caramel Iced Coffee (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/caramel-iced-coffee-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250681",
+      "food_name": "Iced Vanilla Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-vanilla-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250716",
+      "food_name": "Iced Vanilla Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-vanilla-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251435",
+      "food_name": "Frozen Vanilla Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-vanilla-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252672",
+      "food_name": "Strawberry Chiller (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/strawberry-chiller-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248936",
+      "food_name": "Vanilla Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/vanilla-latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248952",
+      "food_name": "Caramel Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/caramel-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250572",
+      "food_name": "Cappuccino (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/cappuccino-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250573",
+      "food_name": "Cappuccino (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/cappuccino-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250575",
+      "food_name": "Espresso (Double)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/espresso-(double)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250579",
+      "food_name": "Espresso (Quad)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/espresso-(quad)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250592",
+      "food_name": "Iced Coffee (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-coffee-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251425",
+      "food_name": "Iced Mocha Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-mocha-latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251433",
+      "food_name": "Frozen Specialty Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-specialty-latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251551",
+      "food_name": "Frozen Mocha Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-mocha-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251553",
+      "food_name": "Frozen Mocha Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-mocha-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248923",
+      "food_name": "Classic Decaf Brewed Coffee (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/classic-decaf-brewed-coffee-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87249048",
+      "food_name": "Caramel Mocha Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/caramel-mocha-latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87249049",
+      "food_name": "Mocha Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/mocha-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250614",
+      "food_name": "Original Glazed Iced Coffee (16Fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/original-glazed-iced-coffee-(16fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250634",
+      "food_name": "Caramel Mocha Iced Coffee (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/caramel-mocha-iced-coffee-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250727",
+      "food_name": "Iced Caramel Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-caramel-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250813",
+      "food_name": "Iced Caramel Mocha Specialty Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-caramel-mocha-specialty-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250817",
+      "food_name": "Iced Caramel Mocha Specialty Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-caramel-mocha-specialty-latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251424",
+      "food_name": "Iced Mocha Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-mocha-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252677",
+      "food_name": "Strawberry Chiller (20. fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/strawberry-chiller-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252711",
+      "food_name": "Bold 1937 Ground Coffee (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/bold-1937-ground-coffee-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252695",
+      "food_name": "Ghirardelli Hot Chocolate (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/ghirardelli-hot-chocolate-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252704",
+      "food_name": "Classic Decaf Ground Coffee (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/classic-decaf-ground-coffee-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252712",
+      "food_name": "Bold 1937 Ground Coffee (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/bold-1937-ground-coffee-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252715",
+      "food_name": "Bold 1937 Ground Coffee (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/bold-1937-ground-coffee-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248747",
+      "food_name": "Assorted Doughnut Dots - 24 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/assorted-doughnut-dots-24-pieces",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248797",
+      "food_name": "Pumpkin Spice Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/pumpkin-spice-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248798",
+      "food_name": "Pumpkin Spice Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/pumpkin-spice-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248802",
+      "food_name": "Pumpkin Spice Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/pumpkin-spice-latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248811",
+      "food_name": "Pumpkin Spice Iced Coffee (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/pumpkin-spice-iced-coffee-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248812",
+      "food_name": "Pumpkin Spice Iced Coffee (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/pumpkin-spice-iced-coffee-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248868",
+      "food_name": "Frozen Pumpkin Spice Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-pumpkin-spice-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248921",
+      "food_name": "Classic Decaf Brewed Coffee (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/classic-decaf-brewed-coffee-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248922",
+      "food_name": "Classic Brewed Coffee (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/classic-brewed-coffee-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248926",
+      "food_name": "Classic Decaf Brewed Coffee (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/classic-decaf-brewed-coffee-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248933",
+      "food_name": "Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248947",
+      "food_name": "Original Glazed Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/original-glazed-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248950",
+      "food_name": "Original Glazed Latte (32 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/original-glazed-latte-(32-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250577",
+      "food_name": "Espresso (Single)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/espresso-(single)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250611",
+      "food_name": "Vanilla Iced Coffee (32 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/vanilla-iced-coffee-(32-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250621",
+      "food_name": "Original Glazed Iced Coffee (32 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/original-glazed-iced-coffee-(32-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250627",
+      "food_name": "Caramel Iced Coffee (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/caramel-iced-coffee-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250632",
+      "food_name": "Caramel Iced Coffee (32 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/caramel-iced-coffee-(32-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250722",
+      "food_name": "Iced Original Glazed Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-original-glazed-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250810",
+      "food_name": "Iced Caramel Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-caramel-latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250815",
+      "food_name": "Iced Caramel Mocha Specialty Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-caramel-mocha-specialty-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251438",
+      "food_name": "Frozen Vanilla Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-vanilla-latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251440",
+      "food_name": "Frozen Original Glazed Specialty Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-original-glazed-specialty-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251441",
+      "food_name": "Frozen Original Glazed Specialty Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-original-glazed-specialty-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251476",
+      "food_name": "Frozen Caramel Latte (16Fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-caramel-latte-(16fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252659",
+      "food_name": "Frozen Caramel Mocha Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-caramel-mocha-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252681",
+      "food_name": "Lemonade Chiller (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/lemonade-chiller-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252683",
+      "food_name": "Lemonade Chiller (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/lemonade-chiller-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252684",
+      "food_name": "Lemonade Chiller (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/lemonade-chiller-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248809",
+      "food_name": "Pumpkin Spice Iced Coffee (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/pumpkin-spice-iced-coffee-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248866",
+      "food_name": "Frozen Pumpkin Spice Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-pumpkin-spice-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248870",
+      "food_name": "Frozen Pumpkin Spice Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-pumpkin-spice-latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248924",
+      "food_name": "Classic Brewed Coffee (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/classic-brewed-coffee-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248937",
+      "food_name": "Original Glazed Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/original-glazed-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87248948",
+      "food_name": "Original Glazed Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/original-glazed-latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250578",
+      "food_name": "Espresso (Triple)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/espresso-(triple)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250580",
+      "food_name": "Americano (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/americano-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250583",
+      "food_name": "Americano (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/americano-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250584",
+      "food_name": "Americano (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/americano-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250596",
+      "food_name": "Iced Coffee (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-coffee-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250598",
+      "food_name": "Iced Coffee (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-coffee-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250603",
+      "food_name": "Iced Coffee (32 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-coffee-(32-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250607",
+      "food_name": "Vanilla Iced Coffee (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/vanilla-iced-coffee-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250609",
+      "food_name": "Vanilla Iced Coffee (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/vanilla-iced-coffee-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250613",
+      "food_name": "Original Glazed Iced Coffee (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/original-glazed-iced-coffee-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250618",
+      "food_name": "Original Glazed Iced Coffee (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/original-glazed-iced-coffee-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250640",
+      "food_name": "Caramel Mocha Iced Coffee (32 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/caramel-mocha-iced-coffee-(32-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250644",
+      "food_name": "Iced Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250647",
+      "food_name": "Iced Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250680",
+      "food_name": "Iced Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250717",
+      "food_name": "Iced Vanilla Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-vanilla-latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250720",
+      "food_name": "Iced Original Glazed Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-original-glazed-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87250726",
+      "food_name": "Iced Original Glazed Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-original-glazed-latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251186",
+      "food_name": "Iced Mocha Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/iced-mocha-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251426",
+      "food_name": "Frozen Specialty Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-specialty-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251428",
+      "food_name": "Frozen Specialty Latte (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-specialty-latte-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251443",
+      "food_name": "Frozen Original Glazed Specialty Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-original-glazed-specialty-latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251550",
+      "food_name": "Frozen Caramel Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-caramel-latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251554",
+      "food_name": "Frozen Caramel Mocha Latte (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-caramel-mocha-latte-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87251558",
+      "food_name": "Frozen Mocha Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-mocha-latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252666",
+      "food_name": "Frozen Caramel Mocha Latte (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/frozen-caramel-mocha-latte-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252687",
+      "food_name": "Ghirardelli Hot Chocolate (12 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/ghirardelli-hot-chocolate-(12-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252693",
+      "food_name": "Ghirardelli Hot Chocolate (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/ghirardelli-hot-chocolate-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252706",
+      "food_name": "Classic Decaf Ground Coffee (16 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/classic-decaf-ground-coffee-(16-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252709",
+      "food_name": "Classic Decaf Ground Coffee (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/classic-decaf-ground-coffee-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87252755",
+      "food_name": "Cappuccino (20 fl oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-kreme/cappuccino-(20-fl-oz)",
+      "brand_name": "Krispy Kreme",
+      "food_type": "Brand"
+    }
+  ]
+}

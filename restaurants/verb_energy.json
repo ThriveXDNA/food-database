@@ -1,0 +1,62 @@
+{
+  "restaurant": "Verb Energy",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 642,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:09:37.459Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/verb_energy.json",
+  "items": [
+    {
+      "food_id": "59387986",
+      "food_name": "Chocolate Peanut Butter Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/verb-energy/chocolate-peanut-butter-cup",
+      "brand_name": "Verb Energy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46069845",
+      "food_name": "Vanilla Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/verb-energy/vanilla-latte",
+      "brand_name": "Verb Energy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49593152",
+      "food_name": "Cookie Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/verb-energy/cookie-butter",
+      "brand_name": "Verb Energy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31522320",
+      "food_name": "Salted Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/verb-energy/salted-peanut-butter",
+      "brand_name": "Verb Energy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26045246",
+      "food_name": "Maple Blueberry Energy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/verb-energy/maple-blueberry-energy-bar",
+      "brand_name": "Verb Energy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49166850",
+      "food_name": "Double Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/verb-energy/double-chocolate",
+      "brand_name": "Verb Energy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50859177",
+      "food_name": "Peppermint Mocha",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/verb-energy/peppermint-mocha",
+      "brand_name": "Verb Energy",
+      "food_type": "Brand"
+    }
+  ]
+}

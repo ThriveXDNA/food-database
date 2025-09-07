@@ -1,0 +1,55 @@
+{
+  "restaurant": "Karine & Jeff",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:34:17.578Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/karine_jeff.json",
+  "items": [
+    {
+      "food_id": "48106214",
+      "food_name": "French Ratatouille",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/karine-jeff/french-ratatouille",
+      "brand_name": "Karine & Jeff",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44211198",
+      "food_name": "Thai Coconut Milk Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/karine-jeff/thai-coconut-milk-soup",
+      "brand_name": "Karine & Jeff",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66581330",
+      "food_name": "Vegetables Indian Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/karine-jeff/vegetables-indian-style",
+      "brand_name": "Karine & Jeff",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17322533",
+      "food_name": "Split Pea Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/karine-and-jeff/split-pea-soup",
+      "brand_name": "Karine & Jeff",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60769746",
+      "food_name": "French Pesto Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/karine-jeff/french-pesto-soup",
+      "brand_name": "Karine & Jeff",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41565252",
+      "food_name": "Garden Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/karine-jeff/garden-vegetable-soup",
+      "brand_name": "Karine & Jeff",
+      "food_type": "Brand"
+    }
+  ]
+}

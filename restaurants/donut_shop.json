@@ -1,0 +1,55 @@
+{
+  "restaurant": "Donut Shop",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 392,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:06:06.401Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/donut_shop.json",
+  "items": [
+    {
+      "food_id": "42316803",
+      "food_name": "Vanilla Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/donut-shop/vanilla-latte",
+      "brand_name": "Donut Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84239219",
+      "food_name": "Cinnamon Toast Crunch Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/donut-shop/cinnamon-toast-crunch-latte",
+      "brand_name": "Donut Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43475404",
+      "food_name": "Mocha Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/donut-shop/mocha-latte",
+      "brand_name": "Donut Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77300437",
+      "food_name": "Cinnamon Dulce Cappuccino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/donut-shop/cinnamon-dulce-cappuccino",
+      "brand_name": "Donut Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94031386",
+      "food_name": "Iced Refresher",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/donut-shop/iced-refresher",
+      "brand_name": "Donut Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75618067",
+      "food_name": "Pumpkin Caramel Cheesecake Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/donut-shop/pumpkin-caramel-cheesecake-latte",
+      "brand_name": "Donut Shop",
+      "food_type": "Brand"
+    }
+  ]
+}

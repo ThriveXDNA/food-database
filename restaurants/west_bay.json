@@ -1,0 +1,41 @@
+{
+  "restaurant": "West Bay",
+  "total_items": 4,
+  "pages_extracted": 2,
+  "total_search_results": 80,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:39:56.969Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/west_bay.json",
+  "items": [
+    {
+      "food_id": "2773043",
+      "food_name": "Seafood Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/west-bay/seafood-mix",
+      "brand_name": "West Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24541500",
+      "food_name": "Imitation Crab Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/west-bay/imitation-crab-sticks",
+      "brand_name": "West Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "348985",
+      "food_name": "Squid Rings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/west-bay/squid-rings",
+      "brand_name": "West Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47201943",
+      "food_name": "Blanched Octomari",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/west-bay/blanched-octomari",
+      "brand_name": "West Bay",
+      "food_type": "Brand"
+    }
+  ]
+}

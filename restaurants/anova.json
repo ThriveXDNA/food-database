@@ -1,0 +1,20 @@
+{
+  "restaurant": "Anova",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 1,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:16:14.702Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/anova.json",
+  "items": [
+    {
+      "food_id": "11265344",
+      "food_name": "Ahi Tuna Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/anova/ahi-tuna-steak",
+      "brand_name": "Anova",
+      "food_type": "Brand"
+    }
+  ]
+}

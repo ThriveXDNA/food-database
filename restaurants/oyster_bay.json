@@ -1,0 +1,41 @@
+{
+  "restaurant": "Oyster Bay",
+  "total_items": 4,
+  "pages_extracted": 3,
+  "total_search_results": 146,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:40:07.052Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/oyster_bay.json",
+  "items": [
+    {
+      "food_id": "1609605",
+      "food_name": "Clams",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oyster-bay/clams",
+      "brand_name": "Oyster Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98536947",
+      "food_name": "Tuna Steaks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oyster-bay/tuna-steaks",
+      "brand_name": "Oyster Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3395690",
+      "food_name": "Crab Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oyster-bay/crab-meat",
+      "brand_name": "Oyster Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4021315",
+      "food_name": "Mussels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/oyster-bay/mussels",
+      "brand_name": "Oyster Bay",
+      "food_type": "Brand"
+    }
+  ]
+}

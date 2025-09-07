@@ -1,0 +1,27 @@
+{
+  "restaurant": "Polar Bird",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 47,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:41:15.811Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/polar_bird.json",
+  "items": [
+    {
+      "food_id": "1858378",
+      "food_name": "Seafood Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/polar-bird/seafood-mix",
+      "brand_name": "Polar Bird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3102450",
+      "food_name": "Squid Ring",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/polar-bird/squid-ring",
+      "brand_name": "Polar Bird",
+      "food_type": "Brand"
+    }
+  ]
+}

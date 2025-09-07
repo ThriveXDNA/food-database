@@ -1,0 +1,62 @@
+{
+  "restaurant": "Blue Bird",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 747,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:05:22.812Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/blue_bird.json",
+  "items": [
+    {
+      "food_id": "715164",
+      "food_name": "Honey Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-bird/honey-bun",
+      "brand_name": "Blue Bird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1688753",
+      "food_name": "Chocolate Cupcake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-bird/chocolate-cupcake",
+      "brand_name": "Blue Bird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "845590",
+      "food_name": "Pecan Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-bird/pecan-pie",
+      "brand_name": "Blue Bird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50758",
+      "food_name": "Pecan Spins (100 Calorie)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-bird/pecan-spins-(100-calorie)",
+      "brand_name": "Blue Bird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75929",
+      "food_name": "Strawberry Cereal Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-bird/strawberry-cereal-bars",
+      "brand_name": "Blue Bird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "367106",
+      "food_name": "Snowballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-bird/snowballs",
+      "brand_name": "Blue Bird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95629",
+      "food_name": "Frosted Chocolate Donuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-bird/frosted-chocolate-donuts",
+      "brand_name": "Blue Bird",
+      "food_type": "Brand"
+    }
+  ]
+}

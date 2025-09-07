@@ -1,0 +1,90 @@
+{
+  "restaurant": "Step One Foods",
+  "total_items": 11,
+  "pages_extracted": 6,
+  "total_search_results": 268,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:59:35.054Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/step_one_foods.json",
+  "items": [
+    {
+      "food_id": "31958564",
+      "food_name": "Peanut Butter Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/step-one-foods/peanut-butter-bar",
+      "brand_name": "Step One Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90265574",
+      "food_name": "Peanut & Almond Nut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/step-one-foods/peanut-almond-nut-butter",
+      "brand_name": "Step One Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61366294",
+      "food_name": "Anytime Sprinkle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/step-one-foods/anytime-sprinkle",
+      "brand_name": "Step One Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76941461",
+      "food_name": "Oats & Walnut Pancake Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/step-one-foods/oats-walnut-pancake-mix",
+      "brand_name": "Step One Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33138621",
+      "food_name": "Crunch Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/step-one-foods/crunch-bar",
+      "brand_name": "Step One Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26510793",
+      "food_name": "Oatmeal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/step-one-foods/oatmeal",
+      "brand_name": "Step One Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50935683",
+      "food_name": "Dark Chocolate Walnut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/step-one-foods/dark-chocolate-walnut-bar",
+      "brand_name": "Step One Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46652614",
+      "food_name": "Apple Cinnamon Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/step-one-foods/apple-cinnamon-bar",
+      "brand_name": "Step One Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76744971",
+      "food_name": "Lemon Almond Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/step-one-foods/lemon-almond-bar",
+      "brand_name": "Step One Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60999424",
+      "food_name": "Strawberry Banana Smoothie Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/step-one-foods/strawberry-banana-smoothie-mix",
+      "brand_name": "Step One Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44471116",
+      "food_name": "Cranberry Pecan Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/step-one-foods/cranberry-pecan-bar",
+      "brand_name": "Step One Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

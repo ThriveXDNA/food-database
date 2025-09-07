@@ -1,0 +1,20 @@
+{
+  "restaurant": "Little Dish",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 485,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:19:05.416Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/little_dish.json",
+  "items": [
+    {
+      "food_id": "46255",
+      "food_name": "Pasta with Cheese, Peas and Broccoli Trees",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-dish/pasta-with-cheese-peas-and-broccoli-trees",
+      "brand_name": "Little Dish",
+      "food_type": "Brand"
+    }
+  ]
+}

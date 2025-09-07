@@ -1,0 +1,20 @@
+{
+  "restaurant": "Turo-Turo Gourmet",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 392,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:44:05.486Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/turo_turo_gourmet.json",
+  "items": [
+    {
+      "food_id": "2748796",
+      "food_name": "Pork BBQ Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turo-turo-gourmet/pork-bbq-sticks",
+      "brand_name": "Turo-Turo Gourmet",
+      "food_type": "Brand"
+    }
+  ]
+}

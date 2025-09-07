@@ -1,0 +1,20 @@
+{
+  "restaurant": "The Dough Bar",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 5048,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:59:04.671Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_dough_bar.json",
+  "items": [
+    {
+      "food_id": "21754802",
+      "food_name": "Crispy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-dough-bar/crispy-bar",
+      "brand_name": "The Dough Bar",
+      "food_type": "Brand"
+    }
+  ]
+}

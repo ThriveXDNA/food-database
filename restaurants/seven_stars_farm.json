@@ -1,0 +1,27 @@
+{
+  "restaurant": "Seven Stars Farm",
+  "total_items": 2,
+  "pages_extracted": 4,
+  "total_search_results": 155,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:58:21.182Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/seven_stars_farm.json",
+  "items": [
+    {
+      "food_id": "8395849",
+      "food_name": "Lowfat Plain Organic Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seven-stars-farm/lowfat-plain-organic-yogurt",
+      "brand_name": "Seven Stars Farm",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4187038",
+      "food_name": "Original Plain Organic Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seven-stars-farm/original-plain-organic-yogurt",
+      "brand_name": "Seven Stars Farm",
+      "food_type": "Brand"
+    }
+  ]
+}

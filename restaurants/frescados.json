@@ -1,0 +1,76 @@
+{
+  "restaurant": "Frescados",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:31:12.283Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/frescados.json",
+  "items": [
+    {
+      "food_id": "52454557",
+      "food_name": "Spinach Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/frescados/spinach-wrap",
+      "brand_name": "Frescados",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8936838",
+      "food_name": "Flour Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/frescados/flour-tortillas",
+      "brand_name": "Frescados",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45897345",
+      "food_name": "Carb Fit Flour Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/frescados/carb-fit-flour-tortillas",
+      "brand_name": "Frescados",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81874481",
+      "food_name": "Flour Tortilla Burrito Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/frescados/flour-tortilla-burrito-style",
+      "brand_name": "Frescados",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19303246",
+      "food_name": "Taco Style Flour Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/frescados/taco-style-flour-tortillas",
+      "brand_name": "Frescados",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21358240",
+      "food_name": "White Corn Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/frescados/white-corn-tortillas",
+      "brand_name": "Frescados",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9541230",
+      "food_name": "Chimichanga Style Flour Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/frescados/chimichanga-style-flour-tortillas",
+      "brand_name": "Frescados",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8187904",
+      "food_name": "Garden Vegetable Wraps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/frescados/garden-vegetable-wraps",
+      "brand_name": "Frescados",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5367757",
+      "food_name": "100% Whole Wheat Flour Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/frescados/100%25-whole-wheat-flour-tortillas",
+      "brand_name": "Frescados",
+      "food_type": "Brand"
+    }
+  ]
+}

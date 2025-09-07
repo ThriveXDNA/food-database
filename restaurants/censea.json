@@ -1,0 +1,27 @@
+{
+  "restaurant": "Censea",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:38:36.773Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/censea.json",
+  "items": [
+    {
+      "food_id": "9449208",
+      "food_name": "Cooked Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/censea/cooked-shrimp",
+      "brand_name": "Censea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3213085",
+      "food_name": "Uncooked Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/censea/uncooked-shrimp",
+      "brand_name": "Censea",
+      "food_type": "Brand"
+    }
+  ]
+}

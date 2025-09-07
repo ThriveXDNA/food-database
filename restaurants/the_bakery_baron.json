@@ -1,0 +1,27 @@
+{
+  "restaurant": "The Bakery Baron",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 1166,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:16:42.089Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_bakery_baron.json",
+  "items": [
+    {
+      "food_id": "5063991",
+      "food_name": "Cream Cheese Kolacky Mini Pastries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-bakery-baron/cream-cheese-kolacky-mini-pastries",
+      "brand_name": "The Bakery Baron",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4119034",
+      "food_name": "Turtle Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-bakery-baron/turtle-brownie",
+      "brand_name": "The Bakery Baron",
+      "food_type": "Brand"
+    }
+  ]
+}

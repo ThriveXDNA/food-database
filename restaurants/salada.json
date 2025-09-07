@@ -1,0 +1,55 @@
+{
+  "restaurant": "Salada",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:59:25.663Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/salada.json",
+  "items": [
+    {
+      "food_id": "255144",
+      "food_name": "Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salada/green-tea",
+      "brand_name": "Salada",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92524",
+      "food_name": "White Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salada/white-tea",
+      "brand_name": "Salada",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7724534",
+      "food_name": "Original Blend Black Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salada/original-blend-black-tea",
+      "brand_name": "Salada",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "237212",
+      "food_name": "Salada Green Tea with Original Antioxidants Citrus Flavor Tea Bags",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/redco-foods/salada-green-tea-with-original-antioxidants-citrus-flavor-tea-bags",
+      "brand_name": "Redco Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "237219",
+      "food_name": "Salada Green Tea with Red Antioxidants Strawberry Orange Tea Bags",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/redco-foods/salada-green-tea-with-red-antioxidants-strawberry-orange-tea-bags",
+      "brand_name": "Redco Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "237211",
+      "food_name": "Salada 100% Green Tea Naturally Decaffeinated Tea Bags",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/redco-foods/salada-100%25-green-tea-naturally-decaffeinated-tea-bags",
+      "brand_name": "Redco Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

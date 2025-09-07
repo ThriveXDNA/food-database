@@ -1,0 +1,27 @@
+{
+  "brand_name": "Miko Brand",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 63,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:56:01.164Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/miko_brand.json",
+  "items": [
+    {
+      "food_id": "7561615",
+      "food_name": "Miso Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/miko-brand/miso-soup",
+      "brand_name": "Miko Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23838358",
+      "food_name": "Shiro Miso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/miko-brand/shiro-miso",
+      "brand_name": "Miko Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

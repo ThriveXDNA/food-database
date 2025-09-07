@@ -1,0 +1,27 @@
+{
+  "brand_name": "NibMor",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:14:20.259Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/nibmor.json",
+  "items": [
+    {
+      "food_id": "7646784",
+      "food_name": "Organic Drinking Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nibmor/organic-drinking-chocolate",
+      "brand_name": "NibMor",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19814636",
+      "food_name": "Organic Dark Chocolate with Real Wild Maine Blueberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nibmor/organic-dark-chocolate-with-real-wild-maine-blueberries",
+      "brand_name": "NibMor",
+      "food_type": "Brand"
+    }
+  ]
+}

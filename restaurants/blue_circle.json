@@ -1,0 +1,41 @@
+{
+  "restaurant": "Blue Circle",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 720,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:26:59.875Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/blue_circle.json",
+  "items": [
+    {
+      "food_id": "29769159",
+      "food_name": "Norwegian Arctic Smoked Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-circle/norwegian-arctic-smoked-salmon",
+      "brand_name": "Blue Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82612786",
+      "food_name": "Atlantic Salmon Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-circle/atlantic-salmon-burger",
+      "brand_name": "Blue Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56127840",
+      "food_name": "Atlantic Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-circle/atlantic-salmon",
+      "brand_name": "Blue Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12252311",
+      "food_name": "Atlantic Salmon Fillet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-circle/atlantic-salmon-fillet",
+      "brand_name": "Blue Circle",
+      "food_type": "Brand"
+    }
+  ]
+}

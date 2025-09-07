@@ -1,0 +1,41 @@
+{
+  "restaurant": "Butterfly Bakery",
+  "total_items": 4,
+  "pages_extracted": 2,
+  "total_search_results": 98,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:12:24.834Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/butterfly_bakery.json",
+  "items": [
+    {
+      "food_id": "2200556",
+      "food_name": "No Sugar Added Blueberry Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/butterfly-bakery/no-sugar-added-blueberry-muffins",
+      "brand_name": "Butterfly Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2142760",
+      "food_name": "Sugar Free Double Chocolate Chip Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/butterfly-bakery/sugar-free-double-chocolate-chip-muffin",
+      "brand_name": "Butterfly Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1044545",
+      "food_name": "Sugar Free Corn Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/butterfly-bakery/sugar-free-corn-muffins",
+      "brand_name": "Butterfly Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2015897",
+      "food_name": "Sugar Free Marble Creme Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/butterfly-bakery/sugar-free-marble-creme-cake",
+      "brand_name": "Butterfly Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

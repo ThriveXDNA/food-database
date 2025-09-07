@@ -1,0 +1,34 @@
+{
+  "restaurant": "Honey Smoked Fish Co",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 5804,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:58:31.109Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/honey_smoked_fish_co.json",
+  "items": [
+    {
+      "food_id": "11419171",
+      "food_name": "Original Honey Smoked Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/honey-smoked-fish-co/original-honey-smoked-salmon",
+      "brand_name": "Honey Smoked Fish Co",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87166497",
+      "food_name": "Salmon Stackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/honey-smoked-fish-co/salmon-stackers",
+      "brand_name": "Honey Smoked Fish Co",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76770498",
+      "food_name": "Chipotle & Lime Honey Smoked Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/honey-smoked-fish-co/chipotle-lime-honey-smoked-salmon",
+      "brand_name": "Honey Smoked Fish Co",
+      "food_type": "Brand"
+    }
+  ]
+}

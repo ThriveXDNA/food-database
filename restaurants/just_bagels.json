@@ -1,0 +1,48 @@
+{
+  "restaurant": "Just Bagels",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 362,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:00:49.249Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/just_bagels.json",
+  "items": [
+    {
+      "food_id": "2448242",
+      "food_name": "Everything Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-bagels/everything-bagel",
+      "brand_name": "Just Bagels",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45474420",
+      "food_name": "Sesame Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-bagels/sesame-bagel",
+      "brand_name": "Just Bagels",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45474465",
+      "food_name": "Plain Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-bagels/plain-bagel",
+      "brand_name": "Just Bagels",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1348619",
+      "food_name": "Blueberry Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-bagels/blueberry-bagel",
+      "brand_name": "Just Bagels",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2663924",
+      "food_name": "Whole Wheat Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-bagels/whole-wheat-bagel",
+      "brand_name": "Just Bagels",
+      "food_type": "Brand"
+    }
+  ]
+}

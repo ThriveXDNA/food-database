@@ -1,0 +1,83 @@
+{
+  "restaurant": "Beverly International",
+  "total_items": 10,
+  "pages_extracted": 2,
+  "total_search_results": 52,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:01:15.146Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/beverly_international.json",
+  "items": [
+    {
+      "food_id": "50472",
+      "food_name": "Ultimate Muscle Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beverly-international/ultimate-muscle-protein",
+      "brand_name": "Beverly International",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3976870",
+      "food_name": "Ultimate Muscle Protein Cookies & Creme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beverly-international/ultimate-muscle-protein-cookies-and-creme",
+      "brand_name": "Beverly International",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2582780",
+      "food_name": "Ultimate Muscle Protein Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beverly-international/ultimate-muscle-protein-chocolate",
+      "brand_name": "Beverly International",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4135261",
+      "food_name": "Vanilla Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beverly-international/vanilla-protein",
+      "brand_name": "Beverly International",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1390100",
+      "food_name": "Creatine Select",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beverly-international/creatine-select",
+      "brand_name": "Beverly International",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "867139",
+      "food_name": "Muscle Provider Protein Drink Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beverly-international/muscle-provider-protein-drink-mix",
+      "brand_name": "Beverly International",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1743203",
+      "food_name": "Amino Acids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beverly-international/amino-acids",
+      "brand_name": "Beverly International",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1916708",
+      "food_name": "Mass Aminos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beverly-international/mass-aminos",
+      "brand_name": "Beverly International",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24488642",
+      "food_name": "Mass Maker Ultra",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beverly-international/mass-maker-ultra",
+      "brand_name": "Beverly International",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72102102",
+      "food_name": "UMP Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beverly-international/ump-bar",
+      "brand_name": "Beverly International",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Original Rangoon",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 2833,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:38:03.549Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/original_rangoon.json",
+  "items": [
+    {
+      "food_id": "3091726",
+      "food_name": "Crab Rangoons",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-rangoon/crab-rangoons",
+      "brand_name": "Original Rangoon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82798",
+      "food_name": "Barbecue Shrimp Wrapped in Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-rangoon/barbecue-shrimp-wrapped-in-bacon",
+      "brand_name": "Original Rangoon",
+      "food_type": "Brand"
+    }
+  ]
+}

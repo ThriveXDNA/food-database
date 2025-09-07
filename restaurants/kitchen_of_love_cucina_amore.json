@@ -1,0 +1,20 @@
+{
+  "restaurant": "Kitchen of Love Cucina & Amore",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 948,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:53:04.230Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kitchen_of_love_cucina_amore.json",
+  "items": [
+    {
+      "food_id": "44664802",
+      "food_name": "Pesto alla Genovese Basil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kitchen-of-love-cucina-amore/pesto-alla-genovese-basil",
+      "brand_name": "Kitchen of Love Cucina & Amore",
+      "food_type": "Brand"
+    }
+  ]
+}

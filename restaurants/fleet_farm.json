@@ -1,0 +1,55 @@
+{
+  "restaurant": "Fleet Farm",
+  "total_items": 6,
+  "pages_extracted": 2,
+  "total_search_results": 69,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:48:08.263Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fleet_farm.json",
+  "items": [
+    {
+      "food_id": "82999347",
+      "food_name": "California Walnuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fleet-farm/california-walnuts",
+      "brand_name": "Fleet Farm",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77940226",
+      "food_name": "Deluxe Mixed Nuts No Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fleet-farm/deluxe-mixed-nuts-no-peanuts",
+      "brand_name": "Fleet Farm",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63867485",
+      "food_name": "Pecan Halves",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fleet-farm/pecan-halves",
+      "brand_name": "Fleet Farm",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56300751",
+      "food_name": "Southwestern Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fleet-farm/southwestern-mix",
+      "brand_name": "Fleet Farm",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69435356",
+      "food_name": "Tropical Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fleet-farm/tropical-mix",
+      "brand_name": "Fleet Farm",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63170550",
+      "food_name": "Dark chocolate walnuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fleet-farm/dark-chocolate-walnuts",
+      "brand_name": "Fleet Farm",
+      "food_type": "Brand"
+    }
+  ]
+}

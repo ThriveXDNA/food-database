@@ -1,0 +1,55 @@
+{
+  "restaurant": "Ramen Express By Chef Woo",
+  "total_items": 6,
+  "pages_extracted": 7,
+  "total_search_results": 535,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:47:00.044Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ramen_express_by_chef_woo.json",
+  "items": [
+    {
+      "food_id": "42372455",
+      "food_name": "Chicken Flavor Ramen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ramen-express-by-chef-woo/chicken-flavor-ramen",
+      "brand_name": "Ramen Express By Chef Woo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61142298",
+      "food_name": "Hotter & Spicier Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ramen-express-by-chef-woo/hotter-spicier-chili",
+      "brand_name": "Ramen Express By Chef Woo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67436446",
+      "food_name": "Braised Beef Flavor Ramen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chef-woo/braised-beef-flavor-ramen",
+      "brand_name": "Chef Woo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84698622",
+      "food_name": "Spicy Tequila Lime Ramen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chef-woo/spicy-tequila-lime-ramen",
+      "brand_name": "Chef Woo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62505928",
+      "food_name": "Sweet Chili Togarashi Ramen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chef-woo/sweet-chili-togarashi-ramen",
+      "brand_name": "Chef Woo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66460736",
+      "food_name": "Roasted Chicken Flavor Ramen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chef-woo/roasted-chicken-flavor-ramen",
+      "brand_name": "Chef Woo",
+      "food_type": "Brand"
+    }
+  ]
+}

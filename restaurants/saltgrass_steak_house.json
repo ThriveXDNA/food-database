@@ -1,0 +1,55 @@
+{
+  "restaurant": "Saltgrass Steak House",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 2382,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:36:17.744Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/saltgrass_steak_house.json",
+  "items": [
+    {
+      "food_id": "397640",
+      "food_name": "Steak Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saltgrass-steak-house/steak-salad",
+      "brand_name": "Saltgrass Steak House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2514160",
+      "food_name": "Shiner Bock Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saltgrass-steak-house/shiner-bock-bread",
+      "brand_name": "Saltgrass Steak House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5573813",
+      "food_name": "Caesar Side Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saltgrass-steak-house/caesar-side-salad",
+      "brand_name": "Saltgrass Steak House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4084710",
+      "food_name": "Grilled Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saltgrass-steak-house/grilled-chicken-breast",
+      "brand_name": "Saltgrass Steak House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1983518",
+      "food_name": "Vaquero Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saltgrass-steak-house/vaquero-tacos",
+      "brand_name": "Saltgrass Steak House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3755320",
+      "food_name": "Hickory Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saltgrass-steak-house/hickory-chicken",
+      "brand_name": "Saltgrass Steak House",
+      "food_type": "Brand"
+    }
+  ]
+}

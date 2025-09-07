@@ -1,0 +1,48 @@
+{
+  "restaurant": "Soy Dream",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 576,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:59:16.523Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/soy_dream.json",
+  "items": [
+    {
+      "food_id": "6095099",
+      "food_name": "Soy Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soy-dream/soy-milk",
+      "brand_name": "Soy Dream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2154439",
+      "food_name": "Vanilla Soy Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soy-dream/vanilla-soy-milk",
+      "brand_name": "Soy Dream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1478054",
+      "food_name": "Chocolate Fudge Brownie Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soy-dream/chocolate-fudge-brownie-ice-cream",
+      "brand_name": "Soy Dream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2066321",
+      "food_name": "Original Enriched Soy Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soy-dream/original-enriched-soy-milk",
+      "brand_name": "Soy Dream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6670637",
+      "food_name": "Butter Pecan Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soy-dream/butter-pecan-ice-cream",
+      "brand_name": "Soy Dream",
+      "food_type": "Brand"
+    }
+  ]
+}

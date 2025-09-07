@@ -1,0 +1,27 @@
+{
+  "restaurant": "Gourmet House",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 774,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:28:58.300Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/gourmet_house.json",
+  "items": [
+    {
+      "food_id": "967177",
+      "food_name": "Italian Arborio Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gourmet-house/italian-arborio-rice",
+      "brand_name": "Gourmet House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2490730",
+      "food_name": "Minnesota Cultivated Wild Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gourmet-house/minnesota-cultivated-wild-rice",
+      "brand_name": "Gourmet House",
+      "food_type": "Brand"
+    }
+  ]
+}

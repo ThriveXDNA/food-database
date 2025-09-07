@@ -1,0 +1,552 @@
+{
+  "restaurant": "Snickers",
+  "total_items": 77,
+  "pages_extracted": 2,
+  "total_search_results": 77,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:01:57.903Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/snickers.json",
+  "items": [
+    {
+      "food_id": "5868541",
+      "food_name": "Snickers Bar (1.86 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-bar-(186-oz)",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49368",
+      "food_name": "Snickers Bar (Fun Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-bar-(fun-size)",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85704298",
+      "food_name": "Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/mini",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67084",
+      "food_name": "Ice Cream Bar (48g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/ice-cream-bar-(48g)",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85581",
+      "food_name": "Snickers Bar (Miniatures)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-bar-(miniatures)",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10182554",
+      "food_name": "Ice Cream Bar (70g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/ice-cream-bar-(70g)",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2859630",
+      "food_name": "2 to Go",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/2-to-go",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89021938",
+      "food_name": "Snickers Pecan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-pecan",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26423264",
+      "food_name": "Minis Variety",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/minis-variety",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1413817",
+      "food_name": "Almond Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/almond-bar",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86082",
+      "food_name": "Almond Bar (Fun Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/almond-bar-(fun-size)",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3487153",
+      "food_name": "Snickers Bar (Fun Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-bar-(fun-size)/2-bars",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2700029",
+      "food_name": "Peanut Butter Squares (Fun Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/peanut-butter-squares-(fun-size)",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100557",
+      "food_name": "Snickers Bar (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-bar-(king-size)",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48024965",
+      "food_name": "Hi Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/hi-protein-bar",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72448195",
+      "food_name": "Snickers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/snickers",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77662",
+      "food_name": "100 Calorie Snickers Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/100-calorie-snickers-bar",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3224533",
+      "food_name": "Almond Bar 2 to Go",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/almond-bar-2-to-go",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "250958",
+      "food_name": "Minis Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/minis-mix",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3152621",
+      "food_name": "Snickers Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-eggs",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14527487",
+      "food_name": "Snickers & Hazelnut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-and-hazelnut",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5748844",
+      "food_name": "Snickers Bar (2.07 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-bar-(207-oz)",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81673678",
+      "food_name": "Snickers Share Size",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-share-size",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5541029",
+      "food_name": "Ice Cream Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/ice-cream-cake",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45312704",
+      "food_name": "White Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/white-chocolate",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5574483",
+      "food_name": "Snickers Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-bites",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11953267",
+      "food_name": "Snickers Crisper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-crisper",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3231384",
+      "food_name": "Vanilla Ice Cream with Snickers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/vanilla-ice-cream-with-snickers",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42623",
+      "food_name": "Charged Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/charged-bar",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2892294",
+      "food_name": "Munch Peanut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/munch-peanut-bar",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5926457",
+      "food_name": "Ice Cream Bar (78g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/ice-cream-bar-(78g)",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3457168",
+      "food_name": "Snickers 3X Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-3x-chocolate",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43469",
+      "food_name": "Mini Ice Cream Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/mini-ice-cream-bars",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53750",
+      "food_name": "Dark Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/dark-bar",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29716599",
+      "food_name": "Creamy Peanut Butter Squares",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/creamy-peanut-butter-squares",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1453572",
+      "food_name": "Peanut Butter Squared",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/peanut-butter-squared",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4888695",
+      "food_name": "Snickers Heart",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-heart",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3865117",
+      "food_name": "Ice Cream Cone",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/ice-cream-cone",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11952569",
+      "food_name": "Snickers Crisper (Fun Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-crisper-(fun-size)",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3404137",
+      "food_name": "Peanut Butter Egg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/peanut-butter-egg",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32934380",
+      "food_name": "Light Ice Cream (67 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/light-ice-cream",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1063745",
+      "food_name": "Ice Cream Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/ice-cream-brownie",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11043015",
+      "food_name": "Peanut Butter Minis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/peanut-butter-minis",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27276565",
+      "food_name": "Creamy Peanut Butter Squares Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/creamy-peanut-butter-squares-bar",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2984919",
+      "food_name": "Ice Cream Bar (King Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/ice-cream-bar-(king-size)",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47031039",
+      "food_name": "Crunchy Peanut Butter Minis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/crunchy-peanut-butter-minis",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95393258",
+      "food_name": "Iced Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/iced-coffee",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45095003",
+      "food_name": "Peanut Brownie Squares",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/peanut-brownie-squares",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50422",
+      "food_name": "Adventure Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/adventure-bar",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55250664",
+      "food_name": "Cinnamon Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/cinnamon-bun",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75713451",
+      "food_name": "Light Ice Cream (90 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/light-ice-cream-(90-g)",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26396586",
+      "food_name": "Creamy Almond Butter Squares",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/creamy-almond-butter-squares",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "251067",
+      "food_name": "Snickers Packed with Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-packed-with-peanuts",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46375",
+      "food_name": "Marathon Protein Bar - Chocolate Nut Burst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/marathon-protein-bar---chocolate-nut-burst",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1412342",
+      "food_name": "Nutcracker",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/nutcracker",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11007523",
+      "food_name": "Baking Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/baking-bites",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51750549",
+      "food_name": "Almond Brownie & Dark Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/almond-brownie-dark-chocolate",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73708474",
+      "food_name": "Cookie Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/cookie-dough",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53262",
+      "food_name": "Marathon Low Carb Lifestyle Energy Bar - Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/marathon-low-carb-lifestyle-energy-bar---peanut-butter",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84971",
+      "food_name": "Rockin' Nut Road Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/rockin-nut-road-bar",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75687",
+      "food_name": "Marathon Low Carb Lifestyle Energy Bar - Chocolate Fudge Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/marathon-low-carb-lifestyle-energy-bar---chocolate-fudge-brownie",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10454532",
+      "food_name": "Pumpkins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/pumpkins",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4788833",
+      "food_name": "Peanut Butter Santa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/peanut-butter-santa",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66205748",
+      "food_name": "Shakers Seasoning Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snickers/shakers-seasoning-blend",
+      "brand_name": "Snickers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87390442",
+      "food_name": "Center of The Roll - Snickers Topped",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cinnabon/center-of-the-roll-snickers-topped",
+      "brand_name": "Cinnabon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69474777",
+      "food_name": "Chocolate Caramelicious Cheesecake Made with Snickers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cheesecake-factory/chocolate-caramelicious-cheesecake-made-with-snickers",
+      "brand_name": "Cheesecake Factory",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10249067",
+      "food_name": "Snickers Vanilla Low Fat Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yocrunch/snickers-vanilla-low-fat-yogurt",
+      "brand_name": "YoCrunch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87390422",
+      "food_name": "Snickers Topped Bonbites, 4 Pcs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cinnabon/snickers-topped-bonbites-4-pcs",
+      "brand_name": "Cinnabon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58806724",
+      "food_name": "Peanut Butter Featuring Snickers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/real-appeal/peanut-butter-featuring-snickers",
+      "brand_name": "Real Appeal",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87390396",
+      "food_name": "Snickers Topped Classic Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cinnabon/snickers-topped-classic-roll",
+      "brand_name": "Cinnabon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6958924",
+      "food_name": "Snickers Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/breyers/snickers-ice-cream",
+      "brand_name": "Breyers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936802",
+      "food_name": "Snickers Blizzard - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/snickers-blizzard-small",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837649",
+      "food_name": "Snickers Blizzard - Mini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/snickers-blizzard-mini",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26702251",
+      "food_name": "Snickers Coffee Creamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-mate/snickers-coffee-creamer",
+      "brand_name": "Coffee-Mate",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69936809",
+      "food_name": "Snickers Blizzard - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/snickers-blizzard-medium",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103837646",
+      "food_name": "Snickers Blizzard - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dairy-queen/snickers-blizzard-large",
+      "brand_name": "Dairy Queen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36155410",
+      "food_name": "Snickers Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/candy-pop/snickers-popcorn",
+      "brand_name": "Candy Pop",
+      "food_type": "Brand"
+    }
+  ]
+}

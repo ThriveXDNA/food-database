@@ -1,0 +1,27 @@
+{
+  "restaurant": "Alma Food",
+  "total_items": 2,
+  "pages_extracted": 3,
+  "total_search_results": 118,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:17:38.165Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/alma_food.json",
+  "items": [
+    {
+      "food_id": "89542",
+      "food_name": "Extra Virgin Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alma-food/extra-virgin-olive-oil",
+      "brand_name": "Alma Food",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51999",
+      "food_name": "Angel Hair Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alma-food/angel-hair-pasta",
+      "brand_name": "Alma Food",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "restaurant": "Monteli",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:21:45.178Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/monteli.json",
+  "items": [
+    {
+      "food_id": "29270626",
+      "food_name": "Organic Arugula, Pesto & Tomatoes Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monteli/organic-arugula-pesto-tomatoes-pizza",
+      "brand_name": "Monteli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19021933",
+      "food_name": "Roasted Vegetable Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monteli/roasted-vegetable-pizza",
+      "brand_name": "Monteli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22163713",
+      "food_name": "Organic Pizza Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monteli/organic-pizza-crust",
+      "brand_name": "Monteli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16114398",
+      "food_name": "Organic 3 Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monteli/organic-3-cheese-pizza",
+      "brand_name": "Monteli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28365516",
+      "food_name": "Tuscan Garden Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/monteli/tuscan-garden-pizza",
+      "brand_name": "Monteli",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "restaurant": "Stumptown",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:09:28.709Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/stumptown.json",
+  "items": [
+    {
+      "food_id": "12010586",
+      "food_name": "Cold Brew Coffee with Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stumptown/cold-brew-coffee-with-milk",
+      "brand_name": "Stumptown",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12687689",
+      "food_name": "Cold Brew Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stumptown/cold-brew-coffee",
+      "brand_name": "Stumptown",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39176791",
+      "food_name": "Cold Brew Coffee with Oat Milk Horchata",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stumptown/cold-brew-coffee-with-oat-milk-horchata",
+      "brand_name": "Stumptown",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48628900",
+      "food_name": "Strange Magic Cascara Soda",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stumptown/strange-magic-cascara-soda",
+      "brand_name": "Stumptown",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16633739",
+      "food_name": "Stumptown Cold Brew Coffee Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tillamook/stumptown-cold-brew-coffee-ice-cream",
+      "brand_name": "Tillamook",
+      "food_type": "Brand"
+    }
+  ]
+}

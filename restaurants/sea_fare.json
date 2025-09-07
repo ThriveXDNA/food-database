@@ -1,0 +1,20 @@
+{
+  "restaurant": "Sea Fare",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 1054,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:42:59.581Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sea_fare.json",
+  "items": [
+    {
+      "food_id": "12707187",
+      "food_name": "White Crab Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sea-fare/white-crab-meat",
+      "brand_name": "Sea Fare",
+      "food_type": "Brand"
+    }
+  ]
+}

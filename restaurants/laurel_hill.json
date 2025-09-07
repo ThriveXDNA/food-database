@@ -1,0 +1,69 @@
+{
+  "restaurant": "Laurel Hill",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 12,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:48:57.276Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/laurel_hill.json",
+  "items": [
+    {
+      "food_id": "5799956",
+      "food_name": "Pretzel Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/laurel-hill/pretzel-chips",
+      "brand_name": "Laurel Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1806245",
+      "food_name": "Kettle Cooked Sea Salt Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/laurel-hill/kettle-cooked-sea-salt-potato-chips",
+      "brand_name": "Laurel Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2430000",
+      "food_name": "Kettle Cooked BBQ Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/laurel-hill/kettle-cooked-bbq-potato-chips",
+      "brand_name": "Laurel Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1659144",
+      "food_name": "Kettle Cooked Cracked Black Pepper Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/laurel-hill/kettle-cooked-cracked-black-pepper-potato-chips",
+      "brand_name": "Laurel Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2363319",
+      "food_name": "Nacho Cheese Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/laurel-hill/nacho-cheese-tortilla-chips",
+      "brand_name": "Laurel Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3109343",
+      "food_name": "Sea Salt & Vinegar Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/laurel-hill/sea-salt-and-vinegar-potato-chips",
+      "brand_name": "Laurel Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1599936",
+      "food_name": "Sea Salt & Lime Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/laurel-hill/sea-salt-and-lime-tortilla-chips",
+      "brand_name": "Laurel Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51102674",
+      "food_name": "Tequila Lime Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/laurel-hill/tequila-lime-salsa",
+      "brand_name": "Laurel Hill",
+      "food_type": "Brand"
+    }
+  ]
+}

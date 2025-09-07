@@ -1,0 +1,48 @@
+{
+  "restaurant": "Rise Bar",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 3497,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:58:50.319Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rise_bar.json",
+  "items": [
+    {
+      "food_id": "4239585",
+      "food_name": "Almond Honey Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rise-bar/almond-honey-protein-bar",
+      "brand_name": "Rise Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5323473",
+      "food_name": "Crunchy Cashew Almond Breakfast Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rise-bar/crunchy-cashew-almond-breakfast-bar",
+      "brand_name": "Rise Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7633852",
+      "food_name": "Lemon Cashew Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rise-bar/lemon-cashew-protein-bar",
+      "brand_name": "Rise Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6715542",
+      "food_name": "Crunchy Carob Chip Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rise-bar/crunchy-carob-chip-protein-bar",
+      "brand_name": "Rise Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17629574",
+      "food_name": "Chocolatey Coconut Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rise-bar/chocolatey-coconut-protein-bar",
+      "brand_name": "Rise Bar",
+      "food_type": "Brand"
+    }
+  ]
+}

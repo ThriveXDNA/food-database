@@ -1,0 +1,90 @@
+{
+  "restaurant": "Cafe Spice",
+  "total_items": 11,
+  "pages_extracted": 6,
+  "total_search_results": 628,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:40:17.392Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cafe_spice.json",
+  "items": [
+    {
+      "food_id": "2211942",
+      "food_name": "Saag Paneer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-spice/saag-paneer",
+      "brand_name": "Cafe Spice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11242851",
+      "food_name": "Chicken Tikka Masala with Saffron Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-spice/chicken-tikka-masala-with-saffron-rice",
+      "brand_name": "Cafe Spice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72517575",
+      "food_name": "Cauliflower & Potato Curry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-spice/cauliflower-potato-curry",
+      "brand_name": "Cafe Spice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52690006",
+      "food_name": "Red Chicken Curry with Thai Fried Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-spice/red-chicken-curry-with-thai-fried-rice",
+      "brand_name": "Cafe Spice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28995611",
+      "food_name": "Coconut Chicken Curry with Saffron Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-spice/coconut-chicken-curry-with-saffron-rice",
+      "brand_name": "Cafe Spice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35976070",
+      "food_name": "Butter Chicken Meatballs with Saffron Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-spice/butter-chicken-meatballs-with-saffron-rice",
+      "brand_name": "Cafe Spice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9181816",
+      "food_name": "Chicken Curry with Lemon Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-spice/chicken-curry-with-lemon-rice",
+      "brand_name": "Cafe Spice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60954826",
+      "food_name": "Chicken Tikka Naan Toastie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-spice/chicken-tikka-naan-toastie",
+      "brand_name": "Cafe Spice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3639899",
+      "food_name": "Chicken Tikka Masala",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-spice/chicken-tikka-masala",
+      "brand_name": "Cafe Spice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18840677",
+      "food_name": "Chicken Vindaloo with Lemon Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-spice/chicken-vindaloo-with-lemon-rice",
+      "brand_name": "Cafe Spice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4201027",
+      "food_name": "Channa Masala",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-spice/channa-masala",
+      "brand_name": "Cafe Spice",
+      "food_type": "Brand"
+    }
+  ]
+}

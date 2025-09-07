@@ -1,0 +1,48 @@
+{
+  "restaurant": "Poore Brothers",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:53:42.094Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/poore_brothers.json",
+  "items": [
+    {
+      "food_id": "286312",
+      "food_name": "Original Kettle Cooked Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/poore-brothers/original-kettle-cooked-potato-chips",
+      "brand_name": "Poore Brothers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "286323",
+      "food_name": "Salt & Cracked Pepper Kettle Cooked Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/poore-brothers/salt-and-cracked-pepper-kettle-cooked-potato-chips",
+      "brand_name": "Poore Brothers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3833577",
+      "food_name": "Mesquite Barbeque Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/poore-brothers/mesquite-barbeque-potato-chips",
+      "brand_name": "Poore Brothers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89211",
+      "food_name": "Jalapeno Kettle Cooked Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/poore-brothers/jalapeno-kettle-cooked-potato-chips",
+      "brand_name": "Poore Brothers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1195861",
+      "food_name": "Habanero Kettle Cooked Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/poore-brothers/habanero-kettle-cooked-potato-chips",
+      "brand_name": "Poore Brothers",
+      "food_type": "Brand"
+    }
+  ]
+}

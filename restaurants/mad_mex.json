@@ -1,0 +1,90 @@
+{
+  "restaurant": "Mad Mex",
+  "total_items": 11,
+  "pages_extracted": 3,
+  "total_search_results": 103,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:23:59.331Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mad_mex.json",
+  "items": [
+    {
+      "food_id": "6045304",
+      "food_name": "Shrimp Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mad-mex/shrimp-quesadilla",
+      "brand_name": "Mad Mex",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5203014",
+      "food_name": "10\" Flour Tortilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mad-mex/10-flour-tortilla",
+      "brand_name": "Mad Mex",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21559127",
+      "food_name": "Mexican Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mad-mex/mexican-rice",
+      "brand_name": "Mad Mex",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4897263",
+      "food_name": "Shrimp Mushroom Spinach Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mad-mex/shrimp-mushroom-spinach-quesadilla",
+      "brand_name": "Mad Mex",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3804811",
+      "food_name": "Tortilla Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mad-mex/tortilla-soup",
+      "brand_name": "Mad Mex",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8683447",
+      "food_name": "Casa Salad (Lunch)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mad-mex/casa-salad-(lunch)",
+      "brand_name": "Mad Mex",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5361354",
+      "food_name": "Chip Basket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mad-mex/chip-basket",
+      "brand_name": "Mad Mex",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2462273",
+      "food_name": "Veggie Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mad-mex/veggie-burrito",
+      "brand_name": "Mad Mex",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23282373",
+      "food_name": "Black Bean Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mad-mex/black-bean-dip",
+      "brand_name": "Mad Mex",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23282315",
+      "food_name": "Guacamole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mad-mex/guacamole",
+      "brand_name": "Mad Mex",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5094350",
+      "food_name": "Chickpea Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mad-mex/chickpea-chili",
+      "brand_name": "Mad Mex",
+      "food_type": "Brand"
+    }
+  ]
+}

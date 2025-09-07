@@ -1,0 +1,55 @@
+{
+  "restaurant": "Underwood",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:36:36.063Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/underwood.json",
+  "items": [
+    {
+      "food_id": "494289",
+      "food_name": "Deviled Ham Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/underwood/deviled-ham-spread",
+      "brand_name": "Underwood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87416",
+      "food_name": "White Meat Chicken Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/underwood/white-meat-chicken-spread",
+      "brand_name": "Underwood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31759740",
+      "food_name": "Deviled Ham Spread (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/underwood/deviled-ham-spread-(can)",
+      "brand_name": "Underwood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85382",
+      "food_name": "Roast Beef Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/underwood/roast-beef-spread",
+      "brand_name": "Underwood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70359655",
+      "food_name": "Liverwurst Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/underwood/liverwurst-spread",
+      "brand_name": "Underwood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16206599",
+      "food_name": "Corned Beef Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/underwood/corned-beef-spread",
+      "brand_name": "Underwood",
+      "food_type": "Brand"
+    }
+  ]
+}

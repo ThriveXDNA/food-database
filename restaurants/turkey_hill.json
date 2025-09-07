@@ -1,0 +1,825 @@
+{
+  "restaurant": "Turkey Hill",
+  "total_items": 116,
+  "pages_extracted": 6,
+  "total_search_results": 3547,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:08:38.482Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/turkey_hill.json",
+  "items": [
+    {
+      "food_id": "55559",
+      "food_name": "French Vanilla Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/french-vanilla-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5316847",
+      "food_name": "Salted Caramel Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/salted-caramel-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55577",
+      "food_name": "Vanilla Bean Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/vanilla-bean-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55388",
+      "food_name": "Chocolate Peanut Butter Cup Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/chocolate-peanut-butter-cup-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55544",
+      "food_name": "Black Cherry Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/black-cherry-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55549",
+      "food_name": "Choco Mint Chip Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/choco-mint-chip-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55556",
+      "food_name": "Cookies 'N Cream Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/cookies-n-cream-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55546",
+      "food_name": "Black Raspberry Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/black-raspberry-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55563",
+      "food_name": "Neapolitan Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/neapolitan-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55567",
+      "food_name": "Peanut Butter Ripple Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/peanut-butter-ripple-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7834221",
+      "food_name": "Pistachio Almond Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/pistachio-almond-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55550",
+      "food_name": "Chocolate Chip Cookie Dough Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/chocolate-chip-cookie-dough-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55560",
+      "food_name": "Fudge Ripple Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/fudge-ripple-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2159815",
+      "food_name": "Coffee Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/coffee-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55565",
+      "food_name": "Original Vanilla Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/original-vanilla-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55557",
+      "food_name": "Dutch Chocolate Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/dutch-chocolate-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32444427",
+      "food_name": "Butter Pecan Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/butter-pecan-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66245731",
+      "food_name": "Ice Cream Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/ice-cream-cookie",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3812782",
+      "food_name": "Moose Tracks Light Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/moose-tracks-light-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55552",
+      "food_name": "Chocolate Marshmallow Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/chocolate-marshmallow-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9355021",
+      "food_name": "Chocolate Chocolate Chip Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/chocolate-chocolate-chip-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67062298",
+      "food_name": "Double Dunker",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/double-dunker",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49145864",
+      "food_name": "American Dream Triopolitan Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/american-dream-triopolitan-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9701244",
+      "food_name": "Deep Dark Chocolate Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/deep-dark-chocolate-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "714444",
+      "food_name": "Iced Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/iced-tea",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "640666",
+      "food_name": "Diet Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/diet-green-tea",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55564",
+      "food_name": "Orange Cream Swirl Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/orange-cream-swirl-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2805636",
+      "food_name": "Double Dunker Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/double-dunker-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "948858",
+      "food_name": "Fried Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/fried-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67088788",
+      "food_name": "Simply Natural Vanilla Bean",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/simply-natural-vanilla-bean",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "773380",
+      "food_name": "Maple Cream Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/maple-cream-cookies",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55573",
+      "food_name": "Strawberries & Cream Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/strawberries-and-cream-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29334245",
+      "food_name": "Colombian Coffee Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/colombian-coffee-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55570",
+      "food_name": "Rocky Road Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/rocky-road-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3535744",
+      "food_name": "Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/lemonade",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5776355",
+      "food_name": "Lemonade Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/lemonade-tea",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72723296",
+      "food_name": "Homemade Vanilla Premium Ice Cream (87 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/homemade-vanilla-premium-ice-cream-(87-g)",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2552603",
+      "food_name": "Fruit Rainbow Sherbert",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/fruit-rainbow-sherbert",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55575",
+      "food_name": "Tin Roof Sundae Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/tin-roof-sundae-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "662413",
+      "food_name": "Pomegranate Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/pomegranate-lemonade",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7225640",
+      "food_name": "Sweet Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/sweet-tea",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20272723",
+      "food_name": "Lemonade (12 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/lemonade-(12-oz)",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4064466",
+      "food_name": "Praline Pecan Paradise Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/praline-pecan-paradise-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82278",
+      "food_name": "No Sugar Added Vanilla Bean Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/no-sugar-added-vanilla-bean-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55576",
+      "food_name": "Vanilla & Chocolate Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/vanilla-and-chocolate-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16325249",
+      "food_name": "Raspberry Cream Swirl Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/raspberry-cream-swirl-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52716816",
+      "food_name": "Vanilla Salted Caramel Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/vanilla-salted-caramel-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "491260",
+      "food_name": "Chocolate Chip Cookie Dough Light Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/chocolate-chip-cookie-dough-light-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12790724",
+      "food_name": "Dark Chocolate Caramel Espresso Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/dark-chocolate-caramel-espresso-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3650650",
+      "food_name": "Homemade Vanilla Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/homemade-vanilla-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6951590",
+      "food_name": "All Natural Vanilla Bean Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/all-natural-vanilla-bean-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55548",
+      "food_name": "Butter Pecan Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/butter-pecan-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55566",
+      "food_name": "Party Cake Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/party-cake-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1127332",
+      "food_name": "Mint Chocolate Chip Frozen Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/mint-chocolate-chip-frozen-yogurt",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7742156",
+      "food_name": "Butter Brickle Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/butter-brickle-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "604795",
+      "food_name": "Light Recipe Denali Original Moose Tracks Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/light-recipe-denali-original-moose-tracks-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "680033",
+      "food_name": "Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/green-tea",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55543",
+      "food_name": "Banana Split Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/banana-split-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55569",
+      "food_name": "Phillies Graham Slam Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/phillies-graham-slam-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2470047",
+      "food_name": "Diet Decaf Orange Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/diet-decaf-orange-tea",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72580419",
+      "food_name": "Cookie Butter Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/cookie-butter-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97913",
+      "food_name": "Diet Lemon Iced Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/diet-lemon-iced-tea",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24084943",
+      "food_name": "Trio'politan Mint Cookie Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/triopolitan-mint-cookie-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104190",
+      "food_name": "Pink Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/pink-lemonade",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "640777",
+      "food_name": "Diet Iced Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/diet-iced-tea",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "604815",
+      "food_name": "Light Recipe Vanilla Bean Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/light-recipe-vanilla-bean-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12499363",
+      "food_name": "Diet Decaf Iced Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/diet-decaf-iced-tea",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "167421",
+      "food_name": "Limonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/limonade",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25568794",
+      "food_name": "Diet Green Tea with Ginseng & Honey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/diet-green-tea-with-ginseng-honey",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "959576",
+      "food_name": "Chocolate Chip Cookie Dough Frozen Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/chocolate-chip-cookie-dough-frozen-yogurt",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4758215",
+      "food_name": "Fruit Punch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/fruit-punch",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9989315",
+      "food_name": "Lightly Sweetened Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/lightly-sweetened-tea",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55571",
+      "food_name": "Rum Raisin Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/rum-raisin-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "766397",
+      "food_name": "Pure Maple Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/pure-maple-coffee",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13375443",
+      "food_name": "Chocolate Peanut Butter Gelato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/chocolate-peanut-butter-gelato",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75199",
+      "food_name": "Coconut Cream Pie Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/coconut-cream-pie-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "631500",
+      "food_name": "Raspberry Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/raspberry-tea",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6574972",
+      "food_name": "Vanilla Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/vanilla-ice-cream-sandwich",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70105",
+      "food_name": "Chocolate Nutty Moose tracks Light Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/chocolate-nutty-moose-tracks-light-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77904",
+      "food_name": "Fat Free Vanilla Bean Frozen Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/fat-free-vanilla-bean-frozen-yogurt",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725464",
+      "food_name": "Vanilla Bean Light Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/vanilla-bean-light-ice-cream-sandwich",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1000699",
+      "food_name": "Orange Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/orange-tea",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5680124",
+      "food_name": "All Natural Chocolate Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/all-natural-chocolate-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3095840",
+      "food_name": "1% Chocolate Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/1%25-chocolate-milk",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13084749",
+      "food_name": "All Natural Belgian Style Chocolate Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/all-natural-belgian-style-chocolate-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74047856",
+      "food_name": "Brownie Fudge Swirl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/brownie-fudge-swirl",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75993397",
+      "food_name": "Neapolitan Premium Ice Cream (87 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/neapolitan-premium-ice-cream-(87-g)",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83789023",
+      "food_name": "Triopolitan Triple Berry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/triopolitan-triple-berry",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "183378",
+      "food_name": "Strawberry Kiwi Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/strawberry-kiwi-lemonade",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1578693",
+      "food_name": "Neopolitan Frozen Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/neopolitan-frozen-yogurt",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1158154",
+      "food_name": "2% Reduced Fat Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/2%25-reduced-fat-milk",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55572",
+      "food_name": "Southern Lemon Pie - Limited Edition Premium Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/southern-lemon-pie---limited-edition-premium-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "558015",
+      "food_name": "Fudge Ripple Frozen Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/fudge-ripple-frozen-yogurt",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "604814",
+      "food_name": "Light Recipe Strawberry Cheesecake Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/light-recipe-strawberry-cheesecake-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6471782",
+      "food_name": "Pumpkin Pie Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/pumpkin-pie-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12064590",
+      "food_name": "All Natural Chocolate Chip Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/all-natural-chocolate-chip-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11072825",
+      "food_name": "All Natural Chocolate Peanut Butter Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/all-natural-chocolate-peanut-butter-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73259017",
+      "food_name": "Triopolitan Caramel Macchiato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/triopolitan-caramel-macchiato",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "604790",
+      "food_name": "Light Recipe Denali Chocolate Nutty Moose Tracks Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/light-recipe-denali-chocolate-nutty-moose-tracks-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6719338",
+      "food_name": "Cool White Mint Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/cool-white-mint-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15841131",
+      "food_name": "Sea Salted Caramel Gelato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/sea-salted-caramel-gelato",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19327942",
+      "food_name": "Egg Nog Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/egg-nog-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "981365",
+      "food_name": "Fat Free Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/fat-free-milk",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "323624",
+      "food_name": "Egg Nog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/egg-nog",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2630532",
+      "food_name": "Peach Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/peach-tea",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15404261",
+      "food_name": "Red Velvet Cake Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/red-velvet-cake-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59857161",
+      "food_name": "Whole Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/whole-milk",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4163865",
+      "food_name": "Vanilla Bean Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/vanilla-bean-ice-cream-sandwich",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23242477",
+      "food_name": "Caramel Brownie Overload",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/caramel-brownie-overload",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54360147",
+      "food_name": "Pumpkin Cookie Dough Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/pumpkin-cookie-dough-ice-cream",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39061669",
+      "food_name": "Light Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/light-lemonade",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49112335",
+      "food_name": "Coconut Fruit and Cream Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/coconut-fruit-and-cream-bar",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47118754",
+      "food_name": "Strawberry Fruit & Cream Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/strawberry-fruit-cream-bars",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19514181",
+      "food_name": "All Natural Raspberry Chocolate Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/all-natural-raspberry-chocolate-chip",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7832404",
+      "food_name": "Orange Grove Sherbert",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/orange-grove-sherbert",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61296090",
+      "food_name": "Caramel Brownie Layered Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/turkey-hill/caramel-brownie-layered-sundae",
+      "brand_name": "Turkey Hill",
+      "food_type": "Brand"
+    }
+  ]
+}

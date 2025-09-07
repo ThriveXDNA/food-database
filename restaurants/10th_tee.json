@@ -1,0 +1,20 @@
+{
+  "restaurant": "10th Tee",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:01:07.317Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/10th_tee.json",
+  "items": [
+    {
+      "food_id": "16766192",
+      "food_name": "Energy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/10th-tee/energy-bar",
+      "brand_name": "10th Tee",
+      "food_type": "Brand"
+    }
+  ]
+}

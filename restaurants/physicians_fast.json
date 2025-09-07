@@ -1,0 +1,20 @@
+{
+  "restaurant": "Physicians Fast",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 23,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:01:08.658Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/physicians_fast.json",
+  "items": [
+    {
+      "food_id": "39122675",
+      "food_name": "Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/physicians-fast/protein-bar",
+      "brand_name": "Physicians Fast",
+      "food_type": "Brand"
+    }
+  ]
+}

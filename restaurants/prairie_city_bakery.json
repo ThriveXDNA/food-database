@@ -1,0 +1,34 @@
+{
+  "restaurant": "Prairie City Bakery",
+  "total_items": 3,
+  "pages_extracted": 2,
+  "total_search_results": 88,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:16:37.804Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/prairie_city_bakery.json",
+  "items": [
+    {
+      "food_id": "7054251",
+      "food_name": "White Chocolate Macadamia Nut Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/prairie-city-bakery/white-chocolate-macadamia-nut-cookie",
+      "brand_name": "Prairie City Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25029708",
+      "food_name": "Chocolatey Chunk Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/prairie-city-bakery/chocolatey-chunk-cookie",
+      "brand_name": "Prairie City Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45370665",
+      "food_name": "Peanut Butter Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/prairie-city-bakery/peanut-butter-cookie",
+      "brand_name": "Prairie City Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

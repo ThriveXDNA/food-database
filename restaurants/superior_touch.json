@@ -1,0 +1,27 @@
+{
+  "restaurant": "Superior Touch",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 36,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:37:50.412Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/superior_touch.json",
+  "items": [
+    {
+      "food_id": "251174",
+      "food_name": "Better than Bouillon Chicken Base made from Chicken Meat with Natural Juices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/superior-touch/better-than-bouillon-chicken-base-made-from-chicken-meat-with-natural-juices",
+      "brand_name": "Superior Touch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "251175",
+      "food_name": "Better than Bouillon Beef Base made from Roasted Beef and Concentrated Beef Stock",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/superior-touch/better-than-bouillon-beef-base-made-from-roasted-beef-and-concentrated-beef-stock",
+      "brand_name": "Superior Touch",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "restaurant": "J. Higgs",
+  "total_items": 8,
+  "pages_extracted": 2,
+  "total_search_results": 57,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:52:46.543Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/j_higgs.json",
+  "items": [
+    {
+      "food_id": "5843392",
+      "food_name": "Ripple Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/j-higgs/ripple-potato-chips",
+      "brand_name": "J. Higgs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2569736",
+      "food_name": "Buttery Rounds Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/j-higgs/buttery-rounds-crackers",
+      "brand_name": "J. Higgs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8684068",
+      "food_name": "Thin Sticks Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/j-higgs/thin-sticks-pretzels",
+      "brand_name": "J. Higgs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7124235",
+      "food_name": "Cheddar & Sour Cream Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/j-higgs/cheddar-and-sour-cream-potato-chips",
+      "brand_name": "J. Higgs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6331994",
+      "food_name": "Barbecue Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/j-higgs/barbecue-potato-chips",
+      "brand_name": "J. Higgs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17873975",
+      "food_name": "Cashew Halves & Pieces with Sea Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/j-higgs/cashew-halves-pieces-with-sea-salt",
+      "brand_name": "J. Higgs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25589647",
+      "food_name": "Salt & Vinegar Flavored Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/j-higgs/salt-vinegar-flavored-potato-chips",
+      "brand_name": "J. Higgs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21091962",
+      "food_name": "Classic Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/j-higgs/classic-potato-chips",
+      "brand_name": "J. Higgs",
+      "food_type": "Brand"
+    }
+  ]
+}

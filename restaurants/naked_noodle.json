@@ -1,0 +1,55 @@
+{
+  "restaurant": "Naked Noodle",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 636,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:20:19.158Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/naked_noodle.json",
+  "items": [
+    {
+      "food_id": "31037969",
+      "food_name": "Thai Green Curry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naked-noodle/thai-green-curry",
+      "brand_name": "Naked Noodle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32045907",
+      "food_name": "Chinese Chow Mein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naked-noodle/chinese-chow-mein",
+      "brand_name": "Naked Noodle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56071439",
+      "food_name": "Chinese Szechuan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naked-noodle/chinese-szechuan",
+      "brand_name": "Naked Noodle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41927306",
+      "food_name": "Chinese Kung Pao",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naked-noodle/chinese-kung-pao",
+      "brand_name": "Naked Noodle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42108194",
+      "food_name": "Japanese Teriyaki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naked-noodle/japanese-teriyaki",
+      "brand_name": "Naked Noodle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33131371",
+      "food_name": "Thai Sweet Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naked-noodle/thai-sweet-chili",
+      "brand_name": "Naked Noodle",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,958 @@
+{
+  "restaurant": "Fresh Express",
+  "total_items": 135,
+  "pages_extracted": 6,
+  "total_search_results": 1423,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:37:52.847Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fresh_express.json",
+  "items": [
+    {
+      "food_id": "46722",
+      "food_name": "Caesar Complete Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/caesar-complete-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6761455",
+      "food_name": "Cabbage Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/cabbage-salad",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53571",
+      "food_name": "Caesar Supreme Complete Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/caesar-supreme-complete-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53585",
+      "food_name": "Organic Baby Spinach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/organic-baby-spinach",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11358360",
+      "food_name": "Chopped Kit Sweet Kale Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/chopped-kit-sweet-kale-salad",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2289704",
+      "food_name": "Garden Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/garden-salad",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1430372",
+      "food_name": "Iceberg Garden Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/iceberg-garden-salad",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43606",
+      "food_name": "Hearts of Romaine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/hearts-of-romaine",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3790688",
+      "food_name": "Romaine Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/romaine-salad",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6281622",
+      "food_name": "Chopped Kit Asian",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/chopped-kit-asian",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26358245",
+      "food_name": "Chopped Kit Caesar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/chopped-kit-caesar",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14538639",
+      "food_name": "Shreds Iceberg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/shreds-iceberg",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70847",
+      "food_name": "Italian Salad Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/italian-salad-mix",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "528591",
+      "food_name": "Spinach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/spinach",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34947581",
+      "food_name": "Twisted Caesar Avocado Caesar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/twisted-caesar-avocado-caesar",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53602",
+      "food_name": "Sweet Butter Tender Lettuce Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/sweet-butter-tender-lettuce-mix",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28835",
+      "food_name": "Spring Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/spring-mix",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2432062",
+      "food_name": "Salad 50/50 Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/salad-50-50-mix",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11487298",
+      "food_name": "Chopped Kit Sunflower Crisp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/chopped-kit-sunflower-crisp",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76114685",
+      "food_name": "Smokehouse Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/smokehouse-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42230",
+      "food_name": "American Lettuce Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/american-lettuce-blend",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51591",
+      "food_name": "3-Color Deli Coleslaw",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/3-color-deli-coleslaw",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2432512",
+      "food_name": "Cole Slaw",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/cole-slaw",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46283117",
+      "food_name": "Grilled Chicken Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/grilled-chicken-caesar-salad",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7420232",
+      "food_name": "Chopped Kit Southwest",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/chopped-kit-southwest",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14812619",
+      "food_name": "American Mix Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/american-mix-salad",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69463065",
+      "food_name": "Cobb Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/cobb-salad",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48551033",
+      "food_name": "Chopped Kit Bacon Thousand Island",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/chopped-kit-bacon-thousand-island",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1624862",
+      "food_name": "Pear Gorgonzola Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/pear-gorgonzola-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53578",
+      "food_name": "Baby Spinach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/baby-spinach",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6444921",
+      "food_name": "Bacon Caesar Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/bacon-caesar-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "988712",
+      "food_name": "Leafy Green Romaine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/leafy-green-romaine",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "299080",
+      "food_name": "Veggie Lover's Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/veggie-lovers-salad",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11629339",
+      "food_name": "Chopped Kit Chipotle Cheddar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/chopped-kit-chipotle-cheddar",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5124016",
+      "food_name": "Shredded Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/shredded-carrots",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "535480",
+      "food_name": "Caesar Supreme Salad & Toppings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/caesar-supreme-salad-toppings",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84655664",
+      "food_name": "Sunflower Crisp Chopped Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/sunflower-crisp-chopped-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25617",
+      "food_name": "Caesar Lite Complete Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/caesar-lite-complete-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12699653",
+      "food_name": "Chopped Kit BBQ Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/chopped-kit-bbq-ranch",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1864750",
+      "food_name": "Chopped Romaine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/chopped-romaine",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19528318",
+      "food_name": "Chopped Kit Poppyseed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/chopped-kit-poppyseed",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43642",
+      "food_name": "5-Lettuce Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/5-lettuce-mix",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11005879",
+      "food_name": "Caesar Kit with Greek Yogurt Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/caesar-kit-with-greek-yogurt-dressing",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73783914",
+      "food_name": "French Blue Cheese Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/french-blue-cheese-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53590",
+      "food_name": "Cole Slaw Kit with a Sweet & Creamy Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/cole-slaw-kit-with-a-sweet-and-creamy-dressing",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75383471",
+      "food_name": "French Bistro Chopped Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/french-bistro-chopped-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53573",
+      "food_name": "Asian Supreme Complete Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/asian-supreme-complete-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100556",
+      "food_name": "Cole Slaw Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/cole-slaw-mix",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94069122",
+      "food_name": "Romaine Hearts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/romaine-hearts",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87677411",
+      "food_name": "Asian Chopped Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/asian-chopped-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53582",
+      "food_name": "Veggie Spring Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/veggie-spring-mix",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53575",
+      "food_name": "Green & Crisp Lettuce with Iceberg & Romaine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/green-and-crisp-lettuce-with-iceberg-and-romaine",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46988386",
+      "food_name": "Twisted Caesar Asian Caesar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/twisted-caesar-asian-caesar",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3194154",
+      "food_name": "Chopped Turkey Chef Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/chopped-turkey-chef-salad",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34522360",
+      "food_name": "Pear Gorgonzola Salad Kit (Package0",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/pear-gorgonzola-salad-kit-(package0",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2438715",
+      "food_name": "Iceberg Garden Lechuga Repollo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/iceberg-garden-lechuga-repollo",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2313226",
+      "food_name": "Fancy Field Greens Tender Lettuce Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/fancy-field-greens-tender-lettuce-mix",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4337062",
+      "food_name": "Spinach & Arugula",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/spinach-and-arugula",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53592",
+      "food_name": "Shreds!",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/shreds",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89514905",
+      "food_name": "Twisted Lemon Caesar Chopped Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/twisted-lemon-caesar-chopped-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53399",
+      "food_name": "Premium Romaine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/premium-romaine",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77051",
+      "food_name": "Chicken Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/chicken-caesar-salad",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5292394",
+      "food_name": "Farmer's Garden",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/farmers-garden",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57941091",
+      "food_name": "Italian Balsamic Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/italian-balsamic-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42199225",
+      "food_name": "BLT Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/blt-salad",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53594",
+      "food_name": "Italian Tender Lettuce Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/italian-tender-lettuce-mix",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53597",
+      "food_name": "Spinach Tender Lettuce Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/spinach-tender-lettuce-mix",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1204052",
+      "food_name": "Strawberry Fields Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/strawberry-fields-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6374117",
+      "food_name": "Sweet & Crunchy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/sweet-and-crunchy",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10055618",
+      "food_name": "Gourmet Cafe Chicken Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/gourmet-cafe-chicken-caesar-salad",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91228934",
+      "food_name": "Korean Sesame",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/korean-sesame",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53587",
+      "food_name": "Organic Hearts of Romaine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/organic-hearts-of-romaine",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92691244",
+      "food_name": "Thai 'N' Cashews Chopped Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/thai-n-cashews-chopped-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98469030",
+      "food_name": "Hot or Cold Asian Sweet Ginger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/hot-or-cold-asian-sweet-ginger",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90553862",
+      "food_name": "Asian Apple Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/asian-apple-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53577",
+      "food_name": "Original Iceberg Garden Salad (Zip)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/original-iceberg-garden-salad-(zip)",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53591",
+      "food_name": "Old Fashioned Cole Slaw",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/old-fashioned-cole-slaw",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13178781",
+      "food_name": "Shredded Red Cabbage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/shredded-red-cabbage",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26512",
+      "food_name": "Angel Hair Cole Slaw",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/angel-hair-cole-slaw",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82346072",
+      "food_name": "American Salad Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/american-salad-mix",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8462371",
+      "food_name": "Gourmet Cafe Chopped Santa Fe",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/gourmet-cafe-chopped-santa-fe",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65346007",
+      "food_name": "Chopped Kit Mexican Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/chopped-kit-mexican-style",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42261248",
+      "food_name": "Chopped Kit Thai 'N' Cashews",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/chopped-kit-thai-n-cashews",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8070037",
+      "food_name": "Coleslaw Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/coleslaw-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60902388",
+      "food_name": "Spinach & Bacon Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/spinach-bacon-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1228516",
+      "food_name": "Parisienne Supreme Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/parisienne-supreme-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6370838",
+      "food_name": "Green Leaf Shreds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/green-leaf-shreds",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10201150",
+      "food_name": "Baby Kale & Spinach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/baby-kale-and-spinach",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2977239",
+      "food_name": "Harvest Peach Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/harvest-peach-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77030621",
+      "food_name": "Pear Gorgonzola Salad Kit (190g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/pear-gorgonzola-salad-kit-(190g)",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16486496",
+      "food_name": "Spring Mix (Package)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/spring-mix-(package)",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29575190",
+      "food_name": "Asian Avocado Slaw Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/asian-avocado-slaw-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53195",
+      "food_name": "Salsa Ensalada Supreme Complete Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/salsa-ensalada-supreme-complete-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9290044",
+      "food_name": "Organic Super Greens",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/organic-super-greens",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76642283",
+      "food_name": "Gourmet Cafe Chicken Caesar Salad (6.3oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/gourmet-cafe-chicken-caesar-salad-(63oz)",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1411905",
+      "food_name": "Chicken Taco Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/chicken-taco-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53576",
+      "food_name": "Lettuce Trio",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/lettuce-trio",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34459520",
+      "food_name": "Chopped Kit Pomegranate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/chopped-kit-pomegranate",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31813345",
+      "food_name": "Pearl Mozzarella Caprese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/pearl-mozzarella-caprese",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53579",
+      "food_name": "Baby Spinach (Family Size)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/baby-spinach-(family-size)",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2182179",
+      "food_name": "Apples & Cheddar Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/apples-and-cheddar-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53570",
+      "food_name": "Mediterranean Supreme Complete Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/mediterranean-supreme-complete-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53572",
+      "food_name": "B.L.T. Caesar Complete Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/blt-caesar-complete-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6819414",
+      "food_name": "Baby Kale Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/baby-kale-mix",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7589069",
+      "food_name": "Juicing Greens",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/juicing-greens",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5608894",
+      "food_name": "Spinach & Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/spinach-and-tomatoes",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8580927",
+      "food_name": "Broccoli & Cauliflower",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/broccoli-and-cauliflower",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24202272",
+      "food_name": "Tender Garden Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/tender-garden-mix",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53581",
+      "food_name": "Sweet Baby Greens",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/sweet-baby-greens",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28004856",
+      "food_name": "Premium Slaw Salad Kit Smoked BBQ Sriracha",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/premium-slaw-salad-kit-smoked-bbq-sriracha",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "538218",
+      "food_name": "Mediterranean Supreme Salad & Toppings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/mediterranean-supreme-salad-and-toppings",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21188519",
+      "food_name": "Organic Baby Arugula",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/organic-baby-arugula",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25199889",
+      "food_name": "Double Carrots Mixed Lettuce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/double-carrots-mixed-lettuce",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53574",
+      "food_name": "Green & Crisp Lettuce with Double Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/green-and-crisp-lettuce-with-double-carrots",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6370645",
+      "food_name": "Singles Hearts of Romaine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/singles-hearts-of-romaine",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8198625",
+      "food_name": "Gourmet Cafe Chopped Asian Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/gourmet-cafe-chopped-asian-salad",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45151942",
+      "food_name": "Greek Herb Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/greek-herb-chicken-salad",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1674123",
+      "food_name": "Waldorf Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/waldorf-chicken-salad",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53586",
+      "food_name": "Organic Baby Spinach Clamshell",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/organic-baby-spinach-clamshell",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53598",
+      "food_name": "Spinach Plus Carrots Tender Lettuce Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/spinach-plus-carrots-tender-lettuce-mix",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50296686",
+      "food_name": "Kickin Bacon Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/kickin-bacon-ranch",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53595",
+      "food_name": "More Carrots American Tender Lettuce Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/more-carrots-american-tender-lettuce-mix",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94089",
+      "food_name": "Tender Ruby Reds Lettuce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/tender-ruby-reds-lettuce",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14169047",
+      "food_name": "Organic Sweet Dijon Onion Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/organic-sweet-dijon-onion-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8155973",
+      "food_name": "Gourmet Cafe Tuscan Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/gourmet-cafe-tuscan-salad",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20649947",
+      "food_name": "Pomegranate Cranberry Organic Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/pomegranate-cranberry-organic-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53596",
+      "food_name": "Riviera Tender Lettuce Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/riviera-tender-lettuce-mix",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28443139",
+      "food_name": "Honey Pecan Slaw Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/honey-pecan-slaw-salad-kit",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5239821",
+      "food_name": "Red Leaf Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/red-leaf-mix",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15629330",
+      "food_name": "Gourmet Cafe Santa Fe Greek",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/gourmet-cafe-santa-fe-greek",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22098260",
+      "food_name": "Citrus Burst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/citrus-burst",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53589",
+      "food_name": "Organic Italian",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/organic-italian",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11548879",
+      "food_name": "Chopped Kit Bacon & Bleu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/chopped-kit-bacon-and-bleu",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30552547",
+      "food_name": "Sweet Hearts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/sweet-hearts",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37064712",
+      "food_name": "Avocado Verde Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-express/avocado-verde-chicken",
+      "brand_name": "Fresh Express",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "brand_name": "Taro Brand",
+  "total_items": 4,
+  "pages_extracted": 2,
+  "total_search_results": 78,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:55:37.223Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/taro_brand.json",
+  "items": [
+    {
+      "food_id": "1078985",
+      "food_name": "Carrot Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taro-brand/carrot-sticks",
+      "brand_name": "Taro Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8706171",
+      "food_name": "Poi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taro-brand/poi",
+      "brand_name": "Taro Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19816534",
+      "food_name": "Lomi Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taro-brand/lomi-salmon",
+      "brand_name": "Taro Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71954849",
+      "food_name": "Chop Suey Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taro-brand/chop-suey-mix",
+      "brand_name": "Taro Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

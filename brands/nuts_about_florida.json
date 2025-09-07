@@ -1,0 +1,41 @@
+{
+  "brand_name": "Nuts About Florida",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 498,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:15:59.857Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/nuts_about_florida.json",
+  "items": [
+    {
+      "food_id": "14724664",
+      "food_name": "Almond Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nuts-about-florida/almond-slices",
+      "brand_name": "Nuts About Florida",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4649812",
+      "food_name": "Walnuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nuts-about-florida/walnuts",
+      "brand_name": "Nuts About Florida",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43761014",
+      "food_name": "Natural Almonds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nuts-about-florida/natural-almonds",
+      "brand_name": "Nuts About Florida",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5929781",
+      "food_name": "Cranberry Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nuts-about-florida/cranberry-mix",
+      "brand_name": "Nuts About Florida",
+      "food_type": "Brand"
+    }
+  ]
+}

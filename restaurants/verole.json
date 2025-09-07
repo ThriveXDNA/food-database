@@ -1,0 +1,34 @@
+{
+  "restaurant": "Verole",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:34:14.652Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/verole.json",
+  "items": [
+    {
+      "food_id": "3643544",
+      "food_name": "Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/verole/tortillas",
+      "brand_name": "Verole",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13376249",
+      "food_name": "Soft Taco Flour Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/verole/soft-taco-flour-tortillas",
+      "brand_name": "Verole",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2419115",
+      "food_name": "Verole Queso Fresco Authentic Mexican Crumbling Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ole/verole-queso-fresco-authentic-mexican-crumbling-cheese",
+      "brand_name": "Ole",
+      "food_type": "Brand"
+    }
+  ]
+}

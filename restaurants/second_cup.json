@@ -1,0 +1,55 @@
+{
+  "restaurant": "Second Cup",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 1085,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:07:59.618Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/second_cup.json",
+  "items": [
+    {
+      "food_id": "890081",
+      "food_name": "Italian Soda (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/second-cup/italian-soda-(small)",
+      "brand_name": "Second Cup",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3001047",
+      "food_name": "Skinny Vanilla Bean Latte (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/second-cup/skinny-vanilla-bean-latte-(medium)",
+      "brand_name": "Second Cup",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1127789",
+      "food_name": "Candy Cane Hot Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/second-cup/candy-cane-hot-chocolate",
+      "brand_name": "Second Cup",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "544647",
+      "food_name": "Skinny Vanilla Bean Latte (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/second-cup/skinny-vanilla-bean-latte-(large)",
+      "brand_name": "Second Cup",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90274",
+      "food_name": "Skinny Hot Chocolate (8 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/second-cup/skinny-hot-chocolate-(8-oz)",
+      "brand_name": "Second Cup",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45741",
+      "food_name": "Moccaccino Granola Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/second-cup/moccaccino-granola-bars",
+      "brand_name": "Second Cup",
+      "food_type": "Brand"
+    }
+  ]
+}

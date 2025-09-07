@@ -1,0 +1,76 @@
+{
+  "restaurant": "Ozery Bakery",
+  "total_items": 9,
+  "pages_extracted": 2,
+  "total_search_results": 53,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:12:17.748Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ozery_bakery.json",
+  "items": [
+    {
+      "food_id": "2143147",
+      "food_name": "Morning Rounds - Cranberry Orange",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ozery-bakery/morning-rounds---cranberry-orange",
+      "brand_name": "Ozery Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6080538",
+      "food_name": "One Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ozery-bakery/one-bun",
+      "brand_name": "Ozery Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "409854",
+      "food_name": "One Bun Whole Wheat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ozery-bakery/one-bun-whole-wheat",
+      "brand_name": "Ozery Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68950663",
+      "food_name": "Brioche Thin Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ozery-bakery/brioche-thin-buns",
+      "brand_name": "Ozery Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2301155",
+      "food_name": "Morning Rounds - Apple Cinnamon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ozery-bakery/morning-rounds---apple-cinnamon",
+      "brand_name": "Ozery Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40067134",
+      "food_name": "Blueberry Snacking Rounds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ozery-bakery/blueberry-snacking-rounds",
+      "brand_name": "Ozery Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13182910",
+      "food_name": "Apple Cinnamon Snacking Rounds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ozery-bakery/apple-cinnamon-snacking-rounds",
+      "brand_name": "Ozery Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2757974",
+      "food_name": "Morning Rounds - Muesli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ozery-bakery/morning-rounds---muesli",
+      "brand_name": "Ozery Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15110439",
+      "food_name": "Organic Morning Rounds Cinnamon Raisin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ozery-bakery/organic-morning-rounds-cinnamon-raisin",
+      "brand_name": "Ozery Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

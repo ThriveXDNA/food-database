@@ -1,0 +1,48 @@
+{
+  "restaurant": "Mybar",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:01:47.438Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mybar.json",
+  "items": [
+    {
+      "food_id": "14487609",
+      "food_name": "MyBar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/prosupps/mybar",
+      "brand_name": "ProSupps",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77541399",
+      "food_name": "Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mybar/protein-bar",
+      "brand_name": "Mybar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16307199",
+      "food_name": "Iced Cinnamon Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mybar/iced-cinnamon-crunch",
+      "brand_name": "Mybar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15152172",
+      "food_name": "Salted Caramel Peanut Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mybar/salted-caramel-peanut-crunch",
+      "brand_name": "Mybar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75803968",
+      "food_name": "Mybar Peanut Butter Paradise",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/prosupps/mybar-peanut-butter-paradise",
+      "brand_name": "ProSupps",
+      "food_type": "Brand"
+    }
+  ]
+}

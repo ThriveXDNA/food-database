@@ -1,0 +1,634 @@
+{
+  "restaurant": "Little Caesars",
+  "total_items": 89,
+  "pages_extracted": 5,
+  "last_updated": "2025-09-06T06:44:15.728Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Restaurant search with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/little_caesars.json",
+  "items": [
+    {
+      "food_id": "73981832",
+      "food_name": "Pepperoni (Large Classic Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/pepperoni-(large-classic-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86402772",
+      "food_name": "Crazy Bread (8 Bread Sticks)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/crazy-bread-(8-bread-sticks)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981991",
+      "food_name": "Pepperoni (Custom Round Pizza Topping)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/pepperoni-(custom-round-pizza-topping)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981835",
+      "food_name": "Cheese (Large Classic Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/cheese-(large-classic-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981796",
+      "food_name": "Pepperoni (Large ExtraMostBestest Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/pepperoni-(large-extramostbestest-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981904",
+      "food_name": "Italian Cheese Bread (10 Bread Sticks)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/italian-cheese-bread-(10-bread-sticks)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86401958",
+      "food_name": "Pepperoni Crazy Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/pepperoni-crazy-puffs",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981829",
+      "food_name": "Stuffed Crust Pepperoni (Large Specialty Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/stuffed-crust-pepperoni-(large-specialty-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982032",
+      "food_name": "Pepperoni (Custom Detroit-Style Deep Dish)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/pepperoni-(custom-detroit-style-deep-dish)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981970",
+      "food_name": "Pepperoni (Thin Crust Pizzas)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/pepperoni-(thin-crust-pizzas)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86402562",
+      "food_name": "Pretzel Crust Pizza with Cheese Sauce (Large Specialty Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/pretzel-crust-pizza-with-cheese-sauce-(large-specialty-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86402556",
+      "food_name": "Pretzel Crust Pizza with Pizza Sauce (Large Specialty Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/pretzel-crust-pizza-with-pizza-sauce-(large-specialty-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982027",
+      "food_name": "Extra Cheese (Custom Round Pizza Topping)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/extra-cheese-(custom-round-pizza-topping)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86402497",
+      "food_name": "3 Meat Treat (Large Specialty Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/3-meat-treat-(large-specialty-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86402494",
+      "food_name": "Ultimate Supreme (Large Specialty Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/ultimate-supreme-(large-specialty-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86402802",
+      "food_name": "Crazy Sauce (1 Sauce Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/crazy-sauce-(1-sauce-cup)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981837",
+      "food_name": "Italian Sausage (Large Classic Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/italian-sausage-(large-classic-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86402248",
+      "food_name": "Cheese & Herb Crazy Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/cheese-herb-crazy-puffs",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981936",
+      "food_name": "Buffalo (Caesar Wings)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/buffalo-(caesar-wings)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981856",
+      "food_name": "Pepperoni (Detroit-Style Deep Dish Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/pepperoni-(detroit-style-deep-dish-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981820",
+      "food_name": "Hula Hawaiian (Large Specialty Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/hula-hawaiian-(large-specialty-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981827",
+      "food_name": "Slices-N-Stix (Large Specialty Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/slices-n-stix-(large-specialty-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981803",
+      "food_name": "Cheese (Large ExtraMostBestest Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/cheese-(large-extramostbestest-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86402558",
+      "food_name": "Cheese Pretzel Crust Pizza with Cheese Sauce (Large Specialty Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/cheese-pretzel-crust-pizza-with-cheese-sauce-(large-specialty-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981917",
+      "food_name": "Stuffed Crazy Bread (3 Bread Sticks & Crazy Sauce)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/stuffed-crazy-bread-(3-bread-sticks-crazy-sauce)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981977",
+      "food_name": "Cheese (Thin Crust Pizzas)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/cheese-(thin-crust-pizzas)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981980",
+      "food_name": "Add Stuffed Crust to Any Round Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/add-stuffed-crust-to-any-round-pizza",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981822",
+      "food_name": "Veggie (Large Specialty Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/veggie-(large-specialty-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981934",
+      "food_name": "Oven Roasted (Caesar Wings)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/oven-roasted-(caesar-wings)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981858",
+      "food_name": "Cheese (Detroit-Style Deep Dish Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/cheese-(detroit-style-deep-dish-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982043",
+      "food_name": "Italian Sausage (Custom Round Pizza Topping)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/italian-sausage-(custom-round-pizza-topping)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86402921",
+      "food_name": "Little Caesars Cookies (1 Pack)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/little-caesars-cookies-(1-pack)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981907",
+      "food_name": "Pepperoni Cheese Bread (10 Bread Sticks)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/pepperoni-cheese-bread-(10-bread-sticks)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981963",
+      "food_name": "Butter Garlic Flavor (Caesar Dips)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/butter-garlic-flavor-(caesar-dips)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981816",
+      "food_name": "5 Meat Feast (Large Specialty Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/5-meat-feast-(large-specialty-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981915",
+      "food_name": "Zesty Cheese Bread (10 Bread Sticks)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/zesty-cheese-bread-(10-bread-sticks)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981919",
+      "food_name": "Cookie Dough Brownie Made with M&M’S Minis Chocolate Candies (Full Package)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/cookie-dough-brownie-made-with-m-m%E2%80%99s-minis-chocolate-candies-(full-package)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981943",
+      "food_name": "Garlic Parmesan (Caesar Wings)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/garlic-parmesan-(caesar-wings)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981987",
+      "food_name": "Parmesan Cheese Packet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/parmesan-cheese-packet",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981953",
+      "food_name": "Jalapeño Ranch (Caesar Dips)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/jalape%C3%B1o-ranch-(caesar-dips)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982045",
+      "food_name": "Italian Sausage (Custom Detroit-Style Deep Dish)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/italian-sausage-(custom-detroit-style-deep-dish)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981941",
+      "food_name": "BBQ (Caesar Wings)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/bbq-(caesar-wings)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86402650",
+      "food_name": "Supreme 3 Meat (Detroit-Style Deep Dish Specialty Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/supreme-3-meat-(detroit-style-deep-dish-specialty-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86402563",
+      "food_name": "Ultimate (Detroit-Style Deep Dish Specialty Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/ultimate-(detroit-style-deep-dish-specialty-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981921",
+      "food_name": "Cookie Dough Brownie Made with Twix Cookie Bar Pieces (Full Package)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/cookie-dough-brownie-made-with-twix-cookie-bar-pieces-(full-package)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981992",
+      "food_name": "Bacon (Custom Round Pizza Topping)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/bacon-(custom-round-pizza-topping)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86402500",
+      "food_name": "Slices-N-Stix Bacon (Large Specialty Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/slices-n-stix-bacon-(large-specialty-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981947",
+      "food_name": "Cheezy (Caesar Dips)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/cheezy-(caesar-dips)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981811",
+      "food_name": "Italian Sausage (Large ExtraMostBestest Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/italian-sausage-(large-extramostbestest-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981969",
+      "food_name": "Cheddar Cheese Sauce (Caesar Dips)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/cheddar-cheese-sauce-(caesar-dips)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981875",
+      "food_name": "Crazy Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/crazy-combo",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "174825",
+      "food_name": "Chipotle Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/chipotle-dip",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981956",
+      "food_name": "Buffalo Ranch (Caesar Dips)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/buffalo-ranch-(caesar-dips)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981989",
+      "food_name": "Base Pizza (Custom Round Pizza Topping)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/base-pizza-(custom-round-pizza-topping)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981854",
+      "food_name": "Seasoned Beef (Large Classic Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/seasoned-beef-(large-classic-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981859",
+      "food_name": "Italian Sausage (Detroit-Style Deep Dish Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/italian-sausage-(detroit-style-deep-dish-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981995",
+      "food_name": "Seasoned Beef (Custom Round Pizza Topping)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/seasoned-beef-(custom-round-pizza-topping)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982024",
+      "food_name": "Pineapple (Custom Round Pizza Topping)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/pineapple-(custom-round-pizza-topping)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982063",
+      "food_name": "Extra Cheese (Custom Detroit-Style Deep Dish)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/extra-cheese-(custom-detroit-style-deep-dish)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982020",
+      "food_name": "Black Olives (Custom Round Pizza Topping)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/black-olives-(custom-round-pizza-topping)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86402550",
+      "food_name": "Slices-N-Stix Jalapeño (Large Specialty Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/slices-n-stix-jalape%C3%B1o-(large-specialty-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86403270",
+      "food_name": "5 Meat Feast (Detroit-Style Deep Dish Specialty Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/5-meat-feast-(detroit-style-deep-dish-specialty-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982011",
+      "food_name": "Smoky Ham (Custom Round Pizza Topping)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/smoky-ham-(custom-round-pizza-topping)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981813",
+      "food_name": "Seasoned Beef (Large ExtraMostBestest Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/seasoned-beef-(large-extramostbestest-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982015",
+      "food_name": "Onions (Custom Round Pizza Topping)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/onions-(custom-round-pizza-topping)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982029",
+      "food_name": "Fresh Mozzarella (Custom Round Pizza Topping)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/fresh-mozzarella-(custom-round-pizza-topping)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982033",
+      "food_name": "Bacon (Custom Detroit-Style Deep Dish)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/bacon-(custom-detroit-style-deep-dish)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86402657",
+      "food_name": "Hawaiian Veggie (Detroit-Style Deep Dish Specialty Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/hawaiian-veggie-(detroit-style-deep-dish-specialty-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981985",
+      "food_name": "Zap Pack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/zap-pack",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982016",
+      "food_name": "Mushrooms, Canned (Custom Round Pizza Topping)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/mushrooms-canned-(custom-round-pizza-topping)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982021",
+      "food_name": "Jalapeño Peppers (Custom Round Pizza Topping)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/jalape%C3%B1o-peppers-(custom-round-pizza-topping)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982044",
+      "food_name": "Seasoned Beef (Custom Detroit-Style Deep Dish)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/seasoned-beef-(custom-detroit-style-deep-dish)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982046",
+      "food_name": "Smoky Ham (Custom Detroit-Style Deep Dish)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/smoky-ham-(custom-detroit-style-deep-dish)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982062",
+      "food_name": "Pineapple (Custom Detroit-Style Deep Dish)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/pineapple-(custom-detroit-style-deep-dish)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981983",
+      "food_name": "Add Stuffed Crust to any Detroit-Style Deep Dish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/add-stuffed-crust-to-any-detroit-style-deep-dish",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982030",
+      "food_name": "Base Pizza (Custom Detroit-Style Deep Dish)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/base-pizza-(custom-detroit-style-deep-dish)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982059",
+      "food_name": "Mild Banana Peppers (Custom Detroit-Style Deep Dish)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/mild-banana-peppers-(custom-detroit-style-deep-dish)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982064",
+      "food_name": "Fresh Mozzarella (Custom Detroit-Style Deep Dish)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/fresh-mozzarella-(custom-detroit-style-deep-dish)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86402655",
+      "food_name": "Treat Hula (Detroit-Style Deep Dish Specialty Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/treat-hula-(detroit-style-deep-dish-specialty-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982013",
+      "food_name": "Green Peppers (Custom Round Pizza Topping)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/green-peppers-(custom-round-pizza-topping)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982018",
+      "food_name": "Mushrooms, Fresh (Custom Round Pizza Topping)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/mushrooms-fresh-(custom-round-pizza-topping)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982048",
+      "food_name": "Onions (Custom Detroit-Style Deep Dish)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/onions-(custom-detroit-style-deep-dish)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73981861",
+      "food_name": "Seasoned Beef (Detroit-Style Deep Dish Pizza)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/seasoned-beef-(detroit-style-deep-dish-pizza)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982022",
+      "food_name": "Mild Banana Peppers (Custom Round Pizza Topping)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/mild-banana-peppers-(custom-round-pizza-topping)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982047",
+      "food_name": "Green Peppers (Custom Detroit-Style Deep Dish)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/green-peppers-(custom-detroit-style-deep-dish)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982050",
+      "food_name": "Mushrooms, Canned (Custom Detroit-Style Deep Dish)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/mushrooms-canned-(custom-detroit-style-deep-dish)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982051",
+      "food_name": "Mushrooms, Fresh (Custom Detroit-Style Deep Dish)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/mushrooms-fresh-(custom-detroit-style-deep-dish)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982055",
+      "food_name": "Black Olives (Custom Detroit-Style Deep Dish)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/black-olives-(custom-detroit-style-deep-dish)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73982057",
+      "food_name": "Jalapeño Peppers (Custom Detroit-Style Deep Dish)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-caesars/jalape%C3%B1o-peppers-(custom-detroit-style-deep-dish)",
+      "brand_name": "Little Caesars",
+      "food_type": "Brand"
+    }
+  ]
+}

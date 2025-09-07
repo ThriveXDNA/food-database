@@ -1,0 +1,2295 @@
+{
+  "restaurant": "Coffee Bean",
+  "total_items": 326,
+  "pages_extracted": 8,
+  "total_search_results": 3135,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:40:54.119Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/coffee_bean.json",
+  "items": [
+    {
+      "food_id": "74172228",
+      "food_name": "Shot of Espresso - 1 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/shot-of-espresso-1-fl-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74137002",
+      "food_name": "Americano - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/americano-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169185",
+      "food_name": "Vanilla Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74136942",
+      "food_name": "Double Espresso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/double-espresso",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74137008",
+      "food_name": "Americano - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/americano-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170221",
+      "food_name": "Iced Vanilla Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-vanilla-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168806",
+      "food_name": "Brewed Coffee - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/brewed-coffee-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170223",
+      "food_name": "Iced Vanilla Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-vanilla-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170489",
+      "food_name": "Vietnamese Cold Brew Coffee - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vietnamese-cold-brew-coffee-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172088",
+      "food_name": "Iced Matcha Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-matcha-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168823",
+      "food_name": "Mocha Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mocha-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170212",
+      "food_name": "Iced Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172086",
+      "food_name": "Iced Matcha Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-matcha-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168854",
+      "food_name": "Mocha Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mocha-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168896",
+      "food_name": "Caramel Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170195",
+      "food_name": "Iced Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170349",
+      "food_name": "Iced Caramel Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-caramel-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171722",
+      "food_name": "Dirty Chai Tea Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/dirty-chai-tea-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171718",
+      "food_name": "Dirty Chai Tea Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/dirty-chai-tea-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170493",
+      "food_name": "Vietnamese Cold Brew Coffee - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vietnamese-cold-brew-coffee-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170249",
+      "food_name": "Iced Mocha Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-mocha-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172247",
+      "food_name": "Half & Half - 1 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/half-half-1-fl-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74136918",
+      "food_name": "Single Espresso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/single-espresso",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170055",
+      "food_name": "Iced Americano - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-americano-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172149",
+      "food_name": "Iced Dirty Chai Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-dirty-chai-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169377",
+      "food_name": "Mocha Iced Coffee - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mocha-iced-coffee-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171702",
+      "food_name": "Chai Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/chai-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168809",
+      "food_name": "Brewed Coffee - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/brewed-coffee-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170240",
+      "food_name": "Iced Mocha Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-mocha-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170428",
+      "food_name": "Cold Brew Coffee - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/cold-brew-coffee-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74137038",
+      "food_name": "Americano - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/americano-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168794",
+      "food_name": "Café Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caf%C3%A9-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172246",
+      "food_name": "Coconut Milk - 8 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/coconut-milk-8-fl-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172127",
+      "food_name": "Iced Chai Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-chai-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172148",
+      "food_name": "Iced Dirty Chai Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-dirty-chai-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170226",
+      "food_name": "Iced Vanilla Latte - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-vanilla-latte-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170343",
+      "food_name": "Iced Caramel Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-caramel-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172292",
+      "food_name": "Chocolate Covered Espresso Beans - 8 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/chocolate-covered-espresso-beans-8-pieces",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168916",
+      "food_name": "Hazelnut Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hazelnut-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171705",
+      "food_name": "Chai Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/chai-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171736",
+      "food_name": "Matcha Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/matcha-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172249",
+      "food_name": "Caramel Swirl - 0.5 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-swirl-05-fl-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168898",
+      "food_name": "Caramel Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172150",
+      "food_name": "Iced Dirty Chai Latte - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-dirty-chai-latte-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171815",
+      "food_name": "Mango Cold Brew Tea - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mango-cold-brew-tea-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171728",
+      "food_name": "Dirty Chai Tea Latte - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/dirty-chai-tea-latte-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172096",
+      "food_name": "Iced Matcha Latte - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-matcha-latte-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171741",
+      "food_name": "Matcha Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/matcha-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172296",
+      "food_name": "Cherries - 8 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/cherries-8-pieces",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169099",
+      "food_name": "Flat White - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/flat-white-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170401",
+      "food_name": "Iced White Chocolate Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-white-chocolate-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172325",
+      "food_name": "White Chocolate Powder - 1/4 Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/white-chocolate-powder-1-4-cup",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169559",
+      "food_name": "White Chocolate Iced Coffee - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/white-chocolate-iced-coffee-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168923",
+      "food_name": "Hazelnut Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hazelnut-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168932",
+      "food_name": "White Chocolate Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/white-chocolate-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172231",
+      "food_name": "Oat Milk - 8 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/oat-milk-8-fl-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168790",
+      "food_name": "Café Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caf%C3%A9-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168931",
+      "food_name": "White Chocolate Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/white-chocolate-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169537",
+      "food_name": "Hazelnut Iced Coffee - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hazelnut-iced-coffee-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170429",
+      "food_name": "Cold Brew Coffee - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/cold-brew-coffee-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169484",
+      "food_name": "Vanilla Iced Coffee - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-iced-coffee-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168815",
+      "food_name": "Brewed Coffee - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/brewed-coffee-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170385",
+      "food_name": "Iced Hazelnut Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-hazelnut-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170499",
+      "food_name": "Mocha Ice Blended - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mocha-ice-blended-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169376",
+      "food_name": "Mocha Iced Coffee - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mocha-iced-coffee-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169397",
+      "food_name": "Mocha Iced Coffee - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mocha-iced-coffee-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169454",
+      "food_name": "Vanilla Iced Coffee - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-iced-coffee-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169504",
+      "food_name": "Caramel Iced Coffee - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-iced-coffee-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169509",
+      "food_name": "Caramel Iced Coffee - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-iced-coffee-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74137097",
+      "food_name": "Vanilla Americano - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-americano-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168878",
+      "food_name": "Vanilla Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170387",
+      "food_name": "Iced Hazelnut Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-hazelnut-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170444",
+      "food_name": "Cold Brew Latte - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/cold-brew-latte-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169352",
+      "food_name": "Iced Coffee - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-coffee-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170447",
+      "food_name": "Cold Brew Latte - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/cold-brew-latte-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171812",
+      "food_name": "Mango Cold Brew Tea - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mango-cold-brew-tea-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172310",
+      "food_name": "No Sugar Added Vanilla Powder - 1 1/2 Tbsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/no-sugar-added-vanilla-powder-1-1-2-tbsp",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170454",
+      "food_name": "Vanilla Bean Cold Brew Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-bean-cold-brew-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168539",
+      "food_name": "Caramel Americano - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-americano-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171545",
+      "food_name": "Brewed Black Tea - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/brewed-black-tea-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171839",
+      "food_name": "Peach Jasmine Cold Brew Tea - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/peach-jasmine-cold-brew-tea-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172122",
+      "food_name": "Iced Chai Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-chai-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168912",
+      "food_name": "Caramel Latte - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-latte-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169782",
+      "food_name": "Iced Americano - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-americano-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170156",
+      "food_name": "Iced White Chocolate Americano - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-white-chocolate-americano-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172111",
+      "food_name": "Iced Matcha Latte - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-matcha-latte-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172239",
+      "food_name": "Almond Milk - 8 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/almond-milk-8-fl-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169439",
+      "food_name": "Vanilla Iced Coffee - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-iced-coffee-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168884",
+      "food_name": "Vanilla Latte - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-latte-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168936",
+      "food_name": "White Chocolate Latte - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/white-chocolate-latte-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170133",
+      "food_name": "Iced Hazelnut Americano - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-hazelnut-americano-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170391",
+      "food_name": "Iced Hazelnut Latte - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-hazelnut-latte-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170405",
+      "food_name": "Iced White Chocolate Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-white-chocolate-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171835",
+      "food_name": "Peach Jasmine Cold Brew Tea - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/peach-jasmine-cold-brew-tea-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171840",
+      "food_name": "Peach Jasmine Cold Brew Tea - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/peach-jasmine-cold-brew-tea-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74136973",
+      "food_name": "Cappuccino Single Shot - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/cappuccino-single-shot-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74136977",
+      "food_name": "Cappuccino Double Shot - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/cappuccino-double-shot-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74137081",
+      "food_name": "Mocha Americano - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mocha-americano-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168603",
+      "food_name": "Hazelnut Americano - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hazelnut-americano-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168682",
+      "food_name": "White Chocolate Americano - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/white-chocolate-americano-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168927",
+      "food_name": "Hazelnut Latte - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hazelnut-latte-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169789",
+      "food_name": "Iced Americano - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-americano-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170093",
+      "food_name": "Iced Caramel Americano - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-caramel-americano-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170502",
+      "food_name": "Mocha Ice Blended - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mocha-ice-blended-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171572",
+      "food_name": "Brewed Green Tea - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/brewed-green-tea-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172137",
+      "food_name": "Iced Chai Latte - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-chai-latte-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169658",
+      "food_name": "White Chocolate Iced Coffee - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/white-chocolate-iced-coffee-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170496",
+      "food_name": "Vietnamese Cold Brew Coffee - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vietnamese-cold-brew-coffee-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169331",
+      "food_name": "Iced Coffee - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-coffee-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169359",
+      "food_name": "Iced Coffee - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-coffee-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168696",
+      "food_name": "White Chocolate Americano - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/white-chocolate-americano-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168868",
+      "food_name": "Mocha Latte - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mocha-latte-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170079",
+      "food_name": "Iced Vanilla Americano - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-vanilla-americano-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170086",
+      "food_name": "Iced Vanilla Americano - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-vanilla-americano-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170214",
+      "food_name": "Iced Latte - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-latte-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170216",
+      "food_name": "Iced Latte - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-latte-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170326",
+      "food_name": "Iced Mocha Latte - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-mocha-latte-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170505",
+      "food_name": "Mocha Ice Blended - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mocha-ice-blended-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170553",
+      "food_name": "Caramel Ice Blended - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-ice-blended-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170653",
+      "food_name": "Cookies and Cream Ice Blended - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/cookies-and-cream-ice-blended-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170654",
+      "food_name": "Cookies and Cream Ice Blended - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/cookies-and-cream-ice-blended-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171713",
+      "food_name": "Chai Latte - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/chai-latte-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172073",
+      "food_name": "Iced Moroccan Mint Tea Latte with Chocolate - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-moroccan-mint-tea-latte-with-chocolate-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172081",
+      "food_name": "Iced Moroccan Mint Tea Latte with Chocolate - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-moroccan-mint-tea-latte-with-chocolate-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172138",
+      "food_name": "Iced Chai Latte - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-chai-latte-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172342",
+      "food_name": "Hot Chocolate - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hot-chocolate-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74136989",
+      "food_name": "Caramel Cappuccino Single Shot - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-cappuccino-single-shot-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74137090",
+      "food_name": "Mocha Americano - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mocha-americano-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168529",
+      "food_name": "Vanilla Americano - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-americano-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170149",
+      "food_name": "Iced White Chocolate Americano - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-white-chocolate-americano-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170412",
+      "food_name": "Iced White Chocolate Latte - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-white-chocolate-latte-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170418",
+      "food_name": "Iced Dark Chocolate Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-dark-chocolate-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171774",
+      "food_name": "Matcha Latte - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/matcha-latte-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172154",
+      "food_name": "Iced Dirty Chai Latte - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-dirty-chai-latte-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172177",
+      "food_name": "Matcha Ice Blended - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/matcha-ice-blended-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172196",
+      "food_name": "Chai Ice Blended - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/chai-ice-blended-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172225",
+      "food_name": "Whipped Cream - 1.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/whipped-cream-15-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172235",
+      "food_name": "Soy Milk - 8 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/soy-milk-8-fl-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170452",
+      "food_name": "Vanilla Bean Cold Brew Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-bean-cold-brew-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169410",
+      "food_name": "Mocha Iced Coffee - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mocha-iced-coffee-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169511",
+      "food_name": "Caramel Iced Coffee - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-iced-coffee-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170433",
+      "food_name": "Cold Brew Coffee - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/cold-brew-coffee-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169368",
+      "food_name": "Iced Coffee - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-coffee-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169101",
+      "food_name": "Flat White - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/flat-white-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169140",
+      "food_name": "Mocha Flat White - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mocha-flat-white-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169799",
+      "food_name": "Iced Americano - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-americano-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169804",
+      "food_name": "Iced Mocha Americano - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-mocha-americano-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170102",
+      "food_name": "Iced Caramel Americano - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-caramel-americano-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170355",
+      "food_name": "Iced Caramel Latte - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-caramel-latte-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170438",
+      "food_name": "Cold Brew Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/cold-brew-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170515",
+      "food_name": "Vanilla Ice Blended - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-ice-blended-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170577",
+      "food_name": "White Chocolate Ice Blended - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/white-chocolate-ice-blended-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171366",
+      "food_name": "Malibu Dream Ice Blended - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/malibu-dream-ice-blended-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171778",
+      "food_name": "Tea Latte with Vanilla Powder - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/tea-latte-with-vanilla-powder-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171803",
+      "food_name": "Moroccan Mint Tea Latte with Chocolate Powder - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/moroccan-mint-tea-latte-with-chocolate-powder-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171961",
+      "food_name": "Iced Black Tea - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-black-tea-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171971",
+      "food_name": "Iced Black Tea - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-black-tea-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172001",
+      "food_name": "Iced Green Tea - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-green-tea-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172071",
+      "food_name": "Iced Tea Latte with Vanilla Powder - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-tea-latte-with-vanilla-powder-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172116",
+      "food_name": "Iced Tea Lemonade - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-tea-lemonade-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172180",
+      "food_name": "Matcha Ice Blended - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/matcha-ice-blended-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172337",
+      "food_name": "Hot Chocolate - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hot-chocolate-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172345",
+      "food_name": "Hot Chocolate - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hot-chocolate-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74137084",
+      "food_name": "Mocha Americano - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mocha-americano-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168484",
+      "food_name": "Vanilla Americano - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-americano-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168540",
+      "food_name": "Caramel Americano - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-americano-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168681",
+      "food_name": "Hazelnut Americano - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hazelnut-americano-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168711",
+      "food_name": "Dark Chocolate Americano - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/dark-chocolate-americano-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168800",
+      "food_name": "Café Latte - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caf%C3%A9-latte-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169299",
+      "food_name": "Hazelnut Flat White - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hazelnut-flat-white-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169807",
+      "food_name": "Iced Mocha Americano - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-mocha-americano-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170082",
+      "food_name": "Iced Vanilla Americano - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-vanilla-americano-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170106",
+      "food_name": "Iced Caramel Americano - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-caramel-americano-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170125",
+      "food_name": "Iced Hazelnut Americano - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-hazelnut-americano-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170424",
+      "food_name": "Iced Dark Chocolate Latte - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-dark-chocolate-latte-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170477",
+      "food_name": "Midnight Mocha Cold Brew Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/midnight-mocha-cold-brew-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170520",
+      "food_name": "Vanilla Ice Blended - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-ice-blended-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170574",
+      "food_name": "White Chocolate Ice Blended - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/white-chocolate-ice-blended-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170638",
+      "food_name": "Black Forest Ice Blended - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/black-forest-ice-blended-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171355",
+      "food_name": "Cookies and Cream Ice Blended - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/cookies-and-cream-ice-blended-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171783",
+      "food_name": "Tea Latte with Vanilla Powder - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/tea-latte-with-vanilla-powder-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171848",
+      "food_name": "Blood Orange Cold Brew Tea - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/blood-orange-cold-brew-tea-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171918",
+      "food_name": "Blood Orange Cold Brew Tea - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/blood-orange-cold-brew-tea-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172011",
+      "food_name": "Iced Green Tea - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-green-tea-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172056",
+      "food_name": "Iced Tea Latte with Vanilla Powder - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-tea-latte-with-vanilla-powder-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172187",
+      "food_name": "Matcha Ice Blended - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/matcha-ice-blended-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172332",
+      "food_name": "Dark Chocolate Powder - 1/4 Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/dark-chocolate-powder-1-4-cup",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170457",
+      "food_name": "Vanilla Bean Cold Brew Latte - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-bean-cold-brew-latte-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169566",
+      "food_name": "White Chocolate Iced Coffee - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/white-chocolate-iced-coffee-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169675",
+      "food_name": "Dark Chocolate Iced Coffee - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/dark-chocolate-iced-coffee-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169745",
+      "food_name": "Dark Chocolate Iced Coffee - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/dark-chocolate-iced-coffee-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169666",
+      "food_name": "White Chocolate Iced Coffee - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/white-chocolate-iced-coffee-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169491",
+      "food_name": "Vanilla Iced Coffee - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-iced-coffee-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169495",
+      "food_name": "Caramel Iced Coffee - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-iced-coffee-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169529",
+      "food_name": "Hazelnut Iced Coffee - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hazelnut-iced-coffee-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168773",
+      "food_name": "Dark Chocolate Americano - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/dark-chocolate-americano-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169008",
+      "food_name": "Dark Chocolate Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/dark-chocolate-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169024",
+      "food_name": "Dark Chocolate Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/dark-chocolate-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169094",
+      "food_name": "Dark Chocolate Latte - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/dark-chocolate-latte-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169144",
+      "food_name": "Mocha Flat White - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mocha-flat-white-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169149",
+      "food_name": "Vanilla Flat White - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-flat-white-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169153",
+      "food_name": "Vanilla Flat White - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-flat-white-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169159",
+      "food_name": "Vanilla Flat White - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-flat-white-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169170",
+      "food_name": "Caramel Flat White - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-flat-white-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169318",
+      "food_name": "White Chocolate Flat White - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/white-chocolate-flat-white-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169319",
+      "food_name": "White Chocolate Flat White - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/white-chocolate-flat-white-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170091",
+      "food_name": "Iced Caramel Americano - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-caramel-americano-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170139",
+      "food_name": "Iced Hazelnut Americano - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-hazelnut-americano-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170161",
+      "food_name": "Iced White Chocolate Americano - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-white-chocolate-americano-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170170",
+      "food_name": "Iced White Chocolate Americano - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-white-chocolate-americano-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170183",
+      "food_name": "Iced Dark Chocolate Americano - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-dark-chocolate-americano-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170335",
+      "food_name": "Iced Mocha Latte - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-mocha-latte-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170440",
+      "food_name": "Cold Brew Latte - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/cold-brew-latte-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170475",
+      "food_name": "Midnight Mocha Cold Brew Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/midnight-mocha-cold-brew-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170511",
+      "food_name": "Mocha Ice Blended - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mocha-ice-blended-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170517",
+      "food_name": "Vanilla Ice Blended - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-ice-blended-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170542",
+      "food_name": "Caramel Ice Blended - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-ice-blended-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170556",
+      "food_name": "Caramel Ice Blended - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-ice-blended-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170562",
+      "food_name": "Hazelnut Ice Blended - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hazelnut-ice-blended-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170570",
+      "food_name": "Hazelnut Ice Blended - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hazelnut-ice-blended-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170580",
+      "food_name": "White Chocolate Ice Blended - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/white-chocolate-ice-blended-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170584",
+      "food_name": "White Chocolate Ice Blended - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/white-chocolate-ice-blended-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170610",
+      "food_name": "Hazelnut Ice Blended - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hazelnut-ice-blended-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170616",
+      "food_name": "Dark Chocolate Ice Blended - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/dark-chocolate-ice-blended-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170620",
+      "food_name": "Dark Chocolate Ice Blended - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/dark-chocolate-ice-blended-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170625",
+      "food_name": "Dark Chocolate Ice Blended - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/dark-chocolate-ice-blended-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170636",
+      "food_name": "Black Forest Ice Blended - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/black-forest-ice-blended-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170646",
+      "food_name": "Black Forest Ice Blended - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/black-forest-ice-blended-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170656",
+      "food_name": "Cookies and Cream Ice Blended - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/cookies-and-cream-ice-blended-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171371",
+      "food_name": "Malibu Dream Ice Blended - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/malibu-dream-ice-blended-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171372",
+      "food_name": "Malibu Dream Ice Blended - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/malibu-dream-ice-blended-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171388",
+      "food_name": "Pomblue Ice Blended - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pomblue-ice-blended-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171412",
+      "food_name": "Pure Chocolate Ice Blended - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pure-chocolate-ice-blended-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171417",
+      "food_name": "Pure Chocolate Ice Blended - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pure-chocolate-ice-blended-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171420",
+      "food_name": "Pure Chocolate Ice Blended - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pure-chocolate-ice-blended-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171454",
+      "food_name": "Pure Vanilla Ice Blended - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pure-vanilla-ice-blended-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171546",
+      "food_name": "Brewed Black Tea - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/brewed-black-tea-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171606",
+      "food_name": "Brewed Green Tea - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/brewed-green-tea-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171822",
+      "food_name": "Mango Cold Brew Tea - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mango-cold-brew-tea-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171832",
+      "food_name": "Mango Cold Brew Tea - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mango-cold-brew-tea-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171930",
+      "food_name": "Blood Orange Cold Brew Tea - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/blood-orange-cold-brew-tea-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171949",
+      "food_name": "Raspberry Black Cold Brew Tea - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/raspberry-black-cold-brew-tea-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171956",
+      "food_name": "Raspberry Black Cold Brew Tea - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/raspberry-black-cold-brew-tea-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171991",
+      "food_name": "Iced Black Tea - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-black-tea-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172017",
+      "food_name": "Iced Green Tea - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-green-tea-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172023",
+      "food_name": "Iced Green Tea - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-green-tea-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172037",
+      "food_name": "Iced Swedish Berries Infusion - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-swedish-berries-infusion-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172038",
+      "food_name": "Iced Swedish Berries Infusion - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-swedish-berries-infusion-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172061",
+      "food_name": "Iced Tea Latte with Vanilla Powder - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-tea-latte-with-vanilla-powder-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172114",
+      "food_name": "Iced Tea Lemonade - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-tea-lemonade-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172158",
+      "food_name": "Malibu Dream Ice Blended - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/malibu-dream-ice-blended-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172165",
+      "food_name": "Pomegranate Ice Blended - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pomegranate-ice-blended-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172206",
+      "food_name": "Chai Ice Blended - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/chai-ice-blended-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172221",
+      "food_name": "Chai Ice Blended - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/chai-ice-blended-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172291",
+      "food_name": "Chocolate Swirl - 0.5 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/chocolate-swirl-05-fl-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172304",
+      "food_name": "Vanilla Powder - 1/4 Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-powder-1-4-cup",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172322",
+      "food_name": "Hazelnut Powder - 1/4 Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hazelnut-powder-1-4-cup",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172350",
+      "food_name": "Hot Chocolate Java-to-Go - 96 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hot-chocolate-java-to-go-96-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172354",
+      "food_name": "Hot Vanilla - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hot-vanilla-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172365",
+      "food_name": "Hot Vanilla - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hot-vanilla-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74136994",
+      "food_name": "Caramel Cappuccino Double Shot - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-cappuccino-double-shot-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168554",
+      "food_name": "Caramel Americano - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-americano-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168658",
+      "food_name": "Hazelnut Americano - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hazelnut-americano-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168691",
+      "food_name": "White Chocolate Americano - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/white-chocolate-americano-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74168758",
+      "food_name": "Dark Chocolate Americano - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/dark-chocolate-americano-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169129",
+      "food_name": "Flat White - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/flat-white-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169136",
+      "food_name": "Mocha Flat White - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/mocha-flat-white-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169166",
+      "food_name": "Caramel Flat White - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-flat-white-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169173",
+      "food_name": "Caramel Flat White - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-flat-white-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169801",
+      "food_name": "Iced Mocha Americano - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-mocha-americano-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170041",
+      "food_name": "Hazelnut Flat White - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hazelnut-flat-white-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170074",
+      "food_name": "Iced Vanilla Americano - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-vanilla-americano-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170147",
+      "food_name": "Iced Hazelnut Americano - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-hazelnut-americano-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170175",
+      "food_name": "Iced Dark Chocolate Americano - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-dark-chocolate-americano-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170179",
+      "food_name": "Iced Dark Chocolate Americano - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-dark-chocolate-americano-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170184",
+      "food_name": "Iced Dark Chocolate Americano - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-dark-chocolate-americano-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170230",
+      "food_name": "Iced Vanilla Latte - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-vanilla-latte-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170367",
+      "food_name": "Iced Caramel Latte - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-caramel-latte-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170396",
+      "food_name": "Iced Hazelnut Latte - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-hazelnut-latte-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170408",
+      "food_name": "Iced White Chocolate Latte - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-white-chocolate-latte-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170414",
+      "food_name": "Iced Dark Chocolate Latte - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-dark-chocolate-latte-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170425",
+      "food_name": "Iced Dark Chocolate Latte - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-dark-chocolate-latte-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170478",
+      "food_name": "Midnight Mocha Cold Brew Latte - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/midnight-mocha-cold-brew-latte-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170482",
+      "food_name": "Midnight Mocha Cold Brew Latte - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/midnight-mocha-cold-brew-latte-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170537",
+      "food_name": "Vanilla Ice Blended - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/vanilla-ice-blended-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170548",
+      "food_name": "Caramel Ice Blended - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/caramel-ice-blended-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170565",
+      "food_name": "Hazelnut Ice Blended - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hazelnut-ice-blended-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170628",
+      "food_name": "Dark Chocolate Ice Blended - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/dark-chocolate-ice-blended-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74170647",
+      "food_name": "Black Forest Ice Blended - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/black-forest-ice-blended-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171390",
+      "food_name": "Pomblue Ice Blended - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pomblue-ice-blended-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171402",
+      "food_name": "Pomblue Ice Blended - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pomblue-ice-blended-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171410",
+      "food_name": "Pomblue Ice Blended - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pomblue-ice-blended-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171423",
+      "food_name": "Pure Chocolate Ice Blended - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pure-chocolate-ice-blended-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171432",
+      "food_name": "Pure Vanilla Ice Blended - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pure-vanilla-ice-blended-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171451",
+      "food_name": "Pure Vanilla Ice Blended - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pure-vanilla-ice-blended-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171453",
+      "food_name": "Pure Vanilla Ice Blended - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pure-vanilla-ice-blended-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171477",
+      "food_name": "Pure Cookies & Cream Ice Blended - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pure-cookies-cream-ice-blended-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171489",
+      "food_name": "Pure Cookies & Cream Ice Blended - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pure-cookies-cream-ice-blended-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171493",
+      "food_name": "Pure Cookies & Cream Ice Blended - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pure-cookies-cream-ice-blended-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171495",
+      "food_name": "Pure Cookies & Cream Ice Blended - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pure-cookies-cream-ice-blended-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171550",
+      "food_name": "Brewed Black Tea - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/brewed-black-tea-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171669",
+      "food_name": "Brewed Green Tea - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/brewed-green-tea-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171796",
+      "food_name": "Tea Latte with Vanilla Powder - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/tea-latte-with-vanilla-powder-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171802",
+      "food_name": "Moroccan Mint Tea Latte with Chocolate Powder - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/moroccan-mint-tea-latte-with-chocolate-powder-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171805",
+      "food_name": "Moroccan Mint Tea Latte with Chocolate Powder - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/moroccan-mint-tea-latte-with-chocolate-powder-20-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171845",
+      "food_name": "Peach Jasmine Cold Brew Tea - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/peach-jasmine-cold-brew-tea-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171923",
+      "food_name": "Blood Orange Cold Brew Tea - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/blood-orange-cold-brew-tea-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171936",
+      "food_name": "Raspberry Black Cold Brew Tea - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/raspberry-black-cold-brew-tea-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171945",
+      "food_name": "Raspberry Black Cold Brew Tea - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/raspberry-black-cold-brew-tea-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74171977",
+      "food_name": "Iced Black Tea - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-black-tea-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172030",
+      "food_name": "Iced Swedish Berries Infusion - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-swedish-berries-infusion-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172042",
+      "food_name": "Iced Swedish Berries Infusion - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-swedish-berries-infusion-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172046",
+      "food_name": "Iced Tea Latte with Vanilla Powder - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-tea-latte-with-vanilla-powder-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172077",
+      "food_name": "Iced Moroccan Mint Tea Latte with Chocolate - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-moroccan-mint-tea-latte-with-chocolate-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172079",
+      "food_name": "Iced Moroccan Mint Tea Latte with Chocolate - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-moroccan-mint-tea-latte-with-chocolate-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172117",
+      "food_name": "Iced Tea Lemonade - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-tea-lemonade-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172121",
+      "food_name": "Iced Tea Lemonade - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/iced-tea-lemonade-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172161",
+      "food_name": "Pomegranate Ice Blended - 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pomegranate-ice-blended-12-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172171",
+      "food_name": "Pomegranate Ice Blended - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pomegranate-ice-blended-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172173",
+      "food_name": "Pomegranate Ice Blended - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/pomegranate-ice-blended-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172192",
+      "food_name": "Matcha Ice Blended - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/matcha-ice-blended-32-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172214",
+      "food_name": "Chai Ice Blended - 24 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/chai-ice-blended-24-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172301",
+      "food_name": "Cookie Pieces - 1 Scoop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/cookie-pieces-1-scoop",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172312",
+      "food_name": "Chocolate Powder - 1/4 Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/chocolate-powder-1-4-cup",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172320",
+      "food_name": "No Sugar Added Chocolate Powder - 1 1/2 Tbsp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/no-sugar-added-chocolate-powder-1-1-2-tbsp",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74172360",
+      "food_name": "Hot Vanilla - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coffee-bean/hot-vanilla-16-oz",
+      "brand_name": "Coffee Bean",
+      "food_type": "Brand"
+    }
+  ]
+}

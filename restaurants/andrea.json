@@ -1,0 +1,48 @@
+{
+  "restaurant": "Andrea",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:18:38.156Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/andrea.json",
+  "items": [
+    {
+      "food_id": "2960592",
+      "food_name": "Lobster Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/andrea/lobster-ravioli",
+      "brand_name": "Andrea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14363652",
+      "food_name": "Cavatelli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/andrea/cavatelli",
+      "brand_name": "Andrea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9500867",
+      "food_name": "Large Round Cheese Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/andrea/large-round-cheese-ravioli",
+      "brand_name": "Andrea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76826",
+      "food_name": "Bite Size Cheese Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/andrea/bite-size-cheese-ravioli",
+      "brand_name": "Andrea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44537395",
+      "food_name": "Potato Gnocchi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/andrea/potato-gnocchi",
+      "brand_name": "Andrea",
+      "food_type": "Brand"
+    }
+  ]
+}

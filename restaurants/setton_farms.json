@@ -1,0 +1,83 @@
+{
+  "restaurant": "Setton Farms",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 20,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:49:28.233Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/setton_farms.json",
+  "items": [
+    {
+      "food_id": "16005805",
+      "food_name": "Dark Chocolate Pistachios",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/setton-farms/dark-chocolate-pistachios",
+      "brand_name": "Setton Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19541053",
+      "food_name": "Salt & Pepper Pistachios",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/setton-farms/salt-pepper-pistachios",
+      "brand_name": "Setton Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7477095",
+      "food_name": "Roasted Salted Edamame",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/setton-farms/roasted-salted-edamame",
+      "brand_name": "Setton Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59762904",
+      "food_name": "Dark Chocolate Pistachios & Cranberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/setton-farms/dark-chocolate-pistachios-cranberries",
+      "brand_name": "Setton Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33910830",
+      "food_name": "Chipotle BBQ Pistachios",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/setton-farms/chipotle-bbq-pistachios",
+      "brand_name": "Setton Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19929128",
+      "food_name": "Pistachio Nut Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/setton-farms/pistachio-nut-blend",
+      "brand_name": "Setton Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74169383",
+      "food_name": "Dry Roasted Garlic Onion Pistachios",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/setton-farms/dry-roasted-garlic-onion-pistachios",
+      "brand_name": "Setton Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55018694",
+      "food_name": "Mixed Nuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/setton-farms/mixed-nuts",
+      "brand_name": "Setton Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88523729",
+      "food_name": "Organic Shelled Pistachios",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/setton-farms/organic-shelled-pistachios",
+      "brand_name": "Setton Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87513846",
+      "food_name": "Dry Roasted Chili & Lime Pistachios",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/setton-farms/dry-roasted-chili-lime-pistachios",
+      "brand_name": "Setton Farms",
+      "food_type": "Brand"
+    }
+  ]
+}

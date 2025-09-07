@@ -1,0 +1,55 @@
+{
+  "restaurant": "Blue Sea",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 1762,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:42:15.480Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/blue_sea.json",
+  "items": [
+    {
+      "food_id": "15765959",
+      "food_name": "Raw Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-sea/raw-shrimp",
+      "brand_name": "Blue Sea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57877098",
+      "food_name": "Salmon Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-sea/salmon-fillets",
+      "brand_name": "Blue Sea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7698523",
+      "food_name": "Cooked Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-sea/cooked-shrimp",
+      "brand_name": "Blue Sea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20476675",
+      "food_name": "Cod Fillet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-sea/cod-fillet",
+      "brand_name": "Blue Sea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34459812",
+      "food_name": "Flounder Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-sea/flounder-fillets",
+      "brand_name": "Blue Sea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45335739",
+      "food_name": "Tilapia Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/blue-sea/tilapia-fillets",
+      "brand_name": "Blue Sea",
+      "food_type": "Brand"
+    }
+  ]
+}

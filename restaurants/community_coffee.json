@@ -1,0 +1,62 @@
+{
+  "restaurant": "Community Coffee",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 1633,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:38:14.124Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/community_coffee.json",
+  "items": [
+    {
+      "food_id": "230101",
+      "food_name": "French Vanilla Cappuccino Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/community-coffee/french-vanilla-cappuccino-coffee",
+      "brand_name": "Community Coffee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18249837",
+      "food_name": "Cafe Special",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/community-coffee/cafe-special",
+      "brand_name": "Community Coffee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "233576",
+      "food_name": "Coffee Creamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/community-coffee/coffee-creamer",
+      "brand_name": "Community Coffee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "230107",
+      "food_name": "Mocha Cappuccino Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/community-coffee/mocha-cappuccino-coffee",
+      "brand_name": "Community Coffee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81474440",
+      "food_name": "Espresso + Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/community-coffee/espresso-cream",
+      "brand_name": "Community Coffee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1269689",
+      "food_name": "Mochasippi Premium Coffee Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/community-coffee/mochasippi-premium-coffee-drink",
+      "brand_name": "Community Coffee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "233573",
+      "food_name": "Rich and Creamy Creamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/community-coffee/rich-and-creamy-creamer",
+      "brand_name": "Community Coffee",
+      "food_type": "Brand"
+    }
+  ]
+}

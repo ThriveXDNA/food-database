@@ -1,0 +1,27 @@
+{
+  "restaurant": "The Cookie Factory",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 2987,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:05:10.119Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_cookie_factory.json",
+  "items": [
+    {
+      "food_id": "4631484",
+      "food_name": "Apple Cider Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-cookie-factory/apple-cider-donut",
+      "brand_name": "The Cookie Factory",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3228472",
+      "food_name": "Caramel Apple Crunch Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-cookie-factory/caramel-apple-crunch-cookie",
+      "brand_name": "The Cookie Factory",
+      "food_type": "Brand"
+    }
+  ]
+}

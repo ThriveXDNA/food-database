@@ -1,0 +1,1691 @@
+{
+  "restaurant": "Subway",
+  "total_items": 240,
+  "pages_extracted": 5,
+  "last_updated": "2025-09-06T06:42:30.907Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Restaurant search with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/subway.json",
+  "items": [
+    {
+      "food_id": "68266000",
+      "food_name": "6-inch Oven Roasted Turkey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-oven-roasted-turkey",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68265948",
+      "food_name": "6-inch Subway Club",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-subway-club",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266036",
+      "food_name": "6-inch Tuna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-tuna",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543369",
+      "food_name": "Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/chocolate-chip-cookie",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542067",
+      "food_name": "6-inch Titan Turkey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-titan-turkey",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542094",
+      "food_name": "6-inch Elite Chicken & Bacon Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-elite-chicken-bacon-ranch",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542090",
+      "food_name": "6-inch All-Pro Sweet Onion Teriyaki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-all-pro-sweet-onion-teriyaki",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266007",
+      "food_name": "6-inch Rotisserie-Style Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-rotisserie-style-chicken",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542082",
+      "food_name": "6-inch Ultimate B.M.T.",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-ultimate-bmt",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68265981",
+      "food_name": "6-inch Cold Cut Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-cold-cut-combo",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68265996",
+      "food_name": "6-inch Meatball Marinara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-meatball-marinara",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "678710",
+      "food_name": "Mayonnaise",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/mayonnaise",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542617",
+      "food_name": "Grilled Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/grilled-chicken-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267059",
+      "food_name": "6-inch Italian Herbs & Cheese Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-italian-herbs-cheese-bread",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68265964",
+      "food_name": "6-inch Black Forest Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-black-forest-ham",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267050",
+      "food_name": "6-inch Artisan Italian Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-artisan-italian-bread",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267580",
+      "food_name": "Provolone",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/provolone",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267057",
+      "food_name": "6-inch Hearty Multigrain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-hearty-multigrain-bread",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542085",
+      "food_name": "6-inch Hotshot Italiano",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-hotshot-italiano",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543774",
+      "food_name": "White Chip Macadamia Nut Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/white-chip-macadamia-nut-cookie",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267665",
+      "food_name": "Oven Roasted Turkey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/oven-roasted-turkey",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267519",
+      "food_name": "Lettuce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/lettuce",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266040",
+      "food_name": "6-inch Veggie Delite",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-veggie-delite",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267633",
+      "food_name": "Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/grilled-chicken",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542099",
+      "food_name": "6-inch Steak (Includes American Cheese)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-steak-(includes-american-cheese)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266063",
+      "food_name": "6-inch Oven Roasted Turkey and Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-oven-roasted-turkey-and-ham",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266049",
+      "food_name": "6-inch Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-grilled-chicken",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543177",
+      "food_name": "Tomatoes (3 Wheels)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/tomatoes-(3-wheels)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13927349",
+      "food_name": "Rotisserie-Style Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/rotisserie-style-chicken",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543671",
+      "food_name": "Oatmeal Raisin Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/oatmeal-raisin-cookie",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68265944",
+      "food_name": "6-inch All-American Club",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-all-american-club",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69929381",
+      "food_name": "Double Chocolate Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/double-chocolate-cookie",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "727203",
+      "food_name": "Onions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/onions",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68265895",
+      "food_name": "6-inch The Outlaw",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-the-outlaw",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266003",
+      "food_name": "6-inch Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-roast-beef",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543116",
+      "food_name": "Baja Chipotle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/baja-chipotle",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267551",
+      "food_name": "Spinach, Baby",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/spinach-baby",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543132",
+      "food_name": "Cucumbers (3 Slices)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/cucumbers-(3-slices)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267591",
+      "food_name": "Black Forest Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/black-forest-ham",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68265915",
+      "food_name": "6-inch The Boss",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-the-boss",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267193",
+      "food_name": "Honey Mustard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/honey-mustard",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267648",
+      "food_name": "Grilled Chicken, Sweet Onion Teriyaki Glazed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/grilled-chicken-sweet-onion-teriyaki-glazed",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542077",
+      "food_name": "6-inch The Beast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-the-beast",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542548",
+      "food_name": "6-inch B.L.T.",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-blt",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543232",
+      "food_name": "Bacon (2 Strips)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/bacon-(2-strips)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543146",
+      "food_name": "Green Peppers (3 Strips)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/green-peppers-(3-strips)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543077",
+      "food_name": "Ham & Jack Sliders (includes Pepper Jack Cheese)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/ham-jack-sliders-(includes-pepper-jack-cheese)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543172",
+      "food_name": "Pickles, Crinkle (3 Chips)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/pickles-crinkle-(3-chips)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267715",
+      "food_name": "Steak (no cheese)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/steak-(no-cheese)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22316125",
+      "food_name": "Tuna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/tuna",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543129",
+      "food_name": "Banana Peppers (3 Rings)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/banana-peppers-(3-rings)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542639",
+      "food_name": "Rotisserie-Style Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/rotisserie-style-chicken-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543196",
+      "food_name": "Pepper Jack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/pepper-jack",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68265973",
+      "food_name": "6-inch Buffalo Chicken (with Grilled Chicken)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-buffalo-chicken-(with-grilled-chicken)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542597",
+      "food_name": "Buffalo Chicken Wrap (with Grilled Chicken)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/buffalo-chicken-wrap-(with-grilled-chicken)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267258",
+      "food_name": "Roasted Garlic Aioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/roasted-garlic-aioli",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543359",
+      "food_name": "Subway Club Meats (Turkey, Ham, Roast Beef)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/subway-club-meats-(turkey-ham-roast-beef)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543165",
+      "food_name": "Olives, Black (3 Rings)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/olives-black-(3-rings)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267561",
+      "food_name": "Monterey Cheddar, Shredded",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/monterey-cheddar-shredded",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542626",
+      "food_name": "Oven Roasted Turkey Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/oven-roasted-turkey-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266069",
+      "food_name": "6-inch Pizza Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-pizza-sub",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267280",
+      "food_name": "Avocado, Smashed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/avocado-smashed",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543264",
+      "food_name": "Pepperoni, (3 Slices)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/pepperoni-(3-slices)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542643",
+      "food_name": "Steak Wrap (Includes American Cheese)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/steak-wrap-(includes-american-cheese)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267078",
+      "food_name": "Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542073",
+      "food_name": "6-inch Garlic Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-garlic-roast-beef",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267231",
+      "food_name": "Mustard, Yellow",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/mustard-yellow",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266820",
+      "food_name": "Grilled Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/grilled-chicken-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299862",
+      "food_name": "American Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/american-cheese",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543154",
+      "food_name": "Jalapeno Peppers (3 Rings)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/jalapeno-peppers-(3-rings)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267277",
+      "food_name": "Avocado, Sliced",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/avocado-sliced",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299154",
+      "food_name": "6-inch The Philly Steak & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-the-philly-steak-cheese",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4337040",
+      "food_name": "Tuna Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/tuna-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3977181",
+      "food_name": "Cold Cut Combo Meats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/cold-cut-combo-meats",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68681392",
+      "food_name": "Rotisserie-Style Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/rotisserie-style-chicken-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68265952",
+      "food_name": "6-inch Turkey Cali Club (with Smashed Avocado)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-turkey-cali-club-(with-smashed-avocado)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77978",
+      "food_name": "Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/roast-beef",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542914",
+      "food_name": "6-Inch Steak, Egg & Cheese Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-steak-egg-cheese-flatbread",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266071",
+      "food_name": "6-inch Veggie Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-veggie-patty",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4144738",
+      "food_name": "Veggie Delite Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/veggie-delite-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543263",
+      "food_name": "Genoa Salami (3 Slices)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/genoa-salami-(3-slices)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543253",
+      "food_name": "Egg Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/egg-patty",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267239",
+      "food_name": "MVP Parmesan Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/mvp-parmesan-vinaigrette",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299846",
+      "food_name": "Sweet Onion Teriyaki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/sweet-onion-teriyaki",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543075",
+      "food_name": "8-Inch Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/8-inch-pepperoni-pizza",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542678",
+      "food_name": "Veggie Delite Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/veggie-delite-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543226",
+      "food_name": "All-American Club Meats (Ham, Turkey, Bacon)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/all-american-club-meats-(ham-turkey-bacon)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542825",
+      "food_name": "Oven Roasted Turkey & Ham Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/oven-roasted-turkey-ham-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266810",
+      "food_name": "Oven Roasted Turkey Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/oven-roasted-turkey-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542649",
+      "food_name": "Tuna Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/tuna-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542900",
+      "food_name": "6-Inch Black Forest Ham, Egg & Cheese Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-black-forest-ham-egg-cheese-flatbread",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542908",
+      "food_name": "6-Inch Egg & Cheese Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-egg-cheese-flatbread",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543062",
+      "food_name": "8-Inch Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/8-inch-cheese-pizza",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543099",
+      "food_name": "Turkey Sliders (includes Pepper Jack Cheese and Mayonnaise)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/turkey-sliders-(includes-pepper-jack-cheese-and-mayonnaise)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542912",
+      "food_name": "6-Inch Bacon, Egg & Cheese Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-bacon-egg-cheese-flatbread",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68265902",
+      "food_name": "6-inch The Monster",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-the-monster",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542621",
+      "food_name": "Meatball Marinara Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/meatball-marinara-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299685",
+      "food_name": "Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/flatbread",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542606",
+      "food_name": "Cold Cut Combo Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/cold-cut-combo-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267084",
+      "food_name": "Mini Hearty Multigrain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/mini-hearty-multigrain-bread",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542916",
+      "food_name": "6-inch Black Forest Ham, Egg & Cheese Artisan Italian",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-black-forest-ham-egg-cheese-artisan-italian",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267663",
+      "food_name": "Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/meatballs",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267081",
+      "food_name": "Mini Artisan Italian Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/mini-artisan-italian-bread",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542813",
+      "food_name": "B.L.T. Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/blt-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4080286",
+      "food_name": "Veggie Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/veggie-patty",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68265955",
+      "food_name": "6-inch Turkey Cali Club (with Sliced Avocado)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-turkey-cali-club-(with-sliced-avocado)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266043",
+      "food_name": "6-inch Big Hot Pastrami",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-big-hot-pastrami",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543078",
+      "food_name": "Italian Spice Sliders (includes American Cheese and MVP Parmesan Vinaigrette)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/italian-spice-sliders-(includes-american-cheese-and-mvp-parmesan-vinaigrette)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542858",
+      "food_name": "Steak Salad (Includes American Cheese)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/steak-salad-(includes-american-cheese)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91844848",
+      "food_name": "Pepperoni and Cheese Dipper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/pepperoni-and-cheese-dipper",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542587",
+      "food_name": "Black Forest Ham Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/black-forest-ham-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543018",
+      "food_name": "6-inch Steak, Egg & Cheese Artisan Italian",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-steak-egg-cheese-artisan-italian",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542845",
+      "food_name": "Veggie Patty Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/veggie-patty-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542920",
+      "food_name": "6-inch Egg & Cheese Artisan Italian",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-egg-cheese-artisan-italian",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299372",
+      "food_name": "Turkey, Bacon & Avocado Wrap (with Smashed Avocado)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/turkey-bacon-avocado-wrap-(with-smashed-avocado)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98729393",
+      "food_name": "Subkrunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/subkrunch",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299336",
+      "food_name": "Honey Mustard Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/honey-mustard-chicken-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299583",
+      "food_name": "Rotisserie-Style Chicken - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/rotisserie-style-chicken-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299762",
+      "food_name": "6-inch Homerun Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-homerun-ham",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299552",
+      "food_name": "Grilled Chicken - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/grilled-chicken-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266785",
+      "food_name": "Cold Cut Combo Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/cold-cut-combo-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267257",
+      "food_name": "Red Wine Vinegar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/red-wine-vinegar",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266828",
+      "food_name": "Oven Roasted Turkey & Ham Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/oven-roasted-turkey-ham-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267265",
+      "food_name": "Pepper, Black",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/pepper-black",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267573",
+      "food_name": "Parmesan Grated",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/parmesan-grated",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543013",
+      "food_name": "6-inch Bacon, Egg & Cheese Artisan Italian",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-bacon-egg-cheese-artisan-italian",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299196",
+      "food_name": "6-inch Spicy Nacho Chicken (on Italian Bread)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-spicy-nacho-chicken-(on-italian-bread)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266816",
+      "food_name": "B.L.T. Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/blt-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542836",
+      "food_name": "Pizza Sub Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/pizza-sub-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543811",
+      "food_name": "Pretzel, Footlong",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/pretzel-footlong",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4200066",
+      "food_name": "Roast Beef Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/roast-beef-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266825",
+      "food_name": "Oven Roasted Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/oven-roasted-chicken-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299884",
+      "food_name": "Naturally Flavored Raspberry Cheesecake Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/naturally-flavored-raspberry-cheesecake-cookie",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299346",
+      "food_name": "Subway Club Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/subway-club-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68265933",
+      "food_name": "6-inch The Great Garlic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-the-great-garlic",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267062",
+      "food_name": "6-inch Jalapeño Cheddar Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-jalape%C3%B1o-cheddar-bread",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299324",
+      "food_name": "Homestyle Chicken Salad Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/homestyle-chicken-salad-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299807",
+      "food_name": "Olive Oil Blend & Vinegar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/olive-oil-blend-vinegar",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2974796",
+      "food_name": "Black Forest Ham Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/black-forest-ham-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267566",
+      "food_name": "Mozzarella, Shredded",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/mozzarella-shredded",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267636",
+      "food_name": "Grilled Chicken, Buffalo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/grilled-chicken-buffalo",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543070",
+      "food_name": "8-Inch Meatball Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/8-inch-meatball-pizza",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299170",
+      "food_name": "6-inch Honey Mustard BBQ Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-honey-mustard-bbq-chicken",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267274",
+      "food_name": "Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/salt",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299163",
+      "food_name": "6-inch Cheesy Garlic Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-cheesy-garlic-steak",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299415",
+      "food_name": "Elite Chicken & Bacon Ranch Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/elite-chicken-bacon-ranch-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299267",
+      "food_name": "Elite Chicken & Bacon Ranch Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/elite-chicken-bacon-ranch-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299441",
+      "food_name": "Titan Turkey Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/titan-turkey-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299819",
+      "food_name": "Peppercorn Ranch Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/peppercorn-ranch-sauce",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266829",
+      "food_name": "Pizza Sub Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/pizza-sub-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267285",
+      "food_name": "Green Chiles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/green-chiles",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299229",
+      "food_name": "Oven Roasted Turkey - Kids' Mini Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/oven-roasted-turkey-kids-mini-sub",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299500",
+      "food_name": "The Philly Steak & Cheese - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/the-philly-steak-cheese-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299586",
+      "food_name": "Steak - No Bready Bowl (Includes American Cheese)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/steak-no-bready-bowl-(includes-american-cheese)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299240",
+      "food_name": "All-American Club Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/all-american-club-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299436",
+      "food_name": "The Hotshot Italiano Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/the-hotshot-italiano-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543122",
+      "food_name": "Frank's Redhot Buffalo Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/franks-redhot-buffalo-sauce",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299596",
+      "food_name": "Tuna - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/tuna-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299890",
+      "food_name": "Cookie, Footlong Chocolate Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/cookie-footlong-chocolate-chip",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299400",
+      "food_name": "All-Pro Sweet Onion Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/all-pro-sweet-onion-chicken-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299438",
+      "food_name": "The Philly Steak & Cheese Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/the-philly-steak-cheese-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299840",
+      "food_name": "Sriracha Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/sriracha-sauce",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266833",
+      "food_name": "Veggie Patty Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/veggie-patty-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299327",
+      "food_name": "Honey Mustard BBQ Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/honey-mustard-bbq-chicken-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299361",
+      "food_name": "The Philly Steak & Cheese Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/the-philly-steak-cheese-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299504",
+      "food_name": "Titan Turkey - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/titan-turkey-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299775",
+      "food_name": "All-Pro Sweet Onion Chicken - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/all-pro-sweet-onion-chicken-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299915",
+      "food_name": "Chicken & Cheese Dipper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/chicken-cheese-dipper",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543068",
+      "food_name": "8-Inch Bacon Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/8-inch-bacon-pizza",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299785",
+      "food_name": "BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/bbq-sauce",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299806",
+      "food_name": "Olive Oil Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/olive-oil-blend",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299430",
+      "food_name": "Subway Club Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/subway-club-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266813",
+      "food_name": "Big Hot Pastrami Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/big-hot-pastrami-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20192396",
+      "food_name": "Giardiniera",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/giardiniera",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83542780",
+      "food_name": "Big Hot Pastrami Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/big-hot-pastrami-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299241",
+      "food_name": "All-Pro Sweet Onion Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/all-pro-sweet-onion-chicken-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299443",
+      "food_name": "The Ultimate B.M.T. Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/the-ultimate-bmt-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299467",
+      "food_name": "Elite Chicken & Bacon Ranch - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/elite-chicken-bacon-ranch-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299674",
+      "food_name": "Steak, Egg & Cheese Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/steak-egg-cheese-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299971",
+      "food_name": "Loaded Baked Potato with Bacon Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/loaded-baked-potato-with-bacon-soup",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68266807",
+      "food_name": "Meatball Marinara Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/meatball-marinara-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299252",
+      "food_name": "Cheesy Garlic Steak Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/cheesy-garlic-steak-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299784",
+      "food_name": "6-inch Honey Oat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-honey-oat-bread",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299800",
+      "food_name": "Cheddar Cheese Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/cheddar-cheese-sauce",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299881",
+      "food_name": "Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/chicken-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299489",
+      "food_name": "Subway Club - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/subway-club-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299459",
+      "food_name": "All-American Club - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/all-american-club-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299606",
+      "food_name": "B.L.T. - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/blt-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299805",
+      "food_name": "Hot Honey Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/hot-honey-sauce",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299533",
+      "food_name": "Buffalo Chicken - No Bready Bowl (with Grilled Chicken)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/buffalo-chicken-no-bready-bowl-(with-grilled-chicken)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299938",
+      "food_name": "Doritos Footlong Nachos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/doritos-footlong-nachos",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267667",
+      "food_name": "Pastrami",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/pastrami",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299165",
+      "food_name": "6-inch Homestyle Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-homestyle-chicken-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299205",
+      "food_name": "6-inch Hot Honey Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-hot-honey-chicken",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299222",
+      "food_name": "Black Forest Ham - Kids' Mini Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/black-forest-ham-kids-mini-sub",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299375",
+      "food_name": "Turkey, Bacon & Avocado Wrap (with Sliced Avocado)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/turkey-bacon-avocado-wrap-(with-sliced-avocado)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299614",
+      "food_name": "Oven Roasted Turkey & Ham - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/oven-roasted-turkey-ham-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299900",
+      "food_name": "12-inch Oreo Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/12-inch-oreo-cookie",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299952",
+      "food_name": "Broccoli Cheddar Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/broccoli-cheddar-soup",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267817",
+      "food_name": "Hash Browns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/hash-browns",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83543084",
+      "food_name": "Little Cheesesteak Sliders (includes American Cheese and Baja Chipotle Sauce)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/little-cheesesteak-sliders-(includes-american-cheese-and-baja-chipotle-sauce)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299365",
+      "food_name": "The Ultimate B.M.T. Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/the-ultimate-bmt-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299496",
+      "food_name": "The Hotshot Italiano - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/the-hotshot-italiano-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299928",
+      "food_name": "Pepperoni & Cheese Dipper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/pepperoni-cheese-dipper",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299385",
+      "food_name": "All-American Club Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/all-american-club-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299420",
+      "food_name": "Homerun Ham Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/homerun-ham-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299447",
+      "food_name": "Buffalo Chicken Salad (with Grilled Chicken)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/buffalo-chicken-salad-(with-grilled-chicken)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299473",
+      "food_name": "Homerun Ham - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/homerun-ham-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299543",
+      "food_name": "Cold Cut Combo - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/cold-cut-combo-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299638",
+      "food_name": "Black Forest Ham, Egg & Cheese Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/black-forest-ham-egg-cheese-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299925",
+      "food_name": "Double Cheese Dipper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/double-cheese-dipper",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299941",
+      "food_name": "Doritos Footlong Nachos with Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/doritos-footlong-nachos-with-chicken",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299946",
+      "food_name": "Doritos Footlong Nachos with Smashed Avocado",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/doritos-footlong-nachos-with-smashed-avocado",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68265919",
+      "food_name": "6-inch The MexiCali (with Smashed Avocado)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-the-mexicali-(with-smashed-avocado)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267810",
+      "food_name": "Applesauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/applesauce",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299348",
+      "food_name": "The Hotshot Italiano Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/the-hotshot-italiano-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299431",
+      "food_name": "The Beast Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/the-beast-salad",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299510",
+      "food_name": "The Ultimate B.M.T. - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/the-ultimate-bmt-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299942",
+      "food_name": "Doritos Footlong Nachos with Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/doritos-footlong-nachos-with-steak",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299964",
+      "food_name": "Chicken Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/chicken-noodle-soup",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68265925",
+      "food_name": "6-inch The MexiCali (with Sliced Avocado)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-the-mexicali-(with-sliced-avocado)",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267827",
+      "food_name": "Muffin, Double Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/muffin-double-chocolate",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299493",
+      "food_name": "The Beast - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/the-beast-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299559",
+      "food_name": "Meatball Marinara - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/meatball-marinara-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299570",
+      "food_name": "Roast Beef - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/roast-beef-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299623",
+      "food_name": "Pizza Sub - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/pizza-sub-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299777",
+      "food_name": "6-inch Everything Bagel-Seasoned Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-everything-bagel-seasoned-bread",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299780",
+      "food_name": "6-inch Ghost Pepper Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-ghost-pepper-bread",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299950",
+      "food_name": "Doritos Footlong Nachos with Sliced Avocado",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/doritos-footlong-nachos-with-sliced-avocado",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267027",
+      "food_name": "Sausage Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/sausage-pizza",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68267267",
+      "food_name": "Oregano",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/oregano",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299211",
+      "food_name": "6-inch Hot Honey Pepperoni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/6-inch-hot-honey-pepperoni",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299216",
+      "food_name": "Veggie Delite - Kids' Mini Sub",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/veggie-delite-kids-mini-sub",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299342",
+      "food_name": "Spicy Nacho Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/spicy-nacho-chicken-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299511",
+      "food_name": "Black Forest Ham - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/black-forest-ham-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299566",
+      "food_name": "Oven Roasted Turkey - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/oven-roasted-turkey-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299599",
+      "food_name": "Big Hot Pastrami - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/big-hot-pastrami-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299630",
+      "food_name": "Veggie Patty - No Bready Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/veggie-patty-no-bready-bowl",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104299664",
+      "food_name": "Bacon, Egg & Cheese Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/bacon-egg-cheese-wrap",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91593450",
+      "food_name": "Potato Rings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/subway/potato-rings",
+      "brand_name": "Subway",
+      "food_type": "Brand"
+    }
+  ]
+}

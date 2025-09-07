@@ -1,0 +1,41 @@
+{
+  "restaurant": "Unite",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:06:38.122Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/unite.json",
+  "items": [
+    {
+      "food_id": "43792182",
+      "food_name": "Churro Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/unite/churro-protein-bar",
+      "brand_name": "Unite",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84305113",
+      "food_name": "Baklava Flavored Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/unite/baklava-flavored-protein-bar",
+      "brand_name": "Unite",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52710069",
+      "food_name": "Pb&Jelly Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/unite/pb-jelly-protein-bar",
+      "brand_name": "Unite",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65479067",
+      "food_name": "Mexican Hot Chocolate Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/unite/mexican-hot-chocolate-protein-bar",
+      "brand_name": "Unite",
+      "food_type": "Brand"
+    }
+  ]
+}

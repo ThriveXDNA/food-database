@@ -1,0 +1,41 @@
+{
+  "restaurant": "Red Moon",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 2270,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:14:18.069Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/red_moon.json",
+  "items": [
+    {
+      "food_id": "48691127",
+      "food_name": "Kalbi Bone in Beef Short Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-moon/kalbi-bone-in-beef-short-ribs",
+      "brand_name": "Red Moon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10894989",
+      "food_name": "Pork Bao",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-moon/pork-bao",
+      "brand_name": "Red Moon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65532700",
+      "food_name": "Plant Based Beef and Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-moon/plant-based-beef-and-broccoli",
+      "brand_name": "Red Moon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40861355",
+      "food_name": "Kalbi Shaved Pork Ribeye",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-moon/kalbi-shaved-pork-ribeye",
+      "brand_name": "Red Moon",
+      "food_type": "Brand"
+    }
+  ]
+}

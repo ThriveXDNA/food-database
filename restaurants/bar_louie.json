@@ -1,0 +1,69 @@
+{
+  "restaurant": "Bar Louie",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 3480,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:56:08.956Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bar_louie.json",
+  "items": [
+    {
+      "food_id": "948436",
+      "food_name": "House Salad with Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-louie/house-salad-with-dressing",
+      "brand_name": "Bar Louie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3594078",
+      "food_name": "Chicken Nachos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-louie/chicken-nachos",
+      "brand_name": "Bar Louie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28036285",
+      "food_name": "Backyard BBQ Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-louie/backyard-bbq-burger",
+      "brand_name": "Bar Louie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "267100",
+      "food_name": "Seasoned Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-louie/seasoned-fries",
+      "brand_name": "Bar Louie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3412359",
+      "food_name": "Loaded Tater Tots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-louie/loaded-tater-tots",
+      "brand_name": "Bar Louie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6341522",
+      "food_name": "Bruschetta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-louie/bruschetta",
+      "brand_name": "Bar Louie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13181105",
+      "food_name": "Fish Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-louie/fish-tacos",
+      "brand_name": "Bar Louie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11125494",
+      "food_name": "Chop Chop Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-louie/chop-chop-salad",
+      "brand_name": "Bar Louie",
+      "food_type": "Brand"
+    }
+  ]
+}

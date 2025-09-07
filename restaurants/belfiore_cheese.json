@@ -1,0 +1,34 @@
+{
+  "restaurant": "Belfiore Cheese",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 12080,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:21:32.907Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/belfiore_cheese.json",
+  "items": [
+    {
+      "food_id": "329402",
+      "food_name": "Farmer's Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/belfiore-cheese/farmers-cheese",
+      "brand_name": "Belfiore Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "370455",
+      "food_name": "Crumbled Feta Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/belfiore-cheese/crumbled-feta-cheese",
+      "brand_name": "Belfiore Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "370458",
+      "food_name": "Feta Cheese  in Brine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/belfiore-cheese/feta-cheese--in-brine",
+      "brand_name": "Belfiore Cheese",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,4085 @@
+{
+  "restaurant": "Panera Bread",
+  "total_items": 582,
+  "pages_extracted": 50,
+  "last_updated": "2025-09-06T06:50:13.426Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Restaurant search with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/panera_bread.json",
+  "items": [
+    {
+      "food_id": "330080",
+      "food_name": "French Baguette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/french-baguette",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219578",
+      "food_name": "Kettle Cooked Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/kettle-cooked-potato-chips",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44822",
+      "food_name": "Asiago Cheese Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/asiago-cheese-bagel",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219696",
+      "food_name": "Broccoli Cheddar - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/broccoli-cheddar-cup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54840",
+      "food_name": "Cinnamon Crunch Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cinnamon-crunch-bagel",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69245259",
+      "food_name": "Catering Butter Pat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-butter-pat",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219538",
+      "food_name": "Side Portion - French Baguette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/side-portion-french-baguette",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357270",
+      "food_name": "Mac & Cheese - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mac-cheese-cup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219904",
+      "food_name": "Vegetarian Creamy Tomato Soup - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/vegetarian-creamy-tomato-soup-cup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219771",
+      "food_name": "Homestyle Chicken Noodle Soup - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/homestyle-chicken-noodle-soup-cup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72445221",
+      "food_name": "Strawberry Poppyseed Chicken Salad - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-poppyseed-chicken-salad-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44018",
+      "food_name": "Everything Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/everything-bagel",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354650",
+      "food_name": "Tuna Salad on Country Rustic Sourdough - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tuna-salad-on-country-rustic-sourdough-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219213",
+      "food_name": "Bacon Turkey Bravo on Tomato Basil - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bacon-turkey-bravo-on-tomato-basil-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219166",
+      "food_name": "Greek Salad - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/greek-salad-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219685",
+      "food_name": "Broccoli Cheddar - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/broccoli-cheddar-bowl",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48228",
+      "food_name": "Plain Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/plain-bagel",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219746",
+      "food_name": "Cream of Chicken & Wild Rice - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cream-of-chicken-wild-rice-cup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219153",
+      "food_name": "Greek Salad - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/greek-salad-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354364",
+      "food_name": "Strawberry Poppyseed Chicken Salad - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-poppyseed-chicken-salad-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219763",
+      "food_name": "Homestyle Chicken Noodle Soup - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/homestyle-chicken-noodle-soup-bowl",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354206",
+      "food_name": "Cinnamon Roll (1 Roll)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cinnamon-roll-(1-roll)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219291",
+      "food_name": "Toasted Frontega Chicken on Black Pepper Focaccia - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/toasted-frontega-chicken-on-black-pepper-focaccia-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357153",
+      "food_name": "Mexican Style Street Corn Chowder - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mexican-style-street-corn-chowder-cup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354655",
+      "food_name": "Turkey & Cheddar on Country Rustic Sourdough - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/turkey-cheddar-on-country-rustic-sourdough-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354254",
+      "food_name": "Fuji Apple Chicken Salad - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/fuji-apple-chicken-salad-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219334",
+      "food_name": "Mediterranean Veggie on Tomato Basil - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mediterranean-veggie-on-tomato-basil-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357037",
+      "food_name": "Summer Fruit Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/summer-fruit-cup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69218952",
+      "food_name": "Caesar Salad - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/caesar-salad-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69220004",
+      "food_name": "Plain Cream Cheese Spread - 8 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/plain-cream-cheese-spread-8-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219728",
+      "food_name": "Cream of Chicken & Wild Rice - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cream-of-chicken-wild-rice-bowl",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70255263",
+      "food_name": "Mexican Style Street Corn Chowder - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mexican-style-street-corn-chowder-bowl",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219673",
+      "food_name": "Bistro French Onion - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bistro-french-onion-cup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354243",
+      "food_name": "Caesar with Chicken Salad - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/caesar-with-chicken-salad-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354412",
+      "food_name": "Strawberry Poppyseed Salad - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-poppyseed-salad-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354616",
+      "food_name": "Smokehouse BBQ Chicken on Artisan Ciabatta - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/smokehouse-bbq-chicken-on-artisan-ciabatta-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354437",
+      "food_name": "Chicken Bacon Rancher on Black Pepper Focaccia Round - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/chicken-bacon-rancher-on-black-pepper-focaccia-round-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354270",
+      "food_name": "Greek Salad with Chicken - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/greek-salad-with-chicken-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354610",
+      "food_name": "Grilled Chicken & Avo BLT on Country Rustic Sourdough - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/grilled-chicken-avo-blt-on-country-rustic-sourdough-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89967025",
+      "food_name": "Blueberry Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/blueberry-bagel",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354350",
+      "food_name": "Southwest Chicken Ranch Salad - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/southwest-chicken-ranch-salad-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219245",
+      "food_name": "Chipotle Chicken Avo Melt on Black Pepper Focaccia Round - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/chipotle-chicken-avo-melt-on-black-pepper-focaccia-round-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219549",
+      "food_name": "Seasonal Fruit Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/seasonal-fruit-cup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "213279",
+      "food_name": "Cinnamon Swirl & Raisin Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cinnamon-swirl-and-raisin-bagel",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219263",
+      "food_name": "Grilled Cheese on Classic White Miche - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/grilled-cheese-on-classic-white-miche-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354652",
+      "food_name": "Tuna Salad on Country Rustic Sourdough - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tuna-salad-on-country-rustic-sourdough-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69402608",
+      "food_name": "Sierra Turkey Sandwich on Asiago Cheese Focaccia - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sierra-turkey-sandwich-on-asiago-cheese-focaccia-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354501",
+      "food_name": "Ciabatta Cheesesteak - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/ciabatta-cheesesteak-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357248",
+      "food_name": "Mac & Cheese - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mac-cheese-bowl",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354245",
+      "food_name": "Caesar with Chicken Salad - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/caesar-with-chicken-salad-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219389",
+      "food_name": "Roasted Turkey & Avocado BLT on Country Rustic Sourdough - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/roasted-turkey-avocado-blt-on-country-rustic-sourdough-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114146",
+      "food_name": "Garden Avo & Egg White on Multigrain Bagel Flat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/garden-avo-egg-white-on-multigrain-bagel-flat",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219565",
+      "food_name": "Greek Yogurt with Mixed Berries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/greek-yogurt-with-mixed-berries",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21013346",
+      "food_name": "Bacon, Egg & Cheese on Brioche",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bacon-egg-cheese-on-brioche",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201614",
+      "food_name": "Dressing - Asian Sesame Vinaigrette - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-asian-sesame-vinaigrette-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354269",
+      "food_name": "Greek Salad with Chicken - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/greek-salad-with-chicken-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114216",
+      "food_name": "Dressing - Poppyseed - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-poppyseed-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773642",
+      "food_name": "Cookie - Chocolate Chipper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cookie-chocolate-chipper",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219309",
+      "food_name": "Toasted Frontega Chicken on Black Pepper Focaccia - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/toasted-frontega-chicken-on-black-pepper-focaccia-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354617",
+      "food_name": "Smokehouse BBQ Chicken on Artisan Ciabatta - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/smokehouse-bbq-chicken-on-artisan-ciabatta-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201465",
+      "food_name": "Avocado, Egg White, Spinach & Cheese on Sprouted Grain Bagel Flat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/avocado-egg-white-spinach-cheese-on-sprouted-grain-bagel-flat",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69220034",
+      "food_name": "Reduced Fat Honey Walnut Cream Cheese Spread - 1.75 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/reduced-fat-honey-walnut-cream-cheese-spread-175-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354264",
+      "food_name": "Fuji Apple Chicken Salad - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/fuji-apple-chicken-salad-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81142892",
+      "food_name": "Multigrain Bagel Flat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/multigrain-bagel-flat",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354636",
+      "food_name": "Toasted Italiano on Baguette - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/toasted-italiano-on-baguette-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354646",
+      "food_name": "Tomato Basil BLT on Tomato Basil Miche - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tomato-basil-blt-on-tomato-basil-miche-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219995",
+      "food_name": "Plain Cream Cheese Spread - 1.75 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/plain-cream-cheese-spread-175-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114218",
+      "food_name": "Dressing - Poppyseed - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-poppyseed-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219898",
+      "food_name": "Vegetarian Creamy Tomato Soup - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/vegetarian-creamy-tomato-soup-bowl",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354360",
+      "food_name": "Southwest Chicken Ranch Salad - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/southwest-chicken-ranch-salad-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69220039",
+      "food_name": "Reduced Fat Honey Walnut Cream Cheese Spread - 8 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/reduced-fat-honey-walnut-cream-cheese-spread-8-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114123",
+      "food_name": "Bread Portion - French Baguette (1/4 Baguette)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bread-portion-french-baguette-(1-4-baguette)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201651",
+      "food_name": "Dressing - Caesar - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-caesar-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114134",
+      "food_name": "Bacon, Egg & Cheese on Ciabatta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bacon-egg-cheese-on-ciabatta",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354611",
+      "food_name": "Grilled Chicken & Avo BLT on Country Rustic Sourdough - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/grilled-chicken-avo-blt-on-country-rustic-sourdough-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114141",
+      "food_name": "Chipotle Chicken, Egg & Avo on Ciabatta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/chipotle-chicken-egg-avo-on-ciabatta",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219229",
+      "food_name": "Bacon Turkey Bravo on Tomato Basil - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bacon-turkey-bravo-on-tomato-basil-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219718",
+      "food_name": "Broccoli Cheddar Soup - Group",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/broccoli-cheddar-soup-group",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219662",
+      "food_name": "Bistro French Onion - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bistro-french-onion-bowl",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354441",
+      "food_name": "Chicken Bacon Rancher on Black Pepper Focaccia Round - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/chicken-bacon-rancher-on-black-pepper-focaccia-round-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354657",
+      "food_name": "Turkey & Cheddar on Country Rustic Sourdough - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/turkey-cheddar-on-country-rustic-sourdough-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201592",
+      "food_name": "Steel Cut Oatmeal with Strawberries, Pecans & Cinnamon Crunch Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/steel-cut-oatmeal-with-strawberries-pecans-cinnamon-crunch-topping",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219652",
+      "food_name": "Souffle - Spinach & Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/souffle-spinach-bacon",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114167",
+      "food_name": "Egg & Cheese on Ciabatta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/egg-cheese-on-ciabatta",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86052279",
+      "food_name": "Classic Avo Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/classic-avo-toast",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354419",
+      "food_name": "Strawberry Poppyseed Salad - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-poppyseed-salad-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219632",
+      "food_name": "Souffle - Four Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/souffle-four-cheese",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774028",
+      "food_name": "Green Goddess Cobb Salad with Chicken - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/green-goddess-cobb-salad-with-chicken-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114158",
+      "food_name": "Asiago Sausage & Egg on Asiago Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/asiago-sausage-egg-on-asiago-bagel",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201807",
+      "food_name": "Agave Lemonade - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/agave-lemonade-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205691",
+      "food_name": "Tulip Shaped Shortbread Cookie (1 cookie)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tulip-shaped-shortbread-cookie-(1-cookie)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205618",
+      "food_name": "Muffin - Cranberry Orange",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/muffin-cranberry-orange",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84266919",
+      "food_name": "Passion Papaya Naturally Flavored Iced Green Tea - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/passion-papaya-naturally-flavored-iced-green-tea-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205465",
+      "food_name": "Margherita Flatbread Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/margherita-flatbread-pizza",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201273",
+      "food_name": "Classic Sourdough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/classic-sourdough",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114171",
+      "food_name": "Dressing - Balsamic Vinaigrette - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-balsamic-vinaigrette-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219269",
+      "food_name": "Grilled Cheese on Classic White Miche - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/grilled-cheese-on-classic-white-miche-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69218973",
+      "food_name": "Caesar Salad - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/caesar-salad-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4046837",
+      "food_name": "Sourdough Bread Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sourdough-bread-bowl",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29850778",
+      "food_name": "Scrambled Egg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/scrambled-egg",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69245628",
+      "food_name": "Sierra Turkey Sandwich on Asiago Cheese Focaccia - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sierra-turkey-sandwich-on-asiago-cheese-focaccia-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201250",
+      "food_name": "Jalapeno Cheddar Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/jalapeno-cheddar-bagel",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69218922",
+      "food_name": "BBQ Chicken Salad - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bbq-chicken-salad-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219251",
+      "food_name": "Chipotle Chicken Avo Melt on Black Pepper Focaccia Round - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/chipotle-chicken-avo-melt-on-black-pepper-focaccia-round-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774045",
+      "food_name": "Green Goddess Cobb Salad with Chicken - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/green-goddess-cobb-salad-with-chicken-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354231",
+      "food_name": "Balsamic Chicken Greens with Grains Salad - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/balsamic-chicken-greens-with-grains-salad-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357476",
+      "food_name": "Chicken Caesar Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/chicken-caesar-wrap",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201293",
+      "food_name": "Country Rustic Sourdough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/country-rustic-sourdough",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354226",
+      "food_name": "Balsamic Greens with Grains Salad - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/balsamic-greens-with-grains-salad-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354235",
+      "food_name": "Balsamic Chicken Greens with Grains Salad - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/balsamic-chicken-greens-with-grains-salad-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357237",
+      "food_name": "Bacon Mac & Cheese - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bacon-mac-cheese-cup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205478",
+      "food_name": "Mediterranean Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mediterranean-bowl",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84266932",
+      "food_name": "Passion Papaya Naturally Flavored Iced Green Tea - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/passion-papaya-naturally-flavored-iced-green-tea-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354502",
+      "food_name": "Ciabatta Cheesesteak - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/ciabatta-cheesesteak-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114117",
+      "food_name": "Bread Portion - Country Rustic Sourdough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bread-portion-country-rustic-sourdough",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201675",
+      "food_name": "Dressing - Greek Dressing - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-greek-dressing-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114127",
+      "food_name": "Bread Portion - Tomato Basil Miche",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bread-portion-tomato-basil-miche",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773723",
+      "food_name": "Cranberry Walnut Chicken Salad on Country Rustic - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cranberry-walnut-chicken-salad-on-country-rustic-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114173",
+      "food_name": "Dressing - Balsamic Vinaigrette - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-balsamic-vinaigrette-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357498",
+      "food_name": "Turkey & Cheddar Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/turkey-cheddar-wrap",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205408",
+      "food_name": "Broccoli Cheddar Mac & Cheese - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/broccoli-cheddar-mac-cheese-small",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69245651",
+      "food_name": "Steak & Arugula on Country Rustic Sourdough - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/steak-arugula-on-country-rustic-sourdough-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84266994",
+      "food_name": "Pomegranate Hibiscus Herbal Tea Infusion - Naturally Flavored - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pomegranate-hibiscus-herbal-tea-infusion-naturally-flavored-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354258",
+      "food_name": "Fuji Apple Chicken Salad without Pecans - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/fuji-apple-chicken-salad-without-pecans-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774157",
+      "food_name": "Italian Steak & Mozz on Black Pepper Focaccia - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/italian-steak-mozz-on-black-pepper-focaccia-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201986",
+      "food_name": "Chai Tea Latte - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/chai-tea-latte-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219409",
+      "food_name": "Roasted Turkey & Avocado BLT on Country Rustic Sourdough - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/roasted-turkey-avocado-blt-on-country-rustic-sourdough-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774300",
+      "food_name": "Pastry - Chocolate Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pastry-chocolate-croissant",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773217",
+      "food_name": "Banana",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/banana",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773339",
+      "food_name": "Brownie Cheesecake Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/brownie-cheesecake-bites",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114162",
+      "food_name": "Sausage, Egg & Cheese on Ciabatta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sausage-egg-cheese-on-ciabatta",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354332",
+      "food_name": "Mediterranean Greens with Grains Salads - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mediterranean-greens-with-grains-salads-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354648",
+      "food_name": "Tomato Basil BLT on Tomato Basil Miche - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tomato-basil-blt-on-tomato-basil-miche-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354410",
+      "food_name": "Strawberry Poppyseed Chicken Salad without Pecans - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-poppyseed-chicken-salad-without-pecans-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201948",
+      "food_name": "Caffe Latte - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/caffe-latte-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201286",
+      "food_name": "Classic White Miche",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/classic-white-miche",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202628",
+      "food_name": "Hazelnut Flavored Coffee - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/hazelnut-flavored-coffee-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774479",
+      "food_name": "Sesame Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sesame-bagel",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219026",
+      "food_name": "Caesar with Chicken - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/caesar-with-chicken-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773332",
+      "food_name": "Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/brownie",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773594",
+      "food_name": "Cinnamon Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cinnamon-roll",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201297",
+      "food_name": "Asiago Cheese Focaccia",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/asiago-cheese-focaccia",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201556",
+      "food_name": "Sausage, Egg & Cheese on Brioche",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sausage-egg-cheese-on-brioche",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354640",
+      "food_name": "Toasted Italiano on Baguette - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/toasted-italiano-on-baguette-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201510",
+      "food_name": "Bacon, Egg & Cheese on Artisan Ciabatta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bacon-egg-cheese-on-artisan-ciabatta",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773675",
+      "food_name": "Cookie - Kitchen Sink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cookie-kitchen-sink",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773731",
+      "food_name": "Cranberry Walnut Chicken Salad on Country Rustic - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cranberry-walnut-chicken-salad-on-country-rustic-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774768",
+      "food_name": "Toasted Garden Caprese Melt - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/toasted-garden-caprese-melt-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773203",
+      "food_name": "Asian Sesame Chicken - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/asian-sesame-chicken-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354267",
+      "food_name": "Fuji Apple Chicken Salad without Pecans - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/fuji-apple-chicken-salad-without-pecans-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773681",
+      "food_name": "Cookie - Oatmeal Raisin with Berries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cookie-oatmeal-raisin-with-berries",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219325",
+      "food_name": "Green Goddess Caprese Melt on Baguette - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/green-goddess-caprese-melt-on-baguette-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773183",
+      "food_name": "Asian Sesame Chicken - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/asian-sesame-chicken-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774330",
+      "food_name": "Pastry - Pecan Braid",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pastry-pecan-braid",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774455",
+      "food_name": "Scone - Orange",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/scone-orange",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774257",
+      "food_name": "Muffin - Blueberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/muffin-blueberry",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774681",
+      "food_name": "Strawberry Basil Lemonade Fresca - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-basil-lemonade-fresca-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219351",
+      "food_name": "Mediterranean Veggie on Tomato Basil - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mediterranean-veggie-on-tomato-basil-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354229",
+      "food_name": "Balsamic Greens with Grains Salad - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/balsamic-greens-with-grains-salad-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354335",
+      "food_name": "Mediterranean Greens with Grains Salads - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mediterranean-greens-with-grains-salads-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774161",
+      "food_name": "Italian Steak & Mozz on Black Pepper Focaccia - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/italian-steak-mozz-on-black-pepper-focaccia-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774563",
+      "food_name": "Steak & Wake on Ciabatta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/steak-wake-on-ciabatta",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205539",
+      "food_name": "Scone - Blueberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/scone-blueberry",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774721",
+      "food_name": "Strawberry Chicken Caprese Salad - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-chicken-caprese-salad-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "213214",
+      "food_name": "Artisan Ciabatta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/artisan-ciabatta",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201313",
+      "food_name": "Tomato Basil Miche",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tomato-basil-miche",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201973",
+      "food_name": "Caramel Latte - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/caramel-latte-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774516",
+      "food_name": "Spicy Fiesta Chicken on Ciabatta - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/spicy-fiesta-chicken-on-ciabatta-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202845",
+      "food_name": "Madagascar Vanilla Latte - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/madagascar-vanilla-latte-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205338",
+      "food_name": "Unsweetened Iced Tea - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/unsweetened-iced-tea-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773665",
+      "food_name": "Cookie - Coconut Macaroon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cookie-coconut-macaroon",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201262",
+      "food_name": "Black Pepper Focaccia",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/black-pepper-focaccia",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205422",
+      "food_name": "Cheese Flatbread Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cheese-flatbread-pizza",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357229",
+      "food_name": "Bacon Mac & Cheese - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bacon-mac-cheese-bowl",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357493",
+      "food_name": "Frontega Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/frontega-chicken-wrap",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774292",
+      "food_name": "Pastry - Almond",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pastry-almond",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774295",
+      "food_name": "Pastry - Cherry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pastry-cherry",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201814",
+      "food_name": "Agave Lemonade - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/agave-lemonade-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201891",
+      "food_name": "Cafe Blend Dark Roast Coffee - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cafe-blend-dark-roast-coffee-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201907",
+      "food_name": "Cafe Blend Light Roast Coffee - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cafe-blend-light-roast-coffee-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69245661",
+      "food_name": "Steak & Arugula on Country Rustic Sourdough - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/steak-arugula-on-country-rustic-sourdough-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201315",
+      "food_name": "White Whole Grain",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/white-whole-grain",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84266996",
+      "food_name": "Pomegranate Hibiscus Herbal Tea Infusion - Naturally Flavored",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pomegranate-hibiscus-herbal-tea-infusion-naturally-flavored",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773709",
+      "food_name": "Cranberry Orange Loaf Slice - Naturally Flavored",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cranberry-orange-loaf-slice-naturally-flavored",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774589",
+      "food_name": "Strawberry Banana Smoothie with Greek Yogurt - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-banana-smoothie-with-greek-yogurt-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114113",
+      "food_name": "Bread Portion - Classic White Miche",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bread-portion-classic-white-miche",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205456",
+      "food_name": "Mac & Cheese - Group",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mac-cheese-group",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773215",
+      "food_name": "Bacon, Egg & Cheese on Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bacon-egg-cheese-on-croissant",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774689",
+      "food_name": "Strawberry Caprese Salad - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-caprese-salad-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201545",
+      "food_name": "Egg Whites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/egg-whites",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202705",
+      "food_name": "Iced Chai Tea Latte - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/iced-chai-tea-latte-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84266806",
+      "food_name": "Passion Papaya Naturally Flavored Iced Green Tea - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/passion-papaya-naturally-flavored-iced-green-tea-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201798",
+      "food_name": "Steel Cut Oatmeal with Strawberries & Cinnamon Crunch Topping without Pecans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/steel-cut-oatmeal-with-strawberries-cinnamon-crunch-topping-without-pecans",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219586",
+      "food_name": "Side - Pickle Spear",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/side-pickle-spear",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774245",
+      "food_name": "Muffie - Chocolate Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/muffie-chocolate-chip",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201538",
+      "food_name": "Egg & Cheese on Artisan Ciabatta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/egg-cheese-on-artisan-ciabatta",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84266907",
+      "food_name": "Honey Ginseng Green Tea - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/honey-ginseng-green-tea-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201656",
+      "food_name": "Dressing - Caesar - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-caesar-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202666",
+      "food_name": "Iced Caramel Latte - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/iced-caramel-latte-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205320",
+      "food_name": "Sweet Iced Tea - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sweet-iced-tea-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774464",
+      "food_name": "Scone - Orange (Mini)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/scone-orange-(mini)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201969",
+      "food_name": "Cappuccino - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cappuccino-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84266959",
+      "food_name": "Passion Papaya Naturally Flavored Iced Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/passion-papaya-naturally-flavored-iced-green-tea",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201696",
+      "food_name": "Dressing - Green Goddess - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-green-goddess-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202634",
+      "food_name": "Honest Berry Hibiscus Iced Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/honest-berry-hibiscus-iced-tea",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205379",
+      "food_name": "Baja Bowl with Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/baja-bowl-with-chicken",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774709",
+      "food_name": "Strawberry Caprese Salad - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-caprese-salad-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202630",
+      "food_name": "Hazelnut Flavored Coffee - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/hazelnut-flavored-coffee-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202749",
+      "food_name": "Iced Madagascar Vanilla Latte - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/iced-madagascar-vanilla-latte-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219108",
+      "food_name": "Fuji Apple with Chicken - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/fuji-apple-with-chicken-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219758",
+      "food_name": "Cream of Chicken and Wild Rice - Group",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cream-of-chicken-and-wild-rice-group",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773631",
+      "food_name": "Cookie - Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cookie-candy",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774145",
+      "food_name": "Italian Market Salad - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/italian-market-salad-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219070",
+      "food_name": "Citrus Asian Crunch Salad with Chicken - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/citrus-asian-crunch-salad-with-chicken-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774481",
+      "food_name": "Side - Apple",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/side-apple",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774772",
+      "food_name": "Toasted Garden Caprese Melt - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/toasted-garden-caprese-melt-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201697",
+      "food_name": "Dressing - Green Goddess - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-green-goddess-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201983",
+      "food_name": "Chai Tea Latte - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/chai-tea-latte-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202854",
+      "food_name": "Madagascar Vanilla Latte - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/madagascar-vanilla-latte-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437185",
+      "food_name": "Bubly Sparkling Water 12 fl oz - Lime",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bubly-sparkling-water-12-fl-oz-lime",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114652",
+      "food_name": "Turbinado Cane Sugar Packet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/turbinado-cane-sugar-packet",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774519",
+      "food_name": "Spicy Fiesta Chicken on Ciabatta - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/spicy-fiesta-chicken-on-ciabatta-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219094",
+      "food_name": "Fuji Apple with Chicken - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/fuji-apple-with-chicken-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774152",
+      "food_name": "Italian Market Salad - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/italian-market-salad-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774448",
+      "food_name": "Ranch Parm BLT Salad - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/ranch-parm-blt-salad-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205336",
+      "food_name": "Unsweetened Iced Tea - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/unsweetened-iced-tea-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202659",
+      "food_name": "Iced Caffe Latte - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/iced-caffe-latte-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205434",
+      "food_name": "Chipotle Chicken & Bacon Flatbread Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/chipotle-chicken-bacon-flatbread-pizza",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219784",
+      "food_name": "Homestyle Chicken Noodle Soup - Group",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/homestyle-chicken-noodle-soup-group",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354367",
+      "food_name": "Strawberry Poppyseed Chicken Salad without Pecans - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-poppyseed-chicken-salad-without-pecans-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773961",
+      "food_name": "Egg & Cheese on Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/egg-cheese-on-croissant",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774067",
+      "food_name": "Ham, Egg & Cheese on Ciabatta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/ham-egg-cheese-on-ciabatta",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774193",
+      "food_name": "Mediterranean Chicken Greens with Grains Salads - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mediterranean-chicken-greens-with-grains-salads-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774715",
+      "food_name": "Strawberry Chicken Caprese Salad - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-chicken-caprese-salad-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66207696",
+      "food_name": "Egg & Cheese on Brioche",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/egg-cheese-on-brioche",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69402464",
+      "food_name": "Peach & Blueberry Smoothie with Almond Milk - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/peach-blueberry-smoothie-with-almond-milk-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357482",
+      "food_name": "Green Goddess Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/green-goddess-chicken-wrap",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773335",
+      "food_name": "Brownie (Mini)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/brownie-(mini)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773653",
+      "food_name": "Cookie - Chocolate Coconut Macaroon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cookie-chocolate-coconut-macaroon",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774113",
+      "food_name": "Iced Cafe Blend Dark Roast Coffee with Ice - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/iced-cafe-blend-dark-roast-coffee-with-ice-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774450",
+      "food_name": "Ranch Parm BLT Salad - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/ranch-parm-blt-salad-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774063",
+      "food_name": "Ham Croissant Benny",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/ham-croissant-benny",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774184",
+      "food_name": "Mango Smoothie with Greek Yogurt - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mango-smoothie-with-greek-yogurt-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774774",
+      "food_name": "Tropical Green Smoothie - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tropical-green-smoothie-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205445",
+      "food_name": "Mac & Cheese - Bread Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mac-cheese-bread-bowl",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201736",
+      "food_name": "Dressing - White Balsamic Vinaigrette Flavored with Apple - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-white-balsamic-vinaigrette-flavored-with-apple-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774127",
+      "food_name": "Iced Cafe Blend Dark Roast Coffee with Ice - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/iced-cafe-blend-dark-roast-coffee-with-ice-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774684",
+      "food_name": "Strawberry Basil Lemonade Fresca - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-basil-lemonade-fresca-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202075",
+      "food_name": "Decaf Coffee - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/decaf-coffee-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202494",
+      "food_name": "Espresso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/espresso",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114081",
+      "food_name": "New England Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/new-england-roll",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774453",
+      "food_name": "Sausage, Egg & Cheese on Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sausage-egg-cheese-on-croissant",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201893",
+      "food_name": "Cafe Blend Dark Roast Coffee - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cafe-blend-dark-roast-coffee-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201953",
+      "food_name": "Caffe Latte - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/caffe-latte-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219938",
+      "food_name": "Chicken Tikka Masala Soup - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/chicken-tikka-masala-soup-cup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773964",
+      "food_name": "Frozen Strawberry Lemonade with Fresh Strawberries - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/frozen-strawberry-lemonade-with-fresh-strawberries-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201686",
+      "food_name": "Dressing - Greek Dressing - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-greek-dressing-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201780",
+      "food_name": "Additional Shot of Madagascar Vanilla Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/additional-shot-of-madagascar-vanilla-syrup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205508",
+      "food_name": "Pastry - Pastry Ring",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pastry-pastry-ring",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219858",
+      "food_name": "Ten Vegetable Soup - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/ten-vegetable-soup-bowl",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773327",
+      "food_name": "Broccoli Cheddar - Cup (Kids)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/broccoli-cheddar-cup-(kids)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773789",
+      "food_name": "Dressing - Asian Sesame Vinaigrette - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-asian-sesame-vinaigrette-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774051",
+      "food_name": "Grilled Cheese & Creamy Tomato Soup - Value Duet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/grilled-cheese-creamy-tomato-soup-value-duet",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773319",
+      "food_name": "Broccoli Cheddar - Bread Bowl with Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/broccoli-cheddar-bread-bowl-with-soup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201831",
+      "food_name": "Unsweetened Iced Tea (1 container)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/unsweetened-iced-tea-(1-container)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201912",
+      "food_name": "Cafe Blend Light Roast Coffee - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cafe-blend-light-roast-coffee-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201972",
+      "food_name": "Cappuccino - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cappuccino-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201979",
+      "food_name": "Caramel Latte - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/caramel-latte-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202070",
+      "food_name": "Decaf Coffee - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/decaf-coffee-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219980",
+      "food_name": "Thai Style Chicken Soup - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/thai-style-chicken-soup-cup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773291",
+      "food_name": "Bottled Passionfruit Papaya Naturally Flavored Iced Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bottled-passionfruit-papaya-naturally-flavored-iced-green-tea",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774188",
+      "food_name": "Mediterranean Chicken Greens with Grains Salads - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mediterranean-chicken-greens-with-grains-salads-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774682",
+      "food_name": "Strawberry Basil Lemonade Fresca - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-basil-lemonade-fresca-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774749",
+      "food_name": "Strawberry Smoothie with Greek Yogurt - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-smoothie-with-greek-yogurt-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201739",
+      "food_name": "Dressing - White Balsamic Vinaigrette Flavored with Apple - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-white-balsamic-vinaigrette-flavored-with-apple-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202177",
+      "food_name": "Agave Lemonade - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/agave-lemonade-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114248",
+      "food_name": "Agave Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/agave-lemonade",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773674",
+      "food_name": "Cookie - Flip Flop Shortbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cookie-flip-flop-shortbread",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773697",
+      "food_name": "Cookie - Petite Chocolate Chipper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cookie-petite-chocolate-chipper",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774079",
+      "food_name": "Homestyle Chicken Noodle Soup - Bread Bowl with Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/homestyle-chicken-noodle-soup-bread-bowl-with-soup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114105",
+      "food_name": "Bread Portion - Black Pepper Focaccia (1/4 Loaf)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bread-portion-black-pepper-focaccia-(1-4-loaf)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201458",
+      "food_name": "Whole Grain Lahvash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/whole-grain-lahvash",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201771",
+      "food_name": "Additional Shot of Caramel Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/additional-shot-of-caramel-syrup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219433",
+      "food_name": "Smoky Buffalo Chicken Melt on Baguette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/smoky-buffalo-chicken-melt-on-baguette",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84267056",
+      "food_name": "Starry Lemon Lime - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/starry-lemon-lime-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201637",
+      "food_name": "Dressing - BBQ Ranch - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-bbq-ranch-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202790",
+      "food_name": "Lime Bubly Sparkling Water - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/lime-bubly-sparkling-water-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205721",
+      "food_name": "Cookie - Lemon Drop Flavored",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cookie-lemon-drop-flavored",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69218876",
+      "food_name": "Pastry - Vanilla Flavored Cinnamon Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pastry-vanilla-flavored-cinnamon-roll",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219681",
+      "food_name": "Bistro French Onion Soup - Group",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bistro-french-onion-soup-group",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114224",
+      "food_name": "Dressing - Ranch - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-ranch-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84220843",
+      "food_name": "Passion Papaya Naturally Flavored Iced Green Tea - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/passion-papaya-naturally-flavored-iced-green-tea-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84354415",
+      "food_name": "Strawberry Poppyseed Salad without Pecans - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-poppyseed-salad-without-pecans-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773368",
+      "food_name": "Catering Asian Sesame Salad - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-asian-sesame-salad-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201700",
+      "food_name": "Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/hummus",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205162",
+      "food_name": "Pepsi - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pepsi-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205321",
+      "food_name": "Sweet Iced Tea - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sweet-iced-tea-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114595",
+      "food_name": "Half & Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/half-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84266814",
+      "food_name": "Pomegranate Hibiscus Herbal Tea Infusion - Naturally Flavored - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pomegranate-hibiscus-herbal-tea-infusion-naturally-flavored-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357462",
+      "food_name": "Catering Strawberry Poppyseed Salad - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-strawberry-poppyseed-salad-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201773",
+      "food_name": "Additional Shot of Espresso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/additional-shot-of-espresso",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201961",
+      "food_name": "Canada Dry Ginger Ale - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/canada-dry-ginger-ale-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205367",
+      "food_name": "Baja Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/baja-bowl",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437227",
+      "food_name": "Diet Pepsi - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-pepsi-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114226",
+      "food_name": "Dressing - Ranch - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-ranch-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774020",
+      "food_name": "Green Goddess Avo Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/green-goddess-avo-toast",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773739",
+      "food_name": "Cream of Chicken & Wild Rice - Bread Bowl with Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cream-of-chicken-wild-rice-bread-bowl-with-soup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201522",
+      "food_name": "Bread Portion - Artisan Ciabatta (1/4 loaf)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bread-portion-artisan-ciabatta-(1-4-loaf)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202799",
+      "food_name": "Lipton Brisk Raspberry Tea - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/lipton-brisk-raspberry-tea-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202895",
+      "food_name": "Mug Root Beer - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mug-root-beer-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205269",
+      "food_name": "Substitute Almond Milk - 8 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/substitute-almond-milk-8-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69218840",
+      "food_name": "Muffin - Pumpkin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/muffin-pumpkin",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437224",
+      "food_name": "Diet Pepsi - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-pepsi-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357484",
+      "food_name": "Hard Boiled Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/hard-boiled-eggs",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773208",
+      "food_name": "Bacon Double Take on Black Pepper Focaccia",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bacon-double-take-on-black-pepper-focaccia",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773389",
+      "food_name": "Catering Asian Sesame Salad - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-asian-sesame-salad-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773691",
+      "food_name": "Cookie - Oatmeal Raisin with Berries (Mini)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cookie-oatmeal-raisin-with-berries-(mini)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774134",
+      "food_name": "Iced Cafe Blend Dark Roast Coffee without Ice - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/iced-cafe-blend-dark-roast-coffee-without-ice-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774440",
+      "food_name": "Pomegranate Hibiscus Herbal Tea Infusion without Ice - Naturally Flavored - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pomegranate-hibiscus-herbal-tea-infusion-without-ice-naturally-flavored-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201894",
+      "food_name": "Cafe Blend Dark Roast Coffee - Group",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cafe-blend-dark-roast-coffee-group",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202097",
+      "food_name": "Dr. Pepper - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dr-pepper-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202794",
+      "food_name": "Lipton Brisk Raspberry Tea - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/lipton-brisk-raspberry-tea-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219875",
+      "food_name": "Ten Vegetable Soup - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/ten-vegetable-soup-cup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69220010",
+      "food_name": "Reduced Fat Chive & Onion Cream Cheese Spread - 1.75 Oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/reduced-fat-chive-onion-cream-cheese-spread-175-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69245543",
+      "food_name": "Seasonal Greens - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/seasonal-greens-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84266913",
+      "food_name": "Orange Ginger Mint Tea - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/orange-ginger-mint-tea-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773397",
+      "food_name": "Catering Asian Sesame Salad - Whole (No Nuts/Chicken)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-asian-sesame-salad-whole-(no-nuts-chicken)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773403",
+      "food_name": "Catering Fuji Apple - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-fuji-apple-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773590",
+      "food_name": "Chipotle Aioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/chipotle-aioli",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773640",
+      "food_name": "Cookie - Candy (Mini)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cookie-candy-(mini)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773922",
+      "food_name": "Dressing - Italian - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-italian-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773971",
+      "food_name": "Garlic Aioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/garlic-aioli",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774016",
+      "food_name": "Green Chile Salsa Verde",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/green-chile-salsa-verde",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774163",
+      "food_name": "Kids Turkey & American Cheese on Classic White Miche - Whole (Kids)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/kids-turkey-american-cheese-on-classic-white-miche-whole-(kids)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774206",
+      "food_name": "Mexican Style Street Corn Chowder - Bread Bowl with Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mexican-style-street-corn-chowder-bread-bowl-with-soup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357221",
+      "food_name": "Bacon Mac & Cheese - Bread Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bacon-mac-cheese-bread-bowl",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201610",
+      "food_name": "Apple Cider Vinegar BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/apple-cider-vinegar-bbq-sauce",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202765",
+      "food_name": "Kids Organic Apple Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/kids-organic-apple-juice",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202879",
+      "food_name": "Mountain Dew - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mountain-dew-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219918",
+      "food_name": "Vegetarian Creamy Tomato Soup - Group",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/vegetarian-creamy-tomato-soup-group",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69245298",
+      "food_name": "Catering Caesar Salad - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-caesar-salad-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437266",
+      "food_name": "Lime Bubly Sparkling Water - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/lime-bubly-sparkling-water-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114412",
+      "food_name": "British Breakfast Tea - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/british-breakfast-tea-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357426",
+      "food_name": "Catering Mediterranean Chicken Greens with Grains Salad - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-mediterranean-chicken-greens-with-grains-salad-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357468",
+      "food_name": "Catering Strawberry Poppyseed Salad without Pecans - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-strawberry-poppyseed-salad-without-pecans-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773272",
+      "food_name": "Blueberry Lavender Lemonade with Ice - Naturally Flavored - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/blueberry-lavender-lemonade-with-ice-naturally-flavored-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773288",
+      "food_name": "Blueberry Lavender Lemonade without Ice - Naturally Flavored - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/blueberry-lavender-lemonade-without-ice-naturally-flavored-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773627",
+      "food_name": "Coke Zero - 20 fl oz (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/coke-zero-20-fl-oz-(bottle)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773819",
+      "food_name": "Dressing - Green Goddess Dressing - Sandwich Portion",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-green-goddess-dressing-sandwich-portion",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774211",
+      "food_name": "Mountain Dew - 12 fl oz (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mountain-dew-12-fl-oz-(can)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774687",
+      "food_name": "Strawberry Basil Lemonade Fresca - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-basil-lemonade-fresca-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774711",
+      "food_name": "Strawberry Caprese Salad without Pecans - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-caprese-salad-without-pecans-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202192",
+      "food_name": "Coke - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/coke-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202492",
+      "food_name": "Lime Bubly Sparkling Water - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/lime-bubly-sparkling-water-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202830",
+      "food_name": "Madagascar Vanilla Cream Cold Brew Coffee - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/madagascar-vanilla-cream-cold-brew-coffee-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205177",
+      "food_name": "Pepsi - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pepsi-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219377",
+      "food_name": "Pepperoni Mozzarella Melt on Baguette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pepperoni-mozzarella-melt-on-baguette",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69219641",
+      "food_name": "Souffle - Spinach & Artichoke",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/souffle-spinach-artichoke",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69245340",
+      "food_name": "Catering French Baguette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-french-baguette",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357158",
+      "food_name": "Mexican Style Street Corn Chowder - Group",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mexican-style-street-corn-chowder-group",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773205",
+      "food_name": "Asian Sesame Chicken - Whole (No Nuts)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/asian-sesame-chicken-whole-(no-nuts)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773605",
+      "food_name": "Citrus Punch with Ice - Naturally Flavored - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/citrus-punch-with-ice-naturally-flavored-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773925",
+      "food_name": "Dressing - Ranch Dressing - Sandwich Portion",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-ranch-dressing-sandwich-portion",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774073",
+      "food_name": "Hazelnut Coffee - Group",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/hazelnut-coffee-group",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774447",
+      "food_name": "Pomegranate Hibiscus Herbal Tea Infusion without Ice - Naturally Flavored - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pomegranate-hibiscus-herbal-tea-infusion-without-ice-naturally-flavored-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774764",
+      "food_name": "Substitute Almond Milk - 10 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/substitute-almond-milk-10-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773228",
+      "food_name": "Bistro French Onion - Bread Bowl with Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bistro-french-onion-bread-bowl-with-soup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201964",
+      "food_name": "Canada Dry Ginger Ale - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/canada-dry-ginger-ale-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202018",
+      "food_name": "Coke - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/coke-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202498",
+      "food_name": "Fanta Orange - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/fanta-orange-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202590",
+      "food_name": "Frozen Chocolate Cold Brew - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/frozen-chocolate-cold-brew-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202876",
+      "food_name": "Mountain Dew - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mountain-dew-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205334",
+      "food_name": "Tropicana Light Lemonade - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tropicana-light-lemonade-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69245386",
+      "food_name": "Catering Fuji Apple with Chicken Salad - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-fuji-apple-with-chicken-salad-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69245403",
+      "food_name": "Catering Greek Salad - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-greek-salad-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437208",
+      "food_name": "Diet Coke - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-coke-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114649",
+      "food_name": "Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sugar",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84116070",
+      "food_name": "Agave Lemonade - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/agave-lemonade-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84267059",
+      "food_name": "Starry Lemon Lime - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/starry-lemon-lime-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357443",
+      "food_name": "Catering Strawberry Poppyseed with Chicken Salad - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-strawberry-poppyseed-with-chicken-salad-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357445",
+      "food_name": "Catering Strawberry Poppyseed with Chicken Salad - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-strawberry-poppyseed-with-chicken-salad-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86295902",
+      "food_name": "Soft Country White Bakery Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/soft-country-white-bakery-buns",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773201",
+      "food_name": "Asian Sesame Chicken - Half (No Nuts)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/asian-sesame-chicken-half-(no-nuts)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773343",
+      "food_name": "Caesar Salad & Homestyle Chicken Noodle Soup - Value Duet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/caesar-salad-homestyle-chicken-noodle-soup-value-duet",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773347",
+      "food_name": "Cane Sugar Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cane-sugar-syrup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773400",
+      "food_name": "Catering Chipotle Aioli For Breakfast Sandwiches",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-chipotle-aioli-for-breakfast-sandwiches",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773613",
+      "food_name": "Citrus Punch with Ice - Naturally Flavored - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/citrus-punch-with-ice-naturally-flavored-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773791",
+      "food_name": "Dressing - Greek Dressing - Sandwich Portion",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-greek-dressing-sandwich-portion",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774012",
+      "food_name": "Greek Salad & Creamy Tomato Soup - Value Duet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/greek-salad-creamy-tomato-soup-value-duet",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774053",
+      "food_name": "Grilled Cheese on Classic White Miche - Whole (Kids)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/grilled-cheese-on-classic-white-miche-whole-(kids)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774201",
+      "food_name": "Mediterrenean Veggie & Creamy Tomato Soup - Value Duet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mediterrenean-veggie-creamy-tomato-soup-value-duet",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774210",
+      "food_name": "Minute Maid Orange Juice - 12 fl oz (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/minute-maid-orange-juice-12-fl-oz-(bottle)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201828",
+      "food_name": "Americano - 16 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/americano-16-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202020",
+      "food_name": "Coke - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/coke-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202264",
+      "food_name": "Fanta Orange - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/fanta-orange-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202434",
+      "food_name": "Pibb Xtra - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pibb-xtra-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202471",
+      "food_name": "Tropicana Lemonade - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tropicana-lemonade-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202495",
+      "food_name": "Fanta Orange - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/fanta-orange-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205329",
+      "food_name": "Tropicana Lemonade - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tropicana-lemonade-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357316",
+      "food_name": "Catering Greek Salad with Chicken - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-greek-salad-with-chicken-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357423",
+      "food_name": "Catering Mediterranean Chicken Greens with Grains Salad - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-mediterranean-chicken-greens-with-grains-salad-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357440",
+      "food_name": "Catering Southwest Chicken Ranch Salad - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-southwest-chicken-ranch-salad-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773025",
+      "food_name": "AHA Lime Watermelon Sparkling Water - 12 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/aha-lime-watermelon-sparkling-water-12-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773279",
+      "food_name": "Blueberry Lavender Lemonade without Ice - Naturally Flavored - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/blueberry-lavender-lemonade-without-ice-naturally-flavored-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773281",
+      "food_name": "Blueberry Lavender Lemonade with Ice - Naturally Flavored - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/blueberry-lavender-lemonade-with-ice-naturally-flavored-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773378",
+      "food_name": "Catering Asian Sesame Salad - Half (No Nuts/Chicken)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-asian-sesame-salad-half-(no-nuts-chicken)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773381",
+      "food_name": "Catering Asian Sesame Salad - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-asian-sesame-salad-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773473",
+      "food_name": "Catering Garlic Aioli For Breakfast Sandwiches",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-garlic-aioli-for-breakfast-sandwiches",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773623",
+      "food_name": "Citrus Punch without Ice - Naturally Flavored - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/citrus-punch-without-ice-naturally-flavored-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773626",
+      "food_name": "Coke - 20 fl oz (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/coke-20-fl-oz-(bottle)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774521",
+      "food_name": "Sprite - 20 fl oz (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sprite-20-fl-oz-(bottle)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774732",
+      "food_name": "Strawberry Chicken Caprese Salad without Pecans - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-chicken-caprese-salad-without-pecans-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773304",
+      "food_name": "Bread Portion - Croissant",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bread-portion-croissant",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202060",
+      "food_name": "Decaf Coffee - Group",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/decaf-coffee-group",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202254",
+      "food_name": "Diet Mountain Dew - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-mountain-dew-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202262",
+      "food_name": "Dr. Pepper - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dr-pepper-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202332",
+      "food_name": "Lipton Brisk Raspberry Tea - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/lipton-brisk-raspberry-tea-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202416",
+      "food_name": "Mountain Dew - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mountain-dew-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202418",
+      "food_name": "Mountain Dew - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mountain-dew-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202420",
+      "food_name": "Mug Root Beer - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mug-root-beer-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202423",
+      "food_name": "Mug Root Beer - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mug-root-beer-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202429",
+      "food_name": "Pepsi - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pepsi-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202431",
+      "food_name": "Pepsi - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pepsi-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202439",
+      "food_name": "Powerade Mountain Blast - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/powerade-mountain-blast-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202441",
+      "food_name": "Powerade Mountain Blast - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/powerade-mountain-blast-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202451",
+      "food_name": "Sprite - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sprite-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202464",
+      "food_name": "Sweet Iced Tea - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sweet-iced-tea-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202469",
+      "food_name": "Tropicana Fruit Punch - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tropicana-fruit-punch-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202478",
+      "food_name": "Unsweetened Iced Tea - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/unsweetened-iced-tea-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202487",
+      "food_name": "Wild Cherry Pepsi - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/wild-cherry-pepsi-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202779",
+      "food_name": "Kids Organic Chocolate Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/kids-organic-chocolate-milk",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202784",
+      "food_name": "Kids Organic White Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/kids-organic-white-milk",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205181",
+      "food_name": "Pibb Xtra - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pibb-xtra-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205217",
+      "food_name": "Sprite - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sprite-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205219",
+      "food_name": "Sprite - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sprite-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205325",
+      "food_name": "Tropicana Fruit Punch - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tropicana-fruit-punch-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69245408",
+      "food_name": "Catering Greek Salad - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-greek-salad-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437201",
+      "food_name": "Coke Zero - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/coke-zero-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437209",
+      "food_name": "Diet Coke - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-coke-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437220",
+      "food_name": "Diet Dr. Pepper - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-dr-pepper-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437235",
+      "food_name": "Coke Zero - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/coke-zero-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437242",
+      "food_name": "Diet Coke - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-coke-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437243",
+      "food_name": "Diet Dr. Pepper - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-dr-pepper-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437244",
+      "food_name": "Diet Dr. Pepper - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-dr-pepper-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437248",
+      "food_name": "Diet Pepsi - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-pepsi-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114588",
+      "food_name": "Blue Packet Sweetener",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/blue-packet-sweetener",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114602",
+      "food_name": "Pink Packet Sweetener",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pink-packet-sweetener",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84266810",
+      "food_name": "Pepsi Zero - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pepsi-zero-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357279",
+      "food_name": "Catering Balsamic Greens with Grains Salad - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-balsamic-greens-with-grains-salad-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357286",
+      "food_name": "Catering Balsamic Chicken Greens with Grains Salad - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-balsamic-chicken-greens-with-grains-salad-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357292",
+      "food_name": "Catering Caesar Salad with Chicken - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-caesar-salad-with-chicken-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357419",
+      "food_name": "Catering Mediterranean Greens with Grains Salad - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-mediterranean-greens-with-grains-salad-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357458",
+      "food_name": "Catering Summer Fruit Bowl - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-summer-fruit-bowl-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357459",
+      "food_name": "Catering Strawberry Poppyseed Salad - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-strawberry-poppyseed-salad-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357466",
+      "food_name": "Catering Strawberry Poppyseed Salad without Pecans - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-strawberry-poppyseed-salad-without-pecans-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773020",
+      "food_name": "AHA Blueberry Pomegranate Sparkling Water - 12 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/aha-blueberry-pomegranate-sparkling-water-12-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773340",
+      "food_name": "Bubly Sparkling Water 12 fl oz - Lemon (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bubly-sparkling-water-12-fl-oz-lemon-(can)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773353",
+      "food_name": "Catering Asian Sesame Chicken Salad - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-asian-sesame-chicken-salad-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773356",
+      "food_name": "Catering Asian Sesame Chicken Salad - Serves 10 (No Nuts)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-asian-sesame-chicken-salad-serves-10-(no-nuts)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773361",
+      "food_name": "Catering Asian Sesame Chicken Salad - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-asian-sesame-chicken-salad-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773362",
+      "food_name": "Catering Asian Sesame Chicken Salad - Serves 5 (No Nuts)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-asian-sesame-chicken-salad-serves-5-(no-nuts)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773408",
+      "food_name": "Catering Fuji Apple Salad - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-fuji-apple-salad-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773409",
+      "food_name": "Catering Fuji Apple Salad - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-fuji-apple-salad-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773444",
+      "food_name": "Catering Fuji Apple without Pecans - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-fuji-apple-without-pecans-half",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773445",
+      "food_name": "Catering Fuji Apple without Pecans - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-fuji-apple-without-pecans-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773492",
+      "food_name": "Catering Green Goddess Cobb Salad with Chicken - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-green-goddess-cobb-salad-with-chicken-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773515",
+      "food_name": "Catering Italian Market Salad - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-italian-market-salad-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773582",
+      "food_name": "Catering Strawberry Poppyseed Salad with Chicken Salad without Pecans - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-strawberry-poppyseed-salad-with-chicken-salad-without-pecans-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773743",
+      "food_name": "Dasani Lemon - 12 fl oz (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dasani-lemon-12-fl-oz-(can)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773747",
+      "food_name": "Dasani Lime - 12 fl oz (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dasani-lime-12-fl-oz-(can)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773923",
+      "food_name": "Dressing - Italian - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dressing-italian-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774057",
+      "food_name": "Ham & American Cheese on Classic White Miche - Whole (Kids)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/ham-american-cheese-on-classic-white-miche-whole-(kids)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774121",
+      "food_name": "Iced Cafe Blend Dark Roast Coffee without Ice - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/iced-cafe-blend-dark-roast-coffee-without-ice-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774222",
+      "food_name": "Mountain Dew - 20 fl oz (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mountain-dew-20-fl-oz-(bottle)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774388",
+      "food_name": "Pepsi - 12 fl oz (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pepsi-12-fl-oz-(can)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774410",
+      "food_name": "Pepsi Zero - 20 fl oz (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pepsi-zero-20-fl-oz-(bottle)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774442",
+      "food_name": "Pomegranate Hibiscus Herbal Tea Infusion with Ice - Naturally Flavored - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pomegranate-hibiscus-herbal-tea-infusion-with-ice-naturally-flavored-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774506",
+      "food_name": "Signature Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/signature-sauce",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774795",
+      "food_name": "Wild Cherry Pepsi - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/wild-cherry-pepsi-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774803",
+      "food_name": "Wild Cherry Pepsi - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/wild-cherry-pepsi-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69201904",
+      "food_name": "Cafe Blend Light Roast Coffee - Group",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cafe-blend-light-roast-coffee-group",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202088",
+      "food_name": "Diet Mountain Dew - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-mountain-dew-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202089",
+      "food_name": "Diet Mountain Dew - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-mountain-dew-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202100",
+      "food_name": "Dr. Pepper - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dr-pepper-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202185",
+      "food_name": "Canada Dry Ginger Ale - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/canada-dry-ginger-ale-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202188",
+      "food_name": "Canada Dry Ginger Ale - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/canada-dry-ginger-ale-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202195",
+      "food_name": "Coke - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/coke-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202218",
+      "food_name": "Diet Mountain Dew - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-mountain-dew-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202263",
+      "food_name": "Dr. Pepper - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dr-pepper-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202270",
+      "food_name": "Fanta Orange - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/fanta-orange-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202340",
+      "food_name": "Lipton Brisk Raspberry Tea - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/lipton-brisk-raspberry-tea-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202437",
+      "food_name": "Pibb Xtra - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pibb-xtra-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202453",
+      "food_name": "Sprite - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sprite-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202466",
+      "food_name": "Sweet Iced Tea - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sweet-iced-tea-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202470",
+      "food_name": "Tropicana Fruit Punch - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tropicana-fruit-punch-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202473",
+      "food_name": "Tropicana Lemonade - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tropicana-lemonade-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202475",
+      "food_name": "Tropicana Light Lemonade - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tropicana-light-lemonade-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202476",
+      "food_name": "Tropicana Light Lemonade - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tropicana-light-lemonade-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202483",
+      "food_name": "Unsweetened Iced Tea - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/unsweetened-iced-tea-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202486",
+      "food_name": "Wild Cherry Pepsi - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/wild-cherry-pepsi-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69202897",
+      "food_name": "Mug Root Beer - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mug-root-beer-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205183",
+      "food_name": "Pibb Xtra - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pibb-xtra-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205186",
+      "food_name": "Powerade Mountain Blast - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/powerade-mountain-blast-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205187",
+      "food_name": "Powerade Mountain Blast - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/powerade-mountain-blast-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205216",
+      "food_name": "SoBe Life Water Yumberry Pomegranate - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sobe-life-water-yumberry-pomegranate-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205288",
+      "food_name": "Sweet Iced Tea - Serves 4 - Group (1 container)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sweet-iced-tea-serves-4-group-(1-container)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205326",
+      "food_name": "Tropicana Fruit Punch - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tropicana-fruit-punch-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205331",
+      "food_name": "Tropicana Lemonade - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tropicana-lemonade-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69205335",
+      "food_name": "Tropicana Light Lemonade - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/tropicana-light-lemonade-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69245295",
+      "food_name": "Catering Caesar Salad - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-caesar-salad-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69245385",
+      "food_name": "Catering Fuji Apple with Chicken Salad - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-fuji-apple-with-chicken-salad-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69402537",
+      "food_name": "Catering Fuji Apple with Chicken Salad without Pecans - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-fuji-apple-with-chicken-salad-without-pecans-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69402541",
+      "food_name": "Catering Fuji Apple with Chicken Salad without Pecans - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-fuji-apple-with-chicken-salad-without-pecans-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437187",
+      "food_name": "Caffeine Free Diet Pepsi - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/caffeine-free-diet-pepsi-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437188",
+      "food_name": "Caffeine Free Diet Pepsi - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/caffeine-free-diet-pepsi-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437194",
+      "food_name": "Coke Zero - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/coke-zero-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437217",
+      "food_name": "Diet Dr. Pepper - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-dr-pepper-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437230",
+      "food_name": "Caffeine Free Diet Pepsi - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/caffeine-free-diet-pepsi-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437233",
+      "food_name": "Caffeine Free Diet Pepsi - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/caffeine-free-diet-pepsi-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437237",
+      "food_name": "Coke Zero - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/coke-zero-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437239",
+      "food_name": "Diet Coke - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-coke-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437252",
+      "food_name": "Diet Pepsi - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-pepsi-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437253",
+      "food_name": "SoBe Life Water Yumberry Pomegranate - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sobe-life-water-yumberry-pomegranate-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437255",
+      "food_name": "SoBe Life Water Yumberry Pomegranate - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sobe-life-water-yumberry-pomegranate-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437256",
+      "food_name": "Lime Bubly Sparkling Water - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/lime-bubly-sparkling-water-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69437271",
+      "food_name": "SoBe Life Water Yumberry Pomegranate - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sobe-life-water-yumberry-pomegranate-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114411",
+      "food_name": "Bottled Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bottled-water",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84114654",
+      "food_name": "Yellow Packet Sweetener",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/yellow-packet-sweetener",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84266841",
+      "food_name": "Starry Lemon Lime - Drive Thru - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/starry-lemon-lime-drive-thru-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84266845",
+      "food_name": "Starry Lemon Lime - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/starry-lemon-lime-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84266987",
+      "food_name": "Pepsi Zero - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pepsi-zero-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84267000",
+      "food_name": "Pomegranate Hibiscus Herbal Tea Infusion - Naturally Flavored (2 Containers)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pomegranate-hibiscus-herbal-tea-infusion-naturally-flavored-(2-containers)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357223",
+      "food_name": "Bacon Mac & Cheese - Group",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/bacon-mac-cheese-group",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357281",
+      "food_name": "Catering Balsamic Greens with Grains Salad - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-balsamic-greens-with-grains-salad-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357283",
+      "food_name": "Catering Balsamic Chicken Greens with Grains Salad - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-balsamic-chicken-greens-with-grains-salad-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357302",
+      "food_name": "Catering Caesar Salad with Chicken - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-caesar-salad-with-chicken-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357318",
+      "food_name": "Catering Greek Salad with Chicken - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-greek-salad-with-chicken-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357441",
+      "food_name": "Catering Southwest Chicken Ranch Salad - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-southwest-chicken-ranch-salad-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84357456",
+      "food_name": "Catering Summer Fruit Bowl - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-summer-fruit-bowl-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773383",
+      "food_name": "Catering Asian Sesame Salad - Serves 10 (No Nuts/Chicken)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-asian-sesame-salad-serves-10-(no-nuts-chicken)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773387",
+      "food_name": "Catering Asian Sesame Salad - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-asian-sesame-salad-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773388",
+      "food_name": "Catering Asian Sesame Salad - Serves 5 (No Nuts/Chicken)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-asian-sesame-salad-serves-5-(no-nuts-chicken)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773406",
+      "food_name": "Catering Fuji Apple - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-fuji-apple-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773412",
+      "food_name": "Catering Fuji Apple Salad without Pecans - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-fuji-apple-salad-without-pecans-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773437",
+      "food_name": "Catering Fuji Apple Salad without Pecans - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-fuji-apple-salad-without-pecans-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773478",
+      "food_name": "Catering Green Goddess Cobb Salad with Chicken - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-green-goddess-cobb-salad-with-chicken-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773508",
+      "food_name": "Catering Ham & Cheddar on Country Rustic Sourdough - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-ham-cheddar-on-country-rustic-sourdough-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773513",
+      "food_name": "Catering Italian Market Salad - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-italian-market-salad-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773520",
+      "food_name": "Catering Mediterranean Greens with Grains Salad - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-mediterranean-greens-with-grains-salad-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773533",
+      "food_name": "Catering Parm Ranch BLT Salad - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-parm-ranch-blt-salad-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773537",
+      "food_name": "Catering Parm Ranch BLT Salad - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-parm-ranch-blt-salad-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773544",
+      "food_name": "Catering Strawberry Caprese Salad - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-strawberry-caprese-salad-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773550",
+      "food_name": "Catering Strawberry Caprese Salad - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-strawberry-caprese-salad-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773552",
+      "food_name": "Catering Strawberry Caprese Salad without Pecans - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-strawberry-caprese-salad-without-pecans-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773554",
+      "food_name": "Catering Strawberry Caprese Salad without Pecans - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-strawberry-caprese-salad-without-pecans-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773558",
+      "food_name": "Catering Strawberry Chicken Caprese Salad - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-strawberry-chicken-caprese-salad-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773563",
+      "food_name": "Catering Strawberry Chicken Caprese Salad - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-strawberry-chicken-caprese-salad-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773569",
+      "food_name": "Catering Strawberry Chicken Caprese Salad without Pecans - Serves 5",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-strawberry-chicken-caprese-salad-without-pecans-serves-5",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773571",
+      "food_name": "Catering Strawberry Chicken Caprese Salad without Pecans- Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-strawberry-chicken-caprese-salad-without-pecans-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773573",
+      "food_name": "Catering Strawberry Poppyseed Salad with Chicken Salad without Pecans - Serves 10",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/catering-strawberry-poppyseed-salad-with-chicken-salad-without-pecans-serves-10",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773586",
+      "food_name": "Cheese Hollandaise",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/cheese-hollandaise",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773608",
+      "food_name": "Citrus Punch without Ice - Naturally Flavored - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/citrus-punch-without-ice-naturally-flavored-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773751",
+      "food_name": "Diet Coke - 20 fl oz (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-coke-20-fl-oz-(bottle)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773758",
+      "food_name": "Diet Mountain Dew - 12 fl oz (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-mountain-dew-12-fl-oz-(can)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773766",
+      "food_name": "Diet Pepsi - 12 fl oz (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-pepsi-12-fl-oz-(can)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773777",
+      "food_name": "Diet Pepsi - 20 fl oz (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/diet-pepsi-20-fl-oz-(bottle)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773781",
+      "food_name": "Dozen Mixed Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dozen-mixed-cookies",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773782",
+      "food_name": "Dr. Pepper - 20 fl oz (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/dr-pepper-20-fl-oz-(bottle)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103773986",
+      "food_name": "Gold Peak Unsweetened Iced Tea - 18.5 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/gold-peak-unsweetened-iced-tea-185-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774186",
+      "food_name": "Mayonnaise",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/mayonnaise",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774408",
+      "food_name": "Pepsi - 20 fl oz (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pepsi-20-fl-oz-(bottle)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774435",
+      "food_name": "Pomegranate Hibiscus Herbal Tea Infusion with Ice - Naturally Flavored - 20 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/pomegranate-hibiscus-herbal-tea-infusion-with-ice-naturally-flavored-20-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774530",
+      "food_name": "Sprite Zero - 20 fl oz (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sprite-zero-20-fl-oz-(bottle)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774540",
+      "food_name": "Starry Lemon Lime - 12 fl oz (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/starry-lemon-lime-12-fl-oz-(can)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774559",
+      "food_name": "Starry Lemon Lime - 20 fl oz (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/starry-lemon-lime-20-fl-oz-(bottle)",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774713",
+      "food_name": "Strawberry Caprese Salad without Pecans - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-caprese-salad-without-pecans-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774733",
+      "food_name": "Strawberry Chicken Caprese Salad without Pecans - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-chicken-caprese-salad-without-pecans-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774738",
+      "food_name": "Strawberry Poppyseed Salad without Pecans - Whole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/strawberry-poppyseed-salad-without-pecans-whole",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774766",
+      "food_name": "Sweet Tea - Drive Thru - 30 fl oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/sweet-tea-drive-thru-30-fl-oz",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107174551",
+      "food_name": "Lobster Bisque",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/lobster-bisque",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92066034",
+      "food_name": "Hearty Beef Chili with Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/hearty-beef-chili-with-beans",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103774787",
+      "food_name": "Vegetarian Creamy Tomato - Bread Bowl with Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panera-bread/vegetarian-creamy-tomato-bread-bowl-with-soup",
+      "brand_name": "Panera Bread",
+      "food_type": "Brand"
+    }
+  ]
+}

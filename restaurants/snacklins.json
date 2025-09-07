@@ -1,0 +1,41 @@
+{
+  "restaurant": "Snacklins",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:51:31.829Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/snacklins.json",
+  "items": [
+    {
+      "food_id": "53657237",
+      "food_name": "Teriyaki Plant Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snacklins/teriyaki-plant-chips",
+      "brand_name": "Snacklins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33851039",
+      "food_name": "Chesapeake Bay",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snacklins/chesapeake-bay",
+      "brand_name": "Snacklins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62640394",
+      "food_name": "Barbecue Plant Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snacklins/barbecue-plant-crisps",
+      "brand_name": "Snacklins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70475795",
+      "food_name": "Sea Salt & Vinegar Plant Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/snacklins/sea-salt-vinegar-plant-crisps",
+      "brand_name": "Snacklins",
+      "food_type": "Brand"
+    }
+  ]
+}

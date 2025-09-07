@@ -1,0 +1,475 @@
+{
+  "restaurant": "Popeyes Chicken & Biscuits",
+  "total_items": 66,
+  "pages_extracted": 6,
+  "total_search_results": 16171,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:56:17.329Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/popeyes_chicken_biscuits.json",
+  "items": [
+    {
+      "food_id": "68049",
+      "food_name": "Biscuits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-and-biscuits/biscuits",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727239",
+      "food_name": "Cajun Fries - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/cajun-fries-regular",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727395",
+      "food_name": "Mashed Potatoes with Cajun Gravy - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/mashed-potatoes-with-cajun-gravy-regular",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727277",
+      "food_name": "Tenders - Classic - 3 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/tenders-classic-3-pieces",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727272",
+      "food_name": "Thigh Classic - 1 Piece",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/thigh-classic-1-piece",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727274",
+      "food_name": "Breast Classic - 1 Piece",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/breast-classic-1-piece",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75510005",
+      "food_name": "Tenders - Blackened - 5 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/tenders-blackened-5-pieces",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727271",
+      "food_name": "Leg Classic - 1 Piece",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/leg-classic-1-piece",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32934731",
+      "food_name": "Spicy Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/spicy-chicken-sandwich",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727401",
+      "food_name": "Red Beans & Rice - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/red-beans-rice-regular",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727261",
+      "food_name": "Classic Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/classic-chicken-sandwich",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727275",
+      "food_name": "Wing Classic - 1 Piece",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/wing-classic-1-piece",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131619",
+      "food_name": "Tenders - Blackened - 3 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/tenders-blackened-3-pieces",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727407",
+      "food_name": "Coleslaw - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/coleslaw-regular",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727393",
+      "food_name": "Homestyle Mac & Cheese - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/homestyle-mac-cheese-regular",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727248",
+      "food_name": "Ghost Pepper Wings - 6 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/ghost-pepper-wings-6-pieces",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727279",
+      "food_name": "Tenders - Classic - 5 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/tenders-classic-5-pieces",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77042835",
+      "food_name": "Blackened Ranch Dipping Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/blackened-ranch-dipping-sauce",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727236",
+      "food_name": "Sweet N Spicy Wings - 6 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/sweet-n-spicy-wings-6-pieces",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727456",
+      "food_name": "Cinnamon Apple Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/cinnamon-apple-pie",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727287",
+      "food_name": "Popcorn Shrimp - 1/4 Lb",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/popcorn-shrimp-1-4-lb",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94675525",
+      "food_name": "Ghost Pepper Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/ghost-pepper-chicken-sandwich",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4096955",
+      "food_name": "Sweet Heat Dipping Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/sweet-heat-dipping-sauce",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131624",
+      "food_name": "Mashed Potatoes with Cajun Gravy - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/mashed-potatoes-with-cajun-gravy-large",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727302",
+      "food_name": "Cajun Fries - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/cajun-fries-large",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131639",
+      "food_name": "Buttermilk Ranch Dipping Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/buttermilk-ranch-dipping-sauce",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81515772",
+      "food_name": "Boldbq Dipping Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/boldbq-dipping-sauce",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85175750",
+      "food_name": "Mardi Gras Mustard Dipping Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/mardi-gras-mustard-dipping-sauce",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81515676",
+      "food_name": "Bayou Buffalo Dipping Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/bayou-buffalo-dipping-sauce",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131696",
+      "food_name": "Minute Maid Lemonade - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/minute-maid-lemonade-small",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727385",
+      "food_name": "Nuggets - 6 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/nuggets-6-pieces",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727245",
+      "food_name": "Coke - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/coke-small",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131692",
+      "food_name": "Sweet Tea - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/sweet-tea-small",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131643",
+      "food_name": "Chicken Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/chicken-biscuit",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727256",
+      "food_name": "Strawberry Biscuit - 1 Piece",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/strawberry-biscuit-1-piece",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131629",
+      "food_name": "Red Beans & Rice - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/red-beans-rice-large",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98455070",
+      "food_name": "Butterfly Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/butterfly-shrimp",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727281",
+      "food_name": "Nuggets - 8 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/nuggets-8-pieces",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131621",
+      "food_name": "Homestyle Mac & Cheese - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/homestyle-mac-cheese-large",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131633",
+      "food_name": "Coleslaw - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/coleslaw-large",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131698",
+      "food_name": "Kids Tender - Classic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/kids-tender-classic",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131666",
+      "food_name": "Diet Coke - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/diet-coke-small",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74727284",
+      "food_name": "Nuggets - 12 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/nuggets-12-pieces",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131649",
+      "food_name": "Sausage & Gravy Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/sausage-gravy-biscuit",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131670",
+      "food_name": "Sprite - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/sprite-small",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25235393",
+      "food_name": "Creole Cocktail Dipping Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/creole-cocktail-dipping-sauce",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131645",
+      "food_name": "Sausage Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/sausage-biscuit",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131690",
+      "food_name": "Unsweetened Tea - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/unsweetened-tea-small",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131637",
+      "food_name": "Jalapeño",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/jalape%C3%B1o",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131688",
+      "food_name": "Dr Pepper - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/dr-pepper-small",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131700",
+      "food_name": "Kids Leg - Classic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/kids-leg-classic",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131671",
+      "food_name": "Fanta Strawberry - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/fanta-strawberry-small",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131704",
+      "food_name": "Kids Nuggets - 4 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/kids-nuggets-4-pieces",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131654",
+      "food_name": "Hash Rounds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/hash-rounds",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131640",
+      "food_name": "Tartar Dipping Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/tartar-dipping-sauce",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131648",
+      "food_name": "Bacon Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/bacon-biscuit",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131647",
+      "food_name": "Egg & Sausage Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/egg-sausage-biscuit",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131680",
+      "food_name": "Hawaiian Punch - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/hawaiian-punch-small",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131683",
+      "food_name": "Pepsi - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/pepsi-small",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131646",
+      "food_name": "Egg Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/egg-biscuit",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131663",
+      "food_name": "Orange Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/orange-juice",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131652",
+      "food_name": "Grits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/grits",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131681",
+      "food_name": "Mountain Dew - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/mountain-dew-small",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131685",
+      "food_name": "Diet Pepsi - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/diet-pepsi-small",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131658",
+      "food_name": "Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/coffee",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131677",
+      "food_name": "Fanta Orange - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popeyes-chicken-biscuits/fanta-orange-small",
+      "brand_name": "Popeyes Chicken & Biscuits",
+      "food_type": "Brand"
+    }
+  ]
+}

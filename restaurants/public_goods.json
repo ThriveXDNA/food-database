@@ -1,0 +1,55 @@
+{
+  "restaurant": "Public Goods",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:10:38.431Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/public_goods.json",
+  "items": [
+    {
+      "food_id": "54980336",
+      "food_name": "Ramen Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/public-goods/ramen-noodles",
+      "brand_name": "Public Goods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61142755",
+      "food_name": "Seaweed Snacks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/public-goods/seaweed-snacks",
+      "brand_name": "Public Goods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38432395",
+      "food_name": "Chocolate Almonds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/public-goods/chocolate-almonds",
+      "brand_name": "Public Goods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45619682",
+      "food_name": "Carrot Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/public-goods/carrot-soup",
+      "brand_name": "Public Goods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42383689",
+      "food_name": "Ramen Noodles Spicy Sesame Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/public-goods/ramen-noodles-spicy-sesame-oil",
+      "brand_name": "Public Goods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37857618",
+      "food_name": "Garlic Almonds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/public-goods/garlic-almonds",
+      "brand_name": "Public Goods",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "restaurant": "Bartons",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:58:15.620Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bartons.json",
+  "items": [
+    {
+      "food_id": "36787593",
+      "food_name": "Million Dollar Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bartons/million-dollar-bar",
+      "brand_name": "Bartons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1961324",
+      "food_name": "Almond Kisses",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bartons/almond-kisses",
+      "brand_name": "Bartons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45289308",
+      "food_name": "Dark Chocolate Pistachio Toffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bartons/dark-chocolate-pistachio-toffee",
+      "brand_name": "Bartons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14512524",
+      "food_name": "Dark Chocolate Sea Salt Peanuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bartons/dark-chocolate-sea-salt-peanuts",
+      "brand_name": "Bartons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36038078",
+      "food_name": "Dark Chocolate Apricots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bartons/dark-chocolate-apricots",
+      "brand_name": "Bartons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21683147",
+      "food_name": "Dark Chocolate Creme Mints",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bartons/dark-chocolate-creme-mints",
+      "brand_name": "Bartons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32851781",
+      "food_name": "Caramel Peanut Crisp Clusters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bartons/caramel-peanut-crisp-clusters",
+      "brand_name": "Bartons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50884",
+      "food_name": "Dark Chocolate Pomegranate Passion Truffles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bartons/dark-chocolate-pomegranate-passion-truffles",
+      "brand_name": "Bartons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16730364",
+      "food_name": "Dark Chocolate Coconut Almonds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bartons/dark-chocolate-coconut-almonds",
+      "brand_name": "Bartons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10938721",
+      "food_name": "Peppermint Bark",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bartons/peppermint-bark",
+      "brand_name": "Bartons",
+      "food_type": "Brand"
+    }
+  ]
+}

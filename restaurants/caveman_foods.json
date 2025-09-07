@@ -1,0 +1,62 @@
+{
+  "restaurant": "Caveman Foods",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 19,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:47:53.559Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/caveman_foods.json",
+  "items": [
+    {
+      "food_id": "6533820",
+      "food_name": "Spicy BBQ Chicken Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/caveman-foods/spicy-bbq-chicken-jerky",
+      "brand_name": "Caveman Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10185746",
+      "food_name": "Dark Chocolate Cashew Almond",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/caveman-foods/dark-chocolate-cashew-almond",
+      "brand_name": "Caveman Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7790991",
+      "food_name": "Dark Chocolate Almond Coconut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/caveman-foods/dark-chocolate-almond-coconut",
+      "brand_name": "Caveman Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28858186",
+      "food_name": "Chocolate Salted Caramel Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/caveman-foods/chocolate-salted-caramel-protein-bar",
+      "brand_name": "Caveman Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37459316",
+      "food_name": "Collagen Chocolate Walnut Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/caveman-foods/collagen-chocolate-walnut-protein-bar",
+      "brand_name": "Caveman Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62511007",
+      "food_name": "Double Dark Chocolate Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/caveman-foods/double-dark-chocolate-protein-bar",
+      "brand_name": "Caveman Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43408525",
+      "food_name": "Dark Chocolate Sea Salt Almond Nutrition Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/caveman-foods/dark-chocolate-sea-salt-almond-nutrition-bar",
+      "brand_name": "Caveman Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

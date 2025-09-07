@@ -1,0 +1,27 @@
+{
+  "restaurant": "Earthly Delights",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 88,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:29:00.413Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/earthly_delights.json",
+  "items": [
+    {
+      "food_id": "1135097",
+      "food_name": "Italian Pearled Farro",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/earthly-delights/italian-pearled-farro",
+      "brand_name": "Earthly Delights",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "243297",
+      "food_name": "Quinoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/earthly-delights/quinoa",
+      "brand_name": "Earthly Delights",
+      "food_type": "Brand"
+    }
+  ]
+}

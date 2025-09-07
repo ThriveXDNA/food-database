@@ -1,0 +1,62 @@
+{
+  "restaurant": "LA Lite",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 623,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:02:04.866Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/la_lite.json",
+  "items": [
+    {
+      "food_id": "30935",
+      "food_name": "Caramel Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-lite/caramel-bar",
+      "brand_name": "LA Lite",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79842",
+      "food_name": "Chocolate Crunch Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-lite/chocolate-crunch-bar",
+      "brand_name": "LA Lite",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72415182",
+      "food_name": "Vanilla Lite No Sugar Added Ice Cream (Gotta Have It)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/vanilla-lite-no-sugar-added-ice-cream-(gotta-have-it)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72415177",
+      "food_name": "Vanilla Lite No Sugar Added Ice Cream (Like It)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/vanilla-lite-no-sugar-added-ice-cream-(like-it)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72415180",
+      "food_name": "Vanilla Lite No Sugar Added Ice Cream (Love It)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/vanilla-lite-no-sugar-added-ice-cream-(love-it)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72415173",
+      "food_name": "Vanilla Lite No Sugar Added Ice Cream (Kids)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cold-stone-creamery/vanilla-lite-no-sugar-added-ice-cream-(kids)",
+      "brand_name": "Cold Stone Creamery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5924013",
+      "food_name": "Vanilla Lite Ice Cream Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/active-dlites/vanilla-lite-ice-cream-bar",
+      "brand_name": "Active D'Lites",
+      "food_type": "Brand"
+    }
+  ]
+}

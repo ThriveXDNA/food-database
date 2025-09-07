@@ -1,0 +1,62 @@
+{
+  "restaurant": "Supergut",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:06:22.808Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/supergut.json",
+  "items": [
+    {
+      "food_id": "66540256",
+      "food_name": "Fiber Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/supergut/fiber-mix",
+      "brand_name": "Supergut",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92685169",
+      "food_name": "GLP-1 Booster",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/supergut/glp-1-booster",
+      "brand_name": "Supergut",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65193688",
+      "food_name": "Strawberry Almond Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/supergut/strawberry-almond-bar",
+      "brand_name": "Supergut",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64910630",
+      "food_name": "Peanut Butter Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/supergut/peanut-butter-chocolate-bar",
+      "brand_name": "Supergut",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64283152",
+      "food_name": "Chocolate Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/supergut/chocolate-shake",
+      "brand_name": "Supergut",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66201331",
+      "food_name": "Vanilla Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/supergut/vanilla-shake",
+      "brand_name": "Supergut",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64195344",
+      "food_name": "Chocolate Brownie Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/supergut/chocolate-brownie-bar",
+      "brand_name": "Supergut",
+      "food_type": "Brand"
+    }
+  ]
+}

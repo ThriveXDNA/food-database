@@ -1,0 +1,48 @@
+{
+  "restaurant": "Mastro",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:11:35.049Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mastro.json",
+  "items": [
+    {
+      "food_id": "693658",
+      "food_name": "Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mastro/olive-oil",
+      "brand_name": "Mastro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15400256",
+      "food_name": "Genoa Salami",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mastro/genoa-salami",
+      "brand_name": "Mastro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73724",
+      "food_name": "Capicollo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mastro/capicollo",
+      "brand_name": "Mastro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42663",
+      "food_name": "Genoa Hot Salami",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mastro/genoa-hot-salami",
+      "brand_name": "Mastro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55064927",
+      "food_name": "Salami with Prosciutto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mastro/salami-with-prosciutto",
+      "brand_name": "Mastro",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "restaurant": "Safe + Fair",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 33,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:43:24.366Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/safe_fair.json",
+  "items": [
+    {
+      "food_id": "100987475",
+      "food_name": "Remy's Grahams",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/safe-fair/remys-grahams",
+      "brand_name": "Safe + Fair",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40026811",
+      "food_name": "Strawberry Shortcake Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/safe-fair/strawberry-shortcake-granola",
+      "brand_name": "Safe + Fair",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39285792",
+      "food_name": "Birthday Cake Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/safe-fair/birthday-cake-popcorn",
+      "brand_name": "Safe + Fair",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62723190",
+      "food_name": "Banana Bread Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/safe-fair/banana-bread-granola",
+      "brand_name": "Safe + Fair",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43782031",
+      "food_name": "Honeycrisp Apple Pie Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/safe-fair/honeycrisp-apple-pie-granola",
+      "brand_name": "Safe + Fair",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71200325",
+      "food_name": "Key Lime Pie Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/safe-fair/key-lime-pie-granola",
+      "brand_name": "Safe + Fair",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69700626",
+      "food_name": "Chocolate Chip Cookie Dough Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/safe-fair/chocolate-chip-cookie-dough-granola",
+      "brand_name": "Safe + Fair",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29357483",
+      "food_name": "Sea Salt Pea Protein Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/safe-fair/sea-salt-pea-protein-chips",
+      "brand_name": "Safe + Fair",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45100729",
+      "food_name": "Blueberry Cinnamon Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/safe-fair/blueberry-cinnamon-granola",
+      "brand_name": "Safe + Fair",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75989044",
+      "food_name": "Chocolate Candy Cane Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/safe-fair/chocolate-candy-cane-granola",
+      "brand_name": "Safe + Fair",
+      "food_type": "Brand"
+    }
+  ]
+}

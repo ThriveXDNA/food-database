@@ -1,0 +1,104 @@
+{
+  "restaurant": "New York Bakery",
+  "total_items": 13,
+  "pages_extracted": 7,
+  "total_search_results": 507,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:15:10.361Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/new_york_bakery.json",
+  "items": [
+    {
+      "food_id": "14234775",
+      "food_name": "Bread Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-york-bakery/bread-sticks",
+      "brand_name": "New York Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15630636",
+      "food_name": "Texas Toast with Real Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-york-bakery/texas-toast-with-real-cheese",
+      "brand_name": "New York Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18828393",
+      "food_name": "Ciabatta Rolls with Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-york-bakery/ciabatta-rolls-with-cheese",
+      "brand_name": "New York Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80124516",
+      "food_name": "Texas Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-york-bakery/texas-toast",
+      "brand_name": "New York Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14488426",
+      "food_name": "Texas Toast with Garlic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-york-bakery/texas-toast-with-garlic",
+      "brand_name": "New York Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55050849",
+      "food_name": "Texas Toast Garlic & Butter Croutons",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-york-bakery/texas-toast-garlic-butter-croutons",
+      "brand_name": "New York Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19203438",
+      "food_name": "Garlic Knots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-york-bakery/garlic-knots",
+      "brand_name": "New York Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39824093",
+      "food_name": "3-Cheese Cheese Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-york-bakery/3-cheese-cheese-sticks",
+      "brand_name": "New York Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44072265",
+      "food_name": "Pre-Sliced Garlic Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-york-bakery/pre-sliced-garlic-bread",
+      "brand_name": "New York Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46566249",
+      "food_name": "Cheese & Garlic Croutons",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-york-bakery/cheese-garlic-croutons",
+      "brand_name": "New York Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14958551",
+      "food_name": "Texas Toast Really Ranch Croutons",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-york-bakery/texas-toast-really-ranch-croutons",
+      "brand_name": "New York Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40811804",
+      "food_name": "Ciabatta Rolls with Real Garlic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-york-bakery/ciabatta-rolls-with-real-garlic",
+      "brand_name": "New York Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4422551",
+      "food_name": "York Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/york/york-pieces",
+      "brand_name": "York",
+      "food_type": "Brand"
+    }
+  ]
+}

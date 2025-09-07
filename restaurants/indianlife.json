@@ -1,0 +1,76 @@
+{
+  "restaurant": "Indianlife",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:38:10.261Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/indianlife.json",
+  "items": [
+    {
+      "food_id": "20230637",
+      "food_name": "Papadums",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indianlife/papadums",
+      "brand_name": "Indianlife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7230421",
+      "food_name": "Naan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indianlife/naan",
+      "brand_name": "Indianlife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73322870",
+      "food_name": "Dal Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indianlife/dal-mix",
+      "brand_name": "Indianlife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15584648",
+      "food_name": "Tortilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indianlife/tortilla",
+      "brand_name": "Indianlife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4004310",
+      "food_name": "Hot Punjabi Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indianlife/hot-punjabi-mix",
+      "brand_name": "Indianlife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27607786",
+      "food_name": "Masala Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indianlife/masala-chips",
+      "brand_name": "Indianlife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4903022",
+      "food_name": "Whole Wheat Naan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indianlife/whole-wheat-naan",
+      "brand_name": "Indianlife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2829144",
+      "food_name": "Spinach Veggie Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indianlife/spinach-veggie-wrap",
+      "brand_name": "Indianlife",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65306544",
+      "food_name": "Almond Korma",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indianlife/almond-korma",
+      "brand_name": "Indianlife",
+      "food_type": "Brand"
+    }
+  ]
+}

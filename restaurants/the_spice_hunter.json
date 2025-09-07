@@ -1,0 +1,69 @@
+{
+  "restaurant": "The Spice Hunter",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 1517,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:03:26.916Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_spice_hunter.json",
+  "items": [
+    {
+      "food_id": "335144",
+      "food_name": "Chicken Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-spice-hunter/chicken-noodle-soup",
+      "brand_name": "The Spice Hunter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6285604",
+      "food_name": "Curry Lentil Vegetarian Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-spice-hunter/curry-lentil-vegetarian-soup",
+      "brand_name": "The Spice Hunter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "471316",
+      "food_name": "Chinese Five Spice Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-spice-hunter/chinese-five-spice-blend",
+      "brand_name": "The Spice Hunter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85045",
+      "food_name": "Spicy Thai Noodle Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-spice-hunter/spicy-thai-noodle-soup",
+      "brand_name": "The Spice Hunter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88741",
+      "food_name": "Spinach & Garlic Risotto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-spice-hunter/spinach-and-garlic-risotto",
+      "brand_name": "The Spice Hunter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8539416",
+      "food_name": "Vegetarian Split Pea Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-spice-hunter/vegetarian-split-pea-soup",
+      "brand_name": "The Spice Hunter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94418",
+      "food_name": "Miso Udon Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-spice-hunter/miso-udon-soup",
+      "brand_name": "The Spice Hunter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50244543",
+      "food_name": "Everything Bagel Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-spice-hunter/everything-bagel-crunch",
+      "brand_name": "The Spice Hunter",
+      "food_type": "Brand"
+    }
+  ]
+}

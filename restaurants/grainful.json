@@ -1,0 +1,69 @@
+{
+  "restaurant": "Grainful",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:49:50.546Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/grainful.json",
+  "items": [
+    {
+      "food_id": "29125973",
+      "food_name": "Unstuffed Pepper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grainful/unstuffed-pepper",
+      "brand_name": "Grainful",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26729526",
+      "food_name": "Ranchero Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grainful/ranchero-chicken",
+      "brand_name": "Grainful",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26964691",
+      "food_name": "Mushroom & Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grainful/mushroom-chicken",
+      "brand_name": "Grainful",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36664215",
+      "food_name": "Korean Style Veggie BBQ",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grainful/korean-style-veggie-bbq",
+      "brand_name": "Grainful",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20463181",
+      "food_name": "Tuscan Bean & Kale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grainful/tuscan-bean-kale",
+      "brand_name": "Grainful",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18411743",
+      "food_name": "Porcini Mushroom Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grainful/porcini-mushroom-chicken",
+      "brand_name": "Grainful",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44103445",
+      "food_name": "Green Goddess Falafel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grainful/green-goddess-falafel",
+      "brand_name": "Grainful",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26557064",
+      "food_name": "Jambalaya",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grainful/jambalaya",
+      "brand_name": "Grainful",
+      "food_type": "Brand"
+    }
+  ]
+}

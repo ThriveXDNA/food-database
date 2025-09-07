@@ -1,0 +1,69 @@
+{
+  "restaurant": "Almond Dream",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 2086,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:55:03.577Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/almond_dream.json",
+  "items": [
+    {
+      "food_id": "5135983",
+      "food_name": "Coconut Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/almond-dream/coconut-yogurt",
+      "brand_name": "Almond Dream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "330365",
+      "food_name": "Original Almond Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/almond-dream/original-almond-drink",
+      "brand_name": "Almond Dream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2143427",
+      "food_name": "Vanilla Almond Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/almond-dream/vanilla-almond-drink",
+      "brand_name": "Almond Dream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2415397",
+      "food_name": "Chocolate Non-Dairy Frozen Dessert",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/almond-dream/chocolate-non-dairy-frozen-dessert",
+      "brand_name": "Almond Dream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2267560",
+      "food_name": "Vanilla Non-Dairy Frozen Dessert",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/almond-dream/vanilla-non-dairy-frozen-dessert",
+      "brand_name": "Almond Dream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "330370",
+      "food_name": "Unsweetened Almond Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/almond-dream/unsweetened-almond-drink",
+      "brand_name": "Almond Dream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5211943",
+      "food_name": "Vanilla Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/almond-dream/vanilla-yogurt",
+      "brand_name": "Almond Dream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4455926",
+      "food_name": "Plain Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/almond-dream/plain-yogurt",
+      "brand_name": "Almond Dream",
+      "food_type": "Brand"
+    }
+  ]
+}

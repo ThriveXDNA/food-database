@@ -1,0 +1,55 @@
+{
+  "restaurant": "FortiFX",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:08:00.539Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fortifx.json",
+  "items": [
+    {
+      "food_id": "7141991",
+      "food_name": "Fit Crunch Cookies & Cream (46g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fortifx/fit-crunch-cookies-and-cream-(46g)",
+      "brand_name": "FortiFX",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9026106",
+      "food_name": "Fit Crunch Peanut Butter (46g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fortifx/fit-crunch-peanut-butter-(46g)",
+      "brand_name": "FortiFX",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26380666",
+      "food_name": "Pretzel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fortifx/pretzel",
+      "brand_name": "FortiFX",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27203402",
+      "food_name": "Chocolate Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fortifx/chocolate-protein-bar",
+      "brand_name": "FortiFX",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4669115",
+      "food_name": "Caramel Peanut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fortifx/caramel-peanut",
+      "brand_name": "FortiFX",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66160781",
+      "food_name": "Honey Almond Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fortifx/honey-almond-protein-bar",
+      "brand_name": "FortiFX",
+      "food_type": "Brand"
+    }
+  ]
+}

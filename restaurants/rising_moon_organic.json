@@ -1,0 +1,27 @@
+{
+  "restaurant": "Rising Moon Organic",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 5644,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:18:20.861Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rising_moon_organic.json",
+  "items": [
+    {
+      "food_id": "101817",
+      "food_name": "Basil, Asiago & Pine Nut Pesto Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rising-moon-organic/basil-asiago-and-pine-nut-pesto-ravioli",
+      "brand_name": "Rising Moon Organic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75527",
+      "food_name": "Butternut Squash Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rising-moon-organic/butternut-squash-ravioli",
+      "brand_name": "Rising Moon Organic",
+      "food_type": "Brand"
+    }
+  ]
+}

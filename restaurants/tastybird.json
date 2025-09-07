@@ -1,0 +1,48 @@
+{
+  "restaurant": "Tastybird",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:10:56.589Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/tastybird.json",
+  "items": [
+    {
+      "food_id": "11200384",
+      "food_name": "Cornish Hen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tastybird/cornish-hen",
+      "brand_name": "Tastybird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "702039",
+      "food_name": "Chicken Breast Tenderloins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tastybird/chicken-breast-tenderloins",
+      "brand_name": "Tastybird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "436708",
+      "food_name": "Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tastybird/chicken",
+      "brand_name": "Tastybird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5295541",
+      "food_name": "Chicken Wing Drummettes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tastybird/chicken-wing-drummettes",
+      "brand_name": "Tastybird",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46534937",
+      "food_name": "Wings of Fire",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tastybird/wings-of-fire",
+      "brand_name": "Tastybird",
+      "food_type": "Brand"
+    }
+  ]
+}

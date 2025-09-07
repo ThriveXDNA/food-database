@@ -1,0 +1,41 @@
+{
+  "restaurant": "The Pasta House Co.",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 3385,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:48:54.787Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_pasta_house_co.json",
+  "items": [
+    {
+      "food_id": "1633502",
+      "food_name": "House Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-pasta-house-co/house-salad",
+      "brand_name": "The Pasta House Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1308928",
+      "food_name": "Dinner Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-pasta-house-co/dinner-roll",
+      "brand_name": "The Pasta House Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1350695",
+      "food_name": "Famous Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-pasta-house-co/famous-salad-dressing",
+      "brand_name": "The Pasta House Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5316346",
+      "food_name": "Fat Free Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-pasta-house-co/fat-free-salad-dressing",
+      "brand_name": "The Pasta House Co.",
+      "food_type": "Brand"
+    }
+  ]
+}

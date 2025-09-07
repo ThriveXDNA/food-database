@@ -1,0 +1,41 @@
+{
+  "restaurant": "Casa Ole",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 30,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:35:27.981Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/casa_ole.json",
+  "items": [
+    {
+      "food_id": "337502",
+      "food_name": "Spinach Enchiladas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-ole/spinach-enchiladas",
+      "brand_name": "Casa Ole",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13787919",
+      "food_name": "Burrito Con Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-ole/burrito-con-queso",
+      "brand_name": "Casa Ole",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4516529",
+      "food_name": "Grilled Chicken & Vegetable Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-ole/grilled-chicken-vegetable-salad",
+      "brand_name": "Casa Ole",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6345894",
+      "food_name": "Acapulco Ole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/casa-ole/acapulco-ole",
+      "brand_name": "Casa Ole",
+      "food_type": "Brand"
+    }
+  ]
+}

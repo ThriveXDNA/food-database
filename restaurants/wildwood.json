@@ -1,0 +1,69 @@
+{
+  "restaurant": "Wildwood",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:33:56.291Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/wildwood.json",
+  "items": [
+    {
+      "food_id": "44319",
+      "food_name": "High-Protein Super Firm Plain Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wildwood/high-protein-super-firm-plain-tofu",
+      "brand_name": "Wildwood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30782125",
+      "food_name": "Baked Tofu Teriyaki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wildwood/baked-tofu-teriyaki",
+      "brand_name": "Wildwood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44489794",
+      "food_name": "Organic Firm Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wildwood/organic-firm-tofu",
+      "brand_name": "Wildwood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6211098",
+      "food_name": "Extra Firm Sproutofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wildwood/extra-firm-sproutofu",
+      "brand_name": "Wildwood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1784231",
+      "food_name": "Baked Tofu Savory",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wildwood/baked-tofu-savory",
+      "brand_name": "Wildwood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35977471",
+      "food_name": "Organic Tofu 2 Pack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wildwood/organic-tofu-2-pack",
+      "brand_name": "Wildwood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2636005",
+      "food_name": "Royal Thai Baked SprouTofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wildwood/royal-thai-baked-sproutofu",
+      "brand_name": "Wildwood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21090570",
+      "food_name": "Organic Soymilk Creamer Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wildwood/organic-soymilk-creamer-original",
+      "brand_name": "Wildwood",
+      "food_type": "Brand"
+    }
+  ]
+}

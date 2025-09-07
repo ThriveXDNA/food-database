@@ -1,0 +1,27 @@
+{
+  "restaurant": "Salem Baking",
+  "total_items": 2,
+  "pages_extracted": 3,
+  "total_search_results": 138,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:47:35.062Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/salem_baking.json",
+  "items": [
+    {
+      "food_id": "92241",
+      "food_name": "Moravian Sugar Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salem-baking/moravian-sugar-cake",
+      "brand_name": "Salem Baking",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12247533",
+      "food_name": "Meyer Lemon Moravian Cookie Thins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salem-baking/meyer-lemon-moravian-cookie-thins",
+      "brand_name": "Salem Baking",
+      "food_type": "Brand"
+    }
+  ]
+}

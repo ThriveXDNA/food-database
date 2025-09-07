@@ -1,0 +1,69 @@
+{
+  "restaurant": "Crider",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:47:56.602Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/crider.json",
+  "items": [
+    {
+      "food_id": "7713558",
+      "food_name": "Premium Chunk Chicken in Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crider/premium-chunk-chicken-in-water",
+      "brand_name": "Crider",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18848745",
+      "food_name": "White Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crider/white-chicken",
+      "brand_name": "Crider",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3265691",
+      "food_name": "Deluxe Chunk White Chicken in Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crider/deluxe-chunk-white-chicken-in-water",
+      "brand_name": "Crider",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94941704",
+      "food_name": "Chicken Breast with Rib Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crider/chicken-breast-with-rib-meat",
+      "brand_name": "Crider",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17994752",
+      "food_name": "Premium White Chicken in Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crider/premium-white-chicken-in-water",
+      "brand_name": "Crider",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48449343",
+      "food_name": "Ground Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crider/ground-pork",
+      "brand_name": "Crider",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5825621",
+      "food_name": "Canned Turkey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crider/canned-turkey",
+      "brand_name": "Crider",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6635781",
+      "food_name": "Deluxe Chunk White Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crider/deluxe-chunk-white-chicken",
+      "brand_name": "Crider",
+      "food_type": "Brand"
+    }
+  ]
+}

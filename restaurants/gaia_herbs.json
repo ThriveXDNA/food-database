@@ -1,0 +1,41 @@
+{
+  "restaurant": "Gaia Herbs",
+  "total_items": 4,
+  "pages_extracted": 2,
+  "total_search_results": 87,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:03:23.725Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/gaia_herbs.json",
+  "items": [
+    {
+      "food_id": "12915623",
+      "food_name": "Tumeric Boost",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gaia-herbs/tumeric-boost",
+      "brand_name": "Gaia Herbs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64657526",
+      "food_name": "Black Elderberry Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gaia-herbs/black-elderberry-syrup",
+      "brand_name": "Gaia Herbs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16469226",
+      "food_name": "Golden Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gaia-herbs/golden-milk",
+      "brand_name": "Gaia Herbs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45378058",
+      "food_name": "Maca Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gaia-herbs/maca-powder",
+      "brand_name": "Gaia Herbs",
+      "food_type": "Brand"
+    }
+  ]
+}

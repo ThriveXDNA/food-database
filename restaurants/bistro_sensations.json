@@ -1,0 +1,41 @@
+{
+  "restaurant": "Bistro Sensations",
+  "total_items": 4,
+  "pages_extracted": 3,
+  "total_search_results": 116,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:11:25.612Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bistro_sensations.json",
+  "items": [
+    {
+      "food_id": "43993846",
+      "food_name": "Mozzarella Chicken Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bistro-sensations/mozzarella-chicken-sausage",
+      "brand_name": "Bistro Sensations",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59042",
+      "food_name": "Chicken Sausage Smoked Mozzarella with Artichoke and Garlic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bistro-sensations/chicken-sausage-smoked-mozzarella-with-artichoke-and-garlic",
+      "brand_name": "Bistro Sensations",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2769524",
+      "food_name": "Chicken Apple Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bistro-sensations/chicken-apple-sausage",
+      "brand_name": "Bistro Sensations",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79212398",
+      "food_name": "Organic Basil & Roasted Garlic Smoked Chicken Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bistro-sensations/organic-basil-roasted-garlic-smoked-chicken-sausage",
+      "brand_name": "Bistro Sensations",
+      "food_type": "Brand"
+    }
+  ]
+}

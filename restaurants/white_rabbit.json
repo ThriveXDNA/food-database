@@ -1,0 +1,27 @@
+{
+  "restaurant": "White Rabbit",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 3860,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:02:53.468Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/white_rabbit.json",
+  "items": [
+    {
+      "food_id": "4181943",
+      "food_name": "White Rabbit Creamy Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/white-rabbit/white-rabbit-creamy-candy",
+      "brand_name": "White Rabbit",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63952063",
+      "food_name": "Ice Cream Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/white-rabbit/ice-cream-bar",
+      "brand_name": "White Rabbit",
+      "food_type": "Brand"
+    }
+  ]
+}

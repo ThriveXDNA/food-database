@@ -1,0 +1,20 @@
+{
+  "restaurant": "Muscle Tank",
+  "total_items": 1,
+  "pages_extracted": 2,
+  "total_search_results": 53,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:01:01.282Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/muscle_tank.json",
+  "items": [
+    {
+      "food_id": "41082404",
+      "food_name": "Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/muscle-tank/protein-bar",
+      "brand_name": "Muscle Tank",
+      "food_type": "Brand"
+    }
+  ]
+}

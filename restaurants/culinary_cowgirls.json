@@ -1,0 +1,34 @@
+{
+  "restaurant": "Culinary Cowgirls",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 33,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:06:50.926Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/culinary_cowgirls.json",
+  "items": [
+    {
+      "food_id": "40352770",
+      "food_name": "Lone Star Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-cowgirls/lone-star-queso",
+      "brand_name": "Culinary Cowgirls",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81395723",
+      "food_name": "Queso Blanco Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-cowgirls/queso-blanco-dip",
+      "brand_name": "Culinary Cowgirls",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37481885",
+      "food_name": "Bacon Wrapped Jalapeno Popper Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-cowgirls/bacon-wrapped-jalapeno-popper-dip",
+      "brand_name": "Culinary Cowgirls",
+      "food_type": "Brand"
+    }
+  ]
+}

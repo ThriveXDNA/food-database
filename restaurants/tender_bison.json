@@ -1,0 +1,48 @@
+{
+  "restaurant": "Tender Bison",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 311,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:25:29.362Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/tender_bison.json",
+  "items": [
+    {
+      "food_id": "13966663",
+      "food_name": "Bison Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tender-bison/bison-burger",
+      "brand_name": "Tender Bison",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "232023",
+      "food_name": "Ground Bison",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tender-bison/ground-bison",
+      "brand_name": "Tender Bison",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1388885",
+      "food_name": "Bison Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tender-bison/bison-steak",
+      "brand_name": "Tender Bison",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2456007",
+      "food_name": "Sirloin Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tender-bison/sirloin-steak",
+      "brand_name": "Tender Bison",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45117688",
+      "food_name": "Bison Chuck Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tender-bison/bison-chuck-roast",
+      "brand_name": "Tender Bison",
+      "food_type": "Brand"
+    }
+  ]
+}

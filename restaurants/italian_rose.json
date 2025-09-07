@@ -1,0 +1,55 @@
+{
+  "restaurant": "Italian Rose",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 2941,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:44:20.242Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/italian_rose.json",
+  "items": [
+    {
+      "food_id": "4516068",
+      "food_name": "Garlic Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/italian-rose/garlic-spread",
+      "brand_name": "Italian Rose",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14903230",
+      "food_name": "Fresh Cilantro Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/italian-rose/fresh-cilantro-salsa",
+      "brand_name": "Italian Rose",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6189282",
+      "food_name": "Mango Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/italian-rose/mango-salsa",
+      "brand_name": "Italian Rose",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1322450",
+      "food_name": "2 Bean & Corn Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/italian-rose/2-bean-and-corn-salsa",
+      "brand_name": "Italian Rose",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15960255",
+      "food_name": "Pimento Cheese Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/italian-rose/pimento-cheese-spread",
+      "brand_name": "Italian Rose",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8666859",
+      "food_name": "Cranberry Walnut Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/italian-rose/cranberry-walnut-dip",
+      "brand_name": "Italian Rose",
+      "food_type": "Brand"
+    }
+  ]
+}

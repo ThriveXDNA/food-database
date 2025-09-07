@@ -1,0 +1,20 @@
+{
+  "restaurant": "Pita Express",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 611,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:46:36.217Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pita_express.json",
+  "items": [
+    {
+      "food_id": "7128154",
+      "food_name": "Pita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pita-express/pita",
+      "brand_name": "Pita Express",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "restaurant": "The Biggest Loser",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 1124,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:24:18.352Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_biggest_loser.json",
+  "items": [
+    {
+      "food_id": "5223054",
+      "food_name": "Celery Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-biggest-loser/celery-sticks",
+      "brand_name": "The Biggest Loser",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7970261",
+      "food_name": "Kale Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-biggest-loser/kale-salad",
+      "brand_name": "The Biggest Loser",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1185034",
+      "food_name": "Broke Bean Stew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-biggest-loser/broke-bean-stew",
+      "brand_name": "The Biggest Loser",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1093201",
+      "food_name": "Grilled Chicken Parmesan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-biggest-loser/grilled-chicken-parmesan",
+      "brand_name": "The Biggest Loser",
+      "food_type": "Brand"
+    }
+  ]
+}

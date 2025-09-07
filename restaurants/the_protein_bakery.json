@@ -1,0 +1,34 @@
+{
+  "restaurant": "The Protein Bakery",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 5321,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:14:57.779Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_protein_bakery.json",
+  "items": [
+    {
+      "food_id": "2590719",
+      "food_name": "Peanut Butter Blondie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-protein-bakery/peanut-butter-blondie",
+      "brand_name": "The Protein Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69360683",
+      "food_name": "Almond Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-protein-bakery/almond-brownie",
+      "brand_name": "The Protein Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2593369",
+      "food_name": "Chocolate Chocolate Cherry Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-protein-bakery/chocolate-chocolate-cherry-cookie",
+      "brand_name": "The Protein Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

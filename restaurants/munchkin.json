@@ -1,0 +1,34 @@
+{
+  "restaurant": "Munchkin",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:00:42.818Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/munchkin.json",
+  "items": [
+    {
+      "food_id": "20677466",
+      "food_name": "Lactation Cookie Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/munchkin/lactation-cookie-bites",
+      "brand_name": "Munchkin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46874116",
+      "food_name": "Lactation Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/munchkin/lactation-bar",
+      "brand_name": "Munchkin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72624030",
+      "food_name": "Lactation Drink Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/munchkin/lactation-drink-mix",
+      "brand_name": "Munchkin",
+      "food_type": "Brand"
+    }
+  ]
+}

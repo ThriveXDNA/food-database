@@ -1,0 +1,62 @@
+{
+  "restaurant": "Thundercloud Subs",
+  "total_items": 7,
+  "pages_extracted": 5,
+  "total_search_results": 222,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:58:22.687Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/thundercloud_subs.json",
+  "items": [
+    {
+      "food_id": "43548",
+      "food_name": "Turkey Sub (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/thundercloud-subs/turkey-sub-(large)",
+      "brand_name": "Thundercloud Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1834161",
+      "food_name": "Turkey Sub (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/thundercloud-subs/turkey-sub-(small)",
+      "brand_name": "Thundercloud Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1324020",
+      "food_name": "Austin Club (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/thundercloud-subs/austin-club-(small)",
+      "brand_name": "Thundercloud Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1445617",
+      "food_name": "California Club (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/thundercloud-subs/california-club-(small)",
+      "brand_name": "Thundercloud Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "448783",
+      "food_name": "The Club (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/thundercloud-subs/the-club-(small)",
+      "brand_name": "Thundercloud Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41597",
+      "food_name": "Veggie Delite with Hummus (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/thundercloud-subs/veggie-delite-with-hummus-(large)",
+      "brand_name": "Thundercloud Subs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4730226",
+      "food_name": "American Classic (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/thundercloud-subs/american-classic-(large)",
+      "brand_name": "Thundercloud Subs",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "restaurant": "Idaho Spuds",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 29,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:21:49.675Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/idaho_spuds.json",
+  "items": [
+    {
+      "food_id": "98247",
+      "food_name": "Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/idaho-spuds/potatoes",
+      "brand_name": "Idaho Spuds",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91442576",
+      "food_name": "Hashbrowns Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/idaho-spuds/hashbrowns-potatoes",
+      "brand_name": "Idaho Spuds",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29973469",
+      "food_name": "Hash Brown Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/idaho-spuds/hash-brown-potatoes",
+      "brand_name": "Idaho Spuds",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2104782",
+      "food_name": "Mashed Potatoes Flakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/idaho-spuds/mashed-potatoes-flakes",
+      "brand_name": "Idaho Spuds",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25559808",
+      "food_name": "Golden Grill Hashbrown Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/idaho-spuds/golden-grill-hashbrown-potatoes",
+      "brand_name": "Idaho Spuds",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17378342",
+      "food_name": "Roasted Garlic Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/idaho-spuds/roasted-garlic-mashed-potatoes",
+      "brand_name": "Idaho Spuds",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10353357",
+      "food_name": "Supreme Baked Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/idaho-spuds/supreme-baked-mashed-potatoes",
+      "brand_name": "Idaho Spuds",
+      "food_type": "Brand"
+    }
+  ]
+}

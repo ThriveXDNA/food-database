@@ -1,0 +1,55 @@
+{
+  "restaurant": "Soupergirl",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:34:25.636Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/soupergirl.json",
+  "items": [
+    {
+      "food_id": "42980128",
+      "food_name": "Roasted Pumpkin Bisque",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soupergirl/roasted-pumpkin-bisque",
+      "brand_name": "Soupergirl",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47074555",
+      "food_name": "Mediterranean Red Lentil Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soupergirl/mediterranean-red-lentil-soup",
+      "brand_name": "Soupergirl",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46829869",
+      "food_name": "Harvest Lentil Butternut Squash Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soupergirl/harvest-lentil-butternut-squash-soup",
+      "brand_name": "Soupergirl",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92860929",
+      "food_name": "Portuguese White Bean",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soupergirl/portuguese-white-bean",
+      "brand_name": "Soupergirl",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96634590",
+      "food_name": "Soul Warming Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soupergirl/soul-warming-chili",
+      "brand_name": "Soupergirl",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44730825",
+      "food_name": "Thai Style Chickpea Extravaganza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/soupergirl/thai-style-chickpea-extravaganza",
+      "brand_name": "Soupergirl",
+      "food_type": "Brand"
+    }
+  ]
+}

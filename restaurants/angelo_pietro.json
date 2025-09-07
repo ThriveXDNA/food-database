@@ -1,0 +1,27 @@
+{
+  "restaurant": "Angelo Pietro",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:11:45.547Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/angelo_pietro.json",
+  "items": [
+    {
+      "food_id": "80574",
+      "food_name": "Sesame Miso Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/angelo-pietro/sesame-miso-dressing",
+      "brand_name": "Angelo Pietro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58407332",
+      "food_name": "Original Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/angelo-pietro/original-dressing",
+      "brand_name": "Angelo Pietro",
+      "food_type": "Brand"
+    }
+  ]
+}

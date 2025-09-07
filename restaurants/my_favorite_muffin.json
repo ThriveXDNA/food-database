@@ -1,0 +1,55 @@
+{
+  "restaurant": "My Favorite Muffin",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 911,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:04:12.864Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/my_favorite_muffin.json",
+  "items": [
+    {
+      "food_id": "4467349",
+      "food_name": "Lemon Poppyseed Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/my-favorite-muffin/lemon-poppyseed-muffin",
+      "brand_name": "My Favorite Muffin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6093993",
+      "food_name": "Blueberry Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/my-favorite-muffin/blueberry-muffin",
+      "brand_name": "My Favorite Muffin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13215254",
+      "food_name": "Double Chocolate Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/my-favorite-muffin/double-chocolate-muffin",
+      "brand_name": "My Favorite Muffin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3095010",
+      "food_name": "Banana Nut Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/my-favorite-muffin/banana-nut-muffin",
+      "brand_name": "My Favorite Muffin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6328017",
+      "food_name": "Cherry Cheesecake Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/my-favorite-muffin/cherry-cheesecake-muffin",
+      "brand_name": "My Favorite Muffin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7149498",
+      "food_name": "Sesame Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/my-favorite-muffin/sesame-bagel",
+      "brand_name": "My Favorite Muffin",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "brand_name": "Royal Hawaiian Orchards",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 410,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:16:07.999Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/royal_hawaiian_orchards.json",
+  "items": [
+    {
+      "food_id": "58462566",
+      "food_name": "Natural Macadamias",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/royal-hawaiian-orchards/natural-macadamias",
+      "brand_name": "Royal Hawaiian Orchards",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20656786",
+      "food_name": "Macadamia Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/royal-hawaiian-orchards/macadamia-butter",
+      "brand_name": "Royal Hawaiian Orchards",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7953801",
+      "food_name": "Sea Salt Macadamias",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/royal-hawaiian-orchards/sea-salt-macadamias",
+      "brand_name": "Royal Hawaiian Orchards",
+      "food_type": "Brand"
+    }
+  ]
+}

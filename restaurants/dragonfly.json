@@ -1,0 +1,62 @@
+{
+  "restaurant": "Dragonfly",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:21:08.039Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dragonfly.json",
+  "items": [
+    {
+      "food_id": "69360807",
+      "food_name": "Chinese Style BBQ Pork Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dragonfly/chinese-style-bbq-pork-buns",
+      "brand_name": "Dragonfly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50653856",
+      "food_name": "Pad Thai Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dragonfly/pad-thai-sauce",
+      "brand_name": "Dragonfly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "812157",
+      "food_name": "Coconut Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dragonfly/coconut-milk",
+      "brand_name": "Dragonfly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15050241",
+      "food_name": "Vegetarian Tom Yum Paste",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dragonfly/vegetarian-tom-yum-paste",
+      "brand_name": "Dragonfly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96678124",
+      "food_name": "Vegetarian Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dragonfly/vegetarian-powder",
+      "brand_name": "Dragonfly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94140480",
+      "food_name": "Instant Red Curry Paste",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dragonfly/instant-red-curry-paste",
+      "brand_name": "Dragonfly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50799759",
+      "food_name": "Corn Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dragonfly/corn-roll",
+      "brand_name": "Dragonfly",
+      "food_type": "Brand"
+    }
+  ]
+}

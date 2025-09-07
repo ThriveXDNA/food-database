@@ -1,0 +1,83 @@
+{
+  "restaurant": "PICS",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:29:05.053Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pics.json",
+  "items": [
+    {
+      "food_id": "64044862",
+      "food_name": "Greek Whole Milk Yogurt Plain",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pics/greek-whole-milk-yogurt-plain",
+      "brand_name": "Pics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51443069",
+      "food_name": "Albacore Tuna Solid White in Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pics/albacore-tuna-solid-white-in-water",
+      "brand_name": "PICS",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24540792",
+      "food_name": "Turkey Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pics/turkey-bacon",
+      "brand_name": "PICS",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77796926",
+      "food_name": "Swiss Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pics/swiss-cheese",
+      "brand_name": "Pics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39991677",
+      "food_name": "Chipotle Black Bean Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pics/chipotle-black-bean-burger",
+      "brand_name": "PICS",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56849937",
+      "food_name": "Ricotta & Romano Cheese Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pics/ricotta-romano-cheese-ravioli",
+      "brand_name": "Pics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18186975",
+      "food_name": "Unsweetened Almond Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pics/unsweetened-almond-milk",
+      "brand_name": "Pics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51177330",
+      "food_name": "Fiber Active Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pics/fiber-active-cereal",
+      "brand_name": "PICS",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46784887",
+      "food_name": "Vegetable Spring Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pics/vegetable-spring-rolls",
+      "brand_name": "PICS",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78060658",
+      "food_name": "Chunk Light Tuna in Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pics/chunk-light-tuna-in-water",
+      "brand_name": "PICS",
+      "food_type": "Brand"
+    }
+  ]
+}

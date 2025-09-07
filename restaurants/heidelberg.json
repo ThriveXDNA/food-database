@@ -1,0 +1,104 @@
+{
+  "restaurant": "Heidelberg",
+  "total_items": 13,
+  "pages_extracted": 1,
+  "total_search_results": 13,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:50:44.975Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/heidelberg.json",
+  "items": [
+    {
+      "food_id": "32905041",
+      "food_name": "Sourdough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heidelberg/sourdough",
+      "brand_name": "Heidelberg",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3567432",
+      "food_name": "French Peasant Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heidelberg/french-peasant-bread",
+      "brand_name": "Heidelberg",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10545328",
+      "food_name": "Cracked Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heidelberg/cracked-wheat-bread",
+      "brand_name": "Heidelberg",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1367204",
+      "food_name": "Multigrain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heidelberg/multigrain-bread",
+      "brand_name": "Heidelberg",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30588350",
+      "food_name": "Rye Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heidelberg/rye-bread",
+      "brand_name": "Heidelberg",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81062324",
+      "food_name": "Brioche Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heidelberg/brioche-rolls",
+      "brand_name": "Heidelberg",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3609096",
+      "food_name": "White Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heidelberg/white-bread",
+      "brand_name": "Heidelberg",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12916257",
+      "food_name": "Jewish Rye Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heidelberg/jewish-rye-bread",
+      "brand_name": "Heidelberg",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14604915",
+      "food_name": "Whole Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heidelberg/whole-wheat-bread",
+      "brand_name": "Heidelberg",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12883362",
+      "food_name": "Oat Bran",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heidelberg/oat-bran",
+      "brand_name": "Heidelberg",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76023630",
+      "food_name": "100% Whole Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heidelberg/100-whole-wheat-bread",
+      "brand_name": "Heidelberg",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11030026",
+      "food_name": "Cracked Wheat Dinner Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heidelberg/cracked-wheat-dinner-rolls",
+      "brand_name": "Heidelberg",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17923010",
+      "food_name": "Hearty Flaxseed Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heidelberg/hearty-flaxseed-bread",
+      "brand_name": "Heidelberg",
+      "food_type": "Brand"
+    }
+  ]
+}

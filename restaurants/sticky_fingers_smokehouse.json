@@ -1,0 +1,20 @@
+{
+  "restaurant": "Sticky Fingers Smokehouse",
+  "total_items": 1,
+  "pages_extracted": 4,
+  "total_search_results": 197,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:52:01.251Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sticky_fingers_smokehouse.json",
+  "items": [
+    {
+      "food_id": "5983082",
+      "food_name": "Carolina Sweet Barbecue Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sticky-fingers-smokehouse/carolina-sweet-barbecue-sauce",
+      "brand_name": "Sticky Fingers Smokehouse",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "restaurant": "Handy",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:39:16.933Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/handy.json",
+  "items": [
+    {
+      "food_id": "15805643",
+      "food_name": "Crab Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/handy/crab-meat",
+      "brand_name": "Handy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53069268",
+      "food_name": "Salmon Wellington",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/handy/salmon-wellington",
+      "brand_name": "Handy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "800272",
+      "food_name": "Mini Crab Cake Appetizers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/handy/mini-crab-cake-appetizers",
+      "brand_name": "Handy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3223728",
+      "food_name": "Tempura Soft Crabs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/handy/tempura-soft-crabs",
+      "brand_name": "Handy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34571092",
+      "food_name": "Salmon Superfood Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/handy/salmon-superfood-bites",
+      "brand_name": "Handy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19602043",
+      "food_name": "Shrimp Power Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/handy/shrimp-power-bites",
+      "brand_name": "Handy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2755579",
+      "food_name": "Handmade Crab Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/handy/handmade-crab-cakes",
+      "brand_name": "Handy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3281415",
+      "food_name": "Premium Crab Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/handy/premium-crab-cakes",
+      "brand_name": "Handy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2381869",
+      "food_name": "Soft Crab",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/handy/soft-crab",
+      "brand_name": "Handy",
+      "food_type": "Brand"
+    }
+  ]
+}

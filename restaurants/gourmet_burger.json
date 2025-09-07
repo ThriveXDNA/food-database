@@ -1,0 +1,27 @@
+{
+  "restaurant": "Gourmet Burger",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 1483,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:26:02.652Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/gourmet_burger.json",
+  "items": [
+    {
+      "food_id": "22870716",
+      "food_name": "100% Ground Beef Prime Rib Steakburgers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gourmet-burger/100-ground-beef-prime-rib-steakburgers",
+      "brand_name": "Gourmet Burger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12477570",
+      "food_name": "New York Strip Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gourmet-burger/new-york-strip-burger",
+      "brand_name": "Gourmet Burger",
+      "food_type": "Brand"
+    }
+  ]
+}

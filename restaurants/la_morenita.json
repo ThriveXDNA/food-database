@@ -1,0 +1,34 @@
+{
+  "restaurant": "La Morenita",
+  "total_items": 3,
+  "pages_extracted": 2,
+  "total_search_results": 93,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:23:51.307Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/la_morenita.json",
+  "items": [
+    {
+      "food_id": "3993567",
+      "food_name": "Queso Fresco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-morenita/queso-fresco",
+      "brand_name": "La Morenita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3020046",
+      "food_name": "Mexican Melting Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-morenita/mexican-melting-cheese",
+      "brand_name": "La Morenita",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69700106",
+      "food_name": "Queso Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/la-morenita/queso-quesadilla",
+      "brand_name": "La Morenita",
+      "food_type": "Brand"
+    }
+  ]
+}

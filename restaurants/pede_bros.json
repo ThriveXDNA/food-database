@@ -1,0 +1,27 @@
+{
+  "restaurant": "Pede Bros.",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:17:57.997Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pede_bros.json",
+  "items": [
+    {
+      "food_id": "88113",
+      "food_name": "Cheese Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pede-bros/cheese-ravioli",
+      "brand_name": "Pede Bros.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88111",
+      "food_name": "Beef Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pede-bros/beef-ravioli",
+      "brand_name": "Pede Bros.",
+      "food_type": "Brand"
+    }
+  ]
+}

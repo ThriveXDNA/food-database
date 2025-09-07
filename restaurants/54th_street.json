@@ -1,0 +1,76 @@
+{
+  "restaurant": "54th Street",
+  "total_items": 9,
+  "pages_extracted": 5,
+  "total_search_results": 221,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:44:24.195Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/54th_street.json",
+  "items": [
+    {
+      "food_id": "17850354",
+      "food_name": "Fresh Steamed Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/54th-street/fresh-steamed-vegetables",
+      "brand_name": "54th Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46946716",
+      "food_name": "Chicken Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/54th-street/chicken-quesadilla",
+      "brand_name": "54th Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6827421",
+      "food_name": "Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/54th-street/fries",
+      "brand_name": "54th Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32203471",
+      "food_name": "Cilantro Honey Lime Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/54th-street/cilantro-honey-lime-dressing",
+      "brand_name": "54th Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19556180",
+      "food_name": "Waffle Fries & Gringo Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/54th-street/waffle-fries-gringo-dip",
+      "brand_name": "54th Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34993741",
+      "food_name": "Chipotle Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/54th-street/chipotle-ranch",
+      "brand_name": "54th Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93289187",
+      "food_name": "French Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/54th-street/french-fries",
+      "brand_name": "54th Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58836721",
+      "food_name": "Spanish Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/54th-street/spanish-rice",
+      "brand_name": "54th Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35612793",
+      "food_name": "Honey Mustard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/54th-street/honey-mustard",
+      "brand_name": "54th Street",
+      "food_type": "Brand"
+    }
+  ]
+}

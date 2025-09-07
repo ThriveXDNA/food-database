@@ -1,0 +1,48 @@
+{
+  "restaurant": "Copper River",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 27,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:07:59.004Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/copper_river.json",
+  "items": [
+    {
+      "food_id": "4737522",
+      "food_name": "Wild Sockeye Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/copper-river/wild-sockeye-salmon",
+      "brand_name": "Copper River",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76315281",
+      "food_name": "Wild Alaska Pink Salmon Ikura",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/copper-river/wild-alaska-pink-salmon-ikura",
+      "brand_name": "Copper River",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6848582",
+      "food_name": "Wild Alaskan Marinated Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/copper-river/wild-alaskan-marinated-salmon",
+      "brand_name": "Copper River",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1655063",
+      "food_name": "Alaskan Wild Sockeye Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/copper-river/alaskan-wild-sockeye-salmon",
+      "brand_name": "Copper River",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3790215",
+      "food_name": "Smoked Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/copper-river/smoked-salmon",
+      "brand_name": "Copper River",
+      "food_type": "Brand"
+    }
+  ]
+}

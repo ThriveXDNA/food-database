@@ -1,0 +1,41 @@
+{
+  "restaurant": "Dinosaur Bar-B-Que",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 3514,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:59:40.837Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dinosaur_bar_b_que.json",
+  "items": [
+    {
+      "food_id": "3817575",
+      "food_name": "Sensuous Slathering Bar-B-Que Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dinosaur-bar-b-que/sensuous-slathering-bar-b-que-sauce",
+      "brand_name": "Dinosaur Bar-B-Que",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14021332",
+      "food_name": "Bar-B-Que Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dinosaur-bar-b-que/bar-b-que-beans",
+      "brand_name": "Dinosaur Bar-B-Que",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4041411",
+      "food_name": "Wango Tango",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dinosaur-bar-b-que/wango-tango",
+      "brand_name": "Dinosaur Bar-B-Que",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2314756",
+      "food_name": "Pulled Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dinosaur-bar-b-que/pulled-pork",
+      "brand_name": "Dinosaur Bar-B-Que",
+      "food_type": "Brand"
+    }
+  ]
+}

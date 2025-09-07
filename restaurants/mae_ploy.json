@@ -1,0 +1,62 @@
+{
+  "restaurant": "Mae Ploy",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:34:02.337Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mae_ploy.json",
+  "items": [
+    {
+      "food_id": "1198591",
+      "food_name": "Sweet Chilli Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mae-ploy/sweet-chilli-sauce",
+      "brand_name": "Mae Ploy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60422996",
+      "food_name": "Yellow Curry Paste",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mae-ploy/yellow-curry-paste",
+      "brand_name": "Mae Ploy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "666234",
+      "food_name": "Red Curry Paste",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mae-ploy/red-curry-paste",
+      "brand_name": "Mae Ploy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19108072",
+      "food_name": "Green Curry Paste",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mae-ploy/green-curry-paste",
+      "brand_name": "Mae Ploy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2178724",
+      "food_name": "Panang Curry Paste",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mae-ploy/panang-curry-paste",
+      "brand_name": "Mae Ploy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51841213",
+      "food_name": "Thai Pineapple Salad Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mae-ploy/thai-pineapple-salad-dressing",
+      "brand_name": "Mae Ploy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31109162",
+      "food_name": "Coconut Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mae-ploy/coconut-cream",
+      "brand_name": "Mae Ploy",
+      "food_type": "Brand"
+    }
+  ]
+}

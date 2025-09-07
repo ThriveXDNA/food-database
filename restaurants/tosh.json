@@ -1,0 +1,76 @@
+{
+  "restaurant": "Tosh",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:57:01.572Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/tosh.json",
+  "items": [
+    {
+      "food_id": "9288840",
+      "food_name": "Chocolate Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tosh/chocolate-cookies",
+      "brand_name": "Tosh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24452077",
+      "food_name": "Galleta Wafer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tosh/galleta-wafer",
+      "brand_name": "Tosh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2750463",
+      "food_name": "Bran Crackers with Honey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tosh/bran-crackers-with-honey",
+      "brand_name": "Tosh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4150421",
+      "food_name": "Yogurt & Strawberries Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tosh/yogurt-strawberries-cookies",
+      "brand_name": "Tosh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2593562",
+      "food_name": "Cereal Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tosh/cereal-bar",
+      "brand_name": "Tosh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45462877",
+      "food_name": "Multigrain Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tosh/multigrain-crackers",
+      "brand_name": "Tosh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6155685",
+      "food_name": "Bran Crackers with Sesame Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tosh/bran-crackers-with-sesame-seeds",
+      "brand_name": "Tosh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53293278",
+      "food_name": "Vanilla Sandwich Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tosh/vanilla-sandwich-cookies",
+      "brand_name": "Tosh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "309260",
+      "food_name": "Tosh Bran With Honey Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cordialsa/tosh-bran-with-honey-crackers",
+      "brand_name": "Cordialsa",
+      "food_type": "Brand"
+    }
+  ]
+}

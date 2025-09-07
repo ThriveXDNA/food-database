@@ -1,0 +1,55 @@
+{
+  "restaurant": "Universal Bakery",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 50,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:12:57.647Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/universal_bakery.json",
+  "items": [
+    {
+      "food_id": "27827411",
+      "food_name": "Paleo Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/universal-bakery/paleo-bars",
+      "brand_name": "Universal Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57578828",
+      "food_name": "Strawberry Belgian Waffles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/universal-bakery/strawberry-belgian-waffles",
+      "brand_name": "Universal Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9427776",
+      "food_name": "Aussie Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/universal-bakery/aussie-bites",
+      "brand_name": "Universal Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26281982",
+      "food_name": "Paleo Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/universal-bakery/paleo-bites",
+      "brand_name": "Universal Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104860533",
+      "food_name": "Aussie Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/universal-bakery/aussie-bar",
+      "brand_name": "Universal Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12473254",
+      "food_name": "Sunrise Energy Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/universal-bakery/sunrise-energy-bars",
+      "brand_name": "Universal Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

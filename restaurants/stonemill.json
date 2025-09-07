@@ -1,0 +1,41 @@
+{
+  "restaurant": "Stonemill",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:59:38.645Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/stonemill.json",
+  "items": [
+    {
+      "food_id": "95698021",
+      "food_name": "Minced Garlic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stonemill/minced-garlic",
+      "brand_name": "Stonemill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44655149",
+      "food_name": "Roasted Street Corn Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stonemill/roasted-street-corn-dip",
+      "brand_name": "Stonemill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59933245",
+      "food_name": "Multigrain Rye",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stonemill/multigrain-rye",
+      "brand_name": "Stonemill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61787478",
+      "food_name": "Original Chili Seasoning Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stonemill/original-chili-seasoning-mix",
+      "brand_name": "Stonemill",
+      "food_type": "Brand"
+    }
+  ]
+}

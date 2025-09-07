@@ -1,0 +1,1336 @@
+{
+  "restaurant": "Jenny Craig",
+  "total_items": 189,
+  "pages_extracted": 4,
+  "total_search_results": 189,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:33:38.512Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/jenny_craig.json",
+  "items": [
+    {
+      "food_id": "10094325",
+      "food_name": "Chocolate Lava Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chocolate-lava-cake",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1978380",
+      "food_name": "Beef & Cheese Slider",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/beef-and-cheese-slider",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6354372",
+      "food_name": "Carrot Cake Cupcake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/carrot-cake-cupcake",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11532343",
+      "food_name": "Chicken Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-burrito",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "695999",
+      "food_name": "Cheddar Cheese Omelet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cheddar-cheese-omelet",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8174082",
+      "food_name": "Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/pepperoni-pizza",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "139365",
+      "food_name": "Balsamic Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/balsamic-dressing",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92177",
+      "food_name": "Fish & Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/fish-and-chips",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8272927",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/margherita-pizza",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13958246",
+      "food_name": "Blueberry Pancakes & Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/blueberry-pancakes-and-sausage",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30472139",
+      "food_name": "Cheesy Egg & Steak Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cheesy-egg-steak-quesadilla",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9368351",
+      "food_name": "Vanilla Buttercream Cupcake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/vanilla-buttercream-cupcake",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43892128",
+      "food_name": "Recharge Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/recharge-bar",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "136769",
+      "food_name": "Chocolate Walnut Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chocolate-walnut-brownie",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62268004",
+      "food_name": "Baked Ziti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/baked-ziti",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "114519",
+      "food_name": "Breakfast Scramble",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/breakfast-scramble",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9841967",
+      "food_name": "Chocolate Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chocolate-muffin",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "137665",
+      "food_name": "Lemon Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/lemon-cakes",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50676",
+      "food_name": "Sunshine Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/sunshine-sandwich",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50681",
+      "food_name": "French Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/french-toast",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10495821",
+      "food_name": "Loaded Baked Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/loaded-baked-potato",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "140005",
+      "food_name": "Banana Nut Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/banana-nut-muffin",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57983",
+      "food_name": "Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-sandwich",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19710045",
+      "food_name": "Three Cheese Macaroni with Broccoli & Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/three-cheese-macaroni-with-broccoli-carrots",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11474086",
+      "food_name": "Classic Cheeseburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/classic-cheeseburger",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "133404",
+      "food_name": "Cheese Curls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cheese-curls",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "137418",
+      "food_name": "BBQ Chicken Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/bbq-chicken-pizza",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "138315",
+      "food_name": "Beef & Barley Stew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/beef-and-barley-stew",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "143470",
+      "food_name": "Grilled Chicken & Andouille Sausage Gumbo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/grilled-chicken-and-andouille-sausage-gumbo",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79294059",
+      "food_name": "Strawberry Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/strawberry-cheesecake",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1443531",
+      "food_name": "Asian Style Orange Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/asian-style-orange-chicken",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22832866",
+      "food_name": "Classic Chicken Carbonara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/classic-chicken-carbonara",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1916342",
+      "food_name": "Cinnamon Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cinnamon-rolls",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22547839",
+      "food_name": "Meatloaf & Vegetable Medley",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/meatloaf-vegetable-medley",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59132638",
+      "food_name": "Farmhouse Breakfast Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/farmhouse-breakfast-bowl",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "143002",
+      "food_name": "Meatloaf with BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/meatloaf-with-bbq-sauce",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1799203",
+      "food_name": "Philly Cheese Steak Panini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/philly-cheese-steak-panini",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "710294",
+      "food_name": "Cheesy Mashed Potatoes & Fried Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cheesy-mashed-potatoes-and-fried-chicken",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22295769",
+      "food_name": "Cinnamon Coffee Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cinnamon-coffee-cake",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1853680",
+      "food_name": "Chicken Pesto Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-pesto-pasta",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12746682",
+      "food_name": "Classic Lasagna with Meat Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/classic-lasagna-with-meat-sauce",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35129695",
+      "food_name": "Chocolate Peanut Butter Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chocolate-peanut-butter-bar",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57979",
+      "food_name": "Broccoli & Cheese Stuffed Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/broccoli-and-cheese-stuffed-potato",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14183949",
+      "food_name": "Green Beans with Garlic & Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/green-beans-with-garlic-and-olive-oil",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13101405",
+      "food_name": "Szechuan Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/szechuan-shrimp",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15512948",
+      "food_name": "Orange Chicken with Vegetables & Brown Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/orange-chicken-with-vegetables-and-brown-rice",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33089875",
+      "food_name": "Cauliflower Fried Rice with Chicken & Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cauliflower-fried-rice-with-chicken-vegetables",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87794688",
+      "food_name": "Chocolate Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chocolate-cheesecake",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1353030",
+      "food_name": "Chicken Carbonara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-carbonara",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13345792",
+      "food_name": "Garden Vegetable Frittata",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/garden-vegetable-frittata",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28023457",
+      "food_name": "Chicken Margherita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-margherita",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62315236",
+      "food_name": "Chicken & Wild Rice Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-wild-rice-soup",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79253715",
+      "food_name": "Seasoned Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/seasoned-steak",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4598125",
+      "food_name": "Parmesan Crusted Fish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/parmesan-crusted-fish",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8241748",
+      "food_name": "Egg, Cheese & Turkey Sausage Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/egg-cheese-and-turkey-sausage-burrito",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "948602",
+      "food_name": "Coffee Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/coffee-cake",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2273423",
+      "food_name": "Key Lime Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/key-lime-pie",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "134115",
+      "food_name": "Chicken Fettuccine Alfredo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-fettuccine-alfredo",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "136374",
+      "food_name": "Soft Chocolate Chip Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/soft-chocolate-chip-cookie",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57986",
+      "food_name": "Chili Con Carne",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chili-con-carne",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2651021",
+      "food_name": "Pumpkin Spice Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/pumpkin-spice-cakes",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13101423",
+      "food_name": "Chicken Cranberry Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-cranberry-salad-kit",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25964983",
+      "food_name": "Egg & Vegetable Sunrise Scramble",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/egg-vegetable-sunrise-scramble",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34064593",
+      "food_name": "Chocolate Chip Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chocolate-chip-cookies",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20896344",
+      "food_name": "Spaghetti & Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/spaghetti-meatballs",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14234643",
+      "food_name": "Cheesy Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cheesy-broccoli",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4485502",
+      "food_name": "Cranberry Almond Barscotti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cranberry-almond-barscotti",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32981537",
+      "food_name": "Chicken Sausage with Bell Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-sausage-with-bell-peppers",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "114081",
+      "food_name": "Oatmeal Breakfast Square",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/oatmeal-breakfast-square",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "684862",
+      "food_name": "Honey Mustard Pretzels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/honey-mustard-pretzels",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2166860",
+      "food_name": "Chicken Teriyaki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-teriyaki",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11011606",
+      "food_name": "Apple Cinnamon Oatmeal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/apple-cinnamon-oatmeal",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "134586",
+      "food_name": "Turkey Club Panini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/turkey-club-panini",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1169708",
+      "food_name": "Personal Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/personal-pizza",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1336635",
+      "food_name": "Chicken Marsala",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-marsala",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17191158",
+      "food_name": "Ramen Noodle Bowl with Chicken & Veggies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/ramen-noodle-bowl-with-chicken-and-veggies",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19243173",
+      "food_name": "Ham & Swiss Baguette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/ham-swiss-baguette",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49920175",
+      "food_name": "Croissant Breakfast Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/croissant-breakfast-sandwich",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "157759",
+      "food_name": "Lentils with Vegetables & Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/lentils-with-vegetables-and-beef",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19395876",
+      "food_name": "New York Sesame Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/new-york-sesame-bagel",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13171557",
+      "food_name": "Chicken Street Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-street-tacos",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10566748",
+      "food_name": "Classic Waffles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/classic-waffles",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "134764",
+      "food_name": "S'mores Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/smores-bar",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "111616",
+      "food_name": "Penne Pasta with Meatless Bolognese Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/penne-pasta-with-meatless-bolognese-sauce",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "139391",
+      "food_name": "Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/ranch-dressing",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74894",
+      "food_name": "Chicken Fajitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-fajitas",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58000",
+      "food_name": "Turkey Burger Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/turkey-burger-sandwich",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58001",
+      "food_name": "Tuna Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/tuna-salad-kit",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "725378",
+      "food_name": "Passion Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/passion-cheesecake",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5541134",
+      "food_name": "Red Velvet Cupcake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/red-velvet-cupcake",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15887051",
+      "food_name": "Chicken Wrap with BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-wrap-with-bbq-sauce",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3779874",
+      "food_name": "Chicken Fettucine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-fettucine",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9479562",
+      "food_name": "Lemon Garlic Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/lemon-garlic-shrimp",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8672439",
+      "food_name": "Turkey Bacon & Egg White Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/turkey-bacon-and-egg-white-sandwich",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26283542",
+      "food_name": "Cheesy Egg & Sausage Scramble",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cheesy-egg-sausage-scramble",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24153190",
+      "food_name": "Cheesy Egg & Bacon Skillet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cheesy-egg-bacon-skillet",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60423241",
+      "food_name": "Mixed Berry Protein Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/mixed-berry-protein-smoothie",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38504613",
+      "food_name": "Cheesy Chicken & Rice Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cheesy-chicken-rice-bowl",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39278766",
+      "food_name": "Risotto with Turkey, Mushrooms & Peas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/risotto-with-turkey-mushrooms-peas",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "140310",
+      "food_name": "White Cheddar Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/white-cheddar-popcorn",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50677",
+      "food_name": "Breakfast Stuffed Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/breakfast-stuffed-sandwich",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "684359",
+      "food_name": "Cookies & Cream Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cookies-and-cream-cheesecake",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27614892",
+      "food_name": "Cocoa & Nut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cocoa-nut-bar",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28511704",
+      "food_name": "Beef Teriyaki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/beef-teriyaki",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34159194",
+      "food_name": "Bourbon Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/bourbon-steak",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78111577",
+      "food_name": "Sea Salt Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/sea-salt-popcorn",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1114096",
+      "food_name": "Sesame Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/sesame-chicken",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76479",
+      "food_name": "Blueberry Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/blueberry-muffin",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2565222",
+      "food_name": "Pumpkin Cranberry Mini Loaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/pumpkin-cranberry-mini-loaf",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15843859",
+      "food_name": "Soft Baked Pretzel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/soft-baked-pretzel",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11961900",
+      "food_name": "Rotini Pasta & Meat Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/rotini-pasta-and-meat-sauce",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9736606",
+      "food_name": "Salisbury Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/salisbury-steak",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10264300",
+      "food_name": "Italian Style Pasta Bake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/italian-style-pasta-bake",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8714180",
+      "food_name": "Southwest Style Chicken Fajita Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/southwest-style-chicken-fajita-bowl",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26359066",
+      "food_name": "Home Style Turkey & Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/home-style-turkey-mashed-potatoes",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33164428",
+      "food_name": "Moroccan Style Spiced Beef Stew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/moroccan-style-spiced-beef-stew",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60254752",
+      "food_name": "Turkey and Cheddar Baguette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/turkey-and-cheddar-baguette",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "149027",
+      "food_name": "Peanut Butter Flavor Anytime Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/peanut-butter-flavor-anytime-bar",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57978",
+      "food_name": "Beef Chow Mein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/beef-chow-mein",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32739",
+      "food_name": "Teriyaki Glazed Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/teriyaki-glazed-salmon",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15504595",
+      "food_name": "Iced Oatmeal Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/iced-oatmeal-cookie",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15754848",
+      "food_name": "Cookies & Cream Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cookies-and-cream-cake",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16034302",
+      "food_name": "Cheddar Cheese Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cheddar-cheese-crisps",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19189823",
+      "food_name": "Pork Carnitas Burrito Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/pork-carnitas-burrito-bowl",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28987637",
+      "food_name": "Homestyle Vegetable & Beef Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/homestyle-vegetable-beef-chili",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63378783",
+      "food_name": "Veggie Straws",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/veggie-straws",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35020741",
+      "food_name": "Three Cheese Tortellini with Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/three-cheese-tortellini-with-chicken",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25802033",
+      "food_name": "Ranchero Skillet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/ranchero-skillet",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "122259",
+      "food_name": "Macaroni & Cheese with Green Beans & Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/macaroni-and-cheese-with-green-beans-and-carrots",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "138316",
+      "food_name": "Toffee Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/toffee-cookies",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86050",
+      "food_name": "Triple Chocolate Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/triple-chocolate-cheesecake",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57981",
+      "food_name": "Cheesy Enchiladas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cheesy-enchiladas",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57982",
+      "food_name": "Chicken Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-salad-kit",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57993",
+      "food_name": "Mexican Chicken Tortilla Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/mexican-chicken-tortilla-soup",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57997",
+      "food_name": "Southwestern Style Chicken Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/southwestern-style-chicken-burrito",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "710125",
+      "food_name": "Chicken Pasta Parmesan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-pasta-parmesan",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5589063",
+      "food_name": "Chipotle Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chipotle-chicken",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10264351",
+      "food_name": "Chocolate Peppermint Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chocolate-peppermint-cake",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10630596",
+      "food_name": "Philly Cheesesteak Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/philly-cheesesteak-sandwich",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33025651",
+      "food_name": "Chicken Piccata with Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-piccata-with-spaghetti",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55338021",
+      "food_name": "Beef Stir Fry Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/beef-stir-fry-bowl",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59086510",
+      "food_name": "Italian Sausage Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/italian-sausage-pizza",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39060576",
+      "food_name": "Homestyle Meatloaf & Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/homestyle-meatloaf-vegetables",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43568286",
+      "food_name": "Vanilla Caramel Swirl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/vanilla-caramel-swirl",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30290414",
+      "food_name": "Chicken Fajita Skillet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-fajita-skillet",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35860137",
+      "food_name": "Chocolate Fudge Brownie Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chocolate-fudge-brownie-bar",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35895742",
+      "food_name": "Beef Fiesta Taco Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/beef-fiesta-taco-bowl",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73820390",
+      "food_name": "Deli Style Tuna Salad with Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/deli-style-tuna-salad-with-crackers",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "111628",
+      "food_name": "Cranberry Almond Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cranberry-almond-cereal",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "664184",
+      "food_name": "Zesty Tortellini Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/zesty-tortellini-soup",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13865910",
+      "food_name": "Tuna Dill Salad Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/tuna-dill-salad-kit",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16508652",
+      "food_name": "Creamy Herb Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/creamy-herb-dressing",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3162367",
+      "food_name": "Bananas Foster Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/bananas-foster-cheesecake",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9893829",
+      "food_name": "Chocolate Dream Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chocolate-dream-shake",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12064700",
+      "food_name": "Herbed Chicken & Mushroom Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/herbed-chicken-and-mushroom-sauce",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11172674",
+      "food_name": "Cheesy Chicken Enchilada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cheesy-chicken-enchilada",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34039592",
+      "food_name": "Stuffed Green Bell Pepper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/stuffed-green-bell-pepper",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25867945",
+      "food_name": "Maple French Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/maple-french-toast",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "133295",
+      "food_name": "Chocolate Caramel Peanut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chocolate-caramel-peanut-bar",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "136378",
+      "food_name": "Pasta Fagioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/pasta-fagioli",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "149471",
+      "food_name": "Creamy Chicken & Corn Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/creamy-chicken-and-corn-chowder",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1215392",
+      "food_name": "Apple Cinnamon Waffles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/apple-cinnamon-waffles",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16413914",
+      "food_name": "Creamy Penne with Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/creamy-penne-with-vegetables",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12004321",
+      "food_name": "Ranch Snaps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/ranch-snaps",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11101411",
+      "food_name": "Cookie Dough Anytime Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cookie-dough-anytime-bar",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23887849",
+      "food_name": "Caramel Peanut Delight Essential Nutrition Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/caramel-peanut-delight-essential-nutrition-bar",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33502625",
+      "food_name": "BBQ Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/bbq-crisps",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33547978",
+      "food_name": "Chicken Chile Verde",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-chile-verde",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34519831",
+      "food_name": "Frittata Egg White Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/frittata-egg-white-sandwich",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51586398",
+      "food_name": "Chocolate Fudge Reduced Fat Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chocolate-fudge-reduced-fat-ice-cream",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62388421",
+      "food_name": "Organic Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/organic-popcorn",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36980253",
+      "food_name": "Morning Frittata Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/morning-frittata-sandwich",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39182919",
+      "food_name": "Pulled Pork with BBQ Sauce & Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/pulled-pork-with-bbq-sauce-vegetables",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "111613",
+      "food_name": "Toffee Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/toffee-bites",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "114997",
+      "food_name": "Salisbury Steak Champignon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/salisbury-steak-champignon",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "124498",
+      "food_name": "Classico Chicken Parmesan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/classico-chicken-parmesan",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "139361",
+      "food_name": "Blueberry Pancakes & Veggie Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/blueberry-pancakes-and-veggie-sausage",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "155545",
+      "food_name": "Meat Loaf with Barbeque Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/meat-loaf-with-barbeque-sauce",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50678",
+      "food_name": "Honey Oat Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/honey-oat-bar",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5613853",
+      "food_name": "Kettle Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/kettle-corn",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21621507",
+      "food_name": "Grilled Chicken Teriyaki Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/grilled-chicken-teriyaki-bowl",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23776517",
+      "food_name": "Chicken Ranch Melt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/chicken-ranch-melt",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22520855",
+      "food_name": "Iced Lemon Essential Nutrition Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/iced-lemon-essential-nutrition-bar",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39314004",
+      "food_name": "Sweet & Salty Peanut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/sweet-salty-peanut-bar",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31799859",
+      "food_name": "Crustless Chicken Pot Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/crustless-chicken-pot-pie",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33062382",
+      "food_name": "Roasted Turkey with Gravy & Cauliflower Mash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/roasted-turkey-with-gravy-cauliflower-mash",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33139576",
+      "food_name": "Cheddar & Parmesan Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/cheddar-parmesan-crisps",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25872861",
+      "food_name": "Blue Corn Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/blue-corn-tortilla-chips",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76453844",
+      "food_name": "Sesame Chicken (226g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jenny-craig/sesame-chicken-(226g)",
+      "brand_name": "Jenny Craig",
+      "food_type": "Brand"
+    }
+  ]
+}

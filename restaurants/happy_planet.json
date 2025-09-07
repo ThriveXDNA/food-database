@@ -1,0 +1,69 @@
+{
+  "restaurant": "Happy Planet",
+  "total_items": 8,
+  "pages_extracted": 2,
+  "total_search_results": 65,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:31:38.790Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/happy_planet.json",
+  "items": [
+    {
+      "food_id": "417891",
+      "food_name": "Thai Coconut Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happy-planet/thai-coconut-soup",
+      "brand_name": "Happy Planet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47430610",
+      "food_name": "Barista Edition Oatmilk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happy-planet/barista-edition-oatmilk",
+      "brand_name": "Happy Planet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67079",
+      "food_name": "Extreme Green Fruit Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happy-planet/extreme-green-fruit-smoothie",
+      "brand_name": "Happy Planet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68001",
+      "food_name": "Clean Green Organic Fruit Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happy-planet/clean-green-organic-fruit-smoothie",
+      "brand_name": "Happy Planet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68006",
+      "food_name": "Organic Pro Drinkable Yogurt - Wild Berry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happy-planet/organic-pro-drinkable-yogurt---wild-berry",
+      "brand_name": "Happy Planet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68004",
+      "food_name": "Orange Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happy-planet/orange-juice",
+      "brand_name": "Happy Planet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68009",
+      "food_name": "Organic Pro Drinkable Yogurt - Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happy-planet/organic-pro-drinkable-yogurt---strawberry",
+      "brand_name": "Happy Planet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67998",
+      "food_name": "Righteous Raspberry Fruit Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happy-planet/righteous-raspberry-fruit-smoothie",
+      "brand_name": "Happy Planet",
+      "food_type": "Brand"
+    }
+  ]
+}

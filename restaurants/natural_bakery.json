@@ -1,0 +1,20 @@
+{
+  "restaurant": "Natural Bakery",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 1574,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:13:26.217Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/natural_bakery.json",
+  "items": [
+    {
+      "food_id": "4928621",
+      "food_name": "Rye Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-bakery/rye-bread",
+      "brand_name": "Natural Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

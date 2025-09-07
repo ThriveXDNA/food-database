@@ -1,0 +1,69 @@
+{
+  "restaurant": "Great Wraps",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 355,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:32:51.989Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/great_wraps.json",
+  "items": [
+    {
+      "food_id": "6446798",
+      "food_name": "Falafel Hummus Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-wraps/falafel-hummus-wrap",
+      "brand_name": "Great Wraps",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4291758",
+      "food_name": "Chipotle Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-wraps/chipotle-chicken-wrap",
+      "brand_name": "Great Wraps",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6543277",
+      "food_name": "California Turkey Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-wraps/california-turkey-wrap",
+      "brand_name": "Great Wraps",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4502083",
+      "food_name": "Gyro Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-wraps/gyro-wrap",
+      "brand_name": "Great Wraps",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14076475",
+      "food_name": "Chicken Caesar Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-wraps/chicken-caesar-wrap",
+      "brand_name": "Great Wraps",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2646864",
+      "food_name": "Thai Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-wraps/thai-chicken-wrap",
+      "brand_name": "Great Wraps",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5057370",
+      "food_name": "Santa Fe Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-wraps/santa-fe-chicken-wrap",
+      "brand_name": "Great Wraps",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4037433",
+      "food_name": "Buffalo Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-wraps/buffalo-chicken-wrap",
+      "brand_name": "Great Wraps",
+      "food_type": "Brand"
+    }
+  ]
+}

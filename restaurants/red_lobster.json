@@ -1,0 +1,2083 @@
+{
+  "restaurant": "Red Lobster",
+  "total_items": 296,
+  "pages_extracted": 50,
+  "last_updated": "2025-09-06T06:51:24.603Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Restaurant search with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/red_lobster.json",
+  "items": [
+    {
+      "food_id": "70761791",
+      "food_name": "Cheddar Bay Biscuits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/cheddar-bay-biscuits",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761871",
+      "food_name": "Shrimp Linguini Alfredo - Entrées",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/shrimp-linguini-alfredo-entr%C3%A9es",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761833",
+      "food_name": "House Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/house-salad",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76785467",
+      "food_name": "Seasoned Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/seasoned-broccoli",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87342703",
+      "food_name": "Cheddar Bay Biscuit Cod",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/cheddar-bay-biscuit-cod",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761843",
+      "food_name": "Garlic Shrimp Scampi - Entrées",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/garlic-shrimp-scampi-entr%C3%A9es",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931884",
+      "food_name": "Snow Crab Legs 1/2 lb (Add to Entrée)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/snow-crab-legs-1-2-lb-(add-to-entr%C3%A9e)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152278",
+      "food_name": "Coleslaw",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/coleslaw",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152338",
+      "food_name": "Dr. Pepper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/dr-pepper",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85846189",
+      "food_name": "Gluten Free Cheddar Bay Biscuits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/gluten-free-cheddar-bay-biscuits",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70733183",
+      "food_name": "Steak - 7 oz Sirloin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/steak-7-oz-sirloin",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761807",
+      "food_name": "Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/mashed-potatoes",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761787",
+      "food_name": "Baked Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/baked-potato",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54343",
+      "food_name": "Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/ranch-dressing",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97914",
+      "food_name": "Walt's Favorite Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/walts-favorite-shrimp",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762093",
+      "food_name": "Strawberry Margarita (Rocks)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/strawberry-margarita-(rocks)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761824",
+      "food_name": "Crispy Brussels Sprouts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/crispy-brussels-sprouts",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761820",
+      "food_name": "Caesar Salad - Sides",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/caesar-salad-sides",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931977",
+      "food_name": "Garlic Shrimp Scampi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/garlic-shrimp-scampi",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932212",
+      "food_name": "Zero-Proof Mocktail - Strawberry Breeze",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/zero-proof-mocktail-strawberry-breeze",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931668",
+      "food_name": "Grilled Shrimp - Entrées",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/grilled-shrimp-entr%C3%A9es",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152403",
+      "food_name": "Top-Shelf Long Island Iced Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/top-shelf-long-island-iced-tea",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152316",
+      "food_name": "Popcorn Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/popcorn-shrimp",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931839",
+      "food_name": "Roasted Asparagus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/roasted-asparagus",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731775",
+      "food_name": "Clam Chowder (Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/clam-chowder-(cup)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731718",
+      "food_name": "Seafood-Stuffed Mushrooms - Starter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/seafood-stuffed-mushrooms-starter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931725",
+      "food_name": "Steak - 12 oz NY Strip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/steak-12-oz-ny-strip",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762068",
+      "food_name": "Classic Margarita (Rocks)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/classic-margarita-(rocks)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731629",
+      "food_name": "Wild-Caught Snow Crab Legs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/wild-caught-snow-crab-legs",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731855",
+      "food_name": "Garlic-Grilled Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/garlic-grilled-shrimp",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731767",
+      "food_name": "Clam Chowder (Bowl)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/clam-chowder-(bowl)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761812",
+      "food_name": "Orzo Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/orzo-rice",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103366265",
+      "food_name": "Cheddar Bay Biscuit Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/cheddar-bay-biscuit-mix",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731838",
+      "food_name": "Fish & Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/fish-chips",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935546",
+      "food_name": "Citrus Vinaigrette Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/citrus-vinaigrette-dressing",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761981",
+      "food_name": "Petite Maine Lobster Tail",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/petite-maine-lobster-tail",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761801",
+      "food_name": "Fully Loaded Baked Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/fully-loaded-baked-potato",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931830",
+      "food_name": "Chesapeake Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/chesapeake-fries",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931600",
+      "food_name": "Lobster Pappardelle Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/lobster-pappardelle-pasta",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931653",
+      "food_name": "Crispy Dragon Shrimp - Entrées",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/crispy-dragon-shrimp-entr%C3%A9es",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2802866",
+      "food_name": "100% Pure Melted Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/100%25-pure-melted-butter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70733162",
+      "food_name": "Parrot Isle Jumbo Coconut Shrimp - Entrées",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/parrot-isle-jumbo-coconut-shrimp-entr%C3%A9es",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92520358",
+      "food_name": "Lemon Basil Mahi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/lemon-basil-mahi",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931270",
+      "food_name": "Lobster Flatbread - Starter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/lobster-flatbread-starter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97648166",
+      "food_name": "Rosemary Garlic Parmesan Biscuit Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/rosemary-garlic-parmesan-biscuit-mix",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731595",
+      "food_name": "Create Your Own Ultimate Feast - Walt's Favorite Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/create-your-own-ultimate-feast-walts-favorite-shrimp",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761780",
+      "food_name": "Maine Lobster Tail (Add to Entrée)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/maine-lobster-tail-(add-to-entr%C3%A9e)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731756",
+      "food_name": "Lobster Bisque - Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/lobster-bisque-cup",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932201",
+      "food_name": "Strawberry Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/strawberry-lemonade",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152303",
+      "food_name": "Marinara Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/marinara-sauce",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762092",
+      "food_name": "Strawberry Margarita (Frozen)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/strawberry-margarita-(frozen)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761816",
+      "food_name": "Bacon Mac & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/bacon-mac-cheese",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70733177",
+      "food_name": "Steak - 6 oz Filet Mignon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/steak-6-oz-filet-mignon",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931474",
+      "food_name": "Cajun Chicken Linguini Alfredo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/cajun-chicken-linguini-alfredo",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931477",
+      "food_name": "Create Your Own Ultimate Feast - Grilled Atlantic Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/create-your-own-ultimate-feast-grilled-atlantic-salmon",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731617",
+      "food_name": "Salmon New Orleans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/salmon-new-orleans",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762127",
+      "food_name": "Mountain Dew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/mountain-dew",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731415",
+      "food_name": "Create Your Own Ultimate Feast - Maine Lobster Tail",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/create-your-own-ultimate-feast-maine-lobster-tail",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731699",
+      "food_name": "Parrot Isle Jumbo Coconut Shrimp - Starter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/parrot-isle-jumbo-coconut-shrimp-starter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762096",
+      "food_name": "Tropical White Sangria",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/tropical-white-sangria",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152258",
+      "food_name": "Admiral's Feast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/admirals-feast",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70733163",
+      "food_name": "Atlantic Salmon, Grilled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/atlantic-salmon-grilled",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931744",
+      "food_name": "Surf & Turf - Maine Lobster Tail & 7 oz Sirloin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/surf-turf-maine-lobster-tail-7-oz-sirloin",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54331",
+      "food_name": "Cocktail Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/cocktail-sauce",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762038",
+      "food_name": "Nonalcoholic Beer (12 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/nonalcoholic-beer-(12-oz)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762086",
+      "food_name": "Raspberry Margarita (Frozen)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/raspberry-margarita-(frozen)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761929",
+      "food_name": "Golden-Fried Fish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/golden-fried-fish",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931251",
+      "food_name": "Black Tiger Shrimp Cocktail - Starter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/black-tiger-shrimp-cocktail-starter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731832",
+      "food_name": "Lobster Linguini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/lobster-linguini",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32895740",
+      "food_name": "Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/caesar-salad",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761913",
+      "food_name": "Casco Bay Cooler - Cherry Wave Slushy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/casco-bay-cooler-cherry-wave-slushy",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931218",
+      "food_name": "Crab Mac & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/crab-mac-cheese",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931436",
+      "food_name": "Southwest Shrimp Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/southwest-shrimp-bowl",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931654",
+      "food_name": "Crunch-Fried Shrimp - Entrées",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/crunch-fried-shrimp-entr%C3%A9es",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88910898",
+      "food_name": "Coconut Shrimp Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/coconut-shrimp-bites",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731820",
+      "food_name": "Caesar Salad with Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/caesar-salad-with-shrimp",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762090",
+      "food_name": "Raspberry Margarita (Rocks)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/raspberry-margarita-(rocks)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932123",
+      "food_name": "Watermelon Margarita (Rocks)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/watermelon-margarita-(rocks)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935508",
+      "food_name": "Cheddar Bay Biscuits (Half Dozen)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/cheddar-bay-biscuits-(half-dozen)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152304",
+      "food_name": "Piña Colada Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/pi%C3%B1a-colada-sauce",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931528",
+      "food_name": "Create Your Own Ultimate Feast - Garlic Shrimp Scampi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/create-your-own-ultimate-feast-garlic-shrimp-scampi",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931603",
+      "food_name": "Mahi (Grilled) with Baked Potato and Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/mahi-(grilled)-with-baked-potato-and-broccoli",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731426",
+      "food_name": "Create Your Own Ultimate Feast - Snow Crab Legs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/create-your-own-ultimate-feast-snow-crab-legs",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761772",
+      "food_name": "Sea Scallops (Add to Entrée)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/sea-scallops-(add-to-entr%C3%A9e)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762017",
+      "food_name": "Regular Draft Beer (14 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/regular-draft-beer-(14-oz)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932099",
+      "food_name": "Mango Margarita (Frozen)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/mango-margarita-(frozen)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761806",
+      "food_name": "Lobster-Topped Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/lobster-topped-mashed-potatoes",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931269",
+      "food_name": "Lobster Dip - Starter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/lobster-dip-starter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731690",
+      "food_name": "Calamari - Hand-Breaded - Starter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/calamari-hand-breaded-starter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931238",
+      "food_name": "Creamy Crab Carbonara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/creamy-crab-carbonara",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84936079",
+      "food_name": "Wild-Caught Crunch Fried Flounder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/wild-caught-crunch-fried-flounder",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152308",
+      "food_name": "Tartar Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/tartar-sauce",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932210",
+      "food_name": "Zero-Proof Mocktail - Green Apple Wave",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/zero-proof-mocktail-green-apple-wave",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70733242",
+      "food_name": "Grilled Lobster, Shrimp & Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/grilled-lobster-shrimp-salmon",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731726",
+      "food_name": "Lobster Bisque - Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/lobster-bisque-bowl",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152333",
+      "food_name": "Chocolate Wave",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/chocolate-wave",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152345",
+      "food_name": "Bahama Mama",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/bahama-mama",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731825",
+      "food_name": "Garlic Linguini Alfredo with Crab",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/garlic-linguini-alfredo-with-crab",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932207",
+      "food_name": "Watermelon Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/watermelon-lemonade",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152128",
+      "food_name": "Mozzarella Cheesesticks - Starter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/mozzarella-cheesesticks-starter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57637418",
+      "food_name": "Stuffed Flounder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/stuffed-flounder",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761767",
+      "food_name": "Garlic Shrimp Scampi (Add to Entrée)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/garlic-shrimp-scampi-(add-to-entr%C3%A9e)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762075",
+      "food_name": "Mango Martini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/mango-martini",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931849",
+      "food_name": "Bacon-Wrapped Sea Scallops (Add to Entrée)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/bacon-wrapped-sea-scallops-(add-to-entr%C3%A9e)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931861",
+      "food_name": "Grilled Shrimp (with Rice) (Add to Entrée)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/grilled-shrimp-(with-rice)-(add-to-entr%C3%A9e)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731391",
+      "food_name": "Crispy Dragon Shrimp - Starter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/crispy-dragon-shrimp-starter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731834",
+      "food_name": "Sesame-Soy Salmon Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/sesame-soy-salmon-bowl",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70733478",
+      "food_name": "Monday Ultimate Endless - Parrot Isle Jumbo Coconut Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/monday-ultimate-endless-parrot-isle-jumbo-coconut-shrimp",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931605",
+      "food_name": "Parmesan-Crusted Chicken with Baked Potato and Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/parmesan-crusted-chicken-with-baked-potato-and-broccoli",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761782",
+      "food_name": "Wild-Caught Snow Crab Legs Add-on",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/wild-caught-snow-crab-legs-add-on",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761964",
+      "food_name": "Macaroni and Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/macaroni-and-cheese",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762013",
+      "food_name": "Regular Beer (12 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/regular-beer-(12-oz)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762142",
+      "food_name": "Wine (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/wine-(bottle)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932021",
+      "food_name": "Chicken Tenders",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/chicken-tenders",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "102750541",
+      "food_name": "Parmesan Crusted Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/parmesan-crusted-chicken",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931578",
+      "food_name": "Lobster Lover's Duo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/lobster-lovers-duo",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1886267",
+      "food_name": "Triple Berry Sangria",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/triple-berry-sangria",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731419",
+      "food_name": "Create Your Own Ultimate Feast - Parrot Isle Jumbo Coconut Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/create-your-own-ultimate-feast-parrot-isle-jumbo-coconut-shrimp",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761863",
+      "food_name": "Sailor's Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/sailors-platter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761875",
+      "food_name": "Walt's Favorite Shrimp - Lunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/walts-favorite-shrimp-lunch",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761908",
+      "food_name": "Wild-Caught Broiled Flounder - Lunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/wild-caught-broiled-flounder-lunch",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762106",
+      "food_name": "Boston Iced Tea - Raspberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/boston-iced-tea-raspberry",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931221",
+      "food_name": "Crab Queso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/crab-queso",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931992",
+      "food_name": "Sesame-Soy Bowl with Atlantic Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/sesame-soy-bowl-with-atlantic-salmon",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932015",
+      "food_name": "Key Lime Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/key-lime-pie",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932100",
+      "food_name": "Mango Margarita (Rocks)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/mango-margarita-(rocks)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7258349",
+      "food_name": "Blue Cheese Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/blue-cheese-dressing",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761926",
+      "food_name": "Fruit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/fruit",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762141",
+      "food_name": "Wine (9 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/wine-(9-oz)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762174",
+      "food_name": "Baked Potatoes with Butter and Sour Cream - Family Meals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/baked-potatoes-with-butter-and-sour-cream-family-meals",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931237",
+      "food_name": "Snow Crab Simply Steamed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/snow-crab-simply-steamed",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931554",
+      "food_name": "Fish & Chips with Fries, Slaw, Hush Puppies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/fish-chips-with-fries-slaw-hush-puppies",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761805",
+      "food_name": "Lobster-Topped Baked Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/lobster-topped-baked-potato",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70733484",
+      "food_name": "Monday Ultimate Endless - Shrimp Linguini Alfredo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/monday-ultimate-endless-shrimp-linguini-alfredo",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762028",
+      "food_name": "Light Draft Beer (20 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/light-draft-beer-(20-oz)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931249",
+      "food_name": "Bacon-Wrapped Sea Scallops - Starter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/bacon-wrapped-sea-scallops-starter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931253",
+      "food_name": "Calamari - Crispy Dragon - Starter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/calamari-crispy-dragon-starter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932089",
+      "food_name": "Big Breezy Hurricane",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/big-breezy-hurricane",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731403",
+      "food_name": "Create Your Own Ultimate Feast - Grilled Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/create-your-own-ultimate-feast-grilled-shrimp",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731423",
+      "food_name": "Create Your Own Ultimate Feast - Shrimp Linguini Alfredo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/create-your-own-ultimate-feast-shrimp-linguini-alfredo",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931994",
+      "food_name": "Southwest Bowl with Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/southwest-bowl-with-shrimp",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932016",
+      "food_name": "Strawberry Cheesecake Bliss",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/strawberry-cheesecake-bliss",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932121",
+      "food_name": "Watermelon Margarita (Frozen)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/watermelon-margarita-(frozen)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82870891",
+      "food_name": "Mango Pineapple Vinaigrette Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/mango-pineapple-vinaigrette-dressing",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2862460",
+      "food_name": "Bar Harbor Lobster Bake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/bar-harbor-lobster-bake",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731822",
+      "food_name": "Caesar Salad with Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/caesar-salad-with-salmon",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761977",
+      "food_name": "Milk 1%",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/milk-1",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761986",
+      "food_name": "Raspberry Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/raspberry-lemonade",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762125",
+      "food_name": "Iced Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/iced-tea",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931233",
+      "food_name": "Snow Crab with Cajun Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/snow-crab-with-cajun-butter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931462",
+      "food_name": "Atlantic Salmon, Grilled with Baked Potato and Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/atlantic-salmon-grilled-with-baked-potato-and-broccoli",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931985",
+      "food_name": "Popcorn Shrimp (Weekday Lunch Specials)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/popcorn-shrimp-(weekday-lunch-specials)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932095",
+      "food_name": "Caribbean Blue Margarita (Rocks)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/caribbean-blue-margarita-(rocks)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932102",
+      "food_name": "Passion Fruit Margarita (Rocks)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/passion-fruit-margarita-(rocks)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54467530",
+      "food_name": "Brownie Overboard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/brownie-overboard",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762016",
+      "food_name": "Light Draft Beer (14 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/light-draft-beer-(14-oz)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762062",
+      "food_name": "Classic Margarita (Frozen)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/classic-margarita-(frozen)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762094",
+      "food_name": "Tito's Twisted Strawberry Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/titos-twisted-strawberry-lemonade",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762136",
+      "food_name": "Wine (6 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/wine-(6-oz)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931235",
+      "food_name": "Snow Crab with Roasted Garlic Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/snow-crab-with-roasted-garlic-butter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932208",
+      "food_name": "Zero-Proof Mocktail - Coastal Colada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/zero-proof-mocktail-coastal-colada",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935534",
+      "food_name": "Jumbo Grilled Shrimp Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/jumbo-grilled-shrimp-platter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931960",
+      "food_name": "Wednesday Steak & Lobster",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/wednesday-steak-lobster",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "151054",
+      "food_name": "Pico de Gallo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/pico-de-gallo",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731395",
+      "food_name": "Create Your Own Ultimate Feast - Grilled Sea Scallops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/create-your-own-ultimate-feast-grilled-sea-scallops",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761938",
+      "food_name": "Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/lemonade",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761997",
+      "food_name": "Ketchup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/ketchup",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931245",
+      "food_name": "Snow Crab and Crab-Topped Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/snow-crab-and-crab-topped-filet",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931438",
+      "food_name": "Admiral's Feast with Fries, Slaw, Hushpuppies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/admirals-feast-with-fries-slaw-hushpuppies",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931550",
+      "food_name": "Crispy Cod Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/crispy-cod-sandwich",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931863",
+      "food_name": "Grilled Sirloin (Add to Entrée)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/grilled-sirloin-(add-to-entr%C3%A9e)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931955",
+      "food_name": "Tuesday Snow Crab Legs Simply Steamed with Crispy Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/tuesday-snow-crab-legs-simply-steamed-with-crispy-potatoes",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931997",
+      "food_name": "Walt's Favorite Shrimp with Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/walts-favorite-shrimp-with-fries",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932125",
+      "food_name": "Mocha Espresso Martini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/mocha-espresso-martini",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152359",
+      "food_name": "Sunset Passion Colada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/sunset-passion-colada",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70733331",
+      "food_name": "CYO - Wild-Caught Crispy Flounder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/cyo-wild-caught-crispy-flounder",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761993",
+      "food_name": "Sour Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/sour-cream",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931282",
+      "food_name": "Caesar Salad with Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/caesar-salad-with-chicken",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931643",
+      "food_name": "Salmon New Orleans with Orzo Rice & Asparagus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/salmon-new-orleans-with-orzo-rice-asparagus",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931724",
+      "food_name": "Steak - 7 oz Sirloin with Baked Potato and Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/steak-7-oz-sirloin-with-baked-potato-and-broccoli",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931957",
+      "food_name": "Tuesday Snow Crab Legs Roasted Garlic Butter with Crispy Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/tuesday-snow-crab-legs-roasted-garlic-butter-with-crispy-potatoes",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931976",
+      "food_name": "Friday Fish & Chips with Hush Puppies, Fries, Coleslaw",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/friday-fish-chips-with-hush-puppies-fries-coleslaw",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932170",
+      "food_name": "Mango Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/mango-lemonade",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70733201",
+      "food_name": "Surf & Turf - Maine Lobster Tail & 6 oz Filet Mignon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/surf-turf-maine-lobster-tail-6-oz-filet-mignon",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931591",
+      "food_name": "Lobster Lover's Duo with Mashed Potatoes and Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/lobster-lovers-duo-with-mashed-potatoes-and-broccoli",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931852",
+      "food_name": "Caribbean Rock Lobster Tail (Add to Entrée)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/caribbean-rock-lobster-tail-(add-to-entr%C3%A9e)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70733153",
+      "food_name": "Live Maine Lobster (Stuffed)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/live-maine-lobster-(stuffed)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70733133",
+      "food_name": "Live Maine Lobster (Classic)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/live-maine-lobster-(classic)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931963",
+      "food_name": "Thursday Lobster & Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/thursday-lobster-shrimp",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152300",
+      "food_name": "Thousand Island Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/thousand-island-dressing",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70733337",
+      "food_name": "Friday Fish & Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/friday-fish-chips",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761990",
+      "food_name": "Surf's Up Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/surfs-up-sundae",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762107",
+      "food_name": "Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/coffee",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762173",
+      "food_name": "Crunchy Popcorn Shrimp Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/crunchy-popcorn-shrimp-platter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762205",
+      "food_name": "Seaside Shrimp Trio Family Feast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/seaside-shrimp-trio-family-feast",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762216",
+      "food_name": "Ultimate Family Feast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/ultimate-family-feast",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762220",
+      "food_name": "Walt's Favorite Shrimp Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/walts-favorite-shrimp-platter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931231",
+      "food_name": "Bairdi Crab Simply Steamed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/bairdi-crab-simply-steamed",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931468",
+      "food_name": "Bacon Cheeseburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/bacon-cheeseburger",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931472",
+      "food_name": "Bourbon Bacon Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/bourbon-bacon-chicken",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931644",
+      "food_name": "Sea Scallop & Shrimp Skewers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/sea-scallop-shrimp-skewers",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931693",
+      "food_name": "Signature Surf & Turf with Filet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/signature-surf-turf-with-filet",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931709",
+      "food_name": "Steak - 6 oz Filet Mignon with Baked Potato and Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/steak-6-oz-filet-mignon-with-baked-potato-and-broccoli",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931759",
+      "food_name": "Surf & Turf - Walt's Favorite Shrimp & 12 oz NY Strip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/surf-turf-walts-favorite-shrimp-12-oz-ny-strip",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931888",
+      "food_name": "Monday Ultimate Endless - Crunch-Fried Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/monday-ultimate-endless-crunch-fried-shrimp",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931982",
+      "food_name": "Parrot Isle Jumbo Coconut Shrimp (Weekday Lunch Specials)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/parrot-isle-jumbo-coconut-shrimp-(weekday-lunch-specials)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932093",
+      "food_name": "Caribbean Blue Margarita (Frozen)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/caribbean-blue-margarita-(frozen)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932180",
+      "food_name": "Starry Lemon Lime",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/starry-lemon-lime",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935501",
+      "food_name": "Black Tiger Shrimp Cocktail (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/black-tiger-shrimp-cocktail-(small)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935509",
+      "food_name": "Cheddar Bay Biscuits (One Dozen)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/cheddar-bay-biscuits-(one-dozen)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935519",
+      "food_name": "Crispy Dragon Shrimp Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/crispy-dragon-shrimp-platter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935537",
+      "food_name": "Mozzarella Cheesesticks Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/mozzarella-cheesesticks-platter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152295",
+      "food_name": "Caesar Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/caesar-dressing",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152298",
+      "food_name": "Honey Mustard Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/honey-mustard-dressing",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731663",
+      "food_name": "Crab-Stuffed Shrimp Rangoon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/crab-stuffed-shrimp-rangoon",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731780",
+      "food_name": "Crunch-Fried Flounder Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/crunch-fried-flounder-sandwich",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761917",
+      "food_name": "Casco Bay Cooler - Raspberry Bay Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/casco-bay-cooler-raspberry-bay-smoothie",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762010",
+      "food_name": "Light Beer (12 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/light-beer-(12-oz)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762102",
+      "food_name": "Boston Iced Tea - Classic Cranberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/boston-iced-tea-classic-cranberry",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762112",
+      "food_name": "Tropicana Fruit Punch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/tropicana-fruit-punch",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762130",
+      "food_name": "Pepsi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/pepsi",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762134",
+      "food_name": "Sparkling (Split)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/sparkling-(split)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762167",
+      "food_name": "Create Your Own Family Feast - Shrimp Scampi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/create-your-own-family-feast-shrimp-scampi",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931226",
+      "food_name": "Bairdi Crab with Cajun Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/bairdi-crab-with-cajun-butter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931229",
+      "food_name": "Bairdi Crab with Roasted Garlic Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/bairdi-crab-with-roasted-garlic-butter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931467",
+      "food_name": "Atlantic Salmon, Roasted",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/atlantic-salmon-roasted",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931601",
+      "food_name": "Macadamia-Crusted Mahi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/macadamia-crusted-mahi",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931979",
+      "food_name": "Garlic Shrimp Scampi with Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/garlic-shrimp-scampi-with-fries",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932168",
+      "food_name": "Mango Fruit Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/mango-fruit-smoothie",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931556",
+      "food_name": "Grilled Lobster, Shrimp & Salmon with Orzo Rice and Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/grilled-lobster-shrimp-salmon-with-orzo-rice-and-broccoli",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931742",
+      "food_name": "Surf & Turf - Maine Lobster Tail & 12 oz NY Strip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/surf-turf-maine-lobster-tail-12-oz-ny-strip",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931961",
+      "food_name": "Wednesday Steak & Lobster with Baked Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/wednesday-steak-lobster-with-baked-potato",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931214",
+      "food_name": "Crab & Lobster Duo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/crab-lobster-duo",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70733165",
+      "food_name": "Rainbow Trout - Grilled",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/rainbow-trout-grilled",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70733398",
+      "food_name": "Monday Ultimate Endless - Garlic Shrimp Scampi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/monday-ultimate-endless-garlic-shrimp-scampi",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761935",
+      "food_name": "Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/juice",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762032",
+      "food_name": "Regular Draft Beer (20 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/regular-draft-beer-(20-oz)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762109",
+      "food_name": "Diet Pepsi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/diet-pepsi",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762146",
+      "food_name": "Admiral's Family Feast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/admirals-family-feast",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762155",
+      "food_name": "Crab Linguini Alfredo Family Meal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/crab-linguini-alfredo-family-meal",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762199",
+      "food_name": "Seasoned Broccoli - Family Meals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/seasoned-broccoli-family-meals",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931267",
+      "food_name": "Chicken Bacon Ranch Flatbread - Starter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/chicken-bacon-ranch-flatbread-starter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931469",
+      "food_name": "Bacon Cheeseburger with Fries, Slaw, Hushpuppies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/bacon-cheeseburger-with-fries-slaw-hushpuppies",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931696",
+      "food_name": "Signature Surf & Turf with Sirloin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/signature-surf-turf-with-sirloin",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931831",
+      "food_name": "Coleslaw with Signature Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/coleslaw-with-signature-dressing",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931885",
+      "food_name": "Monday Ultimate Endless - Crispy Dragon Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/monday-ultimate-endless-crispy-dragon-shrimp",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932013",
+      "food_name": "Wild-Caught Crunch-Fried Flounder with Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/wild-caught-crunch-fried-flounder-with-fries",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932127",
+      "food_name": "Ruby Mule",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/ruby-mule",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932172",
+      "food_name": "Mug Root Beer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/mug-root-beer",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932215",
+      "food_name": "Create Your Own Family Feast - Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/create-your-own-family-feast-grilled-chicken",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932217",
+      "food_name": "Create Your Own Family Feast - Crispy Fish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/create-your-own-family-feast-crispy-fish",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935430",
+      "food_name": "Chesapeake Fries - Family Meals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/chesapeake-fries-family-meals",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935439",
+      "food_name": "Crispy Brussels Sprouts - Family Meals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/crispy-brussels-sprouts-family-meals",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935495",
+      "food_name": "Cheesecake (10 Slices)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/cheesecake-(10-slices)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935498",
+      "food_name": "Triple Chocolate Brownie (24 Pieces)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/triple-chocolate-brownie-(24-pieces)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935503",
+      "food_name": "Black Tiger Shrimp Cocktail (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/black-tiger-shrimp-cocktail-(large)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935533",
+      "food_name": "Garlic Shrimp Scampi Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/garlic-shrimp-scampi-platter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935545",
+      "food_name": "Butter - Whipped",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/butter-whipped",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84936029",
+      "food_name": "Orzo Rice - Family Meals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/orzo-rice-family-meals",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107481579",
+      "food_name": "Grilled Mahi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/grilled-mahi",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731414",
+      "food_name": "Create Your Own Ultimate Feast - 7 oz Sirloin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/create-your-own-ultimate-feast-7-oz-sirloin",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70731628",
+      "food_name": "Snow Crab & Sirloin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/snow-crab-sirloin",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70733202",
+      "food_name": "Surf & Turf - Walt's Favorite Shrimp & 6 oz Filet Mignon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/surf-turf-walts-favorite-shrimp-6-oz-filet-mignon",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70733290",
+      "food_name": "CYO - Wild-Caught Broiled Flounder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/cyo-wild-caught-broiled-flounder",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70733404",
+      "food_name": "Monday Ultimate Endless - Grilled Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/monday-ultimate-endless-grilled-shrimp",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761918",
+      "food_name": "Casco Bay Cooler - Sunset Strawberry Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/casco-bay-cooler-sunset-strawberry-smoothie",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762116",
+      "food_name": "Raspberry Fruit Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/raspberry-fruit-smoothie",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762119",
+      "food_name": "Strawberry Fruit Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/strawberry-fruit-smoothie",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762149",
+      "food_name": "Cajun Chicken Linguini Alfredo Family Meal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/cajun-chicken-linguini-alfredo-family-meal",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762154",
+      "food_name": "Chocolate Wave Cake (14 slices)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/chocolate-wave-cake-(14-slices)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762164",
+      "food_name": "Create Your Own Family Feast - Parrot Isle Coconut Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/create-your-own-family-feast-parrot-isle-coconut-shrimp",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762171",
+      "food_name": "Create Your Own Family Feast - Walt's Favorite Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/create-your-own-family-feast-walts-favorite-shrimp",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762183",
+      "food_name": "Caesar Salad - Family Meals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/caesar-salad-family-meals",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762194",
+      "food_name": "Mashed Potatoes - Family Meals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/mashed-potatoes-family-meals",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762204",
+      "food_name": "Parrot Isle Jumbo Coconut Shrimp Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/parrot-isle-jumbo-coconut-shrimp-platter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70762208",
+      "food_name": "Shrimp Linguini Alfredo Family Meal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/shrimp-linguini-alfredo-family-meal",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931241",
+      "food_name": "Snow Crab and Crab-Topped Sirloin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/snow-crab-and-crab-topped-sirloin",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931435",
+      "food_name": "Parrot Isle Jumbo Coconut Shrimp Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/parrot-isle-jumbo-coconut-shrimp-salad",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931763",
+      "food_name": "Surf & Turf - Walt's Favorite Shrimp & 7 oz Sirloin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/surf-turf-walts-favorite-shrimp-7-oz-sirloin",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931984",
+      "food_name": "Parrot Isle Jumbo Coconut Shrimp with Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/parrot-isle-jumbo-coconut-shrimp-with-fries",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931988",
+      "food_name": "Popcorn Shrimp Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/popcorn-shrimp-caesar-salad",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931990",
+      "food_name": "Sailor's Platter with Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/sailors-platter-with-fries",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932092",
+      "food_name": "Main Deck Margarita Flight (Rocks)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/main-deck-margarita-flight-(rocks)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932098",
+      "food_name": "Grand Patrón Margarita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/grand-patr%C3%B3n-margarita",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932101",
+      "food_name": "Passion Fruit Margarita (Frozen)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/passion-fruit-margarita-(frozen)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932164",
+      "food_name": "Boston Iced Tea - Mango",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/boston-iced-tea-mango",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932229",
+      "food_name": "Create Your Own Family Feast - Grilled Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/create-your-own-family-feast-grilled-shrimp",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932230",
+      "food_name": "Fish Fry Family Meal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/fish-fry-family-meal",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932233",
+      "food_name": "Bacon Mac & Cheese - Family Meals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/bacon-mac-cheese-family-meals",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935433",
+      "food_name": "Coleslaw - Family Meals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/coleslaw-family-meals",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935442",
+      "food_name": "House Salad - Family Meals",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/house-salad-family-meals",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935493",
+      "food_name": "Key Lime Pie (8 Slices)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/key-lime-pie-(8-slices)",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935510",
+      "food_name": "Chicken Tenders Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/chicken-tenders-platter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84935512",
+      "food_name": "Crab Queso Platter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/crab-queso-platter",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84931572",
+      "food_name": "Live Maine Lobster, Steamed with Baked Potato and Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/live-maine-lobster-steamed-with-baked-potato-and-broccoli",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84932213",
+      "food_name": "Bar Harbor Lobster Bake Family Feast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/bar-harbor-lobster-bake-family-feast",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    }
+  ]
+}

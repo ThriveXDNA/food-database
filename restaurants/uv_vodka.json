@@ -1,0 +1,27 @@
+{
+  "restaurant": "UV Vodka",
+  "total_items": 2,
+  "pages_extracted": 4,
+  "total_search_results": 154,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:46:39.695Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/uv_vodka.json",
+  "items": [
+    {
+      "food_id": "6086326",
+      "food_name": "UV Blue Vodka",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/uv-vodka/uv-blue-vodka",
+      "brand_name": "UV Vodka",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5101126",
+      "food_name": "UV Cake Vodka",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/uv-vodka/uv-cake-vodka",
+      "brand_name": "UV Vodka",
+      "food_type": "Brand"
+    }
+  ]
+}

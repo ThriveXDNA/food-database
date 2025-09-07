@@ -1,0 +1,27 @@
+{
+  "restaurant": "Gobble Green",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 2410,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:32:32.809Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/gobble_green.json",
+  "items": [
+    {
+      "food_id": "3328227",
+      "food_name": "Ginger Thai Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gobble-green/ginger-thai-salad",
+      "brand_name": "Gobble Green",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3192447",
+      "food_name": "Oatmeal Raisin Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gobble-green/oatmeal-raisin-cookie",
+      "brand_name": "Gobble Green",
+      "food_type": "Brand"
+    }
+  ]
+}

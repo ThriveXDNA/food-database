@@ -1,0 +1,20 @@
+{
+  "restaurant": "Smart & Simple",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 485,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:54:35.717Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/smart_simple.json",
+  "items": [
+    {
+      "food_id": "12256004",
+      "food_name": "Sandwich Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smart-simple/sandwich-slices",
+      "brand_name": "Smart & Simple",
+      "food_type": "Brand"
+    }
+  ]
+}

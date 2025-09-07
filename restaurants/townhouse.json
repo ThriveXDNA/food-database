@@ -1,0 +1,76 @@
+{
+  "restaurant": "Townhouse",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:53:54.583Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/townhouse.json",
+  "items": [
+    {
+      "food_id": "14158591",
+      "food_name": "Original Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/townhouse/original-crackers",
+      "brand_name": "Townhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5618403",
+      "food_name": "Pita Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/townhouse/pita-crackers",
+      "brand_name": "Townhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17342675",
+      "food_name": "Flip Side Thins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/townhouse/flip-side-thins",
+      "brand_name": "Townhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7509564",
+      "food_name": "Flatbread Crisps Italian Herb",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/townhouse/flatbread-crisps-italian-herb",
+      "brand_name": "Townhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20811427",
+      "food_name": "Flatbread Crisps Sea Salt & Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/townhouse/flatbread-crisps-sea-salt-olive-oil",
+      "brand_name": "Townhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15211407",
+      "food_name": "Reduced Fat Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/townhouse/reduced-fat-crackers",
+      "brand_name": "Townhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22915999",
+      "food_name": "Focaccia Tuscan Cheese Cracker",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/townhouse/focaccia-tuscan-cheese-cracker",
+      "brand_name": "Townhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33303621",
+      "food_name": "Flatbread Crisps Tomato, Basil & Mozzarella",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/townhouse/flatbread-crisps-tomato-basil-mozzarella",
+      "brand_name": "Townhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70990018",
+      "food_name": "Townhouse Dipping Thins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kelloggs/townhouse-dipping-thins",
+      "brand_name": "Kellogg's",
+      "food_type": "Brand"
+    }
+  ]
+}

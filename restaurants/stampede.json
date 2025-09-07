@@ -1,0 +1,76 @@
+{
+  "restaurant": "Stampede",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:15:21.553Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/stampede.json",
+  "items": [
+    {
+      "food_id": "9779762",
+      "food_name": "Boneless Beef Thinly Sliced Ribeye Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stampede/boneless-beef-thinly-sliced-ribeye-steak",
+      "brand_name": "Stampede",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5220323",
+      "food_name": "Boneless Beef Top Sirloin Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stampede/boneless-beef-top-sirloin-steak",
+      "brand_name": "Stampede",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4321386",
+      "food_name": "Boneless Beef NY Strip Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stampede/boneless-beef-ny-strip-steak",
+      "brand_name": "Stampede",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7783757",
+      "food_name": "Boneless Beef Ribeye Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stampede/boneless-beef-ribeye-steak",
+      "brand_name": "Stampede",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15645297",
+      "food_name": "Bone in Pork Loin Chop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stampede/bone-in-pork-loin-chop",
+      "brand_name": "Stampede",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2984681",
+      "food_name": "Stampede Boneless Beef Ribeye Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stampede/stampede-boneless-beef-ribeye-steak",
+      "brand_name": "Stampede",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70255555",
+      "food_name": "Top Sirloin Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stampede/top-sirloin-steak",
+      "brand_name": "Stampede",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11476978",
+      "food_name": "Peanut Chocolate Stampede Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wegmans/peanut-chocolate-stampede-ice-cream",
+      "brand_name": "Wegmans",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72198949",
+      "food_name": "Chocolate Stampede",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/longhorn-steakhouse/chocolate-stampede",
+      "brand_name": "Longhorn Steakhouse",
+      "food_type": "Brand"
+    }
+  ]
+}

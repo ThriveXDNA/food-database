@@ -1,0 +1,69 @@
+{
+  "restaurant": "Gold Star Chili",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 1848,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:54:12.254Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/gold_star_chili.json",
+  "items": [
+    {
+      "food_id": "671113",
+      "food_name": "Cheese Coney",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-star-chili/cheese-coney",
+      "brand_name": "Gold Star Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8428204",
+      "food_name": "Original Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-star-chili/original-chili",
+      "brand_name": "Gold Star Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1250737",
+      "food_name": "Chili Cheese Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-star-chili/chili-cheese-dip",
+      "brand_name": "Gold Star Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1036077",
+      "food_name": "3-Way (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-star-chili/3-way-(regular)",
+      "brand_name": "Gold Star Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1313054",
+      "food_name": "4-Way (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-star-chili/4-way-(regular)",
+      "brand_name": "Gold Star Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3235938",
+      "food_name": "Chili Cheese Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-star-chili/chili-cheese-fries",
+      "brand_name": "Gold Star Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9771246",
+      "food_name": "Chili & Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-star-chili/chili-and-spaghetti",
+      "brand_name": "Gold Star Chili",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60843",
+      "food_name": "Coney Chili (No Beans)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gold-star-chili/coney-chili-(no-beans)",
+      "brand_name": "Gold Star Chili",
+      "food_type": "Brand"
+    }
+  ]
+}

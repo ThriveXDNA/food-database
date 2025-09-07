@@ -1,0 +1,48 @@
+{
+  "restaurant": "Anthony Thomas",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:04:46.355Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/anthony_thomas.json",
+  "items": [
+    {
+      "food_id": "1387714",
+      "food_name": "Buckeyes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/anthony-thomas/buckeyes",
+      "brand_name": "Anthony Thomas",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2811258",
+      "food_name": "Chocolates",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/anthony-thomas/chocolates",
+      "brand_name": "Anthony Thomas",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74422713",
+      "food_name": "Crispy Crunch Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/anthony-thomas/crispy-crunch-bar",
+      "brand_name": "Anthony Thomas",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1276547",
+      "food_name": "Peanut Butter Candy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/anthony-thomas/peanut-butter-candy-bar",
+      "brand_name": "Anthony Thomas",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1695356",
+      "food_name": "Almond Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/anthony-thomas/almond-chocolate-bar",
+      "brand_name": "Anthony Thomas",
+      "food_type": "Brand"
+    }
+  ]
+}

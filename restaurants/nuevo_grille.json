@@ -1,0 +1,48 @@
+{
+  "restaurant": "Nuevo Grille",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 20,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:22:49.271Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/nuevo_grille.json",
+  "items": [
+    {
+      "food_id": "7476949",
+      "food_name": "Street Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nuevo-grille/street-tacos",
+      "brand_name": "Nuevo Grille",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5474702",
+      "food_name": "Grilled Mini Chicken & Cheese Quesadillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nuevo-grille/grilled-mini-chicken-and-cheese-quesadillas",
+      "brand_name": "Nuevo Grille",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2119123",
+      "food_name": "Pork Tamales",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nuevo-grille/pork-tamales",
+      "brand_name": "Nuevo Grille",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3538018",
+      "food_name": "Shredded Beef Tamales",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nuevo-grille/shredded-beef-tamales",
+      "brand_name": "Nuevo Grille",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2745823",
+      "food_name": "Grilled Beef & Cheese Burritos Snack Size",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nuevo-grille/grilled-beef-and-cheese-burritos-snack-size",
+      "brand_name": "Nuevo Grille",
+      "food_type": "Brand"
+    }
+  ]
+}

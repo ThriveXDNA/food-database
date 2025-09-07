@@ -1,0 +1,76 @@
+{
+  "restaurant": "Damascus Bakeries",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:01:19.210Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/damascus_bakeries.json",
+  "items": [
+    {
+      "food_id": "9943434",
+      "food_name": "Flax Natural Lavash Roll-Ups",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/damascus-bakeries/flax-natural-lavash-roll-ups",
+      "brand_name": "Damascus Bakeries",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20038442",
+      "food_name": "Whole Wheat Natural Lavash Roll-Ups",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/damascus-bakeries/whole-wheat-natural-lavash-roll-ups",
+      "brand_name": "Damascus Bakeries",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89405",
+      "food_name": "Whole Wheat Pita Pockets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/damascus-bakeries/whole-wheat-pita-pockets",
+      "brand_name": "Damascus Bakeries",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59950",
+      "food_name": "Whole Wheat Roll-ups",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/damascus-bakeries/whole-wheat-roll-ups",
+      "brand_name": "Damascus Bakeries",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3041537",
+      "food_name": "Plain Roll-up",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/damascus-bakeries/plain-roll-up",
+      "brand_name": "Damascus Bakeries",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4145563",
+      "food_name": "Mini Whole Wheat Pita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/damascus-bakeries/mini-whole-wheat-pita",
+      "brand_name": "Damascus Bakeries",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5126463",
+      "food_name": "Plain Pita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/damascus-bakeries/plain-pita",
+      "brand_name": "Damascus Bakeries",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3512986",
+      "food_name": "Flax Roll-Ups",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/damascus-bakeries/flax-roll-ups",
+      "brand_name": "Damascus Bakeries",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2276876",
+      "food_name": "Golden Flax Roll-ups",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/damascus-bakeries/golden-flax-roll-ups",
+      "brand_name": "Damascus Bakeries",
+      "food_type": "Brand"
+    }
+  ]
+}

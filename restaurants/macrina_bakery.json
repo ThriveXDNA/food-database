@@ -1,0 +1,27 @@
+{
+  "restaurant": "Macrina Bakery",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 46,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:13:40.210Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/macrina_bakery.json",
+  "items": [
+    {
+      "food_id": "28969717",
+      "food_name": "Ciabatta Burger Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/macrina-bakery/ciabatta-burger-buns",
+      "brand_name": "Macrina Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55049757",
+      "food_name": "Brioche Sliders",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/macrina-bakery/brioche-sliders",
+      "brand_name": "Macrina Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

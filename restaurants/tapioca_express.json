@@ -1,0 +1,27 @@
+{
+  "restaurant": "Tapioca Express",
+  "total_items": 2,
+  "pages_extracted": 5,
+  "total_search_results": 204,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:46:43.585Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/tapioca_express.json",
+  "items": [
+    {
+      "food_id": "5133536",
+      "food_name": "Milk Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tapioca-express/milk-tea",
+      "brand_name": "Tapioca Express",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5067187",
+      "food_name": "Crispy Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tapioca-express/crispy-chicken",
+      "brand_name": "Tapioca Express",
+      "food_type": "Brand"
+    }
+  ]
+}

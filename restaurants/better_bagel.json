@@ -1,0 +1,34 @@
+{
+  "restaurant": "Better Bagel",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 906,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:01:45.614Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/better_bagel.json",
+  "items": [
+    {
+      "food_id": "61931425",
+      "food_name": "Everything Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/better-bagel/everything-bagel",
+      "brand_name": "Better Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63459578",
+      "food_name": "Classic Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/better-bagel/classic-bagel",
+      "brand_name": "Better Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61110179",
+      "food_name": "Cinnamon Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/better-bagel/cinnamon-bagel",
+      "brand_name": "Better Bagel",
+      "food_type": "Brand"
+    }
+  ]
+}

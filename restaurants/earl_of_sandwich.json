@@ -1,0 +1,62 @@
+{
+  "restaurant": "Earl of Sandwich",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 4068,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:54:53.732Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/earl_of_sandwich.json",
+  "items": [
+    {
+      "food_id": "5422282",
+      "food_name": "Chipotle Chicken Avocado",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/earl-of-sandwich/chipotle-chicken-avocado",
+      "brand_name": "Earl of Sandwich",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8697829",
+      "food_name": "Italian Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/earl-of-sandwich/italian-sandwich",
+      "brand_name": "Earl of Sandwich",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3119263",
+      "food_name": "Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/earl-of-sandwich/potato-chips",
+      "brand_name": "Earl of Sandwich",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10813186",
+      "food_name": "Holiday Turkey Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/earl-of-sandwich/holiday-turkey-sandwich",
+      "brand_name": "Earl of Sandwich",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5567367",
+      "food_name": "Full Montagu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/earl-of-sandwich/full-montagu",
+      "brand_name": "Earl of Sandwich",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3610657",
+      "food_name": "Pumpernickel Rye",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/earl-of-sandwich/pumpernickel-rye",
+      "brand_name": "Earl of Sandwich",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7465000",
+      "food_name": "Veggie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/earl-of-sandwich/veggie",
+      "brand_name": "Earl of Sandwich",
+      "food_type": "Brand"
+    }
+  ]
+}

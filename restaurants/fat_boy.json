@@ -1,0 +1,90 @@
+{
+  "restaurant": "Fat Boy",
+  "total_items": 11,
+  "pages_extracted": 6,
+  "total_search_results": 2584,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:55:35.181Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fat_boy.json",
+  "items": [
+    {
+      "food_id": "5679626",
+      "food_name": "Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fat-boy/ice-cream-sandwich",
+      "brand_name": "Fat Boy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12239296",
+      "food_name": "Mini Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fat-boy/mini-ice-cream-sandwich",
+      "brand_name": "Fat Boy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21518322",
+      "food_name": "Cookies 'N Cream Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fat-boy/cookies-n-cream-ice-cream-sandwich",
+      "brand_name": "Fat Boy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3319765",
+      "food_name": "Chocolate Chip Cookie Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fat-boy/chocolate-chip-cookie-ice-cream-sandwich",
+      "brand_name": "Fat Boy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79669677",
+      "food_name": "Cookie Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fat-boy/cookie-sandwich",
+      "brand_name": "Fat Boy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15629885",
+      "food_name": "Nut Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fat-boy/nut-sundae",
+      "brand_name": "Fat Boy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62596032",
+      "food_name": "Toffee Crunch Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fat-boy/toffee-crunch-sundae",
+      "brand_name": "Fat Boy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72084109",
+      "food_name": "Vanilla Nut Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fat-boy/vanilla-nut-sundae",
+      "brand_name": "Fat Boy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11782318",
+      "food_name": "Key Lime Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fat-boy/key-lime-ice-cream-sandwich",
+      "brand_name": "Fat Boy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61632598",
+      "food_name": "Carmel Pretzel Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fat-boy/carmel-pretzel-sundae",
+      "brand_name": "Fat Boy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106234026",
+      "food_name": "Sugar Cookie Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fat-boy/sugar-cookie-ice-cream-sandwich",
+      "brand_name": "Fat Boy",
+      "food_type": "Brand"
+    }
+  ]
+}

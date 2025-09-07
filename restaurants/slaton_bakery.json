@@ -1,0 +1,27 @@
+{
+  "restaurant": "Slaton Bakery",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 46,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:13:11.254Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/slaton_bakery.json",
+  "items": [
+    {
+      "food_id": "103159654",
+      "food_name": "Homemade Vanilla Wafers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/slaton-bakery/homemade-vanilla-wafers",
+      "brand_name": "Slaton Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34602586",
+      "food_name": "Ginger Snaps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/slaton-bakery/ginger-snaps",
+      "brand_name": "Slaton Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

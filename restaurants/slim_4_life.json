@@ -1,0 +1,41 @@
+{
+  "restaurant": "Slim 4 Life",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 1433,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:07:37.768Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/slim_4_life.json",
+  "items": [
+    {
+      "food_id": "9018075",
+      "food_name": "Peanut Butter Cup Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/slim-4-life/peanut-butter-cup-protein-bar",
+      "brand_name": "Slim 4 Life",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15694931",
+      "food_name": "Quench Peach Mango Drink Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/slim-4-life/quench-peach-mango-drink-mix",
+      "brand_name": "Slim 4 Life",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22815100",
+      "food_name": "Hot Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/slim-4-life/hot-chocolate",
+      "brand_name": "Slim 4 Life",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10403238",
+      "food_name": "Sweet & Salty Peanut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/slim-4-life/sweet-and-salty-peanut-bar",
+      "brand_name": "Slim 4 Life",
+      "food_type": "Brand"
+    }
+  ]
+}

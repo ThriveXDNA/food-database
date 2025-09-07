@@ -1,0 +1,55 @@
+{
+  "restaurant": "Freirich",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:07:37.394Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/freirich.json",
+  "items": [
+    {
+      "food_id": "2136700",
+      "food_name": "Teriyaki Beef Tenderloin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freirich/teriyaki-beef-tenderloin",
+      "brand_name": "Freirich",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2193106",
+      "food_name": "London Broil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freirich/london-broil",
+      "brand_name": "Freirich",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7086652",
+      "food_name": "Corned Beef Eye Round",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freirich/corned-beef-eye-round",
+      "brand_name": "Freirich",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92574",
+      "food_name": "Corned Beef Brisket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freirich/corned-beef-brisket",
+      "brand_name": "Freirich",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5241598",
+      "food_name": "Petite Filet of Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freirich/petite-filet-of-beef",
+      "brand_name": "Freirich",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73701994",
+      "food_name": "Teriyaki Beef Tenderloin (140g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freirich/teriyaki-beef-tenderloin-(140g)",
+      "brand_name": "Freirich",
+      "food_type": "Brand"
+    }
+  ]
+}

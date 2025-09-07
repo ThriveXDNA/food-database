@@ -1,0 +1,55 @@
+{
+  "restaurant": "Schwartz Brothers",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:47:32.235Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/schwartz_brothers.json",
+  "items": [
+    {
+      "food_id": "52661487",
+      "food_name": "Organic Garlic & Herb Bagel Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/schwartz-brothers/organic-garlic-herb-bagel-chips",
+      "brand_name": "Schwartz Brothers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76194012",
+      "food_name": "Organic Everything Bagel Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/schwartz-brothers/organic-everything-bagel-chips",
+      "brand_name": "Schwartz Brothers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92492168",
+      "food_name": "Croissant Loaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/schwartz-brothers/croissant-loaf",
+      "brand_name": "Schwartz Brothers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14376605",
+      "food_name": "Lemon Dessert Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/schwartz-brothers/lemon-dessert-bars",
+      "brand_name": "Schwartz Brothers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20183396",
+      "food_name": "Cinnamon Streusel Coffee Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/schwartz-brothers/cinnamon-streusel-coffee-cake",
+      "brand_name": "Schwartz Brothers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37716993",
+      "food_name": "Almond Poppy Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/schwartz-brothers/almond-poppy-muffins",
+      "brand_name": "Schwartz Brothers",
+      "food_type": "Brand"
+    }
+  ]
+}

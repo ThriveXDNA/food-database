@@ -1,0 +1,78 @@
+{
+  "version": "8.0",
+  "extraction_type": "api_compliant_comprehensive",
+  "last_updated": "2025-09-07T00:49:17.437Z",
+  "total_foods": 0,
+  "authentication_method": "OAuth 1.0",
+  "data_source": "FatSecret Platform API (Compliant Usage)",
+  "account_type": "Premier Free",
+  "api_compliance": {
+    "follows_rate_limits": true,
+    "min_delay_between_requests": 1500,
+    "max_daily_requests": 4000,
+    "max_pages_per_search": 8,
+    "total_requests_used": 3,
+    "requests_remaining": 3997
+  },
+  "extraction_log": {
+    "start_time": "2025-09-07T00:49:14.313Z",
+    "api_compliance": {
+      "max_daily_requests": 4000,
+      "min_delay_ms": 1500,
+      "max_pages_per_search": 8,
+      "total_requests_used": 3
+    },
+    "categories": {
+      "fruit": 0,
+      "vegetable": 0,
+      "meat": 0,
+      "chicken": 0,
+      "beef": 0,
+      "fish": 0,
+      "dairy": 0,
+      "bread": 0,
+      "pasta": 0,
+      "rice": 0,
+      "cheese": 0,
+      "milk": 0,
+      "pizza": 0,
+      "burger": 0,
+      "sandwich": 0,
+      "salad": 0,
+      "soup": 0,
+      "dessert": 0,
+      "cake": 0,
+      "chocolate": 0,
+      "coffee": 0,
+      "tea": 0,
+      "juice": 0,
+      "soda": 0,
+      "breakfast": 0,
+      "lunch": 0,
+      "dinner": 0,
+      "snack": 0,
+      "organic": 0,
+      "frozen": 0
+    },
+    "restaurants": {
+      "McDonald's": 0,
+      "Subway": 0,
+      "Starbucks": 0,
+      "KFC": 0,
+      "Burger King": 0,
+      "Pizza Hut": 0,
+      "Taco Bell": 0,
+      "Wendy's": 0,
+      "Domino's": 0,
+      "Dunkin'": 0
+    },
+    "food_types": {
+      "Generic": 0,
+      "Brand": 0
+    },
+    "alphabetical": 0,
+    "common_terms": 0,
+    "total_foods": 0,
+    "end_time": "2025-09-07T00:49:17.437Z"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "restaurant": "Isadora",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:26:34.307Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/isadora.json",
+  "items": [
+    {
+      "food_id": "78069435",
+      "food_name": "Frijoles Refritos Bayos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/isadora/frijoles-refritos-bayos",
+      "brand_name": "Isadora",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19384676",
+      "food_name": "Low Fat Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/isadora/low-fat-refried-beans",
+      "brand_name": "Isadora",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39940311",
+      "food_name": "Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/isadora/refried-beans",
+      "brand_name": "Isadora",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82262228",
+      "food_name": "Pork Chile Verde",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/isadora/pork-chile-verde",
+      "brand_name": "Isadora",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28462833",
+      "food_name": "Black Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/isadora/black-refried-beans",
+      "brand_name": "Isadora",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48418412",
+      "food_name": "Mayocoba Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/isadora/mayocoba-refried-beans",
+      "brand_name": "Isadora",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78102747",
+      "food_name": "Barbacoa Mexican Style Seasoned Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/isadora/barbacoa-mexican-style-seasoned-beef",
+      "brand_name": "Isadora",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17921977",
+      "food_name": "Tex-Mex Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/isadora/tex-mex-refried-beans",
+      "brand_name": "Isadora",
+      "food_type": "Brand"
+    }
+  ]
+}

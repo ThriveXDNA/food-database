@@ -1,0 +1,41 @@
+{
+  "restaurant": "Medi",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:45:08.284Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/medi.json",
+  "items": [
+    {
+      "food_id": "4330303",
+      "food_name": "Whey Protein Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/medi/whey-protein-shake",
+      "brand_name": "Medi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2796064",
+      "food_name": "BBQ Zippers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/medi/bbq-zippers",
+      "brand_name": "Medi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3057382",
+      "food_name": "Signature Vanilla Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/medi/signature-vanilla-shake",
+      "brand_name": "Medi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1766075",
+      "food_name": "Chocolate Celebration Delite",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/medi/chocolate-celebration-delite",
+      "brand_name": "Medi",
+      "food_type": "Brand"
+    }
+  ]
+}

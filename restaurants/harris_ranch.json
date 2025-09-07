@@ -1,0 +1,76 @@
+{
+  "restaurant": "Harris Ranch",
+  "total_items": 9,
+  "pages_extracted": 6,
+  "total_search_results": 1656,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:13:17.542Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/harris_ranch.json",
+  "items": [
+    {
+      "food_id": "1541111",
+      "food_name": "Boneless Beef Short Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harris-ranch/boneless-beef-short-ribs",
+      "brand_name": "Harris Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42816076",
+      "food_name": "Ground Beef 93% Lean 7% Fat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harris-ranch/ground-beef-93-lean-7-fat",
+      "brand_name": "Harris Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2152948",
+      "food_name": "Beef Meat Loaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harris-ranch/beef-meat-loaf",
+      "brand_name": "Harris Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2639657",
+      "food_name": "Bell Peppers Stuffed with Seasoned Ground Beef with Marinara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harris-ranch/bell-peppers-stuffed-with-seasoned-ground-beef-with-marinara",
+      "brand_name": "Harris Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "846347",
+      "food_name": "Penne Pasta with Beef Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harris-ranch/penne-pasta-with-beef-meatballs",
+      "brand_name": "Harris Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2568859",
+      "food_name": "Natural Ground Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harris-ranch/natural-ground-beef",
+      "brand_name": "Harris Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1859564",
+      "food_name": "Yankee Beef Pot Roast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harris-ranch/yankee-beef-pot-roast",
+      "brand_name": "Harris Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5508628",
+      "food_name": "Homestyle Beef Pot Roast with Savory Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harris-ranch/homestyle-beef-pot-roast-with-savory-gravy",
+      "brand_name": "Harris Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "825366",
+      "food_name": "Beef Tri Tip Seasoned Sirloin Au Jus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harris-ranch/beef-tri-tip-seasoned-sirloin-au-jus",
+      "brand_name": "Harris Ranch",
+      "food_type": "Brand"
+    }
+  ]
+}

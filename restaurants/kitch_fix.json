@@ -1,0 +1,27 @@
+{
+  "restaurant": "Kitch Fix",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 16,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:57:31.749Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kitch_fix.json",
+  "items": [
+    {
+      "food_id": "30015331",
+      "food_name": "Honey Pecan Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kitch-fix/honey-pecan-granola",
+      "brand_name": "Kitch Fix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45813759",
+      "food_name": "Original Midwest Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kitch-fix/original-midwest-granola",
+      "brand_name": "Kitch Fix",
+      "food_type": "Brand"
+    }
+  ]
+}

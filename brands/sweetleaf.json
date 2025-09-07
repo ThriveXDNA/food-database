@@ -1,0 +1,27 @@
+{
+  "brand_name": "SweetLeaf",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:23:43.534Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/sweetleaf.json",
+  "items": [
+    {
+      "food_id": "3760223",
+      "food_name": "100% Natural Stevia Sweetener",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetleaf/100%25-natural-stevia-sweetener",
+      "brand_name": "SweetLeaf",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48838012",
+      "food_name": "Sugar Free Stevia Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweetleaf/sugar-free-stevia-syrup",
+      "brand_name": "SweetLeaf",
+      "food_type": "Brand"
+    }
+  ]
+}

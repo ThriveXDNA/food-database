@@ -1,0 +1,76 @@
+{
+  "restaurant": "Fantastic Foods",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 22,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:24:30.752Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fantastic_foods.json",
+  "items": [
+    {
+      "food_id": "1590209",
+      "food_name": "Tofu Scrambler",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fantastic-foods/tofu-scrambler",
+      "brand_name": "Fantastic Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1299514",
+      "food_name": "Instant Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fantastic-foods/instant-refried-beans",
+      "brand_name": "Fantastic Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65399",
+      "food_name": "Hot & Sour Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fantastic-foods/hot-and-sour-soup",
+      "brand_name": "Fantastic Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3103291",
+      "food_name": "Vegetarian Sloppy Joe",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fantastic-foods/vegetarian-sloppy-joe",
+      "brand_name": "Fantastic Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57687",
+      "food_name": "Natures Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fantastic-foods/natures-burger",
+      "brand_name": "Fantastic Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86187",
+      "food_name": "Spicy Thai Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fantastic-foods/spicy-thai-soup",
+      "brand_name": "Fantastic Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30225",
+      "food_name": "Taco Filling",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fantastic-foods/taco-filling",
+      "brand_name": "Fantastic Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61409",
+      "food_name": "Falafel Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fantastic-foods/falafel-mix",
+      "brand_name": "Fantastic Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95791",
+      "food_name": "Classic French Onion Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fantastic-foods/classic-french-onion-soup",
+      "brand_name": "Fantastic Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

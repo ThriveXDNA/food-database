@@ -1,0 +1,55 @@
+{
+  "restaurant": "Arctic Shores",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 28,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:37:59.019Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/arctic_shores.json",
+  "items": [
+    {
+      "food_id": "695307",
+      "food_name": "Imitation Crab Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/arctic-shores/imitation-crab-meat",
+      "brand_name": "Arctic Shores",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74304",
+      "food_name": "Frozen Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/arctic-shores/frozen-shrimp",
+      "brand_name": "Arctic Shores",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1130639",
+      "food_name": "Orange Roughy Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/arctic-shores/orange-roughy-fillets",
+      "brand_name": "Arctic Shores",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9302484",
+      "food_name": "Pink Salmon Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/arctic-shores/pink-salmon-fillets",
+      "brand_name": "Arctic Shores",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "797658",
+      "food_name": "Tilapia Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/arctic-shores/tilapia-fillets",
+      "brand_name": "Arctic Shores",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2902043",
+      "food_name": "Cooked Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/arctic-shores/cooked-shrimp",
+      "brand_name": "Arctic Shores",
+      "food_type": "Brand"
+    }
+  ]
+}

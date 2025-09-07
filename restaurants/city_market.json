@@ -1,0 +1,27 @@
+{
+  "restaurant": "City Market",
+  "total_items": 2,
+  "pages_extracted": 3,
+  "total_search_results": 114,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:30:59.598Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/city_market.json",
+  "items": [
+    {
+      "food_id": "1476070",
+      "food_name": "Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/city-market/italian-sausage",
+      "brand_name": "City Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "361231",
+      "food_name": "Pork Sausage Links",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/city-market/pork-sausage-links",
+      "brand_name": "City Market",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "restaurant": "Cafe Delight",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 455,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:40:40.821Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cafe_delight.json",
+  "items": [
+    {
+      "food_id": "23700714",
+      "food_name": "Sugar Substitute",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-delight/sugar-substitute",
+      "brand_name": "Cafe Delight",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "T&J Sausage Kitchen",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 3560,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:31:18.128Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/t_j_sausage_kitchen.json",
+  "items": [
+    {
+      "food_id": "2441299",
+      "food_name": "Mild Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/t-j-sausage-kitchen/mild-italian-sausage",
+      "brand_name": "T&J Sausage Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12493838",
+      "food_name": "Hot Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tandj-sausage-kitchen/hot-italian-sausage",
+      "brand_name": "T&J Sausage Kitchen",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "brand_name": "Fresh Tofu Inc.",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 1640,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:03:37.419Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/fresh_tofu_inc.json",
+  "items": [
+    {
+      "food_id": "37285837",
+      "food_name": "Organic Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-tofu-inc/organic-tofu",
+      "brand_name": "Fresh Tofu Inc.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1057243",
+      "food_name": "Tofu No-Egg Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-tofu-inc/tofu-no-egg-salad",
+      "brand_name": "Fresh Tofu Inc.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "978132",
+      "food_name": "Lemon Pepper Baked Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-tofu-inc/lemon-pepper-baked-tofu",
+      "brand_name": "Fresh Tofu Inc.",
+      "food_type": "Brand"
+    }
+  ]
+}

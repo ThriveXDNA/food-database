@@ -1,0 +1,48 @@
+{
+  "restaurant": "California Sun Dry",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 1083,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:59:18.583Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/california_sun_dry.json",
+  "items": [
+    {
+      "food_id": "43455",
+      "food_name": "Sun-Dried Tomatoes Julienne Cut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-sun-dry/sun-dried-tomatoes-julienne-cut",
+      "brand_name": "California Sun Dry",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "366579",
+      "food_name": "Sun-Dried Julienne Cut Tomatoes with Herbs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-sun-dry/sun-dried-julienne-cut-tomatoes-with-herbs",
+      "brand_name": "California Sun Dry",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5272080",
+      "food_name": "Sun-Dried Tomatoes Halves",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-sun-dry/sun-dried-tomatoes-halves",
+      "brand_name": "California Sun Dry",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4137325",
+      "food_name": "Sun-Dried Tomato Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-sun-dry/sun-dried-tomato-spread",
+      "brand_name": "California Sun Dry",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11140279",
+      "food_name": "Smoked Sun-Dried Tomatoes Julienne Cut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-sun-dry/smoked-sun-dried-tomatoes-julienne-cut",
+      "brand_name": "California Sun Dry",
+      "food_type": "Brand"
+    }
+  ]
+}

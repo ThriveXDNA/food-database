@@ -1,0 +1,33 @@
+{
+  "brand_name": "Louis Rich",
+  "brand_id": 331,
+  "total_items": 3,
+  "pages_extracted": 6,
+  "last_updated": "2025-09-06T20:30:22.429Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Brand-specific search with filtering",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/louis_rich.json",
+  "items": [
+    {
+      "food_id": "88534",
+      "food_name": "Turkey Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/louis-rich/turkey-bacon",
+      "brand_name": "Louis Rich",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7694658",
+      "food_name": "Hot Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/louis-rich/hot-dog",
+      "brand_name": "Louis Rich",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46328",
+      "food_name": "Ground Turkey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/louis-rich/ground-turkey",
+      "brand_name": "Louis Rich",
+      "food_type": "Brand"
+    }
+  ]
+}

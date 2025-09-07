@@ -1,0 +1,62 @@
+{
+  "restaurant": "Pero",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:08:15.710Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pero.json",
+  "items": [
+    {
+      "food_id": "3145487",
+      "food_name": "Mini Sweet Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pero/mini-sweet-peppers",
+      "brand_name": "Pero",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3874776",
+      "food_name": "Green Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pero/green-beans",
+      "brand_name": "Pero",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84929731",
+      "food_name": "Brussel Sprouts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pero/brussel-sprouts",
+      "brand_name": "Pero",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2120539",
+      "food_name": "Instant Natural Beverage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pero/instant-natural-beverage",
+      "brand_name": "Pero",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5316954",
+      "food_name": "Organic Green Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pero/organic-green-beans",
+      "brand_name": "Pero",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76503209",
+      "food_name": "Instant Natural Beverage (7g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pero/instant-natural-beverage-(7g)",
+      "brand_name": "Pero",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68481729",
+      "food_name": "Broccoli Florets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pero/broccoli-florets",
+      "brand_name": "Pero",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "brand_name": "Yes",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 44,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:24:12.150Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/yes.json",
+  "items": [
+    {
+      "food_id": "58583373",
+      "food_name": "Yogurt Griego",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yes/yogurt-griego",
+      "brand_name": "Yes",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92109131",
+      "food_name": "Yogurt Natural Sin Azúcar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yes/yogurt-natural-sin-az%C3%BAcar",
+      "brand_name": "Yes",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42786348",
+      "food_name": "Dark Chocolate Chip Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yes/dark-chocolate-chip-bar",
+      "brand_name": "Yes",
+      "food_type": "Brand"
+    }
+  ]
+}

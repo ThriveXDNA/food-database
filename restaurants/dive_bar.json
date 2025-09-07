@@ -1,0 +1,55 @@
+{
+  "restaurant": "Dive Bar",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 3473,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:44:54.856Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dive_bar.json",
+  "items": [
+    {
+      "food_id": "62783083",
+      "food_name": "Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dive-bar/protein-bar",
+      "brand_name": "Dive Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16412078",
+      "food_name": "Trash Can Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dive-bar/trash-can-cookie",
+      "brand_name": "Dive Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57214154",
+      "food_name": "Divorce Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dive-bar/divorce-cake",
+      "brand_name": "Dive Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68151517",
+      "food_name": "Samoan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dive-bar/samoan",
+      "brand_name": "Dive Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76786259",
+      "food_name": "Salted Caramel Pretzel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dive-bar/salted-caramel-pretzel",
+      "brand_name": "Dive Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78162237",
+      "food_name": "Dump Truck Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dive-bar/dump-truck-brownie",
+      "brand_name": "Dive Bar",
+      "food_type": "Brand"
+    }
+  ]
+}

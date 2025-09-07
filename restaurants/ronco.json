@@ -1,0 +1,41 @@
+{
+  "restaurant": "Ronco",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:19:31.730Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ronco.json",
+  "items": [
+    {
+      "food_id": "654481",
+      "food_name": "Wide Egg Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ronco/wide-egg-noodles",
+      "brand_name": "Ronco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1182601",
+      "food_name": "Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ronco/spaghetti",
+      "brand_name": "Ronco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "654443",
+      "food_name": "Dumpling Egg Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ronco/dumpling-egg-noodles",
+      "brand_name": "Ronco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "654455",
+      "food_name": "Sea Shells",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ronco/sea-shells",
+      "brand_name": "Ronco",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "restaurant": "The Varsity",
+  "total_items": 11,
+  "pages_extracted": 6,
+  "total_search_results": 1131,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:28:31.738Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_varsity.json",
+  "items": [
+    {
+      "food_id": "1740148",
+      "food_name": "Chili Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-varsity/chili-dog",
+      "brand_name": "The Varsity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1740144",
+      "food_name": "Hamburger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-varsity/hamburger",
+      "brand_name": "The Varsity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1676706",
+      "food_name": "Onion Rings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-varsity/onion-rings",
+      "brand_name": "The Varsity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1766505",
+      "food_name": "Chicken Salad Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-varsity/chicken-salad-sandwich",
+      "brand_name": "The Varsity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1559677",
+      "food_name": "French Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-varsity/french-fries",
+      "brand_name": "The Varsity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1766493",
+      "food_name": "Double Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-varsity/double-burger",
+      "brand_name": "The Varsity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "813376",
+      "food_name": "Chili Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-varsity/chili-burger",
+      "brand_name": "The Varsity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "239650",
+      "food_name": "Plain Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-varsity/plain-dog",
+      "brand_name": "The Varsity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1766516",
+      "food_name": "Fried Apple Pies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-varsity/fried-apple-pies",
+      "brand_name": "The Varsity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1766517",
+      "food_name": "Fried Peach Pies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-varsity/fried-peach-pies",
+      "brand_name": "The Varsity",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "639444",
+      "food_name": "Frosted Orange (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-varsity/frosted-orange-(medium)",
+      "brand_name": "The Varsity",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "restaurant": "Brooklyn Burger",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 1099,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:17:32.758Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/brooklyn_burger.json",
+  "items": [
+    {
+      "food_id": "3054516",
+      "food_name": "Steakhouse Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-burger/steakhouse-burger",
+      "brand_name": "Brooklyn Burger",
+      "food_type": "Brand"
+    }
+  ]
+}

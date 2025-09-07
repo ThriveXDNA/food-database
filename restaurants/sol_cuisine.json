@@ -1,0 +1,48 @@
+{
+  "restaurant": "Sol Cuisine",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 28,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:28:11.293Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sol_cuisine.json",
+  "items": [
+    {
+      "food_id": "30517722",
+      "food_name": "Chickpea Sweet Potato Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sol-cuisine/chickpea-sweet-potato-burger",
+      "brand_name": "Sol Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4702201",
+      "food_name": "Organic BBQ Tofu Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sol-cuisine/organic-bbq-tofu-ribs",
+      "brand_name": "Sol Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26631004",
+      "food_name": "Veggie Sausage Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sol-cuisine/veggie-sausage-patties",
+      "brand_name": "Sol Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3598476",
+      "food_name": "Spicy Black Bean Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sol-cuisine/spicy-black-bean-burger",
+      "brand_name": "Sol Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56424839",
+      "food_name": "Spicy Mediterranean Style Falafel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sol-cuisine/spicy-mediterranean-style-falafel",
+      "brand_name": "Sol Cuisine",
+      "food_type": "Brand"
+    }
+  ]
+}

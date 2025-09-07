@@ -1,0 +1,949 @@
+{
+  "restaurant": "Bojangles",
+  "total_items": 134,
+  "pages_extracted": 3,
+  "last_updated": "2025-09-06T06:56:04.070Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Restaurant search with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bojangles.json",
+  "items": [
+    {
+      "food_id": "297588",
+      "food_name": "Plain Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/plain-biscuit",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "297617",
+      "food_name": "Cajun Filet Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/cajun-filet-biscuit",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133934",
+      "food_name": "4 Piece Chicken Supremes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/4-piece-chicken-supremes",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134133",
+      "food_name": "Seasoned Fries - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/seasoned-fries-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134356",
+      "food_name": "Milk 1% Lowfat - White",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/milk-1-lowfat-white",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134021",
+      "food_name": "Bo-Tato Rounds - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/bo-tato-rounds-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "297613",
+      "food_name": "Bacon, Egg & Cheese Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/bacon-egg-and-cheese-biscuit",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133919",
+      "food_name": "1 Piece Chicken Thigh",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/1-piece-chicken-thigh",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133865",
+      "food_name": "Bo-Berry Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/bo-berry-biscuit",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "296015",
+      "food_name": "Sausage Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/sausage-biscuit",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134058",
+      "food_name": "Bojangles’ Dirty Rice - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/bojangles%E2%80%99-dirty-rice-individual",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133987",
+      "food_name": "4 Piece Chicken Homestyle Tenders",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/4-piece-chicken-homestyle-tenders",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133911",
+      "food_name": "1 Piece Chicken Leg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/1-piece-chicken-leg",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2308110",
+      "food_name": "Sausage & Egg Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/sausage-egg-biscuit",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133900",
+      "food_name": "1 Piece Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/1-piece-chicken-breast",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "297625",
+      "food_name": "Steak Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/steak-biscuit",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134091",
+      "food_name": "Mashed Potatoes 'N Gravy - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/mashed-potatoes-n-gravy-individual",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133926",
+      "food_name": "1 Piece Chicken Wing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/1-piece-chicken-wing",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134454",
+      "food_name": "Sweet Iced Tea - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/sweet-iced-tea-16-oz",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134072",
+      "food_name": "Cole Slaw - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/cole-slaw-individual",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134028",
+      "food_name": "Bo-Tato Rounds - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/bo-tato-rounds-medium",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "297619",
+      "food_name": "Country Ham Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/country-ham-biscuit",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134086",
+      "food_name": "Macaroni 'N Cheese - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/macaroni-n-cheese-individual",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68073270",
+      "food_name": "Bo’s Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/bo%E2%80%99s-chicken-sandwich",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134149",
+      "food_name": "Seasoned Fries - Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/seasoned-fries-medium",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4460572",
+      "food_name": "Grilled Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/grilled-chicken-sandwich",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2293312",
+      "food_name": "Egg & Cheese Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/egg-and-cheese-biscuit",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134171",
+      "food_name": "Honey Mustard Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/honey-mustard-sauce",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134045",
+      "food_name": "Bojangles Cajun Pintos - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/bojangles-cajun-pintos-individual",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134078",
+      "food_name": "Green Beans - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/green-beans-individual",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3243373",
+      "food_name": "Gravy Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/gravy-biscuit",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133821",
+      "food_name": "Add Egg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/add-egg",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134464",
+      "food_name": "Sweet Iced Tea - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/sweet-iced-tea-32-oz",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134117",
+      "food_name": "Grits - Picnic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/grits-picnic",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134151",
+      "food_name": "Seasoned Fries - Picnic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/seasoned-fries-picnic",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134481",
+      "food_name": "Unsweetened Iced Tea - 16 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/unsweetened-iced-tea-16-oz",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134040",
+      "food_name": "Bo-Tato Rounds - Picnic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/bo-tato-rounds-picnic",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134109",
+      "food_name": "Mashed Potatoes ‘N Brown Gravy - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/mashed-potatoes-%E2%80%98n-brown-gravy-individual",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133888",
+      "food_name": "2 Piece Chicken Supremes - Kids' Meal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/2-piece-chicken-supremes-kids-meal",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2725983",
+      "food_name": "Grilled Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/grilled-chicken-salad",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4292391",
+      "food_name": "BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/bbq-sauce",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73170354",
+      "food_name": "Southern Filet Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/southern-filet-biscuit",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134458",
+      "food_name": "Sweet Iced Tea - 22 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/sweet-iced-tea-22-oz",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134175",
+      "food_name": "Ranch Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/ranch-sauce",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133882",
+      "food_name": "Cinnamon Twist",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/cinnamon-twist",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134179",
+      "food_name": "Ken’s Buttermilk Ranch Dressing - 1.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/ken%E2%80%99s-buttermilk-ranch-dressing-15-oz",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2239463",
+      "food_name": "Grilled Chicken Club Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/grilled-chicken-club-sandwich",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133836",
+      "food_name": "Chicken Supremes Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/chicken-supremes-salad",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2688733",
+      "food_name": "Sweet Potato Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/sweet-potato-pie",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134180",
+      "food_name": "Ken’s Blue Cheese Dressing - 1.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/ken%E2%80%99s-blue-cheese-dressing-15-oz",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134162",
+      "food_name": "Chicken Rice Bowl - w/o Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/chicken-rice-bowl-w-o-biscuit",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133889",
+      "food_name": "2 Piece Chicken Homestyle Tenders - Kids' Meal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/2-piece-chicken-homestyle-tenders-kids-meal",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133820",
+      "food_name": "Add American Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/add-american-cheese",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134112",
+      "food_name": "Mashed Potatoes ‘N Brown Gravy - Picnic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/mashed-potatoes-%E2%80%98n-brown-gravy-picnic",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3094606",
+      "food_name": "Roasted Chicken Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/roasted-chicken-bites",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134068",
+      "food_name": "Bojangles’ Dirty Rice - Picnic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/bojangles%E2%80%99-dirty-rice-picnic",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134190",
+      "food_name": "Ken’s Honey Dijon Dressing - 1.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/ken%E2%80%99s-honey-dijon-dressing-15-oz",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133817",
+      "food_name": "Old Fashioned Gravy Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/old-fashioned-gravy-biscuit",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134083",
+      "food_name": "Green Beans - Picnic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/green-beans-picnic",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134394",
+      "food_name": "Pepsi - 16 oz - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/pepsi-16-oz-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133737",
+      "food_name": "Country Ham & Egg Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/country-ham-egg-biscuit",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134296",
+      "food_name": "Coffee - 16 oz - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/coffee-16-oz-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134500",
+      "food_name": "Brisk Strawberry Melon Tea - 32 oz - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/brisk-strawberry-melon-tea-32-oz-large",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134204",
+      "food_name": "Bottled Water - 20 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/bottled-water-20-oz",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134400",
+      "food_name": "Pepsi - 32 oz - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/pepsi-32-oz-large",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134488",
+      "food_name": "Unsweetened Iced Tea - 32 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/unsweetened-iced-tea-32-oz",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134501",
+      "food_name": "Cheerwine - 16 oz - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/cheerwine-16-oz-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134164",
+      "food_name": "Creamy Buffalo Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/creamy-buffalo-sauce",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134184",
+      "food_name": "Ken’s Fat Free Italian Dressing - 1.5 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/ken%E2%80%99s-fat-free-italian-dressing-15-oz",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134509",
+      "food_name": "Cheerwine - 32 oz - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/cheerwine-32-oz-large",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134100",
+      "food_name": "Mashed Potatoes 'N Gravy - Picnic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/mashed-potatoes-n-gravy-picnic",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134115",
+      "food_name": "Grits - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/grits-individual",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134396",
+      "food_name": "Pepsi - 22 oz - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/pepsi-22-oz-regular",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134428",
+      "food_name": "Tropicana Lemonade - 16 oz - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/tropicana-lemonade-16-oz-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134431",
+      "food_name": "Tropicana Lemonade - 22 oz - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/tropicana-lemonade-22-oz-regular",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134055",
+      "food_name": "Bojangles Cajun Pintos - Picnic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/bojangles-cajun-pintos-picnic",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134193",
+      "food_name": "Homestyle Cheese Garlic Croutons Dressing - 1/2 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/homestyle-cheese-garlic-croutons-dressing-1-2-oz",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133897",
+      "food_name": "Mac 'N Cheese - Kids' Meal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/mac-n-cheese-kids-meal",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134104",
+      "food_name": "Mashed Potatoes 'N Old Fashioned Gravy - Individual",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/mashed-potatoes-n-old-fashioned-gravy-individual",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134304",
+      "food_name": "Coffee - 20 oz - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/coffee-20-oz-regular",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134381",
+      "food_name": "Mountain Dew - 32 oz - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/mountain-dew-32-oz-large",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133853",
+      "food_name": "Homestyle Tenders Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/homestyle-tenders-salad",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133877",
+      "food_name": "Cinnamon Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/cinnamon-biscuit",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134403",
+      "food_name": "Simply Orange Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/simply-orange-juice",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134410",
+      "food_name": "Southern Shock - 16 oz - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/southern-shock-16-oz-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2481904",
+      "food_name": "Garden Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/garden-salad",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133894",
+      "food_name": "Chicken Leg - Kids' Meal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/chicken-leg-kids-meal",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134341",
+      "food_name": "Pepsi Zero - 16 oz - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/pepsi-zero-16-oz-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134352",
+      "food_name": "Dr Pepper - 22 oz - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/dr-pepper-22-oz-regular",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134504",
+      "food_name": "Cheerwine - 22 oz - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/cheerwine-22-oz-regular",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74133856",
+      "food_name": "Roasted Chicken Bites Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/roasted-chicken-bites-salad",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134074",
+      "food_name": "Cole Slaw - Picnic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/cole-slaw-picnic",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134090",
+      "food_name": "Macaroni 'N Cheese - Picnic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/macaroni-n-cheese-picnic",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134202",
+      "food_name": "Pimento Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/pimento-cheese",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134383",
+      "food_name": "Mug Root Beer - 16 oz - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/mug-root-beer-16-oz-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134495",
+      "food_name": "Brisk Strawberry Melon Tea - 22 oz - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/brisk-strawberry-melon-tea-22-oz-regular",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134206",
+      "food_name": "Brisk Strawberry Melon Tea - 16 oz - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/brisk-strawberry-melon-tea-16-oz-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134327",
+      "food_name": "Diet Mountain Dew - 32 oz - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/diet-mountain-dew-32-oz-large",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134350",
+      "food_name": "Dr Pepper - 16 oz - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/dr-pepper-16-oz-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134365",
+      "food_name": "Mirinda Strawberry - 16 oz - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/mirinda-strawberry-16-oz-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134367",
+      "food_name": "Mirinda Strawberry - 22 oz - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/mirinda-strawberry-22-oz-regular",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134378",
+      "food_name": "Mountain Dew - 22 oz - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/mountain-dew-22-oz-regular",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134385",
+      "food_name": "Mug Root Beer - 22 oz - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/mug-root-beer-22-oz-regular",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134432",
+      "food_name": "Tropicana Lemonade - 32 oz - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/tropicana-lemonade-32-oz-large",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134452",
+      "food_name": "Half Gallon Sweet Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/half-gallon-sweet-tea",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134330",
+      "food_name": "Diet Pepsi - 16 oz - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/diet-pepsi-16-oz-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134332",
+      "food_name": "Diet Pepsi - 22 oz - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/diet-pepsi-22-oz-regular",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134354",
+      "food_name": "Dr Pepper - 32 oz - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/dr-pepper-32-oz-large",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134360",
+      "food_name": "Sierra Mist - 22 oz - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/sierra-mist-22-oz-regular",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134419",
+      "food_name": "Tropicana Fruit Punch - 22 oz - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/tropicana-fruit-punch-22-oz-regular",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134435",
+      "food_name": "Tropicana Pink Lemonade - 16 oz - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/tropicana-pink-lemonade-16-oz-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134437",
+      "food_name": "Tropicana Pink Lemonade - 22 oz - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/tropicana-pink-lemonade-22-oz-regular",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134439",
+      "food_name": "Tropicana Pink Lemonade - 32 oz - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/tropicana-pink-lemonade-32-oz-large",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134453",
+      "food_name": "Half Gallon Unsweetened Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/half-gallon-unsweetened-tea",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86023609",
+      "food_name": "Southern Shock - 22 oz - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/southern-shock-22-oz-regular",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134107",
+      "food_name": "Mashed Potatoes 'N Old Fashioned Gravy - Picnic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/mashed-potatoes-n-old-fashioned-gravy-picnic",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134308",
+      "food_name": "Diet Mountain Dew - 16 oz - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/diet-mountain-dew-16-oz-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134320",
+      "food_name": "Diet Mountain Dew - 22 oz - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/diet-mountain-dew-22-oz-regular",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134335",
+      "food_name": "Diet Pepsi - 32 oz - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/diet-pepsi-32-oz-large",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134343",
+      "food_name": "Pepsi Zero - 22 oz - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/pepsi-zero-22-oz-regular",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134348",
+      "food_name": "Pepsi Zero - 32 oz - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/pepsi-zero-32-oz-large",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134357",
+      "food_name": "Milk 1% Lowfat - Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/milk-1-lowfat-chocolate",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134358",
+      "food_name": "Sierra Mist - 16 oz - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/sierra-mist-16-oz-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134362",
+      "food_name": "Sierra Mist - 32 oz - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/sierra-mist-32-oz-large",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134368",
+      "food_name": "Mirinda Strawberry - 32 oz - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/mirinda-strawberry-32-oz-large",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134373",
+      "food_name": "Mountain Dew - 16 oz - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/mountain-dew-16-oz-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134389",
+      "food_name": "Mug Root Beer - 32 oz - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/mug-root-beer-32-oz-large",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134413",
+      "food_name": "Southern Shock - 32 oz - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/southern-shock-32-oz-large",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134414",
+      "food_name": "Tropicana Fruit Punch - 16 oz - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/tropicana-fruit-punch-16-oz-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134426",
+      "food_name": "Tropicana Fruit Punch - 32 oz - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/tropicana-fruit-punch-32-oz-large",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134440",
+      "food_name": "Tropicana Twister Soda - 16 oz - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/tropicana-twister-soda-16-oz-small",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134442",
+      "food_name": "Tropicana Twister Soda - 22 oz - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/tropicana-twister-soda-22-oz-regular",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134447",
+      "food_name": "Tropicana Twister Soda - 32 oz - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/tropicana-twister-soda-32-oz-large",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74134486",
+      "food_name": "Unsweetened Iced Tea - 22 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bojangles/unsweetened-iced-tea-22-oz",
+      "brand_name": "Bojangles",
+      "food_type": "Brand"
+    }
+  ]
+}

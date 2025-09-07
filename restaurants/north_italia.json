@@ -1,0 +1,48 @@
+{
+  "restaurant": "North Italia",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 44,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:31:18.377Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/north_italia.json",
+  "items": [
+    {
+      "food_id": "75450605",
+      "food_name": "Grilled Branzino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/north-italia/grilled-branzino",
+      "brand_name": "North Italia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31617115",
+      "food_name": "Arugula and Avocado Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/north-italia/arugula-and-avocado-salad",
+      "brand_name": "North Italia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87597726",
+      "food_name": "Italian Farm Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/north-italia/italian-farm-salad",
+      "brand_name": "North Italia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71516136",
+      "food_name": "Tiramisu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/north-italia/tiramisu",
+      "brand_name": "North Italia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75441307",
+      "food_name": "Tuscan Kale Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/north-italia/tuscan-kale-salad",
+      "brand_name": "North Italia",
+      "food_type": "Brand"
+    }
+  ]
+}

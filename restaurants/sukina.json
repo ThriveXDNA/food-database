@@ -1,0 +1,55 @@
+{
+  "restaurant": "Sukina",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:40:28.661Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sukina.json",
+  "items": [
+    {
+      "food_id": "39182237",
+      "food_name": "Soba Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sukina/soba-noodles",
+      "brand_name": "Sukina",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28058564",
+      "food_name": "Sushi Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sukina/sushi-rice",
+      "brand_name": "Sukina",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24711220",
+      "food_name": "Buckwheat Noodle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sukina/buckwheat-noodle",
+      "brand_name": "Sukina",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39183483",
+      "food_name": "Japanese Style Noodle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sukina/japanese-style-noodle",
+      "brand_name": "Sukina",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3930857",
+      "food_name": "Oriental Style Noodle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sukina/oriental-style-noodle",
+      "brand_name": "Sukina",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22995446",
+      "food_name": "Roasted Seaweed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sukina/roasted-seaweed",
+      "brand_name": "Sukina",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Coney Island",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 299,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:08:18.021Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/coney_island.json",
+  "items": [
+    {
+      "food_id": "15283737",
+      "food_name": "Lemon Rice Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/coney-island/lemon-rice-soup",
+      "brand_name": "Coney Island",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5411772",
+      "food_name": "Coney Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/national-coney-island/coney-dog",
+      "brand_name": "National Coney Island",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75421150",
+      "food_name": "Coney Island Lobster Salad Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nathans-famous/coney-island-lobster-salad-sandwich",
+      "brand_name": "Nathan's Famous",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75421133",
+      "food_name": "Coney Island Lobster Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nathans-famous/coney-island-lobster-roll",
+      "brand_name": "Nathan's Famous",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84386029",
+      "food_name": "Coney Island Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hormel/coney-island-chili",
+      "brand_name": "Hormel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1759750",
+      "food_name": "Coney Island Gyro",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gandolfos/coney-island-gyro",
+      "brand_name": "Gandolfo's",
+      "food_type": "Brand"
+    }
+  ]
+}

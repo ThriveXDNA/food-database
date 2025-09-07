@@ -1,0 +1,41 @@
+{
+  "restaurant": "Montgomery Inn",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 12,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:50:57.231Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/montgomery_inn.json",
+  "items": [
+    {
+      "food_id": "1883871",
+      "food_name": "Barbecue Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/montgomery-inn/barbecue-sauce",
+      "brand_name": "Montgomery Inn",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1915014",
+      "food_name": "Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/montgomery-inn/ribs",
+      "brand_name": "Montgomery Inn",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2648977",
+      "food_name": "Pulled Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/montgomery-inn/pulled-pork",
+      "brand_name": "Montgomery Inn",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43078159",
+      "food_name": "Smoked Chicken with BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/montgomery-inn/smoked-chicken-with-bbq-sauce",
+      "brand_name": "Montgomery Inn",
+      "food_type": "Brand"
+    }
+  ]
+}

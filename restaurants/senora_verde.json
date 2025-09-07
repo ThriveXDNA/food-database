@@ -1,0 +1,48 @@
+{
+  "restaurant": "Senora Verde",
+  "total_items": 5,
+  "pages_extracted": 4,
+  "total_search_results": 197,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:33:27.145Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/senora_verde.json",
+  "items": [
+    {
+      "food_id": "70737",
+      "food_name": "Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/senora-verde/tortilla-chips",
+      "brand_name": "Senora Verde",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3405045",
+      "food_name": "Diced Tomatoes with Green Chilies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/senora-verde/diced-tomatoes-with-green-chilies",
+      "brand_name": "Senora Verde",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1269017",
+      "food_name": "Bite Size Rounds Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/senora-verde/bite-size-rounds-tortilla-chips",
+      "brand_name": "Senora Verde",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1317779",
+      "food_name": "Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/senora-verde/salsa",
+      "brand_name": "Senora Verde",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63871700",
+      "food_name": "Mild Taco Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/senora-verde/mild-taco-sauce",
+      "brand_name": "Senora Verde",
+      "food_type": "Brand"
+    }
+  ]
+}

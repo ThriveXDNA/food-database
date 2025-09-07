@@ -1,0 +1,41 @@
+{
+  "brand_name": "Philippine Brand",
+  "total_items": 4,
+  "pages_extracted": 2,
+  "total_search_results": 70,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:54:19.725Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/philippine_brand.json",
+  "items": [
+    {
+      "food_id": "727182",
+      "food_name": "Dried Mangoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/philippine-brand/dried-mangoes",
+      "brand_name": "Philippine Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43041",
+      "food_name": "Mango Juice Nectar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/philippine-brand/mango-juice-nectar",
+      "brand_name": "Philippine Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2329542",
+      "food_name": "Calamansi Juice Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/philippine-brand/calamansi-juice-drink",
+      "brand_name": "Philippine Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3272372",
+      "food_name": "Dried Young Coconut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/philippine-brand/dried-young-coconut",
+      "brand_name": "Philippine Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

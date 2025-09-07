@@ -1,0 +1,27 @@
+{
+  "restaurant": "Sunrice",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:41:30.328Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sunrice.json",
+  "items": [
+    {
+      "food_id": "7943035",
+      "food_name": "Eastside Kimpap (Seaweed-Brown Rice Roll)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunrice/eastside-kimpap-(seaweed-brown-rice-roll)",
+      "brand_name": "Sunrice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2408142",
+      "food_name": "Coconut Curry Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunrice/coconut-curry-noodles",
+      "brand_name": "Sunrice",
+      "food_type": "Brand"
+    }
+  ]
+}

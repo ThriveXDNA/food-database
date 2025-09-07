@@ -1,0 +1,27 @@
+{
+  "restaurant": "Happy Clover",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 88,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:47:23.538Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/happy_clover.json",
+  "items": [
+    {
+      "food_id": "3379203",
+      "food_name": "Swiss Roll Cake Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happy-clover/swiss-roll-cake-green-tea",
+      "brand_name": "Happy Clover",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18595277",
+      "food_name": "Swiss Roll Cake Cocoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happy-clover/swiss-roll-cake-cocoa",
+      "brand_name": "Happy Clover",
+      "food_type": "Brand"
+    }
+  ]
+}

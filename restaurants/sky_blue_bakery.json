@@ -1,0 +1,20 @@
+{
+  "restaurant": "Sky Blue Bakery",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 777,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:16:00.633Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sky_blue_bakery.json",
+  "items": [
+    {
+      "food_id": "43898390",
+      "food_name": "Whole Wheat Honey Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sky-blue-bakery/whole-wheat-honey-bun",
+      "brand_name": "Sky Blue Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

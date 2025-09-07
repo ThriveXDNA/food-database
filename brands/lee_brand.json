@@ -1,0 +1,20 @@
+{
+  "brand_name": "Lee Brand",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 1000,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:55:12.112Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/lee_brand.json",
+  "items": [
+    {
+      "food_id": "8705102",
+      "food_name": "Tom Yum Paste",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lee-brand/tom-yum-paste",
+      "brand_name": "Lee Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

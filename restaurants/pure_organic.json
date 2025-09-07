@@ -1,0 +1,90 @@
+{
+  "restaurant": "Pure Organic",
+  "total_items": 11,
+  "pages_extracted": 6,
+  "total_search_results": 5989,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:05:08.017Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pure_organic.json",
+  "items": [
+    {
+      "food_id": "21060952",
+      "food_name": "Layered Fruit Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pure-organic/layered-fruit-bar",
+      "brand_name": "Pure Organic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12433798",
+      "food_name": "Fruit Sandwich Pineapple & Passionfruit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pure-organic/fruit-sandwich-pineapple-and-passionfruit",
+      "brand_name": "Pure Organic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76594547",
+      "food_name": "Layered Fruit Bar Strawberry Banana",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pure-organic/layered-fruit-bar-strawberry-banana",
+      "brand_name": "Pure Organic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97952665",
+      "food_name": "Twisted Fruit Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pure-organic/twisted-fruit-bites",
+      "brand_name": "Pure Organic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9094312",
+      "food_name": "Strawberry Apple Fruit Strip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pure-organic/strawberry-apple-fruit-strip",
+      "brand_name": "Pure Organic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72262433",
+      "food_name": "Double Cheddar Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pure-organic/double-cheddar-crackers",
+      "brand_name": "Pure Organic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17590514",
+      "food_name": "Wildberry Apple Fruit Strip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pure-organic/wildberry-apple-fruit-strip",
+      "brand_name": "Pure Organic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7774308",
+      "food_name": "Chocolate Chunk Nut Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pure-organic/chocolate-chunk-nut-bar",
+      "brand_name": "Pure Organic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16643742",
+      "food_name": "Peanut Butter Chocolate Chip Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pure-organic/peanut-butter-chocolate-chip-bar",
+      "brand_name": "Pure Organic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107405",
+      "food_name": "Chocolate Brownie Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pure-organic/chocolate-brownie-bar",
+      "brand_name": "Pure Organic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4887673",
+      "food_name": "Apple Cinnamon Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pure-organic/apple-cinnamon-bar",
+      "brand_name": "Pure Organic",
+      "food_type": "Brand"
+    }
+  ]
+}

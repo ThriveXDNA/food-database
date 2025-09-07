@@ -1,0 +1,27 @@
+{
+  "restaurant": "Perfection Deli",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 665,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:58:53.897Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/perfection_deli.json",
+  "items": [
+    {
+      "food_id": "1855536",
+      "food_name": "Mini Sub Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perfection-deli/mini-sub-buns",
+      "brand_name": "Perfection Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11831525",
+      "food_name": "Greek Style Flat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/perfection-deli/greek-style-flat-bread",
+      "brand_name": "Perfection Deli",
+      "food_type": "Brand"
+    }
+  ]
+}

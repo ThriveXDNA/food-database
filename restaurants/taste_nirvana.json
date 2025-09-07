@@ -1,0 +1,55 @@
+{
+  "restaurant": "Taste Nirvana",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 40,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:31:28.195Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/taste_nirvana.json",
+  "items": [
+    {
+      "food_id": "5362244",
+      "food_name": "Thai Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-nirvana/thai-tea",
+      "brand_name": "Taste Nirvana",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3120041",
+      "food_name": "Creamy Thai Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-nirvana/creamy-thai-tea",
+      "brand_name": "Taste Nirvana",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2001844",
+      "food_name": "Real Coco Aloe Coconut Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-nirvana/real-coco-aloe-coconut-water",
+      "brand_name": "Taste Nirvana",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28565889",
+      "food_name": "Thai Tea Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-nirvana/thai-tea-latte",
+      "brand_name": "Taste Nirvana",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4237748",
+      "food_name": "Real Coconut Water (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-nirvana/real-coconut-water-(can)",
+      "brand_name": "Taste Nirvana",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32442854",
+      "food_name": "Premium Coconut Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taste-nirvana/premium-coconut-water",
+      "brand_name": "Taste Nirvana",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Self Healthy Kitchen",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 303,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:16:03.965Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/self_healthy_kitchen.json",
+  "items": [
+    {
+      "food_id": "7199427",
+      "food_name": "Steak with Portobello Mushroom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/self-healthy-kitchen/steak-with-portobello-mushroom",
+      "brand_name": "Self Healthy Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8015891",
+      "food_name": "Three Cheese Lasagna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/self-healthy-kitchen/three-cheese-lasagna",
+      "brand_name": "Self Healthy Kitchen",
+      "food_type": "Brand"
+    }
+  ]
+}

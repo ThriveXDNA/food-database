@@ -1,0 +1,34 @@
+{
+  "restaurant": "Pizza Corner",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 6393,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:21:28.513Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pizza_corner.json",
+  "items": [
+    {
+      "food_id": "3493438",
+      "food_name": "Alfredo Garlic White Chicken Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pizza-corner/alfredo-garlic-white-chicken-pizza",
+      "brand_name": "Pizza Corner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4858978",
+      "food_name": "Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pizza-corner/pepperoni-pizza",
+      "brand_name": "Pizza Corner",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3493455",
+      "food_name": "Deliciously Supreme Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pizza-corner/deliciously-supreme-pizza",
+      "brand_name": "Pizza Corner",
+      "food_type": "Brand"
+    }
+  ]
+}

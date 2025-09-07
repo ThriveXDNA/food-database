@@ -1,0 +1,20 @@
+{
+  "restaurant": "New York Pasta Authority",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 2323,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:19:23.419Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/new_york_pasta_authority.json",
+  "items": [
+    {
+      "food_id": "242699",
+      "food_name": "Portabella Mushroom Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/new-york-pasta-authority/portabella-mushroom-ravioli",
+      "brand_name": "New York Pasta Authority",
+      "food_type": "Brand"
+    }
+  ]
+}

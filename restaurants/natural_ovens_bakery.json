@@ -1,0 +1,69 @@
+{
+  "restaurant": "Natural Ovens Bakery",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 1581,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:14:11.305Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/natural_ovens_bakery.json",
+  "items": [
+    {
+      "food_id": "37342659",
+      "food_name": "Keto Friendly Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-ovens-bakery/keto-friendly-bread",
+      "brand_name": "Natural Ovens Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43799",
+      "food_name": "Rye Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-ovens-bakery/rye-bread",
+      "brand_name": "Natural Ovens Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32829",
+      "food_name": "Multi Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-ovens-bakery/multi-grain-bread",
+      "brand_name": "Natural Ovens Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9088566",
+      "food_name": "Organic 100% Whole Grain Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-ovens-bakery/organic-100%25-whole-grain-wheat-bread",
+      "brand_name": "Natural Ovens Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47847100",
+      "food_name": "Keto-Friendly Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-ovens-bakery/keto-friendly-buns",
+      "brand_name": "Natural Ovens Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "783289",
+      "food_name": "Chocolate Raspberry Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-ovens-bakery/chocolate-raspberry-cookies",
+      "brand_name": "Natural Ovens Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "216148",
+      "food_name": "Oatmeal Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-ovens-bakery/oatmeal-bread",
+      "brand_name": "Natural Ovens Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2217626",
+      "food_name": "Better Wheat Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-ovens-bakery/better-wheat-buns",
+      "brand_name": "Natural Ovens Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

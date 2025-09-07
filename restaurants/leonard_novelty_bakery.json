@@ -1,0 +1,20 @@
+{
+  "restaurant": "Leonard Novelty Bakery",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 45,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:16:05.607Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/leonard_novelty_bakery.json",
+  "items": [
+    {
+      "food_id": "52296812",
+      "food_name": "Deluxe Cookie Assortment",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/leonard-novelty-bakery/deluxe-cookie-assortment",
+      "brand_name": "Leonard Novelty Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

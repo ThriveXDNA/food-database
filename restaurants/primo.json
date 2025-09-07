@@ -1,0 +1,335 @@
+{
+  "restaurant": "Primo",
+  "total_items": 46,
+  "pages_extracted": 1,
+  "total_search_results": 46,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:35:50.605Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/primo.json",
+  "items": [
+    {
+      "food_id": "26533756",
+      "food_name": "Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo/italian-sausage",
+      "brand_name": "Primo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52720",
+      "food_name": "Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo/black-beans",
+      "brand_name": "Primo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1082181",
+      "food_name": "Mixed Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo/mixed-beans",
+      "brand_name": "Primo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2964220",
+      "food_name": "Cabanossi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo/cabanossi",
+      "brand_name": "Primo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3713763",
+      "food_name": "Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo/water",
+      "brand_name": "Primo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61522",
+      "food_name": "Roasted Chicken with Grilled Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo/roasted-chicken-with-grilled-vegetables",
+      "brand_name": "Primo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "144178",
+      "food_name": "Canned Lentils",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo/canned-lentils",
+      "brand_name": "Primo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81149",
+      "food_name": "Taglio Roast Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo/taglio-roast-beef",
+      "brand_name": "Primo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1884979",
+      "food_name": "Beef Barley Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo/beef-barley-soup",
+      "brand_name": "Primo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97860",
+      "food_name": "Easy Squeeze Pizza Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo/easy-squeeze-pizza-sauce",
+      "brand_name": "Primo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83865",
+      "food_name": "Roasted Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo/roasted-vegetable-soup",
+      "brand_name": "Primo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65093275",
+      "food_name": "Penne Rigate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo/penne-rigate",
+      "brand_name": "Primo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1402915",
+      "food_name": "Fettuccine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo/fettuccine",
+      "brand_name": "Primo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60582665",
+      "food_name": "Spaghettini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo/spaghettini",
+      "brand_name": "Primo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191696",
+      "food_name": "Sbarro 17-inch NY Meat Primo Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-17-inch-ny-meat-primo-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6333804",
+      "food_name": "Primo Thin Spinach, Bacon, & Feta Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palermos/primo-thin-spinach-bacon-and-feta-pizza",
+      "brand_name": "Palermo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75192014",
+      "food_name": "Sbarro Stromboli Meat Primo (Full Log)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-stromboli-meat-primo-(full-log)",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57379",
+      "food_name": "Primo Shrimp Italian Thin Crust Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/panago/primo-shrimp-italian-thin-crust-pizza",
+      "brand_name": "Panago",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36621914",
+      "food_name": "Primo Thin Garlic Chicken Alfredo Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palermos/primo-thin-garlic-chicken-alfredo-pizza",
+      "brand_name": "Palermo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73711927",
+      "food_name": "Primo Tacos - Southwest Chicken - 5 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/on-the-border/primo-tacos-southwest-chicken-5-pieces",
+      "brand_name": "on The Border",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44712",
+      "food_name": "Primo Thin Italian Sausage Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palermos/primo-thin-italian-sausage-pizza",
+      "brand_name": "Palermo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42383412",
+      "food_name": "Primo Thin Five Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palermos/primo-thin-five-cheese-pizza",
+      "brand_name": "Palermo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73711842",
+      "food_name": "Primo Tacos - Brisket - 5 Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/on-the-border/primo-tacos-brisket-5-pieces",
+      "brand_name": "on The Border",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191890",
+      "food_name": "Sbarro Roman Meat Primo Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-roman-meat-primo-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75191931",
+      "food_name": "Sbarro Pan Meat Primo Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sbarro/sbarro-pan-meat-primo-pizza",
+      "brand_name": "Sbarro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1858343",
+      "food_name": "Primo Thin Cheese Lovers Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palermos/primo-thin-cheese-lovers-pizza",
+      "brand_name": "Palermo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10894893",
+      "food_name": "Primo Thin Ham & Pineapple Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palermos/primo-thin-ham-and-pineapple-pizza",
+      "brand_name": "Palermo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73584240",
+      "food_name": "Primo Style without Chip Basket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/on-the-border/primo-style-without-chip-basket",
+      "brand_name": "on The Border",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77090",
+      "food_name": "Primo Thin Supreme Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palermos/primo-thin-supreme-pizza",
+      "brand_name": "Palermo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30803",
+      "food_name": "Primo Thin Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palermos/primo-thin-margherita-pizza",
+      "brand_name": "Palermo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6427752",
+      "food_name": "Primo Thin Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palermos/primo-thin-pepperoni-pizza",
+      "brand_name": "Palermo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7234337",
+      "food_name": "Italian Diablo (Half Primo)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo-hoagies/italian-diablo-(half-primo)",
+      "brand_name": "Primo Hoagies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3989701",
+      "food_name": "Primo Thin Greek Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palermos/primo-thin-greek-pizza",
+      "brand_name": "Palermo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10614302",
+      "food_name": "Pizzeria! Primo Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/digiorno/pizzeria-primo-pepperoni-pizza",
+      "brand_name": "DiGiorno",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68757199",
+      "food_name": "Primo Turkey Sub - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sheetz/primo-turkey-sub-half",
+      "brand_name": "Sheetz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72868691",
+      "food_name": "Chicken Pasta Primo - Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jasons-deli/chicken-pasta-primo-original",
+      "brand_name": "Jason's Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3344115",
+      "food_name": "Primo Thin Sicilian Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palermos/primo-thin-sicilian-pizza",
+      "brand_name": "Palermo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521253",
+      "food_name": "Acai Primo Bowl (Mini)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-primo-bowl-(mini)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72868693",
+      "food_name": "Chicken Pasta Primo - Lighter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jasons-deli/chicken-pasta-primo-lighter",
+      "brand_name": "Jason's Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73584063",
+      "food_name": "Primo Long Island",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/on-the-border/primo-long-island",
+      "brand_name": "on The Border",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73196351",
+      "food_name": "Il Primo Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-mill/il-primo-pizza",
+      "brand_name": "Green Mill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521249",
+      "food_name": "Acai Primo (Large)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-primo-(large)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5173629",
+      "food_name": "Bada Bing (Primo)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/primo-hoagies/bada-bing-(primo)",
+      "brand_name": "Primo Hoagies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5355538",
+      "food_name": "Primo Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/digiorno/primo-pepperoni-pizza",
+      "brand_name": "DiGiorno",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104521248",
+      "food_name": "Acai Primo (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jamba-juice/acai-primo-(regular)",
+      "brand_name": "Jamba Juice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74965705",
+      "food_name": "Primo Margarita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/maggianos/primo-margarita",
+      "brand_name": "Maggiano's",
+      "food_type": "Brand"
+    }
+  ]
+}

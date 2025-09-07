@@ -1,0 +1,34 @@
+{
+  "restaurant": "Beehive Cheese",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 12082,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:22:28.686Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/beehive_cheese.json",
+  "items": [
+    {
+      "food_id": "52246679",
+      "food_name": "Cheese Curds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beehive-cheese/cheese-curds",
+      "brand_name": "Beehive Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52532370",
+      "food_name": "Promontory",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beehive-cheese/promontory",
+      "brand_name": "Beehive Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40938507",
+      "food_name": "Pour Me A Slice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beehive-cheese/pour-me-a-slice",
+      "brand_name": "Beehive Cheese",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Charles",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:05:07.549Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/charles.json",
+  "items": [
+    {
+      "food_id": "78377027",
+      "food_name": "Sugar Free Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/charles/sugar-free-chocolate",
+      "brand_name": "Charles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4081067",
+      "food_name": "Tiki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/charles/tiki",
+      "brand_name": "Charles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75864346",
+      "food_name": "Ping Pong",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/charles/ping-pong",
+      "brand_name": "Charles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9866443",
+      "food_name": "Cheers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/charles/cheers",
+      "brand_name": "Charles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39285717",
+      "food_name": "Prince Charles Blend Green Beans, Wax Beans & Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freedoms-choice/prince-charles-blend-green-beans-wax-beans-carrots",
+      "brand_name": "Freedom's Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10403747",
+      "food_name": "Charles Shaw Cabernet Sauvignon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/charles-shaw-cabernet-sauvignon",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    }
+  ]
+}

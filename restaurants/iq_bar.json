@@ -1,0 +1,90 @@
+{
+  "restaurant": "IQ Bar",
+  "total_items": 11,
+  "pages_extracted": 6,
+  "total_search_results": 3477,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:37:30.050Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/iq_bar.json",
+  "items": [
+    {
+      "food_id": "28871253",
+      "food_name": "Chocolate Sea Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/iq-bar/chocolate-sea-salt",
+      "brand_name": "IQ Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45246378",
+      "food_name": "Peanut Butter Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/iq-bar/peanut-butter-chip",
+      "brand_name": "IQ Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33467168",
+      "food_name": "Almond Butter Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/iq-bar/almond-butter-chip",
+      "brand_name": "IQ Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87295052",
+      "food_name": "Chocolate Mint Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/iq-bar/chocolate-mint-chip",
+      "brand_name": "IQ Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41836201",
+      "food_name": "Lemon Blueberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/iq-bar/lemon-blueberry",
+      "brand_name": "IQ Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33113156",
+      "food_name": "Banana Nut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/iq-bar/banana-nut",
+      "brand_name": "IQ Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73847796",
+      "food_name": "Toasted Coconut Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/iq-bar/toasted-coconut-chip",
+      "brand_name": "IQ Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39888840",
+      "food_name": "Matcha Chai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/iq-bar/matcha-chai",
+      "brand_name": "IQ Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60095786",
+      "food_name": "Wild Blueberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/iq-bar/wild-blueberry",
+      "brand_name": "IQ Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85509940",
+      "food_name": "Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/iq-bar/protein-bar",
+      "brand_name": "IQ BAR",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "102266906",
+      "food_name": "Salted Caramel Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/iq-bar/salted-caramel-chip",
+      "brand_name": "IQ Bar",
+      "food_type": "Brand"
+    }
+  ]
+}

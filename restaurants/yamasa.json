@@ -1,0 +1,41 @@
+{
+  "restaurant": "Yamasa",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:41:44.691Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/yamasa.json",
+  "items": [
+    {
+      "food_id": "406629",
+      "food_name": "Soy Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yamasa/soy-sauce",
+      "brand_name": "Yamasa",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7597373",
+      "food_name": "Gobo Tenpura",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yamasa/gobo-tenpura",
+      "brand_name": "Yamasa",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8256601",
+      "food_name": "Kamaboko",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yamasa/kamaboko",
+      "brand_name": "Yamasa",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6150403",
+      "food_name": "Less Salt Soy Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yamasa/less-salt-soy-sauce",
+      "brand_name": "Yamasa",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "restaurant": "Beanitos",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:18:18.110Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/beanitos.json",
+  "items": [
+    {
+      "food_id": "1544592",
+      "food_name": "Black Bean Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beanitos/black-bean-chips",
+      "brand_name": "Beanitos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13027167",
+      "food_name": "White Bean Chips - Hint of Lime",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beanitos/white-bean-chips---hint-of-lime",
+      "brand_name": "Beanitos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6525557",
+      "food_name": "Nacho Cheese White Bean Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beanitos/nacho-cheese-white-bean-chips",
+      "brand_name": "Beanitos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24325889",
+      "food_name": "Restaurant Style White Bean Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beanitos/restaurant-style-white-bean-chips",
+      "brand_name": "Beanitos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9449873",
+      "food_name": "Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beanitos/puffs",
+      "brand_name": "Beanitos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5426611",
+      "food_name": "Simply Pinto Bean Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beanitos/simply-pinto-bean-chips",
+      "brand_name": "Beanitos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44868298",
+      "food_name": "Sea Salt Pinto Bean Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/beanitos/sea-salt-pinto-bean-chips",
+      "brand_name": "Beanitos",
+      "food_type": "Brand"
+    }
+  ]
+}

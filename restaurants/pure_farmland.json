@@ -1,0 +1,34 @@
+{
+  "restaurant": "Pure Farmland",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 504,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:28:06.540Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pure_farmland.json",
+  "items": [
+    {
+      "food_id": "32821276",
+      "food_name": "Plant Based Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pure-farmland/plant-based-meatballs",
+      "brand_name": "Pure Farmland",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41601636",
+      "food_name": "Plant Based Burger Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pure-farmland/plant-based-burger-patties",
+      "brand_name": "Pure Farmland",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39389986",
+      "food_name": "Maple Breakfast Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pure-farmland/maple-breakfast-patties",
+      "brand_name": "Pure Farmland",
+      "food_type": "Brand"
+    }
+  ]
+}

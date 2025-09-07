@@ -1,0 +1,48 @@
+{
+  "restaurant": "Century Tuna",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 999,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:07:14.083Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/century_tuna.json",
+  "items": [
+    {
+      "food_id": "6471248",
+      "food_name": "Tuna Flakes in Vegetable Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/century-tuna/tuna-flakes-in-vegetable-oil",
+      "brand_name": "Century Tuna",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36989389",
+      "food_name": "Hot & Spicy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/century-tuna/hot-spicy",
+      "brand_name": "Century Tuna",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35397689",
+      "food_name": "Century Tuna with Calamansi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/century-tuna/century-tuna-with-calamansi",
+      "brand_name": "Century Tuna",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81185598",
+      "food_name": "Corned Tuna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/century-tuna/corned-tuna",
+      "brand_name": "Century Tuna",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7658710",
+      "food_name": "Corned Tuna Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/century-tuna/corned-tuna-chili",
+      "brand_name": "Century Tuna",
+      "food_type": "Brand"
+    }
+  ]
+}

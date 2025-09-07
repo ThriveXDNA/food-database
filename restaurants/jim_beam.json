@@ -1,0 +1,76 @@
+{
+  "restaurant": "Jim Beam",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 17,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:51:24.036Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/jim_beam.json",
+  "items": [
+    {
+      "food_id": "76505",
+      "food_name": "Bourbon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jim-beam/bourbon",
+      "brand_name": "Jim Beam",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14828266",
+      "food_name": "Pulled Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jim-beam/pulled-pork",
+      "brand_name": "Jim Beam",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42050119",
+      "food_name": "Maple Bourbon Barbecue Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jim-beam/maple-bourbon-barbecue-sauce",
+      "brand_name": "Jim Beam",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7327549",
+      "food_name": "Bourbon Blackened Tilapia",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jim-beam/bourbon-blackened-tilapia",
+      "brand_name": "Jim Beam",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9989225",
+      "food_name": "Pulled Chicken with Bourbon BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jim-beam/pulled-chicken-with-bourbon-bbq-sauce",
+      "brand_name": "Jim Beam",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8246647",
+      "food_name": "Honey Bourbon Atlantic Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jim-beam/honey-bourbon-atlantic-salmon",
+      "brand_name": "Jim Beam",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3110030",
+      "food_name": "Seasoned Atlantic Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jim-beam/seasoned-atlantic-salmon",
+      "brand_name": "Jim Beam",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2713290",
+      "food_name": "Steak Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jim-beam/steak-sauce",
+      "brand_name": "Jim Beam",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5715473",
+      "food_name": "Barbecue Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jim-beam/barbecue-sauce",
+      "brand_name": "Jim Beam",
+      "food_type": "Brand"
+    }
+  ]
+}

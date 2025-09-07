@@ -1,0 +1,69 @@
+{
+  "restaurant": "Seggiano",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:45:32.589Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/seggiano.json",
+  "items": [
+    {
+      "food_id": "30999608",
+      "food_name": "Tagliatelle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seggiano/tagliatelle",
+      "brand_name": "Seggiano",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44066585",
+      "food_name": "Linguine Organic Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seggiano/linguine-organic-pasta",
+      "brand_name": "Seggiano",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84422680",
+      "food_name": "Artichoke & Garlic Sauce & Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seggiano/artichoke-garlic-sauce-spread",
+      "brand_name": "Seggiano",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19737468",
+      "food_name": "Fresh Basil Pesto Genovese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seggiano/fresh-basil-pesto-genovese",
+      "brand_name": "Seggiano",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16947330",
+      "food_name": "Tomato Basil Pesto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seggiano/tomato-basil-pesto",
+      "brand_name": "Seggiano",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70219532",
+      "food_name": "Super Dense Classic Balsamic Glaze",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seggiano/super-dense-classic-balsamic-glaze",
+      "brand_name": "Seggiano",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103236781",
+      "food_name": "Paccheri Organic Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seggiano/paccheri-organic-pasta",
+      "brand_name": "Seggiano",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81835392",
+      "food_name": "Organic Nero Black Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seggiano/organic-nero-black-rice",
+      "brand_name": "Seggiano",
+      "food_type": "Brand"
+    }
+  ]
+}

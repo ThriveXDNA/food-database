@@ -1,0 +1,55 @@
+{
+  "restaurant": "Big Easy Foods",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 799,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:40:35.047Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/big_easy_foods.json",
+  "items": [
+    {
+      "food_id": "6762104",
+      "food_name": "Gulf Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-easy-foods/gulf-shrimp",
+      "brand_name": "Big Easy Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12218569",
+      "food_name": "Chicken & Sausage Gumbo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-easy-foods/chicken-sausage-gumbo",
+      "brand_name": "Big Easy Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4995719",
+      "food_name": "Wild Caught Gulf Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-easy-foods/wild-caught-gulf-shrimp",
+      "brand_name": "Big Easy Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12148481",
+      "food_name": "Louisiana Style Shrimp Etouffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-easy-foods/louisiana-style-shrimp-etouffee",
+      "brand_name": "Big Easy Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61103846",
+      "food_name": "Catfish Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-easy-foods/catfish-nuggets",
+      "brand_name": "Big Easy Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3456135",
+      "food_name": "Shrimp Gumbo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/big-easy-foods/shrimp-gumbo",
+      "brand_name": "Big Easy Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

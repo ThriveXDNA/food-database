@@ -1,0 +1,34 @@
+{
+  "brand_name": "Real Pickles",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 491,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:05:06.218Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/real_pickles.json",
+  "items": [
+    {
+      "food_id": "11324736",
+      "food_name": "Organic Kimchi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/real-pickles/organic-kimchi",
+      "brand_name": "Real Pickles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41208151",
+      "food_name": "Organic Beets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/real-pickles/organic-beets",
+      "brand_name": "Real Pickles",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63973989",
+      "food_name": "Organic Ginger Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/real-pickles/organic-ginger-carrots",
+      "brand_name": "Real Pickles",
+      "food_type": "Brand"
+    }
+  ]
+}

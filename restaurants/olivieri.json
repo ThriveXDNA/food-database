@@ -1,0 +1,41 @@
+{
+  "restaurant": "Olivieri",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:17:46.786Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/olivieri.json",
+  "items": [
+    {
+      "food_id": "473091",
+      "food_name": "Rose Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olivieri/rose-sauce",
+      "brand_name": "Olivieri",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87537",
+      "food_name": "Rainbow Tortellini with 3 Cheeses",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olivieri/rainbow-tortellini-with-3-cheeses",
+      "brand_name": "Olivieri",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26710955",
+      "food_name": "Skillet Gnocchi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olivieri/skillet-gnocchi",
+      "brand_name": "Olivieri",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2993641",
+      "food_name": "Cheese Tortellini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olivieri/cheese-tortellini",
+      "brand_name": "Olivieri",
+      "food_type": "Brand"
+    }
+  ]
+}

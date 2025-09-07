@@ -1,0 +1,34 @@
+{
+  "restaurant": "Umzu",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:02:25.756Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/umzu.json",
+  "items": [
+    {
+      "food_id": "51528254",
+      "food_name": "zuCollagen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/umzu/zucollagen",
+      "brand_name": "Umzu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40991625",
+      "food_name": "Zuum Pre-Workout",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/umzu/zuum-pre-workout",
+      "brand_name": "Umzu",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50993318",
+      "food_name": "Blueberry Muffin Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/umzu/blueberry-muffin-bar",
+      "brand_name": "Umzu",
+      "food_type": "Brand"
+    }
+  ]
+}

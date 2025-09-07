@@ -1,0 +1,33 @@
+{
+  "brand_name": "Best Life",
+  "brand_id": 51,
+  "total_items": 3,
+  "pages_extracted": 3,
+  "last_updated": "2025-09-06T20:04:04.525Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Brand-specific search with filtering",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/best_life.json",
+  "items": [
+    {
+      "food_id": "2664882",
+      "food_name": "Buttery Spray",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/best-life/buttery-spray",
+      "brand_name": "Best Life",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "702345",
+      "food_name": "Buttery Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/best-life/buttery-spread",
+      "brand_name": "Best Life",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75152",
+      "food_name": "Flatout Wraps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/best-life/flatout-wraps",
+      "brand_name": "Best Life",
+      "food_type": "Brand"
+    }
+  ]
+}

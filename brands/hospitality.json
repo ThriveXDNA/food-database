@@ -1,0 +1,41 @@
+{
+  "brand_name": "Hospitality",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:46:20.120Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/hospitality.json",
+  "items": [
+    {
+      "food_id": "58268712",
+      "food_name": "Toasted Oats",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hospitality/toasted-oats",
+      "brand_name": "Hospitality",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2639207",
+      "food_name": "Corn Flakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hospitality/corn-flakes",
+      "brand_name": "Hospitality",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2850032",
+      "food_name": "Crisp Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hospitality/crisp-rice",
+      "brand_name": "Hospitality",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5940417",
+      "food_name": "Raisin Bran",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hospitality/raisin-bran",
+      "brand_name": "Hospitality",
+      "food_type": "Brand"
+    }
+  ]
+}

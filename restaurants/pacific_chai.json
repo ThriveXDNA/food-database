@@ -1,0 +1,34 @@
+{
+  "restaurant": "Pacific Chai",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 432,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:06:47.025Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pacific_chai.json",
+  "items": [
+    {
+      "food_id": "85948",
+      "food_name": "Vanilla Chai Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pacific-chai/vanilla-chai-latte",
+      "brand_name": "Pacific Chai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "230042",
+      "food_name": "Spice Chai Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pacific-chai/spice-chai-latte",
+      "brand_name": "Pacific Chai",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33018072",
+      "food_name": "Mocha Chai Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pacific-chai/mocha-chai-latte",
+      "brand_name": "Pacific Chai",
+      "food_type": "Brand"
+    }
+  ]
+}

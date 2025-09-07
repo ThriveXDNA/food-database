@@ -1,0 +1,83 @@
+{
+  "restaurant": "Veetee",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:33:57.599Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/veetee.json",
+  "items": [
+    {
+      "food_id": "244997",
+      "food_name": "Basmati Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/veetee/basmati-rice",
+      "brand_name": "Veetee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7838228",
+      "food_name": "Thai Jasmine Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/veetee/thai-jasmine-rice",
+      "brand_name": "Veetee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68153509",
+      "food_name": "Sticky Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/veetee/sticky-rice",
+      "brand_name": "Veetee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29640900",
+      "food_name": "Thai Lime & Herb Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/veetee/thai-lime-herb-rice",
+      "brand_name": "Veetee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12455008",
+      "food_name": "Long Grain Rice (150 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/veetee/long-grain-rice",
+      "brand_name": "Veetee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5363388",
+      "food_name": "Basmati & Wild Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/veetee/basmati-and-wild-rice",
+      "brand_name": "Veetee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55233681",
+      "food_name": "Long Grain Rice (140 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/veetee/long-grain-rice-(140-g)",
+      "brand_name": "Veetee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88565046",
+      "food_name": "Super 6 Golden Veg Rice Medley",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/veetee/super-6-golden-veg-rice-medley",
+      "brand_name": "Veetee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16543197",
+      "food_name": "Chicken Flavor Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/veetee/chicken-flavor-rice",
+      "brand_name": "Veetee",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8603103",
+      "food_name": "Whole Grain Brown Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/veetee/whole-grain-brown-rice",
+      "brand_name": "Veetee",
+      "food_type": "Brand"
+    }
+  ]
+}

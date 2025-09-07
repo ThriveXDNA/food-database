@@ -1,0 +1,27 @@
+{
+  "restaurant": "Saco",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:48:52.515Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/saco.json",
+  "items": [
+    {
+      "food_id": "5767280",
+      "food_name": "Cultured Buttermilk Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saco/cultured-buttermilk-blend",
+      "brand_name": "Saco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1516696",
+      "food_name": "Premium Cocoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/saco/premium-cocoa",
+      "brand_name": "Saco",
+      "food_type": "Brand"
+    }
+  ]
+}

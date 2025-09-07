@@ -1,0 +1,55 @@
+{
+  "restaurant": "El Pato",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 24,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:26:45.635Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/el_pato.json",
+  "items": [
+    {
+      "food_id": "143783",
+      "food_name": "Tomato Sauce Mexican Hot Style",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pato/tomato-sauce-mexican-hot-style",
+      "brand_name": "El Pato",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "343702",
+      "food_name": "Salsa De Chile Fresco Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pato/salsa-de-chile-fresco-sauce",
+      "brand_name": "El Pato",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2469120",
+      "food_name": "Tomato Sauce with Jalapeno",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pato/tomato-sauce-with-jalapeno",
+      "brand_name": "El Pato",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "327585",
+      "food_name": "Jalapeno Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pato/jalapeno-salsa",
+      "brand_name": "El Pato",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40064546",
+      "food_name": "Hot Chili Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pato/hot-chili-peppers",
+      "brand_name": "El Pato",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "227714",
+      "food_name": "Enchilada Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pato/enchilada-sauce",
+      "brand_name": "El Pato",
+      "food_type": "Brand"
+    }
+  ]
+}

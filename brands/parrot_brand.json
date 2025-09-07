@@ -1,0 +1,41 @@
+{
+  "brand_name": "Parrot Brand",
+  "total_items": 4,
+  "pages_extracted": 2,
+  "total_search_results": 74,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:55:28.107Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/parrot_brand.json",
+  "items": [
+    {
+      "food_id": "8200395",
+      "food_name": "Coconut Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/parrot-brand/coconut-water",
+      "brand_name": "Parrot Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2921579",
+      "food_name": "Young Coconut Juice with Pulp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/parrot-brand/young-coconut-juice-with-pulp",
+      "brand_name": "Parrot Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83570",
+      "food_name": "Young Coconut Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/parrot-brand/young-coconut-juice",
+      "brand_name": "Parrot Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4212241",
+      "food_name": "Pink Guava Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/parrot-brand/pink-guava-juice",
+      "brand_name": "Parrot Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

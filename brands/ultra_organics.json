@@ -1,0 +1,27 @@
+{
+  "brand_name": "Ultra Organics",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 283,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:07:00.744Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/ultra_organics.json",
+  "items": [
+    {
+      "food_id": "26744610",
+      "food_name": "Organic Mango Chunks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ultra-organics/organic-mango-chunks",
+      "brand_name": "Ultra Organics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31308410",
+      "food_name": "Organic Frozen Mango",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ultra-organics/organic-frozen-mango",
+      "brand_name": "Ultra Organics",
+      "food_type": "Brand"
+    }
+  ]
+}

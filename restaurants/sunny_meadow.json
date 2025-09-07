@@ -1,0 +1,69 @@
+{
+  "restaurant": "Sunny Meadow",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 19,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:46:27.105Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sunny_meadow.json",
+  "items": [
+    {
+      "food_id": "181630",
+      "food_name": "Boiled Egg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunny-meadow/boiled-egg",
+      "brand_name": "Sunny Meadow",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1526620",
+      "food_name": "Scrambled Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunny-meadow/scrambled-eggs",
+      "brand_name": "Sunny Meadow",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88109",
+      "food_name": "Jumbo Grade A Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunny-meadow/jumbo-grade-a-eggs",
+      "brand_name": "Sunny Meadow",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "437137",
+      "food_name": "Large Brown Grade A Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunny-meadow/large-brown-grade-a-eggs",
+      "brand_name": "Sunny Meadow",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "437141",
+      "food_name": "Large Grade A Fresh Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunny-meadow/large-grade-a-fresh-eggs",
+      "brand_name": "Sunny Meadow",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5764010",
+      "food_name": "Medium Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunny-meadow/medium-eggs",
+      "brand_name": "Sunny Meadow",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "437087",
+      "food_name": "Extra Large Grade A Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunny-meadow/extra-large-grade-a-eggs",
+      "brand_name": "Sunny Meadow",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3362502",
+      "food_name": "Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunny-meadow/eggs",
+      "brand_name": "Sunny Meadow",
+      "food_type": "Brand"
+    }
+  ]
+}

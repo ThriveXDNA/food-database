@@ -1,0 +1,40 @@
+{
+  "brand_name": "Fig Newtons",
+  "brand_id": 187,
+  "total_items": 4,
+  "pages_extracted": 3,
+  "last_updated": "2025-09-06T20:18:06.290Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Brand-specific search with filtering",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/fig_newtons.json",
+  "items": [
+    {
+      "food_id": "4203698",
+      "food_name": "Fig Newtons",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fig-newtons/fig-newtons",
+      "brand_name": "Fig Newtons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23494048",
+      "food_name": "Fig Newtons (Pack)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fig-newtons/fig-newtons-(pack)",
+      "brand_name": "Fig Newtons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3982556",
+      "food_name": "Fat Free Fig Newtons",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fig-newtons/fat-free-fig-newtons",
+      "brand_name": "Fig Newtons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76133593",
+      "food_name": "Fig Newtons (Pack) 43g",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fig-newtons/fig-newtons-(pack)-43g",
+      "brand_name": "Fig Newtons",
+      "food_type": "Brand"
+    }
+  ]
+}

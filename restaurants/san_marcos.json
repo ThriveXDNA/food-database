@@ -1,0 +1,48 @@
+{
+  "restaurant": "San Marcos",
+  "total_items": 5,
+  "pages_extracted": 2,
+  "total_search_results": 53,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:24:07.300Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/san_marcos.json",
+  "items": [
+    {
+      "food_id": "4112089",
+      "food_name": "Green Mexican Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/san-marcos/green-mexican-salsa",
+      "brand_name": "San Marcos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10279066",
+      "food_name": "Pickled Sliced Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/san-marcos/pickled-sliced-carrots",
+      "brand_name": "San Marcos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1383316",
+      "food_name": "Chipotle Peppers in Adobo Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/san-marcos/chipotle-peppers-in-adobo-sauce",
+      "brand_name": "San Marcos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5740163",
+      "food_name": "Whole Jalapeño Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/san-marcos/whole-jalape%C3%B1o-peppers",
+      "brand_name": "San Marcos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90016420",
+      "food_name": "Chipotle Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/san-marcos/chipotle-salsa",
+      "brand_name": "San Marcos",
+      "food_type": "Brand"
+    }
+  ]
+}

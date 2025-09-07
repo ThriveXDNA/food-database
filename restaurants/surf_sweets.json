@@ -1,0 +1,34 @@
+{
+  "restaurant": "Surf Sweets",
+  "total_items": 3,
+  "pages_extracted": 2,
+  "total_search_results": 53,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:12:22.735Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/surf_sweets.json",
+  "items": [
+    {
+      "food_id": "2165168",
+      "food_name": "Gummy Bears",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/surf-sweets/gummy-bears",
+      "brand_name": "Surf Sweets",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7550352",
+      "food_name": "Watermelon Rings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/surf-sweets/watermelon-rings",
+      "brand_name": "Surf Sweets",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2715355",
+      "food_name": "Sour Worms",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/surf-sweets/sour-worms",
+      "brand_name": "Surf Sweets",
+      "food_type": "Brand"
+    }
+  ]
+}

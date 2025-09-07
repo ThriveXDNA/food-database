@@ -1,0 +1,41 @@
+{
+  "restaurant": "Bariatric Fusion",
+  "total_items": 4,
+  "pages_extracted": 2,
+  "total_search_results": 100,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:58:05.560Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bariatric_fusion.json",
+  "items": [
+    {
+      "food_id": "49241531",
+      "food_name": "High Protein Meal Replacement",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bariatric-fusion/high-protein-meal-replacement",
+      "brand_name": "Bariatric Fusion",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18403696",
+      "food_name": "Chocolate Peanut Butter Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bariatric-fusion/chocolate-peanut-butter-protein-bar",
+      "brand_name": "Bariatric Fusion",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86152301",
+      "food_name": "Complete Chewable Vitamin & Mineral Supplement",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bariatric-fusion/complete-chewable-vitamin-mineral-supplement",
+      "brand_name": "Bariatric Fusion",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107131963",
+      "food_name": "Multivitamin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bariatric-fusion/multivitamin",
+      "brand_name": "Bariatric Fusion",
+      "food_type": "Brand"
+    }
+  ]
+}

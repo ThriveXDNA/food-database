@@ -1,0 +1,20 @@
+{
+  "restaurant": "P&S Ravioli",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 538,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:18:27.519Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/p_s_ravioli.json",
+  "items": [
+    {
+      "food_id": "27432",
+      "food_name": "Cheese Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pands-ravioli/cheese-ravioli",
+      "brand_name": "P&S Ravioli",
+      "food_type": "Brand"
+    }
+  ]
+}

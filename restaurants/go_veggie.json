@@ -1,0 +1,76 @@
+{
+  "restaurant": "Go Veggie",
+  "total_items": 9,
+  "pages_extracted": 6,
+  "total_search_results": 1642,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:26:08.247Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/go_veggie.json",
+  "items": [
+    {
+      "food_id": "13346775",
+      "food_name": "Vegan Mexican Style Shreds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/go-veggie/vegan-mexican-style-shreds",
+      "brand_name": "Go Veggie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5526069",
+      "food_name": "Go Veggie Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/go-veggie/go-veggie-cheese",
+      "brand_name": "Go Veggie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12827346",
+      "food_name": "Grated Parmesan Style Topping",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/go-veggie/grated-parmesan-style-topping",
+      "brand_name": "Go Veggie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6600677",
+      "food_name": "Cream Cheese Alternative",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/go-veggie/cream-cheese-alternative",
+      "brand_name": "Go Veggie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5889523",
+      "food_name": "Cheddar Shreds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/go-veggie/cheddar-shreds",
+      "brand_name": "Go Veggie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9650158",
+      "food_name": "Mexican Style Shreds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/go-veggie/mexican-style-shreds",
+      "brand_name": "Go Veggie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36462745",
+      "food_name": "American Style Singles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/go-veggie/american-style-singles",
+      "brand_name": "Go Veggie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23289905",
+      "food_name": "Sriracha Style Bars",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/go-veggie/sriracha-style-bars",
+      "brand_name": "Go Veggie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2474932",
+      "food_name": "100% Fruit & Veg Juice Smoothie - Mango Veggie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/naked-juice/100%25-fruit-and-veg-juice-smoothie---mango-veggie",
+      "brand_name": "Naked Juice",
+      "food_type": "Brand"
+    }
+  ]
+}

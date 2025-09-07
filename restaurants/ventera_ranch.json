@@ -1,0 +1,83 @@
+{
+  "restaurant": "Ventera Ranch",
+  "total_items": 10,
+  "pages_extracted": 6,
+  "total_search_results": 1657,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:48:39.067Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ventera_ranch.json",
+  "items": [
+    {
+      "food_id": "1472970",
+      "food_name": "Chinese Style BBQ Pork Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ventera-ranch/chinese-style-bbq-pork-ribs",
+      "brand_name": "Ventera Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1660615",
+      "food_name": "Chicken Parmesan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ventera-ranch/chicken-parmesan",
+      "brand_name": "Ventera Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "542672",
+      "food_name": "Pork Fried Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ventera-ranch/pork-fried-rice",
+      "brand_name": "Ventera Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1476243",
+      "food_name": "Chateaubriand Beef Tenderloin Filet Mignon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ventera-ranch/chateaubriand-beef-tenderloin-filet-mignon",
+      "brand_name": "Ventera Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "679324",
+      "food_name": "Chicken Santa Fe with Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ventera-ranch/chicken-santa-fe-with-salsa",
+      "brand_name": "Ventera Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2501555",
+      "food_name": "Chicken Pesto with Orzo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ventera-ranch/chicken-pesto-with-orzo",
+      "brand_name": "Ventera Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "531465",
+      "food_name": "Gyro Meatballs with Couscous and Tzatziki Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ventera-ranch/gyro-meatballs-with-couscous-and-tzatziki-sauce",
+      "brand_name": "Ventera Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "542664",
+      "food_name": "Kung Pao Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ventera-ranch/kung-pao-chicken",
+      "brand_name": "Ventera Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6847225",
+      "food_name": "Chicken Pad Thai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ventera-ranch/chicken-pad-thai",
+      "brand_name": "Ventera Ranch",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "475463",
+      "food_name": "Cashew Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ventera-ranch/cashew-chicken",
+      "brand_name": "Ventera Ranch",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "restaurant": "Marjon",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:34:50.772Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/marjon.json",
+  "items": [
+    {
+      "food_id": "635806",
+      "food_name": "Grilled Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marjon/grilled-tofu",
+      "brand_name": "Marjon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "690735",
+      "food_name": "Bean Sprouts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marjon/bean-sprouts",
+      "brand_name": "Marjon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4081419",
+      "food_name": "Broccoli Sprouts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marjon/broccoli-sprouts",
+      "brand_name": "Marjon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46211942",
+      "food_name": "Tofu Crumbles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marjon/tofu-crumbles",
+      "brand_name": "Marjon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2246444",
+      "food_name": "Shelled Edamame",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marjon/shelled-edamame",
+      "brand_name": "Marjon",
+      "food_type": "Brand"
+    }
+  ]
+}

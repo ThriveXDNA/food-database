@@ -1,0 +1,48 @@
+{
+  "restaurant": "Parle",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:51:10.947Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/parle.json",
+  "items": [
+    {
+      "food_id": "4833826",
+      "food_name": "Parle-G",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/parle/parle-g",
+      "brand_name": "Parle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62911279",
+      "food_name": "Hide & Seek Chocolate Chip Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/parle/hide-seek-chocolate-chip-cookies",
+      "brand_name": "Parle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53182501",
+      "food_name": "Krackjack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/parle/krackjack",
+      "brand_name": "Parle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66315723",
+      "food_name": "Premium Rusk with Elaichi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/parle/premium-rusk-with-elaichi",
+      "brand_name": "Parle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6115351",
+      "food_name": "Hide & Seek Fab Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/parle/hide-and-seek-fab-vanilla",
+      "brand_name": "Parle",
+      "food_type": "Brand"
+    }
+  ]
+}

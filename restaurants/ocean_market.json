@@ -1,0 +1,69 @@
+{
+  "restaurant": "Ocean Market",
+  "total_items": 8,
+  "pages_extracted": 3,
+  "total_search_results": 123,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:41:28.521Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ocean_market.json",
+  "items": [
+    {
+      "food_id": "1482295",
+      "food_name": "Salmon Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-market/salmon-fillets",
+      "brand_name": "Ocean Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2321582",
+      "food_name": "Breaded Tilapia",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-market/breaded-tilapia",
+      "brand_name": "Ocean Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6965222",
+      "food_name": "Scallops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-market/scallops",
+      "brand_name": "Ocean Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3194470",
+      "food_name": "Sole Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-market/sole-fillets",
+      "brand_name": "Ocean Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1878009",
+      "food_name": "Salmon in Teriyaki Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-market/salmon-in-teriyaki-sauce",
+      "brand_name": "Ocean Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "753847",
+      "food_name": "Catfish Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-market/catfish-fillets",
+      "brand_name": "Ocean Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2478128",
+      "food_name": "Cod Portions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-market/cod-portions",
+      "brand_name": "Ocean Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3360196",
+      "food_name": "Tilapia Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ocean-market/tilapia-fillets",
+      "brand_name": "Ocean Market",
+      "food_type": "Brand"
+    }
+  ]
+}

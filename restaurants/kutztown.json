@@ -1,0 +1,27 @@
+{
+  "restaurant": "Kutztown",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:05:08.834Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kutztown.json",
+  "items": [
+    {
+      "food_id": "470147",
+      "food_name": "Ring Bologna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kutztown/ring-bologna",
+      "brand_name": "Kutztown",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12851968",
+      "food_name": "Sarsaparilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kutztown/sarsaparilla",
+      "brand_name": "Kutztown",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "restaurant": "Kettle Cuisine",
+  "total_items": 9,
+  "pages_extracted": 6,
+  "total_search_results": 399,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:33:41.244Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kettle_cuisine.json",
+  "items": [
+    {
+      "food_id": "3571098",
+      "food_name": "Tomato Soup with Garden Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kettle-cuisine/tomato-soup-with-garden-vegetables",
+      "brand_name": "Kettle Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "429079",
+      "food_name": "Chicken Soup with Rice Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kettle-cuisine/chicken-soup-with-rice-noodles",
+      "brand_name": "Kettle Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1787761",
+      "food_name": "Organic Mushroom and Potato Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kettle-cuisine/organic-mushroom-and-potato-soup",
+      "brand_name": "Kettle Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19511983",
+      "food_name": "Organic Chopped Vegetable and Barley Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kettle-cuisine/organic-chopped-vegetable-and-barley-soup",
+      "brand_name": "Kettle Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "470871",
+      "food_name": "Angus Beef Steak Chili with Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kettle-cuisine/angus-beef-steak-chili-with-beans",
+      "brand_name": "Kettle Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2511037",
+      "food_name": "Southwestern Chicken and Corn Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kettle-cuisine/southwestern-chicken-and-corn-chowder",
+      "brand_name": "Kettle Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2627862",
+      "food_name": "Thai Curry Chicken Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kettle-cuisine/thai-curry-chicken-soup",
+      "brand_name": "Kettle Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8899504",
+      "food_name": "Chipotle Sweet Potato Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kettle-cuisine/chipotle-sweet-potato-soup",
+      "brand_name": "Kettle Cuisine",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "375280",
+      "food_name": "New England Clam Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kettle-cuisine/new-england-clam-chowder",
+      "brand_name": "Kettle Cuisine",
+      "food_type": "Brand"
+    }
+  ]
+}

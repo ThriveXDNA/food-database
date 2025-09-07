@@ -1,0 +1,62 @@
+{
+  "restaurant": "UFood Grill",
+  "total_items": 7,
+  "pages_extracted": 2,
+  "total_search_results": 80,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:28:55.770Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ufood_grill.json",
+  "items": [
+    {
+      "food_id": "2321669",
+      "food_name": "Bison Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ufood-grill/bison-burger",
+      "brand_name": "UFood Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2060418",
+      "food_name": "BBQ Ranch Grilled Chicken Snack Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ufood-grill/bbq-ranch-grilled-chicken-snack-wrap",
+      "brand_name": "UFood Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2321684",
+      "food_name": "Sweet Potato Mash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ufood-grill/sweet-potato-mash",
+      "brand_name": "UFood Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1454390",
+      "food_name": "Fire Grilled Steak Tips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ufood-grill/fire-grilled-steak-tips",
+      "brand_name": "UFood Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1550119",
+      "food_name": "Margherita Panini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ufood-grill/margherita-panini",
+      "brand_name": "UFood Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1827816",
+      "food_name": "Crispy Chicken Chopped Cobb Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ufood-grill/crispy-chicken-chopped-cobb-salad",
+      "brand_name": "UFood Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2086940",
+      "food_name": "Teriyaki Chicken & Broccoli Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ufood-grill/teriyaki-chicken-and-broccoli-wrap",
+      "brand_name": "UFood Grill",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "restaurant": "Far East Foods",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 34,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:36:02.802Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/far_east_foods.json",
+  "items": [
+    {
+      "food_id": "13541554",
+      "food_name": "Thai Vegetable Fried Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/far-east-foods/thai-vegetable-fried-rice",
+      "brand_name": "Far East Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13202495",
+      "food_name": "Red Curry & Vegetable Fried Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/far-east-foods/red-curry-and-vegetable-fried-rice",
+      "brand_name": "Far East Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13274232",
+      "food_name": "Japanese Crunch Snack Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/far-east-foods/japanese-crunch-snack-mix",
+      "brand_name": "Far East Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

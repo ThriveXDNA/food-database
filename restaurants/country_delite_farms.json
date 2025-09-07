@@ -1,0 +1,20 @@
+{
+  "restaurant": "Country Delite Farms",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 550,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:48:46.306Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/country_delite_farms.json",
+  "items": [
+    {
+      "food_id": "2701223",
+      "food_name": "Fat Free Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/country-delite-farms/fat-free-milk",
+      "brand_name": "Country Delite Farms",
+      "food_type": "Brand"
+    }
+  ]
+}

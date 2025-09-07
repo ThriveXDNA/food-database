@@ -1,0 +1,69 @@
+{
+  "restaurant": "Fit Butters",
+  "total_items": 8,
+  "pages_extracted": 5,
+  "total_search_results": 238,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:43:28.761Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fit_butters.json",
+  "items": [
+    {
+      "food_id": "62093341",
+      "food_name": "Cookie Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fit-butters/cookie-butter",
+      "brand_name": "Fit Butters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55166212",
+      "food_name": "Monster Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fit-butters/monster-cookie",
+      "brand_name": "Fit Butters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97954669",
+      "food_name": "Chocolate Chip Cookie Dough Cashew Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fit-butters/chocolate-chip-cookie-dough-cashew-butter",
+      "brand_name": "Fit Butters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73015189",
+      "food_name": "Chocolate Peanut Butter Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fit-butters/chocolate-peanut-butter-cup",
+      "brand_name": "Fit Butters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90126792",
+      "food_name": "Pumpkin Pie Cashew Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fit-butters/pumpkin-pie-cashew-butter",
+      "brand_name": "Fit Butters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52682818",
+      "food_name": "Banana Maple French Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fit-butters/banana-maple-french-toast",
+      "brand_name": "Fit Butters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48520443",
+      "food_name": "Birthday Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fit-butters/birthday-cake",
+      "brand_name": "Fit Butters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48800044",
+      "food_name": "Caramel Fudge Coconut Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fit-butters/caramel-fudge-coconut-cookie",
+      "brand_name": "Fit Butters",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "restaurant": "Salad and Go",
+  "total_items": 35,
+  "pages_extracted": 6,
+  "total_search_results": 7927,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:46:12.525Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/salad_and_go.json",
+  "items": [
+    {
+      "food_id": "78596766",
+      "food_name": "Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/caesar-salad",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28385413",
+      "food_name": "Greek Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/greek-salad",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35456621",
+      "food_name": "Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/chicken",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47075510",
+      "food_name": "Buffalo Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/buffalo-chicken-salad",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28385449",
+      "food_name": "Creamy Greek Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/creamy-greek-dressing",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65370567",
+      "food_name": "Roasted Autumn Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/roasted-autumn-salad",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54754728",
+      "food_name": "Thai Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/thai-salad",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26373014",
+      "food_name": "Cobb Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/cobb-salad",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19021773",
+      "food_name": "BBQ Ranch Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/bbq-ranch-salad",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96382833",
+      "food_name": "Fajita Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/fajita-salad",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37423607",
+      "food_name": "Thai Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/thai-chicken-salad",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72292740",
+      "food_name": "Traditional Breakfast Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/traditional-breakfast-burrito",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73048661",
+      "food_name": "Frozen Strawberry Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/frozen-strawberry-lemonade",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31664497",
+      "food_name": "Jalapeno Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/jalapeno-ranch-dressing",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53178784",
+      "food_name": "Jalapeño Ranch Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/jalape%C3%B1o-ranch-salad",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85660006",
+      "food_name": "Caesar Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/caesar-dressing",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26261555",
+      "food_name": "Cucumber Mint Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/cucumber-mint-lemonade",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42235461",
+      "food_name": "Fall Harvest Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/fall-harvest-salad",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70821852",
+      "food_name": "Southwest Breakfast Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/southwest-breakfast-burrito",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61916319",
+      "food_name": "Caprese Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/caprese-salad",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75447344",
+      "food_name": "Bbq Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/bbq-ranch-dressing",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42235495",
+      "food_name": "Balsamic Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/balsamic-vinaigrette",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70134229",
+      "food_name": "Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/steak",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43999514",
+      "food_name": "Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/tofu",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35895422",
+      "food_name": "Antipasto Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/antipasto-salad",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31378464",
+      "food_name": "Housemade Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/housemade-salsa",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22988553",
+      "food_name": "Honey Wheat Tortilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/honey-wheat-tortilla",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44107921",
+      "food_name": "Chicken Pot Pie Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/chicken-pot-pie-soup",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69997815",
+      "food_name": "Turkey Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/turkey-sausage",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47118967",
+      "food_name": "Fiesta Breakfast Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/fiesta-breakfast-burrito",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82263667",
+      "food_name": "Sweet Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/sweet-potatoes",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100516398",
+      "food_name": "Pita Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/pita-chips",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53564759",
+      "food_name": "Chicken & Sausage Gumbo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/chicken-sausage-gumbo",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52480609",
+      "food_name": "Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/carrots",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94658863",
+      "food_name": "Green Enchilada Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/salad-and-go/green-enchilada-chili",
+      "brand_name": "Salad and Go",
+      "food_type": "Brand"
+    }
+  ]
+}

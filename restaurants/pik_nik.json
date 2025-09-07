@@ -1,0 +1,34 @@
+{
+  "restaurant": "Pik-Nik",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:55:26.025Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pik_nik.json",
+  "items": [
+    {
+      "food_id": "9709462",
+      "food_name": "Original Shoestring Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pik-nik/original-shoestring-potatoes",
+      "brand_name": "Pik-Nik",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2901086",
+      "food_name": "Original Shoestring Potatoes (Can)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pik-nik/original-shoestring-potatoes-(can)",
+      "brand_name": "Pik-Nik",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6495421",
+      "food_name": "French Fried Onions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pik-nik/french-fried-onions",
+      "brand_name": "Pik-Nik",
+      "food_type": "Brand"
+    }
+  ]
+}

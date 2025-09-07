@@ -1,0 +1,27 @@
+{
+  "restaurant": "Halwani Bros",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:25:58.068Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/halwani_bros.json",
+  "items": [
+    {
+      "food_id": "3206479",
+      "food_name": "Maamoul",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/halwani-bros/maamoul",
+      "brand_name": "Halwani Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19966961",
+      "food_name": "Beef Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/halwani-bros/beef-burger",
+      "brand_name": "Halwani Bros",
+      "food_type": "Brand"
+    }
+  ]
+}

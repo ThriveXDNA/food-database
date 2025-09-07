@@ -1,0 +1,27 @@
+{
+  "restaurant": "R.E.D.D.",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:07:19.684Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/r_e_d_d.json",
+  "items": [
+    {
+      "food_id": "14486505",
+      "food_name": "Chocolate Superfood Energy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/redd/chocolate-superfood-energy-bar",
+      "brand_name": "R.E.D.D.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17124608",
+      "food_name": "Oatmeal Superfood Energy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/redd/oatmeal-superfood-energy-bar",
+      "brand_name": "R.E.D.D.",
+      "food_type": "Brand"
+    }
+  ]
+}

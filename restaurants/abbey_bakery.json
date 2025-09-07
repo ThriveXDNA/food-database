@@ -1,0 +1,20 @@
+{
+  "restaurant": "Abbey Bakery",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 48,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:12:15.832Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/abbey_bakery.json",
+  "items": [
+    {
+      "food_id": "32159",
+      "food_name": "Pure Irish Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/abbey-bakery/pure-irish-butter",
+      "brand_name": "Abbey Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

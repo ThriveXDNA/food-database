@@ -1,0 +1,55 @@
+{
+  "restaurant": "HT Traders",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:02:18.461Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/ht_traders.json",
+  "items": [
+    {
+      "food_id": "41978790",
+      "food_name": "Golden Almond Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ht-traders/golden-almond-granola",
+      "brand_name": "HT Traders",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25893888",
+      "food_name": "Artichoke Quarters",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ht-traders/artichoke-quarters",
+      "brand_name": "HT Traders",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15301777",
+      "food_name": "Strawberry Sorbet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ht-traders/strawberry-sorbet",
+      "brand_name": "HT Traders",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21482390",
+      "food_name": "Mini Caramel Wafers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ht-traders/mini-caramel-wafers",
+      "brand_name": "HT Traders",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39585060",
+      "food_name": "Coconut Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ht-traders/coconut-milk",
+      "brand_name": "HT Traders",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61200964",
+      "food_name": "57% Cocoa with Sea Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ht-traders/57-cocoa-with-sea-salt",
+      "brand_name": "Ht Traders",
+      "food_type": "Brand"
+    }
+  ]
+}

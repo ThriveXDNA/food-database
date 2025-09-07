@@ -1,0 +1,62 @@
+{
+  "restaurant": "Liberty",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:45:55.662Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/liberty.json",
+  "items": [
+    {
+      "food_id": "3996681",
+      "food_name": "Cottage Cheese 2%",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/liberty/cottage-cheese-2%25",
+      "brand_name": "Liberty",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26875",
+      "food_name": "Tzatziki",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/liberty/tzatziki",
+      "brand_name": "Liberty",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75062",
+      "food_name": "Organic Plain Yogourt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/liberty/organic-plain-yogourt",
+      "brand_name": "Liberty",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3940571",
+      "food_name": "Quark Fresh Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/liberty/quark-fresh-cheese",
+      "brand_name": "Liberty",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61020",
+      "food_name": "Organic Strawberry 2% Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/liberty/organic-strawberry-2%25-yogurt",
+      "brand_name": "Liberty",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1301097",
+      "food_name": "Liberty Ale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/anchor/liberty-ale",
+      "brand_name": "Anchor",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29228213",
+      "food_name": "Liberty Brew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mountain-dew/liberty-brew",
+      "brand_name": "Mountain Dew",
+      "food_type": "Brand"
+    }
+  ]
+}

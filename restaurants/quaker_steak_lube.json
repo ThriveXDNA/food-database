@@ -1,0 +1,41 @@
+{
+  "restaurant": "Quaker Steak & Lube",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 2016,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:34:31.367Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/quaker_steak_lube.json",
+  "items": [
+    {
+      "food_id": "5019948",
+      "food_name": "Chicken Wing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quaker-steak-and-lube/chicken-wing",
+      "brand_name": "Quaker Steak & Lube",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6939181",
+      "food_name": "Sesame Chicken Rice Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quaker-steak-and-lube/sesame-chicken-rice-bowl",
+      "brand_name": "Quaker Steak & Lube",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8892821",
+      "food_name": "Biker Chick Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quaker-steak-and-lube/biker-chick-salad",
+      "brand_name": "Quaker Steak & Lube",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1923638",
+      "food_name": "Thai 'R' Cracker Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quaker-steak-and-lube/thai-r-cracker-sauce",
+      "brand_name": "Quaker Steak & Lube",
+      "food_type": "Brand"
+    }
+  ]
+}

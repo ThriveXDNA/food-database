@@ -1,0 +1,27 @@
+{
+  "restaurant": "Dreamland",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:58:52.904Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dreamland.json",
+  "items": [
+    {
+      "food_id": "6710679",
+      "food_name": "Bar-B-Que Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dreamland/bar-b-que-sauce",
+      "brand_name": "Dreamland",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91266961",
+      "food_name": "Falafel Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dreamland/falafel-wrap",
+      "brand_name": "Dreamland",
+      "food_type": "Brand"
+    }
+  ]
+}

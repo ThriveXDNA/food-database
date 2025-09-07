@@ -1,0 +1,27 @@
+{
+  "restaurant": "Louisiana Supreme",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 464,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:11:14.350Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/louisiana_supreme.json",
+  "items": [
+    {
+      "food_id": "3438097",
+      "food_name": "Chicken Wing Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/louisiana-supreme/chicken-wing-sauce",
+      "brand_name": "Louisiana Supreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6711580",
+      "food_name": "Hot Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/louisiana-supreme/hot-sauce",
+      "brand_name": "Louisiana Supreme",
+      "food_type": "Brand"
+    }
+  ]
+}

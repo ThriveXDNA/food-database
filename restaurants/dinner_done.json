@@ -1,0 +1,34 @@
+{
+  "restaurant": "Dinner Done",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 389,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:51:57.306Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dinner_done.json",
+  "items": [
+    {
+      "food_id": "3835531",
+      "food_name": "Marsala Mushroom Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dinner-done/marsala-mushroom-chicken",
+      "brand_name": "Dinner Done",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4017103",
+      "food_name": "Steak Diane",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dinner-done/steak-diane",
+      "brand_name": "Dinner Done",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3097938",
+      "food_name": "Broccoli & Cheddar Stuffed Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dinner-done/broccoli-and-cheddar-stuffed-chicken",
+      "brand_name": "Dinner Done",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "brand_name": "Organic by Nature",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 5547,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:59:11.708Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/organic_by_nature.json",
+  "items": [
+    {
+      "food_id": "8701451",
+      "food_name": "Vegetable Medley",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/organic-by-nature/vegetable-medley",
+      "brand_name": "Organic by Nature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8649417",
+      "food_name": "Petite Whole Green Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/organic-by-nature/petite-whole-green-beans",
+      "brand_name": "Organic by Nature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10260793",
+      "food_name": "Organic Super Sweet White Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/organic-by-nature/organic-super-sweet-white-corn",
+      "brand_name": "Organic by Nature",
+      "food_type": "Brand"
+    }
+  ]
+}

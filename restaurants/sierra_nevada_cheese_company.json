@@ -1,0 +1,20 @@
+{
+  "restaurant": "Sierra Nevada Cheese Company",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 12129,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:23:42.934Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sierra_nevada_cheese_company.json",
+  "items": [
+    {
+      "food_id": "9250492",
+      "food_name": "Capretta Goat Yogurt Plain",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sierra-nevada-cheese-company/capretta-goat-yogurt-plain",
+      "brand_name": "Sierra Nevada Cheese Company",
+      "food_type": "Brand"
+    }
+  ]
+}

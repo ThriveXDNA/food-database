@@ -1,0 +1,41 @@
+{
+  "brand_name": "Walnut Acres",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 352,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:09:36.087Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/walnut_acres.json",
+  "items": [
+    {
+      "food_id": "3964344",
+      "food_name": "Organic Tomato Basil Marinara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/walnut-acres/organic-tomato-basil-marinara",
+      "brand_name": "Walnut Acres",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2462497",
+      "food_name": "Organic Baked Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/walnut-acres/organic-baked-beans",
+      "brand_name": "Walnut Acres",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3592465",
+      "food_name": "Garlic Garlic Pasta Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/walnut-acres/garlic-garlic-pasta-sauce",
+      "brand_name": "Walnut Acres",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69523",
+      "food_name": "Organic Low Sodium Tomato & Basil Pasta Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/walnut-acres/organic-low-sodium-tomato-and-basil-pasta-sauce",
+      "brand_name": "Walnut Acres",
+      "food_type": "Brand"
+    }
+  ]
+}

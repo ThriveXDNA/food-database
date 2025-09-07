@@ -1,0 +1,12 @@
+# API keys and sensitive files
+local-extract.js
+.env
+*.key
+
+# Node modules
+node_modules/
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db

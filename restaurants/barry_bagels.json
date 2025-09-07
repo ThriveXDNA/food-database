@@ -1,0 +1,41 @@
+{
+  "restaurant": "Barry Bagels",
+  "total_items": 4,
+  "pages_extracted": 5,
+  "total_search_results": 225,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:03:06.196Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/barry_bagels.json",
+  "items": [
+    {
+      "food_id": "6365544",
+      "food_name": "Raisin Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/barry-bagels/raisin-bagel",
+      "brand_name": "Barry Bagels",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4734790",
+      "food_name": "Plain Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/barry-bagels/plain-bagel",
+      "brand_name": "Barry Bagels",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8692963",
+      "food_name": "Spinach Feta Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/barry-bagels/spinach-feta-bagel",
+      "brand_name": "Barry Bagels",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2314512",
+      "food_name": "Everything Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/barry-bagels/everything-bagel",
+      "brand_name": "Barry Bagels",
+      "food_type": "Brand"
+    }
+  ]
+}

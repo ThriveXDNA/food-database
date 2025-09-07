@@ -1,0 +1,55 @@
+{
+  "restaurant": "Sunspire",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:09:07.205Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sunspire.json",
+  "items": [
+    {
+      "food_id": "2143728",
+      "food_name": "Unsweetened Carob Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunspire/unsweetened-carob-chips",
+      "brand_name": "Sunspire",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8392259",
+      "food_name": "Peanut Butter Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunspire/peanut-butter-chips",
+      "brand_name": "Sunspire",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65392",
+      "food_name": "Semi-Sweet Grain Sweetened Chocolate Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunspire/semi-sweet-grain-sweetened-chocolate-chips",
+      "brand_name": "Sunspire",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2709015",
+      "food_name": "Coconut Dark Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunspire/coconut-dark-chocolate-bar",
+      "brand_name": "Sunspire",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3883120",
+      "food_name": "Milk Chocolate Peanut Butter Cups",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunspire/milk-chocolate-peanut-butter-cups",
+      "brand_name": "Sunspire",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2462631",
+      "food_name": "Dark Chocolate Almond Butter Cups",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunspire/dark-chocolate-almond-butter-cups",
+      "brand_name": "Sunspire",
+      "food_type": "Brand"
+    }
+  ]
+}

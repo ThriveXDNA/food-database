@@ -1,0 +1,27 @@
+{
+  "restaurant": "Andean Gourmet",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 393,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:39:52.096Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/andean_gourmet.json",
+  "items": [
+    {
+      "food_id": "27936352",
+      "food_name": "Toston Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/andean-gourmet/toston-chips",
+      "brand_name": "Andean Gourmet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39216364",
+      "food_name": "Sweet Potato Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/andean-gourmet/sweet-potato-crisps",
+      "brand_name": "Andean Gourmet",
+      "food_type": "Brand"
+    }
+  ]
+}

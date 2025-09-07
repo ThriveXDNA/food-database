@@ -1,0 +1,20 @@
+{
+  "restaurant": "Concord Bakery",
+  "total_items": 1,
+  "pages_extracted": 3,
+  "total_search_results": 106,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:13:44.871Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/concord_bakery.json",
+  "items": [
+    {
+      "food_id": "40835798",
+      "food_name": "Mini Loaves Cornbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/concord-bakery/mini-loaves-cornbread",
+      "brand_name": "Concord Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

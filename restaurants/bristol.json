@@ -1,0 +1,55 @@
+{
+  "restaurant": "BRISTOL",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:21:32.691Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bristol.json",
+  "items": [
+    {
+      "food_id": "1035070",
+      "food_name": "Chopped Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bristol/chopped-ham",
+      "brand_name": "Bristol",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5421512",
+      "food_name": "Cooked Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bristol/cooked-ham",
+      "brand_name": "Bristol",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10676896",
+      "food_name": "Chunk Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bristol/chunk-ham",
+      "brand_name": "Bristol",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2455765",
+      "food_name": "Chunk Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bristol/chunk-chicken",
+      "brand_name": "Bristol",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24434730",
+      "food_name": "Hickory Smoked Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bristol/hickory-smoked-ham",
+      "brand_name": "Bristol",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61832631",
+      "food_name": "Bacon Grill Luncheon Loaf",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bristol/bacon-grill-luncheon-loaf",
+      "brand_name": "BRISTOL",
+      "food_type": "Brand"
+    }
+  ]
+}

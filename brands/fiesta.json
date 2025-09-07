@@ -1,0 +1,55 @@
+{
+  "brand_name": "Fiesta",
+  "total_items": 6,
+  "pages_extracted": 5,
+  "total_search_results": 214,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:27:53.392Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/fiesta.json",
+  "items": [
+    {
+      "food_id": "35452881",
+      "food_name": "Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiesta/black-beans",
+      "brand_name": "Fiesta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11655371",
+      "food_name": "Fresh Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiesta/fresh-salsa",
+      "brand_name": "Fiesta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5972902",
+      "food_name": "Lentils",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiesta/lentils",
+      "brand_name": "Fiesta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20679137",
+      "food_name": "Fajita Seasoning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiesta/fajita-seasoning",
+      "brand_name": "Fiesta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69023575",
+      "food_name": "Green Split Peas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiesta/green-split-peas",
+      "brand_name": "Fiesta",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50558570",
+      "food_name": "Small Red Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fiesta/small-red-beans",
+      "brand_name": "Fiesta",
+      "food_type": "Brand"
+    }
+  ]
+}

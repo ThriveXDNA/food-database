@@ -1,0 +1,62 @@
+{
+  "restaurant": "Bon Italia",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 25,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:18:28.825Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bon_italia.json",
+  "items": [
+    {
+      "food_id": "5487978",
+      "food_name": "Macaroni & Beef in Tomato Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bon-italia/macaroni-and-beef-in-tomato-sauce",
+      "brand_name": "Bon Italia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "718584",
+      "food_name": "Mini Beef Ravioli in Tomato & Meat Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bon-italia/mini-beef-ravioli-in-tomato-and-meat-sauce",
+      "brand_name": "Bon Italia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27702770",
+      "food_name": "Pasta Rings & Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bon-italia/pasta-rings-meatballs",
+      "brand_name": "Bon Italia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75339420",
+      "food_name": "Mini Beef Ravioli in Meat Sauce (425g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bon-italia/mini-beef-ravioli-in-meat-sauce-(425g)",
+      "brand_name": "Bon Italia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2579884",
+      "food_name": "Beef Ravioli in Tomato & Meat Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bon-italia/beef-ravioli-in-tomato-and-meat-sauce",
+      "brand_name": "Bon Italia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76770899",
+      "food_name": "Macaroni & Beef in Tomato Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bon-italia/macaroni-beef-in-tomato-sauce",
+      "brand_name": "Bon Italia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98274",
+      "food_name": "Mini Beef Ravioli in Meat Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bon-italia/mini-beef-ravioli-in-meat-sauce",
+      "brand_name": "Bon Italia",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "restaurant": "Sakara",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:00:34.564Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sakara.json",
+  "items": [
+    {
+      "food_id": "22392617",
+      "food_name": "Energy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sakara/energy-bar",
+      "brand_name": "Sakara",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30035628",
+      "food_name": "Metabolism Super Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sakara/metabolism-super-powder",
+      "brand_name": "Sakara",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40891675",
+      "food_name": "Dark Chocolate Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sakara/dark-chocolate-granola",
+      "brand_name": "Sakara",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49017954",
+      "food_name": "Metabolism Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sakara/metabolism-bar",
+      "brand_name": "Sakara",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67472787",
+      "food_name": "Energy Protein Super Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sakara/energy-protein-super-bar",
+      "brand_name": "Sakara",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65938527",
+      "food_name": "Protein + Greens",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sakara/protein-greens",
+      "brand_name": "Sakara",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28355971",
+      "food_name": "Detox Super Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sakara/detox-super-bar",
+      "brand_name": "Sakara",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61078916",
+      "food_name": "Plant Protein Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sakara/plant-protein-granola",
+      "brand_name": "Sakara",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32996533",
+      "food_name": "Beauty Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sakara/beauty-bar",
+      "brand_name": "Sakara",
+      "food_type": "Brand"
+    }
+  ]
+}

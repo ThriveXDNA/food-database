@@ -1,0 +1,34 @@
+{
+  "brand_name": "Scharffen Berger",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:25:06.387Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/scharffen_berger.json",
+  "items": [
+    {
+      "food_id": "67577",
+      "food_name": "Cacao Nibs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/scharffen-berger/cacao-nibs",
+      "brand_name": "Scharffen Berger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50123",
+      "food_name": "70% Bittersweet Chocolate Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/scharffen-berger/70%25-bittersweet-chocolate-bar",
+      "brand_name": "Scharffen Berger",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4513515",
+      "food_name": "Unsweetened Natural Cocoa Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/scharffen-berger/unsweetened-natural-cocoa-powder",
+      "brand_name": "Scharffen Berger",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "restaurant": "The Salt Lick",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 2556,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:45:13.464Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_salt_lick.json",
+  "items": [
+    {
+      "food_id": "16556919",
+      "food_name": "BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-salt-lick/bbq-sauce",
+      "brand_name": "The Salt Lick",
+      "food_type": "Brand"
+    }
+  ]
+}

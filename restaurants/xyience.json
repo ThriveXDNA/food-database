@@ -1,0 +1,48 @@
+{
+  "restaurant": "Xyience",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:08:40.651Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/xyience.json",
+  "items": [
+    {
+      "food_id": "65185670",
+      "food_name": "Energy Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/xyience/energy-drink",
+      "brand_name": "Xyience",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17142877",
+      "food_name": "Protein Bar - Chocolate Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/xyience/protein-bar---chocolate-crunch",
+      "brand_name": "Xyience",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4229915",
+      "food_name": "Xenergy - Frostberry Blast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/xyience/xenergy---frostberry-blast",
+      "brand_name": "Xyience",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "564970",
+      "food_name": "Xenergy - Cherry Lime",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/xyience/xenergy---cherry-lime",
+      "brand_name": "Xyience",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1829893",
+      "food_name": "Xenergy - Fruit Punch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/xyience/xenergy---fruit-punch",
+      "brand_name": "Xyience",
+      "food_type": "Brand"
+    }
+  ]
+}

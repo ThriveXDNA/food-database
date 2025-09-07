@@ -1,0 +1,76 @@
+{
+  "restaurant": "Great American Cookies",
+  "total_items": 9,
+  "pages_extracted": 6,
+  "total_search_results": 2862,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:41:45.059Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/great_american_cookies.json",
+  "items": [
+    {
+      "food_id": "98682",
+      "food_name": "Cookie Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-cookies/cookie-cake",
+      "brand_name": "Great American Cookies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "246280",
+      "food_name": "Oatmeal Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-cookies/oatmeal-cookie",
+      "brand_name": "Great American Cookies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "306045",
+      "food_name": "Snickerdoodle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-cookies/snickerdoodle",
+      "brand_name": "Great American Cookies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2535121",
+      "food_name": "Original Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-cookies/original-cookie",
+      "brand_name": "Great American Cookies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3732455",
+      "food_name": "Double Doozie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-cookies/double-doozie",
+      "brand_name": "Great American Cookies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "146485",
+      "food_name": "Big Bite Doozie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-cookies/big-bite-doozie",
+      "brand_name": "Great American Cookies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4746240",
+      "food_name": "Cheesecake Brownie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-cookies/cheesecake-brownie",
+      "brand_name": "Great American Cookies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4726810",
+      "food_name": "Chewy Pecan Supreme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-cookies/chewy-pecan-supreme",
+      "brand_name": "Great American Cookies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "828914",
+      "food_name": "Peanut Butter Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-cookies/peanut-butter-cookie",
+      "brand_name": "Great American Cookies",
+      "food_type": "Brand"
+    }
+  ]
+}

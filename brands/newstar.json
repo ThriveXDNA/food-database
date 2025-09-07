@@ -1,0 +1,34 @@
+{
+  "brand_name": "NewStar",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:28:58.908Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/newstar.json",
+  "items": [
+    {
+      "food_id": "2878057",
+      "food_name": "Spinach Plus Power Greens",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/newstar/spinach-plus-power-greens",
+      "brand_name": "NewStar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42100",
+      "food_name": "Fresh Spinach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/newstar/fresh-spinach",
+      "brand_name": "NewStar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "656162",
+      "food_name": "Baby Spinach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/newstar/baby-spinach",
+      "brand_name": "NewStar",
+      "food_type": "Brand"
+    }
+  ]
+}

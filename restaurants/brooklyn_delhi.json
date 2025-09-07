@@ -1,0 +1,48 @@
+{
+  "restaurant": "Brooklyn Delhi",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 14,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:39:08.771Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/brooklyn_delhi.json",
+  "items": [
+    {
+      "food_id": "53181382",
+      "food_name": "Mango Chutney",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-delhi/mango-chutney",
+      "brand_name": "Brooklyn Delhi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57997446",
+      "food_name": "Cashew Butter Masala",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-delhi/cashew-butter-masala",
+      "brand_name": "Brooklyn Delhi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72482455",
+      "food_name": "Tikka Masala Indian Simmer Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-delhi/tikka-masala-indian-simmer-sauce",
+      "brand_name": "Brooklyn Delhi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72017788",
+      "food_name": "Tomato Achaar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-delhi/tomato-achaar",
+      "brand_name": "Brooklyn Delhi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42784309",
+      "food_name": "Coconut Cashew Korma",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-delhi/coconut-cashew-korma",
+      "brand_name": "Brooklyn Delhi",
+      "food_type": "Brand"
+    }
+  ]
+}

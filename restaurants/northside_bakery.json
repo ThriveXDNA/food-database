@@ -1,0 +1,34 @@
+{
+  "restaurant": "Northside Bakery",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 47,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:13:41.531Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/northside_bakery.json",
+  "items": [
+    {
+      "food_id": "42711969",
+      "food_name": "Pretzel Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/northside-bakery/pretzel-bun",
+      "brand_name": "Northside Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51221144",
+      "food_name": "Spelt Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/northside-bakery/spelt-bread",
+      "brand_name": "Northside Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34413453",
+      "food_name": "Granny's 100% Rye Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/northside-bakery/grannys-100-rye-bread",
+      "brand_name": "Northside Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

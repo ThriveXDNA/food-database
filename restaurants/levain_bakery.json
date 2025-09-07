@@ -1,0 +1,27 @@
+{
+  "restaurant": "Levain Bakery",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 49,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:13:09.963Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/levain_bakery.json",
+  "items": [
+    {
+      "food_id": "14076463",
+      "food_name": "Chocolate Chip Walnut Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/levain-bakery/chocolate-chip-walnut-cookie",
+      "brand_name": "Levain Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55526636",
+      "food_name": "Two Chip Chocolate Chip Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/levain-bakery/two-chip-chocolate-chip-cookies",
+      "brand_name": "Levain Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

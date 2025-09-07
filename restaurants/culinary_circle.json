@@ -1,0 +1,433 @@
+{
+  "restaurant": "Culinary Circle",
+  "total_items": 60,
+  "pages_extracted": 2,
+  "total_search_results": 90,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:35:26.640Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/culinary_circle.json",
+  "items": [
+    {
+      "food_id": "696581",
+      "food_name": "Shredded Three Cheese Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/shredded-three-cheese-blend",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "591654",
+      "food_name": "Shaved Parmesan Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/shaved-parmesan-cheese",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2066698",
+      "food_name": "Pineapple Upside Down Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/pineapple-upside-down-cake",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "884557",
+      "food_name": "Raspberry Hibiscus Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/raspberry-hibiscus-tea",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1669450",
+      "food_name": "Ultra Thin Crust Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/ultra-thin-crust-pepperoni-pizza",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2604469",
+      "food_name": "Fresh Mozzarella",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/fresh-mozzarella",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1917709",
+      "food_name": "Flatbread Crust Roasted Vegetable and Goat Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/flatbread-crust-roasted-vegetable-and-goat-cheese-pizza",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1694950",
+      "food_name": "Parmesan Jalapeno Artichoke Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/parmesan-jalapeno-artichoke-dip",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1473576",
+      "food_name": "Ultra Thin Crust Spicy Italian Sausage Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/ultra-thin-crust-spicy-italian-sausage-pizza",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1608237",
+      "food_name": "Chicken Alfredo Lasagna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/chicken-alfredo-lasagna",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1427407",
+      "food_name": "Beef Chili with Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/beef-chili-with-beans",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6674147",
+      "food_name": "Rustic Honey Wheat Artisan Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/rustic-honey-wheat-artisan-bread",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1032170",
+      "food_name": "Roasted Garlic Ciabatta Artisan Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/roasted-garlic-ciabatta-artisan-bread",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1159301",
+      "food_name": "Sliced Genoa Salami",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/sliced-genoa-salami",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1604800",
+      "food_name": "Ultra Thin Crust Garlic Chicken Alfredo Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/ultra-thin-crust-garlic-chicken-alfredo-pizza",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1641030",
+      "food_name": "Rising Crust Spinach and Mushroom Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/rising-crust-spinach-and-mushroom-pizza",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1513461",
+      "food_name": "Ultra Thin Crust Supreme Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/ultra-thin-crust-supreme-pizza",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1578853",
+      "food_name": "Rosemary & Olive Oil Artisan Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/rosemary-and-olive-oil-artisan-bread",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "815366",
+      "food_name": "Creamy Alfredo with Sun-Dried Tomatoes Pasta Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/creamy-alfredo-with-sun-dried-tomatoes-pasta-sauce",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2067053",
+      "food_name": "Italian Style Bolognese Rigatoni",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/italian-style-bolognese-rigatoni",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1433526",
+      "food_name": "Mexican Style Chicken Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/mexican-style-chicken-pasta",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2544429",
+      "food_name": "Ultra Thin Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/ultra-thin-margherita-pizza",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6538325",
+      "food_name": "Parmesan Cheese Wedge",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/parmesan-cheese-wedge",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1670425",
+      "food_name": "Rising Crust Three Meat Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/rising-crust-three-meat-pizza",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1306378",
+      "food_name": "Crumbled Feta Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/crumbled-feta-cheese",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15474364",
+      "food_name": "Ultra Thin Crust Barbeque Recipe Chicken Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/ultra-thin-crust-barbeque-recipe-chicken-pizza",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1174838",
+      "food_name": "Florentine Style Pasta Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/florentine-style-pasta-sauce",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1335619",
+      "food_name": "Tuscan Tomato & Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/tuscan-tomato-and-vegetable-soup",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1688622",
+      "food_name": "Ultra Thin Crust Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/ultra-thin-crust-margherita-pizza",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "924112",
+      "food_name": "Vodka Pasta Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/vodka-pasta-sauce",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "753453",
+      "food_name": "Ziti Marinara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/ziti-marinara",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "573283",
+      "food_name": "Multigrain Artisan Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/multigrain-artisan-bread",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1273905",
+      "food_name": "Rising Crust Five Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/rising-crust-five-cheese-pizza",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "948518",
+      "food_name": "Ciabatta Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/ciabatta-roll",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4817015",
+      "food_name": "Multigrain Entertainment Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/multigrain-entertainment-crackers",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3905102",
+      "food_name": "Sliced Prosciutto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/sliced-prosciutto",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1387860",
+      "food_name": "Kalamata & Moroccan Olive Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/kalamata-and-moroccan-olive-bread",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "591385",
+      "food_name": "Sesame Water Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/sesame-water-crackers",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1521185",
+      "food_name": "Apple Cinnamon Raisin Walnut Artisan Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/apple-cinnamon-raisin-walnut-artisan-bread",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1232333",
+      "food_name": "Reduced Fat Feta Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/reduced-fat-feta-cheese",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1069318",
+      "food_name": "Hearty Wheat Naan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/hearty-wheat-naan",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "778061",
+      "food_name": "Cuban-Style Mojo Citrus Marinade & Cooking Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/cuban-style-mojo-citrus-marinade-and-cooking-sauce",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "643114",
+      "food_name": "Pepper & Poppy Seed Water Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/pepper-and-poppy-seed-water-crackers",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2229036",
+      "food_name": "Rosemary Roasted Garlic Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/rosemary-roasted-garlic-chicken",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1258388",
+      "food_name": "Cranberry Walnut Artisan Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/cranberry-walnut-artisan-bread",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2374053",
+      "food_name": "Prosciutto & Mozzarella Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/prosciutto-and-mozzarella-roll",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2459621",
+      "food_name": "Rising Crust Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/rising-crust-pepperoni-pizza",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3355698",
+      "food_name": "Crumbled Goat Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/crumbled-goat-cheese",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3979982",
+      "food_name": "Shredded Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/shredded-chicken",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30057087",
+      "food_name": "Double Pepperoni Pizza Flatbread Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/double-pepperoni-pizza-flatbread-crust",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "329928",
+      "food_name": "Chai Black Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/chai-black-tea",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3157974",
+      "food_name": "Flatbread Six Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/flatbread-six-cheese-pizza",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21598045",
+      "food_name": "Premium Turkey Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/premium-turkey-bacon",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20792312",
+      "food_name": "Rising Crust Buffalo Recipe Chicken Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/rising-crust-buffalo-recipe-chicken-pizza",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1427898",
+      "food_name": "Southwestern Style Chicken Tortilla Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/southwestern-style-chicken-tortilla-soup",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1092244",
+      "food_name": "Southwestern Style Chicken Tortilla Soup (Cup)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/southwestern-style-chicken-tortilla-soup-(cup)",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1800804",
+      "food_name": "New England Clam Chowder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/new-england-clam-chowder",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6176603",
+      "food_name": "Grilled Vegetable Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/grilled-vegetable-pizza",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2647183",
+      "food_name": "Crumbled Feta Cheese Reduced Fat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/crumbled-feta-cheese-reduced-fat",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1568488",
+      "food_name": "Original Entertainment Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/culinary-circle/original-entertainment-crackers",
+      "brand_name": "Culinary Circle",
+      "food_type": "Brand"
+    }
+  ]
+}

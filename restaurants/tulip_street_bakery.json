@@ -1,0 +1,27 @@
+{
+  "restaurant": "Tulip Street Bakery",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 260,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:15:28.872Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/tulip_street_bakery.json",
+  "items": [
+    {
+      "food_id": "3694760",
+      "food_name": "Cream Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tulip-street-bakery/cream-puffs",
+      "brand_name": "Tulip Street Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4767593",
+      "food_name": "Mini Eclairs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tulip-street-bakery/mini-eclairs",
+      "brand_name": "Tulip Street Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

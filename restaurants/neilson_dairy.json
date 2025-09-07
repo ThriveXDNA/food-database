@@ -1,0 +1,55 @@
+{
+  "restaurant": "Neilson Dairy",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 298,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:46:25.773Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/neilson_dairy.json",
+  "items": [
+    {
+      "food_id": "68611",
+      "food_name": "1% Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/neilson-dairy/1%25-milk",
+      "brand_name": "Neilson Dairy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "112157",
+      "food_name": "Half & Half Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/neilson-dairy/half-and-half-cream",
+      "brand_name": "Neilson Dairy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2290126",
+      "food_name": "1% Chocolate Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/neilson-dairy/1%25-chocolate-milk",
+      "brand_name": "Neilson Dairy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50274",
+      "food_name": "Jersey Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/neilson-dairy/jersey-milk",
+      "brand_name": "Neilson Dairy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21683468",
+      "food_name": "Neilson 2% Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/neilson-dairy/neilson-2-milk",
+      "brand_name": "Neilson Dairy",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90584",
+      "food_name": "Trutaste Fresh Light Cream 5%",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/neilson-dairy/trutaste-fresh-light-cream-5%25",
+      "brand_name": "Neilson Dairy",
+      "food_type": "Brand"
+    }
+  ]
+}

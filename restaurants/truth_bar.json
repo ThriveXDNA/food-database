@@ -1,0 +1,34 @@
+{
+  "restaurant": "Truth Bar",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 3471,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:59:10.334Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/truth_bar.json",
+  "items": [
+    {
+      "food_id": "27107231",
+      "food_name": "Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/truth-bar/protein-bar",
+      "brand_name": "Truth Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67030571",
+      "food_name": "Dark Chocolate Chip Cookie Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/truth-bar/dark-chocolate-chip-cookie-dough",
+      "brand_name": "Truth Bar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25490958",
+      "food_name": "Dark Chocolate Coconut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/truth-bar/dark-chocolate-coconut",
+      "brand_name": "Truth Bar",
+      "food_type": "Brand"
+    }
+  ]
+}

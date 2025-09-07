@@ -1,0 +1,83 @@
+{
+  "restaurant": "Flavia",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:07:36.159Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/flavia.json",
+  "items": [
+    {
+      "food_id": "1049935",
+      "food_name": "Dove Hot Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flavia/dove-hot-chocolate",
+      "brand_name": "Flavia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2328401",
+      "food_name": "Columbia Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flavia/columbia-coffee",
+      "brand_name": "Flavia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1548099",
+      "food_name": "Green Tea with Jasmine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flavia/green-tea-with-jasmine",
+      "brand_name": "Flavia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7936283",
+      "food_name": "Fabulous Froth Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flavia/fabulous-froth-original",
+      "brand_name": "Flavia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1500606",
+      "food_name": "Hazelnut Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flavia/hazelnut-coffee",
+      "brand_name": "Flavia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1588194",
+      "food_name": "Milky Way Swirl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flavia/milky-way-swirl",
+      "brand_name": "Flavia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2962130",
+      "food_name": "Chai Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flavia/chai-tea",
+      "brand_name": "Flavia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1662984",
+      "food_name": "French Vanilla Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flavia/french-vanilla-coffee",
+      "brand_name": "Flavia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "774516",
+      "food_name": "Cappucino Latte Swirl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/flavia/cappucino-latte-swirl",
+      "brand_name": "Flavia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "119505",
+      "food_name": "Flavia Filterpack Hot Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dove/flavia-filterpack-hot-chocolate",
+      "brand_name": "Dove",
+      "food_type": "Brand"
+    }
+  ]
+}

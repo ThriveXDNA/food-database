@@ -1,0 +1,41 @@
+{
+  "restaurant": "Francis Mediterranean Bakery",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 491,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:15:44.631Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/francis_mediterranean_bakery.json",
+  "items": [
+    {
+      "food_id": "2084805",
+      "food_name": "Whole Wheat Pita Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/francis-mediterranean-bakery/whole-wheat-pita-bread",
+      "brand_name": "Francis Mediterranean Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7842280",
+      "food_name": "Pita Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/francis-mediterranean-bakery/pita-bread",
+      "brand_name": "Francis Mediterranean Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79235",
+      "food_name": "Mediterranean Exotic Vegetable Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/terra/mediterranean-exotic-vegetable-chips",
+      "brand_name": "Terra",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "306099",
+      "food_name": "Exotic Mediterranean Vegetable Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/terra/exotic-mediterranean-vegetable-chips",
+      "brand_name": "Terra",
+      "food_type": "Brand"
+    }
+  ]
+}

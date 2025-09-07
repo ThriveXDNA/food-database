@@ -1,0 +1,41 @@
+{
+  "restaurant": "Club House",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 840,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:39:39.627Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/club_house.json",
+  "items": [
+    {
+      "food_id": "75511",
+      "food_name": "White Cheddar Popcorn Seasoning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/club-house/white-cheddar-popcorn-seasoning",
+      "brand_name": "Club House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75587",
+      "food_name": "Beer Batter Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/club-house/beer-batter-mix",
+      "brand_name": "Club House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3813900",
+      "food_name": "Italiano Seasoning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/club-house/italiano-seasoning",
+      "brand_name": "Club House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73907360",
+      "food_name": "Turkey Gravy Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/club-house/turkey-gravy-mix",
+      "brand_name": "Club House",
+      "food_type": "Brand"
+    }
+  ]
+}

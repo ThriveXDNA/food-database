@@ -1,0 +1,27 @@
+{
+  "restaurant": "Nantucket Supreme",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 428,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:37:52.534Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/nantucket_supreme.json",
+  "items": [
+    {
+      "food_id": "70188",
+      "food_name": "Bay Scallops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nantucket-supreme/bay-scallops",
+      "brand_name": "Nantucket Supreme",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3209542",
+      "food_name": "Shrimp & Pepper Jack Cheese Wrapped in Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nantucket-supreme/shrimp-and-pepper-jack-cheese-wrapped-in-bacon",
+      "brand_name": "Nantucket Supreme",
+      "food_type": "Brand"
+    }
+  ]
+}

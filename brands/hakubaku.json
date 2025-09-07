@@ -1,0 +1,41 @@
+{
+  "brand_name": "Hakubaku",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:01:37.303Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/hakubaku.json",
+  "items": [
+    {
+      "food_id": "3702468",
+      "food_name": "Organic Ramen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hakubaku/organic-ramen",
+      "brand_name": "Hakubaku",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2599164",
+      "food_name": "Organic Udon Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hakubaku/organic-udon-noodles",
+      "brand_name": "Hakubaku",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3163365",
+      "food_name": "Organic Soba Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hakubaku/organic-soba-noodles",
+      "brand_name": "Hakubaku",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5169213",
+      "food_name": "Organic Somen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hakubaku/organic-somen",
+      "brand_name": "Hakubaku",
+      "food_type": "Brand"
+    }
+  ]
+}

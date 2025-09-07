@@ -1,0 +1,55 @@
+{
+  "restaurant": "Sushi Chef",
+  "total_items": 6,
+  "pages_extracted": 4,
+  "total_search_results": 166,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:40:27.365Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sushi_chef.json",
+  "items": [
+    {
+      "food_id": "4444167",
+      "food_name": "Clear Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sushi-chef/clear-soup",
+      "brand_name": "Sushi Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1088932",
+      "food_name": "Panko",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sushi-chef/panko",
+      "brand_name": "Sushi Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152471",
+      "food_name": "Japanese Style White Miso Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sushi-chef/japanese-style-white-miso-soup",
+      "brand_name": "Sushi Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79888001",
+      "food_name": "Mirin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sushi-chef/mirin",
+      "brand_name": "Sushi Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5558318",
+      "food_name": "Japanese Sesame Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sushi-chef/japanese-sesame-oil",
+      "brand_name": "Sushi Chef",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "371162",
+      "food_name": "Red Miso Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sushi-chef/red-miso-soup",
+      "brand_name": "Sushi Chef",
+      "food_type": "Brand"
+    }
+  ]
+}

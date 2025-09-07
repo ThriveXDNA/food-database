@@ -1,0 +1,62 @@
+{
+  "restaurant": "Omission",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:03:08.001Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/omission.json",
+  "items": [
+    {
+      "food_id": "34945698",
+      "food_name": "IPA",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/omission/ipa",
+      "brand_name": "Omission",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15753781",
+      "food_name": "Golden Ale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/omission/golden-ale",
+      "brand_name": "Omission",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83049836",
+      "food_name": "Wheat Ale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/omission/wheat-ale",
+      "brand_name": "Omission",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11048200",
+      "food_name": "Lager",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/omission/lager",
+      "brand_name": "Omission",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9925566",
+      "food_name": "Pale Ale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/omission/pale-ale",
+      "brand_name": "Omission",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70830177",
+      "food_name": "Omission Pale Ale, Bottle, 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/outback-steakhouse/omission-pale-ale-bottle-12-oz",
+      "brand_name": "Outback Steakhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70830161",
+      "food_name": "Omission Lager, Bottle, 12 oz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/outback-steakhouse/omission-lager-bottle-12-oz",
+      "brand_name": "Outback Steakhouse",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "restaurant": "Original Bagel",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 3671,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:01:35.324Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/original_bagel.json",
+  "items": [
+    {
+      "food_id": "274429",
+      "food_name": "Original Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/weight-watchers/original-bagel",
+      "brand_name": "Weight Watchers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1504800",
+      "food_name": "Original Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natures-own/original-bagel",
+      "brand_name": "Nature's Own",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69619391",
+      "food_name": "Original Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/franz/original-bagel",
+      "brand_name": "Franz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46975943",
+      "food_name": "Everything Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-bagel/everything-bagel",
+      "brand_name": "Original Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21574935",
+      "food_name": "Plain Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-bagel/plain-bagel",
+      "brand_name": "Original Bagel",
+      "food_type": "Brand"
+    }
+  ]
+}

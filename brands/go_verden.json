@@ -1,0 +1,27 @@
+{
+  "brand_name": "Go Verden",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 357,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:23:54.964Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/go_verden.json",
+  "items": [
+    {
+      "food_id": "39219906",
+      "food_name": "Mashed Avocado",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/go-verden/mashed-avocado",
+      "brand_name": "Go Verden",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43458228",
+      "food_name": "All Natural Guacamole Classic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/go-verden/all-natural-guacamole-classic",
+      "brand_name": "Go Verden",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Bonduelle",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:33:20.480Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bonduelle.json",
+  "items": [
+    {
+      "food_id": "31235018",
+      "food_name": "Harvest Bowl - Chipotle Chicken Veggie & Rice Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bonduelle/harvest-bowl-chipotle-chicken-veggie-rice-bowl",
+      "brand_name": "Bonduelle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50859857",
+      "food_name": "Peas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bonduelle/peas",
+      "brand_name": "Bonduelle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97708511",
+      "food_name": "Asian Style with Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bonduelle/asian-style-with-chicken",
+      "brand_name": "Bonduelle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81142279",
+      "food_name": "Lenticchie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bonduelle/lenticchie",
+      "brand_name": "Bonduelle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51022774",
+      "food_name": "Red Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bonduelle/red-beans",
+      "brand_name": "Bonduelle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107484247",
+      "food_name": "Grilled Chicken Caesar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bonduelle/grilled-chicken-caesar",
+      "brand_name": "Bonduelle",
+      "food_type": "Brand"
+    }
+  ]
+}

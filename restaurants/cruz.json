@@ -1,0 +1,48 @@
+{
+  "restaurant": "Cruz",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:34:36.115Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cruz.json",
+  "items": [
+    {
+      "food_id": "1651636",
+      "food_name": "Burrito Size Flour Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cruz/burrito-size-flour-tortillas",
+      "brand_name": "Cruz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1192002",
+      "food_name": "Soft Taco Size Flour Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cruz/soft-taco-size-flour-tortillas",
+      "brand_name": "Cruz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73641",
+      "food_name": "Soft Baked Santa Cruz Oatmeal Raisin Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pepperidge-farm/soft-baked-santa-cruz-oatmeal-raisin-cookies",
+      "brand_name": "Pepperidge Farm",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85119058",
+      "food_name": "Italian Cruz Po'boy Sandwich - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jasons-deli/italian-cruz-poboy-sandwich-regular",
+      "brand_name": "Jason's Deli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85119065",
+      "food_name": "Italian Cruz Po'boy Sandwich  - Half",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jasons-deli/italian-cruz-poboy-sandwich-half",
+      "brand_name": "Jason's Deli",
+      "food_type": "Brand"
+    }
+  ]
+}

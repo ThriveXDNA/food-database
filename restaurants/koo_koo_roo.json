@@ -1,0 +1,27 @@
+{
+  "restaurant": "Koo Koo Roo",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:05:41.518Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/koo_koo_roo.json",
+  "items": [
+    {
+      "food_id": "188147",
+      "food_name": "Butternut Squash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/koo-koo-roo/butternut-squash",
+      "brand_name": "Koo Koo Roo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "188137",
+      "food_name": "Rotisserie Chicken - Breast & Wing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/koo-koo-roo/rotisserie-chicken---breast-and-wing",
+      "brand_name": "Koo Koo Roo",
+      "food_type": "Brand"
+    }
+  ]
+}

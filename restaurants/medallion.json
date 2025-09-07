@@ -1,0 +1,48 @@
+{
+  "restaurant": "Medallion",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:59:17.822Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/medallion.json",
+  "items": [
+    {
+      "food_id": "12736535",
+      "food_name": "Roasted & Salted Cashews Halves & Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/medallion/roasted-salted-cashews-halves-pieces",
+      "brand_name": "Medallion",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5474931",
+      "food_name": "Salted Mixed Nuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/medallion/salted-mixed-nuts",
+      "brand_name": "Medallion",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13633972",
+      "food_name": "Cashews",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/medallion/cashews",
+      "brand_name": "Medallion",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2231320",
+      "food_name": "Original Rounds Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/medallion/original-rounds-tortilla-chips",
+      "brand_name": "Medallion",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "839074",
+      "food_name": "Potato Broccoli Medallion",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ikea/potato-broccoli-medallion",
+      "brand_name": "Ikea",
+      "food_type": "Brand"
+    }
+  ]
+}

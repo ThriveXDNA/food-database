@@ -1,0 +1,20 @@
+{
+  "restaurant": "Cougar Mountain",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 309,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:58:10.586Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cougar_mountain.json",
+  "items": [
+    {
+      "food_id": "16108430",
+      "food_name": "Original Chocolate Chunk (99g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cougar-mountain/original-chocolate-chunk-(99g)",
+      "brand_name": "Cougar Mountain",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "restaurant": "Rib City",
+  "total_items": 5,
+  "pages_extracted": 5,
+  "total_search_results": 232,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:13:30.690Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rib_city.json",
+  "items": [
+    {
+      "food_id": "1909719",
+      "food_name": "Baby Back Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rib-city/baby-back-ribs",
+      "brand_name": "Rib City",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11703896",
+      "food_name": "Corn on The Cob",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rib-city/corn-on-the-cob",
+      "brand_name": "Rib City",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7571037",
+      "food_name": "Sweet Potato Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rib-city/sweet-potato-fries",
+      "brand_name": "Rib City",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7571043",
+      "food_name": "Garlic Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rib-city/garlic-toast",
+      "brand_name": "Rib City",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10550876",
+      "food_name": "Baked Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rib-city/baked-beans",
+      "brand_name": "Rib City",
+      "food_type": "Brand"
+    }
+  ]
+}

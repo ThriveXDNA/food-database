@@ -1,0 +1,27 @@
+{
+  "restaurant": "Famoso",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:17:29.007Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/famoso.json",
+  "items": [
+    {
+      "food_id": "31886",
+      "food_name": "Roasted Red Pepper",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/famoso/roasted-red-pepper",
+      "brand_name": "Famoso",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40975",
+      "food_name": "Bow Tie Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/famoso/bow-tie-pasta",
+      "brand_name": "Famoso",
+      "food_type": "Brand"
+    }
+  ]
+}

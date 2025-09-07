@@ -1,0 +1,83 @@
+{
+  "restaurant": "VH Sauces",
+  "total_items": 10,
+  "pages_extracted": 2,
+  "total_search_results": 53,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:38:30.444Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/vh_sauces.json",
+  "items": [
+    {
+      "food_id": "58810",
+      "food_name": "Soya Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vh-sauces/soya-sauce",
+      "brand_name": "VH Sauces",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88841",
+      "food_name": "Sweet & Sour Dipping Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vh-sauces/sweet-and-sour-dipping-sauce",
+      "brand_name": "VH Sauces",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58811",
+      "food_name": "Reduced Sodium Soya Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vh-sauces/reduced-sodium-soya-sauce",
+      "brand_name": "VH Sauces",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58814",
+      "food_name": "General Tao Stir-Fry Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vh-sauces/general-tao-stir-fry-sauce",
+      "brand_name": "VH Sauces",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "102703",
+      "food_name": "Teriyaki Stir-Fry Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vh-sauces/teriyaki-stir-fry-sauce",
+      "brand_name": "VH Sauces",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98264",
+      "food_name": "Indian Market Butter Chicken Cooking Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vh-sauces/indian-market-butter-chicken-cooking-sauce",
+      "brand_name": "VH Sauces",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58815",
+      "food_name": "Honey Garlic Cooking Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vh-sauces/honey-garlic-cooking-sauce",
+      "brand_name": "VH Sauces",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58817",
+      "food_name": "Plum Dipping Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vh-sauces/plum-dipping-sauce",
+      "brand_name": "VH Sauces",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58816",
+      "food_name": "Pineapple Cooking Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vh-sauces/pineapple-cooking-sauce",
+      "brand_name": "VH Sauces",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58819",
+      "food_name": "Szechwan Stir-Fry Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vh-sauces/szechwan-stir-fry-sauce",
+      "brand_name": "VH Sauces",
+      "food_type": "Brand"
+    }
+  ]
+}

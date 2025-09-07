@@ -1,0 +1,27 @@
+{
+  "restaurant": "Dunn Brothers",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:09:33.928Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dunn_brothers.json",
+  "items": [
+    {
+      "food_id": "75478619",
+      "food_name": "Vanilla Iced Nirvana (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunn-brothers/vanilla-iced-nirvana-(medium)",
+      "brand_name": "Dunn Brothers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12116055",
+      "food_name": "Chocolate Steamed Nirvana",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dunn-brothers/chocolate-steamed-nirvana",
+      "brand_name": "Dunn Brothers",
+      "food_type": "Brand"
+    }
+  ]
+}

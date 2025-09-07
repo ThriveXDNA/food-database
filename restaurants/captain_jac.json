@@ -1,0 +1,27 @@
+{
+  "restaurant": "Captain Jac",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 11,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:41:53.448Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/captain_jac.json",
+  "items": [
+    {
+      "food_id": "5462879",
+      "food_name": "Imitation Crab",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/captain-jac/imitation-crab",
+      "brand_name": "Captain Jac",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9563886",
+      "food_name": "Captain Jack's Buried Treasure",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/millers-ale-house/captain-jacks-buried-treasure",
+      "brand_name": "Miller's Ale House",
+      "food_type": "Brand"
+    }
+  ]
+}

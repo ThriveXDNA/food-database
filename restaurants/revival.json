@@ -1,0 +1,41 @@
+{
+  "restaurant": "Revival",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:06:00.332Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/revival.json",
+  "items": [
+    {
+      "food_id": "81420",
+      "food_name": "Honey Mustard Heaven Soy Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/revival/honey-mustard-heaven-soy-chips",
+      "brand_name": "Revival",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67340272",
+      "food_name": "Craft Almond Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/revival/craft-almond-butter",
+      "brand_name": "Revival",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81393",
+      "food_name": "Smart-Carb Chocolate Raspberry Zing Soy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/revival/smart-carb-chocolate-raspberry-zing-soy-bar",
+      "brand_name": "Revival",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73600484",
+      "food_name": "Peach Revival",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/guayaki/peach-revival",
+      "brand_name": "Guayaki",
+      "food_type": "Brand"
+    }
+  ]
+}

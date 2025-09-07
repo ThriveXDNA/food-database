@@ -1,0 +1,34 @@
+{
+  "restaurant": "Indian River",
+  "total_items": 3,
+  "pages_extracted": 3,
+  "total_search_results": 123,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:38:41.151Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/indian_river.json",
+  "items": [
+    {
+      "food_id": "4500881",
+      "food_name": "Orange Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indian-river/orange-juice",
+      "brand_name": "Indian River",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1816902",
+      "food_name": "Grapefruit Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/indian-river/grapefruit-juice",
+      "brand_name": "Indian River",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16830786",
+      "food_name": "Indian River Grapefruit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spiked-seltzer/indian-river-grapefruit",
+      "brand_name": "Spiked Seltzer",
+      "food_type": "Brand"
+    }
+  ]
+}

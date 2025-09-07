@@ -1,0 +1,69 @@
+{
+  "restaurant": "Vessel Kitchen",
+  "total_items": 8,
+  "pages_extracted": 2,
+  "total_search_results": 53,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:54:24.266Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/vessel_kitchen.json",
+  "items": [
+    {
+      "food_id": "58025705",
+      "food_name": "Sweet Potato Hash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vessel-kitchen/sweet-potato-hash",
+      "brand_name": "Vessel Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66609706",
+      "food_name": "Roasted Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vessel-kitchen/roasted-chicken-breast",
+      "brand_name": "Vessel Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63324133",
+      "food_name": "Braised Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vessel-kitchen/braised-beef",
+      "brand_name": "Vessel Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62390556",
+      "food_name": "Poke Tuna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vessel-kitchen/poke-tuna",
+      "brand_name": "Vessel Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58025579",
+      "food_name": "Shredded Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vessel-kitchen/shredded-chicken",
+      "brand_name": "Vessel Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62990971",
+      "food_name": "Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vessel-kitchen/hummus",
+      "brand_name": "Vessel Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73611895",
+      "food_name": "Chicken and Grains",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vessel-kitchen/chicken-and-grains",
+      "brand_name": "Vessel Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "58303659",
+      "food_name": "Cashew Caesar Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vessel-kitchen/cashew-caesar-broccoli",
+      "brand_name": "Vessel Kitchen",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "restaurant": "Kopiko",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:07:08.584Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kopiko.json",
+  "items": [
+    {
+      "food_id": "47739306",
+      "food_name": "Coffee Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kopiko/coffee-candy",
+      "brand_name": "Kopiko",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2567870",
+      "food_name": "Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kopiko/coffee",
+      "brand_name": "Kopiko",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46178886",
+      "food_name": "Cappucino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kopiko/cappucino",
+      "brand_name": "Kopiko",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3612265",
+      "food_name": "Brown Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kopiko/brown-coffee",
+      "brand_name": "Kopiko",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64115482",
+      "food_name": "Blanca",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kopiko/blanca",
+      "brand_name": "Kopiko",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "249808",
+      "food_name": "Mini Coffee Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kopiko/mini-coffee-candy",
+      "brand_name": "Kopiko",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101870033",
+      "food_name": "Cappuccino Candy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kopiko/cappuccino-candy",
+      "brand_name": "Kopiko",
+      "food_type": "Brand"
+    }
+  ]
+}

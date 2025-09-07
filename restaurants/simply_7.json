@@ -1,0 +1,69 @@
+{
+  "restaurant": "Simply 7",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 807,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:53:46.764Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/simply_7.json",
+  "items": [
+    {
+      "food_id": "5369511",
+      "food_name": "Lentil Chips with Sea Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-7/lentil-chips-with-sea-salt",
+      "brand_name": "Simply 7",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3142388",
+      "food_name": "Hummus Chips with Sea Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-7/hummus-chips-with-sea-salt",
+      "brand_name": "Simply 7",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42229064",
+      "food_name": "Veggie Straws Sea Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-7/veggie-straws-sea-salt",
+      "brand_name": "Simply 7",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95960754",
+      "food_name": "Chickpea Chips Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-7/chickpea-chips-hummus",
+      "brand_name": "Simply 7",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7124097",
+      "food_name": "Quinoa Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-7/quinoa-chips",
+      "brand_name": "Simply 7",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9238018",
+      "food_name": "Quinoa Chips Barbeque",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-7/quinoa-chips-barbeque",
+      "brand_name": "Simply 7",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30152177",
+      "food_name": "Quinoa Curls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-7/quinoa-curls",
+      "brand_name": "Simply 7",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7302717",
+      "food_name": "Quinoa Chips Cheddar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-7/quinoa-chips-cheddar",
+      "brand_name": "Simply 7",
+      "food_type": "Brand"
+    }
+  ]
+}

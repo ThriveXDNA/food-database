@@ -1,0 +1,62 @@
+{
+  "restaurant": "7 Days",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 405,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:46:55.474Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/7_days.json",
+  "items": [
+    {
+      "food_id": "1399883",
+      "food_name": "Soft Croissant with Vanilla Filling",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/7-days/soft-croissant-with-vanilla-filling",
+      "brand_name": "7 Days",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17944185",
+      "food_name": "Soft Croissant with Chocolate Cream Filling",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/7-days/soft-croissant-with-chocolate-cream-filling",
+      "brand_name": "7 Days",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53629809",
+      "food_name": "Mini Croissants with Chocolate Cream Filling",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/7-days/mini-croissants-with-chocolate-cream-filling",
+      "brand_name": "7 Days",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19087696",
+      "food_name": "Bagel Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/7-days/bagel-chips",
+      "brand_name": "7 Days",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53890111",
+      "food_name": "Cake Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/7-days/cake-bar",
+      "brand_name": "7 Days",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85292554",
+      "food_name": "Soft Croissant with Strawberry and Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/7-days/soft-croissant-with-strawberry-and-vanilla",
+      "brand_name": "7 Days",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45553190",
+      "food_name": "Pizzeti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/7-days/pizzeti",
+      "brand_name": "7 Days",
+      "food_type": "Brand"
+    }
+  ]
+}

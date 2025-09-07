@@ -1,0 +1,27 @@
+{
+  "restaurant": "Kung Fu Tea",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 2611,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:05:23.792Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kung_fu_tea.json",
+  "items": [
+    {
+      "food_id": "50215009",
+      "food_name": "Kung Fu Milk Green Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kung-fu-tea/kung-fu-milk-green-tea",
+      "brand_name": "Kung Fu Tea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65944953",
+      "food_name": "Bubbles (Medium)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kung-fu-tea/bubbles-(medium)",
+      "brand_name": "Kung Fu Tea",
+      "food_type": "Brand"
+    }
+  ]
+}

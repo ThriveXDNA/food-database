@@ -1,0 +1,34 @@
+{
+  "restaurant": "Rosa Mexicano",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 29,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:27:22.380Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rosa_mexicano.json",
+  "items": [
+    {
+      "food_id": "3120554",
+      "food_name": "Corn Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rosa-mexicano/corn-tortilla-chips",
+      "brand_name": "Rosa Mexicano",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6353590",
+      "food_name": "Guacamole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rosa-mexicano/guacamole",
+      "brand_name": "Rosa Mexicano",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46141",
+      "food_name": "Rosa Mexicano Chicken Breasts with Yucatan Spices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-direct/rosa-mexicano-chicken-breasts-with-yucatan-spices",
+      "brand_name": "Fresh Direct",
+      "food_type": "Brand"
+    }
+  ]
+}

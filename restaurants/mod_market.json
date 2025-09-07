@@ -1,0 +1,55 @@
+{
+  "restaurant": "Mod Market",
+  "total_items": 6,
+  "pages_extracted": 2,
+  "total_search_results": 98,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:21:04.727Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mod_market.json",
+  "items": [
+    {
+      "food_id": "3027418",
+      "food_name": "Steak Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-market/steak-sandwich",
+      "brand_name": "Mod Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5736676",
+      "food_name": "Thai Coconut Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-market/thai-coconut-salad",
+      "brand_name": "Mod Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5228698",
+      "food_name": "Green Chicken Chili",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-market/green-chicken-chili",
+      "brand_name": "Mod Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9873610",
+      "food_name": "Fiesta Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-market/fiesta-salad",
+      "brand_name": "Mod Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8710808",
+      "food_name": "Balsamic Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-market/balsamic-carrots",
+      "brand_name": "Mod Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4403470",
+      "food_name": "Pepe Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mod-market/pepe-pizza",
+      "brand_name": "Mod Market",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "restaurant": "Sea Mazz",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 1048,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:40:14.181Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sea_mazz.json",
+  "items": [
+    {
+      "food_id": "36274295",
+      "food_name": "Atlantic Cod",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sea-mazz/atlantic-cod",
+      "brand_name": "Sea Mazz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3413343",
+      "food_name": "Raw Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sea-mazz/raw-shrimp",
+      "brand_name": "Sea Mazz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6191494",
+      "food_name": "Deep Sea Dory Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sea-mazz/deep-sea-dory-fillets",
+      "brand_name": "Sea Mazz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11517713",
+      "food_name": "Lobster Tail",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sea-mazz/lobster-tail",
+      "brand_name": "Sea Mazz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99871548",
+      "food_name": "North Atlantic Lobster Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sea-mazz/north-atlantic-lobster-meat",
+      "brand_name": "Sea Mazz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44579979",
+      "food_name": "Atlantic Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sea-mazz/atlantic-salmon",
+      "brand_name": "Sea Mazz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36378688",
+      "food_name": "Wild Caught Haddock",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sea-mazz/wild-caught-haddock",
+      "brand_name": "Sea Mazz",
+      "food_type": "Brand"
+    }
+  ]
+}

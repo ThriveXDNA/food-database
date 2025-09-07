@@ -1,0 +1,27 @@
+{
+  "restaurant": "Papa Tubs",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 24,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:58:59.257Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/papa_tubs.json",
+  "items": [
+    {
+      "food_id": "31477151",
+      "food_name": "Bar-B-Que Pork Rinds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/papa-tubs/bar-b-que-pork-rinds",
+      "brand_name": "Papa Tubs",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16032319",
+      "food_name": "Pork Rinds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/papa-tubs/pork-rinds",
+      "brand_name": "Papa Tubs",
+      "food_type": "Brand"
+    }
+  ]
+}

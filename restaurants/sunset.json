@@ -1,0 +1,391 @@
+{
+  "restaurant": "Sunset",
+  "total_items": 54,
+  "pages_extracted": 2,
+  "total_search_results": 54,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:39:46.628Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sunset.json",
+  "items": [
+    {
+      "food_id": "13293249",
+      "food_name": "Mini Cucumbers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunset/mini-cucumbers",
+      "brand_name": "Sunset",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14141065",
+      "food_name": "Grape Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunset/grape-tomatoes",
+      "brand_name": "Sunset",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2835583",
+      "food_name": "Campari Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunset/campari-tomatoes",
+      "brand_name": "Sunset",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10308722",
+      "food_name": "Sweet Bell Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunset/sweet-bell-peppers",
+      "brand_name": "Sunset",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12525576",
+      "food_name": "One Sweet Pepper (Mini Peppers)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunset/one-sweet-pepper-(mini-peppers)",
+      "brand_name": "Sunset",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8436414",
+      "food_name": "Angel Sweet Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunset/angel-sweet-tomatoes",
+      "brand_name": "Sunset",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17898605",
+      "food_name": "Wild Wonders Gourmet Medley Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunset/wild-wonders-gourmet-medley-tomatoes",
+      "brand_name": "Sunset",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5551455",
+      "food_name": "Kumato Tomato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunset/kumato-tomato",
+      "brand_name": "Sunset",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77178057",
+      "food_name": "Flavor Bomb Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunset/flavor-bomb-tomatoes",
+      "brand_name": "Sunset",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96459412",
+      "food_name": "Qukes Mini Cucumbers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunset/qukes-mini-cucumbers",
+      "brand_name": "Sunset",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7601852",
+      "food_name": "One Sweet Cucumber",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunset/one-sweet-cucumber",
+      "brand_name": "Sunset",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2395710",
+      "food_name": "Zima Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunset/zima-tomatoes",
+      "brand_name": "Sunset",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3103431",
+      "food_name": "Spicy Mango Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunset/spicy-mango-shrimp",
+      "brand_name": "Sunset",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154342",
+      "food_name": "Sunset Chopped Salad with Brown Rice & White Beans - Vegetarian",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wahoos-fish-taco/sunset-chopped-salad-with-brown-rice-white-beans-vegetarian",
+      "brand_name": "Wahoo's Fish Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154345",
+      "food_name": "Sunset Chopped Salad with White Rice & Black Beans - Vegetarian",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wahoos-fish-taco/sunset-chopped-salad-with-white-rice-black-beans-vegetarian",
+      "brand_name": "Wahoo's Fish Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154340",
+      "food_name": "Sunset Chopped Salad with Brown Rice & Black Beans - Vegetarian",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wahoos-fish-taco/sunset-chopped-salad-with-brown-rice-black-beans-vegetarian",
+      "brand_name": "Wahoo's Fish Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154343",
+      "food_name": "Sunset Chopped Salad with White Rice & White Beans - Vegetarian",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wahoos-fish-taco/sunset-chopped-salad-with-white-rice-white-beans-vegetarian",
+      "brand_name": "Wahoo's Fish Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68412409",
+      "food_name": "Sunrise Sunset TimsBoost with Red Bull",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tim-hortons/sunrise-sunset-timsboost-with-red-bull",
+      "brand_name": "Tim Hortons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154290",
+      "food_name": "Sunset Chopped Salad with Charbroiled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wahoos-fish-taco/sunset-chopped-salad-with-charbroiled-chicken",
+      "brand_name": "Wahoo's Fish Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154296",
+      "food_name": "Sunset Chopped Salad with Blackened Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wahoos-fish-taco/sunset-chopped-salad-with-blackened-chicken",
+      "brand_name": "Wahoo's Fish Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154298",
+      "food_name": "Sunset Chopped Salad with Charbroiled Fish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wahoos-fish-taco/sunset-chopped-salad-with-charbroiled-fish",
+      "brand_name": "Wahoo's Fish Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154309",
+      "food_name": "Sunset Chopped Salad with Carne Asada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wahoos-fish-taco/sunset-chopped-salad-with-carne-asada",
+      "brand_name": "Wahoo's Fish Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154313",
+      "food_name": "Sunset Chopped Salad with Banzai Veggies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wahoos-fish-taco/sunset-chopped-salad-with-banzai-veggies",
+      "brand_name": "Wahoo's Fish Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70761918",
+      "food_name": "Casco Bay Cooler - Sunset Strawberry Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/casco-bay-cooler-sunset-strawberry-smoothie",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154302",
+      "food_name": "Sunset Chopped Salad with Blackened Fish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wahoos-fish-taco/sunset-chopped-salad-with-blackened-fish",
+      "brand_name": "Wahoo's Fish Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30237617",
+      "food_name": "Intense Dark Blood Orange Sunset",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ghirardelli/intense-dark-blood-orange-sunset",
+      "brand_name": "Ghirardelli",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154303",
+      "food_name": "Sunset Chopped Salad with Carnitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wahoos-fish-taco/sunset-chopped-salad-with-carnitas",
+      "brand_name": "Wahoo's Fish Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154312",
+      "food_name": "Sunset Chopped Salad with Salmon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wahoos-fish-taco/sunset-chopped-salad-with-salmon",
+      "brand_name": "Wahoo's Fish Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154314",
+      "food_name": "Sunset Chopped Salad with Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wahoos-fish-taco/sunset-chopped-salad-with-tofu",
+      "brand_name": "Wahoo's Fish Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75154570",
+      "food_name": "Sunset Chopped Salad with Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wahoos-fish-taco/sunset-chopped-salad-with-shrimp",
+      "brand_name": "Wahoo's Fish Taco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86534136",
+      "food_name": "Caribbean Sunset Seasonal Cocktails",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/firebirds/caribbean-sunset-seasonal-cocktails",
+      "brand_name": "Firebirds",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86534149",
+      "food_name": "Sunset Mezgarita Seasonal Cocktails",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/firebirds/sunset-mezgarita-seasonal-cocktails",
+      "brand_name": "Firebirds",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85347364",
+      "food_name": "Alabama Sunset, Take Out",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bjs-restaurant-brewhouse/alabama-sunset-take-out",
+      "brand_name": "BJ's Restaurant & Brewhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86132109",
+      "food_name": "Strawberry Sunset Lemonade, Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-johns/strawberry-sunset-lemonade-large",
+      "brand_name": "Taco John's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86132102",
+      "food_name": "Strawberry Sunset Lemonade, Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-johns/strawberry-sunset-lemonade-small",
+      "brand_name": "Taco John's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86132106",
+      "food_name": "Strawberry Sunset Lemonade, Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-johns/strawberry-sunset-lemonade-medium",
+      "brand_name": "Taco John's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3893360",
+      "food_name": "Sunset Wheat Beer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/leinenkugel/sunset-wheat-beer",
+      "brand_name": "Leinenkugel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20731421",
+      "food_name": "Pitaya Sunset Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/juice-it-up/pitaya-sunset-smoothie",
+      "brand_name": "Juice It Up",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63051861",
+      "food_name": "Tropical Sunset Barramundi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hello-fresh/tropical-sunset-barramundi",
+      "brand_name": "Hello Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203342",
+      "food_name": "Sunset Berry Sangria",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bahama-breeze/sunset-berry-sangria",
+      "brand_name": "Bahama Breeze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69130355",
+      "food_name": "Sunset Lemonade (Kids)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-robin/sunset-lemonade-(kids)",
+      "brand_name": "Red Robin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433623",
+      "food_name": "California Sunset Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/california-sunset-taco",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152359",
+      "food_name": "Sunset Passion Colada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/sunset-passion-colada",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1590903",
+      "food_name": "Sunset Wheat Beer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/leinenkugels/sunset-wheat-beer",
+      "brand_name": "Leinenkugel's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1769514",
+      "food_name": "Sunset Blush Wine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/franzia/sunset-blush-wine",
+      "brand_name": "Franzia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "568471",
+      "food_name": "Sunset Shrimp Scampi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/margaritaville/sunset-shrimp-scampi",
+      "brand_name": "Margaritaville",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74433528",
+      "food_name": "California Sunset Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-tortilla/california-sunset-bowl",
+      "brand_name": "California Tortilla",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104998037",
+      "food_name": "Sunrise Sunset Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tropical-smoothie-cafe/sunrise-sunset-smoothie",
+      "brand_name": "Tropical Smoothie Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10767256",
+      "food_name": "Grapefruit Sunset",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/grapefruit-sunset",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72205477",
+      "food_name": "Alabama Sunset",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bjs-restaurant-brewhouse/alabama-sunset",
+      "brand_name": "BJ's Restaurant & Brewhouse",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73582616",
+      "food_name": "Sunset Sangria",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yard-house/sunset-sangria",
+      "brand_name": "Yard House",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69126328",
+      "food_name": "Sunset Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-robin/sunset-lemonade",
+      "brand_name": "Red Robin",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50051684",
+      "food_name": "Caribbean Sunset",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tropicana/caribbean-sunset",
+      "brand_name": "Tropicana",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84111569",
+      "food_name": "Sicilian Sunset",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olive-garden/sicilian-sunset",
+      "brand_name": "Olive Garden",
+      "food_type": "Brand"
+    }
+  ]
+}

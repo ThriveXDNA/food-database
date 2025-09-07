@@ -1,0 +1,55 @@
+{
+  "restaurant": "Mystic Pizza",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 6387,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:20:33.929Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/mystic_pizza.json",
+  "items": [
+    {
+      "food_id": "220260",
+      "food_name": "Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mystic-pizza/pepperoni-pizza",
+      "brand_name": "Mystic Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1878086",
+      "food_name": "Buffalo Style Chicken Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mystic-pizza/buffalo-style-chicken-pizza",
+      "brand_name": "Mystic Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "545432",
+      "food_name": "Fire Roasted Veggie Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mystic-pizza/fire-roasted-veggie-pizza",
+      "brand_name": "Mystic Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23447624",
+      "food_name": "Spinach Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mystic-pizza/spinach-pizza",
+      "brand_name": "Mystic Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1701636",
+      "food_name": "Supreme Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mystic-pizza/supreme-pizza",
+      "brand_name": "Mystic Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1394532",
+      "food_name": "Cheese Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mystic-pizza/cheese-pizza",
+      "brand_name": "Mystic Pizza",
+      "food_type": "Brand"
+    }
+  ]
+}

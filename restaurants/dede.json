@@ -1,0 +1,41 @@
+{
+  "restaurant": "DeDe",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:09:32.644Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/dede.json",
+  "items": [
+    {
+      "food_id": "4929646",
+      "food_name": "Boba Milk Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dede/boba-milk-tea",
+      "brand_name": "DeDe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2046018",
+      "food_name": "Instant Thai Coffee Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dede/instant-thai-coffee-drink",
+      "brand_name": "DeDe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43947058",
+      "food_name": "Instant Boba Milk Tea",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dede/instant-boba-milk-tea",
+      "brand_name": "DeDe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9771968",
+      "food_name": "Instant Thai Tea with Cream/Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dede/instant-thai-tea-with-cream-sugar",
+      "brand_name": "DeDe",
+      "food_type": "Brand"
+    }
+  ]
+}

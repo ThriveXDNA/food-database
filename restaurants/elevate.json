@@ -1,0 +1,83 @@
+{
+  "restaurant": "Elevate",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:07:20.332Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/elevate.json",
+  "items": [
+    {
+      "food_id": "14682737",
+      "food_name": "Elevate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/shine-organics/elevate",
+      "brand_name": "Shine Organics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26097100",
+      "food_name": "Protein Powder Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevate/protein-powder-vanilla",
+      "brand_name": "Elevate",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15261358",
+      "food_name": "Organic Spring Mix, Cranberry & Nut Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevate/organic-spring-mix-cranberry-and-nut-salad",
+      "brand_name": "Elevate",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45052250",
+      "food_name": "Chocolate Protein Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevate/chocolate-protein-powder",
+      "brand_name": "Elevate",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12200114",
+      "food_name": "Kale Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevate/kale-caesar-salad",
+      "brand_name": "Elevate",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13580590",
+      "food_name": "Organic Power Grains Superfood Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevate/organic-power-grains-superfood-salad",
+      "brand_name": "Elevate",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14569325",
+      "food_name": "Organic Baby Greens & Ancient Grain Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevate/organic-baby-greens-and-ancient-grain-salad",
+      "brand_name": "Elevate",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20062143",
+      "food_name": "Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/elevate/coffee",
+      "brand_name": "Elevate",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47740222",
+      "food_name": "Elevate Protein Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vitality/elevate-protein-powder",
+      "brand_name": "Vitality",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39148768",
+      "food_name": "Keto Elevate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/biotrust/keto-elevate",
+      "brand_name": "BioTrust",
+      "food_type": "Brand"
+    }
+  ]
+}

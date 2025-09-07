@@ -1,0 +1,62 @@
+{
+  "restaurant": "Euro Classic",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 1951,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:29:25.236Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/euro_classic.json",
+  "items": [
+    {
+      "food_id": "56126253",
+      "food_name": "French Mini Beignets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/euro-classic/french-mini-beignets",
+      "brand_name": "Euro Classic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26335582",
+      "food_name": "Brioche Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/euro-classic/brioche-rolls",
+      "brand_name": "Euro Classic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45943228",
+      "food_name": "Whole Grain Brioche Burger Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/euro-classic/whole-grain-brioche-burger-buns",
+      "brand_name": "Euro Classic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54551259",
+      "food_name": "Chocolate Crepes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/euro-classic/chocolate-crepes",
+      "brand_name": "Euro Classic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66085531",
+      "food_name": "Ciabatta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/euro-classic/ciabatta",
+      "brand_name": "Euro Classic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37450254",
+      "food_name": "Authentic French Sliced Butter Brioche",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/euro-classic/authentic-french-sliced-butter-brioche",
+      "brand_name": "Euro Classic",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54799719",
+      "food_name": "Brioche Cinnamon Swirl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/euro-classic/brioche-cinnamon-swirl",
+      "brand_name": "Euro Classic",
+      "food_type": "Brand"
+    }
+  ]
+}

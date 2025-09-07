@@ -1,0 +1,27 @@
+{
+  "restaurant": "Grain Belt",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 1734,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:48:51.205Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/grain_belt.json",
+  "items": [
+    {
+      "food_id": "3521838",
+      "food_name": "Premium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grain-belt/premium",
+      "brand_name": "Grain Belt",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2932911",
+      "food_name": "Nordeast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grain-belt/nordeast",
+      "brand_name": "Grain Belt",
+      "food_type": "Brand"
+    }
+  ]
+}

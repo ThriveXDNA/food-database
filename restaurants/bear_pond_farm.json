@@ -1,0 +1,41 @@
+{
+  "restaurant": "Bear Pond Farm",
+  "total_items": 4,
+  "pages_extracted": 3,
+  "total_search_results": 126,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:49:27.440Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bear_pond_farm.json",
+  "items": [
+    {
+      "food_id": "23957605",
+      "food_name": "Artichoke Pesto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bear-pond-farm/artichoke-pesto",
+      "brand_name": "Bear Pond Farm",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12101319",
+      "food_name": "Premium Basil Pesto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bear-pond-farm/premium-basil-pesto",
+      "brand_name": "Bear Pond Farm",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24456603",
+      "food_name": "Cilantro Pesto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bear-pond-farm/cilantro-pesto",
+      "brand_name": "Bear Pond Farm",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36347257",
+      "food_name": "Spicy Vegan Pesto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bear-pond-farm/spicy-vegan-pesto",
+      "brand_name": "Bear Pond Farm",
+      "food_type": "Brand"
+    }
+  ]
+}

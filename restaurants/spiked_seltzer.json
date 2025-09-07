@@ -1,0 +1,41 @@
+{
+  "restaurant": "Spiked Seltzer",
+  "total_items": 4,
+  "pages_extracted": 3,
+  "total_search_results": 116,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:38:28.491Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/spiked_seltzer.json",
+  "items": [
+    {
+      "food_id": "27272033",
+      "food_name": "Spiked Seltzer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bon-viv/spiked-seltzer",
+      "brand_name": "Bon & Viv",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15672355",
+      "food_name": "Cape Cod Cranberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spiked-seltzer/cape-cod-cranberry",
+      "brand_name": "Spiked Seltzer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16830786",
+      "food_name": "Indian River Grapefruit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spiked-seltzer/indian-river-grapefruit",
+      "brand_name": "Spiked Seltzer",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17222578",
+      "food_name": "Pomegranate Spiked Seltzer Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-shell-house/pomegranate-spiked-seltzer-water",
+      "brand_name": "The Shell House",
+      "food_type": "Brand"
+    }
+  ]
+}

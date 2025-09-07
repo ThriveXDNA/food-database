@@ -1,0 +1,20 @@
+{
+  "restaurant": "Hot off The Grill",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 4060,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:30:20.655Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/hot_off_the_grill.json",
+  "items": [
+    {
+      "food_id": "36584914",
+      "food_name": "Taco Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hot-off-the-grill/taco-stick",
+      "brand_name": "Hot off The Grill",
+      "food_type": "Brand"
+    }
+  ]
+}

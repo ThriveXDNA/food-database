@@ -1,0 +1,790 @@
+{
+  "restaurant": "In-N-Out",
+  "total_items": 111,
+  "pages_extracted": 6,
+  "total_search_results": 2754,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:07:17.715Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/in_n_out.json",
+  "items": [
+    {
+      "food_id": "25786",
+      "food_name": "French Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/french-fries",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289829",
+      "food_name": "Double-Double w/Onion",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/double-double-w-onion",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289801",
+      "food_name": "Cheeseburger w/Onion",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/cheeseburger-w-onion",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289837",
+      "food_name": "Double-Double w/Onion Protein Style (Bun Replaced with Lettuce)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/double-double-w-onion-protein-style-(bun-replaced-with-lettuce)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85145807",
+      "food_name": "Double Double Protein Style with No Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/double-double-protein-style-with-no-spread",
+      "brand_name": "in-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289818",
+      "food_name": "Cheeseburger w/Onion Protein Style (Bun Replaced with Lettuce)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/cheeseburger-w-onion-protein-style-(bun-replaced-with-lettuce)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1869852",
+      "food_name": "Flying Dutchman",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/flying-dutchman",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289759",
+      "food_name": "Hamburger w/Onion",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/hamburger-w-onion",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289798",
+      "food_name": "Hamburger w/Onion Protein Style (Bun Replaced with Lettuce)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/hamburger-w-onion-protein-style-(bun-replaced-with-lettuce)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1666969",
+      "food_name": "Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/spread",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "117079",
+      "food_name": "Chocolate Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/chocolate-shake",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289834",
+      "food_name": "Double-Double w/Onion with Mustard & Ketchup Instead of Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/double-double-w-onion-with-mustard-ketchup-instead-of-spread",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "117081",
+      "food_name": "Strawberry Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/strawberry-shake",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1790264",
+      "food_name": "3X3",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/3x3",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "102697344",
+      "food_name": "Meat Patty",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/meat-patty",
+      "brand_name": "in-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "117080",
+      "food_name": "Vanilla Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/vanilla-shake",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289814",
+      "food_name": "Cheeseburger w/Onion with Mustard & Ketchup Instead of Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/cheeseburger-w-onion-with-mustard-ketchup-instead-of-spread",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290494",
+      "food_name": "Pink Lemonade with Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/pink-lemonade-with-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90320041",
+      "food_name": "Grilled Cheese Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/grilled-cheese-sandwich",
+      "brand_name": "in-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289777",
+      "food_name": "Hamburger w/Onion with Mustard & Ketchup instead of Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/hamburger-w-onion-with-mustard-ketchup-instead-of-spread",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290493",
+      "food_name": "Pink Lemonade with Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/pink-lemonade-with-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290060",
+      "food_name": "Dr Pepper with Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/dr-pepper-with-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289848",
+      "food_name": "Coca-Cola with Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/coca-cola-with-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "117092",
+      "food_name": "Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/milk",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290500",
+      "food_name": "Minute Maid Zero Sugar Lemonade with Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/minute-maid-zero-sugar-lemonade-with-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289859",
+      "food_name": "Diet Coke with Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/diet-coke-with-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290485",
+      "food_name": "Barq’s Root Beer with Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/barq%E2%80%99s-root-beer-with-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290708",
+      "food_name": "Pink Lemonade without Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/pink-lemonade-without-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "117091",
+      "food_name": "Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/coffee",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289850",
+      "food_name": "Coca-Cola with Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/coca-cola-with-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290551",
+      "food_name": "Unsweetened Iced Tea with Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/unsweetened-iced-tea-with-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289914",
+      "food_name": "Diet Coke with Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/diet-coke-with-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024671",
+      "food_name": "Cherry Coke with Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/cherry-coke-with-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290502",
+      "food_name": "Minute Maid Zero Sugar Lemonade with Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/minute-maid-zero-sugar-lemonade-with-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024670",
+      "food_name": "Cherry Coke with Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/cherry-coke-with-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290004",
+      "food_name": "7UP with Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/7up-with-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290562",
+      "food_name": "Sweet Iced Tea with Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/sweet-iced-tea-with-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290669",
+      "food_name": "Diet Coke without Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/diet-coke-without-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290713",
+      "food_name": "Minute Maid Zero Sugar Lemonade without Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/minute-maid-zero-sugar-lemonade-without-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290495",
+      "food_name": "Pink Lemonade with Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/pink-lemonade-with-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289839",
+      "food_name": "Hot Cocoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/hot-cocoa",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024684",
+      "food_name": "Cherry Coke without Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/cherry-coke-without-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290497",
+      "food_name": "Minute Maid Zero Sugar Lemonade with Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/minute-maid-zero-sugar-lemonade-with-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290706",
+      "food_name": "Pink Lemonade without Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/pink-lemonade-without-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290566",
+      "food_name": "Barq’s Caffeine Free Root Beer with Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/barq%E2%80%99s-caffeine-free-root-beer-with-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290709",
+      "food_name": "Pink Lemonade without Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/pink-lemonade-without-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289845",
+      "food_name": "Coca-Cola with Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/coca-cola-with-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290057",
+      "food_name": "Dr Pepper with Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/dr-pepper-with-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290076",
+      "food_name": "Dr Pepper with Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/dr-pepper-with-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290688",
+      "food_name": "Barq’s Root Beer without Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/barq%E2%80%99s-root-beer-without-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290719",
+      "food_name": "Unsweetened Iced Tea without Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/unsweetened-iced-tea-without-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290488",
+      "food_name": "Barq’s Root Beer with Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/barq%E2%80%99s-root-beer-with-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290572",
+      "food_name": "Coca-Cola without Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/coca-cola-without-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290715",
+      "food_name": "Minute Maid Zero Sugar Lemonade without Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/minute-maid-zero-sugar-lemonade-without-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024672",
+      "food_name": "Cherry Coke with Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/cherry-coke-with-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290007",
+      "food_name": "7UP with Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/7up-with-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290490",
+      "food_name": "Barq’s Root Beer with Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/barq%E2%80%99s-root-beer-with-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290496",
+      "food_name": "Pink Lemonade with Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/pink-lemonade-with-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290508",
+      "food_name": "Unsweetened Iced Tea with Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/unsweetened-iced-tea-with-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290564",
+      "food_name": "Sweet Iced Tea with Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/sweet-iced-tea-with-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290668",
+      "food_name": "Diet Coke without Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/diet-coke-without-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290675",
+      "food_name": "7UP without Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/7up-without-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290679",
+      "food_name": "Dr Pepper without Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/dr-pepper-without-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290685",
+      "food_name": "Barq’s Root Beer without Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/barq%E2%80%99s-root-beer-without-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290727",
+      "food_name": "Unsweetened Iced Tea without Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/unsweetened-iced-tea-without-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290731",
+      "food_name": "Sweet Iced Tea without Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/sweet-iced-tea-without-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290749",
+      "food_name": "Barq’s Caffeine Free Root Beer without Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/barq%E2%80%99s-caffeine-free-root-beer-without-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290751",
+      "food_name": "Barq’s Caffeine Free Root Beer without Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/barq%E2%80%99s-caffeine-free-root-beer-without-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024678",
+      "food_name": "Cherry Coke without Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/cherry-coke-without-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024685",
+      "food_name": "Cherry Coke without Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/cherry-coke-without-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024815",
+      "food_name": "Hot Cocoa with Marshmallows",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/hot-cocoa-with-marshmallows",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289918",
+      "food_name": "Diet Coke with Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/diet-coke-with-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290003",
+      "food_name": "7UP with Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/7up-with-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290155",
+      "food_name": "Barq’s Root Beer with Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/barq%E2%80%99s-root-beer-with-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290533",
+      "food_name": "Unsweetened Iced Tea with Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/unsweetened-iced-tea-with-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290571",
+      "food_name": "Coca-Cola without Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/coca-cola-without-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290723",
+      "food_name": "Unsweetened Iced Tea without Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/unsweetened-iced-tea-without-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024687",
+      "food_name": "Cherry Coke without Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/cherry-coke-without-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289999",
+      "food_name": "Diet Coke with Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/diet-coke-with-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290079",
+      "food_name": "Dr Pepper with Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/dr-pepper-with-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290569",
+      "food_name": "Barq’s Caffeine Free Root Beer with Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/barq%E2%80%99s-caffeine-free-root-beer-with-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290574",
+      "food_name": "Coca-Cola without Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/coca-cola-without-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290671",
+      "food_name": "Diet Coke without Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/diet-coke-without-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290676",
+      "food_name": "7UP without Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/7up-without-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290678",
+      "food_name": "7UP without Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/7up-without-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290681",
+      "food_name": "Dr Pepper without Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/dr-pepper-without-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290712",
+      "food_name": "Pink Lemonade without Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/pink-lemonade-without-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290716",
+      "food_name": "Minute Maid Zero Sugar Lemonade without Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/minute-maid-zero-sugar-lemonade-without-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290748",
+      "food_name": "Sweet Iced Tea without Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/sweet-iced-tea-without-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86024673",
+      "food_name": "Cherry Coke with Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/cherry-coke-with-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73289852",
+      "food_name": "Coca-Cola with Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/coca-cola-with-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290056",
+      "food_name": "7UP with Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/7up-with-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290507",
+      "food_name": "Minute Maid Zero Sugar Lemonade with Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/minute-maid-zero-sugar-lemonade-with-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290560",
+      "food_name": "Unsweetened Iced Tea with Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/unsweetened-iced-tea-with-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290561",
+      "food_name": "Sweet Iced Tea with Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/sweet-iced-tea-with-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290565",
+      "food_name": "Sweet Iced Tea with Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/sweet-iced-tea-with-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290567",
+      "food_name": "Barq’s Caffeine Free Root Beer with Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/barq%E2%80%99s-caffeine-free-root-beer-with-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290568",
+      "food_name": "Barq’s Caffeine Free Root Beer with Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/barq%E2%80%99s-caffeine-free-root-beer-with-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290576",
+      "food_name": "Coca-Cola without Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/coca-cola-without-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290673",
+      "food_name": "Diet Coke without Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/diet-coke-without-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290674",
+      "food_name": "7UP without Ice (Sm)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/7up-without-ice-(sm)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290680",
+      "food_name": "Dr Pepper without Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/dr-pepper-without-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290682",
+      "food_name": "Dr Pepper without Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/dr-pepper-without-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290687",
+      "food_name": "Barq’s Root Beer without Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/barq%E2%80%99s-root-beer-without-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290704",
+      "food_name": "Barq’s Root Beer without Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/barq%E2%80%99s-root-beer-without-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290718",
+      "food_name": "Minute Maid Zero Sugar Lemonade without Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/minute-maid-zero-sugar-lemonade-without-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290725",
+      "food_name": "Unsweetened Iced Tea without Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/unsweetened-iced-tea-without-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290732",
+      "food_name": "Sweet Iced Tea without Ice (Med)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/sweet-iced-tea-without-ice-(med)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290734",
+      "food_name": "Sweet Iced Tea without Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/sweet-iced-tea-without-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290753",
+      "food_name": "Barq’s Caffeine Free Root Beer without Ice (Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/barq%E2%80%99s-caffeine-free-root-beer-without-ice-(lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73290754",
+      "food_name": "Barq’s Caffeine Free Root Beer without Ice (X-Lg)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/in-n-out/barq%E2%80%99s-caffeine-free-root-beer-without-ice-(x-lg)",
+      "brand_name": "In-N-Out",
+      "food_type": "Brand"
+    }
+  ]
+}

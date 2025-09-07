@@ -1,0 +1,34 @@
+{
+  "restaurant": "Genuine Steak House Brand",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 2452,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:14:26.898Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/genuine_steak_house_brand.json",
+  "items": [
+    {
+      "food_id": "748309",
+      "food_name": "Beef Ribeye Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/genuine-steak-house-brand/beef-ribeye-steak",
+      "brand_name": "Genuine Steak House Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1530243",
+      "food_name": "Chuck Tender Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/genuine-steak-house-brand/chuck-tender-steak",
+      "brand_name": "Genuine Steak House Brand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "690314",
+      "food_name": "Beef Eye of Round Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/genuine-steak-house-brand/beef-eye-of-round-steak",
+      "brand_name": "Genuine Steak House Brand",
+      "food_type": "Brand"
+    }
+  ]
+}

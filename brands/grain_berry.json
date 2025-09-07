@@ -1,0 +1,41 @@
+{
+  "brand_name": "Grain Berry",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 2954,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T02:51:50.055Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/grain_berry.json",
+  "items": [
+    {
+      "food_id": "62529139",
+      "food_name": "Multi-Bran Flakes with Onyx Sorghum",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grain-berry/multi-bran-flakes-with-onyx-sorghum",
+      "brand_name": "Grain Berry",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30536770",
+      "food_name": "Multi-Bran Flakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grain-berry/multi-bran-flakes",
+      "brand_name": "Grain Berry",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2640866",
+      "food_name": "Honey Nut Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grain-berry/honey-nut-cereal",
+      "brand_name": "Grain Berry",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59226920",
+      "food_name": "Shredded Wheat with Onyx Sorghum",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/grain-berry/shredded-wheat-with-onyx-sorghum",
+      "brand_name": "Grain Berry",
+      "food_type": "Brand"
+    }
+  ]
+}

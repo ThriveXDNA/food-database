@@ -1,0 +1,69 @@
+{
+  "restaurant": "Kewpie",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:40:46.362Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kewpie.json",
+  "items": [
+    {
+      "food_id": "2174090",
+      "food_name": "Japanese Mayonnaise",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kewpie/japanese-mayonnaise",
+      "brand_name": "Kewpie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7066572",
+      "food_name": "Creamy Deep Roasted Sesame Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kewpie/creamy-deep-roasted-sesame-dressing",
+      "brand_name": "Kewpie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77236294",
+      "food_name": "Mayo Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kewpie/mayo-sauce",
+      "brand_name": "Kewpie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52035568",
+      "food_name": "Roasted Onion & Garlic Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kewpie/roasted-onion-garlic-dressing",
+      "brand_name": "Kewpie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59857469",
+      "food_name": "Yuzu & Kosho Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kewpie/yuzu-kosho-dressing",
+      "brand_name": "Kewpie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76368918",
+      "food_name": "Caesar Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kewpie/caesar-dressing",
+      "brand_name": "Kewpie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17266923",
+      "food_name": "Creamy Wasabi Coconut Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kewpie/creamy-wasabi-coconut-dressing",
+      "brand_name": "Kewpie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62561364",
+      "food_name": "Wafu Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kewpie/wafu-dressing",
+      "brand_name": "Kewpie",
+      "food_type": "Brand"
+    }
+  ]
+}

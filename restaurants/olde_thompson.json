@@ -1,0 +1,27 @@
+{
+  "restaurant": "Olde Thompson",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 19,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:03:17.601Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/olde_thompson.json",
+  "items": [
+    {
+      "food_id": "11475030",
+      "food_name": "Himalayan Pink Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olde-thompson/himalayan-pink-salt",
+      "brand_name": "Olde Thompson",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72222459",
+      "food_name": "Everything Bagel Seasoning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olde-thompson/everything-bagel-seasoning",
+      "brand_name": "Olde Thompson",
+      "food_type": "Brand"
+    }
+  ]
+}

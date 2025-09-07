@@ -1,0 +1,48 @@
+{
+  "restaurant": "Pizza Pizza",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 6385,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:18:36.469Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pizza_pizza.json",
+  "items": [
+    {
+      "food_id": "61851",
+      "food_name": "Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pizza-pizza/pepperoni-pizza",
+      "brand_name": "Pizza Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99884",
+      "food_name": "Mediterranean Vegetarian Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pizza-pizza/mediterranean-vegetarian-pizza",
+      "brand_name": "Pizza Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99887",
+      "food_name": "Pesto Amore Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pizza-pizza/pesto-amore-pizza",
+      "brand_name": "Pizza Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3191504",
+      "food_name": "Hawaian Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pizza-pizza/hawaian-pizza",
+      "brand_name": "Pizza Pizza",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3726450",
+      "food_name": "Half Moon Cheesy Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pizza-pizza/half-moon-cheesy-bread",
+      "brand_name": "Pizza Pizza",
+      "food_type": "Brand"
+    }
+  ]
+}

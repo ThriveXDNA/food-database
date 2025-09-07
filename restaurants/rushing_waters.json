@@ -1,0 +1,20 @@
+{
+  "restaurant": "Rushing Waters",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:13:02.305Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rushing_waters.json",
+  "items": [
+    {
+      "food_id": "30056772",
+      "food_name": "Smoked Rainbow Trout Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rushing-waters/smoked-rainbow-trout-spread",
+      "brand_name": "Rushing Waters",
+      "food_type": "Brand"
+    }
+  ]
+}

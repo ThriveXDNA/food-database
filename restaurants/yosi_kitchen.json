@@ -1,0 +1,20 @@
+{
+  "restaurant": "Yosi Kitchen",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 46,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:54:54.305Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/yosi_kitchen.json",
+  "items": [
+    {
+      "food_id": "40775617",
+      "food_name": "Eggplant Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/yosi-kitchen/eggplant-salad",
+      "brand_name": "Yosi Kitchen",
+      "food_type": "Brand"
+    }
+  ]
+}

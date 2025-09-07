@@ -1,0 +1,27 @@
+{
+  "restaurant": "Andean Dream",
+  "total_items": 2,
+  "pages_extracted": 3,
+  "total_search_results": 101,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:39:21.162Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/andean_dream.json",
+  "items": [
+    {
+      "food_id": "3132324",
+      "food_name": "Quinoa Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/andean-dream/quinoa-pasta",
+      "brand_name": "Andean Dream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9938440",
+      "food_name": "Quinoa Cookies Chocolate Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/andean-dream/quinoa-cookies-chocolate-chip",
+      "brand_name": "Andean Dream",
+      "food_type": "Brand"
+    }
+  ]
+}

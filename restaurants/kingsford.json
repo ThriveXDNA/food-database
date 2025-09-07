@@ -1,0 +1,76 @@
+{
+  "restaurant": "Kingsford",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:13:54.321Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kingsford.json",
+  "items": [
+    {
+      "food_id": "28703941",
+      "food_name": "Brown Sugar Molasses Baked Beans with Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/brown-sugar-molasses-baked-beans-with-pork",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50996028",
+      "food_name": "Boneless Pork Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/boneless-pork-ribs",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25625118",
+      "food_name": "Baby Back Pork Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/baby-back-pork-ribs",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23600076",
+      "food_name": "Pulled Beef Brisket",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/pulled-beef-brisket",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37414776",
+      "food_name": "Baked Beans with Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/baked-beans-with-bacon",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72724970",
+      "food_name": "Pulled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/pulled-chicken",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20525124",
+      "food_name": "Pulled Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/pulled-pork",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28378092",
+      "food_name": "Center Cut Pork Ribs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/center-cut-pork-ribs",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22456354",
+      "food_name": "Seasoned Pork Carnitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kingsford/seasoned-pork-carnitas",
+      "brand_name": "Kingsford",
+      "food_type": "Brand"
+    }
+  ]
+}

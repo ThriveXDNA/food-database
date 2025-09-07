@@ -1,0 +1,48 @@
+{
+  "restaurant": "Adirondack",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:56:14.031Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/adirondack.json",
+  "items": [
+    {
+      "food_id": "237978",
+      "food_name": "Raspberry Lime Seltzer Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/adirondack/raspberry-lime-seltzer-water",
+      "brand_name": "Adirondack",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "247713",
+      "food_name": "Lemon Spring Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/adirondack/lemon-spring-water",
+      "brand_name": "Adirondack",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "237977",
+      "food_name": "Original Seltzer Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/adirondack/original-seltzer-water",
+      "brand_name": "Adirondack",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "237973",
+      "food_name": "Lemon Lime Seltzer Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/adirondack/lemon-lime-seltzer-water",
+      "brand_name": "Adirondack",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "427836",
+      "food_name": "Wicked Sharp Adirondack New York Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mccadam-cheese/wicked-sharp-adirondack-new-york-cheddar-cheese",
+      "brand_name": "McCadam Cheese",
+      "food_type": "Brand"
+    }
+  ]
+}

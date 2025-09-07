@@ -1,0 +1,559 @@
+{
+  "restaurant": "Wild Harvest",
+  "total_items": 78,
+  "pages_extracted": 6,
+  "total_search_results": 1503,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:27:53.748Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/wild_harvest.json",
+  "items": [
+    {
+      "food_id": "2295659",
+      "food_name": "Mixed Greens & Spinach Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/mixed-greens-and-spinach-salad",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1633330",
+      "food_name": "Organic Spring Mix Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-spring-mix-salad",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12423368",
+      "food_name": "Grilled Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/grilled-vegetables",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "586259",
+      "food_name": "Vegetable Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/vegetable-broth",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8786280",
+      "food_name": "Organic Cage Free 100% Liquid Egg Whites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-cage-free-100%25-liquid-egg-whites",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12835864",
+      "food_name": "Whole Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/whole-carrots",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44208454",
+      "food_name": "Cauliflower Crust Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/cauliflower-crust-pepperoni-pizza",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1234828",
+      "food_name": "Carne Asada Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/carne-asada-quesadilla",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1241960",
+      "food_name": "Southwest Vegetable Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/southwest-vegetable-quesadilla",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13247967",
+      "food_name": "Organic Power Greens",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-power-greens",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31046274",
+      "food_name": "Asian Soy Ginger Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/asian-soy-ginger-dressing",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "202532",
+      "food_name": "Black Bean Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/black-bean-soup",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12981160",
+      "food_name": "Boneless Pork Loin Chop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/boneless-pork-loin-chop",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38438728",
+      "food_name": "Organic Crunchy Peanut Butter Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-crunchy-peanut-butter-spread",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8396991",
+      "food_name": "Organic 2% Reduced Fat Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-2%25-reduced-fat-milk",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21852371",
+      "food_name": "Powdered Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/powdered-peanut-butter",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7367116",
+      "food_name": "California Raisins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/california-raisins",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50531181",
+      "food_name": "Organic Butter-Style Golden Rounds Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-butter-style-golden-rounds-crackers",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2994147",
+      "food_name": "Organic Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-popcorn",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24766473",
+      "food_name": "Organic Grade A Large Brown Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-grade-a-large-brown-eggs",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1424641",
+      "food_name": "Natural Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/natural-peanut-butter",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20790223",
+      "food_name": "Creamy Almond Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/creamy-almond-butter",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5570906",
+      "food_name": "Natural Blue Corn Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/natural-blue-corn-tortilla-chips",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14773818",
+      "food_name": "Organic Oats & Honey Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-oats-honey-granola",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4171075",
+      "food_name": "Angus Beef Burgers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/angus-beef-burgers",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3894646",
+      "food_name": "Organic Baby Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-baby-carrots",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32982651",
+      "food_name": "Coconut Almond Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/coconut-almond-granola",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6365101",
+      "food_name": "Organic Thai Jasmine Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-thai-jasmine-rice",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1308903",
+      "food_name": "Organic Fat Free Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-fat-free-milk",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15407770",
+      "food_name": "Organic Whole Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-whole-milk",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14298294",
+      "food_name": "Portobella Mushroom & Cheese Veggie Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/portobella-mushroom-and-cheese-veggie-burger",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3660843",
+      "food_name": "Organic Baby Spinach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-baby-spinach",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7804470",
+      "food_name": "Organic Indian Basmati Brown Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-indian-basmati-brown-rice",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10798070",
+      "food_name": "Baked Cheese Curls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/baked-cheese-curls",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51825895",
+      "food_name": "Black Bean Chipotle Veggie Burgers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/black-bean-chipotle-veggie-burgers",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1422073",
+      "food_name": "Cranberry Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/cranberry-juice",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "940186",
+      "food_name": "Chicken Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/chicken-burrito",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4583905",
+      "food_name": "Lentil Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/lentil-soup",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68185247",
+      "food_name": "Organic Romaine Hearts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-romaine-hearts",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1895949",
+      "food_name": "Vegetable Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/vegetable-soup",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59075",
+      "food_name": "Organic Ketchup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-ketchup",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13233235",
+      "food_name": "100% Tart Cherry Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/100-tart-cherry-juice",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16192156",
+      "food_name": "Organic Microwave Original Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-microwave-original-popcorn",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12745281",
+      "food_name": "Blueberry Acai Belgian Dark Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/blueberry-acai-belgian-dark-chocolate",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3114728",
+      "food_name": "Waffles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/waffles",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21045433",
+      "food_name": "Frozen Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/frozen-corn",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "349132",
+      "food_name": "Maple Spice Instant Oatmeal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/maple-spice-instant-oatmeal",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23653596",
+      "food_name": "Organic Fire Roasted Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-fire-roasted-corn",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35970089",
+      "food_name": "Ancient Grain Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/ancient-grain-blend",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32841834",
+      "food_name": "Organic Great Northern Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-great-northern-beans",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "581324",
+      "food_name": "Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/black-beans",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "995039",
+      "food_name": "Whole Wheat Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/whole-wheat-spaghetti",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6771978",
+      "food_name": "Fiber & Protein Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/fiber-and-protein-granola",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44068677",
+      "food_name": "Organic Light Coconut Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-light-coconut-milk",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30938032",
+      "food_name": "Organic White Corn Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-white-corn-tortilla-chips",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "755930",
+      "food_name": "Organic Extra Virgin Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-extra-virgin-olive-oil",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2556282",
+      "food_name": "Beef Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/beef-burrito",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27940700",
+      "food_name": "Organic 100% Pure Maple Syrup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-100-pure-maple-syrup",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2524197",
+      "food_name": "Crunchy Vanilla Almond Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/crunchy-vanilla-almond-granola",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2899339",
+      "food_name": "Long Grain Brown Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/long-grain-brown-rice",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9866786",
+      "food_name": "Shells & White Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/shells-and-white-cheddar-cheese",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69493908",
+      "food_name": "Quinoa Pasta Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/quinoa-pasta-spaghetti",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99319236",
+      "food_name": "Organic Coconut Flour",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-coconut-flour",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1492109",
+      "food_name": "Apple Cinnamon Instant Oatmeal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/apple-cinnamon-instant-oatmeal",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "794403",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/margherita-pizza",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "293507",
+      "food_name": "Yellow Corn Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/yellow-corn-tortilla-chips",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28982821",
+      "food_name": "Organic Tri Bean Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-tri-bean-blend",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1893142",
+      "food_name": "Organic Pinto Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-pinto-beans",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14944536",
+      "food_name": "Organic Honey BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-honey-bbq-sauce",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55555642",
+      "food_name": "Organic Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-ranch-dressing",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39911313",
+      "food_name": "Banana Nut Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/banana-nut-granola",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35045990",
+      "food_name": "Multigrain Waffles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/multigrain-waffles",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31274357",
+      "food_name": "Organic Chocolate Sandwich Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-chocolate-sandwich-cookies",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75335070",
+      "food_name": "Blueberry Lemon Flavored Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/blueberry-lemon-flavored-granola",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "481202",
+      "food_name": "Whole Wheat Flax Waffles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/whole-wheat-flax-waffles",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "342839",
+      "food_name": "Roasted Garlic Pasta Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/roasted-garlic-pasta-sauce",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9612367",
+      "food_name": "Uncured Black Forest Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/uncured-black-forest-ham",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76898171",
+      "food_name": "Organic Balsamic Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wild-harvest/organic-balsamic-dressing",
+      "brand_name": "Wild Harvest",
+      "food_type": "Brand"
+    }
+  ]
+}

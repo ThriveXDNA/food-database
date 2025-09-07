@@ -1,0 +1,34 @@
+{
+  "restaurant": "DeLand Bakery",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 47,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:11:59.489Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/deland_bakery.json",
+  "items": [
+    {
+      "food_id": "833059",
+      "food_name": "Oatbran Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/deland-bakery/oatbran-bread",
+      "brand_name": "DeLand Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1790511",
+      "food_name": "Millet Special Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/deland-bakery/millet-special-bread",
+      "brand_name": "DeLand Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1474989",
+      "food_name": "Millet Zucchini Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/deland-bakery/millet-zucchini-bread",
+      "brand_name": "DeLand Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

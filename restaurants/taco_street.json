@@ -1,0 +1,27 @@
+{
+  "restaurant": "Taco Street",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 1504,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:33:50.351Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/taco_street.json",
+  "items": [
+    {
+      "food_id": "33754885",
+      "food_name": "Beef Street Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-street/beef-street-tacos",
+      "brand_name": "Taco Street",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28227206",
+      "food_name": "Pork Carnitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-street/pork-carnitas",
+      "brand_name": "Taco Street",
+      "food_type": "Brand"
+    }
+  ]
+}

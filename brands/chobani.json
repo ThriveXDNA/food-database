@@ -1,0 +1,2532 @@
+{
+  "brand_name": "Chobani",
+  "brand_id": 109,
+  "total_items": 360,
+  "pages_extracted": 8,
+  "last_updated": "2025-09-06T20:10:09.141Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Brand-specific search with filtering",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/chobani.json",
+  "items": [
+    {
+      "food_id": "72532",
+      "food_name": "Nonfat Plain Greek Yogurt (170g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-plain-greek-yogurt-(170g)/1-container",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88251984",
+      "food_name": "20G Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/20g-protein",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5298095",
+      "food_name": "0% Plain Greek Yogurt (8 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/0%25-plain-greek-yogurt-(8-oz)/8-oz",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2322419",
+      "food_name": "Nonfat Plain Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-plain-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10320014",
+      "food_name": "Greek Yogurt Blueberry on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-blueberry-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54403927",
+      "food_name": "Zero Sugar Vanilla Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-vanilla-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67817280",
+      "food_name": "Complete Mixed Berry Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/complete-mixed-berry-vanilla",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34123511",
+      "food_name": "Coffee Creamer Sweet Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/coffee-creamer-sweet-cream",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50996230",
+      "food_name": "Zero Sugar Strawberry Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-strawberry-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40740652",
+      "food_name": "Complete - Strawberry Cream (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/complete-strawberry-cream-(bottle)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92365007",
+      "food_name": "20G Protein Mixed Berry Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/20g-protein-mixed-berry-vanilla",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37681744",
+      "food_name": "Coffee Creamer Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/coffee-creamer-vanilla",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71139285",
+      "food_name": "Zero Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14126328",
+      "food_name": "Greek Yogurt Black Cherry on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-black-cherry-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69761925",
+      "food_name": "Greek Yogurt Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-vanilla",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6923273",
+      "food_name": "Nonfat Plain Greek Yogurt (150g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-plain-greek-yogurt-(150g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18771366",
+      "food_name": "Strawberry on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/strawberry-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6964136",
+      "food_name": "Greek Yogurt Peach on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-peach-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50212360",
+      "food_name": "Zero Sugar Mixed Berry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-mixed-berry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49382272",
+      "food_name": "Zero Sugar Vanilla Yogurt (Container)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-vanilla-yogurt-(container)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33251779",
+      "food_name": "Greek Yogurt Whole Milk Plain",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-whole-milk-plain",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5947497",
+      "food_name": "Nonfat Vanilla Greek Yogurt (170g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-vanilla-greek-yogurt-(170g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33981303",
+      "food_name": "Flip Cookie Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-cookie-dough",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100727569",
+      "food_name": "Chobani 20G Protein Strawberry Kiwi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/chobani-20g-protein-strawberry-kiwi",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56194276",
+      "food_name": "Zero Sugar Milk & Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-milk-cookies",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7235519",
+      "food_name": "Greek Yogurt Strawberry on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-strawberry-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6881736",
+      "food_name": "0% Plain Greek Yogurt (5.3 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/0%25-plain-greek-yogurt-(53-oz)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82879539",
+      "food_name": "Greek Yogurt Blueberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-blueberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52249619",
+      "food_name": "Flip S'more S'mores (128g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-smore-smores-(128g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5939426",
+      "food_name": "Coconut Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/coconut-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61049766",
+      "food_name": "Zero Sugar Toasted Coconut Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-toasted-coconut-vanilla",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45978787",
+      "food_name": "Vanilla Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/vanilla-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30698293",
+      "food_name": "Lowfat Plain Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lowfat-plain-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72317897",
+      "food_name": "Zero Sugar Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33804746",
+      "food_name": "Key Lime Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/key-lime-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10210338",
+      "food_name": "Mixed Berry Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/mixed-berry-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96317796",
+      "food_name": "20G Protein Strawberries and Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/20g-protein-strawberries-and-cream",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15753874",
+      "food_name": "Peach Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/peach-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59057846",
+      "food_name": "Greek Yogurt Blended Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-blended-strawberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86663738",
+      "food_name": "Coffee Creamer Zero Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/coffee-creamer-zero-sugar",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25483851",
+      "food_name": "Flip Peanut Butter Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-peanut-butter-cup",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69412035",
+      "food_name": "Flip Key Lime Crumble",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-key-lime-crumble",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5193943",
+      "food_name": "Flip Almond Coco Loco (128g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-almond-coco-loco-(128g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26634489",
+      "food_name": "Vanilla Greek Yogurt with Mixed Berry on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/vanilla-greek-yogurt-with-mixed-berry-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44802146",
+      "food_name": "Complete - Vanilla (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/complete-vanilla-(bottle)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57668390",
+      "food_name": "Zero Sugar Strawberry Cheesecake Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-strawberry-cheesecake-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96252432",
+      "food_name": "30G Protein Strawberries & Cream Yogurt Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/30g-protein-strawberries-cream-yogurt-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49566986",
+      "food_name": "Zero Sugar Blueberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-blueberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "101131486",
+      "food_name": "20G Protein Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/20g-protein-vanilla",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55073052",
+      "food_name": "Flip Strawberry Cheesecake (128g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-strawberry-cheesecake-(128g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2575325",
+      "food_name": "Nonfat Vanilla Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-vanilla-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46578543",
+      "food_name": "Flip Cookies & Cream (128g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-cookies-cream-(128g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6813452",
+      "food_name": "Nonfat Vanilla Blended Greek Yogurt (Container)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-vanilla-blended-greek-yogurt-(container)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77178348",
+      "food_name": "Zero Sugar Strawberry Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-strawberry-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5507676",
+      "food_name": "0% Plain Greek Yogurt (6 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/0%25-plain-greek-yogurt-(6-oz)/6-oz",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61905553",
+      "food_name": "Zero Sugar Peach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-peach",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33982222",
+      "food_name": "Coffee Creamer Caramel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/coffee-creamer-caramel",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34619226",
+      "food_name": "Oat Milk Plain Extra Creamy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/oat-milk-plain-extra-creamy",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77844520",
+      "food_name": "Cookie Dough Coffee Creamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/cookie-dough-coffee-creamer",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "671206",
+      "food_name": "Nonfat Raspberry Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-raspberry-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17388245",
+      "food_name": "Greek Yogurt Mango on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-mango-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57190662",
+      "food_name": "Zero Sugar Key Lime Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-key-lime-pie",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24124742",
+      "food_name": "Greek Yogurt Drink with Mixed Berry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-drink-with-mixed-berry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79840126",
+      "food_name": "Greek Yogurt Honey Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-honey-vanilla",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8869199",
+      "food_name": "Flip Salted Caramel Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-salted-caramel-crunch",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96497117",
+      "food_name": "Greek Yogurt Protein Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-protein-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26395011",
+      "food_name": "Less Sugar Greek Yogurt Madagascar Vanilla & Cinnamon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/less-sugar-greek-yogurt-madagascar-vanilla-cinnamon",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96513550",
+      "food_name": "Zero Sugar Greek Vanilla Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-greek-vanilla-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73500327",
+      "food_name": "Zero Sugar Strawberry Cheesecake Yogurt Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-strawberry-cheesecake-yogurt-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86666317",
+      "food_name": "Zero Sugar Salted Caramel Creamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-salted-caramel-creamer",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10136102",
+      "food_name": "Coffee Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/coffee-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "680671",
+      "food_name": "Nonfat Pomegranate Greek Yogurt (170g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-pomegranate-greek-yogurt-(170g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20919903",
+      "food_name": "Strawberry Banana Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/strawberry-banana-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11531545",
+      "food_name": "Greek Yogurt Raspberry on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-raspberry-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40284658",
+      "food_name": "Flip Red Velvet Cupcake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-red-velvet-cupcake",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11068384",
+      "food_name": "Strawberry Banana on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/strawberry-banana-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15154982",
+      "food_name": "Lemon Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lemon-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23254945",
+      "food_name": "Greek Yogurt Drink with Peach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-drink-with-peach",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26922348",
+      "food_name": "Less Sugar Greek Yogurt Monterey Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/less-sugar-greek-yogurt-monterey-strawberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52653373",
+      "food_name": "Coffee Creamer Hazelnut Flavored",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/coffee-creamer-hazelnut-flavored",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85930623",
+      "food_name": "Flip Chocolate Covered Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-chocolate-covered-strawberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14403615",
+      "food_name": "Greek Yogurt Pineapple on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-pineapple-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66018541",
+      "food_name": "Complete - Cookies & Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/complete-cookies-cream",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1573267",
+      "food_name": "Lowfat Mango Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lowfat-mango-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7076432",
+      "food_name": "Nonfat Vanilla Greek Yogurt (150g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-vanilla-greek-yogurt-(150g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6126605",
+      "food_name": "Lowfat Key Lime Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lowfat-key-lime-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4677908",
+      "food_name": "2% Plain Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/2%25-plain-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67892718",
+      "food_name": "Greek Yogurt Strawberry (113g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-strawberry-(113g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16929312",
+      "food_name": "Flip Perfect Peach Cobbler",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-perfect-peach-cobbler",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6002750",
+      "food_name": "Nonfat Blackberry Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-blackberry-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24173494",
+      "food_name": "Greek Yogurt Drink with Strawberry Banana",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-drink-with-strawberry-banana",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11288524",
+      "food_name": "Lowfat Strawberry Banana Greek Yogurt (150g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lowfat-strawberry-banana-greek-yogurt-(150g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90073016",
+      "food_name": "Raspberry Lemon Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/raspberry-lemon-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13966574",
+      "food_name": "Flip S'more S'mores (150g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-smore-smores-(150g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93855571",
+      "food_name": "Caramel Macchiato Coffee Creamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/caramel-macchiato-coffee-creamer",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34024970",
+      "food_name": "Oat Milk Plain",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/oat-milk-plain",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99603378",
+      "food_name": "Cinnamon Coffee Cake Coffee Creamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/cinnamon-coffee-cake-coffee-creamer",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34422390",
+      "food_name": "Greek Yogurt Blackberry on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-blackberry-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11551660",
+      "food_name": "Strawberry Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/strawberry-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69108627",
+      "food_name": "Zero Sugar Mixed Berry Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-mixed-berry-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68751760",
+      "food_name": "Flip Confetti Birthday Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-confetti-birthday-cake",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73194593",
+      "food_name": "Nonfat Plain Greek Yogurt (170 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-plain-greek-yogurt-(170-g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85611019",
+      "food_name": "Oatmilk Zero Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/oatmilk-zero-sugar",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83394296",
+      "food_name": "White Chocolate Mocha Coffee Creamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/white-chocolate-mocha-coffee-creamer",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13343058",
+      "food_name": "Blueberry Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/blueberry-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68232280",
+      "food_name": "Oatmilk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/oatmilk",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86442856",
+      "food_name": "Creations Cherry Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/creations-cherry-cheesecake",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26033345",
+      "food_name": "Flip Strawberry Cheesecake (150g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-strawberry-cheesecake-(150g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6774649",
+      "food_name": "Nonfat Peach Greek Yogurt (Container)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-peach-greek-yogurt-(container)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76290455",
+      "food_name": "Creations Apple Pie A La Mode",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/creations-apple-pie-a-la-mode",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79706359",
+      "food_name": "Complete Coffee & Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/complete-coffee-cream",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33777557",
+      "food_name": "Less Sugar Greek Yogurt Fino Lemon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/less-sugar-greek-yogurt-fino-lemon",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25784959",
+      "food_name": "Less Sugar Greek Yogurt Wild Blueberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/less-sugar-greek-yogurt-wild-blueberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33421146",
+      "food_name": "Raspberry on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/raspberry-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21797583",
+      "food_name": "Mango Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/mango-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3434924",
+      "food_name": "Nonfat Strawberry Greek Yogurt (Container)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-strawberry-greek-yogurt-(container)/1-container",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5808254",
+      "food_name": "Nonfat Strawberry Greek Yogurt (8 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-strawberry-greek-yogurt-(8-oz)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1990185",
+      "food_name": "Nonfat Strawberry Greek Yogurt (6 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-strawberry-greek-yogurt-(6-oz)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10470800",
+      "food_name": "Flip Peanut Butter Dream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-peanut-butter-dream",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6673179",
+      "food_name": "Raspberry Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/raspberry-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11212695",
+      "food_name": "Nonfat Blueberry Greek Yogurt (5.3 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-blueberry-greek-yogurt-(53-oz)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6741809",
+      "food_name": "Nonfat Peach Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-peach-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35047216",
+      "food_name": "Oat Milk Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/oat-milk-vanilla",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15702417",
+      "food_name": "Strawberry Blended Greek Yogurt (4 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/strawberry-blended-greek-yogurt-(4-oz)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5928914",
+      "food_name": "Flip Strawberry Sunrise",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-strawberry-sunrise",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72886507",
+      "food_name": "Coconut Caramel Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/coconut-caramel-cookie",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78379925",
+      "food_name": "Honey Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/honey-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1576199",
+      "food_name": "Nonfat Black Cherry Greek Yogurt (Container)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-black-cherry-greek-yogurt-(container)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85690979",
+      "food_name": "Creations Mocha Tiramisu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/creations-mocha-tiramisu",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48538618",
+      "food_name": "Complete Key Lime",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/complete-key-lime",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81345371",
+      "food_name": "Zero Sugar Lemon Meringue Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-lemon-meringue-pie",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18280369",
+      "food_name": "Smooth Strawberry Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/smooth-strawberry-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9292075",
+      "food_name": "Green Tea Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/green-tea-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15126044",
+      "food_name": "Mixed Berry Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/mixed-berry-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23761894",
+      "food_name": "Honey & Cream Blended Whole Milk Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/honey-cream-blended-whole-milk-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49274017",
+      "food_name": "Layered Greek Yogurt Raspberry Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/layered-greek-yogurt-raspberry-lemonade",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33038351",
+      "food_name": "Layered Greek Yogurt Caramel Mocha",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/layered-greek-yogurt-caramel-mocha",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18700576",
+      "food_name": "Cherry Vanilla Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/cherry-vanilla-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79340986",
+      "food_name": "Creations Greek Yogurt Caramel Sundae",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/creations-greek-yogurt-caramel-sundae",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7958427",
+      "food_name": "4% Plain Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/4%25-plain-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26404037",
+      "food_name": "Less Sugar Greek Yogurt Clingstone Peach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/less-sugar-greek-yogurt-clingstone-peach",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39421346",
+      "food_name": "Complete - Blueberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/complete-blueberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "480164",
+      "food_name": "Lowfat Strawberry Banana Greek Yogurt (170g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lowfat-strawberry-banana-greek-yogurt-(170g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42501180",
+      "food_name": "Complete Peach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/complete-peach",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69630095",
+      "food_name": "Vanilla Greek Yogurt Tropical Fruit on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/vanilla-greek-yogurt-tropical-fruit-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72413",
+      "food_name": "Nonfat Blueberry Greek Yogurt (6 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-blueberry-greek-yogurt-(6-oz)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23072037",
+      "food_name": "Flip Cookies & Cream (150g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-cookies-cream-(150g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5211806",
+      "food_name": "Nonfat Black Cherry Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-black-cherry-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4146490",
+      "food_name": "Lowfat Plain Greek Yogurt (8 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lowfat-plain-greek-yogurt-(8-oz)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17666541",
+      "food_name": "Vanilla Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/vanilla-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68392418",
+      "food_name": "White Chocolate Raspberry Coffee Creamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/white-chocolate-raspberry-coffee-creamer",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17341275",
+      "food_name": "Nonfat Vanilla Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-vanilla-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72512416",
+      "food_name": "Flip Boston Cream Pie (128g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-boston-cream-pie-(128g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23761706",
+      "food_name": "5% Whole Milk Plain Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/5-whole-milk-plain-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16458222",
+      "food_name": "Flip Mint Chocolate Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-mint-chocolate-chip",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28716626",
+      "food_name": "Flip Lemon Meringue Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-lemon-meringue-pie",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20310990",
+      "food_name": "A Hint of Madagascar Vanilla & Cinnamon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/a-hint-of-madagascar-vanilla-cinnamon",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14825620",
+      "food_name": "Coconut Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/coconut-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15730577",
+      "food_name": "Fruit on the Bottom Pineapple",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/fruit-on-the-bottom-pineapple",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4879456",
+      "food_name": "Nonfat Pear Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-pear-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11201358",
+      "food_name": "Flip Peppermint Perfection",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-peppermint-perfection",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51583555",
+      "food_name": "Vanilla Oat Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/vanilla-oat-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75537227",
+      "food_name": "Flip Chocolate Haze Craze (128g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-chocolate-haze-craze-(128g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15218910",
+      "food_name": "Blackberry on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/blackberry-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56256903",
+      "food_name": "Complete - Mixed Berry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/complete-mixed-berry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8098606",
+      "food_name": "Lowfat Pineapple Greek Yogurt (150g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lowfat-pineapple-greek-yogurt-(150g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77928439",
+      "food_name": "Creations Orange Cream Pop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/creations-orange-cream-pop",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29059936",
+      "food_name": "Raspberry Lemonade Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/raspberry-lemonade-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6822453",
+      "food_name": "Nonfat Pomegranate Greek Yogurt (150g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-pomegranate-greek-yogurt-(150g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26793161",
+      "food_name": "Less Sugar Greek Yogurt Willamette Raspberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/less-sugar-greek-yogurt-willamette-raspberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85961405",
+      "food_name": "Cinnamon French Toast Flip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/cinnamon-french-toast-flip",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80468156",
+      "food_name": "Flip Cinnamon French Toast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-cinnamon-french-toast",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41041079",
+      "food_name": "Complete - Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/complete-vanilla",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6687673",
+      "food_name": "Nonfat Pineapple Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-pineapple-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71647968",
+      "food_name": "Zero Sugar Peaches & Cream Yogurt Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-peaches-cream-yogurt-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104954196",
+      "food_name": "20G Protein Cherry Berry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/20g-protein-cherry-berry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5721475",
+      "food_name": "Flip Blueberry Power",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-blueberry-power",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18279372",
+      "food_name": "Smooth Black Cherry Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/smooth-black-cherry-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4963738",
+      "food_name": "Flip Key Lime Crumble (150g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-key-lime-crumble-(150g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20605091",
+      "food_name": "Pineapple Coconut Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/pineapple-coconut-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75779221",
+      "food_name": "Zero Sugar Mixed Berry Yogurt Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-mixed-berry-yogurt-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71838469",
+      "food_name": "Zero Sugar Milk & Cookies Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-milk-cookies-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51153534",
+      "food_name": "Greek Yogurt Lemon & Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-lemon-cream",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2385724",
+      "food_name": "Lowfat Black Cherry Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lowfat-black-cherry-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22415934",
+      "food_name": "Smooth Peach Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/smooth-peach-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2940335",
+      "food_name": "Lowfat Passion Fruit Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lowfat-passion-fruit-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48077037",
+      "food_name": "Zero Sugar Plain Oat Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-plain-oat-milk",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80167742",
+      "food_name": "Creations Bananas Foster",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/creations-bananas-foster",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33367927",
+      "food_name": "Nonfat Blueberry Greek Yogurt (4 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-blueberry-greek-yogurt-(4-oz)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27850658",
+      "food_name": "Greek Yogurt Drink with Cherry Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-drink-with-cherry-vanilla",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38793475",
+      "food_name": "Flip Banana Cream Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-banana-cream-pie",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70056172",
+      "food_name": "Oat Milk Zero Sugar Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/oat-milk-zero-sugar-original",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4884651",
+      "food_name": "Lowfat Plain Greek Yogurt (Container)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lowfat-plain-greek-yogurt-(container)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25826789",
+      "food_name": "Flip Coconut Snowball",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-coconut-snowball",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29334001",
+      "food_name": "Less Sugar Greek Yogurt Gili Cherry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/less-sugar-greek-yogurt-gili-cherry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51935315",
+      "food_name": "Greek Yogurt Passion Fruit on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-passion-fruit-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5623210",
+      "food_name": "2% Plain Greek Yogurt (Container)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/2%25-plain-greek-yogurt-(container)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24625477",
+      "food_name": "Nonfat Strawberry Greek Yogurt (5.2 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-strawberry-greek-yogurt-(52-oz)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46021819",
+      "food_name": "Probiotic Vanilla Blended Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/probiotic-vanilla-blended-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15715428",
+      "food_name": "Lowfat Mix't Berries Greek Yogurt Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lowfat-mixt-berries-greek-yogurt-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16747743",
+      "food_name": "Kids Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/kids-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16730920",
+      "food_name": "Mixed Berry Morning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/mixed-berry-morning",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64779072",
+      "food_name": "Zero Sugar Salted Caramel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-salted-caramel",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17113777",
+      "food_name": "Cherry Vanilla Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/cherry-vanilla-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4226987",
+      "food_name": "Flip Vanilla Chocolate Chip Low-Fat Yogurt with Raspberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-vanilla-chocolate-chip-low-fat-yogurt-with-raspberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1638767",
+      "food_name": "Nonfat Lemon Greek Yogurt (6 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-lemon-greek-yogurt-(6-oz)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34234562",
+      "food_name": "Milk & Cookies Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/milk-cookies-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50501373",
+      "food_name": "Chobani Probiotic",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/chobani-probiotic",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17176972",
+      "food_name": "Smooth Low-Fat Classic Yogurt Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/smooth-low-fat-classic-yogurt-vanilla",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46527756",
+      "food_name": "Flip Chewy Churro",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-chewy-churro",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72530",
+      "food_name": "Nonfat Honey Greek Yogurt (170g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-honey-greek-yogurt-(170g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6443014",
+      "food_name": "Nonfat Strawberry Greek Yogurt (3.5 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-strawberry-greek-yogurt-(35-oz)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82172269",
+      "food_name": "Oatmilk Zero Sugar Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/oatmilk-zero-sugar-original",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39824261",
+      "food_name": "Flip Rocky Road",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-rocky-road",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19726989",
+      "food_name": "Lemon & Cream Blended",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lemon-cream-blended",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32237511",
+      "food_name": "Non-Dairy Yogurt Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/non-dairy-yogurt-vanilla",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57843990",
+      "food_name": "Cold Brew with Oat Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/cold-brew-with-oat-milk",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42127551",
+      "food_name": "Oat Coffee Creamer Pumpkin Spice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/oat-coffee-creamer-pumpkin-spice",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8766365",
+      "food_name": "Chocolate Haze Craze",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/chocolate-haze-craze",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "692032",
+      "food_name": "Lowfat Pineapple Greek Yogurt (170g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lowfat-pineapple-greek-yogurt-(170g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8962906",
+      "food_name": "Greek Yogurt Oats - Apricot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-oats---apricot",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7958837",
+      "food_name": "Greek Yogurt Oats - Blueberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-oats---blueberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54909307",
+      "food_name": "Flip Almond Coco Loco (150g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-almond-coco-loco-(150g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95870900",
+      "food_name": "Honey Fig Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/honey-fig-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104213866",
+      "food_name": "Zero Sugar Blueberry Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-blueberry-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8755889",
+      "food_name": "Flip Chocolate Haze Craze (150g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-chocolate-haze-craze",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8876244",
+      "food_name": "Greek Yogurt Oats - Mixed Berry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-oats---mixed-berry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51307282",
+      "food_name": "Chobani Complete Banana Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/chobani-complete-banana-cream",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12745372",
+      "food_name": "Flip Pure Cherry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-pure-cherry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18450909",
+      "food_name": "Flip Buttercrunch Blast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-buttercrunch-blast",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13560065",
+      "food_name": "Straw'nana Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/strawnana-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69029711",
+      "food_name": "Zero Sugar Boston Cream Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-boston-cream-pie",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1497780",
+      "food_name": "Champions Greek Yogurt - Very Berry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/champions-greek-yogurt---very-berry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30094822",
+      "food_name": "Less Sugar Greek Yogurt Alphonso Mango",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/less-sugar-greek-yogurt-alphonso-mango",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25846197",
+      "food_name": "Non-Dairy Yogurt Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/non-dairy-yogurt-strawberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6915508",
+      "food_name": "Lowfat Apricot Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lowfat-apricot-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9272800",
+      "food_name": "Strawberry Tube",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/strawberry-tube",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28103051",
+      "food_name": "Banana & Cream Belnded Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/banana-cream-belnded-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61289369",
+      "food_name": "Plant Based Coffee Creamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/plant-based-coffee-creamer",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15736693",
+      "food_name": "Kiwi Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/kiwi-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18959674",
+      "food_name": "Orange & Cream Yogurt Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/orange-cream-yogurt-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40348823",
+      "food_name": "Oat Milk Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/oat-milk-chocolate",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6783739",
+      "food_name": "Simply 100 Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/simply-100-strawberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6877530",
+      "food_name": "Simply 100 Black Cherry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/simply-100-black-cherry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6929922",
+      "food_name": "Nonfat Honey Greek Yogurt (150g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-honey-greek-yogurt-(150g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7257639",
+      "food_name": "Nonfat Lemon Greek Yogurt (5.3 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-lemon-greek-yogurt-(53-oz)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12734828",
+      "food_name": "Flip Pure Blueberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-pure-blueberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30292482",
+      "food_name": "Flip Boston Cream Pie (150g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-boston-cream-pie-(150g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46283827",
+      "food_name": "Flip Chocolate Trifecta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-chocolate-trifecta",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13920853",
+      "food_name": "Chocolate Cherry Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/chocolate-cherry-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13088196",
+      "food_name": "Flip Pure Raspberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-pure-raspberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7925315",
+      "food_name": "Greek Yogurt Chocolate Dust Tubes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-chocolate-dust-tubes",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11395488",
+      "food_name": "Flip Chipotle Pineapple",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-chipotle-pineapple",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35014352",
+      "food_name": "Greek Yogurt Pomegranate on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-pomegranate-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54996097",
+      "food_name": "Complete - Vanilla (Container)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/complete-vanilla-(container)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6681366",
+      "food_name": "Simply 100 Blueberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/simply-100-blueberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49601179",
+      "food_name": "Greek Yogurt Piña Colada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-pi%C3%B1a-colada",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13170614",
+      "food_name": "Mangolicious Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/mangolicious-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15707385",
+      "food_name": "Banana on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/banana-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10469370",
+      "food_name": "Plum Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/plum-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20517585",
+      "food_name": "Flip Strawberry Rhubarb Shortcake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-strawberry-rhubarb-shortcake",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5349212",
+      "food_name": "Lowfat Pineapple Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lowfat-pineapple-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23323845",
+      "food_name": "Savor Low Fat Plain",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/savor-low-fat-plain",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "95200266",
+      "food_name": "Flip Blueberry Lemon Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-blueberry-lemon-bar",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23546511",
+      "food_name": "Savor Whole Milk Plain",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/savor-whole-milk-plain",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97959714",
+      "food_name": "Super Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/super-milk",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11683356",
+      "food_name": "Maple Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/maple-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57306449",
+      "food_name": "Ultra-Filtered Milk Fat Free",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/ultra-filtered-milk-fat-free",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57663762",
+      "food_name": "Flip Chocolate Layer Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-chocolate-layer-cake",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8319986",
+      "food_name": "Simply 100 Key Lime",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/simply-100-key-lime",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26901982",
+      "food_name": "Less Sugar Greek Yogurt Lemon Cookie Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/less-sugar-greek-yogurt-lemon-cookie-crunch",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27485298",
+      "food_name": "Vanilla Chocolate & Cream Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/vanilla-chocolate-cream-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25936556",
+      "food_name": "Less Sugar Greek Yogurt Vanilla Mocha Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/less-sugar-greek-yogurt-vanilla-mocha-crunch",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22918422",
+      "food_name": "Pina Colada Drink (210g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/pina-colada-drink-(210g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40937110",
+      "food_name": "Cherry Hibiscus Tea Plant-Based Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/cherry-hibiscus-tea-plant-based-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6118636",
+      "food_name": "Lowfat Orange Vanilla Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lowfat-orange-vanilla-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14563447",
+      "food_name": "Flip Cinnabun Fun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-cinnabun-fun",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17193895",
+      "food_name": "Coffee & Cream Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/coffee-cream-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4380988",
+      "food_name": "Flip Honey Low-Fat Yogurt with Banana",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-honey-low-fat-yogurt-with-banana",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7949184",
+      "food_name": "Greek Yogurt Oats - Cranberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-oats---cranberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49771672",
+      "food_name": "Cold Brew with Sweet Creamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/cold-brew-with-sweet-creamer",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2902458",
+      "food_name": "Nonfat Apple Cinnamon Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-apple-cinnamon-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4975412",
+      "food_name": "Flip Vanilla Golden Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-vanilla-golden-crunch",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6108649",
+      "food_name": "Flip Tropical Escape",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-tropical-escape",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19320083",
+      "food_name": "Flip Honey Crunch Bunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-honey-crunch-bunch",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11062589",
+      "food_name": "Mixed Berry Ancient Grains Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/mixed-berry-ancient-grains-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41651245",
+      "food_name": "Greek Yogurt Apricot on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-apricot-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5111144",
+      "food_name": "Lowfat Banana Greek Yogurt (6 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lowfat-banana-greek-yogurt-(6-oz)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6591366",
+      "food_name": "Greek Yogurt Bite with Honey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-bite-with-honey",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19136377",
+      "food_name": "Mint Chocolate Chunk Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/mint-chocolate-chunk-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19887323",
+      "food_name": "Flip Tropical Daybreak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-tropical-daybreak",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20495531",
+      "food_name": "A Hint of Monterey Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/a-hint-of-monterey-strawberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13192107",
+      "food_name": "Caramel Apple Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/caramel-apple-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11042731",
+      "food_name": "Flip PB&J",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-pbandj",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7976491",
+      "food_name": "Flip Clover Honey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-clover-honey",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22930231",
+      "food_name": "Vanilla Bean Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/vanilla-bean-drink",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42231571",
+      "food_name": "Coffee & Cream Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/coffee-cream-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7053811",
+      "food_name": "Simply 100 Peach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/simply-100-peach",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6930866",
+      "food_name": "Simply 100 Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/simply-100-vanilla",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12742125",
+      "food_name": "Flip Peanut Caramel Satisfaction",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-peanut-caramel-satisfaction",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8098321",
+      "food_name": "Greek Yogurt Oats - Apple Cinnamon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/greek-yogurt-oats---apple-cinnamon",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25484535",
+      "food_name": "Sweet Greek Yogurt with Caramel on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/sweet-greek-yogurt-with-caramel-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30289953",
+      "food_name": "Chocolate Greek Yogurt with Hazelnut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/chocolate-greek-yogurt-with-hazelnut-butter",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15232106",
+      "food_name": "Flip Strawberry Summer Crisp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-strawberry-summer-crisp",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29626456",
+      "food_name": "Honey Greek Yogurt with Almond Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/honey-greek-yogurt-with-almond-butter",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57302809",
+      "food_name": "2% Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/2-milk",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30545389",
+      "food_name": "Peaches & Cream Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/peaches-cream-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3085916",
+      "food_name": "Champions Greek Yogurt - Vanilla Chocolate Chunk (Container)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/champions-greek-yogurt---vanilla-chocolate-chunk-(container)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12142390",
+      "food_name": "Meze Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/meze-dip",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7798088",
+      "food_name": "Watermelon Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/watermelon-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8241126",
+      "food_name": "Pumpkin Spice Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/pumpkin-spice-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10441144",
+      "food_name": "Yogurt Oats Raisin & Brown Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/yogurt-oats-raisin-and-brown-sugar",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10649302",
+      "food_name": "Flip Pumpkin Harvest Crisp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-pumpkin-harvest-crisp",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "59432372",
+      "food_name": "Chocolate Peanut Butter Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/chocolate-peanut-butter-spread",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43689014",
+      "food_name": "Layered Greek Yogurt Raspberry Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/layered-greek-yogurt-raspberry-chocolate",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31078412",
+      "food_name": "Plain Greek Yogurt with Almond Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/plain-greek-yogurt-with-almond-butter",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19892259",
+      "food_name": "A Hint of Gili Cherry Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/a-hint-of-gili-cherry-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20386708",
+      "food_name": "A Hint of Wild Blueberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/a-hint-of-wild-blueberry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "105278190",
+      "food_name": "Zero Sugar Greek Yogurt Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-greek-yogurt-vanilla",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6881772",
+      "food_name": "Lowfat Banana Greek Yogurt (5.8 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/lowfat-banana-greek-yogurt-(58-oz)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14184865",
+      "food_name": "Flip Pistachio Paradise",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-pistachio-paradise",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29927671",
+      "food_name": "Orange & Cream Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/orange-cream-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24776000",
+      "food_name": "Strawberry Rhubarb on The Bottom",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/strawberry-rhubarb-on-the-bottom",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1575362",
+      "food_name": "Champions Greek Yogurt - Honey-nana",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/champions-greek-yogurt---honey-nana",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5389569",
+      "food_name": "Champions Tubes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/champions-tubes",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16335103",
+      "food_name": "Apple Cinnamon Blended Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/apple-cinnamon-blended-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20846140",
+      "food_name": "Pina Colada Drink (296g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/pina-colada-drink-(296g)",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30828877",
+      "food_name": "Vanilla Greek Yogurt with Cashew Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/vanilla-greek-yogurt-with-cashew-butter",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42065919",
+      "food_name": "Oat Strawberry Granola Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/oat-strawberry-granola-crunch",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7060242",
+      "food_name": "Simply 100 Pineapple",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/simply-100-pineapple",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5717645",
+      "food_name": "Flip Peachy Pistachio",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-peachy-pistachio",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14218069",
+      "food_name": "Flip Coffee Brownie Bliss",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-coffee-brownie-bliss",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16852403",
+      "food_name": "Flip Sunrisin' Raisin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-sunrisin-raisin",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10417632",
+      "food_name": "Flip Coffee Break Bliss",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-coffee-break-bliss",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8054476",
+      "food_name": "Indulgent Mint & Dark Chocolate Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/indulgent-mint-and-dark-chocolate-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22803216",
+      "food_name": "Hint of Clingstone Peach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/hint-of-clingstone-peach",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26353154",
+      "food_name": "Less Sugar Greek Yogurt Mango Coconut Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/less-sugar-greek-yogurt-mango-coconut-crunch",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54784126",
+      "food_name": "Oat Nog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/oat-nog",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33520291",
+      "food_name": "Blueberry Greek Yogurt with Maple Oatmeal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/blueberry-greek-yogurt-with-maple-oatmeal",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14138205",
+      "food_name": "Flip Carrot Cake Creation",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-carrot-cake-creation",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18943025",
+      "food_name": "A Hint of Alphonso Mango",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/a-hint-of-alphonso-mango",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11199590",
+      "food_name": "Simply 100 Crunch - Blueberry Cookie Crumble",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/simply-100-crunch---blueberry-cookie-crumble",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8217977",
+      "food_name": "Banana Greek Yogurt with Maple Oatmeal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/banana-greek-yogurt-with-maple-oatmeal",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10294917",
+      "food_name": "Pumpkin Harvest Crisp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/pumpkin-harvest-crisp",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25464183",
+      "food_name": "Less Sugar Greek Yogurt Raspberry Chocolate Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/less-sugar-greek-yogurt-raspberry-chocolate-crunch",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33701536",
+      "food_name": "Apple Spice Greek Yogurt with Brown Sugar Oatmeal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/apple-spice-greek-yogurt-with-brown-sugar-oatmeal",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33820401",
+      "food_name": "Peach Greek Yogurt with Brown Sugar Oatmeal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/peach-greek-yogurt-with-brown-sugar-oatmeal",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44533867",
+      "food_name": "Layered Greek Yogurt Spiced Hot Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/layered-greek-yogurt-spiced-hot-chocolate",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30892268",
+      "food_name": "Vanilla Greek Yogurt with Almond Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/vanilla-greek-yogurt-with-almond-butter",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35420073",
+      "food_name": "Oat Strawberry Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/oat-strawberry-vanilla",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35612703",
+      "food_name": "Oat Blueberry Almond Crumble",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/oat-blueberry-almond-crumble",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6121474",
+      "food_name": "Flip Nutty For 'Nana",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-nutty-for-nana",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3326048",
+      "food_name": "Champions Greek Yogurt - Orange Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/champions-greek-yogurt---orange-vanilla",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2865470",
+      "food_name": "Nonfat Blood Orange Greek Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/nonfat-blood-orange-greek-yogurt",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61911074",
+      "food_name": "Oat Horchata",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/oat-horchata",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38632790",
+      "food_name": "PB&J Strawberry Greek Yogurt with Peanut Butter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/pb-j-strawberry-greek-yogurt-with-peanut-butter",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30891629",
+      "food_name": "Gimmies Best Birthday Ever Yogurt Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/gimmies-best-birthday-ever-yogurt-crunch",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31333215",
+      "food_name": "Flip Autumn Harvest Crisp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-autumn-harvest-crisp",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73412890",
+      "food_name": "Zero Sugar Pumpkin Spice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-pumpkin-spice",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106298343",
+      "food_name": "Zero Sugar Greek Yogurt Black Cherry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chobani/zero-sugar-greek-yogurt-black-cherry",
+      "brand_name": "Chobani",
+      "food_type": "Brand"
+    }
+  ]
+}

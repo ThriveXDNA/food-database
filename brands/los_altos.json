@@ -1,0 +1,41 @@
+{
+  "brand_name": "Los Altos",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:22:41.686Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/los_altos.json",
+  "items": [
+    {
+      "food_id": "21629159",
+      "food_name": "Queso Fresco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/los-altos/queso-fresco",
+      "brand_name": "Los Altos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94393240",
+      "food_name": "Queso Panela",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/los-altos/queso-panela",
+      "brand_name": "Los Altos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76749259",
+      "food_name": "Jocoque Sour Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/los-altos/jocoque-sour-cream",
+      "brand_name": "Los Altos",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21629102",
+      "food_name": "Crema Mexicana Natural",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/los-altos/crema-mexicana-natural",
+      "brand_name": "Los Altos",
+      "food_type": "Brand"
+    }
+  ]
+}

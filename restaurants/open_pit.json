@@ -1,0 +1,62 @@
+{
+  "restaurant": "Open Pit",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 31,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:21:09.637Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/open_pit.json",
+  "items": [
+    {
+      "food_id": "2118319",
+      "food_name": "Barbecue Sauce - Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/open-pit/barbecue-sauce---original",
+      "brand_name": "Open Pit",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "861956",
+      "food_name": "Barbecue Sauce - Hickory",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/open-pit/barbecue-sauce---hickory",
+      "brand_name": "Open Pit",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "989097",
+      "food_name": "Barbecue Sauce - Honey",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/open-pit/barbecue-sauce---honey",
+      "brand_name": "Open Pit",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1381302",
+      "food_name": "Thick & Tangy - Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/open-pit/thick-and-tangy---original",
+      "brand_name": "Open Pit",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1522495",
+      "food_name": "Barbecue Sauce - Char-Grill",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/open-pit/barbecue-sauce-char-grill",
+      "brand_name": "Open Pit",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2322670",
+      "food_name": "Thick & Tangy - Sweet",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/open-pit/thick-and-tangy---sweet",
+      "brand_name": "Open Pit",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "284773",
+      "food_name": "Crispy Ridged Open Pit Flavored Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jays/crispy-ridged-open-pit-flavored-potato-chips",
+      "brand_name": "Jays",
+      "food_type": "Brand"
+    }
+  ]
+}

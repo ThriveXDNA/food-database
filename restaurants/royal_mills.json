@@ -1,0 +1,27 @@
+{
+  "restaurant": "Royal Mills",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 62,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:07:32.809Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/royal_mills.json",
+  "items": [
+    {
+      "food_id": "230049",
+      "food_name": "Iced Cappuccino Coffee Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/royal-mills/iced-cappuccino-coffee-drink",
+      "brand_name": "Royal Mills",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6443195",
+      "food_name": "Iced Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/royal-mills/iced-coffee",
+      "brand_name": "Royal Mills",
+      "food_type": "Brand"
+    }
+  ]
+}

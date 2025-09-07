@@ -1,0 +1,62 @@
+{
+  "restaurant": "Tassimo",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:41:58.111Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/tassimo.json",
+  "items": [
+    {
+      "food_id": "2754159",
+      "food_name": "Latte Macchiato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tassimo/latte-macchiato",
+      "brand_name": "Tassimo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "801189",
+      "food_name": "Jacobs Latte Macchiato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tassimo/jacobs-latte-macchiato",
+      "brand_name": "Tassimo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4792871",
+      "food_name": "Costa Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tassimo/costa-latte",
+      "brand_name": "Tassimo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2911285",
+      "food_name": "Chai Tea Latte",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tassimo/chai-tea-latte",
+      "brand_name": "Tassimo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2206394",
+      "food_name": "Skinny Cappuccino",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tassimo/skinny-cappuccino",
+      "brand_name": "Tassimo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2036269",
+      "food_name": "Gevalia Caramel Latte Macchiato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tassimo/gevalia-caramel-latte-macchiato",
+      "brand_name": "Tassimo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "230109",
+      "food_name": "Cafe Collection Cappuccino Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tassimo/cafe-collection-cappuccino-coffee",
+      "brand_name": "Tassimo",
+      "food_type": "Brand"
+    }
+  ]
+}

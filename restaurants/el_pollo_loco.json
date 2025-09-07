@@ -1,0 +1,725 @@
+{
+  "restaurant": "El Pollo Loco",
+  "total_items": 102,
+  "pages_extracted": 4,
+  "last_updated": "2025-09-06T06:56:52.217Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Restaurant search with maximum pagination",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/el_pollo_loco.json",
+  "items": [
+    {
+      "food_id": "71770515",
+      "food_name": "Fire-Grilled Chicken Thigh",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/fire-grilled-chicken-thigh",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770507",
+      "food_name": "Fire-Grilled Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/fire-grilled-chicken-breast",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770523",
+      "food_name": "Fire-Grilled Chicken Leg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/fire-grilled-chicken-leg",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93935221",
+      "food_name": "Chicken Leg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/chicken-leg",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10079789",
+      "food_name": "Double Chicken Avocado Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/double-chicken-avocado-salad",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4625215",
+      "food_name": "Original Pollo Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/original-pollo-bowl",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770511",
+      "food_name": "Fire-Grilled Chicken Wing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/fire-grilled-chicken-wing",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770656",
+      "food_name": "Pinto Beans - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/pinto-beans-small",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770651",
+      "food_name": "Rice - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/rice-small",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "93935276",
+      "food_name": "Chicken Thigh",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/chicken-thigh",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770801",
+      "food_name": "Avocado Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/avocado-salsa",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892707",
+      "food_name": "Charro Beans - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/charro-beans-small",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "248687",
+      "food_name": "Creamy Cilantro Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/creamy-cilantro-dressing",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770613",
+      "food_name": "Tortilla Chips - Side",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/tortilla-chips-side",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892700",
+      "food_name": "Mashed Potatoes with Gravy - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/mashed-potatoes-with-gravy-small",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770611",
+      "food_name": "Two Cinnamon Churros",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/two-cinnamon-churros",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770898",
+      "food_name": "6-inch Flour Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/6-inch-flour-tortillas",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892682",
+      "food_name": "Taco Al Carbon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/taco-al-carbon",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770672",
+      "food_name": "Macaroni and Cheese - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/macaroni-and-cheese-small",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770894",
+      "food_name": "6-inch Corn Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/6-inch-corn-tortillas",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770506",
+      "food_name": "Double Chicken Tostada Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/double-chicken-tostada-salad",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770779",
+      "food_name": "Horchata - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/horchata-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770697",
+      "food_name": "Loco Side Salad - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/loco-side-salad-small",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770668",
+      "food_name": "Broccoli - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/broccoli-small",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892802",
+      "food_name": "Shredded Chicken Crunchy Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/shredded-chicken-crunchy-taco",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3333320",
+      "food_name": "Chicken Avocado Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/chicken-avocado-burrito",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770504",
+      "food_name": "Classic Tostada Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/classic-tostada-salad",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770665",
+      "food_name": "Corn - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/corn-small",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30682113",
+      "food_name": "Double Chicken Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/double-chicken-bowl",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99915800",
+      "food_name": "Cole Slaw",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/cole-slaw",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892691",
+      "food_name": "Chicken Avocado Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/chicken-avocado-taco",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892710",
+      "food_name": "Double Chicken Avocado Pollo Fit Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/double-chicken-avocado-pollo-fit-bowl",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770563",
+      "food_name": "Original BRC Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/original-brc-burrito",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770806",
+      "food_name": "Salsa Roja",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/salsa-roja",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770560",
+      "food_name": "Chipotle Chicken Avocado Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/chipotle-chicken-avocado-burrito",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770539",
+      "food_name": "Chicken Tacos al Carbon Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/chicken-tacos-al-carbon-combo",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892708",
+      "food_name": "Double Chicken Street Corn Pollo Fit Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/double-chicken-street-corn-pollo-fit-bowl",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892657",
+      "food_name": "Chicken Classic Burrito Combo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/chicken-classic-burrito-combo",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892667",
+      "food_name": "Chicken Tortilla Soup - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/chicken-tortilla-soup-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770780",
+      "food_name": "Horchata - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/horchata-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892826",
+      "food_name": "Minute Maid Aguas Frescas Strawberry Hibiscus - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/minute-maid-aguas-frescas-strawberry-hibiscus-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892805",
+      "food_name": "Shredded Chicken Nachos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/shredded-chicken-nachos",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892677",
+      "food_name": "Chicken Tortilla Soup - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/chicken-tortilla-soup-small",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892814",
+      "food_name": "Salsa Fresca",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/salsa-fresca",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892803",
+      "food_name": "Chicken Avocado Stuffed Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/chicken-avocado-stuffed-quesadilla",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770607",
+      "food_name": "Chips & Guacamole - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/chips-guacamole-small",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770704",
+      "food_name": "Coleslaw - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/coleslaw-small",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13527939",
+      "food_name": "Grande Avocado Chicken Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/grande-avocado-chicken-bowl",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770574",
+      "food_name": "Street Corn Chicken Pollo Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/street-corn-chicken-pollo-bowl",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892810",
+      "food_name": "Guacamole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/guacamole",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86215762",
+      "food_name": "Classic Double Chicken Chopped Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/classic-double-chicken-chopped-salad",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770577",
+      "food_name": "Shredded Chicken and Cheese Pollo Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/shredded-chicken-and-cheese-pollo-bowl",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770701",
+      "food_name": "Loco Side Salad - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/loco-side-salad-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770541",
+      "food_name": "Queso Blanco Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/queso-blanco-burrito",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892813",
+      "food_name": "Queso Blanco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/queso-blanco",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770620",
+      "food_name": "Tortilla Chips - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/tortilla-chips-small",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770624",
+      "food_name": "Tortilla Chips - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/tortilla-chips-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770600",
+      "food_name": "Two Legs - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/two-legs-kids",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770650",
+      "food_name": "Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/ranch-dressing",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770712",
+      "food_name": "Coca-Cola - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/coca-cola-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770722",
+      "food_name": "Diet Coke - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/diet-coke-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892821",
+      "food_name": "Minute Maid Aguas Frescas Mango Lime - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/minute-maid-aguas-frescas-mango-lime-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48026",
+      "food_name": "Jalapeno Hot Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/jalapeno-hot-sauce",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770791",
+      "food_name": "Sprite - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/sprite-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892827",
+      "food_name": "Minute Maid Aguas Frescas Strawberry Hibiscus - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/minute-maid-aguas-frescas-strawberry-hibiscus-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770609",
+      "food_name": "Chips & Guacamole - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/chips-guacamole-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892808",
+      "food_name": "Chips & Queso Blanco - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/chips-queso-blanco-small",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770716",
+      "food_name": "Coca-Cola - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/coca-cola-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770723",
+      "food_name": "Diet Coke - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/diet-coke-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770771",
+      "food_name": "Gold Peak Fresh-Brewed Unsweetened Iced Tea - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/gold-peak-fresh-brewed-unsweetened-iced-tea-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892819",
+      "food_name": "Coca-Cola Zero Sugar - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/coca-cola-zero-sugar-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892823",
+      "food_name": "Minute Maid Aguas Frescas Mango Lime - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/minute-maid-aguas-frescas-mango-lime-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770732",
+      "food_name": "Dr Pepper - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/dr-pepper-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770753",
+      "food_name": "FUZE Sweetened Raspberry Iced Tea - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/fuze-sweetened-raspberry-iced-tea-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770743",
+      "food_name": "Fanta Orange - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/fanta-orange-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770773",
+      "food_name": "Hi-C Flashin’ Fruit Punch - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/hi-c-flashin%E2%80%99-fruit-punch-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770786",
+      "food_name": "Minute Maid Lemonade - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/minute-maid-lemonade-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770789",
+      "food_name": "Minute Maid Strawberry Lemonade - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/minute-maid-strawberry-lemonade-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770798",
+      "food_name": "Nestle Pure Life Water Bottle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/nestle-pure-life-water-bottle",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892809",
+      "food_name": "Chips & Queso Blanco - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/chips-queso-blanco-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84892816",
+      "food_name": "Coca-Cola Zero Sugar - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/coca-cola-zero-sugar-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770682",
+      "food_name": "Small Gravy",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/small-gravy",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770709",
+      "food_name": "Cherry Coke - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/cherry-coke-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770740",
+      "food_name": "Barq’s Root Beer - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/barq%E2%80%99s-root-beer-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770783",
+      "food_name": "Minute Maid Lemonade - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/minute-maid-lemonade-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48034",
+      "food_name": "Sour Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/sour-cream",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770735",
+      "food_name": "Diet Dr Pepper - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/diet-dr-pepper-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770737",
+      "food_name": "Diet Dr Pepper - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/diet-dr-pepper-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770739",
+      "food_name": "Barq’s Root Beer - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/barq%E2%80%99s-root-beer-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770755",
+      "food_name": "FUZE Sweetened Raspberry Iced Tea - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/fuze-sweetened-raspberry-iced-tea-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770760",
+      "food_name": "Gold Peak Fresh-Brewed Sweetened Iced Tea - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/gold-peak-fresh-brewed-sweetened-iced-tea-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770767",
+      "food_name": "Gold Peak Fresh-Brewed Unsweetened Iced Tea - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/gold-peak-fresh-brewed-unsweetened-iced-tea-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770788",
+      "food_name": "Minute Maid Strawberry Lemonade - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/minute-maid-strawberry-lemonade-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770711",
+      "food_name": "Cherry Coke - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/cherry-coke-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770728",
+      "food_name": "Dr Pepper - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/dr-pepper-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770750",
+      "food_name": "Fanta Orange - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/fanta-orange-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770757",
+      "food_name": "Gold Peak Fresh-Brewed Sweetened Iced Tea - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/gold-peak-fresh-brewed-sweetened-iced-tea-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770774",
+      "food_name": "Hi-C Flashin’ Fruit Punch - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/hi-c-flashin%E2%80%99-fruit-punch-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770793",
+      "food_name": "Sprite - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/sprite-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770796",
+      "food_name": "Vitaminwater XXX - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/vitaminwater-xxx-large",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770808",
+      "food_name": "Vitaminwater XXX - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/vitaminwater-xxx-regular",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71770909",
+      "food_name": "The World's First Keto Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/el-pollo-loco/the-worlds-first-keto-burrito",
+      "brand_name": "El Pollo Loco",
+      "food_type": "Brand"
+    }
+  ]
+}

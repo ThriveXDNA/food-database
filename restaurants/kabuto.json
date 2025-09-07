@@ -1,0 +1,62 @@
+{
+  "restaurant": "Kabuto",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:42:53.939Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kabuto.json",
+  "items": [
+    {
+      "food_id": "12588015",
+      "food_name": "Imitation Crab Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kabuto/imitation-crab-stick",
+      "brand_name": "Kabuto",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81661183",
+      "food_name": "Rice Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kabuto/rice-crackers",
+      "brand_name": "Kabuto",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10687349",
+      "food_name": "Instant Wakame Miso Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kabuto/instant-wakame-miso-soup",
+      "brand_name": "Kabuto",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55342006",
+      "food_name": "Instant Tofu Miso Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kabuto/instant-tofu-miso-soup",
+      "brand_name": "Kabuto",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "56497899",
+      "food_name": "Zaru Soba",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kabuto/zaru-soba",
+      "brand_name": "Kabuto",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "695741",
+      "food_name": "Roasted Hot Green Peas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kabuto/roasted-hot-green-peas",
+      "brand_name": "Kabuto",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106935347",
+      "food_name": "Natto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kabuto/natto",
+      "brand_name": "Kabuto",
+      "food_type": "Brand"
+    }
+  ]
+}

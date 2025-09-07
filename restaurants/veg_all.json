@@ -1,0 +1,48 @@
+{
+  "restaurant": "Veg-All",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 894,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:56:51.758Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/veg_all.json",
+  "items": [
+    {
+      "food_id": "408638",
+      "food_name": "Original Mixed Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/veg-all/original-mixed-vegetables",
+      "brand_name": "Veg-All",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "274198",
+      "food_name": "Homestyle Large Cut Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/veg-all/homestyle-large-cut-vegetables",
+      "brand_name": "Veg-All",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "508776",
+      "food_name": "Steam Supreme Broccoli Florets, Cauliflower, Whole Baby Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/veg-all/steam-supreme-broccoli-florets-cauliflower-whole-baby-carrots",
+      "brand_name": "Veg-All",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "508762",
+      "food_name": "Broccoli, Cauliflower & Carrots with 3 Cheese Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/veg-all/broccoli-cauliflower-and-carrots-with-3-cheese-sauce",
+      "brand_name": "Veg-All",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "508787",
+      "food_name": "Steam Supreme Super Sweet Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/veg-all/steam-supreme-super-sweet-corn",
+      "brand_name": "Veg-All",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Bayside Bistro",
+  "total_items": 2,
+  "pages_extracted": 3,
+  "total_search_results": 103,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:11:33.762Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bayside_bistro.json",
+  "items": [
+    {
+      "food_id": "7371739",
+      "food_name": "Panko Crusted Wild Alaska Pollock",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bayside-bistro/panko-crusted-wild-alaska-pollock",
+      "brand_name": "Bayside Bistro",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8445631",
+      "food_name": "Jumbo Sea Scallops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bayside-bistro/jumbo-sea-scallops",
+      "brand_name": "Bayside Bistro",
+      "food_type": "Brand"
+    }
+  ]
+}

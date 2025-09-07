@@ -1,0 +1,55 @@
+{
+  "restaurant": "Matador",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:54:23.832Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/matador.json",
+  "items": [
+    {
+      "food_id": "22682791",
+      "food_name": "Teriyaki Tender Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/matador/teriyaki-tender-bites",
+      "brand_name": "Matador",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "248791",
+      "food_name": "Original Snack Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/matador/original-snack-sticks",
+      "brand_name": "Matador",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1173277",
+      "food_name": "Teriyaki Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/matador/teriyaki-beef-jerky",
+      "brand_name": "Matador",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1622889",
+      "food_name": "Original Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/matador/original-beef-jerky",
+      "brand_name": "Matador",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31248674",
+      "food_name": "Flamin' Hot Snack Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/matador/flamin-hot-snack-stick",
+      "brand_name": "Matador",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39501748",
+      "food_name": "Flamin' Hot Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/matador/flamin-hot-beef-jerky",
+      "brand_name": "Matador",
+      "food_type": "Brand"
+    }
+  ]
+}

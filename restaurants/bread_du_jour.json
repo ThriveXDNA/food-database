@@ -1,0 +1,27 @@
+{
+  "restaurant": "Bread du Jour",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 4140,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:27:44.971Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bread_du_jour.json",
+  "items": [
+    {
+      "food_id": "227135",
+      "food_name": "Italian Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bread-du-jour/italian-rolls",
+      "brand_name": "Bread du Jour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48649",
+      "food_name": "Cracked Wheat Rolls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bread-du-jour/cracked-wheat-rolls",
+      "brand_name": "Bread du Jour",
+      "food_type": "Brand"
+    }
+  ]
+}

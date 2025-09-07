@@ -1,0 +1,76 @@
+{
+  "restaurant": "Original Chop Shop",
+  "total_items": 9,
+  "pages_extracted": 6,
+  "total_search_results": 3013,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:33:54.996Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/original_chop_shop.json",
+  "items": [
+    {
+      "food_id": "80034219",
+      "food_name": "Beet Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-chop-shop/beet-salad",
+      "brand_name": "Original Chop Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61472770",
+      "food_name": "Teriyaki Chicken Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-chop-shop/teriyaki-chicken-bowl",
+      "brand_name": "Original Chop Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92808140",
+      "food_name": "Hot Honey Chicken and Hummus Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-chop-shop/hot-honey-chicken-and-hummus-bowl",
+      "brand_name": "Original Chop Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60358413",
+      "food_name": "Spicy Korean Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-chop-shop/spicy-korean-steak",
+      "brand_name": "Original Chop Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44913023",
+      "food_name": "Sweet Potato Hash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-chop-shop/sweet-potato-hash",
+      "brand_name": "Original Chop Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41603729",
+      "food_name": "Thai Coconut Chicken Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-chop-shop/thai-coconut-chicken-bowl",
+      "brand_name": "Original Chop Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77380289",
+      "food_name": "Muscle Malt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-chop-shop/muscle-malt",
+      "brand_name": "Original Chop Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63714081",
+      "food_name": "Red Chili Lime Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-chop-shop/red-chili-lime-shrimp",
+      "brand_name": "Original Chop Shop",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106703461",
+      "food_name": "Daily Detox Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/original-chop-shop/daily-detox-juice",
+      "brand_name": "Original Chop Shop",
+      "food_type": "Brand"
+    }
+  ]
+}

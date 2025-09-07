@@ -1,0 +1,33 @@
+{
+  "brand_name": "Nile Spice",
+  "brand_id": 392,
+  "total_items": 3,
+  "pages_extracted": 8,
+  "last_updated": "2025-09-06T20:35:04.356Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Brand-specific search with filtering",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/nile_spice.json",
+  "items": [
+    {
+      "food_id": "218826",
+      "food_name": "Couscous Parmesan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nile-spice/couscous-parmesan",
+      "brand_name": "Nile Spice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86381",
+      "food_name": "Lentil Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nile-spice/lentil-soup",
+      "brand_name": "Nile Spice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49638",
+      "food_name": "Red Beans & Rice Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nile-spice/red-beans-and-rice-soup",
+      "brand_name": "Nile Spice",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "restaurant": "DiLuigi",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:16:50.522Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/diluigi.json",
+  "items": [
+    {
+      "food_id": "20677839",
+      "food_name": "Sweet Italian Chicken Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/diluigi/sweet-italian-chicken-sausage",
+      "brand_name": "DiLuigi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8806713",
+      "food_name": "Beef Florentine Pinwheels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/diluigi/beef-florentine-pinwheels",
+      "brand_name": "DiLuigi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24014269",
+      "food_name": "Shaved Beef Steak",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/diluigi/shaved-beef-steak",
+      "brand_name": "DiLuigi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21316715",
+      "food_name": "Hot Italian Chicken Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/diluigi/hot-italian-chicken-sausage",
+      "brand_name": "DiLuigi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44251866",
+      "food_name": "Beef Patties with Cheddar Cheese & Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/diluigi/beef-patties-with-cheddar-cheese-bacon",
+      "brand_name": "DiLuigi",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "restaurant": "Basic American Foods",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 537,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:21:15.102Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/basic_american_foods.json",
+  "items": [
+    {
+      "food_id": "98731643",
+      "food_name": "Instant Mashed Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/basic-american-foods/instant-mashed-potatoes",
+      "brand_name": "Basic American Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4438436",
+      "food_name": "Golden Grill Russet Premium Hashbrown Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/basic-american-foods/golden-grill-russet-premium-hashbrown-potatoes",
+      "brand_name": "Basic American Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4922234",
+      "food_name": "Potato Pearls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/basic-american-foods/potato-pearls",
+      "brand_name": "Basic American Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1712350",
+      "food_name": "Golden Grill Hashbrown Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/basic-american-foods/golden-grill-hashbrown-potatoes",
+      "brand_name": "Basic American Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "878217",
+      "food_name": "Golden Grill Russet Hashbrown Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/basic-american-foods/golden-grill-russet-hashbrown-potatoes",
+      "brand_name": "Basic American Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

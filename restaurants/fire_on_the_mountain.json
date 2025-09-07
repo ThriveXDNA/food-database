@@ -1,0 +1,20 @@
+{
+  "restaurant": "Fire on the Mountain",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 2396,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:05:46.100Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fire_on_the_mountain.json",
+  "items": [
+    {
+      "food_id": "849527",
+      "food_name": "Hot Buffalo Wing Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fire-on-the-mountain/hot-buffalo-wing-sauce",
+      "brand_name": "Fire on the Mountain",
+      "food_type": "Brand"
+    }
+  ]
+}

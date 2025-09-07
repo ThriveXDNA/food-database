@@ -1,0 +1,34 @@
+{
+  "restaurant": "Valbest",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:34:48.301Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/valbest.json",
+  "items": [
+    {
+      "food_id": "3946778",
+      "food_name": "Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/valbest/chicken-breast",
+      "brand_name": "Valbest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "89253711",
+      "food_name": "Chicken Tenders",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/valbest/chicken-tenders",
+      "brand_name": "Valbest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "83233339",
+      "food_name": "Chicken Nuggets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/valbest/chicken-nuggets",
+      "brand_name": "Valbest",
+      "food_type": "Brand"
+    }
+  ]
+}

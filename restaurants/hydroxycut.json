@@ -1,0 +1,55 @@
+{
+  "restaurant": "Hydroxycut",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:05:37.003Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/hydroxycut.json",
+  "items": [
+    {
+      "food_id": "5740837",
+      "food_name": "Hydroxycut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hydroxycut/hydroxycut",
+      "brand_name": "Hydroxycut",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5228994",
+      "food_name": "Gummies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hydroxycut/gummies",
+      "brand_name": "Hydroxycut",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9678524",
+      "food_name": "Hydroxycut Drops",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hydroxycut/hydroxycut-drops",
+      "brand_name": "Hydroxycut",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106848",
+      "food_name": "WildBerry Powdered Instant Drink Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hydroxycut/wildberry-powdered-instant-drink-mix",
+      "brand_name": "Hydroxycut",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54903924",
+      "food_name": "Energy Drink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hydroxycut/energy-drink",
+      "brand_name": "Hydroxycut",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6687403",
+      "food_name": "Lean Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hydroxycut/lean-protein-bar",
+      "brand_name": "Hydroxycut",
+      "food_type": "Brand"
+    }
+  ]
+}

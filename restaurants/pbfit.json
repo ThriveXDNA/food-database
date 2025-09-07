@@ -1,0 +1,69 @@
+{
+  "restaurant": "PBfit",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:58:49.442Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/pbfit.json",
+  "items": [
+    {
+      "food_id": "45580247",
+      "food_name": "Peanut Butter Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pbfit/peanut-butter-powder",
+      "brand_name": "PBfit",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67718375",
+      "food_name": "Original Peanut Butter Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pbfit/original-peanut-butter-powder",
+      "brand_name": "PBfit",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10188769",
+      "food_name": "Sugar Free Peanut Butter Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pbfit/sugar-free-peanut-butter-powder",
+      "brand_name": "PBfit",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55786952",
+      "food_name": "Chocolate Peanut Butter Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pbfit/chocolate-peanut-butter-powder",
+      "brand_name": "PBfit",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68868752",
+      "food_name": "Pure Peanut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pbfit/pure-peanut",
+      "brand_name": "PBfit",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61837655",
+      "food_name": "Peanut Butter Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pbfit/peanut-butter-spread",
+      "brand_name": "PBfit",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96814122",
+      "food_name": "Protein Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pbfit/protein-granola",
+      "brand_name": "PBfit",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27896873",
+      "food_name": "Chocolate Pbfit Plus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pbfit/chocolate-pbfit-plus",
+      "brand_name": "PBfit",
+      "food_type": "Brand"
+    }
+  ]
+}

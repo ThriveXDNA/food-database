@@ -1,0 +1,34 @@
+{
+  "restaurant": "Odell",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:39:14.017Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/odell.json",
+  "items": [
+    {
+      "food_id": "15535621",
+      "food_name": "90 Shilling",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/odell/90-shilling",
+      "brand_name": "Odell",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28803871",
+      "food_name": "India Pale Ale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/odell/india-pale-ale",
+      "brand_name": "Odell",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37345628",
+      "food_name": "Good Behavior",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/odell/good-behavior",
+      "brand_name": "Odell",
+      "food_type": "Brand"
+    }
+  ]
+}

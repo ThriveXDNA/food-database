@@ -1,0 +1,27 @@
+{
+  "restaurant": "Daily Basics",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 89,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:31:24.693Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/daily_basics.json",
+  "items": [
+    {
+      "food_id": "15258249",
+      "food_name": "Italian Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/daily-basics/italian-dressing",
+      "brand_name": "Daily Basics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26121695",
+      "food_name": "American Imitation Singles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/daily-basics/american-imitation-singles",
+      "brand_name": "Daily Basics",
+      "food_type": "Brand"
+    }
+  ]
+}

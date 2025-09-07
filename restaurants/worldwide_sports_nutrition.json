@@ -1,0 +1,55 @@
+{
+  "restaurant": "Worldwide Sports Nutrition",
+  "total_items": 6,
+  "pages_extracted": 3,
+  "total_search_results": 147,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:02:16.985Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/worldwide_sports_nutrition.json",
+  "items": [
+    {
+      "food_id": "26815",
+      "food_name": "Pure Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/worldwide-sports-nutrition/pure-protein-bar",
+      "brand_name": "Worldwide Sports Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43355",
+      "food_name": "Pure Protein Vanilla Cream Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/worldwide-sports-nutrition/pure-protein-vanilla-cream-shake",
+      "brand_name": "Worldwide Sports Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98638",
+      "food_name": "Pure Protein Banana Creme Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/worldwide-sports-nutrition/pure-protein-banana-creme-shake",
+      "brand_name": "Worldwide Sports Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81033",
+      "food_name": "Pure Protein Frosty Chocolate Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/worldwide-sports-nutrition/pure-protein-frosty-chocolate-shake",
+      "brand_name": "Worldwide Sports Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80942",
+      "food_name": "Pure Protein Shake Vanilla Creme",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/worldwide-sports-nutrition/pure-protein-shake-vanilla-creme",
+      "brand_name": "Worldwide Sports Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "145384",
+      "food_name": "Pure Protein Cookies 'n Creme Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/worldwide-sports-nutrition/pure-protein-cookies-n-creme-shake",
+      "brand_name": "Worldwide Sports Nutrition",
+      "food_type": "Brand"
+    }
+  ]
+}

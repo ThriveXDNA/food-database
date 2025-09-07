@@ -1,0 +1,83 @@
+{
+  "restaurant": "Farm Fresh",
+  "total_items": 10,
+  "pages_extracted": 6,
+  "total_search_results": 1189,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:12:06.154Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/farm_fresh.json",
+  "items": [
+    {
+      "food_id": "20708735",
+      "food_name": "Hard Boiled Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-fresh/hard-boiled-eggs",
+      "brand_name": "Farm Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10884224",
+      "food_name": "Grade AA Large Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-fresh/grade-aa-large-eggs",
+      "brand_name": "Farm Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4275115",
+      "food_name": "Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-fresh/chicken-breast",
+      "brand_name": "Farm Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46622879",
+      "food_name": "Green Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-fresh/green-beans",
+      "brand_name": "Farm Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21946827",
+      "food_name": "Pure Fresh Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-fresh/pure-fresh-milk",
+      "brand_name": "Farm Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1441306",
+      "food_name": "Chicken Wings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-fresh/chicken-wings",
+      "brand_name": "Farm Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39716323",
+      "food_name": "Red Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-fresh/red-potatoes",
+      "brand_name": "Farm Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "894915",
+      "food_name": "Whole Wheat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-fresh/whole-wheat",
+      "brand_name": "Farm Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8876827",
+      "food_name": "Honey Wheat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-fresh/honey-wheat",
+      "brand_name": "Farm Fresh",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44819734",
+      "food_name": "Pickles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-fresh/pickles",
+      "brand_name": "Farm Fresh",
+      "food_type": "Brand"
+    }
+  ]
+}

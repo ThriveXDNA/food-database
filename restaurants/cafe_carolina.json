@@ -1,0 +1,41 @@
+{
+  "restaurant": "Cafe Carolina",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 290,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:39:08.596Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cafe_carolina.json",
+  "items": [
+    {
+      "food_id": "3615397",
+      "food_name": "House Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-carolina/house-salad",
+      "brand_name": "Cafe Carolina",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "337201",
+      "food_name": "Veggie Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-carolina/veggie-wrap",
+      "brand_name": "Cafe Carolina",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2414395",
+      "food_name": "Sweet Potato Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-carolina/sweet-potato-biscuit",
+      "brand_name": "Cafe Carolina",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5749229",
+      "food_name": "Classic Pepperoni Flatbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-carolina/classic-pepperoni-flatbread",
+      "brand_name": "Cafe Carolina",
+      "food_type": "Brand"
+    }
+  ]
+}

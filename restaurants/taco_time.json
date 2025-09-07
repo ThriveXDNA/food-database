@@ -1,0 +1,846 @@
+{
+  "restaurant": "Taco Time",
+  "total_items": 119,
+  "pages_extracted": 6,
+  "total_search_results": 1475,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:25:34.630Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/taco_time.json",
+  "items": [
+    {
+      "food_id": "85350507",
+      "food_name": "Taco Salad - Seasoned Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/taco-salad-seasoned-beef",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354836",
+      "food_name": "Cilantro",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/cilantro",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350657",
+      "food_name": "Churro - Cinnamon & Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/churro-cinnamon-sugar",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350480",
+      "food_name": "Taco Salad - Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/taco-salad-chicken",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350445",
+      "food_name": "Soft Taco - Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/soft-taco-chicken",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350528",
+      "food_name": "Mexi-Fries - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/mexi-fries-small",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350439",
+      "food_name": "Crisp Taco - Seasoned Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/crisp-taco-seasoned-beef",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350448",
+      "food_name": "Soft Taco - Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/soft-taco-pork",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350593",
+      "food_name": "Apple Empanada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/apple-empanada",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354609",
+      "food_name": "Pork Nachos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/pork-nachos",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350454",
+      "food_name": "Soft Taco - Seasoned Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/soft-taco-seasoned-beef",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350533",
+      "food_name": "Mexi-Fries - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/mexi-fries-regular",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90541",
+      "food_name": "Crisp Pinto Bean Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/crisp-pinto-bean-burrito",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20788183",
+      "food_name": "Crisp Meat Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/crisp-meat-burrito",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350880",
+      "food_name": "Green Chili Burrito - Pork Carnitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/green-chili-burrito-pork-carnitas",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12231889",
+      "food_name": "Cilantro Lime Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/cilantro-lime-dressing",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "207872",
+      "food_name": "Crisp Chicken Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/crisp-chicken-burrito",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354584",
+      "food_name": "Mini Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/mini-quesadilla",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "207875",
+      "food_name": "Soft Pinto Bean Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/soft-pinto-bean-burrito",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354570",
+      "food_name": "Soft Seasoned Beef Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/soft-seasoned-beef-burrito",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7103817",
+      "food_name": "Veggie Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/veggie-burrito",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350744",
+      "food_name": "Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/ranch-dressing",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350898",
+      "food_name": "Green Chili Enchiladas - Pork Carnitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/green-chili-enchiladas-pork-carnitas",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354866",
+      "food_name": "Original Hot Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/original-hot-sauce",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350721",
+      "food_name": "Lemon Wedge",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/lemon-wedge",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354885",
+      "food_name": "Navajo Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/navajo-taco",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350615",
+      "food_name": "Bavarian Cream Empanada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/bavarian-cream-empanada",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30998383",
+      "food_name": "Chicken Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/chicken-quesadilla",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350542",
+      "food_name": "Mexi-Fries - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/mexi-fries-large",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354607",
+      "food_name": "Chicken Nachos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/chicken-nachos",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350776",
+      "food_name": "Tortilla Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/tortilla-chips",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350893",
+      "food_name": "Green Chili Chimichanga - Pork Carnitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/green-chili-chimichanga-pork-carnitas",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354567",
+      "food_name": "Chicken Ranchero Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/chicken-ranchero-burrito",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350730",
+      "food_name": "Lime Wedge",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/lime-wedge",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350607",
+      "food_name": "Banana Cream Empanada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/banana-cream-empanada",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350459",
+      "food_name": "Super Soft Taco - Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/super-soft-taco-chicken",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350403",
+      "food_name": "Big Juan Burrito - Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/big-juan-burrito-pork",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354731",
+      "food_name": "Cinnamon Crustos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/cinnamon-crustos",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350518",
+      "food_name": "Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/black-beans",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7409578",
+      "food_name": "Sweet Pork Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/sweet-pork-burrito",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350558",
+      "food_name": "Seasoned Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/seasoned-rice",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350757",
+      "food_name": "Salsa Verde",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/salsa-verde",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85541169",
+      "food_name": "Chicken Fit Hit Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/chicken-fit-hit-bowl",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350473",
+      "food_name": "Super Soft Taco - Seasoned Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/super-soft-taco-seasoned-beef",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354612",
+      "food_name": "Seasoned Beef Nachos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/seasoned-beef-nachos",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350522",
+      "food_name": "Mexi-Fries, Kid's Size",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/mexi-fries-kids-size",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350864",
+      "food_name": "Enchilada Platter - Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/enchilada-platter-pork",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354895",
+      "food_name": "Bacon and Egg Burrito - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/bacon-and-egg-burrito-regular",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350808",
+      "food_name": "Casita Burrito Platter - Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/casita-burrito-platter-pork",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354910",
+      "food_name": "Sausage and Egg Burrito - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/sausage-and-egg-burrito-regular",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354923",
+      "food_name": "Breakfast Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/breakfast-quesadilla",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350766",
+      "food_name": "Sunflower Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/sunflower-seeds",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350843",
+      "food_name": "Enchilada Platter - Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/enchilada-platter-chicken",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41627936",
+      "food_name": "Fiesta Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/fiesta-chicken-salad",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354870",
+      "food_name": "Picante Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/picante-sauce",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350434",
+      "food_name": "Casita Burrito - Seasoned Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/casita-burrito-seasoned-beef",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350769",
+      "food_name": "Thousand Island",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/thousand-island",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354824",
+      "food_name": "Avocado Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/avocado-ranch",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354828",
+      "food_name": "Black Olives",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/black-olives",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354911",
+      "food_name": "Ultimate Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/ultimate-burrito",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350422",
+      "food_name": "Casita Burrito - Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/casita-burrito-chicken",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350556",
+      "food_name": "Refritos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/refritos",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350573",
+      "food_name": "Stuffed Mexi-Fries - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/stuffed-mexi-fries-regular",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350791",
+      "food_name": "Minute Maid Orange Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/minute-maid-orange-juice",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350876",
+      "food_name": "Enchilada Platter - Seasoned Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/enchilada-platter-seasoned-beef",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354894",
+      "food_name": "Bacon and Egg Burrito - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/bacon-and-egg-burrito-small",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354909",
+      "food_name": "Sausage and Egg Burrito - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/sausage-and-egg-burrito-small",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350701",
+      "food_name": "Strawberry Cheesecake Empanada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/strawberry-cheesecake-empanada",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350745",
+      "food_name": "Salsa Fresca",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/salsa-fresca",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84725053",
+      "food_name": "Chicken Caesar Soft Taco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/chicken-caesar-soft-taco",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354851",
+      "food_name": "Guacamole",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/guacamole",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354898",
+      "food_name": "Country Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/country-burrito",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350621",
+      "food_name": "Blueberry Empanada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/blueberry-empanada",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350626",
+      "food_name": "Cherry Empanada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/cherry-empanada",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350638",
+      "food_name": "Chocolate Chip Empanada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/chocolate-chip-empanada",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350690",
+      "food_name": "Peach Empanada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/peach-empanada",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354582",
+      "food_name": "Cheese Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/cheese-quesadilla",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354723",
+      "food_name": "Churro - Bavarian Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/churro-bavarian-cream",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350391",
+      "food_name": "Big Juan Burrito - Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/big-juan-burrito-chicken",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350426",
+      "food_name": "Casita Burrito - Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/casita-burrito-pork",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350563",
+      "food_name": "Stuffed Mexi-Fries - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/stuffed-mexi-fries-small",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350704",
+      "food_name": "Banana Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/banana-peppers",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350913",
+      "food_name": "Taco Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/taco-burger",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354830",
+      "food_name": "Casa Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/casa-sauce",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354850",
+      "food_name": "Fry Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/fry-sauce",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354873",
+      "food_name": "Enchilada Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/enchilada-soup",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354930",
+      "food_name": "Taters and Gravy - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/taters-and-gravy-regular",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350816",
+      "food_name": "Casita Burrito Platter - Seasoned Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/casita-burrito-platter-seasoned-beef",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350909",
+      "food_name": "Plate It (Rice & Beans Only)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/plate-it-(rice-beans-only)",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354574",
+      "food_name": "5 Alarm Burrito",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/5-alarm-burrito",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354604",
+      "food_name": "Original Nachos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/original-nachos",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350412",
+      "food_name": "Big Juan Burrito - Seasoned Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/big-juan-burrito-seasoned-beef",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350737",
+      "food_name": "Pepperoncinis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/pepperoncinis",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350466",
+      "food_name": "Super Soft Taco - Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/super-soft-taco-pork",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354821",
+      "food_name": "5 Alarm Hot Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/5-alarm-hot-sauce",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354832",
+      "food_name": "Cherry Peppers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/cherry-peppers",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354834",
+      "food_name": "Chipotle Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/chipotle-ranch",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354852",
+      "food_name": "Honey Mustard",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/honey-mustard",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354854",
+      "food_name": "Ketchup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/ketchup",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354864",
+      "food_name": "Onions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/onions",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354905",
+      "food_name": "Egg and Taters Burrito - Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/egg-and-taters-burrito-regular",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350696",
+      "food_name": "Pumpkin Empanada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/pumpkin-empanada",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350760",
+      "food_name": "Sour Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/sour-cream",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354840",
+      "food_name": "Enchilada Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/enchilada-sauce",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354925",
+      "food_name": "Taters and Gravy - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/taters-and-gravy-small",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350583",
+      "food_name": "Stuffed Mexi-Fries - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/stuffed-mexi-fries-large",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350674",
+      "food_name": "Cinnamon Swirl Empanada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/cinnamon-swirl-empanada",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350677",
+      "food_name": "Coconut Cream Empanada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/coconut-cream-empanada",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350825",
+      "food_name": "Chimi Platter - Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/chimi-platter-chicken",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350838",
+      "food_name": "Chimi Platter - Seasoned Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/chimi-platter-seasoned-beef",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354827",
+      "food_name": "BBQ Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/bbq-sauce",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73354902",
+      "food_name": "Egg and Taters Burrito - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/egg-and-taters-burrito-small",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350684",
+      "food_name": "Key Lime Empanada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/key-lime-empanada",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350829",
+      "food_name": "Chimi Platter - Pork",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/chimi-platter-pork",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350649",
+      "food_name": "Chocolate Peppermint Empanada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/chocolate-peppermint-empanada",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350710",
+      "food_name": "Jalapenos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/jalapenos",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350750",
+      "food_name": "Salsa Nuevo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/salsa-nuevo",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350781",
+      "food_name": "Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/coffee",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85350799",
+      "food_name": "Casita Burrito Platter - Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taco-time/casita-burrito-platter-chicken",
+      "brand_name": "Taco Time",
+      "food_type": "Brand"
+    }
+  ]
+}

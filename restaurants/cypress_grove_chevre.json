@@ -1,0 +1,27 @@
+{
+  "restaurant": "Cypress Grove Chevre",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 15,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:47:05.901Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cypress_grove_chevre.json",
+  "items": [
+    {
+      "food_id": "986336",
+      "food_name": "Humboldt Fog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cypress-grove-chevre/humboldt-fog",
+      "brand_name": "Cypress Grove Chevre",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3581904",
+      "food_name": "Psychedillic Goat Milk Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cypress-grove-chevre/psychedillic-goat-milk-cheese",
+      "brand_name": "Cypress Grove Chevre",
+      "food_type": "Brand"
+    }
+  ]
+}

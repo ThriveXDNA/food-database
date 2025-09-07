@@ -1,0 +1,48 @@
+{
+  "restaurant": "Tropical Cheese",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 12504,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:21:12.811Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/tropical_cheese.json",
+  "items": [
+    {
+      "food_id": "554133",
+      "food_name": "Queso Blanco",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tropical-cheese/queso-blanco",
+      "brand_name": "Tropical Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "427970",
+      "food_name": "Queso Fresco Mexican-Style Fresh White Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tropical-cheese/queso-fresco-mexican-style-fresh-white-cheese",
+      "brand_name": "Tropical Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2346321",
+      "food_name": "Queso De Freir",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tropical-cheese/queso-de-freir",
+      "brand_name": "Tropical Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "437016",
+      "food_name": "Quesito Casero Colombiano Colombian Style Fresh Homemade-Style White Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tropical-cheese/quesito-casero-colombiano-colombian-style-fresh-homemade-style-white-cheese",
+      "brand_name": "Tropical Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "437021",
+      "food_name": "Fresca Centroamericana Cuajada",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tropical-cheese/fresca-centroamericana-cuajada",
+      "brand_name": "Tropical Cheese",
+      "food_type": "Brand"
+    }
+  ]
+}

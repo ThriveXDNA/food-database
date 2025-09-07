@@ -1,0 +1,69 @@
+{
+  "restaurant": "Great Grains Bakery",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 431,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:15:34.007Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/great_grains_bakery.json",
+  "items": [
+    {
+      "food_id": "1736398",
+      "food_name": "San Francisco Sourdough Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-grains-bakery/san-francisco-sourdough-bread",
+      "brand_name": "Great Grains Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4044863",
+      "food_name": "Multigrain Bread with Flax Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-grains-bakery/multigrain-bread-with-flax-seeds",
+      "brand_name": "Great Grains Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7498321",
+      "food_name": "New York Rye",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-grains-bakery/new-york-rye",
+      "brand_name": "Great Grains Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3401137",
+      "food_name": "Double Fiber & Honey Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-grains-bakery/double-fiber-and-honey-bread",
+      "brand_name": "Great Grains Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5154336",
+      "food_name": "Country Potato Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-grains-bakery/country-potato-bread",
+      "brand_name": "Great Grains Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3020760",
+      "food_name": "Split Top Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-grains-bakery/split-top-wheat-bread",
+      "brand_name": "Great Grains Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4393480",
+      "food_name": "Old Fashioned White Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-grains-bakery/old-fashioned-white-bread",
+      "brand_name": "Great Grains Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68786169",
+      "food_name": "Rustic White Hoagie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-grains-bakery/rustic-white-hoagie",
+      "brand_name": "Great Grains Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

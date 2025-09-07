@@ -1,0 +1,62 @@
+{
+  "restaurant": "Nissui",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:37:07.800Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/nissui.json",
+  "items": [
+    {
+      "food_id": "1278589",
+      "food_name": "Shrimp Shumai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nissui/shrimp-shumai",
+      "brand_name": "Nissui",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "85507124",
+      "food_name": "Edamame",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nissui/edamame",
+      "brand_name": "Nissui",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84177906",
+      "food_name": "Mackerel in Brine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nissui/mackerel-in-brine",
+      "brand_name": "Nissui",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4909318",
+      "food_name": "Fish Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nissui/fish-sausage",
+      "brand_name": "Nissui",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51224428",
+      "food_name": "Grilled Rice Balls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nissui/grilled-rice-balls",
+      "brand_name": "Nissui",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1667636",
+      "food_name": "Crab Shumai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nissui/crab-shumai",
+      "brand_name": "Nissui",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73782123",
+      "food_name": "Mackerel in Soy Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nissui/mackerel-in-soy-sauce",
+      "brand_name": "Nissui",
+      "food_type": "Brand"
+    }
+  ]
+}

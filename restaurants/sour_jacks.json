@@ -1,0 +1,20 @@
+{
+  "restaurant": "Sour Jacks",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 855,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:54:53.377Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/sour_jacks.json",
+  "items": [
+    {
+      "food_id": "79658",
+      "food_name": "Original Sour Jacks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sour-jacks/original-sour-jacks",
+      "brand_name": "Sour Jacks",
+      "food_type": "Brand"
+    }
+  ]
+}

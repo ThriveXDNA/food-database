@@ -1,0 +1,62 @@
+{
+  "restaurant": "Keto Krisp",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 598,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:03:51.116Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/keto_krisp.json",
+  "items": [
+    {
+      "food_id": "55469753",
+      "food_name": "Chocolate Raspberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/keto-krisp/chocolate-raspberry",
+      "brand_name": "Keto Krisp",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55585946",
+      "food_name": "Almond Butter and Blackberry Jelly",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/keto-krisp/almond-butter-and-blackberry-jelly",
+      "brand_name": "Keto Krisp",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45866653",
+      "food_name": "Almond Butter Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/keto-krisp/almond-butter-bar",
+      "brand_name": "Keto Krisp",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44340525",
+      "food_name": "Chocolate Mint Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/keto-krisp/chocolate-mint-bar",
+      "brand_name": "Keto Krisp",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55615764",
+      "food_name": "Peanut Butter Chocolate Chunk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/keto-krisp/peanut-butter-chocolate-chunk",
+      "brand_name": "Keto Krisp",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55769674",
+      "food_name": "Almond Butter Chocolate Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/keto-krisp/almond-butter-chocolate-chip",
+      "brand_name": "Keto Krisp",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69813875",
+      "food_name": "Butter & Salt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/keto-krisp/butter-salt",
+      "brand_name": "Keto Krisp",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "restaurant": "True Jerky",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 486,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:58:40.819Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/true_jerky.json",
+  "items": [
+    {
+      "food_id": "25587161",
+      "food_name": "Original Peppered Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/true-jerky/original-peppered-beef-jerky",
+      "brand_name": "True Jerky",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "restaurant": "Life Choices",
+  "total_items": 3,
+  "pages_extracted": 3,
+  "total_search_results": 126,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:19:22.048Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/life_choices.json",
+  "items": [
+    {
+      "food_id": "107417",
+      "food_name": "OrganiCusine Thin Crust Organic Mushroom & Onion Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/life-choices/organicusine-thin-crust-organic-mushroom-and-onion-pizza",
+      "brand_name": "Life Choices",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "107416",
+      "food_name": "OrganiCusine Thin Crust Organic Chicken and Spinach Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/life-choices/organicusine-thin-crust-organic-chicken-and-spinach-pizza",
+      "brand_name": "Life Choices",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81368",
+      "food_name": "Living Right Pepperoni Mini Pizzas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/life-choices/living-right-pepperoni-mini-pizzas",
+      "brand_name": "Life Choices",
+      "food_type": "Brand"
+    }
+  ]
+}

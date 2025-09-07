@@ -1,0 +1,41 @@
+{
+  "restaurant": "Kuze Fuku & Sons",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 14,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:41:01.789Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/kuze_fuku_sons.json",
+  "items": [
+    {
+      "food_id": "42287515",
+      "food_name": "Yuzu Miso Premium Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kuze-fuku-sons/yuzu-miso-premium-sauce",
+      "brand_name": "Kuze Fuku & Sons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77256876",
+      "food_name": "Red Bean Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kuze-fuku-sons/red-bean-spread",
+      "brand_name": "Kuze Fuku & Sons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74890199",
+      "food_name": "Garlic Miso",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kuze-fuku-sons/garlic-miso",
+      "brand_name": "Kuze Fuku & Sons",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63510403",
+      "food_name": "Enoki Mushrooms with Seven Japanese Spices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kuze-fuku-sons/enoki-mushrooms-with-seven-japanese-spices",
+      "brand_name": "Kuze Fuku & Sons",
+      "food_type": "Brand"
+    }
+  ]
+}

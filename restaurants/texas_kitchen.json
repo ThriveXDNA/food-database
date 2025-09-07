@@ -1,0 +1,34 @@
+{
+  "restaurant": "Texas Kitchen",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 322,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:54:10.588Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/texas_kitchen.json",
+  "items": [
+    {
+      "food_id": "60482155",
+      "food_name": "Baked Potato Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/texas-kitchen/baked-potato-salad",
+      "brand_name": "Texas Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23903565",
+      "food_name": "Cranberry Pecan White Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/texas-kitchen/cranberry-pecan-white-chicken-salad",
+      "brand_name": "Texas Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33862753",
+      "food_name": "Macaroni Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/texas-kitchen/macaroni-salad",
+      "brand_name": "Texas Kitchen",
+      "food_type": "Brand"
+    }
+  ]
+}

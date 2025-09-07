@@ -1,0 +1,41 @@
+{
+  "restaurant": "Taos Mountain",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 312,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:07:42.420Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/taos_mountain.json",
+  "items": [
+    {
+      "food_id": "10495552",
+      "food_name": "Toasted Coconut Energy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taos-mountain/toasted-coconut-energy-bar",
+      "brand_name": "Taos Mountain",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8295538",
+      "food_name": "Almond Agave Energy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taos-mountain/almond-agave-energy-bar",
+      "brand_name": "Taos Mountain",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30429132",
+      "food_name": "Piñon Coffee Energy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taos-mountain/pi%C3%B1on-coffee-energy-bar",
+      "brand_name": "Taos Mountain",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30378152",
+      "food_name": "Maple Praline Energy Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/taos-mountain/maple-praline-energy-bar",
+      "brand_name": "Taos Mountain",
+      "food_type": "Brand"
+    }
+  ]
+}

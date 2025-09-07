@@ -1,0 +1,55 @@
+{
+  "restaurant": "Hime",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:40:06.826Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/hime.json",
+  "items": [
+    {
+      "food_id": "74067",
+      "food_name": "Sushi Nori Roasted Seaweed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hime/sushi-nori-roasted-seaweed",
+      "brand_name": "Hime",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "637562",
+      "food_name": "Japanese Buckwheat Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hime/japanese-buckwheat-noodles",
+      "brand_name": "Hime",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39909988",
+      "food_name": "Japanese Ramen Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hime/japanese-ramen-noodles",
+      "brand_name": "Hime",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "267869",
+      "food_name": "Seasoned Fried Bean Curd",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hime/seasoned-fried-bean-curd",
+      "brand_name": "Hime",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "637563",
+      "food_name": "Japanese Udon Noodles with 100% Premium Wheat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hime/japanese-udon-noodles-with-100%25-premium-wheat",
+      "brand_name": "Hime",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "258834",
+      "food_name": "Green Tea Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hime/green-tea-ice-cream",
+      "brand_name": "Hime",
+      "food_type": "Brand"
+    }
+  ]
+}

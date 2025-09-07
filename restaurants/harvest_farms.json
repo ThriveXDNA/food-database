@@ -1,0 +1,27 @@
+{
+  "restaurant": "Harvest Farms",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 369,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:50:53.956Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/harvest_farms.json",
+  "items": [
+    {
+      "food_id": "29595765",
+      "food_name": "Premium Uncured Beef Frank",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harvest-farms/premium-uncured-beef-frank",
+      "brand_name": "Harvest Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74693650",
+      "food_name": "Organic Spring Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harvest-farms/organic-spring-mix",
+      "brand_name": "Harvest Farms",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "restaurant": "Black Tie",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 2627,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:38:56.083Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/black_tie.json",
+  "items": [
+    {
+      "food_id": "29500340",
+      "food_name": "Wild Caught Ono",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/black-tie/wild-caught-ono",
+      "brand_name": "Black Tie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1962925",
+      "food_name": "Ono",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/black-tie/ono",
+      "brand_name": "Black Tie",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2791243",
+      "food_name": "Opah",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/black-tie/opah",
+      "brand_name": "Black Tie",
+      "food_type": "Brand"
+    }
+  ]
+}

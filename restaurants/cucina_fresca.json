@@ -1,0 +1,55 @@
+{
+  "restaurant": "Cucina Fresca",
+  "total_items": 6,
+  "pages_extracted": 2,
+  "total_search_results": 89,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:18:44.872Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cucina_fresca.json",
+  "items": [
+    {
+      "food_id": "41641",
+      "food_name": "Spinach and Ricotta Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cucina-fresca/spinach-and-ricotta-ravioli",
+      "brand_name": "Cucina Fresca",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2383986",
+      "food_name": "Tomato Vodka Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cucina-fresca/tomato-vodka-sauce",
+      "brand_name": "Cucina Fresca",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "512125",
+      "food_name": "Gnocchi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cucina-fresca/gnocchi",
+      "brand_name": "Cucina Fresca",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3077480",
+      "food_name": "Marinara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cucina-fresca/marinara",
+      "brand_name": "Cucina Fresca",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4435135",
+      "food_name": "Butternut Squash Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cucina-fresca/butternut-squash-ravioli",
+      "brand_name": "Cucina Fresca",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "370192",
+      "food_name": "Caramelized Pear & Gorgonzola Ravioli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cucina-fresca/caramelized-pear-and-gorgonzola-ravioli",
+      "brand_name": "Cucina Fresca",
+      "food_type": "Brand"
+    }
+  ]
+}

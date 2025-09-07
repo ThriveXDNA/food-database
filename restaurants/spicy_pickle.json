@@ -1,0 +1,34 @@
+{
+  "restaurant": "Spicy Pickle",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 1955,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:27:31.529Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/spicy_pickle.json",
+  "items": [
+    {
+      "food_id": "898791",
+      "food_name": "Italian Panini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spicy-pickle/italian-panini",
+      "brand_name": "Spicy Pickle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5638656",
+      "food_name": "Tuna Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spicy-pickle/tuna-salad",
+      "brand_name": "Spicy Pickle",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3013022",
+      "food_name": "Corn & Green Chili Bisque",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/spicy-pickle/corn-and-green-chili-bisque",
+      "brand_name": "Spicy Pickle",
+      "food_type": "Brand"
+    }
+  ]
+}

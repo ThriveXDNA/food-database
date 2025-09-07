@@ -1,0 +1,496 @@
+{
+  "restaurant": "Palm",
+  "total_items": 69,
+  "pages_extracted": 2,
+  "total_search_results": 69,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:07:22.131Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/palm.json",
+  "items": [
+    {
+      "food_id": "3134362",
+      "food_name": "Corned Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palm/corned-beef",
+      "brand_name": "Palm",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79238854",
+      "food_name": "Liver Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palm/liver-spread",
+      "brand_name": "Palm",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019265",
+      "food_name": "Iced Palm Beach Black Tea Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-palm-beach-black-tea-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019276",
+      "food_name": "Iced Palm Beach Black Tea Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-palm-beach-black-tea-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019281",
+      "food_name": "Iced Palm Beach Green Tea Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-palm-beach-green-tea-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849517",
+      "food_name": "Hot Palm Beach Black Tea Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/hot-palm-beach-black-tea-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849519",
+      "food_name": "Hot Palm Beach Black Tea Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/hot-palm-beach-black-tea-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849520",
+      "food_name": "Hot Palm Beach Black Tea Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/hot-palm-beach-black-tea-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849521",
+      "food_name": "Hot Palm Beach Green Tea Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/hot-palm-beach-green-tea-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849522",
+      "food_name": "Hot Palm Beach Green Tea Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/hot-palm-beach-green-tea-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86849524",
+      "food_name": "Hot Palm Beach Green Tea Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/hot-palm-beach-green-tea-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12892837",
+      "food_name": "Quinoa Salad Hearts of Palm & Artichokes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/marketside/quinoa-salad-hearts-of-palm-and-artichokes",
+      "brand_name": "Marketside",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80299086",
+      "food_name": "Palm Springs Banana Chocolate Date Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alecs-ice-cream/palm-springs-banana-chocolate-date-shake",
+      "brand_name": "Alec's Ice Cream",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019277",
+      "food_name": "Iced Palm Beach Black Tea Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-palm-beach-black-tea-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019279",
+      "food_name": "Iced Palm Beach Green Tea Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-palm-beach-green-tea-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019280",
+      "food_name": "Iced Palm Beach Green Tea Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-palm-beach-green-tea-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6175937",
+      "food_name": "Artichoke & Hearts of Palm Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/artichoke-and-hearts-of-palm-salad",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41989304",
+      "food_name": "Hearts of Palm in Brine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/private-selection/hearts-of-palm-in-brine",
+      "brand_name": "Private Selection",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42166114",
+      "food_name": "Angel Hair Hearts of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/natural-heaven/angel-hair-hearts-of-palm",
+      "brand_name": "Natural Heaven",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019067",
+      "food_name": "Iced Palm Beach Soda Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-palm-beach-soda-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019076",
+      "food_name": "Iced Palm Beach Soda Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-palm-beach-soda-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019189",
+      "food_name": "Iced Palm Beach Lemonade Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-palm-beach-lemonade-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019190",
+      "food_name": "Iced Palm Beach Lemonade Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-palm-beach-lemonade-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019220",
+      "food_name": "Blended Palm Beach Lemonade Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-palm-beach-lemonade-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49696409",
+      "food_name": "Hearts of Palm Angel Hair",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palmini/hearts-of-palm-angel-hair",
+      "brand_name": "Palmini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76597063",
+      "food_name": "Hearts of Palm Linguine Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/simply-nature/hearts-of-palm-linguine-pasta",
+      "brand_name": "Simply Nature",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019075",
+      "food_name": "Iced Palm Beach Soda Medium",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-palm-beach-soda-medium",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019077",
+      "food_name": "Iced Palm Beach Soda Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-palm-beach-soda-kids",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019191",
+      "food_name": "Iced Palm Beach Lemonade Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-palm-beach-lemonade-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019192",
+      "food_name": "Iced Palm Beach Lemonade Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/iced-palm-beach-lemonade-kids",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019193",
+      "food_name": "Blended Palm Beach Lemonade Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-palm-beach-lemonade-large",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019212",
+      "food_name": "Blended Palm Beach Lemonade Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-palm-beach-lemonade-small",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81019213",
+      "food_name": "Blended Palm Beach Lemonade Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dutch-bros/blended-palm-beach-lemonade-kids",
+      "brand_name": "Dutch Bros",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3184053",
+      "food_name": "Organic Coconut Palm Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweet-tree/organic-coconut-palm-sugar",
+      "brand_name": "Sweet Tree",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4615992",
+      "food_name": "Organic Coconut Palm Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wholesome-sweeteners/organic-coconut-palm-sugar",
+      "brand_name": "Wholesome Sweeteners",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9455029",
+      "food_name": "Organic Red Palm Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/organic-red-palm-oil",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68444008",
+      "food_name": "Riced Hearts of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/riced-hearts-of-palm",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49568213",
+      "food_name": "Hearts of Palm Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palmini/hearts-of-palm-rice",
+      "brand_name": "Palmini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48387074",
+      "food_name": "Hearts of Palm Lasagne",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/whole-foods-market/hearts-of-palm-lasagne",
+      "brand_name": "Whole Foods Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35577051",
+      "food_name": "Hearts of Palm Lasagna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palmini/hearts-of-palm-lasagna",
+      "brand_name": "Palmini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47240026",
+      "food_name": "Cut Hearts of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/iberia/cut-hearts-of-palm",
+      "brand_name": "Iberia",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80349890",
+      "food_name": "Whole Hearts of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/goya/whole-hearts-of-palm",
+      "brand_name": "Goya",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14288247",
+      "food_name": "Organic Coconut Palm Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/better-body-foods/organic-coconut-palm-sugar",
+      "brand_name": "Better Body Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13436107",
+      "food_name": "Organic Hearts of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/native-forest/organic-hearts-of-palm",
+      "brand_name": "Native Forest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23105537",
+      "food_name": "Hearts of Palm Linguine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palmini/hearts-of-palm-linguine",
+      "brand_name": "Palmini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43948301",
+      "food_name": "Hearts of Palm Spaghetti",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/festival/hearts-of-palm-spaghetti",
+      "brand_name": "Festival",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52326035",
+      "food_name": "Hearts of Palm Mashed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/palmini/hearts-of-palm-mashed",
+      "brand_name": "Palmini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54049419",
+      "food_name": "Hearts of Palm Linguine",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/whole-foods-market/hearts-of-palm-linguine",
+      "brand_name": "Whole Foods Market",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41255490",
+      "food_name": "Hearts of Palm Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/hearts-of-palm-pasta",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41600281",
+      "food_name": "Palm Noodle Pad Thai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freshly/palm-noodle-pad-thai",
+      "brand_name": "Freshly",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "266753",
+      "food_name": "Hearts of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/hearts-of-palm",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "277450",
+      "food_name": "Hearts of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pastene/hearts-of-palm",
+      "brand_name": "Pastene",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2191166",
+      "food_name": "Organic Palm Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/navitas-naturals/organic-palm-sugar",
+      "brand_name": "Navitas Naturals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4943116",
+      "food_name": "Hearts of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/international-bazaar/hearts-of-palm",
+      "brand_name": "International Bazaar",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6096001",
+      "food_name": "Red Palm Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutiva/red-palm-oil",
+      "brand_name": "Nutiva",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18702232",
+      "food_name": "Hearts of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-value/hearts-of-palm",
+      "brand_name": "Great Value",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4613239",
+      "food_name": "Hearts of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/reese/hearts-of-palm",
+      "brand_name": "Reese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3075712",
+      "food_name": "Hearts of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sunpix/hearts-of-palm",
+      "brand_name": "SunPix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44893399",
+      "food_name": "Coconut Palm Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/better-body-foods/coconut-palm-sugar",
+      "brand_name": "Better Body Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84986",
+      "food_name": "Hearts of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/berkley-and-jensen/hearts-of-palm",
+      "brand_name": "Berkley & Jensen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "676570",
+      "food_name": "Hearts of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roland/hearts-of-palm",
+      "brand_name": "Roland",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4514827",
+      "food_name": "Hearts of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vigo/hearts-of-palm",
+      "brand_name": "Vigo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3099392",
+      "food_name": "Hearts of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/melissas/hearts-of-palm",
+      "brand_name": "Melissa's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3204461",
+      "food_name": "Coconut Palm Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sweet-tree/coconut-palm-sugar",
+      "brand_name": "Sweet Tree",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4052853",
+      "food_name": "Hearts of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/delallo/hearts-of-palm",
+      "brand_name": "Delallo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66264981",
+      "food_name": "Palm Peach Applesauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-value/palm-peach-applesauce",
+      "brand_name": "Great Value",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40751955",
+      "food_name": "Hearts of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/golden-farms/hearts-of-palm",
+      "brand_name": "Golden Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73748301",
+      "food_name": "Hearts Of Palm",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chopt/hearts-of-palm",
+      "brand_name": "Chop't",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81909802",
+      "food_name": "Coconut Palm Sugar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/terrasoul-superfoods/coconut-palm-sugar",
+      "brand_name": "Terrasoul Superfoods",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Cafe Du Monde",
+  "total_items": 2,
+  "pages_extracted": 5,
+  "total_search_results": 240,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:39:12.310Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/cafe_du_monde.json",
+  "items": [
+    {
+      "food_id": "1180655",
+      "food_name": "Beignets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-du-monde/beignets",
+      "brand_name": "Cafe Du Monde",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2229230",
+      "food_name": "Beignet Mix French Doughnuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/cafe-du-monde/beignet-mix-french-doughnuts",
+      "brand_name": "Cafe Du Monde",
+      "food_type": "Brand"
+    }
+  ]
+}

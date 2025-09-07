@@ -1,0 +1,55 @@
+{
+  "restaurant": "Excelsior",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:07:08.058Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/excelsior.json",
+  "items": [
+    {
+      "food_id": "2033050",
+      "food_name": "Genuine Jamaican Water Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/excelsior/genuine-jamaican-water-crackers",
+      "brand_name": "Excelsior",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19268294",
+      "food_name": "Water Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/excelsior/water-crackers",
+      "brand_name": "Excelsior",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "882010",
+      "food_name": "Cream Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/excelsior/cream-crackers",
+      "brand_name": "Excelsior",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8729192",
+      "food_name": "Wheat Biscuits",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/excelsior/wheat-biscuits",
+      "brand_name": "Excelsior",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50339192",
+      "food_name": "Corned Beef",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/excelsior/corned-beef",
+      "brand_name": "Excelsior",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78822442",
+      "food_name": "Wheat Snackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/excelsior/wheat-snackers",
+      "brand_name": "Excelsior",
+      "food_type": "Brand"
+    }
+  ]
+}

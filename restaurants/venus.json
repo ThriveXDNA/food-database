@@ -1,0 +1,48 @@
+{
+  "restaurant": "Venus",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:20:37.163Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/venus.json",
+  "items": [
+    {
+      "food_id": "1163664",
+      "food_name": "Chinese Style Sweet Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/venus/chinese-style-sweet-sausage",
+      "brand_name": "Venus",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17616708",
+      "food_name": "Fish Balls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/venus/fish-balls",
+      "brand_name": "Venus",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "666431",
+      "food_name": "Pork Meat Balls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/venus/pork-meat-balls",
+      "brand_name": "Venus",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17983397",
+      "food_name": "Mars Venus Superfoods Shake for Men - Natural Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/isagenix/mars-venus-superfoods-shake-for-men-natural-chocolate",
+      "brand_name": "Isagenix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17983402",
+      "food_name": "Mars Venus Superfoods Shake for Women - Natural Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/isagenix/mars-venus-superfoods-shake-for-women-natural-chocolate",
+      "brand_name": "Isagenix",
+      "food_type": "Brand"
+    }
+  ]
+}

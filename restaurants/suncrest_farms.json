@@ -1,0 +1,55 @@
+{
+  "restaurant": "Suncrest Farms",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 16,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:58:57.953Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/suncrest_farms.json",
+  "items": [
+    {
+      "food_id": "14856494",
+      "food_name": "Pork Rinds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/suncrest-farms/pork-rinds",
+      "brand_name": "Suncrest Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16761783",
+      "food_name": "Salt & Pepper Pork Skins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/suncrest-farms/salt-pepper-pork-skins",
+      "brand_name": "Suncrest Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6196993",
+      "food_name": "Salt & Vinegar Pork Skins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/suncrest-farms/salt-vinegar-pork-skins",
+      "brand_name": "Suncrest Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6275489",
+      "food_name": "Hot Pork Skins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/suncrest-farms/hot-pork-skins",
+      "brand_name": "Suncrest Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51934225",
+      "food_name": "Country Ham Biscuit Pieces",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/suncrest-farms/country-ham-biscuit-pieces",
+      "brand_name": "Suncrest Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23346566",
+      "food_name": "Bar-B-Q Pork Skins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/suncrest-farms/bar-b-q-pork-skins",
+      "brand_name": "Suncrest Farms",
+      "food_type": "Brand"
+    }
+  ]
+}

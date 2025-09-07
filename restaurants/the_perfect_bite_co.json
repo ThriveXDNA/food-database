@@ -1,0 +1,55 @@
+{
+  "restaurant": "The Perfect Bite Co.",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 1418,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:35:59.280Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_perfect_bite_co.json",
+  "items": [
+    {
+      "food_id": "20831417",
+      "food_name": "Riced Cauliflower Medley with Teriyaki Glaze",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-perfect-bite-co/riced-cauliflower-medley-with-teriyaki-glaze",
+      "brand_name": "The Perfect Bite Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55427935",
+      "food_name": "Cheesy Corn with Applewood Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-perfect-bite-co/cheesy-corn-with-applewood-bacon",
+      "brand_name": "The Perfect Bite Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "44527964",
+      "food_name": "Brie Tartlets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-perfect-bite-co/brie-tartlets",
+      "brand_name": "The Perfect Bite Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13011251",
+      "food_name": "Hawaiian Style Rice & Vegetable Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-perfect-bite-co/hawaiian-style-rice-and-vegetable-blend",
+      "brand_name": "The Perfect Bite Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63899235",
+      "food_name": "Keto Pad Thai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-perfect-bite-co/keto-pad-thai",
+      "brand_name": "The Perfect Bite Co.",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74101431",
+      "food_name": "Riced Cauliflower Medley with Teriyaki Glaze (143g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-perfect-bite-co/riced-cauliflower-medley-with-teriyaki-glaze-(143g)",
+      "brand_name": "The Perfect Bite Co.",
+      "food_type": "Brand"
+    }
+  ]
+}

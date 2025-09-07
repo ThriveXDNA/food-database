@@ -1,0 +1,76 @@
+{
+  "restaurant": "Wildtree",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:30:36.073Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/wildtree.json",
+  "items": [
+    {
+      "food_id": "2038815",
+      "food_name": "Cilantro Lime Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wildtree/cilantro-lime-vinaigrette",
+      "brand_name": "Wildtree",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6164945",
+      "food_name": "Wildly Blueberry Jam",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wildtree/wildly-blueberry-jam",
+      "brand_name": "Wildtree",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10346701",
+      "food_name": "Energy Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wildtree/energy-bites",
+      "brand_name": "Wildtree",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5698972",
+      "food_name": "Taco Seasoning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wildtree/taco-seasoning",
+      "brand_name": "Wildtree",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27556877",
+      "food_name": "Sweet Onion Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wildtree/sweet-onion-dressing",
+      "brand_name": "Wildtree",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4835720",
+      "food_name": "Adobo Seasoning Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wildtree/adobo-seasoning-blend",
+      "brand_name": "Wildtree",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9107327",
+      "food_name": "Buttermilk Pancakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wildtree/buttermilk-pancakes",
+      "brand_name": "Wildtree",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21725508",
+      "food_name": "Sweet Onion Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wildtree/sweet-onion-spread",
+      "brand_name": "Wildtree",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22313682",
+      "food_name": "Garlic Galore Seasoning Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wildtree/garlic-galore-seasoning-blend",
+      "brand_name": "Wildtree",
+      "food_type": "Brand"
+    }
+  ]
+}

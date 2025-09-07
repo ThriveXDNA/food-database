@@ -1,0 +1,41 @@
+{
+  "restaurant": "Maverik",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:50:38.105Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/maverik.json",
+  "items": [
+    {
+      "food_id": "25415714",
+      "food_name": "Hot Dog Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/maverik/hot-dog-bun",
+      "brand_name": "Maverik",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48517995",
+      "food_name": "Honey BBQ Potato Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/maverik/honey-bbq-potato-chips",
+      "brand_name": "Maverik",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87966980",
+      "food_name": "Bahama Mama",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/maverik/bahama-mama",
+      "brand_name": "Maverik",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4683333",
+      "food_name": "Peppered Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/maverik/peppered-beef-jerky",
+      "brand_name": "Maverik",
+      "food_type": "Brand"
+    }
+  ]
+}

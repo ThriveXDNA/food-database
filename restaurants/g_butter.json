@@ -1,0 +1,69 @@
+{
+  "restaurant": "G Butter",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 4977,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:42:53.181Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/g_butter.json",
+  "items": [
+    {
+      "food_id": "19190437",
+      "food_name": "Sugar Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/g-butter/sugar-cookie",
+      "brand_name": "G Butter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13366299",
+      "food_name": "Brownie Batter",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/g-butter/brownie-batter",
+      "brand_name": "G Butter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13466228",
+      "food_name": "Cookie Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/g-butter/cookie-dough",
+      "brand_name": "G Butter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17157377",
+      "food_name": "Cookies & Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/g-butter/cookies-and-cream",
+      "brand_name": "G Butter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22095578",
+      "food_name": "Peanut Butter Cup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/g-butter/peanut-butter-cup",
+      "brand_name": "G Butter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22836250",
+      "food_name": "White Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/g-butter/white-chocolate",
+      "brand_name": "G Butter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29977485",
+      "food_name": "Red Velvet Icing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/g-butter/red-velvet-icing",
+      "brand_name": "G Butter",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17149597",
+      "food_name": "Birthday Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/g-butter/birthday-cake",
+      "brand_name": "G Butter",
+      "food_type": "Brand"
+    }
+  ]
+}

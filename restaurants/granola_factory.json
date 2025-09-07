@@ -1,0 +1,34 @@
+{
+  "restaurant": "Granola Factory",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 1386,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:01:29.408Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/granola_factory.json",
+  "items": [
+    {
+      "food_id": "7746976",
+      "food_name": "Native Berry Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granola-factory/native-berry-granola",
+      "brand_name": "Granola Factory",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2910338",
+      "food_name": "Honey Pecan Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granola-factory/honey-pecan-granola",
+      "brand_name": "Granola Factory",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55671025",
+      "food_name": "Bethlehem Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/granola-factory/bethlehem-bar",
+      "brand_name": "Granola Factory",
+      "food_type": "Brand"
+    }
+  ]
+}

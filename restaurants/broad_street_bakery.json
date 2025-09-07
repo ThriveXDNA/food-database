@@ -1,0 +1,69 @@
+{
+  "restaurant": "Broad Street Bakery",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 281,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:14:35.537Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/broad_street_bakery.json",
+  "items": [
+    {
+      "food_id": "7026812",
+      "food_name": "Boston Creme Honey Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/broad-street-bakery/boston-creme-honey-bun",
+      "brand_name": "Broad Street Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "922753",
+      "food_name": "Strawberry Shortcake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/broad-street-bakery/strawberry-shortcake",
+      "brand_name": "Broad Street Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1650193",
+      "food_name": "Banana Pudding Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/broad-street-bakery/banana-pudding-cakes",
+      "brand_name": "Broad Street Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104406",
+      "food_name": "Double Chocolate Cupcakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/broad-street-bakery/double-chocolate-cupcakes",
+      "brand_name": "Broad Street Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3941146",
+      "food_name": "Strawberry Angel Food Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/broad-street-bakery/strawberry-angel-food-cakes",
+      "brand_name": "Broad Street Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6125300",
+      "food_name": "Coconut Crunch Mini Donuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/broad-street-bakery/coconut-crunch-mini-donuts",
+      "brand_name": "Broad Street Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "221576",
+      "food_name": "Jumbo Honey Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/broad-street-bakery/jumbo-honey-bun",
+      "brand_name": "Broad Street Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17388828",
+      "food_name": "Cherry Turnover",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/broad-street-bakery/cherry-turnover",
+      "brand_name": "Broad Street Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

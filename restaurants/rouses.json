@@ -1,0 +1,48 @@
+{
+  "restaurant": "Rouses",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:31:21.367Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rouses.json",
+  "items": [
+    {
+      "food_id": "2252821",
+      "food_name": "Hot Dog Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rouses/hot-dog-bun",
+      "brand_name": "Rouses",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8649427",
+      "food_name": "Rotisserie Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rouses/rotisserie-chicken",
+      "brand_name": "Rouses",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "94001037",
+      "food_name": "Habanero Stuffed Green Olives",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rouses/habanero-stuffed-green-olives",
+      "brand_name": "Rouses",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "401651",
+      "food_name": "Italian Olive Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rouses/italian-olive-salad",
+      "brand_name": "Rouses",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73803698",
+      "food_name": "Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rouses/chicken-salad",
+      "brand_name": "Rouses",
+      "food_type": "Brand"
+    }
+  ]
+}

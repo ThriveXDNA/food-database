@@ -1,0 +1,69 @@
+{
+  "restaurant": "A Dozen Cousins",
+  "total_items": 8,
+  "pages_extracted": 6,
+  "total_search_results": 647,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:25:21.101Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/a_dozen_cousins.json",
+  "items": [
+    {
+      "food_id": "53660124",
+      "food_name": "Rice Cooked in Bone Broth",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-dozen-cousins/rice-cooked-in-bone-broth",
+      "brand_name": "A Dozen Cousins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35488912",
+      "food_name": "Cuban Black Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-dozen-cousins/cuban-black-beans",
+      "brand_name": "A Dozen Cousins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50761182",
+      "food_name": "Mexican Cowboy Pinto Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-dozen-cousins/mexican-cowboy-pinto-beans",
+      "brand_name": "A Dozen Cousins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48186513",
+      "food_name": "Trini Chickpea Curry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-dozen-cousins/trini-chickpea-curry",
+      "brand_name": "A Dozen Cousins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50557412",
+      "food_name": "Classic Refried Pinto Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-dozen-cousins/classic-refried-pinto-beans",
+      "brand_name": "A Dozen Cousins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "97131043",
+      "food_name": "White Bean Chile Verde",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-dozen-cousins/white-bean-chile-verde",
+      "brand_name": "A Dozen Cousins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104760036",
+      "food_name": "Jamaican Jerk Seasoning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-dozen-cousins/jamaican-jerk-seasoning",
+      "brand_name": "A Dozen Cousins",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67197439",
+      "food_name": "Creole Red Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/a-dozen-cousins/creole-red-beans",
+      "brand_name": "A Dozen Cousins",
+      "food_type": "Brand"
+    }
+  ]
+}

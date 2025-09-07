@@ -1,0 +1,41 @@
+{
+  "restaurant": "Vicolo",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:22:19.218Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/vicolo.json",
+  "items": [
+    {
+      "food_id": "4021844",
+      "food_name": "Italian Sausage Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vicolo/italian-sausage-pizza",
+      "brand_name": "Vicolo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28186888",
+      "food_name": "Roasted Mushroom Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vicolo/roasted-mushroom-pizza",
+      "brand_name": "Vicolo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "820713",
+      "food_name": "Uncured Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vicolo/uncured-pepperoni-pizza",
+      "brand_name": "Vicolo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12115954",
+      "food_name": "Organic Corn Meal Pizza Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vicolo/organic-corn-meal-pizza-crust",
+      "brand_name": "Vicolo",
+      "food_type": "Brand"
+    }
+  ]
+}

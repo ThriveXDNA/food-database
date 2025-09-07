@@ -1,0 +1,62 @@
+{
+  "restaurant": "Wisconsin Premium",
+  "total_items": 7,
+  "pages_extracted": 6,
+  "total_search_results": 1698,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:25:35.376Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/wisconsin_premium.json",
+  "items": [
+    {
+      "food_id": "7828507",
+      "food_name": "Gouda Cheese Cubes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wisconsin-premium/gouda-cheese-cubes",
+      "brand_name": "Wisconsin Premium",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35295888",
+      "food_name": "Colby Jack Shredded Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wisconsin-premium/colby-jack-shredded-cheese",
+      "brand_name": "Wisconsin Premium",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29208086",
+      "food_name": "Sharp Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wisconsin-premium/sharp-cheddar-cheese",
+      "brand_name": "Wisconsin Premium",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45473140",
+      "food_name": "Mexican Blend Shredded Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wisconsin-premium/mexican-blend-shredded-cheese",
+      "brand_name": "Wisconsin Premium",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63973880",
+      "food_name": "Mozzarella Low Moisture Part Skim",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wisconsin-premium/mozzarella-low-moisture-part-skim",
+      "brand_name": "Wisconsin Premium",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7729135",
+      "food_name": "4 Cheese Mexican",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wisconsin-premium/4-cheese-mexican",
+      "brand_name": "Wisconsin Premium",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69633302",
+      "food_name": "Italian Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wisconsin-premium/italian-blend",
+      "brand_name": "Wisconsin Premium",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "restaurant": "Icy Ocean",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 47,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:43:26.589Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/icy_ocean.json",
+  "items": [
+    {
+      "food_id": "14965385",
+      "food_name": "Wild Caught Premium Raw Shell-on Pink Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/icy-ocean/wild-caught-premium-raw-shell-on-pink-shrimp",
+      "brand_name": "Icy Ocean",
+      "food_type": "Brand"
+    }
+  ]
+}

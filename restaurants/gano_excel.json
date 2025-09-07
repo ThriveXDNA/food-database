@@ -1,0 +1,20 @@
+{
+  "restaurant": "Gano Excel",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 1,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:47:46.854Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/gano_excel.json",
+  "items": [
+    {
+      "food_id": "3591249",
+      "food_name": "Gano Cafe 3-in-1",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gano-excel/gano-cafe-3-in-1",
+      "brand_name": "Gano Excel",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "brand_name": "Lioni",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:17:20.625Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/lioni.json",
+  "items": [
+    {
+      "food_id": "42097901",
+      "food_name": "Natural Smoked Mozzarella",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lioni/natural-smoked-mozzarella",
+      "brand_name": "Lioni",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "102263437",
+      "food_name": "Burrata Con Panna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lioni/burrata-con-panna",
+      "brand_name": "Lioni",
+      "food_type": "Brand"
+    }
+  ]
+}

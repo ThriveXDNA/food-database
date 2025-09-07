@@ -1,0 +1,62 @@
+{
+  "restaurant": "Regent",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:41:06.873Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/regent.json",
+  "items": [
+    {
+      "food_id": "367034",
+      "food_name": "Strawberry Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/regent/strawberry-cake",
+      "brand_name": "Regent",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "367030",
+      "food_name": "Pandan Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/regent/pandan-cake",
+      "brand_name": "Regent",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "367040",
+      "food_name": "Ube Sponge Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/regent/ube-sponge-cake",
+      "brand_name": "Regent",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "367018",
+      "food_name": "Mocca Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/regent/mocca-cake",
+      "brand_name": "Regent",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1312399",
+      "food_name": "Cheese Ring",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/regent/cheese-ring",
+      "brand_name": "Regent",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61827792",
+      "food_name": "Japanese Ube Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/regent/japanese-ube-cake",
+      "brand_name": "Regent",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "349618",
+      "food_name": "Golden Sweet Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/regent/golden-sweet-corn",
+      "brand_name": "Regent",
+      "food_type": "Brand"
+    }
+  ]
+}

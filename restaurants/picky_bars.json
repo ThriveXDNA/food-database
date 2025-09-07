@@ -1,0 +1,76 @@
+{
+  "restaurant": "Picky Bars",
+  "total_items": 9,
+  "pages_extracted": 6,
+  "total_search_results": 903,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:37:55.251Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/picky_bars.json",
+  "items": [
+    {
+      "food_id": "64408215",
+      "food_name": "Smooth Caffeinator",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/picky-bars/smooth-caffeinator",
+      "brand_name": "Picky Bars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43836751",
+      "food_name": "Performance Oatmeal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/picky-bars/performance-oatmeal",
+      "brand_name": "Picky Bars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4791956",
+      "food_name": "The Need For Seed",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/picky-bars/the-need-for-seed",
+      "brand_name": "Picky Bars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42137032",
+      "food_name": "Mint Condition",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/picky-bars/mint-condition",
+      "brand_name": "Picky Bars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3770263",
+      "food_name": "Lauren's Mega Nuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/picky-bars/laurens-mega-nuts",
+      "brand_name": "Picky Bars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12106714",
+      "food_name": "Ah, Fudge Nuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/picky-bars/ah-fudge-nuts",
+      "brand_name": "Picky Bars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9695939",
+      "food_name": "Blueberry Boomdizzle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/picky-bars/blueberry-boomdizzle",
+      "brand_name": "Picky Bars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32419506",
+      "food_name": "Chai & Catch Me",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/picky-bars/chai-catch-me",
+      "brand_name": "Picky Bars",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46444312",
+      "food_name": "Drizzle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/picky-bars/drizzle",
+      "brand_name": "Picky Bars",
+      "food_type": "Brand"
+    }
+  ]
+}

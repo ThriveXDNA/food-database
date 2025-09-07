@@ -1,0 +1,34 @@
+{
+  "restaurant": "Topps",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:05:02.863Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/topps.json",
+  "items": [
+    {
+      "food_id": "1237542",
+      "food_name": "Ring Pop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/topps/ring-pop",
+      "brand_name": "Topps",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31593778",
+      "food_name": "Baby Bottle Pop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/topps/baby-bottle-pop",
+      "brand_name": "Topps",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "78318",
+      "food_name": "100% Pure Ground Beef Hamburgers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/topps/100%25-pure-ground-beef-hamburgers",
+      "brand_name": "Topps",
+      "food_type": "Brand"
+    }
+  ]
+}

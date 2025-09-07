@@ -1,0 +1,55 @@
+{
+  "restaurant": "Wrap-itz",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 1096,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:00:09.058Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/wrap_itz.json",
+  "items": [
+    {
+      "food_id": "220891",
+      "food_name": "Lo-Carb Wheat Wrap-Itz",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wrap-itz/lo-carb-wheat-wrap-itz",
+      "brand_name": "Wrap-itz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86502",
+      "food_name": "White Wheat Wraps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wrap-itz/white-wheat-wraps",
+      "brand_name": "Wrap-itz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13804771",
+      "food_name": "Gluten Free Tortilla Wraps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wrap-itz/gluten-free-tortilla-wraps",
+      "brand_name": "Wrap-itz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7805448",
+      "food_name": "Sun Dried Tomato Wraps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wrap-itz/sun-dried-tomato-wraps",
+      "brand_name": "Wrap-itz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4070783",
+      "food_name": "Savory Spinach Tortilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wrap-itz/savory-spinach-tortilla",
+      "brand_name": "Wrap-itz",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3117370",
+      "food_name": "Whole Wheat Tortilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wrap-itz/whole-wheat-tortilla",
+      "brand_name": "Wrap-itz",
+      "food_type": "Brand"
+    }
+  ]
+}

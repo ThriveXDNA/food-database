@@ -1,0 +1,97 @@
+{
+  "restaurant": "Toscana",
+  "total_items": 12,
+  "pages_extracted": 1,
+  "total_search_results": 12,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:43:17.540Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/toscana.json",
+  "items": [
+    {
+      "food_id": "49960956",
+      "food_name": "Fresh Mozzarella",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/toscana/fresh-mozzarella",
+      "brand_name": "Toscana",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "73144668",
+      "food_name": "Filet and Shrimp Pasta Toscana",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carrabbas-italian-grill/filet-and-shrimp-pasta-toscana",
+      "brand_name": "Carrabba's Italian Grill",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3523631",
+      "food_name": "Penne Toscana with Italian Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/resers/penne-toscana-with-italian-sausage",
+      "brand_name": "Reser's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46996",
+      "food_name": "Toscana Herb & Olive Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/safeway/toscana-herb-and-olive-bread",
+      "brand_name": "Safeway",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70360565",
+      "food_name": "Zuppa Toscana - to Go",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olive-garden/zuppa-toscana-to-go",
+      "brand_name": "Olive Garden",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74495124",
+      "food_name": "Chicken Toscana Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/zoup/chicken-toscana-sandwich",
+      "brand_name": "Zoup!",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70359755",
+      "food_name": "Zuppa Toscana Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/olive-garden/zuppa-toscana-soup",
+      "brand_name": "Olive Garden",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45118992",
+      "food_name": "Rustic Zuppa Toscana",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ivars/rustic-zuppa-toscana",
+      "brand_name": "Ivar's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "64607869",
+      "food_name": "Zuppa Toscana Soup",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/heb/zuppa-toscana-soup",
+      "brand_name": "HEB",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98634",
+      "food_name": "Chicken Toscana",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/michael-angelos/chicken-toscana",
+      "brand_name": "Michael Angelo's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2503217",
+      "food_name": "Toscana Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trader-joes/toscana-cheese",
+      "brand_name": "Trader Joe's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2937949",
+      "food_name": "Toscana Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/barilla/toscana-sauce",
+      "brand_name": "Barilla",
+      "food_type": "Brand"
+    }
+  ]
+}

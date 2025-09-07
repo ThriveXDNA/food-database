@@ -1,0 +1,48 @@
+{
+  "restaurant": "Honey Dew Donuts",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 3401,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:06:20.336Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/honey_dew_donuts.json",
+  "items": [
+    {
+      "food_id": "4705406",
+      "food_name": "Boston Cream Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/honey-dew-donuts/boston-cream-donut",
+      "brand_name": "Honey Dew Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10858809",
+      "food_name": "Butternut Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/honey-dew-donuts/butternut-donut",
+      "brand_name": "Honey Dew Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75638673",
+      "food_name": "Hash Browns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/honey-dew-donuts/hash-browns",
+      "brand_name": "Honey Dew Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1114116",
+      "food_name": "Raspberry Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/honey-dew-donuts/raspberry-stick",
+      "brand_name": "Honey Dew Donuts",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13699206",
+      "food_name": "Cinnamon Stick",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/honey-dew-donuts/cinnamon-stick",
+      "brand_name": "Honey Dew Donuts",
+      "food_type": "Brand"
+    }
+  ]
+}

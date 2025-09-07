@@ -1,0 +1,69 @@
+{
+  "restaurant": "Roosters",
+  "total_items": 8,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:11:16.397Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/roosters.json",
+  "items": [
+    {
+      "food_id": "80533314",
+      "food_name": "Potato Wedges",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roosters/potato-wedges",
+      "brand_name": "Roosters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26283232",
+      "food_name": "Boneless Wings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roosters/boneless-wings",
+      "brand_name": "Roosters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92753152",
+      "food_name": "Fried Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roosters/fried-chicken-salad",
+      "brand_name": "Roosters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92120300",
+      "food_name": "10 Fried Traditional Wings",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roosters/10-fried-traditional-wings",
+      "brand_name": "Roosters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "77145773",
+      "food_name": "Curly Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roosters/curly-fries",
+      "brand_name": "Roosters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45353861",
+      "food_name": "Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roosters/ranch-dressing",
+      "brand_name": "Roosters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51725696",
+      "food_name": "Dumpster Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roosters/dumpster-fries",
+      "brand_name": "Roosters",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "99740553",
+      "food_name": "Red Rooster Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/roosters/red-rooster-dressing",
+      "brand_name": "Roosters",
+      "food_type": "Brand"
+    }
+  ]
+}

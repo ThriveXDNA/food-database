@@ -1,0 +1,62 @@
+{
+  "restaurant": "Lucini",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:02:54.909Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/lucini.json",
+  "items": [
+    {
+      "food_id": "27520343",
+      "food_name": "Extra Virgin Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lucini/extra-virgin-olive-oil",
+      "brand_name": "Lucini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21359782",
+      "food_name": "Rustic Tomato Basil Organic Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lucini/rustic-tomato-basil-organic-sauce",
+      "brand_name": "Lucini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16992158",
+      "food_name": "Balsamic Vinegar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lucini/balsamic-vinegar",
+      "brand_name": "Lucini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17515119",
+      "food_name": "Roasted Garlic Marinara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lucini/roasted-garlic-marinara",
+      "brand_name": "Lucini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "40123643",
+      "food_name": "Spicy Tuscan Tomato Organic Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lucini/spicy-tuscan-tomato-organic-sauce",
+      "brand_name": "Lucini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88160855",
+      "food_name": "Savory Golden Tomato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lucini/savory-golden-tomato",
+      "brand_name": "Lucini",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23991080",
+      "food_name": "Tuscan Marinara",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lucini/tuscan-marinara",
+      "brand_name": "Lucini",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "The Safe + Fair Food Company",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 1261,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:45:53.300Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/the_safe_fair_food_company.json",
+  "items": [
+    {
+      "food_id": "66756214",
+      "food_name": "Honeycrisp Apple Pie Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-safe-fair-food-company/honeycrisp-apple-pie-granola",
+      "brand_name": "The Safe + Fair Food Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "34845374",
+      "food_name": "Birthday Cake Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-safe-fair-food-company/birthday-cake-granola",
+      "brand_name": "The Safe + Fair Food Company",
+      "food_type": "Brand"
+    }
+  ]
+}

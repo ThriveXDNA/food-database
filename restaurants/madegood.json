@@ -1,0 +1,62 @@
+{
+  "restaurant": "MadeGood",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:07:28.880Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/madegood.json",
+  "items": [
+    {
+      "food_id": "30270541",
+      "food_name": "Chocolate Chip Granola Minis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/madegood/chocolate-chip-granola-minis",
+      "brand_name": "MadeGood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "61347178",
+      "food_name": "Soft Baked Oat Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/madegood/soft-baked-oat-bar",
+      "brand_name": "MadeGood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50829812",
+      "food_name": "Mixed Berry Granola Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/madegood/mixed-berry-granola-bar",
+      "brand_name": "MadeGood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14332304",
+      "food_name": "Chocolate Chip Granola Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/madegood/chocolate-chip-granola-bar",
+      "brand_name": "MadeGood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27640621",
+      "food_name": "Strawberry Granola Minis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/madegood/strawberry-granola-minis",
+      "brand_name": "MadeGood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54155712",
+      "food_name": "Chocolate Drizzled Granola Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/madegood/chocolate-drizzled-granola-bar",
+      "brand_name": "MadeGood",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88696662",
+      "food_name": "Mixed Berry Granola Minis",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/madegood/mixed-berry-granola-minis",
+      "brand_name": "MadeGood",
+      "food_type": "Brand"
+    }
+  ]
+}

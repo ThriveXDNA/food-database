@@ -1,0 +1,48 @@
+{
+  "restaurant": "Krispy Krunchy Chicken",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 15851,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:55:40.748Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/krispy_krunchy_chicken.json",
+  "items": [
+    {
+      "food_id": "12017247",
+      "food_name": "Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-krunchy-chicken/chicken-sandwich",
+      "brand_name": "Krispy Krunchy Chicken",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13115919",
+      "food_name": "Cajun Tenders",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-krunchy-chicken/cajun-tenders",
+      "brand_name": "Krispy Krunchy Chicken",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12017282",
+      "food_name": "Honey Butter Biscuit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-krunchy-chicken/honey-butter-biscuit",
+      "brand_name": "Krispy Krunchy Chicken",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46210524",
+      "food_name": "Thigh",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-krunchy-chicken/thigh",
+      "brand_name": "Krispy Krunchy Chicken",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54903001",
+      "food_name": "Leg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/krispy-krunchy-chicken/leg",
+      "brand_name": "Krispy Krunchy Chicken",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "restaurant": "Asturi",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:29:43.998Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/asturi.json",
+  "items": [
+    {
+      "food_id": "11420958",
+      "food_name": "Italian Amaretti Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/asturi/italian-amaretti-cookies",
+      "brand_name": "Asturi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3322111",
+      "food_name": "Bruschettini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/asturi/bruschettini",
+      "brand_name": "Asturi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "19530223",
+      "food_name": "Bruschettini Garlic & Parsley",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/asturi/bruschettini-garlic-parsley",
+      "brand_name": "Asturi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4843167",
+      "food_name": "Brushettini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/asturi/brushettini",
+      "brand_name": "Asturi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57668713",
+      "food_name": "Ventaglini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/asturi/ventaglini",
+      "brand_name": "Asturi",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72348617",
+      "food_name": "Parchment Crispbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/asturi/parchment-crispbread",
+      "brand_name": "Asturi",
+      "food_type": "Brand"
+    }
+  ]
+}

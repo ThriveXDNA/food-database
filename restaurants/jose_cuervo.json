@@ -1,0 +1,55 @@
+{
+  "restaurant": "Jose Cuervo",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 8,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:03:09.291Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/jose_cuervo.json",
+  "items": [
+    {
+      "food_id": "360816",
+      "food_name": "Tequila",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jose-cuervo/tequila",
+      "brand_name": "Jose Cuervo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "992516",
+      "food_name": "Margarita Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jose-cuervo/margarita-mix",
+      "brand_name": "Jose Cuervo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1845273",
+      "food_name": "Light Margarita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jose-cuervo/light-margarita",
+      "brand_name": "Jose Cuervo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4954043",
+      "food_name": "Light Margarita Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jose-cuervo/light-margarita-mix",
+      "brand_name": "Jose Cuervo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2080458",
+      "food_name": "Golden Margarita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jose-cuervo/golden-margarita",
+      "brand_name": "Jose Cuervo",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "360806",
+      "food_name": "Strawberry Lime Margarita Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/jose-cuervo/strawberry-lime-margarita-mix",
+      "brand_name": "Jose Cuervo",
+      "food_type": "Brand"
+    }
+  ]
+}

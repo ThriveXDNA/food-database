@@ -1,0 +1,76 @@
+{
+  "restaurant": "Feel",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:07:20.967Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/feel.json",
+  "items": [
+    {
+      "food_id": "70199074",
+      "food_name": "Brownie Choco Chip + Lions Mane",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/feel/brownie-choco-chip-lions-mane",
+      "brand_name": "Feel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "81219801",
+      "food_name": "Caramel Sea Salt Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/feel/caramel-sea-salt-bar",
+      "brand_name": "Feel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76023187",
+      "food_name": "Golden Goodness + Turmeric Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/feel/golden-goodness-turmeric-bar",
+      "brand_name": "Feel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "76048804",
+      "food_name": "Vanilla Spice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/feel/vanilla-spice",
+      "brand_name": "Feel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84414528",
+      "food_name": "Mint Chocolate Chip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/feel/mint-chocolate-chip",
+      "brand_name": "Feel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14790348",
+      "food_name": "Popped Corn Chips - Cheddar Feel-Good",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/popcorners/popped-corn-chips---cheddar-feel-good",
+      "brand_name": "PopCorners",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "369247",
+      "food_name": "Feel 'n Healthy Trail Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/good-sense/feel-n-healthy-trail-mix",
+      "brand_name": "Good Sense",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72441189",
+      "food_name": "Feel Fit Chocolate Protein Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/arbonne/feel-fit-chocolate-protein-shake",
+      "brand_name": "Arbonne",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "57211302",
+      "food_name": "Feel Good Chicken Tenders",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fitlife-foods/feel-good-chicken-tenders",
+      "brand_name": "Fitlife Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "restaurant": "Eat Gud",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 35,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:57:33.080Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/eat_gud.json",
+  "items": [
+    {
+      "food_id": "22353600",
+      "food_name": "Curried Cauliflower Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eat-gud/curried-cauliflower-rice",
+      "brand_name": "Eat Gud",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47070303",
+      "food_name": "Spiraled Zucchini & Pesto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eat-gud/spiraled-zucchini-pesto",
+      "brand_name": "Eat Gud",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74785092",
+      "food_name": "Original Falawesome Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/eat-gud/original-falawesome-wrap",
+      "brand_name": "Eat Gud",
+      "food_type": "Brand"
+    }
+  ]
+}

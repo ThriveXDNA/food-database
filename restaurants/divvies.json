@@ -1,0 +1,27 @@
+{
+  "restaurant": "Divvies",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:56:23.033Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/divvies.json",
+  "items": [
+    {
+      "food_id": "15451695",
+      "food_name": "Chocolate Brownie Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/divvies/chocolate-brownie-cookies",
+      "brand_name": "Divvies",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29181676",
+      "food_name": "Chocolate Chip Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/divvies/chocolate-chip-sandwich",
+      "brand_name": "Divvies",
+      "food_type": "Brand"
+    }
+  ]
+}

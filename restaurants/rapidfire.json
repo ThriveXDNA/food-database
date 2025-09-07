@@ -1,0 +1,62 @@
+{
+  "restaurant": "Rapidfire",
+  "total_items": 7,
+  "pages_extracted": 1,
+  "total_search_results": 7,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:10:25.316Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/rapidfire.json",
+  "items": [
+    {
+      "food_id": "69184611",
+      "food_name": "Protein Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rapidfire/protein-coffee",
+      "brand_name": "Rapidfire",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23559660",
+      "food_name": "MCT Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rapidfire/mct-oil",
+      "brand_name": "Rapidfire",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70848978",
+      "food_name": "Protein Creamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rapidfire/protein-creamer",
+      "brand_name": "Rapidfire",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24357277",
+      "food_name": "Ketogenic Coffee Pods",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rapidfire/ketogenic-coffee-pods",
+      "brand_name": "Rapidfire",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22742326",
+      "food_name": "Ketogenic Coffee",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rapidfire/ketogenic-coffee",
+      "brand_name": "Rapidfire",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54236372",
+      "food_name": "Collagen Creamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rapidfire/collagen-creamer",
+      "brand_name": "Rapidfire",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22396745",
+      "food_name": "Ketogenic Creamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/rapidfire/ketogenic-creamer",
+      "brand_name": "Rapidfire",
+      "food_type": "Brand"
+    }
+  ]
+}

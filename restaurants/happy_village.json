@@ -1,0 +1,41 @@
+{
+  "restaurant": "Happy Village",
+  "total_items": 4,
+  "pages_extracted": 2,
+  "total_search_results": 65,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:59:59.471Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/happy_village.json",
+  "items": [
+    {
+      "food_id": "15988881",
+      "food_name": "Organic Dark Sweet Cherries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happy-village/organic-dark-sweet-cherries",
+      "brand_name": "Happy Village",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24363281",
+      "food_name": "Organic Sun-Dried Smyrna Figs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happy-village/organic-sun-dried-smyrna-figs",
+      "brand_name": "Happy Village",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31544868",
+      "food_name": "Organic Sun-Dried Apricots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happy-village/organic-sun-dried-apricots",
+      "brand_name": "Happy Village",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51589672",
+      "food_name": "Organic Gently Dried Strawberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/happy-village/organic-gently-dried-strawberries",
+      "brand_name": "Happy Village",
+      "food_type": "Brand"
+    }
+  ]
+}

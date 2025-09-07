@@ -1,0 +1,27 @@
+{
+  "restaurant": "China Bowl Select",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 2974,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:20:53.830Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/china_bowl_select.json",
+  "items": [
+    {
+      "food_id": "14350324",
+      "food_name": "Cellophane Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/china-bowl-select/cellophane-noodles",
+      "brand_name": "China Bowl Select",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15520160",
+      "food_name": "Chinese Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/china-bowl-select/chinese-noodles",
+      "brand_name": "China Bowl Select",
+      "food_type": "Brand"
+    }
+  ]
+}

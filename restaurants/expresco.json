@@ -1,0 +1,20 @@
+{
+  "restaurant": "Expresco",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 1,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:37:35.555Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/expresco.json",
+  "items": [
+    {
+      "food_id": "39525486",
+      "food_name": "Grilled Rotisserie-Style Chicken Skewers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/expresco/grilled-rotisserie-style-chicken-skewers",
+      "brand_name": "Expresco",
+      "food_type": "Brand"
+    }
+  ]
+}

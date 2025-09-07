@@ -1,0 +1,34 @@
+{
+  "brand_name": "Deer Park",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 13,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:16:43.850Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/deer_park.json",
+  "items": [
+    {
+      "food_id": "67503",
+      "food_name": "Natural Spring Water (Bottle)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/deer-park/natural-spring-water-(bottle)",
+      "brand_name": "Deer Park",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4093633",
+      "food_name": "Natural Spring Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/deer-park/natural-spring-water",
+      "brand_name": "Deer Park",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1901348",
+      "food_name": "Sparkling Natural Spring Water",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/deer-park/sparkling-natural-spring-water",
+      "brand_name": "Deer Park",
+      "food_type": "Brand"
+    }
+  ]
+}

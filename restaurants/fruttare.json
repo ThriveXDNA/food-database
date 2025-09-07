@@ -1,0 +1,41 @@
+{
+  "restaurant": "Fruttare",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:05:33.646Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fruttare.json",
+  "items": [
+    {
+      "food_id": "8329314",
+      "food_name": "Strawberry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fruttare/strawberry",
+      "brand_name": "Fruttare",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10149891",
+      "food_name": "Pineapple Ice Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fruttare/pineapple-ice-bar",
+      "brand_name": "Fruttare",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5650829",
+      "food_name": "Mango Ice Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fruttare/mango-ice-bar",
+      "brand_name": "Fruttare",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5752946",
+      "food_name": "Orange Ice Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fruttare/orange-ice-bar",
+      "brand_name": "Fruttare",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "restaurant": "Bahama",
+  "total_items": 10,
+  "pages_extracted": 1,
+  "total_search_results": 10,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:29:20.719Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/bahama.json",
+  "items": [
+    {
+      "food_id": "2396649",
+      "food_name": "Rice Burger",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bahama/rice-burger",
+      "brand_name": "Bahama",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54672658",
+      "food_name": "Bahama Mama Frozen Cocktail",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dailys/bahama-mama-frozen-cocktail",
+      "brand_name": "Daily's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9904425",
+      "food_name": "Escapes Bahama Mama",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/seagrams/escapes-bahama-mama",
+      "brand_name": "Seagram's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "104997493",
+      "food_name": "Bahama Mama Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tropical-smoothie-cafe/bahama-mama-smoothie",
+      "brand_name": "Tropical Smoothie Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86714417",
+      "food_name": "Bahama Mama Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tropical-smoothie-cafe/bahama-mama-bowl",
+      "brand_name": "Tropical Smoothie Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84307280",
+      "food_name": "Captain Bahama Mama",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/applebees/captain-bahama-mama",
+      "brand_name": "Applebee's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "152345",
+      "food_name": "Bahama Mama",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/red-lobster/bahama-mama",
+      "brand_name": "Red Lobster",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6289764",
+      "food_name": "Bahama Mama",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/schmidts/bahama-mama",
+      "brand_name": "Schmidt's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203278",
+      "food_name": "Bahama Mama",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bahama-breeze/bahama-mama",
+      "brand_name": "Bahama Breeze",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "87966980",
+      "food_name": "Bahama Mama",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/maverik/bahama-mama",
+      "brand_name": "Maverik",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "restaurant": "Fisherman Favorites",
+  "total_items": 1,
+  "pages_extracted": 2,
+  "total_search_results": 79,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:43:41.911Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fisherman_favorites.json",
+  "items": [
+    {
+      "food_id": "12113341",
+      "food_name": "Crayfish Tails",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fisherman-favorites/crayfish-tails",
+      "brand_name": "Fisherman Favorites",
+      "food_type": "Brand"
+    }
+  ]
+}

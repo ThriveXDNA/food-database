@@ -1,0 +1,76 @@
+{
+  "restaurant": "Wholey",
+  "total_items": 9,
+  "pages_extracted": 1,
+  "total_search_results": 9,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:41:01.907Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/wholey.json",
+  "items": [
+    {
+      "food_id": "3213695",
+      "food_name": "Alaskan Pollock Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wholey/alaskan-pollock-fillets",
+      "brand_name": "Wholey",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4363401",
+      "food_name": "Salmon Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wholey/salmon-fillets",
+      "brand_name": "Wholey",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5369751",
+      "food_name": "Shrimp",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wholey/shrimp",
+      "brand_name": "Wholey",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8744016",
+      "food_name": "Yellow Fin Tuna",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wholey/yellow-fin-tuna",
+      "brand_name": "Wholey",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "102745",
+      "food_name": "Tilapia Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wholey/tilapia-fillets",
+      "brand_name": "Wholey",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "55050277",
+      "food_name": "Shrimp Stir Fry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wholey/shrimp-stir-fry",
+      "brand_name": "Wholey",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84969271",
+      "food_name": "Calamari",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wholey/calamari",
+      "brand_name": "Wholey",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26091869",
+      "food_name": "Mussels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wholey/mussels",
+      "brand_name": "Wholey",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2799333",
+      "food_name": "Whiting Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wholey/whiting-fillets",
+      "brand_name": "Wholey",
+      "food_type": "Brand"
+    }
+  ]
+}

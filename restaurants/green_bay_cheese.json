@@ -1,0 +1,27 @@
+{
+  "restaurant": "Green Bay Cheese",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 14516,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:22:55.169Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/green_bay_cheese.json",
+  "items": [
+    {
+      "food_id": "19488329",
+      "food_name": "Pepper Jack Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-bay-cheese/pepper-jack-cheese",
+      "brand_name": "Green Bay Cheese",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6996096",
+      "food_name": "Sharp Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/green-bay-cheese/sharp-cheddar-cheese",
+      "brand_name": "Green Bay Cheese",
+      "food_type": "Brand"
+    }
+  ]
+}

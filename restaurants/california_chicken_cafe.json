@@ -1,0 +1,55 @@
+{
+  "restaurant": "California Chicken Cafe",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 16421,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:21:21.644Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/california_chicken_cafe.json",
+  "items": [
+    {
+      "food_id": "7829759",
+      "food_name": "Broccoli Pasta Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-chicken-cafe/broccoli-pasta-salad",
+      "brand_name": "California Chicken Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "42049691",
+      "food_name": "California Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-chicken-cafe/california-chicken-salad",
+      "brand_name": "California Chicken Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2451566",
+      "food_name": "Combo Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-chicken-cafe/combo-wrap",
+      "brand_name": "California Chicken Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21961479",
+      "food_name": "Chicken Pasta Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-chicken-cafe/chicken-pasta-salad",
+      "brand_name": "California Chicken Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5973109",
+      "food_name": "Veggie Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-chicken-cafe/veggie-wrap",
+      "brand_name": "California Chicken Cafe",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18995917",
+      "food_name": "Chinese Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-chicken-cafe/chinese-chicken-salad",
+      "brand_name": "California Chicken Cafe",
+      "food_type": "Brand"
+    }
+  ]
+}

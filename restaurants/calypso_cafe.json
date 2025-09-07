@@ -1,0 +1,20 @@
+{
+  "restaurant": "Calypso Cafe",
+  "total_items": 1,
+  "pages_extracted": 5,
+  "total_search_results": 236,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:38:58.485Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/calypso_cafe.json",
+  "items": [
+    {
+      "food_id": "4834370",
+      "food_name": "Pulled BBQ White Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/calypso-cafe/pulled-bbq-white-chicken",
+      "brand_name": "Calypso Cafe",
+      "food_type": "Brand"
+    }
+  ]
+}

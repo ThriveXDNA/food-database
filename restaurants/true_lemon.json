@@ -1,0 +1,55 @@
+{
+  "restaurant": "True Lemon",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 1737,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:52:43.989Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/true_lemon.json",
+  "items": [
+    {
+      "food_id": "2294005",
+      "food_name": "Original Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/true-lemon/original-lemonade",
+      "brand_name": "True Lemon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20556542",
+      "food_name": "Strawberry Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/true-lemon/strawberry-lemonade",
+      "brand_name": "True Lemon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2316989",
+      "food_name": "Raspberry Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/true-lemon/raspberry-lemonade",
+      "brand_name": "True Lemon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1193447",
+      "food_name": "Crystallized Lemon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/true-lemon/crystallized-lemon",
+      "brand_name": "True Lemon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14541466",
+      "food_name": "Peach Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/true-lemon/peach-lemonade",
+      "brand_name": "True Lemon",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67165247",
+      "food_name": "Wildberry Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/true-lemon/wildberry-lemonade",
+      "brand_name": "True Lemon",
+      "food_type": "Brand"
+    }
+  ]
+}

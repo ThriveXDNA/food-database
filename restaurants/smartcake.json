@@ -1,0 +1,41 @@
+{
+  "restaurant": "Smartcake",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:45:21.805Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/smartcake.json",
+  "items": [
+    {
+      "food_id": "13261737",
+      "food_name": "SmartCake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smart-baking-company/smartcake",
+      "brand_name": "Smart Baking Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17138939",
+      "food_name": "Cinnamon Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smartcake/cinnamon-cake",
+      "brand_name": "Smartcake",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22847145",
+      "food_name": "Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smartcake/chocolate",
+      "brand_name": "Smartcake",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29793201",
+      "food_name": "Raspberry Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smartcake/raspberry-cream",
+      "brand_name": "Smartcake",
+      "food_type": "Brand"
+    }
+  ]
+}

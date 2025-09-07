@@ -1,0 +1,48 @@
+{
+  "restaurant": "Queen Anne",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 26,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T02:06:33.179Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/queen_anne.json",
+  "items": [
+    {
+      "food_id": "3224793",
+      "food_name": "Dark Chocolate Covered Cherries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/queen-anne/dark-chocolate-covered-cherries",
+      "brand_name": "Queen Anne",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6480643",
+      "food_name": "Cordial Cherries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/queen-anne/cordial-cherries",
+      "brand_name": "Queen Anne",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6543472",
+      "food_name": "Cordial Blueberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/queen-anne/cordial-blueberries",
+      "brand_name": "Queen Anne",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "134298",
+      "food_name": "Queen Anne Milk Chocolate Cordial Cherries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/worlds-finest-chocolate/queen-anne-milk-chocolate-cordial-cherries",
+      "brand_name": "World's Finest Chocolate",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1328749",
+      "food_name": "Queen Anne Dark Chocolate Cordial Cherries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/worlds-finest-chocolate/queen-anne-dark-chocolate-cordial-cherries",
+      "brand_name": "World's Finest Chocolate",
+      "food_type": "Brand"
+    }
+  ]
+}

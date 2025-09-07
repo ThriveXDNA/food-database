@@ -1,0 +1,41 @@
+{
+  "restaurant": "Brooklyn Bred",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 11,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:10:39.718Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/brooklyn_bred.json",
+  "items": [
+    {
+      "food_id": "31700559",
+      "food_name": "Thin Pizza Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-bred/thin-pizza-crust",
+      "brand_name": "Brooklyn Bred",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12939160",
+      "food_name": "Pizza Crust",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-bred/pizza-crust",
+      "brand_name": "Brooklyn Bred",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16312782",
+      "food_name": "Bistro Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-bred/bistro-buns",
+      "brand_name": "Brooklyn Bred",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14778466",
+      "food_name": "Bistro Sticks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brooklyn-bred/bistro-sticks",
+      "brand_name": "Brooklyn Bred",
+      "food_type": "Brand"
+    }
+  ]
+}

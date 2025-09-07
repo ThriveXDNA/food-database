@@ -1,0 +1,27 @@
+{
+  "restaurant": "Boulart",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:50:13.386Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/boulart.json",
+  "items": [
+    {
+      "food_id": "89256463",
+      "food_name": "Ciabatta Dinner Roll",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boulart/ciabatta-dinner-roll",
+      "brand_name": "Boulart",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "84022213",
+      "food_name": "Ciabatta Whole Grain",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/boulart/ciabatta-whole-grain",
+      "brand_name": "Boulart",
+      "food_type": "Brand"
+    }
+  ]
+}

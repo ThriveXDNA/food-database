@@ -1,0 +1,20 @@
+{
+  "restaurant": "Gonsalves",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 1,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:41:55.482Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/gonsalves.json",
+  "items": [
+    {
+      "food_id": "2491575",
+      "food_name": "Octopus in Hot Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gonsalves/octopus-in-hot-sauce",
+      "brand_name": "Gonsalves",
+      "food_type": "Brand"
+    }
+  ]
+}

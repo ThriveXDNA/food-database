@@ -1,0 +1,48 @@
+{
+  "restaurant": "Extend",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:03:59.286Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/extend.json",
+  "items": [
+    {
+      "food_id": "2151740",
+      "food_name": "Peanut Butter Chocolate Delight Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extend/peanut-butter-chocolate-delight-bar",
+      "brand_name": "Extend",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1925367",
+      "food_name": "Mixed Berry Delight Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extend/mixed-berry-delight-bar",
+      "brand_name": "Extend",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2221635",
+      "food_name": "Chocolate Delight Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extend/chocolate-delight-bar",
+      "brand_name": "Extend",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1575706",
+      "food_name": "Cinnamon Crisps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extend/cinnamon-crisps",
+      "brand_name": "Extend",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17763532",
+      "food_name": "Chocolate & Caramel Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/extend/chocolate-and-caramel-bar",
+      "brand_name": "Extend",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "restaurant": "Canteca",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:17:11.671Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/canteca.json",
+  "items": [
+    {
+      "food_id": "93701",
+      "food_name": "King Corn Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/canteca/king-corn-tortillas",
+      "brand_name": "Canteca",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1836476",
+      "food_name": "King Gorditas Flour Tortillas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/canteca/king-gorditas-flour-tortillas",
+      "brand_name": "Canteca",
+      "food_type": "Brand"
+    }
+  ]
+}

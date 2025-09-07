@@ -1,0 +1,48 @@
+{
+  "restaurant": "Fresh Creative Foods",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 1149,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:30:44.070Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/fresh_creative_foods.json",
+  "items": [
+    {
+      "food_id": "75086835",
+      "food_name": "Beef & Lamb Gyro Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-creative-foods/beef-lamb-gyro-sandwich",
+      "brand_name": "Fresh Creative Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4231737",
+      "food_name": "Mediterranean Feta Orzo Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-creative-foods/mediterranean-feta-orzo-salad",
+      "brand_name": "Fresh Creative Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6819861",
+      "food_name": "Spinach Dip",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-creative-foods/spinach-dip",
+      "brand_name": "Fresh Creative Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5699412",
+      "food_name": "Italian Quinoa Bean Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-creative-foods/italian-quinoa-bean-salad",
+      "brand_name": "Fresh Creative Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10444480",
+      "food_name": "Smoked Gouda Pimento Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fresh-creative-foods/smoked-gouda-pimento-spread",
+      "brand_name": "Fresh Creative Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

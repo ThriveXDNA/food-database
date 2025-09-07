@@ -1,0 +1,55 @@
+{
+  "restaurant": "Leafside",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T01:35:03.302Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/leafside.json",
+  "items": [
+    {
+      "food_id": "44335684",
+      "food_name": "Thai Veggie Noodle Savory Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/leafside/thai-veggie-noodle-savory-bowl",
+      "brand_name": "Leafside",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67681423",
+      "food_name": "Broccoli Cashew Alfredo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/leafside/broccoli-cashew-alfredo",
+      "brand_name": "Leafside",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65446273",
+      "food_name": "Apple Cinnamon Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/leafside/apple-cinnamon-crunch",
+      "brand_name": "Leafside",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62756801",
+      "food_name": "Lentil Tomato Pasta Savory-Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/leafside/lentil-tomato-pasta-savory-bowl",
+      "brand_name": "Leafside",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67187287",
+      "food_name": "Kale Krush",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/leafside/kale-krush",
+      "brand_name": "Leafside",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47095942",
+      "food_name": "Tropical Bliss Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/leafside/tropical-bliss-smoothie",
+      "brand_name": "Leafside",
+      "food_type": "Brand"
+    }
+  ]
+}

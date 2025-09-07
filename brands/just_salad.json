@@ -1,0 +1,881 @@
+{
+  "brand_name": "Just Salad",
+  "total_items": 124,
+  "pages_extracted": 6,
+  "total_search_results": 5817,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T03:03:55.443Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/just_salad.json",
+  "items": [
+    {
+      "food_id": "74203644",
+      "food_name": "Chicken Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/chicken-caesar-salad",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131216",
+      "food_name": "Arugula",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/arugula",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131277",
+      "food_name": "Sliced Cucumbers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/sliced-cucumbers",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203626",
+      "food_name": "Thai Chicken Crunch Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/thai-chicken-crunch-salad",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131270",
+      "food_name": "Roasted Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/roasted-corn",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131391",
+      "food_name": "Grillo's Pickles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/grillos-pickles",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203736",
+      "food_name": "Thai Peanut Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/thai-peanut-dressing",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203604",
+      "food_name": "Crispy Chicken Poblano Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/crispy-chicken-poblano-salad",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131382",
+      "food_name": "Crunchy Onions",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/crunchy-onions",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131392",
+      "food_name": "Hass Avocado",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/hass-avocado",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131408",
+      "food_name": "Homemade Pico Gallo",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/homemade-pico-gallo",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68186476",
+      "food_name": "Spicy Chicken Caesar Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/spicy-chicken-caesar-wrap",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131473",
+      "food_name": "Olive Oil + Balsamic Vinegar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/olive-oil-balsamic-vinegar",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203743",
+      "food_name": "Yogurt Cucumber Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/yogurt-cucumber-dressing",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131374",
+      "food_name": "Roasted Sweet Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/roasted-sweet-potatoes",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131383",
+      "food_name": "Crunchy Wonton Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/crunchy-wonton-strips",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203684",
+      "food_name": "Honey Crispy Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/honey-crispy-chicken-wrap",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203648",
+      "food_name": "Buffalo Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/buffalo-chicken-salad",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203676",
+      "food_name": "Cilantro Lime Chicken Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/cilantro-lime-chicken-bowl",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131444",
+      "food_name": "Oven Roasted Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/oven-roasted-chicken",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131220",
+      "food_name": "Baby Spinach",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/baby-spinach",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131239",
+      "food_name": "Shaved Brocolli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/shaved-brocolli",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131224",
+      "food_name": "Extra Crisp Romaine Lettuce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/extra-crisp-romaine-lettuce",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131459",
+      "food_name": "Red Wine Vinegar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/red-wine-vinegar",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131441",
+      "food_name": "Braised Chicken Thigh",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/braised-chicken-thigh",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131523",
+      "food_name": "Batard Bread - 1 Slice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/batard-bread-1-slice",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131361",
+      "food_name": "Overnight Pickled Onion",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/overnight-pickled-onion",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131393",
+      "food_name": "Homemade Avocado Mash",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/homemade-avocado-mash",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131455",
+      "food_name": "Honey Mustard Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/honey-mustard-vinaigrette",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131422",
+      "food_name": "Violife Creamy Vegan Feta Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/violife-creamy-vegan-feta-cheese",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203623",
+      "food_name": "Tokyo Supergreen - Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/tokyo-supergreen-chicken",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68481162",
+      "food_name": "Buffalo Chicken Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/buffalo-chicken-wrap",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131268",
+      "food_name": "Fresh Cilantro",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/fresh-cilantro",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203741",
+      "food_name": "Smoky Poblano Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/smoky-poblano-ranch-dressing",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131359",
+      "food_name": "Sliced Grape Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/sliced-grape-tomatoes",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "48276729",
+      "food_name": "Chicken Fajita Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/chicken-fajita-bowl",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131402",
+      "food_name": "Chopped Almonds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/chopped-almonds",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131400",
+      "food_name": "Bob's Red Mill Hemp Hearts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/bobs-red-mill-hemp-hearts",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98891551",
+      "food_name": "Protein Power",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/protein-power",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131435",
+      "food_name": "Oven Crispy Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/oven-crispy-chicken",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131406",
+      "food_name": "Roasted Balsamic Mushrooms",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/roasted-balsamic-mushrooms",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131475",
+      "food_name": "Olive Oil + Red Wine Vinegar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/olive-oil-red-wine-vinegar",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131414",
+      "food_name": "Black Lentils",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/black-lentils",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131456",
+      "food_name": "Cilantro Lime Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/cilantro-lime-vinaigrette",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203737",
+      "food_name": "Creamy Caesar Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/creamy-caesar-dressing",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131280",
+      "food_name": "Ocean Spray Dried Cranberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/ocean-spray-dried-cranberries",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131484",
+      "food_name": "Earth Bowl w/ Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/earth-bowl-w-chicken-salad",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131252",
+      "food_name": "House-Cooked Chickpeas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/house-cooked-chickpeas",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "100806645",
+      "food_name": "Hot Honey Harvest",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/hot-honey-harvest",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203642",
+      "food_name": "California Cobb Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/california-cobb-salad",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203611",
+      "food_name": "Tokyo Supergreens - Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/tokyo-supergreens-tofu",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203680",
+      "food_name": "Warm Chicken + Goat Cheese Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/warm-chicken-goat-cheese-bowl",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131447",
+      "food_name": "Impossible Chicken (Plant-Based)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/impossible-chicken-(plant-based)",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131515",
+      "food_name": "Chicken Pita Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/chicken-pita-wrap",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203742",
+      "food_name": "Buttermilk Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/buttermilk-ranch-dressing",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203739",
+      "food_name": "Spicy Buffalo Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/spicy-buffalo-ranch-dressing",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131433",
+      "food_name": "Cage-Free Jammy Egg",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/cage-free-jammy-egg",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203710",
+      "food_name": "Detox Cleanse Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/detox-cleanse-smoothie",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203730",
+      "food_name": "Lemon Basil Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/lemon-basil-vinaigrette",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203728",
+      "food_name": "Balsamic Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/balsamic-vinaigrette",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203734",
+      "food_name": "Miso Ginger Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/miso-ginger-vinaigrette",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131232",
+      "food_name": "Shredded Cabbage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/shredded-cabbage",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131416",
+      "food_name": "Grated Cotija Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/grated-cotija-cheese",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203723",
+      "food_name": "Chipotle Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/chipotle-vinaigrette",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131229",
+      "food_name": "Shredded Kale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/shredded-kale",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131245",
+      "food_name": "Sliced Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/sliced-carrots",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131478",
+      "food_name": "Half Lemon + Balsamic Vinaigrette Drizzle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/half-lemon-balsamic-vinaigrette-drizzle",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131520",
+      "food_name": "Cucumber Mint Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/cucumber-mint-lemonade",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131526",
+      "food_name": "Chocolate Chip Cookies",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/chocolate-chip-cookies",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203659",
+      "food_name": "Honey Crispy Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/honey-crispy-chicken-salad",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131234",
+      "food_name": "Sliced Apples",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/sliced-apples",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131386",
+      "food_name": "Japanese Furikake Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/japanese-furikake-shake",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131418",
+      "food_name": "Crumbled Feta Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/crumbled-feta-cheese",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131467",
+      "food_name": "Fresh Lemon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/fresh-lemon",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131524",
+      "food_name": "HERO Wraps",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/hero-wraps",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69856211",
+      "food_name": "Vegan Chipotle Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/vegan-chipotle-wrap",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203708",
+      "food_name": "Strawberry Banana Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/strawberry-banana-smoothie",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131379",
+      "food_name": "Crunchy Tortilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/crunchy-tortilla",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131427",
+      "food_name": "Shaved Parmesan Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/shaved-parmesan-cheese",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203652",
+      "food_name": "Earth Bowl Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/earth-bowl-salad",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131496",
+      "food_name": "Edamame Crunch Bowl",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/edamame-crunch-bowl",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203705",
+      "food_name": "Chicken Noodle Soup - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/chicken-noodle-soup-small",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131377",
+      "food_name": "Organic Quinoa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/organic-quinoa",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131409",
+      "food_name": "Roasted Cauliflower",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/roasted-cauliflower",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131432",
+      "food_name": "Sharp White Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/sharp-white-cheddar-cheese",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131518",
+      "food_name": "Strawberry Lemonade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/strawberry-lemonade",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203599",
+      "food_name": "Buffalo Cauliflower",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/buffalo-cauliflower",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131226",
+      "food_name": "Supergreens Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/supergreens-blend",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131273",
+      "food_name": "Garlic Butter Croutons",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/garlic-butter-croutons",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131281",
+      "food_name": "Edamame",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/edamame",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131457",
+      "food_name": "Balsamic Vinegar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/balsamic-vinegar",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131369",
+      "food_name": "Tajin Spiced Pumpkin Seeds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/tajin-spiced-pumpkin-seeds",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203665",
+      "food_name": "The Keto Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/the-keto-salad",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203699",
+      "food_name": "Spiced Pumpkin Bisque Soup - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/spiced-pumpkin-bisque-soup-large",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131388",
+      "food_name": "Sliced Pepperoncini",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/sliced-pepperoncini",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131423",
+      "food_name": "Creamy Goat Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/creamy-goat-cheese",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131449",
+      "food_name": "Organic Sesame Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/organic-sesame-tofu",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "91752613",
+      "food_name": "Balsamic Chicken Avocado",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/balsamic-chicken-avocado",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203691",
+      "food_name": "The Tex-Mex Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/the-tex-mex-wrap",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203697",
+      "food_name": "Spiced Pumpkin Bisque Soup - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/spiced-pumpkin-bisque-soup-small",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131236",
+      "food_name": "Hand-Cut Beets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/hand-cut-beets",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131364",
+      "food_name": "Spicy Harissa Pita",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/spicy-harissa-pita",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131411",
+      "food_name": "Roasted Fajitas + Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/roasted-fajitas-corn",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131480",
+      "food_name": "Extra Virgin Olive Oil + Fresh Lemon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/extra-virgin-olive-oil-fresh-lemon",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203701",
+      "food_name": "Chicken Noodle Soup - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/chicken-noodle-soup-large",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131242",
+      "food_name": "Regenerative Brown Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/regenerative-brown-rice",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131469",
+      "food_name": "Fresh Lime",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/fresh-lime",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131497",
+      "food_name": "Broccoli Cheddar Soup - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/broccoli-cheddar-soup-small",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131499",
+      "food_name": "Broccoli Cheddar Soup - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/broccoli-cheddar-soup-large",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131506",
+      "food_name": "Organic Lentil + Chickpea Soup - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/organic-lentil-chickpea-soup-large",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131507",
+      "food_name": "Chicken Poblano Soup - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/chicken-poblano-soup-small",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203713",
+      "food_name": "Almond Berry Blast Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/almond-berry-blast-smoothie",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203717",
+      "food_name": "PB Protein Smoothie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/pb-protein-smoothie",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131502",
+      "food_name": "Organic Lentil + Chickpea Soup - Small",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/organic-lentil-chickpea-soup-small",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131509",
+      "food_name": "Chicken Poblano Soup - Large",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/chicken-poblano-soup-large",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131481",
+      "food_name": "Impossible Chipotle Cowboy Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/impossible-chipotle-cowboy-salad",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "74203653",
+      "food_name": "Plant Power Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/plant-power-salad",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131514",
+      "food_name": "Modern Greek Crunch Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/modern-greek-crunch-wrap",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131530",
+      "food_name": "Happy to Be Harvest - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/happy-to-be-harvest-kids",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131532",
+      "food_name": "Me Want Caesar - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/me-want-caesar-kids",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131533",
+      "food_name": "Om Nom Nom Bowl - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/om-nom-nom-bowl-kids",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131535",
+      "food_name": "Ah Ah Almond Berry Smoothie - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/ah-ah-almond-berry-smoothie-kids",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131536",
+      "food_name": "B Is For Banana Smoothie  - Kids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/b-is-for-banana-smoothie-kids",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "86131462",
+      "food_name": "Extra Virgin Olive Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/just-salad/extra-virgin-olive-oil",
+      "brand_name": "Just Salad",
+      "food_type": "Brand"
+    }
+  ]
+}

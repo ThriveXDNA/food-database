@@ -1,0 +1,48 @@
+{
+  "restaurant": "Giada De Laurentiis",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 332,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-07T00:59:31.639Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/giada_de_laurentiis.json",
+  "items": [
+    {
+      "food_id": "1168262",
+      "food_name": "Creamy Tomato Pasta Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/giada-de-laurentiis/creamy-tomato-pasta-sauce",
+      "brand_name": "Giada De Laurentiis",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3713943",
+      "food_name": "Sun-Dried Tomatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/giada-de-laurentiis/sun-dried-tomatoes",
+      "brand_name": "Giada De Laurentiis",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1926863",
+      "food_name": "Sun Dried Tomato Pesto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/giada-de-laurentiis/sun-dried-tomato-pesto",
+      "brand_name": "Giada De Laurentiis",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6185579",
+      "food_name": "Vegetable Marinara Pasta Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/giada-de-laurentiis/vegetable-marinara-pasta-sauce",
+      "brand_name": "Giada De Laurentiis",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1916683",
+      "food_name": "Parmesan Garlic Vinaigrette",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/giada-de-laurentiis/parmesan-garlic-vinaigrette",
+      "brand_name": "Giada De Laurentiis",
+      "food_type": "Brand"
+    }
+  ]
+}

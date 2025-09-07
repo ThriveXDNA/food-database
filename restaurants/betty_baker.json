@@ -1,0 +1,20 @@
+{
+  "restaurant": "Betty Baker",
+  "total_items": 1,
+  "pages_extracted": 1,
+  "total_search_results": 16,
+  "discovery_method": "Dynamic restaurant discovery",
+  "last_updated": "2025-09-06T23:49:49.982Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered restaurant with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/betty_baker.json",
+  "items": [
+    {
+      "food_id": "35331539",
+      "food_name": "Macaroni & Cheese Dinner",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/betty-baker/macaroni-cheese-dinner",
+      "brand_name": "Betty Baker",
+      "food_type": "Brand"
+    }
+  ]
+}
