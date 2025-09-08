@@ -1,0 +1,41 @@
+{
+  "brand_name": "Aurora Products",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:18:39.061Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/aurora_products.json",
+  "items": [
+    {
+      "food_id": "2529151",
+      "food_name": "Roasted Unsalted Almonds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/aurora-products/roasted-unsalted-almonds",
+      "brand_name": "Aurora Products",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2221483",
+      "food_name": "Roasted Salted Pepitas",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/aurora-products/roasted-salted-pepitas",
+      "brand_name": "Aurora Products",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2715578",
+      "food_name": "Cranberry Health Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/aurora-products/cranberry-health-mix",
+      "brand_name": "Aurora Products",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1500154",
+      "food_name": "Roasted Salted Almonds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/aurora-products/roasted-salted-almonds",
+      "brand_name": "Aurora Products",
+      "food_type": "Brand"
+    }
+  ]
+}

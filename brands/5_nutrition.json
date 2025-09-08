@@ -1,0 +1,48 @@
+{
+  "brand_name": "5% Nutrition",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 798,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:13:59.895Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/5_nutrition.json",
+  "items": [
+    {
+      "food_id": "43925434",
+      "food_name": "Protein Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/5-nutrition/protein-shake",
+      "brand_name": "5% Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13882814",
+      "food_name": "Teriyaki Chicken with Brown Rice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/5%25-nutrition/teriyaki-chicken-with-brown-rice",
+      "brand_name": "5% Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9261678",
+      "food_name": "Real Food",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/5%25-nutrition/real-food",
+      "brand_name": "5% Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "103006839",
+      "food_name": "Snack Time Peanut Butter Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/5-nutrition/snack-time-peanut-butter-protein",
+      "brand_name": "5% Nutrition",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12596670",
+      "food_name": "Turkey Meatloaf with Broccoli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/5%25-nutrition/turkey-meatloaf-with-broccoli",
+      "brand_name": "5% Nutrition",
+      "food_type": "Brand"
+    }
+  ]
+}

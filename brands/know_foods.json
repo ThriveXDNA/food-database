@@ -1,0 +1,48 @@
+{
+  "brand_name": "Know Foods",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 17,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:17:29.821Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/know_foods.json",
+  "items": [
+    {
+      "food_id": "24606198",
+      "food_name": "Chocolate Chip Waffle",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/know-foods/chocolate-chip-waffle",
+      "brand_name": "Know Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18069192",
+      "food_name": "Thins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/know-foods/thins",
+      "brand_name": "Know Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15364920",
+      "food_name": "Know Better Muffins",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/know-foods/know-better-muffins",
+      "brand_name": "Know Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17808249",
+      "food_name": "Know Better Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/know-foods/know-better-slices",
+      "brand_name": "Know Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17629315",
+      "food_name": "Know Better Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/know-foods/know-better-cookie",
+      "brand_name": "Know Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "brand_name": "Great American Steak Company",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 2635,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:11:55.285Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/great_american_steak_company.json",
+  "items": [
+    {
+      "food_id": "3779291",
+      "food_name": "Beef Ribeye Steaks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-steak-company/beef-ribeye-steaks",
+      "brand_name": "Great American Steak Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9652356",
+      "food_name": "Beef Filet of Sirloin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-american-steak-company/beef-filet-of-sirloin",
+      "brand_name": "Great American Steak Company",
+      "food_type": "Brand"
+    }
+  ]
+}

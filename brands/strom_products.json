@@ -1,0 +1,41 @@
+{
+  "brand_name": "Strom Products",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:18:37.959Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/strom_products.json",
+  "items": [
+    {
+      "food_id": "44508",
+      "food_name": "No Yolks Egg Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/strom-products/no-yolks-egg-noodles",
+      "brand_name": "Strom Products",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "653784",
+      "food_name": "No Yolks Extra Broad Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/strom-products/no-yolks-extra-broad-pasta",
+      "brand_name": "Strom Products",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "653760",
+      "food_name": "No Yolks Broad Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/strom-products/no-yolks-broad-pasta",
+      "brand_name": "Strom Products",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "653782",
+      "food_name": "No Yolks Dumplings Pasta",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/strom-products/no-yolks-dumplings-pasta",
+      "brand_name": "Strom Products",
+      "food_type": "Brand"
+    }
+  ]
+}

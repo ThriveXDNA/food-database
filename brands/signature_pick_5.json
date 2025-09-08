@@ -1,0 +1,34 @@
+{
+  "brand_name": "Signature Pick 5",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 1000,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:52:28.577Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/signature_pick_5.json",
+  "items": [
+    {
+      "food_id": "6410643",
+      "food_name": "Cheeseburger Sliders",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/signature-pick-5/cheeseburger-sliders",
+      "brand_name": "Signature Pick 5",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7957573",
+      "food_name": "Chicken Sliders",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/signature-pick-5/chicken-sliders",
+      "brand_name": "Signature Pick 5",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16672720",
+      "food_name": "Crab Cakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/signature-pick-5/crab-cakes",
+      "brand_name": "Signature Pick 5",
+      "food_type": "Brand"
+    }
+  ]
+}

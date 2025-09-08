@@ -1,0 +1,27 @@
+{
+  "brand_name": "Giovanni Food Company",
+  "total_items": 2,
+  "pages_extracted": 3,
+  "total_search_results": 118,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:04:10.411Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/giovanni_food_company.json",
+  "items": [
+    {
+      "food_id": "344872",
+      "food_name": "Light Italian Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/giovanni-food-company/light-italian-bread",
+      "brand_name": "Giovanni Food Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "88633",
+      "food_name": "Tomato & Mozzarella Filled Gnocchi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/giovanni-food-company/tomato-and-mozzarella-filled-gnocchi",
+      "brand_name": "Giovanni Food Company",
+      "food_type": "Brand"
+    }
+  ]
+}

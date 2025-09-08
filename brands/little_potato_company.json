@@ -1,0 +1,48 @@
+{
+  "brand_name": "Little Potato Company",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 2531,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:06:57.340Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/little_potato_company.json",
+  "items": [
+    {
+      "food_id": "68406261",
+      "food_name": "Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-potato-company/potatoes",
+      "brand_name": "Little Potato Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71622148",
+      "food_name": "Little Reds",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-potato-company/little-reds",
+      "brand_name": "Little Potato Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26464989",
+      "food_name": "Garlic Parsley Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-potato-company/garlic-parsley-potatoes",
+      "brand_name": "Little Potato Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "62729920",
+      "food_name": "Onion and Chive",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-potato-company/onion-and-chive",
+      "brand_name": "Little Potato Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51060321",
+      "food_name": "DYNAMIC DUO",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/little-potato-company/dynamic-duo",
+      "brand_name": "Little Potato Company",
+      "food_type": "Brand"
+    }
+  ]
+}

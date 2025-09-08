@@ -1,0 +1,48 @@
+{
+  "brand_name": "Quirch Foods",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 17,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:16:45.864Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/quirch_foods.json",
+  "items": [
+    {
+      "food_id": "560362",
+      "food_name": "Jamaican Style Patties - Mild Beef Turnovers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quirch-foods/jamaican-style-patties---mild-beef-turnovers",
+      "brand_name": "Quirch Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "46740",
+      "food_name": "Tilapia Fillets (Frozen)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quirch-foods/tilapia-fillets-(frozen)",
+      "brand_name": "Quirch Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "560358",
+      "food_name": "Jamaican Style Patties - Jerk Chicken Turnovers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quirch-foods/jamaican-style-patties---jerk-chicken-turnovers",
+      "brand_name": "Quirch Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "560352",
+      "food_name": "Jamaican Style Patties - Curry Chicken Turnovers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quirch-foods/jamaican-style-patties---curry-chicken-turnovers",
+      "brand_name": "Quirch Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "560366",
+      "food_name": "Jamaican Style Patties - Spicy Beef Turnovers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/quirch-foods/jamaican-style-patties---spicy-beef-turnovers",
+      "brand_name": "Quirch Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

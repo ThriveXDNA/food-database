@@ -1,0 +1,41 @@
+{
+  "brand_name": "ES Foods",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 16,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:17:54.790Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/es_foods.json",
+  "items": [
+    {
+      "food_id": "38109370",
+      "food_name": "Mini Animal Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/es-foods/mini-animal-crackers",
+      "brand_name": "ES Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23487821",
+      "food_name": "Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/es-foods/granola",
+      "brand_name": "ES Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54906437",
+      "food_name": "Strawberry Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/es-foods/strawberry-bites",
+      "brand_name": "ES Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68880785",
+      "food_name": "Wheat Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/es-foods/wheat-crackers",
+      "brand_name": "ES Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

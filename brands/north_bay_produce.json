@@ -1,0 +1,27 @@
+{
+  "brand_name": "North Bay Produce",
+  "total_items": 2,
+  "pages_extracted": 3,
+  "total_search_results": 141,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:19:53.532Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/north_bay_produce.json",
+  "items": [
+    {
+      "food_id": "3454232",
+      "food_name": "Blueberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/north-bay-produce/blueberries",
+      "brand_name": "North Bay Produce",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49871020",
+      "food_name": "Raspberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/north-bay-produce/raspberries",
+      "brand_name": "North Bay Produce",
+      "food_type": "Brand"
+    }
+  ]
+}

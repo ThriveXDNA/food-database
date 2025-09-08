@@ -1,0 +1,27 @@
+{
+  "brand_name": "Hatch Kitchen",
+  "total_items": 2,
+  "pages_extracted": 3,
+  "total_search_results": 129,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:22:19.714Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/hatch_kitchen.json",
+  "items": [
+    {
+      "food_id": "46662628",
+      "food_name": "Chicken & Cheese Quesadilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hatch-kitchen/chicken-cheese-quesadilla",
+      "brand_name": "Hatch Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "21184264",
+      "food_name": "Street Tacos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hatch-kitchen/street-tacos",
+      "brand_name": "Hatch Kitchen",
+      "food_type": "Brand"
+    }
+  ]
+}

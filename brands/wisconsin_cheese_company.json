@@ -1,0 +1,27 @@
+{
+  "brand_name": "Wisconsin Cheese Company",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 12103,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:08:09.806Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/wisconsin_cheese_company.json",
+  "items": [
+    {
+      "food_id": "6373865",
+      "food_name": "Pepperjack Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wisconsin-cheese-company/pepperjack-cheese",
+      "brand_name": "Wisconsin Cheese Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2650359",
+      "food_name": "Medium Cheddar Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wisconsin-cheese-company/medium-cheddar-cheese",
+      "brand_name": "Wisconsin Cheese Company",
+      "food_type": "Brand"
+    }
+  ]
+}

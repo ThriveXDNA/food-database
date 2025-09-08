@@ -1,0 +1,27 @@
+{
+  "brand_name": "California Dreaming",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 447,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:01:14.123Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/california_dreaming.json",
+  "items": [
+    {
+      "food_id": "1722931",
+      "food_name": "California Dreaming House Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-dreaming/california-dreaming-house-salad",
+      "brand_name": "California Dreaming",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3895301",
+      "food_name": "Marinated Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/california-dreaming/marinated-chicken",
+      "brand_name": "California Dreaming",
+      "food_type": "Brand"
+    }
+  ]
+}

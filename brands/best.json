@@ -1,0 +1,27 @@
+{
+  "brand_name": "Best",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 57,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:49:27.455Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/best.json",
+  "items": [
+    {
+      "food_id": "40844032",
+      "food_name": "Fish Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/best/fish-tofu",
+      "brand_name": "Best",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "687323",
+      "food_name": "Mango Juice",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/best/mango-juice",
+      "brand_name": "Best",
+      "food_type": "Brand"
+    }
+  ]
+}

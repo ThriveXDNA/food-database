@@ -1,0 +1,34 @@
+{
+  "brand_name": "Atlanta Cheesecake Company",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 720,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:06:23.888Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/atlanta_cheesecake_company.json",
+  "items": [
+    {
+      "food_id": "3167821",
+      "food_name": "Strawberry Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/atlanta-cheesecake-company/strawberry-cheesecake",
+      "brand_name": "Atlanta Cheesecake Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3773535",
+      "food_name": "Turtle Cheesecake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/atlanta-cheesecake-company/turtle-cheesecake",
+      "brand_name": "Atlanta Cheesecake Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1315309",
+      "food_name": "Petite Cheesecakes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/atlanta-cheesecake-company/petite-cheesecakes",
+      "brand_name": "Atlanta Cheesecake Company",
+      "food_type": "Brand"
+    }
+  ]
+}

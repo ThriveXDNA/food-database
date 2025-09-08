@@ -1,0 +1,41 @@
+{
+  "brand_name": "Market Bay",
+  "total_items": 4,
+  "pages_extracted": 3,
+  "total_search_results": 137,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:53:29.401Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/market_bay.json",
+  "items": [
+    {
+      "food_id": "75590",
+      "food_name": "Bass Pale Ale Battered Cod Strips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/market-bay/bass-pale-ale-battered-cod-strips",
+      "brand_name": "Market Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75592",
+      "food_name": "Crunchy Breaded Cod Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/market-bay/crunchy-breaded-cod-fillets",
+      "brand_name": "Market Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75594",
+      "food_name": "Tilapia Fillets with Mediterranean Salsa",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/market-bay/tilapia-fillets-with-mediterranean-salsa",
+      "brand_name": "Market Bay",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75591",
+      "food_name": "Crispy Breaded Flounder Fillets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/market-bay/crispy-breaded-flounder-fillets",
+      "brand_name": "Market Bay",
+      "food_type": "Brand"
+    }
+  ]
+}

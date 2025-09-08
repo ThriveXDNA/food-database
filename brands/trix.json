@@ -1,0 +1,41 @@
+{
+  "brand_name": "Trix",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 14,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:23:22.217Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/trix.json",
+  "items": [
+    {
+      "food_id": "2355292",
+      "food_name": "Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trix/cereal",
+      "brand_name": "Trix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3333138",
+      "food_name": "Yogurt",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trix/yogurt",
+      "brand_name": "Trix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66840263",
+      "food_name": "Special Edition Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trix/special-edition-cereal",
+      "brand_name": "Trix",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6889066",
+      "food_name": "Cereal Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trix/cereal-bar",
+      "brand_name": "Trix",
+      "food_type": "Brand"
+    }
+  ]
+}

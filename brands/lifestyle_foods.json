@@ -1,0 +1,55 @@
+{
+  "brand_name": "Lifestyle Foods",
+  "total_items": 6,
+  "pages_extracted": 1,
+  "total_search_results": 29,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:16:59.377Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/lifestyle_foods.json",
+  "items": [
+    {
+      "food_id": "4047498",
+      "food_name": "Garden Salad with Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lifestyle-foods/garden-salad-with-ranch",
+      "brand_name": "Lifestyle Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2695350",
+      "food_name": "Chef Salad with Ranch Dressing",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lifestyle-foods/chef-salad-with-ranch-dressing",
+      "brand_name": "Lifestyle Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "900106",
+      "food_name": "Cobb Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lifestyle-foods/cobb-salad",
+      "brand_name": "Lifestyle Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3968932",
+      "food_name": "Cobb Salad with Ranch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lifestyle-foods/cobb-salad-with-ranch",
+      "brand_name": "Lifestyle Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1867925",
+      "food_name": "BLT Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lifestyle-foods/blt-salad",
+      "brand_name": "Lifestyle Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60725",
+      "food_name": "Hollywood Snack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/lifestyle-foods/hollywood-snack",
+      "brand_name": "Lifestyle Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "brand_name": "The Keg",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 1147,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:48:38.650Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/the_keg.json",
+  "items": [
+    {
+      "food_id": "57606",
+      "food_name": "Prime Rib (10 oz)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-keg/prime-rib-(10-oz)",
+      "brand_name": "The Keg",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47241453",
+      "food_name": "Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-keg/caesar-salad",
+      "brand_name": "The Keg",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "53784163",
+      "food_name": "Twice Baked Potato",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-keg/twice-baked-potato",
+      "brand_name": "The Keg",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8901155",
+      "food_name": "Keg Great Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-keg/keg-great-bread",
+      "brand_name": "The Keg",
+      "food_type": "Brand"
+    }
+  ]
+}

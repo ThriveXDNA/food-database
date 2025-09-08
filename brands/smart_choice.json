@@ -1,0 +1,41 @@
+{
+  "brand_name": "Smart Choice",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 691,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:46:34.482Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/smart_choice.json",
+  "items": [
+    {
+      "food_id": "1240696",
+      "food_name": "Apple Cinnamon Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smart-choice/apple-cinnamon-muffin",
+      "brand_name": "Smart Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1755844",
+      "food_name": "Chocolate Chip Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smart-choice/chocolate-chip-muffin",
+      "brand_name": "Smart Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41150662",
+      "food_name": "Cornbread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smart-choice/cornbread",
+      "brand_name": "Smart Choice",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6490366",
+      "food_name": "Blueberry Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smart-choice/blueberry-muffin",
+      "brand_name": "Smart Choice",
+      "food_type": "Brand"
+    }
+  ]
+}

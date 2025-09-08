@@ -1,0 +1,27 @@
+{
+  "brand_name": "Brown Butter Cookie Company",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 8140,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:11:19.961Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/brown_butter_cookie_company.json",
+  "items": [
+    {
+      "food_id": "5915158",
+      "food_name": "Brown Butter Sea Salt Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brown-butter-cookie-company/brown-butter-sea-salt-cookie",
+      "brand_name": "Brown Butter Cookie Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6364984",
+      "food_name": "Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/brown-butter-cookie-company/granola",
+      "brand_name": "Brown Butter Cookie Company",
+      "food_type": "Brand"
+    }
+  ]
+}

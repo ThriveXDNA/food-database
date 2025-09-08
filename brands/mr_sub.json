@@ -1,0 +1,27 @@
+{
+  "brand_name": "Mr. Sub",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 1253,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:48:12.440Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/mr_sub.json",
+  "items": [
+    {
+      "food_id": "1711894",
+      "food_name": "Grilled Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-sub/grilled-chicken",
+      "brand_name": "Mr. Sub",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2242797",
+      "food_name": "Great Canadian Club (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/mr-sub/great-canadian-club-(small)",
+      "brand_name": "Mr. Sub",
+      "food_type": "Brand"
+    }
+  ]
+}

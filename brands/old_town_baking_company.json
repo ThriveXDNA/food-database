@@ -1,0 +1,41 @@
+{
+  "brand_name": "Old Town Baking Company",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 565,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:12:25.794Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/old_town_baking_company.json",
+  "items": [
+    {
+      "food_id": "50511558",
+      "food_name": "Cranberry Walnut Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-town-baking-company/cranberry-walnut-bread",
+      "brand_name": "Old Town Baking Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12217250",
+      "food_name": "Miner's Sourdough Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-town-baking-company/miners-sourdough-bread",
+      "brand_name": "Old Town Baking Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30117620",
+      "food_name": "Robust Rosemary Sourdough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-town-baking-company/robust-rosemary-sourdough",
+      "brand_name": "Old Town Baking Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "92285278",
+      "food_name": "Roasted Gilroy Garlic Sourdough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/old-town-baking-company/roasted-gilroy-garlic-sourdough",
+      "brand_name": "Old Town Baking Company",
+      "food_type": "Brand"
+    }
+  ]
+}

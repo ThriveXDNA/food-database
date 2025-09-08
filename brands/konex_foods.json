@@ -1,0 +1,34 @@
+{
+  "brand_name": "Konex Foods",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 15,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:17:46.847Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/konex_foods.json",
+  "items": [
+    {
+      "food_id": "8656123",
+      "food_name": "Ajvar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/konex-foods/ajvar",
+      "brand_name": "Konex Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69666001",
+      "food_name": "Grape Leaves",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/konex-foods/grape-leaves",
+      "brand_name": "Konex Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "36792414",
+      "food_name": "Pinjur Roasted Pepper Appetizer Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/konex-foods/pinjur-roasted-pepper-appetizer-spread",
+      "brand_name": "Konex Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "brand_name": "Farmers",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 47,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:55:27.480Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/farmers.json",
+  "items": [
+    {
+      "food_id": "74914204",
+      "food_name": "applewood smoked bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farmers/applewood-smoked-bacon",
+      "brand_name": "Farmers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "50891",
+      "food_name": "1% Partly Skimmed Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farmers/1%25-partly-skimmed-milk",
+      "brand_name": "Farmers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6392203",
+      "food_name": "Applewood Smoked Center Cut Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farmers/applewood-smoked-center-cut-bacon",
+      "brand_name": "Farmers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3042816",
+      "food_name": "Skim Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farmers/skim-milk",
+      "brand_name": "Farmers",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "brand_name": "World Kitchens",
+  "total_items": 5,
+  "pages_extracted": 2,
+  "total_search_results": 54,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:20:39.803Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/world_kitchens.json",
+  "items": [
+    {
+      "food_id": "2544874",
+      "food_name": "Old Fashioned Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-kitchens/old-fashioned-beef-jerky",
+      "brand_name": "World Kitchens",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1848515",
+      "food_name": "Teriyaki Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-kitchens/teriyaki-beef-jerky",
+      "brand_name": "World Kitchens",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49319",
+      "food_name": "Peppered Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-kitchens/peppered-beef-jerky",
+      "brand_name": "World Kitchens",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "450919",
+      "food_name": "Brown Sugar Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-kitchens/brown-sugar-beef-jerky",
+      "brand_name": "World Kitchens",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2018033",
+      "food_name": "Hot & Spicy Beef Jerky",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-kitchens/hot-and-spicy-beef-jerky",
+      "brand_name": "World Kitchens",
+      "food_type": "Brand"
+    }
+  ]
+}

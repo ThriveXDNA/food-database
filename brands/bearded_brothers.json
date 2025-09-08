@@ -1,0 +1,41 @@
+{
+  "brand_name": "Bearded Brothers",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:15:25.127Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/bearded_brothers.json",
+  "items": [
+    {
+      "food_id": "48477195",
+      "food_name": "Almond Butter Chocolate",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bearded-brothers/almond-butter-chocolate",
+      "brand_name": "Bearded Brothers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9363823",
+      "food_name": "Bodacious Blueberry Vanilla",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bearded-brothers/bodacious-blueberry-vanilla",
+      "brand_name": "Bearded Brothers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22166276",
+      "food_name": "Radical Raspberry Lemon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bearded-brothers/radical-raspberry-lemon",
+      "brand_name": "Bearded Brothers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "52969497",
+      "food_name": "Maca Chocolate Food Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bearded-brothers/maca-chocolate-food-bar",
+      "brand_name": "Bearded Brothers",
+      "food_type": "Brand"
+    }
+  ]
+}

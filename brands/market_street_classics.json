@@ -1,0 +1,34 @@
+{
+  "brand_name": "Market Street Classics",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 436,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:40:34.458Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/market_street_classics.json",
+  "items": [
+    {
+      "food_id": "58271376",
+      "food_name": "Chunk Chicken Breast",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/market-street-classics/chunk-chicken-breast",
+      "brand_name": "Market Street Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "32110254",
+      "food_name": "Beef Stew",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/market-street-classics/beef-stew",
+      "brand_name": "Market Street Classics",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "39121064",
+      "food_name": "Premium Chili No Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/market-street-classics/premium-chili-no-beans",
+      "brand_name": "Market Street Classics",
+      "food_type": "Brand"
+    }
+  ]
+}

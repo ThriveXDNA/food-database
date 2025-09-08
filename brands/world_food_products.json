@@ -1,0 +1,20 @@
+{
+  "brand_name": "World Food Products",
+  "total_items": 1,
+  "pages_extracted": 4,
+  "total_search_results": 165,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:19:25.328Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/world_food_products.json",
+  "items": [
+    {
+      "food_id": "35753733",
+      "food_name": "Fancy Pecan Halves",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/world-food-products/fancy-pecan-halves",
+      "brand_name": "World Food Products",
+      "food_type": "Brand"
+    }
+  ]
+}

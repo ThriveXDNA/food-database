@@ -1,0 +1,27 @@
+{
+  "brand_name": "Superior Bread Company",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 4149,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:06:31.231Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/superior_bread_company.json",
+  "items": [
+    {
+      "food_id": "9841623",
+      "food_name": "French Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/superior-bread-company/french-bread",
+      "brand_name": "Superior Bread Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9841662",
+      "food_name": "Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/superior-bread-company/wheat-bread",
+      "brand_name": "Superior Bread Company",
+      "food_type": "Brand"
+    }
+  ]
+}

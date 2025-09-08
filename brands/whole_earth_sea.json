@@ -1,0 +1,27 @@
+{
+  "brand_name": "Whole Earth & Sea",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 4370,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:15:57.473Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/whole_earth_sea.json",
+  "items": [
+    {
+      "food_id": "9266593",
+      "food_name": "Pure Food Organic Vegan Greens Protein Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/whole-earth-and-sea/pure-food-organic-vegan-greens-protein-bar",
+      "brand_name": "Whole Earth & Sea",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71077409",
+      "food_name": "Protein & Greens",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/whole-earth-sea/protein-greens",
+      "brand_name": "Whole Earth & Sea",
+      "food_type": "Brand"
+    }
+  ]
+}

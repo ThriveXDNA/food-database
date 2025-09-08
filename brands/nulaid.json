@@ -1,0 +1,34 @@
+{
+  "brand_name": "Nulaid",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:18:34.725Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/nulaid.json",
+  "items": [
+    {
+      "food_id": "19394428",
+      "food_name": "Large Grade AA Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nulaid/large-grade-aa-eggs",
+      "brand_name": "Nulaid",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "31734",
+      "food_name": "Egg Substitute",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nulaid/egg-substitute",
+      "brand_name": "Nulaid",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "346146",
+      "food_name": "ReddiEgg Real Egg Product",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nulaid/reddiegg-real-egg-product",
+      "brand_name": "Nulaid",
+      "food_type": "Brand"
+    }
+  ]
+}

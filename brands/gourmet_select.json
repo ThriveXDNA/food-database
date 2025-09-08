@@ -1,0 +1,48 @@
+{
+  "brand_name": "Gourmet Select",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 758,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:43:35.887Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/gourmet_select.json",
+  "items": [
+    {
+      "food_id": "8150064",
+      "food_name": "Pretzel Chips",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gourmet-select/pretzel-chips",
+      "brand_name": "Gourmet Select",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2522957",
+      "food_name": "Butter Toffee Popcorn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gourmet-select/butter-toffee-popcorn",
+      "brand_name": "Gourmet Select",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14350624",
+      "food_name": "Honey Wheat Pretzel Braids",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gourmet-select/honey-wheat-pretzel-braids",
+      "brand_name": "Gourmet Select",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2207006",
+      "food_name": "Sunflower Seeds Roasted & Salted",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gourmet-select/sunflower-seeds-roasted-and-salted",
+      "brand_name": "Gourmet Select",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8615684",
+      "food_name": "Holiday Popcorn Tin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gourmet-select/holiday-popcorn-tin",
+      "brand_name": "Gourmet Select",
+      "food_type": "Brand"
+    }
+  ]
+}

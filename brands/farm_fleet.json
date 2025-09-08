@@ -1,0 +1,27 @@
+{
+  "brand_name": "Farm & Fleet",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 65,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:54:44.789Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/farm_fleet.json",
+  "items": [
+    {
+      "food_id": "690864",
+      "food_name": "Buttermints",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-and-fleet/buttermints",
+      "brand_name": "Farm & Fleet",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "98894460",
+      "food_name": "Whole Cashews (Lightly Salted)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-fleet/whole-cashews-(lightly-salted)",
+      "brand_name": "Farm & Fleet",
+      "food_type": "Brand"
+    }
+  ]
+}

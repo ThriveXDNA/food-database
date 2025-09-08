@@ -1,0 +1,41 @@
+{
+  "brand_name": "Sensible Foods",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 22,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:16:32.411Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/sensible_foods.json",
+  "items": [
+    {
+      "food_id": "2654305",
+      "food_name": "Edamame Crunch Dried Snack",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sensible-foods/edamame-crunch-dried-snack",
+      "brand_name": "Sensible Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12305014",
+      "food_name": "Roasted Edamame",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sensible-foods/roasted-edamame",
+      "brand_name": "Sensible Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1227199",
+      "food_name": "Fuji Apple Crunch Dried Fruit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sensible-foods/fuji-apple-crunch-dried-fruit",
+      "brand_name": "Sensible Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68364",
+      "food_name": "Crunch Dried Organics - 100% Organic Supersweet Corn",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sensible-foods/crunch-dried-organics---100%25-organic-supersweet-corn",
+      "brand_name": "Sensible Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

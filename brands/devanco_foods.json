@@ -1,0 +1,48 @@
+{
+  "brand_name": "Devanco Foods",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 17,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:18:13.275Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/devanco_foods.json",
+  "items": [
+    {
+      "food_id": "59319926",
+      "food_name": "Beef Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/devanco-foods/beef-bacon",
+      "brand_name": "Devanco Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45190327",
+      "food_name": "Chicken Gyros",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/devanco-foods/chicken-gyros",
+      "brand_name": "Devanco Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3027394",
+      "food_name": "Gyro Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/devanco-foods/gyro-slices",
+      "brand_name": "Devanco Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11209454",
+      "food_name": "Gyro Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/devanco-foods/gyro-sandwich",
+      "brand_name": "Devanco Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17030673",
+      "food_name": "Tzatziki Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/devanco-foods/tzatziki-sauce",
+      "brand_name": "Devanco Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

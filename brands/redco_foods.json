@@ -1,0 +1,41 @@
+{
+  "brand_name": "Redco Foods",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 16,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:16:12.517Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/redco_foods.json",
+  "items": [
+    {
+      "food_id": "237212",
+      "food_name": "Salada Green Tea with Original Antioxidants Citrus Flavor Tea Bags",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/redco-foods/salada-green-tea-with-original-antioxidants-citrus-flavor-tea-bags",
+      "brand_name": "Redco Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "237206",
+      "food_name": "Red Rose Original Tea Bags",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/redco-foods/red-rose-original-tea-bags",
+      "brand_name": "Redco Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "237211",
+      "food_name": "Salada 100% Green Tea Naturally Decaffeinated Tea Bags",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/redco-foods/salada-100%25-green-tea-naturally-decaffeinated-tea-bags",
+      "brand_name": "Redco Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "237219",
+      "food_name": "Salada Green Tea with Red Antioxidants Strawberry Orange Tea Bags",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/redco-foods/salada-green-tea-with-red-antioxidants-strawberry-orange-tea-bags",
+      "brand_name": "Redco Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "brand_name": "Three Bakers",
+  "total_items": 5,
+  "pages_extracted": 6,
+  "total_search_results": 397,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:48:31.551Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/three_bakers.json",
+  "items": [
+    {
+      "food_id": "28130721",
+      "food_name": "7 Ancient Grains Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/three-bakers/7-ancient-grains-bread",
+      "brand_name": "Three Bakers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9106540",
+      "food_name": "Gluten Free Rye Style Whole Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/three-bakers/gluten-free-rye-style-whole-grain-bread",
+      "brand_name": "Three Bakers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14107860",
+      "food_name": "Gluten Free White Whole Grain Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/three-bakers/gluten-free-white-whole-grain-bread",
+      "brand_name": "Three Bakers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14106802",
+      "food_name": "Great Seed Gluten Free Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/three-bakers/great-seed-gluten-free-bread",
+      "brand_name": "Three Bakers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "35263483",
+      "food_name": "Gluten Free Cinnamon Raisin Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/three-bakers/gluten-free-cinnamon-raisin-bread",
+      "brand_name": "Three Bakers",
+      "food_type": "Brand"
+    }
+  ]
+}

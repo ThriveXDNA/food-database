@@ -1,0 +1,27 @@
+{
+  "brand_name": "Select Signatures",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 373,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:42:47.077Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/select_signatures.json",
+  "items": [
+    {
+      "food_id": "3036315",
+      "food_name": "Cheeseburger Sliders",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/select-signatures/cheeseburger-sliders",
+      "brand_name": "Select Signatures",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4229469",
+      "food_name": "Chicken Sliders",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/select-signatures/chicken-sliders",
+      "brand_name": "Select Signatures",
+      "food_type": "Brand"
+    }
+  ]
+}

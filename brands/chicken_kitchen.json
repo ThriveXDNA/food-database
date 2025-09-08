@@ -1,0 +1,34 @@
+{
+  "brand_name": "Chicken Kitchen",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 15863,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:21:10.959Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/chicken_kitchen.json",
+  "items": [
+    {
+      "food_id": "1034130",
+      "food_name": "Deluxe Chop Chop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicken-kitchen/deluxe-chop-chop",
+      "brand_name": "Chicken Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "10731069",
+      "food_name": "Original Chop (Small)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicken-kitchen/original-chop-(small)",
+      "brand_name": "Chicken Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6052086",
+      "food_name": "Mexican Chop Chop (Regular)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/chicken-kitchen/mexican-chop-chop-(regular)",
+      "brand_name": "Chicken Kitchen",
+      "food_type": "Brand"
+    }
+  ]
+}

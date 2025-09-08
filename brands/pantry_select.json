@@ -1,0 +1,27 @@
+{
+  "brand_name": "Pantry Select",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 373,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:43:49.522Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/pantry_select.json",
+  "items": [
+    {
+      "food_id": "4774166",
+      "food_name": "Hamburger Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pantry-select/hamburger-bun",
+      "brand_name": "Pantry Select",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6012496",
+      "food_name": "Hot Dog Buns",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/pantry-select/hot-dog-buns",
+      "brand_name": "Pantry Select",
+      "food_type": "Brand"
+    }
+  ]
+}

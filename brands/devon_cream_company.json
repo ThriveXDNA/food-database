@@ -1,0 +1,27 @@
+{
+  "brand_name": "Devon Cream Company",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 6375,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:07:41.392Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/devon_cream_company.json",
+  "items": [
+    {
+      "food_id": "93723865",
+      "food_name": "English Clotted Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/devon-cream-company/english-clotted-cream",
+      "brand_name": "Devon Cream Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "24441088",
+      "food_name": "English Double Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/devon-cream-company/english-double-cream",
+      "brand_name": "Devon Cream Company",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "brand_name": "Purity Foods",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 15,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:16:46.966Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/purity_foods.json",
+  "items": [
+    {
+      "food_id": "71035",
+      "food_name": "Frozen Yogurt Smoothie - Tropical Paradise",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/purity-foods/frozen-yogurt-smoothie---tropical-paradise",
+      "brand_name": "Purity Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47488",
+      "food_name": "Vita-Spelt Whole Grain Noodles",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/purity-foods/vita-spelt-whole-grain-noodles",
+      "brand_name": "Purity Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

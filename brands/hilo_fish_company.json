@@ -1,0 +1,27 @@
+{
+  "brand_name": "Hilo Fish Company",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 758,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:07:19.954Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/hilo_fish_company.json",
+  "items": [
+    {
+      "food_id": "30747002",
+      "food_name": "Dried Aku",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hilo-fish-company/dried-aku",
+      "brand_name": "Hilo Fish Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "66233172",
+      "food_name": "Ahi Sakura Boshi",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/hilo-fish-company/ahi-sakura-boshi",
+      "brand_name": "Hilo Fish Company",
+      "food_type": "Brand"
+    }
+  ]
+}

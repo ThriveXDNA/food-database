@@ -1,0 +1,27 @@
+{
+  "brand_name": "Tasty Select",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 413,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:43:42.679Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/tasty_select.json",
+  "items": [
+    {
+      "food_id": "9880242",
+      "food_name": "B.B.Q. Pork Steamed Bun",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tasty-select/bbq-pork-steamed-bun",
+      "brand_name": "Tasty Select",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2884972",
+      "food_name": "Vegetable & Pork Potsticker/Gyoza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/tasty-select/vegetable-and-pork-potsticker-gyoza",
+      "brand_name": "Tasty Select",
+      "food_type": "Brand"
+    }
+  ]
+}

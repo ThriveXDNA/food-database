@@ -1,0 +1,27 @@
+{
+  "brand_name": "Super Fresh Foods",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 1776,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:02:25.487Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/super_fresh_foods.json",
+  "items": [
+    {
+      "food_id": "36702129",
+      "food_name": "House Chopped Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-fresh-foods/house-chopped-salad",
+      "brand_name": "Super Fresh Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "25229846",
+      "food_name": "Tuscan Kale & Quinoa Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/super-fresh-foods/tuscan-kale-quinoa-salad",
+      "brand_name": "Super Fresh Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

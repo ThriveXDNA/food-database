@@ -1,0 +1,34 @@
+{
+  "brand_name": "Crescent Foods",
+  "total_items": 3,
+  "pages_extracted": 2,
+  "total_search_results": 51,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:18:30.144Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/crescent_foods.json",
+  "items": [
+    {
+      "food_id": "89385049",
+      "food_name": "Boneless Skinless Chicken Thigh",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crescent-foods/boneless-skinless-chicken-thigh",
+      "brand_name": "Crescent Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "96388761",
+      "food_name": "Boneless Skinless Chicken Thighs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crescent-foods/boneless-skinless-chicken-thighs",
+      "brand_name": "Crescent Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15296405",
+      "food_name": "Ground Chicken Breast Meat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/crescent-foods/ground-chicken-breast-meat",
+      "brand_name": "Crescent Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

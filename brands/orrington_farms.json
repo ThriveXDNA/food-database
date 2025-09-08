@@ -1,0 +1,34 @@
+{
+  "brand_name": "Orrington Farms",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 13,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:15:35.202Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/orrington_farms.json",
+  "items": [
+    {
+      "food_id": "6131073",
+      "food_name": "Beef Flavored Broth Base & Seasoning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/orrington-farms/beef-flavored-broth-base-seasoning",
+      "brand_name": "Orrington Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7498419",
+      "food_name": "Broth Base & Seasoning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/orrington-farms/broth-base-and-seasoning",
+      "brand_name": "Orrington Farms",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3261118",
+      "food_name": "Chicken Flavored Soup Base & Food Seasoning",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/orrington-farms/chicken-flavored-soup-base-and-food-seasoning",
+      "brand_name": "Orrington Farms",
+      "food_type": "Brand"
+    }
+  ]
+}

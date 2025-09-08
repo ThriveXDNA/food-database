@@ -1,0 +1,20 @@
+{
+  "brand_name": "Ultra Foods",
+  "total_items": 1,
+  "pages_extracted": 5,
+  "total_search_results": 219,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:17:41.273Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/ultra_foods.json",
+  "items": [
+    {
+      "food_id": "3409537",
+      "food_name": "Atomic Cake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ultra-foods/atomic-cake",
+      "brand_name": "Ultra Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

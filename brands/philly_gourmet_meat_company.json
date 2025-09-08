@@ -1,0 +1,27 @@
+{
+  "brand_name": "Philly-Gourmet Meat Company",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 1622,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:09:48.031Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/philly_gourmet_meat_company.json",
+  "items": [
+    {
+      "food_id": "5783759",
+      "food_name": "100% Pure Beef Homestyle Patties",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/philly-gourmet-meat-company/100%25-pure-beef-homestyle-patties",
+      "brand_name": "Philly-Gourmet Meat Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "70516",
+      "food_name": "Steaks for Sandwiches 100% Pure Beef Thin Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/philly-gourmet-meat-company/steaks-for-sandwiches-100%25-pure-beef-thin-slices",
+      "brand_name": "Philly-Gourmet Meat Company",
+      "food_type": "Brand"
+    }
+  ]
+}

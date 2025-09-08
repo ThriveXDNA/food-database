@@ -1,0 +1,27 @@
+{
+  "brand_name": "The Fruit Company",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 3280,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:08:32.534Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/the_fruit_company.json",
+  "items": [
+    {
+      "food_id": "14014895",
+      "food_name": "Honey Wheat Crackers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-fruit-company/honey-wheat-crackers",
+      "brand_name": "The Fruit Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "65481511",
+      "food_name": "Mixed Nuts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/the-fruit-company/mixed-nuts",
+      "brand_name": "The Fruit Company",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "brand_name": "Farm Stand",
+  "total_items": 6,
+  "pages_extracted": 2,
+  "total_search_results": 75,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:54:29.573Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/farm_stand.json",
+  "items": [
+    {
+      "food_id": "6263702",
+      "food_name": "Apple Cider Donut",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-stand/apple-cider-donut",
+      "brand_name": "Farm Stand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4043524",
+      "food_name": "Romaine Hearts",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-stand/romaine-hearts",
+      "brand_name": "Farm Stand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1239924",
+      "food_name": "Petite Golden Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-stand/petite-golden-potatoes",
+      "brand_name": "Farm Stand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1104370",
+      "food_name": "Russet Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-stand/russet-potatoes",
+      "brand_name": "Farm Stand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2521347",
+      "food_name": "Iceberg Garden Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-stand/iceberg-garden-salad",
+      "brand_name": "Farm Stand",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3239251",
+      "food_name": "Shredded Carrots",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-stand/shredded-carrots",
+      "brand_name": "Farm Stand",
+      "food_type": "Brand"
+    }
+  ]
+}

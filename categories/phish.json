@@ -1,0 +1,51 @@
+{
+  "category": "phish",
+  "total_items": 6,
+  "discovery_method": "Dynamic category discovery",
+  "last_updated": "2025-09-07T15:55:06.670Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "items": [
+    {
+      "food_id": "1156426",
+      "food_name": "Phish Food Ice Cream",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ben-and-jerrys/phish-food-ice-cream",
+      "brand_name": "Ben & Jerry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "106596342",
+      "food_name": "Phish Food Ice Cream - Scoop Shop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/ben-jerrys/phish-food-ice-cream-scoop-shop",
+      "brand_name": "Ben & Jerry's",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2634",
+      "food_name": "Lamb Shish Kabob with Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/lamb-shish-kabob-with-vegetables-excluding-potatoes",
+      "brand_name": "",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "70556242",
+      "food_name": "Shish Tawouk Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/shish-tawouk-sandwich",
+      "brand_name": "",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "2577",
+      "food_name": "Beef Shish Kabob with Vegetables",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/generic/beef-shish-kabob-with-vegetables-excluding-potatoes",
+      "brand_name": "",
+      "food_type": "Generic"
+    },
+    {
+      "food_id": "80354953",
+      "food_name": "Beef Shish Kabob",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/real-appeal/beef-shish-kabob",
+      "brand_name": "Real Appeal",
+      "food_type": "Brand"
+    }
+  ]
+}

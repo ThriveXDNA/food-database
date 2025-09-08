@@ -1,0 +1,41 @@
+{
+  "brand_name": "Azumaya",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:58:26.148Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/azumaya.json",
+  "items": [
+    {
+      "food_id": "1372488",
+      "food_name": "Firm Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/azumaya/firm-tofu",
+      "brand_name": "Azumaya",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "4843844",
+      "food_name": "Extra Firm Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/azumaya/extra-firm-tofu",
+      "brand_name": "Azumaya",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2916844",
+      "food_name": "Silken Tofu",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/azumaya/silken-tofu",
+      "brand_name": "Azumaya",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "155037",
+      "food_name": "Egg Roll Wrappers",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/azumaya/egg-roll-wrappers",
+      "brand_name": "Azumaya",
+      "food_type": "Brand"
+    }
+  ]
+}

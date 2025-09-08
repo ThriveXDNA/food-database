@@ -1,0 +1,20 @@
+{
+  "brand_name": "Great Steak",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 2125,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:47:30.685Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/great_steak.json",
+  "items": [
+    {
+      "food_id": "21068028",
+      "food_name": "Great Fries Regular",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/great-steak/great-fries-regular",
+      "brand_name": "Great Steak",
+      "food_type": "Brand"
+    }
+  ]
+}

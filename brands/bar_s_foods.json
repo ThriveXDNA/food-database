@@ -1,13 +1,9 @@
 {
   "brand_name": "Bar-S Foods",
-  "brand_id": 39,
-  "total_items": 61,
-  "pages_extracted": 20,
-  "last_updated": "2025-09-07T01:56:50.201Z",
+  "total_items": 50,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:55:39.001Z",
   "source": "FatSecret Platform API (OAuth 1.0)",
-  "extraction_method": "Complete API compliant brand search",
-  "api_requests_used": 20,
-  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/bar_s_foods.json",
   "items": [
     {
       "food_id": "47072",
@@ -356,83 +352,6 @@
       "food_id": "2709011",
       "food_name": "Bun Length Smoked Sausage",
       "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-s-foods/bun-length-smoked-sausage",
-      "brand_name": "Bar-S Foods",
-      "food_type": "Brand"
-    },
-    {
-      "food_id": "2953567",
-      "food_name": "Thick Sliced Bacon",
-      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-s-foods/thick-sliced-bacon",
-      "brand_name": "Bar-S Foods",
-      "food_type": "Brand"
-    },
-    {
-      "food_id": "43672014",
-      "food_name": "Quarter Pound Beef Jumbo Jumbos",
-      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-s-foods/quarter-pound-beef-jumbo-jumbos",
-      "brand_name": "Bar-S Foods",
-      "food_type": "Brand"
-    },
-    {
-      "food_id": "73580574",
-      "food_name": "Beef Franks",
-      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-s-foods/beef-franks",
-      "brand_name": "Bar-S Foods",
-      "food_type": "Brand"
-    },
-    {
-      "food_id": "524766",
-      "food_name": "Beef Jumbo Franks",
-      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-s-foods/beef-jumbo-franks",
-      "brand_name": "Bar-S Foods",
-      "food_type": "Brand"
-    },
-    {
-      "food_id": "67007",
-      "food_name": "Premium Deli Turkey Breast",
-      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-s-foods/premium-deli-turkey-breast",
-      "brand_name": "Bar-S Foods",
-      "food_type": "Brand"
-    },
-    {
-      "food_id": "113432",
-      "food_name": "Original Jumbo Franks",
-      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-s-foods/original-jumbo-franks",
-      "brand_name": "Bar-S Foods",
-      "food_type": "Brand"
-    },
-    {
-      "food_id": "11783552",
-      "food_name": "Jumbo Premium Beef Franks",
-      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-s-foods/jumbo-premium-beef-franks",
-      "brand_name": "Bar-S Foods",
-      "food_type": "Brand"
-    },
-    {
-      "food_id": "102288",
-      "food_name": "Smoked White Turkey Slices",
-      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-s-foods/smoked-white-turkey-slices",
-      "brand_name": "Bar-S Foods",
-      "food_type": "Brand"
-    },
-    {
-      "food_id": "82878",
-      "food_name": "Turkey Smoked Bacon",
-      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-s-foods/turkey-smoked-bacon",
-      "brand_name": "Bar-S Foods",
-      "food_type": "Brand"
-    },
-    {
-      "food_id": "53345485",
-      "food_name": "Cheddar Hot Links",
-      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-s-foods/cheddar-hot-links",
-      "brand_name": "Bar-S Foods",
-      "food_type": "Brand"
-    },
-    {
-      "food_id": "51197",
-      "food_name": "Deli Thin Cut Oven Roasted Turkey Breast",
-      "food_url": "https://foods.fatsecret.com/calories-nutrition/bar-s-foods/deli-thin-cut-oven-roasted-turkey-breast",
       "brand_name": "Bar-S Foods",
       "food_type": "Brand"
     }

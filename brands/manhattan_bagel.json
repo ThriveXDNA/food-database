@@ -1,0 +1,489 @@
+{
+  "brand_name": "Manhattan Bagel",
+  "total_items": 68,
+  "pages_extracted": 6,
+  "total_search_results": 925,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:48:05.493Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/manhattan_bagel.json",
+  "items": [
+    {
+      "food_id": "79928",
+      "food_name": "Everything Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/everything-bagel",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79886",
+      "food_name": "Yogurt & Fruit Parfait with Granola",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/yogurt-and-fruit-parfait-with-granola",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80027",
+      "food_name": "NY Lox Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/ny-lox-bagel",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80006",
+      "food_name": "Cranberry Orange Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/cranberry-orange-muffin",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79947",
+      "food_name": "Focaccia Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/focaccia-bread",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79953",
+      "food_name": "Egg Bacon & Cheese on Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/egg-bacon-and-cheese-on-bagel",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79934",
+      "food_name": "Egg Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/egg-bagels",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79932",
+      "food_name": "Cinnamon Raisin Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/cinnamon-raisin-bagels",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79935",
+      "food_name": "Jalapeno Cheddar Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/jalapeno-cheddar-bagels",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79940",
+      "food_name": "Plain Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/plain-bagels",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79943",
+      "food_name": "Sourdough Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/sourdough-bagels",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79930",
+      "food_name": "Cheddar Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/cheddar-bagels",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80035",
+      "food_name": "Vegetable Garden Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/vegetable-garden-sandwich",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79985",
+      "food_name": "Turkey on Bagel Deli Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/turkey-on-bagel-deli-sandwich",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79941",
+      "food_name": "Pumpernickel Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/pumpernickel-bagels",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79955",
+      "food_name": "Egg Pork Roll & Cheese on Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/egg-pork-roll-and-cheese-on-bagel",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80034",
+      "food_name": "Tuna Salad on Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/tuna-salad-on-bagel",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80001",
+      "food_name": "Blueberry Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/blueberry-muffin",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79983",
+      "food_name": "Ham on Bagel Deli Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/ham-on-bagel-deli-sandwich",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79942",
+      "food_name": "Rye Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/rye-bagels",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79946",
+      "food_name": "Whole Wheat Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/whole-wheat-bagels",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79956",
+      "food_name": "Egg Sausage & Cheese on Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/egg-sausage-and-cheese-on-bagel",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79949",
+      "food_name": "Egg & Bacon on Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/egg-and-bacon-on-bagel",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80016",
+      "food_name": "Chicken Salad on Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/chicken-salad-on-bagel",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79954",
+      "food_name": "Egg Ham & Cheese on Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/egg-ham-and-cheese-on-bagel",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79975",
+      "food_name": "Lox Cream Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/lox-cream-cheese",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79952",
+      "food_name": "Egg & Sausage on Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/egg-and-sausage-on-bagel",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79933",
+      "food_name": "Cranberry Orange Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/cranberry-orange-bagels",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79929",
+      "food_name": "Blueberry Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/blueberry-bagels",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79882",
+      "food_name": "Onion Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/onion-bagel",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79999",
+      "food_name": "Potato Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/potato-salad",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80005",
+      "food_name": "Corn Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/corn-muffin",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79944",
+      "food_name": "Spinach Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/spinach-bagels",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79950",
+      "food_name": "Egg & Ham on Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/egg-and-ham-on-bagel",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79931",
+      "food_name": "Chocolate Chip Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/chocolate-chip-bagels",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79974",
+      "food_name": "Reduced Fat Honey Almond Cream Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/reduced-fat-honey-almond-cream-cheese",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79977",
+      "food_name": "Plain Cream Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/plain-cream-cheese",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79937",
+      "food_name": "Marble Rye Bagels",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/marble-rye-bagels",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80037",
+      "food_name": "Village Veggie Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/village-veggie-sandwich",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80033",
+      "food_name": "Tribeca Turkey Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/tribeca-turkey-sandwich",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80017",
+      "food_name": "Cuban Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/cuban-chicken-sandwich",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80023",
+      "food_name": "Great White Tuna Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/great-white-tuna-sandwich",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79984",
+      "food_name": "Roast Beef on Bagel Deli Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/roast-beef-on-bagel-deli-sandwich",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80028",
+      "food_name": "Pizza Bagel with Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/pizza-bagel-with-cheese",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80012",
+      "food_name": "Buffalo Chicken Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/buffalo-chicken-sandwich",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80025",
+      "food_name": "Mediterranean Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/mediterranean-sandwich",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79976",
+      "food_name": "Reduced Fat Maple Raisin Walnut Cream Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/reduced-fat-maple-raisin-walnut-cream-cheese",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80000",
+      "food_name": "Banana Nut Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/banana-nut-muffin",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80040",
+      "food_name": "White Fish Salad Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/white-fish-salad-sandwich",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80019",
+      "food_name": "Egg Salad on Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/egg-salad-on-bagel",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79964",
+      "food_name": "Naked Egg & Cheese Dish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/naked-egg-and-cheese-dish",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79982",
+      "food_name": "Reduced Fat Vegetable Cream Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/reduced-fat-vegetable-cream-cheese",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79987",
+      "food_name": "Ham & Cheese Omelet Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/ham-and-cheese-omelet-wrap",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79959",
+      "food_name": "Low Carb Bagel with Egg & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/low-carb-bagel-with-egg-and-cheese",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79951",
+      "food_name": "Egg & Pork Roll on Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/egg-and-pork-roll-on-bagel",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79979",
+      "food_name": "Reduced Fat Scallion Cream Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/reduced-fat-scallion-cream-cheese",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79993",
+      "food_name": "Garden Market with Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/garden-market-with-chicken-salad",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80007",
+      "food_name": "Double Dutch Chocolate Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/double-dutch-chocolate-muffin",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80021",
+      "food_name": "Empire State Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/empire-state-sandwich",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79994",
+      "food_name": "Garden Market with Tuna Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/garden-market-with-tuna-salad",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80003",
+      "food_name": "Cinnamon Chip Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/cinnamon-chip-muffin",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79969",
+      "food_name": "Pork Roll & Cheese on Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/pork-roll-and-cheese-on-bagel",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79966",
+      "food_name": "Naked Pork Roll, Egg & Cheese Dish",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/naked-pork-roll-egg-and-cheese-dish",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79986",
+      "food_name": "Bacon & Cheese Omelet Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/bacon-and-cheese-omelet-wrap",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79995",
+      "food_name": "Grilled Chicken Caesar Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/grilled-chicken-caesar-salad",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80015",
+      "food_name": "Chicken Caesar Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/chicken-caesar-wrap",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79961",
+      "food_name": "Low Carb Bagel with Egg, Ham & Cheese",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/low-carb-bagel-with-egg-ham-and-cheese",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "80018",
+      "food_name": "Deli Turkey on Low Carb Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/manhattan-bagel/deli-turkey-on-low-carb-bagel",
+      "brand_name": "Manhattan Bagel",
+      "food_type": "Brand"
+    }
+  ]
+}

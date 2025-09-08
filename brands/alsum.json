@@ -1,0 +1,34 @@
+{
+  "brand_name": "Alsum",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 3,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:36:57.320Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/alsum.json",
+  "items": [
+    {
+      "food_id": "4200546",
+      "food_name": "Premium Gold Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alsum/premium-gold-potatoes",
+      "brand_name": "Alsum",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6459016",
+      "food_name": "Russet Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alsum/russet-potatoes",
+      "brand_name": "Alsum",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "13179127",
+      "food_name": "Premium Red Potatoes",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/alsum/premium-red-potatoes",
+      "brand_name": "Alsum",
+      "food_type": "Brand"
+    }
+  ]
+}

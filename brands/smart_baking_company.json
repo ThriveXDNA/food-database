@@ -1,0 +1,34 @@
+{
+  "brand_name": "Smart Baking Company",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 381,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:06:40.541Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/smart_baking_company.json",
+  "items": [
+    {
+      "food_id": "13261737",
+      "food_name": "SmartCake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smart-baking-company/smartcake",
+      "brand_name": "Smart Baking Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "49881597",
+      "food_name": "Chocolate Chip Muffin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smart-baking-company/chocolate-chip-muffin",
+      "brand_name": "Smart Baking Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "43191527",
+      "food_name": "Banana Nut Smartmuf'n",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/smart-baking-company/banana-nut-smartmufn",
+      "brand_name": "Smart Baking Company",
+      "food_type": "Brand"
+    }
+  ]
+}

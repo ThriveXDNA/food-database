@@ -1,0 +1,41 @@
+{
+  "brand_name": "Freedom Foods",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 30,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:17:30.951Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/freedom_foods.json",
+  "items": [
+    {
+      "food_id": "16104253",
+      "food_name": "Cocoa Crunch",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freedom-foods/cocoa-crunch",
+      "brand_name": "Freedom Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16592633",
+      "food_name": "Tropicos",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freedom-foods/tropicos",
+      "brand_name": "Freedom Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15767041",
+      "food_name": "Fruity Rainbow Rocks",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freedom-foods/fruity-rainbow-rocks",
+      "brand_name": "Freedom Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "22129140",
+      "food_name": "Whole Grain Barley Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/freedom-foods/whole-grain-barley-wrap",
+      "brand_name": "Freedom Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "brand_name": "Sheboygan Sausage Company",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 3454,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:07:12.913Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/sheboygan_sausage_company.json",
+  "items": [
+    {
+      "food_id": "23777774",
+      "food_name": "Summer Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sheboygan-sausage-company/summer-sausage",
+      "brand_name": "Sheboygan Sausage Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "11875334",
+      "food_name": "All Beef Quarterback Dog",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sheboygan-sausage-company/all-beef-quarterback-dog",
+      "brand_name": "Sheboygan Sausage Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "63062001",
+      "food_name": "Bratwurst",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sheboygan-sausage-company/bratwurst",
+      "brand_name": "Sheboygan Sausage Company",
+      "food_type": "Brand"
+    }
+  ]
+}

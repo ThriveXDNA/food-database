@@ -1,0 +1,34 @@
+{
+  "brand_name": "Gourmantra Foods",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 15,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:16:39.180Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/gourmantra_foods.json",
+  "items": [
+    {
+      "food_id": "54083",
+      "food_name": "Butter Chicken Indian Meal Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gourmantra-foods/butter-chicken-indian-meal-kit",
+      "brand_name": "Gourmantra Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54192",
+      "food_name": "Tandoori Indian Meal Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gourmantra-foods/tandoori-indian-meal-kit",
+      "brand_name": "Gourmantra Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54193",
+      "food_name": "Channa Masala Indian Meal Kit",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/gourmantra-foods/channa-masala-indian-meal-kit",
+      "brand_name": "Gourmantra Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

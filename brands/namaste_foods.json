@@ -1,0 +1,34 @@
+{
+  "brand_name": "Namaste Foods",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 15,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:17:51.434Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/namaste_foods.json",
+  "items": [
+    {
+      "food_id": "8003196",
+      "food_name": "Gluten Free Organic Perfect Flour Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/namaste-foods/gluten-free-organic-perfect-flour-blend",
+      "brand_name": "Namaste Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2913562",
+      "food_name": "Waffle & Pancake Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/namaste-foods/waffle-and-pancake-mix",
+      "brand_name": "Namaste Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9230761",
+      "food_name": "Perfect Flour Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/namaste-foods/perfect-flour-blend",
+      "brand_name": "Namaste Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

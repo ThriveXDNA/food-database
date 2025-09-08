@@ -1,0 +1,48 @@
+{
+  "brand_name": "Fieldstone Bakery",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 49,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:36:59.600Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/fieldstone_bakery.json",
+  "items": [
+    {
+      "food_id": "21148308",
+      "food_name": "Oatmeal Creme Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fieldstone-bakery/oatmeal-creme-pie",
+      "brand_name": "Fieldstone Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2257740",
+      "food_name": "Fig Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fieldstone-bakery/fig-bar",
+      "brand_name": "Fieldstone Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3034182",
+      "food_name": "Fruit & Grain Bar",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fieldstone-bakery/fruit-and-grain-bar",
+      "brand_name": "Fieldstone Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "69501583",
+      "food_name": "Fudge Round",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fieldstone-bakery/fudge-round",
+      "brand_name": "Fieldstone Bakery",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3204033",
+      "food_name": "Premium Granola Original",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fieldstone-bakery/premium-granola-original",
+      "brand_name": "Fieldstone Bakery",
+      "food_type": "Brand"
+    }
+  ]
+}

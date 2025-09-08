@@ -1,0 +1,20 @@
+{
+  "brand_name": "Premium Choice",
+  "total_items": 1,
+  "pages_extracted": 6,
+  "total_search_results": 2070,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:47:10.930Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/premium_choice.json",
+  "items": [
+    {
+      "food_id": "715101",
+      "food_name": "Turkey Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/premium-choice/turkey-ham",
+      "brand_name": "Premium Choice",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "brand_name": "Diabetic Kitchen",
+  "total_items": 3,
+  "pages_extracted": 2,
+  "total_search_results": 52,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:22:04.690Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/diabetic_kitchen.json",
+  "items": [
+    {
+      "food_id": "54760496",
+      "food_name": "Hazelnut & Cocoa Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/diabetic-kitchen/hazelnut-cocoa-spread",
+      "brand_name": "Diabetic Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "29617125",
+      "food_name": "Almond Butter Granola Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/diabetic-kitchen/almond-butter-granola-cereal",
+      "brand_name": "Diabetic Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "23164856",
+      "food_name": "Cinnamon Pecan Granola Cereal",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/diabetic-kitchen/cinnamon-pecan-granola-cereal",
+      "brand_name": "Diabetic Kitchen",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "brand_name": "Santa Fe Bean Company",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 1388,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:11:01.185Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/santa_fe_bean_company.json",
+  "items": [
+    {
+      "food_id": "2639749",
+      "food_name": "Refried Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/santa-fe-bean-company/refried-beans",
+      "brand_name": "Santa Fe Bean Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3140577",
+      "food_name": "Borracho Beans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/santa-fe-bean-company/borracho-beans",
+      "brand_name": "Santa Fe Bean Company",
+      "food_type": "Brand"
+    }
+  ]
+}

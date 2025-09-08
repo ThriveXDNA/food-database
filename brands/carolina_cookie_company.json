@@ -1,0 +1,27 @@
+{
+  "brand_name": "Carolina Cookie Company",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 1939,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:05:37.671Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/carolina_cookie_company.json",
+  "items": [
+    {
+      "food_id": "4823501",
+      "food_name": "Triple Chunky Chocolate Pecan",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carolina-cookie-company/triple-chunky-chocolate-pecan",
+      "brand_name": "Carolina Cookie Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "14687527",
+      "food_name": "Sugar Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/carolina-cookie-company/sugar-cookie",
+      "brand_name": "Carolina Cookie Company",
+      "food_type": "Brand"
+    }
+  ]
+}

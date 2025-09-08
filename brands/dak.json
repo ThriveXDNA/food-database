@@ -1,0 +1,41 @@
+{
+  "brand_name": "DAK",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:36:21.313Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/dak.json",
+  "items": [
+    {
+      "food_id": "5170927",
+      "food_name": "Premium Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dak/premium-ham",
+      "brand_name": "DAK",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12346588",
+      "food_name": "Honey Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dak/honey-ham",
+      "brand_name": "DAK",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3536842",
+      "food_name": "Lower Sodium Ham",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dak/lower-sodium-ham",
+      "brand_name": "DAK",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2064063",
+      "food_name": "Premium Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dak/premium-bacon",
+      "brand_name": "DAK",
+      "food_type": "Brand"
+    }
+  ]
+}

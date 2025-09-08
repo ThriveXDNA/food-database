@@ -1,40 +1,103 @@
 {
-  "restaurant": "St Dalfour",
-  "total_items": 4,
-  "pages_extracted": 1,
-  "total_search_results": 48,
+  "restaurant": "St. Dalfour",
+  "total_items": 13,
+  "pages_extracted": 2,
+  "total_search_results": 57,
   "discovery_method": "Dynamic restaurant discovery",
-  "last_updated": "2025-09-07T02:03:58.001Z",
+  "last_updated": "2025-09-07T16:23:06.084Z",
   "source": "FatSecret Platform API (OAuth 1.0)",
   "extraction_method": "Discovered restaurant with comprehensive extraction",
   "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/restaurants/st_dalfour.json",
   "items": [
     {
-      "food_id": "83076152",
-      "food_name": "Black Cherry Fruit Spread",
-      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/black-cherry-fruit-spread",
-      "brand_name": "St Dalfour",
+      "food_id": "72638",
+      "food_name": "Strawberry 100% Fruit Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/strawberry-100%25-fruit-spread",
+      "brand_name": "St. Dalfour",
       "food_type": "Brand"
     },
     {
-      "food_id": "79742205",
-      "food_name": "Apricot Spread",
-      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/apricot-spread",
-      "brand_name": "St Dalfour",
+      "food_id": "72477",
+      "food_name": "Four Fruits 100% Fruit Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/four-fruits-100%25-fruit-spread",
+      "brand_name": "St. Dalfour",
       "food_type": "Brand"
     },
     {
-      "food_id": "5223041",
-      "food_name": "Royal Fig",
-      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/royal-fig",
-      "brand_name": "St Dalfour",
+      "food_id": "3779948",
+      "food_name": "Wild Blueberry 100% Fruit Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/wild-blueberry-100%25-fruit-spread",
+      "brand_name": "St. Dalfour",
       "food_type": "Brand"
     },
     {
-      "food_id": "103521718",
-      "food_name": "Red Raspberry Fruit Spread",
-      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/red-raspberry-fruit-spread",
-      "brand_name": "St Dalfour",
+      "food_id": "72642",
+      "food_name": "Black Raspberry 100% Fruit Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/black-raspberry-100%25-fruit-spread",
+      "brand_name": "St. Dalfour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72644",
+      "food_name": "Royal Fig 100% Fruit Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/royal-fig-100%25-fruit-spread",
+      "brand_name": "St. Dalfour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1796032",
+      "food_name": "Orange Marmalade",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/orange-marmalade",
+      "brand_name": "St. Dalfour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9122906",
+      "food_name": "Black Cherry Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/black-cherry-spread",
+      "brand_name": "St. Dalfour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72639",
+      "food_name": "Thick Apricot 100% Fruit Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/thick-apricot-100%25-fruit-spread",
+      "brand_name": "St. Dalfour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72637",
+      "food_name": "Red Raspberry 100% Fruit Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/red-raspberry-100%25-fruit-spread",
+      "brand_name": "St. Dalfour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72643",
+      "food_name": "Red Raspberry & Pomegranate 100% Fruit Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/red-raspberry-and-pomegranate-100%25-fruit-spread",
+      "brand_name": "St. Dalfour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72641",
+      "food_name": "Black Cherry 100% Fruit Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/black-cherry-100%25-fruit-spread",
+      "brand_name": "St. Dalfour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "72640",
+      "food_name": "Cranberry with Blueberry 100% Fruit Spread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/cranberry-with-blueberry-100%25-fruit-spread",
+      "brand_name": "St. Dalfour",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "75798246",
+      "food_name": "Strawberry 100% Fruit Spread (20 g)",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/st-dalfour/strawberry-100-fruit-spread-(20-g)",
+      "brand_name": "St. Dalfour",
       "food_type": "Brand"
     }
   ]

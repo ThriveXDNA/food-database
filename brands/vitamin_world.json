@@ -1,0 +1,41 @@
+{
+  "brand_name": "Vitamin World",
+  "total_items": 4,
+  "pages_extracted": 6,
+  "total_search_results": 269,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:40:50.077Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/vitamin_world.json",
+  "items": [
+    {
+      "food_id": "423806",
+      "food_name": "Omega 3 Fish Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vitamin-world/omega-3-fish-oil",
+      "brand_name": "Vitamin World",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1417184",
+      "food_name": "Collagen",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vitamin-world/collagen",
+      "brand_name": "Vitamin World",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1786768",
+      "food_name": "Triple Strength Fish Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vitamin-world/triple-strength-fish-oil",
+      "brand_name": "Vitamin World",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2676218",
+      "food_name": "Premium Soy Protein Isolate Powder",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/vitamin-world/premium-soy-protein-isolate-powder",
+      "brand_name": "Vitamin World",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "brand_name": "Outstanding Foods",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 15,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:18:16.674Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/outstanding_foods.json",
+  "items": [
+    {
+      "food_id": "71441481",
+      "food_name": "Cheese Balls",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/outstanding-foods/cheese-balls",
+      "brand_name": "Outstanding Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "37249302",
+      "food_name": "Pig Out Pigless Pork Rinds Hella Hot",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/outstanding-foods/pig-out-pigless-pork-rinds-hella-hot",
+      "brand_name": "Outstanding Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67715398",
+      "food_name": "Chill Ranch Puffs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/outstanding-foods/chill-ranch-puffs",
+      "brand_name": "Outstanding Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

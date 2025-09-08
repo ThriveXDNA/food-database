@@ -1,0 +1,41 @@
+{
+  "brand_name": "Dorset Cereals",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 5,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:23:20.033Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/dorset_cereals.json",
+  "items": [
+    {
+      "food_id": "191528",
+      "food_name": "Fruit, Nut & Fiber Muesli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dorset-cereals/fruit-nut-and-fiber-muesli",
+      "brand_name": "Dorset Cereals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "54527",
+      "food_name": "Simply Delicious Muesli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dorset-cereals/simply-delicious-muesli",
+      "brand_name": "Dorset Cereals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "51325",
+      "food_name": "Cranberry, Cherry & Almond Muesli with Semi-Skimmed Milk",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dorset-cereals/cranberry-cherry-and-almond-muesli-with-semi-skimmed-milk",
+      "brand_name": "Dorset Cereals",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "6194867",
+      "food_name": "Berries & Cherries Muesli",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dorset-cereals/berries-and-cherries-muesli",
+      "brand_name": "Dorset Cereals",
+      "food_type": "Brand"
+    }
+  ]
+}

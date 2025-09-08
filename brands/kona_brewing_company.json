@@ -1,0 +1,34 @@
+{
+  "brand_name": "Kona Brewing Company",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 39,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:08:18.290Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/kona_brewing_company.json",
+  "items": [
+    {
+      "food_id": "39217657",
+      "food_name": "Big Wave Golden Ale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kona-brewing-company/big-wave-golden-ale",
+      "brand_name": "Kona Brewing Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5352012",
+      "food_name": "Longboard Island Lager",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kona-brewing-company/longboard-island-lager",
+      "brand_name": "Kona Brewing Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "5421834",
+      "food_name": "Wailua Wheat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/kona-brewing-company/wailua-wheat",
+      "brand_name": "Kona Brewing Company",
+      "food_type": "Brand"
+    }
+  ]
+}

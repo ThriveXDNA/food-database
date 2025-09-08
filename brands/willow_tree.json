@@ -1,0 +1,34 @@
+{
+  "brand_name": "Willow Tree",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 15,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:41:20.824Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/willow_tree.json",
+  "items": [
+    {
+      "food_id": "1951625",
+      "food_name": "Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/willow-tree/chicken-salad",
+      "brand_name": "Willow Tree",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1411898",
+      "food_name": "Premium White Meat Chicken Pie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/willow-tree/premium-white-meat-chicken-pie",
+      "brand_name": "Willow Tree",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45940505",
+      "food_name": "Buffalo Style Chicken Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/willow-tree/buffalo-style-chicken-salad",
+      "brand_name": "Willow Tree",
+      "food_type": "Brand"
+    }
+  ]
+}

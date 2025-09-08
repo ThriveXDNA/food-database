@@ -1,0 +1,34 @@
+{
+  "brand_name": "Awesome Foods",
+  "total_items": 3,
+  "pages_extracted": 1,
+  "total_search_results": 32,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:18:12.171Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/awesome_foods.json",
+  "items": [
+    {
+      "food_id": "45031256",
+      "food_name": "Kale Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/awesome-foods/kale-salad",
+      "brand_name": "Awesome Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "33678172",
+      "food_name": "Nori Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/awesome-foods/nori-bites",
+      "brand_name": "Awesome Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7747543",
+      "food_name": "Mediterranean Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/awesome-foods/mediterranean-wrap",
+      "brand_name": "Awesome Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

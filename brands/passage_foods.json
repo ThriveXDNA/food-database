@@ -1,0 +1,41 @@
+{
+  "brand_name": "Passage Foods",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 16,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:17:33.145Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/passage_foods.json",
+  "items": [
+    {
+      "food_id": "14894589",
+      "food_name": "Street Kitchen Indian Butter Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/passage-foods/street-kitchen-indian-butter-chicken",
+      "brand_name": "Passage Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "17775578",
+      "food_name": "Pad Thai",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/passage-foods/pad-thai",
+      "brand_name": "Passage Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "20480058",
+      "food_name": "Satay Chicken Stir-Fry Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/passage-foods/satay-chicken-stir-fry-sauce",
+      "brand_name": "Passage Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "16177179",
+      "food_name": "Street Kitchen Vietnamese Lemongrass Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/passage-foods/street-kitchen-vietnamese-lemongrass-chicken",
+      "brand_name": "Passage Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

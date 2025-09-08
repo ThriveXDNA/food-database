@@ -1,0 +1,34 @@
+{
+  "brand_name": "Farm Promise",
+  "total_items": 3,
+  "pages_extracted": 2,
+  "total_search_results": 74,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:54:39.092Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/farm_promise.json",
+  "items": [
+    {
+      "food_id": "16326598",
+      "food_name": "Pork Chop",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-promise/pork-chop",
+      "brand_name": "Farm Promise",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12498708",
+      "food_name": "Breakfast Uncured Ham Slices",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-promise/breakfast-uncured-ham-slices",
+      "brand_name": "Farm Promise",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67121740",
+      "food_name": "Slow Smoked Applewood Uncured Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-promise/slow-smoked-applewood-uncured-bacon",
+      "brand_name": "Farm Promise",
+      "food_type": "Brand"
+    }
+  ]
+}

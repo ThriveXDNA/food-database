@@ -1,0 +1,27 @@
+{
+  "brand_name": "Left Hand Brewing Company",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 680,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:12:02.446Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/left_hand_brewing_company.json",
+  "items": [
+    {
+      "food_id": "12351041",
+      "food_name": "Nitro Milk Stout",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/left-hand-brewing-company/nitro-milk-stout",
+      "brand_name": "Left Hand Brewing Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3874769",
+      "food_name": "Stranger Pale Ale",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/left-hand-brewing-company/stranger-pale-ale",
+      "brand_name": "Left Hand Brewing Company",
+      "food_type": "Brand"
+    }
+  ]
+}

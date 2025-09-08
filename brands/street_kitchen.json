@@ -1,0 +1,55 @@
+{
+  "brand_name": "Street Kitchen",
+  "total_items": 6,
+  "pages_extracted": 6,
+  "total_search_results": 261,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:21:52.403Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/street_kitchen.json",
+  "items": [
+    {
+      "food_id": "17192570",
+      "food_name": "Vietnamese Lemongrass Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/street-kitchen/vietnamese-lemongrass-chicken",
+      "brand_name": "Street Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "15976011",
+      "food_name": "Jamaican Jerk Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/street-kitchen/jamaican-jerk-chicken",
+      "brand_name": "Street Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18687829",
+      "food_name": "Yellow Thai Curry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/street-kitchen/yellow-thai-curry",
+      "brand_name": "Street Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "27666528",
+      "food_name": "Japanese Teriyaki Chicken",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/street-kitchen/japanese-teriyaki-chicken",
+      "brand_name": "Street Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "71951676",
+      "food_name": "Chow Mein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/street-kitchen/chow-mein",
+      "brand_name": "Street Kitchen",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "68044531",
+      "food_name": "Red Thai Curry",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/street-kitchen/red-thai-curry",
+      "brand_name": "Street Kitchen",
+      "food_type": "Brand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "brand_name": "Arital",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:56:46.939Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/arital.json",
+  "items": [
+    {
+      "food_id": "19386908",
+      "food_name": "Farmer Cheese 0,5% Fat",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/arital/farmer-cheese-05-fat",
+      "brand_name": "Arital",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "26523562",
+      "food_name": "Cheese Edamer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/arital/cheese-edamer",
+      "brand_name": "Arital",
+      "food_type": "Brand"
+    }
+  ]
+}

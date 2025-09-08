@@ -1,0 +1,27 @@
+{
+  "brand_name": "Bagel Dots",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 908,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:20:27.135Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/bagel_dots.json",
+  "items": [
+    {
+      "food_id": "46489216",
+      "food_name": "Cinnamon Raisin",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bagel-dots/cinnamon-raisin",
+      "brand_name": "Bagel Dots",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "18954406",
+      "food_name": "Kitchen Sink",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/bagel-dots/kitchen-sink",
+      "brand_name": "Bagel Dots",
+      "food_type": "Brand"
+    }
+  ]
+}

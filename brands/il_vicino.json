@@ -1,0 +1,48 @@
+{
+  "brand_name": "Il Vicino",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 6,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:03:48.383Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/il_vicino.json",
+  "items": [
+    {
+      "food_id": "2624529",
+      "food_name": "Rustica Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/il-vicino/rustica-pizza",
+      "brand_name": "Il Vicino",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3488161",
+      "food_name": "Margherita Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/il-vicino/margherita-pizza",
+      "brand_name": "Il Vicino",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3488259",
+      "food_name": "Pizza Al Pesto",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/il-vicino/pizza-al-pesto",
+      "brand_name": "Il Vicino",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2922728",
+      "food_name": "Pepperoni Pizza",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/il-vicino/pepperoni-pizza",
+      "brand_name": "Il Vicino",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3488344",
+      "food_name": "House Salad",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/il-vicino/house-salad",
+      "brand_name": "Il Vicino",
+      "food_type": "Brand"
+    }
+  ]
+}

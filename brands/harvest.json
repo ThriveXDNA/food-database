@@ -1,0 +1,34 @@
+{
+  "brand_name": "Harvest",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 360,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:57:27.725Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/harvest.json",
+  "items": [
+    {
+      "food_id": "10130891",
+      "food_name": "Farmer's Sausage",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harvest/farmers-sausage",
+      "brand_name": "Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "38364635",
+      "food_name": "Thick Sliced Bacon",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harvest/thick-sliced-bacon",
+      "brand_name": "Harvest",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "2795965",
+      "food_name": "Pho Beef Broth Mix",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/harvest/pho-beef-broth-mix",
+      "brand_name": "Harvest",
+      "food_type": "Brand"
+    }
+  ]
+}

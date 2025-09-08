@@ -1,0 +1,27 @@
+{
+  "brand_name": "FatBoy Cookie Company",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 1884,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:04:19.972Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/fatboy_cookie_company.json",
+  "items": [
+    {
+      "food_id": "90682",
+      "food_name": "FatBoy Jr. Cookie",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fatboy-cookie-company/fatboy-jr-cookie",
+      "brand_name": "FatBoy Cookie Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "567397",
+      "food_name": "The Low Fat Boy Ice Cream Sandwich",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/fatboy-cookie-company/the-low-fat-boy-ice-cream-sandwich",
+      "brand_name": "FatBoy Cookie Company",
+      "food_type": "Brand"
+    }
+  ]
+}

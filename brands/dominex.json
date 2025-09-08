@@ -1,0 +1,41 @@
+{
+  "brand_name": "Dominex",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 4,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:59:10.500Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/dominex.json",
+  "items": [
+    {
+      "food_id": "103212",
+      "food_name": "Eggplant Cutlets",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dominex/eggplant-cutlets",
+      "brand_name": "Dominex",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1599430",
+      "food_name": "Veggie Fries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dominex/veggie-fries",
+      "brand_name": "Dominex",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1419131",
+      "food_name": "Vegetarian Meatballs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dominex/vegetarian-meatballs",
+      "brand_name": "Dominex",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1278926",
+      "food_name": "Eggplant Parm Bites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/dominex/eggplant-parm-bites",
+      "brand_name": "Dominex",
+      "food_type": "Brand"
+    }
+  ]
+}

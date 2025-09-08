@@ -1,0 +1,41 @@
+{
+  "brand_name": "Sacramento Baking Company",
+  "total_items": 4,
+  "pages_extracted": 3,
+  "total_search_results": 140,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:04:42.558Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/sacramento_baking_company.json",
+  "items": [
+    {
+      "food_id": "207859",
+      "food_name": "Sliced Sourdough Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sacramento-baking-company/sliced-sourdough-bread",
+      "brand_name": "Sacramento Baking Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1718282",
+      "food_name": "Italian Pizza Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sacramento-baking-company/italian-pizza-bagel",
+      "brand_name": "Sacramento Baking Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "45591081",
+      "food_name": "Sourdough Cheese & Garlic Bagel",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sacramento-baking-company/sourdough-cheese-garlic-bagel",
+      "brand_name": "Sacramento Baking Company",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1503326",
+      "food_name": "Sliced Wheat Bread",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/sacramento-baking-company/sliced-wheat-bread",
+      "brand_name": "Sacramento Baking Company",
+      "food_type": "Brand"
+    }
+  ]
+}

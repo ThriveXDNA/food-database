@@ -1,0 +1,41 @@
+{
+  "brand_name": "Papetti Foods",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 16,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:16:40.287Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/papetti_foods.json",
+  "items": [
+    {
+      "food_id": "1512671",
+      "food_name": "All Whites 100% Liquid Egg Whites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/papetti-foods/all-whites-100%25-liquid-egg-whites",
+      "brand_name": "Papetti Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "82068",
+      "food_name": "Quick Whites",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/papetti-foods/quick-whites",
+      "brand_name": "Papetti Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "1602312",
+      "food_name": "Quick Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/papetti-foods/quick-eggs",
+      "brand_name": "Papetti Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "28381",
+      "food_name": "Better'n Eggs",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/papetti-foods/bettern-eggs",
+      "brand_name": "Papetti Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

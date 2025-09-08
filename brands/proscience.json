@@ -1,0 +1,27 @@
+{
+  "brand_name": "Proscience",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 2,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:50:16.481Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/proscience.json",
+  "items": [
+    {
+      "food_id": "45458804",
+      "food_name": "Best Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/proscience/best-protein",
+      "brand_name": "Proscience",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "47564679",
+      "food_name": "Smart Gainer",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/proscience/smart-gainer",
+      "brand_name": "Proscience",
+      "food_type": "Brand"
+    }
+  ]
+}

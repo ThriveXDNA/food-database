@@ -1,0 +1,27 @@
+{
+  "brand_name": "Nutritional Frontiers",
+  "total_items": 2,
+  "pages_extracted": 2,
+  "total_search_results": 72,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:49:59.775Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/nutritional_frontiers.json",
+  "items": [
+    {
+      "food_id": "5011694",
+      "food_name": "Best Whey Protein",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutritional-frontiers/best-whey-protein",
+      "brand_name": "Nutritional Frontiers",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "79878688",
+      "food_name": "Super Shake",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/nutritional-frontiers/super-shake",
+      "brand_name": "Nutritional Frontiers",
+      "food_type": "Brand"
+    }
+  ]
+}

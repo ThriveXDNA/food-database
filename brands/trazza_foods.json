@@ -1,0 +1,48 @@
+{
+  "brand_name": "Trazza Foods",
+  "total_items": 5,
+  "pages_extracted": 1,
+  "total_search_results": 17,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:18:27.916Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/trazza_foods.json",
+  "items": [
+    {
+      "food_id": "85623284",
+      "food_name": "Tzatziki Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trazza-foods/tzatziki-sauce",
+      "brand_name": "Trazza Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "60395965",
+      "food_name": "Avocado Hummus Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trazza-foods/avocado-hummus-wrap",
+      "brand_name": "Trazza Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "90642799",
+      "food_name": "Mediterranean Wrap",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trazza-foods/mediterranean-wrap",
+      "brand_name": "Trazza Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "67685439",
+      "food_name": "Spinach & Artichoke Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trazza-foods/spinach-artichoke-hummus",
+      "brand_name": "Trazza Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "41324570",
+      "food_name": "Oven Roasted Garlic & Chive Hummus",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/trazza-foods/oven-roasted-garlic-chive-hummus",
+      "brand_name": "Trazza Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

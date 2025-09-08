@@ -1,0 +1,27 @@
+{
+  "brand_name": "Farm to Fork",
+  "total_items": 2,
+  "pages_extracted": 6,
+  "total_search_results": 419,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:55:24.032Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/farm_to_fork.json",
+  "items": [
+    {
+      "food_id": "33973158",
+      "food_name": "Caramelized Onion & Roasted Garlic Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-to-fork/caramelized-onion-roasted-garlic-sauce",
+      "brand_name": "Farm to Fork",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "30196560",
+      "food_name": "Tomato Basil Sauce",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/farm-to-fork/tomato-basil-sauce",
+      "brand_name": "Farm to Fork",
+      "food_type": "Brand"
+    }
+  ]
+}

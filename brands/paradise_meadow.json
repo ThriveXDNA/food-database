@@ -1,0 +1,27 @@
+{
+  "brand_name": "Paradise Meadow",
+  "total_items": 2,
+  "pages_extracted": 1,
+  "total_search_results": 36,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:38:18.814Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/paradise_meadow.json",
+  "items": [
+    {
+      "food_id": "4992311",
+      "food_name": "Leancrans",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/paradise-meadow/leancrans",
+      "brand_name": "Paradise Meadow",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "9516873",
+      "food_name": "Premium Dried Cranberries",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/paradise-meadow/premium-dried-cranberries",
+      "brand_name": "Paradise Meadow",
+      "food_type": "Brand"
+    }
+  ]
+}

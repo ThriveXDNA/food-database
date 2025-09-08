@@ -1,0 +1,41 @@
+{
+  "brand_name": "Stefano Foods",
+  "total_items": 4,
+  "pages_extracted": 1,
+  "total_search_results": 16,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T16:17:45.751Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/stefano_foods.json",
+  "items": [
+    {
+      "food_id": "12679456",
+      "food_name": "Philly Cheese Steak Calzone",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stefano-foods/philly-cheese-steak-calzone",
+      "brand_name": "Stefano Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "12980821",
+      "food_name": "Meatball Calzone",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stefano-foods/meatball-calzone",
+      "brand_name": "Stefano Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "7420996",
+      "food_name": "Pizza Dough",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stefano-foods/pizza-dough",
+      "brand_name": "Stefano Foods",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "8518480",
+      "food_name": "Pepperoni Calzone",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/stefano-foods/pepperoni-calzone",
+      "brand_name": "Stefano Foods",
+      "food_type": "Brand"
+    }
+  ]
+}

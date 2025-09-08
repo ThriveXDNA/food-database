@@ -1,0 +1,34 @@
+{
+  "brand_name": "Wesson Oil",
+  "total_items": 3,
+  "pages_extracted": 6,
+  "total_search_results": 1310,
+  "discovery_method": "Dynamic brand discovery",
+  "last_updated": "2025-09-07T15:50:23.763Z",
+  "source": "FatSecret Platform API (OAuth 1.0)",
+  "extraction_method": "Discovered brand with comprehensive extraction",
+  "github_url": "https://raw.githubusercontent.com/YOUR_USERNAME/food-database/main/brands/wesson_oil.json",
+  "items": [
+    {
+      "food_id": "81221",
+      "food_name": "100% Canola Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wesson-oil/100%25-canola-oil",
+      "brand_name": "Wesson Oil",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "3522218",
+      "food_name": "Best Blend",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wesson-oil/best-blend",
+      "brand_name": "Wesson Oil",
+      "food_type": "Brand"
+    },
+    {
+      "food_id": "262311",
+      "food_name": "100% Pure Natural Corn Oil",
+      "food_url": "https://foods.fatsecret.com/calories-nutrition/wesson-oil/100%25-pure-natural-corn-oil",
+      "brand_name": "Wesson Oil",
+      "food_type": "Brand"
+    }
+  ]
+}
